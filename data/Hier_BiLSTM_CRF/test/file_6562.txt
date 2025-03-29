@@ -1,0 +1,333 @@
+ 
+This order has been divided into the following sections to facilitate analysis A. Introduction B. Submission by Counsel C. National Vaccination Policy D. Separation of Powers E. Issues with the Liberalized Vaccination Policy E.1 Vaccine Procurement and Distribution among Different Categories of the Population E.2 Effects of Vaccination by Private Hospitals under the Liberalized Vaccination Policy E.3 Basis and Impact of Differential Pricing E.4 Vaccine Logistics E.5 Digital Divide F. Conclusion A. Introduction 1.
+Proceedings in the present suo motu writ petition were initiated on 22 April 2021, when this Court took cognizance of the management of the COVID19 pandemic during the second wave.
+Subsequently, hearings were conducted on 23 April 2021, 27 April 2021 and 30 April 2021 when submissions were heard on behalf of the Union of India(UoI interchangeably referred to as the Central Government), States Union Territories(UTs), learned Amici appointed by this Court and some of the intervenors.
+2.
+On 30 April 2021, this Court passed a detailed order in relation, inter alia, to the following issues vaccination policy, supply of essential drugs, supply of medical oxygen, medical infrastructure, augmentation of healthcare workforce and the issues faced by them, and issues of freedom of speech and expression during the COVID19 pandemic.
+In its order, this Court had noted that its observations and directions were in consonance with a boundeddeliberative approach(Sandra Fredman, Adjudication as Accountability
+A Deliberative Approach in Nicholas Bamforth and Peter Leyland (eds), Accountability in the Contemporary Constitution (Oxford University Press, 2013))
+and hence, the UoI was directed to reconsider its policies on the above issues, taking into account this Courts observations.
+3 Following the order dated 30 April 2021, another two judge Bench of this Court heard a Special Leave Petition(Union of India vs Rakesh Malhotra and another, SLP (Civil) (Diary)
+No 11622 of 2021) against an order of the High Court of Delhi in relation to the supply of medical oxygen to the National Capital Territory(NCT) of Delhi.
+During the course of the proceedings in that matter, the Bench primarily issued directions in relation to the supply of medical oxygen to the NCT of Delhi.
+However, through its order dated 6 May 2021, it also constituted a National Task Force to provide a public heath response to the COVID19 pandemic on the basis of a scientific approach.
+The terms of reference of this National Task Force included, inter alia, assessing and making recommendations for the need, availability and distribution of medical oxygen devising a methodology for allocation of medical oxygen and periodical review of the allocation based on the stage of the pandemic providing recommendations for augmenting the supplies of oxygen facilitating audits in each State UT to determine whether oxygen supplies had reached its destination efficacy, transparency and efficiency of the distribution networks within the State UT providing recommendations for ensuring availability of essential drugs, augmentation of medical and paramedical staff, management of the pandemic and treatment of cases.
+4. During the course of the proceedings on 31 May 2021, we had the benefit of perusing the details provided in the affidavit filed by the UoI on 9 May 2021.
+The submissions contained in the affidavit were supplemented and updated in the hearing by Mr Tushar Mehta, learned Solicitor General of India, appearing on behalf of the Central Government.
+We have further heard the learned Amici, Mr Jaideep Gupta and Ms Meenakshi Arora, learned Senior counsel.
+5.
+Since the last hearing in this matter, the second wave of the COVID19 pandemic has started receding across the nation and the situation appears to have become more manageable.
+Hence, some of the issues discussed in the previous orders can await further deliberation.
+However, the issue of vaccination is absolutely crucial, since health experts globally agree that vaccination of the nations entire eligible population is the singular most important task in effectively combating the COVID19 pandemic in the long run.
+Hence, during the course of the proceedings on 31 May 2021, this Court has limited itself to hearing submissions on the UoIs vaccination policy and its roadmap for the future.
+By way of abundant clarification, we note that all of the issues contained in this Courts previous orders still retain their overall importance, and this Court shall continue to monitor them alongside the National Task Force and intervene whenever necessary.
+6.
+It is also important to note that numerous interlocutory applications and affidavits by individual State UT Governments and members of civil society have been filed before us in this matter.
+We have perused them to understand the key issues being raised there, along with the helpful notes provided by the Amici.
+B. Submission by Counsel 7.
+Mr Tushar Mehta, learned Solicitor General, relying on the UoIs affidavit dated 9 May 2021, has made the following submissions to supplement it, in view of the recent updates (i)
+The vaccination drive will be complete by the end of December 2021, and the Central Government is in active talks with foreign vaccine manufacturers at the highest political and diplomatic levels, to ensure the adequate supply of vaccines (ii) It would be incorrect to state that a consequence of the UoIs updated policy on vaccination of those in the 1844 age group is that there will be competition amongst the States UTs and (iii) Everyone above the age of 45 years can continue to get vaccinated at a facility through onsite registration, without previously having to book an appointment through CoWIN.
+8.
+Mr Jaideep Gupta and Ms Meenakshi Arora, learned Senior counsel and Amid, have raised the following issues relating to vaccination distribution, augmentation of vaccine production and differential pricing of vaccines and the future preparedness for dealing with the COVID19 pandemic (i) With respect to the procurement of vaccines, reports suggest that foreign vaccine manufacturers are generally not receptive or open to a dialogue with State UT Governments on the basis that, as a matter of corporate policy, they only deal with federal governments of different nations (ii) Since 1978 till 1 May 2021, the UoI has implemented the Universal Immunization Programme(UIP) under which essential vaccines were procured by the UoI and were distributed to States UTs free of cost for administering them to the end beneficiary.
+The said policy has held the test of times.
+Even during the vaccination drive for COVID19 in phases 1 and 2 for vaccination of healthcare workers(HCWs), frontline workers(FLWs) and persons above the age of 45 years, the UoI procured all the vaccines and distributed them to State UT Governments for administration.
+The single procurement model has also been followed by other nations for ensuring fast and effective administration of vaccines against COVID19 (iii) The UIP has been replaced by the Liberalized Pricing and Accelerated National COVID19
+Vaccination Strategy(Liberalized Vaccination Policy) from 1 May 2021 in phase 3 of the vaccination drive, whereby State UT Governments or private hospitals are required to procure vaccines for persons between the age group of 1844 years from the private manufacturers on the basis of a pro rata quota set by the UoI (iv) The Liberalized Vaccination Policy leaves the State UT Governments to fend for themselves, rather than the Central Government acting on behalf of the entire nation.
+As a consequence, the vaccine manufacturers are free to implement a differential procurement price for the UoI for vaccinating persons above 45 years of age, and for the State UT Governments and private hospitals for vaccinating the persons between 1844 years of age (v) While the Liberalized Vaccination Policy has been introduced to spur competitive prices, there are multiple States UTs competing to purchase a scarce commodity from a few vaccine manufacturers.
+Consequently, the manufacturers have the advantage of creating a monopoly and selling it at any price that they desire to private healthcare institutions.
+The State UT Governments do not enjoy the unique position of the UoI, which has the advantage of being a monopolistic buyer and can negotiate an appropriate price for the vaccines on behalf of the entire population of India (vi) The Liberalized Vaccination Policy puts an undue burden on persons between the age group of 1844 years, specifically persons belonging to a poor socioeconomic background, who have to purchase two doses of vaccines either from the State UT Governments or private hospitals (vii)
+In the alternative, the UoI has stated that all State UT Governments have agreed to vaccinate their population free of cost and have undertaken to bear the burden of the vaccines which are available at a higher purchase price than the one available to the UoI.
+Thus, the end beneficiary is not impacted by the differential pricing in the Liberalized Vaccination Policy.
+With regard to this submission, the Amici have raised the following concerns (a) While some States UTs have announced that they will vaccinate their population for free, this policy statement must be confirmed by the State UT Governments on affidavit before this Court.
+The Liberalized Vaccination Policy as it stands today, does not incorporate a condition whereby the cost of vaccination is imposed on the State UT Governments.
+Instead, the end beneficiary is liable to pay the cost.
+There is a necessity for the State UT Governments to place their decisions on record and for it to be part of the formal policy, such that persons can enforce their right to free vaccination, including before the courts (b) Although the State UT Governments may have announced free vaccination for their population, some of them are contesting the Liberalized Vaccination Policy before this Court and have advanced submissions for universal vaccination by the Central Government.
+Thus, it cannot conclusively be stated that State UT Governments have agreed to the policy decision taken by the Central Government of deviating from the single procurement model (c) The Liberalized Vaccination Policy, as a consequence of its differential pricing, treats individuals living across India residing in different States UTs unequally, as States UTs that are financially distressed may not be able to afford to purchase the vaccines at the prices set by the vaccine manufacturers or to lift the quantity allocated to them and (d)
+The end result of the Liberalized Vaccination Policy is that the UoI can purchase vaccines at Rs 150 per dose for Covishield and Covaxin, while the State UT Governments have to pay Rs 300 and Rs 400 per dose respectively.
+If the UoI were to be the single procurement agency for all vaccines at a fixed cost, then the cost of vaccination to the public exchequer would be substantially lower.
+Thus, it is incorrect to suggest that the end beneficiary, who contributes to the public exchequer, will not be unduly impacted (viii) Although public health is a subject under Entry 6 of List II (State List) of the Seventh Schedule to the Constitution, Entry 81 of List I (Union List) deals with interState migration and interState quarantine and Entry 29 of List III (Concurrent List) deals with prevention of extension from one State to another of infectious or contagious diseases.
+Thus, the management of the pandemic, control of the spread of COVID19, vaccination policy and pricing, are the responsibility of the Central Government, which must work in tandem with the State UT Governments.
+The Liberalized Vaccination Policy, by putting the burden of vaccination of persons between 1844 years of age on the State UT Governments, conflicts with this constitutional balance of responsibilities between the Centre and States UTs (ix) With regard to the vaccine distribution, the Liberalized Vaccination Policy has created a quota of 502525 for the 1844 age group.
+The quota of 25 that is available to State UT Governments, which is equivalent to the private hospitals, is extremely disproportionate and not in touch with societal realities, as a large number of persons may not be able to afford two doses of a vaccine from a private hospital.
+Thus, if State UT Governments are to bear the burden of vaccinating a majority of the persons in their States UTs, the quota available to the private hospitals must be reduced (x) The Liberalized Vaccination Policy does not provide any clarity on the basis of the pro rata allotment of the doses to each State UT (available for purchase by the State UT Government and private hospitals).
+The Policy does not indicate whether such apportionment will be on the basis of population state of the pandemic in each State UT or the number of persons with comorbidities between 1844 years of age, among others.
+Further, the Policy does not indicate whether the pro rata allotment will be made by the UoI or the private vaccine manufacturer (xi) It is reported that UoI on certain occasions has stated that it will refrain from interfering in the issue of vaccine distribution.
+Contrarily, UoI has also been stated that it may decide to redistribute the vaccines procured by it among State UT Governments.
+The basis on which the redistribution of vaccines will take place among States UTs has not been provided in the policy document (xii)
+The Liberalized Vaccination Policy does not provide for prioritizing of persons with comorbidities persons with disabilities or suffering from other illnesses caregivers for the elderly and sick teachers and others in the age group of 1844 years.
+Further, the CoWIN application is not built with functions which prioritize a certain category of persons, as it only books appointments on a firstcumfirstserved basis (xiii)
+News reports indicate that crematorium workers have either not been vaccinated, or are unaware that they are eligible for vaccination in phases 1 and 2 (xiv)
+With regard to preparedness, the UoI has claimed that it will be able to vaccinate a substantial number of persons (around 100 crore persons requiring 200 crore doses) by December 2021.
+However, no projections have been shared with this Court regarding how this target would be achieved.
+Based on reports, it appears that the UoI has factored a number of vaccines that are currently in their development stages to reach its projected number of 200 crore doses.
+This approach would be misguided as the success and efficacy of vaccines that are currently in the stage of clinical trials is uncertain and cannot be guaranteed (xv)
+There is material to suggest that the augmentation of vaccine production will be inadequate to vaccinate the population between 1844 years of age.
+The total population of this age group is 59 crores, which would require around 122 crore doses.
+Based on reports, the existing manufacturers (Serum Institute of India(SII) and Bharat Biotech India Limited(BBIL)) will be able to produce less than 10 crore doses per month.
+Optimistically, around 1520 crores doses of Sputnik V will be available per month.
+At this rate, it would take around 12 months for the population in this age group to be inoculated, by which time the virus may have mutated, causing further waves of the pandemic (xvi)
+Meanwhile, there is a necessity to ensure that guidelines regarding standardization of masks are formulated and publicized.
+Thus, medical guidance is necessary to ensure that masks of appropriate quality are produced and distributed free of cost to curb the spread of the infection and (xvii)
+It has been reported that due to dearth of electric crematoria, persons who have succumbed to COVID19 are not dignified with a proper cremation and are cremated without any rituals.
+The UoI and State UT Governments may consider forming appropriate guidelines which augment the creation of infrastructure for electric crematoria and a protocol for cremation of the dead.
+C. National Vaccination Policy 9.
+Phase 1 of the National COVID19 Vaccination Strategy was launched on 16 January 2021 and 1 February 2021 and was targeted towards protecting HCWs and FLWs.
+Phase 2 was initiated on 1 March 2021 and 1 April 2021, and was directed towards protecting the most vulnerable population in the age group of persons above 45 years of age.
+In phase 1 and 2, the UoI was procuring the vaccines and distributing them to the States UTs free of cost for disbursal through government and private COVID19 vaccination centres.
+The private facilities were not allowed to charge a sum above Rs 250 per person per dose (Rs 150 for vaccines and Rs 100 as operational charges) from a beneficiary.
+10.
+During phase 2, eligible beneficiaries could register and book appointments for vaccination on the CoWIN 2.0 portal or other IT applications such as Aarogya Setu.
+From 1 March 2021 onwards, the population aged 60 years or which would attain the age of 60 years or more as on 1 January 2022 was eligible to register on the CoWIN platform.
+Further, persons who were aged 45 years or would attain the age of 45 years to 59 years as on 1 January 2022 and had any of the 20 specified comorbidities were also eligible to register on the CoWIN platform.
+From 1 April 2021 onwards, all persons who were aged 45 years or would attain the age of 45 years to 59 years as on 1 January 2022 were eligible to register on the CoWIN platform.
+Onsite registration facility was also made available at vaccination centres in this phase.
+11.
+In phase 3, a Liberalized Vaccination Policy was introduced by the UoI, which came into effect on 1 May 2021.
+We have perused the documents available in the public domain (guidance note(Guidance Note For COWIN 2.0 dated 28 February 2021, available at https www.mohfw.gov.in pdf GuidancedocCOWIN2.pdf), press releases(Press releases dated 28 February 2021 and 19 April 2021, available at https pib.gov.in PressReleseDetail.aspx?PRID1701549 and https pib.gov.in PressReleseDetail.aspx?PRID1712710) and policy document(Liberalized Pricing and Accelerated National Covid19 Vaccination Strategy dated 24 April 2021, available at https www.mohfw.gov.in pdf LiberalisedPricingandAcceleratedNationalCovid19VaccinationStrategy 2042021.pdf)) issued by the Central Government to understand the written policy of the Central Government with regard to phase 3.
+Based on such documents, the main elements of the Liberalized Vaccination Policy can be identified as (i) Vaccine manufacturers are required to supply 50 of their monthly Central Drugs Laboratory(CDL) doses to the UoI and would be free to supply the remaining 50 doses to State UT Governments and in other than Government of India channel(other than GoI channel)
+(ii) Manufacturers were required to make a declaration of the price of the 50 supply that would be available to State UT Governments and in the other than GoI channel before 1 May 2021.
+Based on this price, States UTs, private hospitals and industrial establishments through their hospitals may procure vaccines from the manufacturers.
+Private hospitals would be able to procure their supplies only from the 50 supply earmarked for other than GoI channel (iii)
+The prices charged for vaccination by private hospitals would be monitored.
+As a result, the earlier dispensation where private COVID19 vaccination centres which received doses from the UoI could charge up to Rs 250 per dose ceased to exist (iv) The population which is now eligible to obtain vaccines at UoIs vaccination centres is limited to HCWs, FLWs and those above 45 years of age.
+The population between 1844 years is eligible to obtain vaccines from other than GoI channel (v) The vaccination would continue to be available for free for eligible population groups in those vaccination centres which receive their vaccine doses from UoI (vi) The vaccination would continue to be a part of the National Vaccination Programme and would follow all existing guidelines.
+The CoWIN platform would capture the vaccination, stocks and price per vaccination applicable in all vaccination centres.
+The vaccination drive would comply with Adverse Event Following Immunization management and reporting, digital vaccination certificate and all other prescribed norms (vii)
+The division of 50 supply to UoI and 50 to other than GoI channel would be applicable uniformly across all the vaccine manufactures in the country (viii) The fully ready to use imported vaccines are allowed to be utilized entirely in the other than GoI channel and (ix) The UoI from its share will allocate vaccines to States UTs based on criteria of performance (speed of administration, average consumption) and extent of infection (number of COVID19 cases).
+Wastage of vaccines would also be considered in the criteria and would affect the allocation negatively.
+Based on the above criteria, a Statewise quota would be decided and communicated to the States UTs in advance.
+12.
+The facility of only online appointment on the CoWIN portal was initially introduced for the entirety of the population between the ages of 1844 years.
+Later, on 24 May 2021(Available at https www.pib.gov.in PressReleasePage.aspx?PRID1721225), the UoI announced that onsite registration will be made available for the 1844 years age group.
+However, this is contingent on (i) the State UT Government enabling this policy and (ii) only in cases of wastage at a particular government COVID19 vaccination centre due to a noshow by an online appointee.
+Further, this facility has not been expanded to private COVID19 vaccination centres.
+D. Separation of Powers 13.
+At the outset, we seek to clarify the nature of this Courts jurisdiction in the exercise of the power of judicial review over the management of the COVID19 pandemic in India.
+In its affidavit dated 9 May 2021, the UoI has highlighted a few concerns which are detailed below (i) The executive is battling an unprecedented crisis and the government needs discretion to formulate policy in larger interest and its wisdom should be trusted (ii)
+The current vaccine policy conforms to Articles 14 and 21 of the Constitution, and requires no interference from the courts as the executive has room for free play in the joints while dealing with a pandemic of this magnitude (iii) The current steps are thoughtfully undertaken to tide over an imminent crisis, which may turn out to be imprudent in the long run.
+However, they need to be appreciated from a shortterm and holistic perspective (iv) Judicial review over executive policies is permissible only on account of manifest arbitrariness.
+No interference from judicial proceedings is called for when the executive is operating on expert medical and scientific opinion to tackle a medical crisis and (v) Any overzealous judicial intervention, though wellmeaning, in the absence of expert advice or administrative experience may lead to unintended circumstances where the executive is left with little room to explore innovative solutions.
+14.
+It is trite to state that separation of powers is a part of the basic structure of the Constitution.
+Policymaking continues to be in the sole domain of the executive.
+The judiciary does not possess the authority or competence to assume the role of the executive, which is democratically accountable for its actions and has access to the resources which are instrumental to policy formulation.
+However, this separation of powers does not result in courts lacking jurisdiction in conducting a judicial review of these policies DDA vs. Joint Action Committee, (2008) 2 SCC 672.
+Our Constitution does not envisage courts to be silent spectators when constitutional rights of citizens are infringed by executive policies.
+Judicial review and soliciting constitutional justification for policies formulated by the executive is an essential function, which the courts are entrusted to perform.
+15.
+We had clarified in our order dated 30 April 2021, that in the context of the public health emergency with which the country is currently grappling, this Court appreciates the dynamic nature of the measures.
+Across the globe, the executive has been given a wider margin in enacting measures which ordinarily may have violated the liberty of individuals, but are now incumbent to curb the pandemic.
+Historically, the judiciary has also recognized that constitutional scrutiny is transformed during such public health emergencies, where the executive functions in rapid consultation with scientists and other experts.
+In 1905, the Supreme Court of the United States in Jacobson vs. Massachusetts, 197 U.S. 11 (1905) considered a constitutional liberty challenge to a compulsory vaccination law that was enacted to combat the smallpox epidemic.
+Justice Harlan had noted the complex role of the government in battling public health emergencies in the following terms the State may invest local bodies called into existence for purposes of local administration with authority in some appropriate way to safeguard the public health and the public safety While this court should guard with firmness every right appertaining to life, liberty or property as secured to the individual by the Supreme Law of the Land, it is of the last importance that it should not invade the domain of local authority except when it is plainly necessary to do so in order to enforce that law.
+The safety and the health of the people of Massachusetts are, in the first instance, for that Commonwealth to guard and protectSo far as they can be reached by any government, they depend, primarily, upon such action as the State in its wisdom may take, and we do not perceive that this legislation has invaded any right secured by the Federal Constitution.
+The Supreme Court of United States, speaking in the wake of the present COVID19 pandemic in various instances, has overruled policies by observing, inter alia, that Members of this Court are not public health experts, and we should respect the judgment of those with special expertise and responsibility in this area.
+But even in a pandemic, the Constitution cannot be put away and forgotten(Roman Catholic Diocese of Brooklyn, New York vs. Cuomo, 592 U.S., 141 S. Ct. 63) and a public health emergency does not give Governors and other public officials carte blanche to disregard the Constitution for as long as the medical problem persists.
+As more medical and scientific evidence becomes available, and as States have time to craft policies in light of that evidence, courts should expect policies that more carefully account for constitutional rights(Calvary Chapel Dayton Valley vs. Steve Sisolak, Governor of Nevada, et al, 140 S.Ct. 2603 (Mem) (Justice Alito Dissenting Opinion)).
+16.
+Similarly, courts across the globe have responded to constitutional challenges to executive policies that have directly or indirectly violated rights and liberties of citizens.
+Courts have often reiterated the expertise of the executive in managing a public health crisis, but have also warned against arbitrary and irrational policies being excused in the garb of the wide latitude to the executive that is necessitated to battle a pandemic.
+This Court in Gujarat Mazdoor Sabha vs. State of Gujarat, AIR 2020 SC 4601 , para 9 albeit while speaking in the context of labour rights, had noted that policies to counteract a pandemic must continue to be evaluated from a threshold of proportionality to determine if they, inter alia, have a rational connection with the object that is sought to be achieved and are necessary to achieve them.
+17.
+In grappling with the second wave of the pandemic, this Court does not intend to secondguess the wisdom of the executive when it chooses between two competing and efficacious policy measures.
+However, it continues to exercise jurisdiction to determine if the chosen policy measure conforms to the standards of reasonableness, militates against manifest arbitrariness and protects the right to life of all persons.
+This Court is presently assuming a dialogic jurisdiction where various stakeholders are provided a forum to raise constitutional grievances with respect to the management of the pandemic.
+Hence, this Court would, under the auspices of an open court judicial process, conduct deliberations with the executive where justifications for existing policies would be elicited and evaluated to assess whether they survive constitutional scrutiny.
+E. Issues with the Liberalized Vaccination Policy E.1 Vaccine Procurement and Distribution among Different Categories of the Population 18.
+In our order dated 30 April 2021, the UoI was directed to clarify its vaccination procurement and distribution policy, especially after the introduction of the Liberalized Vaccination Policy.
+We had also directed the UoI to apprise this Court regarding the projected numbers of vaccinations that would be made available in the coming months to the public and the efforts being taken to augment vaccine production.
+In its affidavit dated 9 May 2021, UoI has made the following submissions (i) The vaccination policy for COVID19 that was adopted prior to 1 May 2021 in phases 1 and 2, was designed as a system of prioritization.
+After vaccinating the HCWs and FLWs, vaccination was opened up for age groups on account of their heightened vulnerability and mortality to COVID19, in consonance with the WHO guidelines and international practice (ii) In phase 1, HCWs (starting from 16 January 2021) and FLWs (starting from 2 February 2021) were vaccinated.
+In phase 2, persons above 60 years of age and persons over 45 years of age with certain comorbidities (starting from 1 March 2021) and all persons over 45 years of age (starting from 1 April 2021) were eligible for vaccination.
+This priority was accorded in view of the fact that COVID19 deaths across the world demonstrate that over 85 of all deaths occurred in the age group over 45 years (iii) FLWs such as municipal workers (including crematorium workers) and panchayat workers were also vaccinated in phase 1 of the vaccination drive (iv) With effect from 1 May 2021, the Liberalized Vaccination Policy was implemented as a response to repeated requests by State UT Governments, and after detailed deliberations with domain experts.
+The parallel decentralized policy aims to achieve higher efficiency and reach (v) Currently, vaccine manufacturers are obligated to supply 50 of their monthly CDL released doses to the UoI and the remaining 50 doses to the other than GoI channel which can be procured by State UT Governments, private hospitals and hospitals of industrial establishments to vaccinate persons in the age group of 1844 years (vi) The priority of the UoI remains vaccinating persons aged 45 years and above for free since they are more vulnerable.
+The simultaneous vaccinations for persons aged between 1844 years has been introduced to respect the wishes of the State UT Governments.
+In view of the differential vulnerability and mortality rates, the Liberalized Vaccination Policy conforms to the mandate of Articles 14 and 21 of the Constitution (vii)
+In order to eliminate disparity in bargaining powers, the Central Government has, in consultation with the vaccine manufacturers determined the prorata population of each State in the age group of 1844 and each State will procure only that quantity (viii) The Central Government will notify States UTs, every fortnight, on the quantity of vaccines that will be distributed for vaccinating persons aged 45 years and above (ix) With regard to the augmentation of production of vaccines, it is stated that the National Expert Group on Vaccine Administration for COVID19(NEGVAC) had procured 6.6 crore doses for the initial phases.
+Support for other vaccine candidates under clinical development is being provided by the Mission COVID Suraksha the Indian COVID19 Vaccine Development Mission (x) The Central Government is in talks with several vaccine developers manufacturers outside India and is seeking to facilitate imports.
+The Drugs Controller General of India(DCGI) has already approved import of 1.5 lakh doses of the Sputnik V vaccine by Dr Reddys Laboratories (xi) The availability of vaccines for the next 6 months would be difficult to project as it is dynamic and contingent on foreign procurement and successful ramping of production by the two existing manufacturers (xii)
+However, it is also stated that manufacturing capacity is being increased in the following terms (a) SII from 5 crore doses month to 6.5 crore doses month by July 2021 (b) BBIL from 90 lakh doses month to 2 crore doses month, and further increase to 5.5 crore doses month by July 2021 and (c) Sputnik V from 30 lakh doses to 1.2 crore doses month by July 2021 and (xiii)
+The regulatory and testing process for foreign vaccines has been simplified by the NEGVAC which now allows bridging trials (a nearly 4month long process) of foreign vaccines to occur simultaneously with market development.
+19.
+Based on the response of the UoI and the submissions made by the Amici, we understand that there are three broad issues that are of concern (i) vaccine distribution between different age groups (ii) vaccine procurement process and (iii) the augmentation of the vaccine availability in India.
+20.
+The affidavit of the UoI sufficiently clarifies the prioritization of the groups in phases 1 and 2 for obtaining the COVID19 vaccines.
+These include HCWs, FLWs and persons above the age of 45 years.
+The prioritization of these groups was based on the experience of India and other countries during the first wave of the pandemic in 2020.
+It was largely observed that these groups faced a higher risk of infection and thus, it was necessary to inoculate them free of cost and on a priority basis by the Central Government.
+During the vaccination for these groups, the Central Government had allowed onsite registration and there was no prior requirement for booking an appointment on CoWIN.
+Having said that, the vaccination policy has been substantially changed for persons between 1844 years of age.
+The Liberalized Vaccination Policy requires some of these persons to pay for the vaccines limited vaccines are made available for this category with the State UT Governments private hospitals and an additional requirement of mandatory digital registration and booking an appointment through CoWIN has been imposed, among others.
+Unlike the prior policy, the Liberalized Vaccination Policy does not prioritize persons with comorbidities and other diseases, persons with disabilities, or any other vulnerable groups.
+This is especially at issue because the experience of the second wave of the pandemic has provided an experiential learning that the COVID19 virus is capable of mutation and now poses a threat to persons in this age group as well.
+Reports indicate that persons between 1844 years of age have not only been infected by COVID19, but have also suffered from severe effects of the infection, including prolonged hospitalization and, in unfortunate cases, death.
+Due to the changing nature of the pandemic, we are now faced with a situation where the 1844 age group also needs to be vaccinated, although priority may be retained between different age groups on a scientific basis.
+Hence, due to the importance of vaccinating individuals in the 1844 age group, the policy of the Central Government for conducting free vaccination themselves for groups under the first 2 phases, and replacing it with paid vaccination by the State UT Governments and private hospitals for the persons between 1844 years is, prima facie, arbitrary and irrational.
+21.
+With regard to the procurement process for vaccinations which is to be followed in view of the Liberalized Vaccination Policy, there are a number of issues that need to be addressed.
+The Amici have indicated that many State UT Governments and local municipal bodies have issued tenders and attempted to negotiate with foreign manufacturers but they have largely been unsuccessful, as foreign manufacturers are not inclined to negotiate with individual State UT Governments and prefer negotiating with federal governments of countries.
+Additionally, it has been urged that Central Government is also better placed to use its monopoly as a buyer (India being the second most populous country) to bargain for higher quantities of vaccines at reasonable prices.
+We find that the submissions urged by the Amici are extremely pertinent and have indicated that in practice, the Liberalized Vaccination Policy may not be able to yield the desired results of spurring competitive prices and higher quantities of vaccines.
+22.
+Additionally, the Liberalized Vaccination Policy seeks to remove the issue of bargaining disparities by stating that each State UT would have a prefixed pro rata quota based on their population in the 1844 age group, 50 of which will be available to the State UT Governments and 50 to the private hospitals.
+The Amici have raised concerns that there is a lack of clarity regarding whether the UoI will intervene in the distribution process.
+Given that interState barriers in India are porous and persons are free to migrate and work in different parts of the country, it is essential to understand if the pro rata allotment will take into account such migration to more densely populated industrial and urban States UTs.
+Other concerns, such as the stage of the pandemic, the healthcare infrastructure and existing capacities of a State UT, the literacy rate, age and overall health condition of its population, may also be relevant factors in making such a pro rata determination.
+The UoI should thus specify whether it seeks to address these concerns within the vaccination policy such that the State UT Governments have a realistic assessment of the assistance they can anticipate from the UoI. 23.
+We shall now address the issue related to augmentation of vaccine production availability.
+We have noted the submissions of the UoI in its affidavit dated 9 May 2021, that it is difficult to predict the projections for vaccines given that it depends on variable factors such as introduction of new foreign vaccines, capability of increased production by existing manufacturers, among others.
+Mr Tushar Mehta has during the course of his oral submissions stated that he is in a position to address these concerns of this Court and that the UoI aims to vaccinate approximately 100 crore persons by the end of December 2021.
+Mr Mehta has agreed to provide a detailed roadmap regarding projected availability of vaccines from the various vaccine manufacturers.
+It has also been highlighted that the Central Government is in active negotiations with various private foreign manufacturers to augment the availability of vaccines in the near future.
+24.
+In view of the above, we direct the UoI to undertake a fresh review of its vaccination policy addressing the concerns raised.
+Further, we direct the UoI to provide the following clarifications As noted above, the UoI is directed to place on record a roadmap of projected availability of vaccines till 31 December 2021
+The preparedness with respect to specific needs of children in the event of a third wave of the pandemic in terms of medical infrastructure, vaccination trials and regulatory approval, and compatible drugs Whether under the policy of the UoI, it is permissible for State UT Governments or individual local bodies to access vaccine supplies of foreign manufacturers
+The number of crematorium workers vaccinated in phase 1.
+A targeted drive can be conducted for vaccination of the remaining crematorium workers The State UT Governments are diverting the vaccines (procured by them at a higher price than Central Government) for the persons in the age group of 1844 years to vaccinate persons above 45 years of age, due to a shortage of vaccines being supplied by the Central Government.
+The manner in which the Central Government will factor this quantity and price differential into their subsequent allocation and disbursal of vaccines to States UTs for the persons above 45 years of age and The mechanism for redistribution, if the 2525 quota in a particular State UT is not picked up by the State UT Government or the private hospitals.
+E.2 Effects of Vaccination by Private Hospitals under the Liberalized Vaccination Policy 25.
+Under the Liberalized Vaccination Policy covering persons in the age group of 1844 years, the total vaccines produced will be divided in a ratio of 502525 between the Central Government, State UT Governments and private hospitals.
+In its affidavit dated 9 May 2021, the UoI notes the following salient features of this Liberalized Vaccination Policy, in relation to vaccination by private hospitals (i) Out of the 50 quota allocated for the other than GoI channel, 50 will go to the State UT Governments, calculated on a pro rata basis as per the population.
+The balance 50 would be open for private hospitals procurement, based on contracts with the manufacturers.
+As such, the State UT Governments and private hospitals would each end up with 25 of the total CDL doses (ii) Vaccination through the private sector of 25 of the total CDL quantity would reduce the operational stress on government facilities and help with issues of crowding at vaccination centres and (iii) Paid vaccination through private hospitals has been introduced for persons who can afford to pay, thereby reducing the operational stress on the Government.
+However, it has also been submitted that this policy may undergo a change based on performance and future availability of vaccines.
+26.
+As a consequence of this Liberalized Vaccination Policy, 50 of the population of any State UT in the 1844 age group is expected to pay for its vaccination.
+From the UoIs affidavit, we understand that this has been done while taking into account the ability of a certain section of the population to pay for their vaccination.
+However, the present system of allowing only digital registration and booking of appointment on CoWIN, coupled with the current scarcity of vaccines, will ultimately ensure that initially all vaccines, whether free or paid, are first availed by the economically privileged sections of the society.
+As such, even those who may have been able to afford a vaccine, may opt for a free vaccine simply because of issues of availability, even if it would entail travelling to farflung rural areas.
+Hence, any calculations of the economic ability of a given individual may not directly correspond to the vaccination route (paid unpaid) they opt for.
+Consequently, it is plausible that private hospitals may have vaccine doses left over with them because everyone who could afford them has either already bought it or availed of a free vaccine, while those who need it may not have the ability to pay for it.
+27.
+Further consequences of the vaccination by private hospitals under the Liberalized Vaccination Policy relate to a simple issue at the core of their existence that while they provide a public health service, they still remain private, forprofit entities.
+Consequently, they may sell the vaccine doses procured at a higher price, unless regulated stringently.
+Private hospitals also may not sell all their vaccine doses publicly through appointments on CoWIN, but rather sell them for lucrative deals directly to private corporations who wish to vaccinate their employees.
+Finally, private hospitals are not equally spread out across a State UT and are often limited to bigger cities with large populations.
+As such, a larger quantity will be available in such cities, as opposed to the rural areas.
+28.
+It is pertinent to clarify here that we are not opposed to the involvement of private hospitals in the vaccination drive.
+Private health care institutions have an important role as well.
+The UoI has correctly noted in its affidavit that these hospitals will reduce the burden on government facilities.
+This was also happening earlier for the vaccination of those above 45 years of age, where the Central Government was providing these hospitals with vaccines and they were allowed to charge patients a nominal fee (Rs 250).
+However, the issue is about the effect of privatizing 50 of all vaccines available for the 1844 age group.
+In view of the above concerns, we direct the UoI to provide the following clarifications The manner in which Central Government will monitor the disbursal of vaccines to private hospitals, specifically those who have hospital chains pan India.
+Further, whether (i) private hospitals are liable to disburse vaccines pro rata the population of States UTs and (ii) the mechanism to determine if private players are genuinely administering the lifted quota in that State UT alone.
+The UoI shall place on record any written policy in relation to this.
+Whether the Central Government conducted a meanstest of the demographic of a State UT to assert that 50 of the population in the 1844 age group would be able to afford the vaccine.
+If not, the rationale for private hospitals being provided an equal quota for procurement as the State UT Governments.
+The manner in which the Centre and States UTs shall ensure an equitable distribution of vaccines across sections of the society, and how this factors into the rationale of equal apportionment between State UT Governments and private hospitals.
+The nature of the intervention with respect to the final, enduser price that is being charged by private hospitals, especially when a cap on procurement by the private hospitals has been set.
+E.3 Basis and Impact of Differential Pricing Impact of differential pricing 29.
+In our order dated 30 April 2021, we had elicited the UoIs justification for enabling decentralized procurement where a prefixed and differential price was set for the Central Government, States UTs and private hospitals.
+The UoI through its affidavit dated 9 May 2021, has submitted the following (i)
+The Liberalized Vaccination Policy was introduced to incentivize existing manufacturers and invite more manufacturers, which will ensure fastest vaccination of the majority of the population.
+Differential pricing has been introduced in order to instill a competitive market which would drive the market towards affordability and attract offshore vaccine manufacturers (ii) Vaccine manufacturers are mandated to transparently declare the price in advance for procurement by State UT Governments and private hospitals.
+The price for the Central Government is prefixed and declared (iii) Extensive consultations with the manufacturers were held to ensure that pricing is uniform and reasonable.
+The UoI stated that these were due to consultations and persuasion by the Central Government (iv) On the differential pricing of the vaccines, it is stated that the Central Government by nature of its large vaccination programme, places large purchase orders for vaccines as opposed to the State Governments and or Private Hospitals and therefore, this reality has some reflection in the prices negotiated and (v) In any event, all persons of all age groups will get free vaccination throughout the country since all State UT Governments have announced free vaccination for persons aged 1844 years, in addition to the Central Government vaccinating persons over 45 years for free.
+30.
+The current Liberalized Vaccination Policy enables State UT Governments and private hospitals to procure 50 of the monthly CDL approved doses in the country at a prefixed price.
+The justification for this Policy has been adduced in a bid to spur competition which would attract more private manufacturers that could eventually drive down prices.
+Prima facie, the only room for negotiation with the two vaccine manufacturers was on price and quantity, both of which have been prefixed by the Central Government.
+This casts serious doubts on UoIs justification for enabling higher prices as a competitive measure.
+Furthermore, the Central Government justifying its lower prices on account of its ability to place large purchase orders for vaccines, raises the issue as to why this rationale is not being employed for acquiring 100 of the monthly CDL doses.
+The Union Budget for Financial Year 20212022 had earmarked Rs 35000 crores for procuring vaccines(Available at https www.indiabudget.gov.in doc BudgetSpeech.pdf, page 7).
+In light of the Liberalized Vaccination Policy, the Central Government is directed to clarify how these funds have been spent so far and why they cannot be utilized for vaccinating persons aged 1844 years.
+31.
+In response to our questions on the poor and marginalized suffering on account of the vaccine prices, the Central Government in its affidavit stated that the eventual beneficiary of the vaccine would not be affected by the Liberalized Vaccination Policy since every State UT has promised to vaccinate its residents free of cost.
+Nevertheless, it is reiterated that the UoI should consider utilizing its position as the monopolistic buyer in the market and pass down the benefit to all persons.
+Even if the States UTs were to fund the higherpriced vaccines, a burden they were not discharging before the Liberalized Vaccination Policy was introduced and potentially may not have planned in advance for, these funds are expended at the behest of the public exchequer.
+The Centre and States UTs, both operate in the service of the Indian population, and raise and disburse funds in their name.
+The additional funds expended on procuring vaccines against a deadly pandemic are necessary expenditure for any State UT Government which has battled the public health emergency for over 15 months now.
+However, an avoidable expense would eventually hurt the welfare of individuals residing within those States UTs, who may potentially be benefitted by the differential funds being utilized for ramping up the health infrastructure in the State UT, which is equally important to combat the pandemic.
+If the Central Governments unique monopolistic buyer position is the only reason for it receiving vaccines at a much lower rate from manufacturers, it is important for us to examine the rationality of the existing Liberalized Vaccination Policy against Article 14 of the Constitution, since it could place severe burdens, particularly on States UTs suffering from financial distress.
+Basis of pricing 32.
+In our order dated 30 April 2021, we had requested for data on government funding and support, direct or indirect, into the two vaccines that are currently authorized for public use  SIIs Covishield and BBILs Covaxin.
+Additionally, in order to evaluate the bottlenecks in vaccine scarcity, we had sought the UoIs stance on invoking its powers of compulsory licensing under the Patents Act, 1970 in order to ramp up manufacturing and other statutory provisions to drive down costs.
+The UoI has adduced the following justifications in its affidavit dated 9 May 2021 (i) SII and BBIL have taken a financial risk in developing and manufacturing these vaccines and prudence dictates pricing through a transparent and consultative negotiation, and statutory provisions must be invoked in the last resort (ii) Covaxin is developed under a publicprivate partnership through a formal MoU between Indian Council of Medical Research(ICMR) and BBIL.
+ICMR would receive a 5 royalty on net sales, the intellectual property is shared between ICMR and BBIL and clauses such as prioritization of incountry supplies have been included.
+Phase 3 trials of Covaxin have been funded by the ICMR to the tune of Rs 35 crores (iii) Covishield is manufactured by SII.
+The Central Government has directly transferred Rs 11 crores to 14 clinical trials sites for conducting phase 3 trials of over 1600 participants and (iv) Covaxin production is being augmented with government support to the tune of Rs 200 crores to one private manufacturer and 3 public sector manufacturing facilities  Bharat Biotech, Hyderabad Indian Immunologicals, Hyderabad Haffkine Biopharmaceuticals, Mumbai and Bharat Immunologicals and Biologicals, Bulandshar.
+This is projected to enhance Covaxins current manufacturing of 1 crore doses month to nearly 10 crore doses month in the next 810 months.
+Grantinaids have been recommended, but the disbursements are yet to be made.
+33.
+We commend the cooperative efforts of the UoI and the private manufacturers in developing and distributing vaccines which are critical to mitigate the pandemic.
+The import of our further line of questioning is to facilitate a better understanding of the process of development and augmentation of vaccine production and its pricing for States UTs and private hospitals.
+Hence, we direct that the UoI to provide the following clarifications Since the Central Government has financed (officially, Rs 35 crores to BBIL and Rs 11 crore to SII for phase 3 clinical trials) and facilitated the production (or augmentation of production) of these vaccines through concessions or otherwise, it may not be accurate to state that the private entities have alone borne the risk and cost of manufacture.
+Additionally, the Central Government would have minimized the risks of the manufacturers by granting Emergency Use Authorization to the vaccines, which should factor into its pricing.
+The manner in which public financing is reflected in the procurement price for the Central Government, which is significantly lower than price for the State UT Governments and private hospitals.
+Given that the RD cost and IP have either been shared between the Central Government and the private manufacturer (in case of Covaxin) or the manufacturer has not invested in RD of the vaccine (in case of Covishield), the manner in which the pricing of vaccines has been arrived at, with the Central Government refusing to intervene statutorily.
+The justification for intervening in prefixing procurement prices and quantities for States UTs and private hospitals, but not imposing statutory price ceilings.
+Comparison between the prices of vaccines being made available in India, to their prices internationally.
+Whether ICMR BBIL formally invited contracts for voluntary licensing and if so, whether they have they received viable offers.
+The manner in which the UoI is independently trying to assist manufacturers for developing BSL3 labs which are essential for Covaxin production.
+E.4 Vaccine Logistics 34.
+We have already noted that as a consequence of the Liberalized Vaccination Policy, the responsibility for the vaccination in phase 3 is being divided between the Central Government (for those above 45 years of age, HCWs and FLWs) and the State UT Government along with the private hospitals (for the age group of 1844 years).
+This would mean that the limited vaccine logistics available in a State UT would have to be shared between the State UT Government and the Central Government.
+This is different from the situation under the UIP, where the Central Government buys and allocates vaccines to States UTs, in order to ensure that their cold storage facilities are not overwhelmed.
+Hence, we direct the UoI to provide the following clarifications The manner in which cold storage equipment capacity is being balanced between the Central and State UT Governments.
+The manner in which the States UTs are managing the logistical burden for vaccinating persons aged between 1844 years, along with persons aged over 45 years.
+Whether cold storage facilities in India have increased for the COVID19 vaccination drive the present numbers, and comparison with the numbers prior to March 2020
+Whether the cold storage equipment is indigenously manufactured or is imported.
+If it is imported, the steps which have been taken to start indigenous manufacturing.
+The steps being taken to improve the cold storage management for vaccines which may require lower temperature to be stored, compared to the ones which currently have approval in India.
+E.5 Digital Divide 35.
+In our order dated 30 April 2021, we had highlighted the concerns relating to the ability of the marginalized members of society to avail of vaccination, exclusively through a digital portal in the face of a digital divide.
+The UoIs affidavit made the following submissions in relation to the accessibility of the CoWIN portal (i) The CoWIN portal enables one person to register 4 persons using the same mobile number (ii) All gram panchayats in the country have Common Service Centres(CSC) which can effectively enable people residing in rural areas to register online for the vaccination (iii) Citizens who do not have access to digital resources could take help from family, friends, NGOs and CSCs (iv) Walkins cannot be permitted due to the scarcity of vaccines and fears of overcrowding at centres.
+The online registration requirement counters this fear and also effectively monitors the administration of the second dose.
+The policy may be reconsidered subsequently when more vaccines are available (v) Identity proofs are required for the purpose of determining age and keeping a track of persons who are due for the second dose.
+However, in recognizing the issues arising with the insistence of one of the seven prescribed photoID proofs, the Central Government issued an SoP dated 23 April 2021 which enables bulk registration of certain identifiable groups, such as homeless persons, who would be identified and registered by the District Immunization Task Force and (vi) It is clarified that walkin vaccination facilities will continue for persons over the age of 45 years in separate, designated vaccination centres.
+This is because vaccinations have been underway for this age group for a while and overcrowding has not been experienced so far.
+36.
+A survey on Household Social Consumption Education was conducted by National Statistics Office (July 2017June 2018)(Available at http mospi.nic.in sites default files publicationreports Report58575throundEducationfinal15070.pdf) which revealed the following (i) Around 4 of the rural households and 23 of the urban households possessed a computer.
+In the age group of 1529 years, around 24 in rural households and 56 in urban areas were able to operate a computer and (ii) Nearly 24 of the households in the country had internet access during the survey year 201718.
+The proportion was 15 in rural households and 42 in urban households.
+Around 35 of persons in the age group of 1529 years reported use of internet during the 30 days prior to the date of survey.
+The proportions were 25 in rural areas and 58 in urban areas.
+37.
+The Telecom Regulatory Authority of India in its report titled Wireless Data Services in India(Available at https www.trai.gov.in sites default files WirelessDataServiceReport210820190.pdf) noted that (i) Out of the total population of 1.3 billion, only 578 million people in India (less than 50) have subscription to wireless data services.
+The wireless tele density in rural areas is 57.13 as compared to 155.49 in urban areas as on 31 March 2019.
+The report stated that this reflects the ruralurban divide in terms of telecom services penetration.
+Since, the number of wireless data subscribers are less than 50 of the total wireless access subscribers, the number of wireless data subscribers in rural areas would be much lower.
+(ii) The report also noted that in a few Indian States like Bihar, Uttar Pradesh and Assam the tele density is less than 75 and (iii) The monthly income of persons living below the poverty line in urban areas and rural areas is Rs 1316 and Rs 896, respectively.
+However, to access internet data services, a minimum tariff plan would cost around Rs 49, which includes 1 GB data every 28 days.
+This would constitute 45 of the months income of such persons accessing data.
+As such, the report notes that this would bear a considerable cost for persons living below the poverty line.
+38.
+According to the Annual Report of CSC for 201920, published by the Ministry of Electronics and Information Technology, while there are 2,53,134 Gram Panchayats in India, as on 31 March 2020 only 2,40,792 Gram Panchayats are covered with at least one registered CSC(Available at https csc.gov.in assets eventsreport AnnualReport201920.pdf, at page 8).
+Hence, approximately 13,000 Gram Panchayats in India do not have a CSC.
+39.
+It is clear from the above statistics that there exists a digital divide in India, particularly between the rural and urban areas.
+The extent of the advances made in improving digital literacy and digital access falls short of penetrating the majority of the population in the country.
+Serious issues of the availability of bandwidth and connectivity pose further challenges to digital penetration.
+A vaccination policy exclusively relying on a digital portal for vaccinating a significant population of this country between the ages of 1844 years would be unable to meet its target of universal immunization owing to such a digital divide.
+It is the marginalized sections of the society who would bear the brunt of this accessibility barrier.
+This could have serious implications on the fundamental right to equality and the right to health of persons within the above age group.
+In this regard, we direct that the UoI to provide the following clarifications It may not be feasible to require the majority of our population to rely on friends NGOs for digital registrations over CoWIN, when even the digitally literate are finding it hard to procure vaccination slots.
+The issue of overcrowding may also arise at CSCs in rural areas where people would have to visit constantly in hope of a vaccine slot opening up.
+Certain vaccination centres may be earmarked for onsite registrations for the population aged between 1844 years without the existing conditions prescribed in the circular dated 24 May 2021, potentially with a view to prioritize those with comorbidities disabilities other socioeconomic vulnerabilities.
+Alternatively, whether specific daily quotas may be introduced for onsite registration at each centre or specific centres.
+This policy may not allay the issue of hesitancy which may arise from approaching a State authority (such as the District Immunization Task Force) to obtain registration for the vaccination.
+Whether onsite registration with selfattestation of age to ensure widespread vaccination can be provided.
+The CoWIN platform and other IT applications like Aarogya Setu should be made available in regional languages.
+The timeline for ensuring the availability of the platform in multiple regional languages.
+Conducting a disability audit for the CoWIN website and other IT application like Aarogya Setu to ensure that they are accessible to persons with disabilities.40.
+It has been brought to our notice that the CoWIN platform is not accessible to persons with visual disabilities.
+The website suffers from certain accessibility barriers which should be addressed.
+These include (i) Audio or text captcha is not available (ii)
+The seven filters, which inter alia, include age group, name of vaccine and whether the vaccine is paid or free, are not designed accessibly.
+This issue can be addressed by creation of a dropdown list (iii) While visually challenged persons can determine the number of available vaccine slots, one cannot find out the day those slots correspond to.
+This can be resolved by ensuring that table headers correspond to associated cells (iv) Keyboard support for navigating the website is absent (v) Adequate time should be given to disabled users to schedule their appointment without the possibility of being automatically logged off and (vi) Accessibility protocols, such as use of appropriate colour contrasts, should be adhered to.
+F. Conclusion 41.
+We direct the UoI to file an affidavit, which shall address the issues and questions raised in Section E, wherein it shall ensure that each issue is responded to individually and no issue is missed out.
+We also direct that the affidavit should provide the following information The data on the percentage of population that has been vaccinated (with one dose and both doses), as against eligible persons in the first three phases of the vaccination drive.
+This shall include data pertaining to the percentage of rural population as well as the percentage of urban population so vaccinated The complete data on the Central Governments purchase history of all the COVID19 vaccines till date (Covaxin, Covishield and Sputnik V).
+The data should clarify (a) the dates of all procurement orders placed by the Central Government for all 3 vaccines (b) the quantity of vaccines ordered as on each date and (c) the projected date of supply and An outline for how and when the Central Government seeks to vaccinate the remaining population in phases 1, 2 and 3.
+The steps being taken by the Central Government to ensure drug availability for mucormycosis.42.
+While filing its affidavit, UoI shall also ensure that copies of all the relevant documents and file notings reflecting its thinking and culminating in the vaccination policy are also annexed on the vaccination policy.
+Hence, we direct the UoI to file its affidavit within 2 weeks.
+43.
+We also note that UoIs stated position in its affidavit dated 9 May 2021 is that every State UT Government shall provide vaccination free of cost to its population.
+It is important that individual State UT Governments confirm deny this position before this Court.
+Further, if they have decided to vaccinate their population for free then, as a matter of principle, it is important that this policy is annexed to their affidavit, so that the population within their territories can be assured of their right to be vaccinated for free at a State vaccination centre.
+Hence, we direct each of the State UT Governments to also file an affidavit within 2 weeks, where they shall clarify their position and put on record their individual policies.

@@ -1,0 +1,245 @@
+ Subba Rao, J. 1.	None
+This appeal by certificate raises the main question whether S. 2(6A)(d) of the Indian Incometax Act, 1922, hereinafter called the Act, is ultra vires the Central Legislature.	None
+2.	None
+The assessee, a public limited company, was incorporated on May 23, 1945, under the Indian Companies Act, 1913, with a share capital of Rs. 50 lakhs.	Facts
+On December 15, 1947, at the instance of the appellant the High Court sanctioned the reduction of the capital of the company from Rs. 50 lakhs to Rs. 25 lakhs.	Facts
+On December 16, 1953, the High Court sanctioned a further reduction of the share capital from Rs. 25 lakhs to Rs. 15 lakhs.	Facts
+On November 4, 1954, the Registrar of Companies granted the requisite certificate under S. 61(4) of the Indian Companies Act.	Facts
+On November 5, 1964, the appellant issued notices to the shareholders inviting applications for the refund of share capital so reduced.	Facts
+On the receipt of the applications, appropriate debit entries were made in the accounts of the shareholders and the amounts were actually paid to them during the previous year, i.e., December 1, 1954 to November 30, 1955.	Facts
+Under S. 2(6A)(d) of the Act, dividend includes any distribution by a company on the reduction of its capital to the extent to which the company possesses accumulated profits whether such accumulated profits have been capitalised or not.	Facts
+In assessing the income of the appellantcompany for the assessment year 195657, the Incometax Officer held that the said dividends was distributed during the accounting year and on that finding he calculated the rebate on supertax in terms of Cl.	Facts
+(i)(b) of the second proviso to paragraph D of Part II of the first schedule to the Finance Act, 1956.	Facts
+If the dividends were distributed during the accounting year, i.e., December 1, 1953 to November 30, 1954, the appellant would be entitled to a higher rate of rebate on supertax under Cl.	Facts
+(ii) of the first proviso to paragraph D of Part II of the first schedule to the Finance Act, 1956.	Arguments of Petitioner
+The Incometax Officer further held that the assessees accumulated profits at the time of the reduction of the capital from Rs. 25 lakhs to Rs. 15 lakhs were Rs. 8,42,337/.	Facts
+On appeal the Appellate Assistant Commissioner accepted the said figure arrived at by the Incometax Officer.	Facts
+On further appeal, the Incometax Appellate Tribunal, for the reasons recorded by it in its order, reduced the figure under the said head by a sum of Rs. 3,61,405 .	Facts
+3.	None
+It was contended on behalf of the assessee that inasmuch as the certificate from the Registrar for the reduction of the capital from Rs. 25 lakhs to Rs. 15 lakhs was obtained on November 4, 1954, the distribution of the dividends should be deemed to have taken place during the year 195354 and, therefore, the said dividends were not exigible to tax for the assessment year.	Facts
+The Incometax Officer, the Appellate Assistant Commissioner and the Tribunal concurrently rejected that plea and held that, as the actual payment to the shareholders of the refund of the capital and the debit in the accounts of the shareholders were effected in the accounting year, the said dividends must be held to have been distributed in the accounting year.	Facts
+4.	None
+There is another sum of Rs. 11,68730 received by the appellant as security deposit on account of empty bottles.	Facts
+A question was raised whether the said amount could be considered as capital gains and, therefore, should be excluded from the accumulated profits.	Facts
+The Appellate Tribunal held in favour of the assessee.	Facts
+5.	None
+The assessee and the Commissioner of Incometax filed two applications before the Tribunal for referring questions of law arising out of the Tribunals order to the High Court.	Facts
+The Tribunal referred the following questions of law to the High Court for its opinion.	None
+(1) Whether the provisions of S. 2(8A)(d) of the Indian Incometax Act are ultra vires of the Central Legislature.	Facts
+(2) Whether the accumulated profits amounting to Rs.	Facts
+4,69,214130 could be deemed to have been distributed on the reduction of the capital from Rs. 25 lakhs to Rs. 15 lakhs within the meaning of Section 2(6A)(d) of the Indian Incometax Act.	None
+(3) whether the amount of Rs. 11,68730 received by the assessee as security deposit on account of empty bottles could be considered as Capital Gains.	None
+(4) whether the accumulated profits could be considered as dividend deemed to have been distributed in the assessment year 195556 in view of the certificate granted by the Registrar of Companies under Section 61(4) of the Indian Companies Act, 1913, or could be considered as dividend deemed to have been distributed in the assessment year 195657 because the debits of refunds were actually made in the accounts of the shareholders during the accounting period of the assessment year 195657.	Facts
+6.	None
+The High Court answered all the questions against the assessee, Hence the appeal.	Facts
+7.	None
+Mr. N. C. Chatterjee, learned counsel for the assessee, did not contest the correctness of the answer given by the High Court in regard to the third question and, therefore, nothing further need be said about it.	Reasoning
+8.	None
+The first question is whether S. 2(6A)(d) of the Act is ultra vires the Central Legislature.	None
+Subsection (6A) was inserted in S. 2 of the Act by S. 2 of the Indian Incometax (Amendment) Act, 1939 (Act Vll of 1939).	None
+Section 2(6A)(d) of the Act reads Dividend includes any distribution by a company on the reduction of its capital to the extent to which the company possesses accumulated profits which arose after the end of the previous year ending next before the 1st day of April, 1933, whether such accumulated profits have been capitalised or not.	Facts
+The said Act VII of 1939 was passed by the Central Legislature in exercise of its powers conferred under S. 100 of the Government of India Act, 1935, read with entry 54 of List I of the Seventh Schedule thereof.	None
+Entry 54 read Tax on income other than agricultural income.	None
+Mr. Chatterjee contends that while the said entry 54 enables the appropriate Legislature to impose a tax on income, the Legislature by enlarging the definition of dividend so as to include the amount received by a shareholder towards the share capital contributed by him, which cannot possibly be income, seeks to tax a capital receipt, and therefore, the said clause is ultra vires the Central Legislature.	None
+9.	None
+Mr. R. Ganapathy Iyer, learned counsel for the Revenue, contends that a legislative entry must receive the widest connotation and should not be interpreted in any narrow or restricted sense, and if so construed the said entry enables the Legislature to make a law to prevent evasion of tax on income by devious methods and that the Legislature in the instant case seeks to prevent the growing evil of tax evasion by companies distributing profits under the guise of reduction of capital.	Arguments of Respondent
+10.	None
+It is well settled rule of construction that entries in the legislative lists cannot be read in a narrow or restricted sense they should be construed most liberally and in their widest amplitude.	Reasoning
+In the words of Gwyer, C. J., in United Provinces v. Atiqa Begum, 1940 FCR 110 (AIR 1941 FC 16) each general word should be held to extend to all ancillary or subsidiary matters which can fairly and reasonably be said to be comprehended by it This Court in a number of decisions held that the expression income in entry 54 of List I of the Seventh Schedule to the Government of India Act, 1935, and the corresponding entry 82 of List I of the Seventh Schedule to the Constitution of India, shall be widely and liberally construed so as to enable a Legislature to provide by law for the prevention of evasion of incometax.	None
+In Sardar Baldev Singh v. Commissioner of Incometax, Delhi and Ajmer, 19611 SCR 482 (AIR 1961 SC 736 )	None
+this Court maintained the constitutional validity of S. 23A(1) of the Incometax Act, which empowered the Incometax Officer to impose supertax in a case where a private limited company distributed less than sixty per cent of the total income of the company as dividends on the ground that the object of the section was to prevent avoidance of supertax by shareholders of a company in which the public were not substantially interested.	None
+In Balaji v. Incometax Officer, Special Investigation Circle, Akola, 19622 SCR 983 (AIR 1962 SC 123 )	None
+this Court ruled that S. 16(3)(a)(i) and (ii) of the Income Act, which enabled the Incometax Officer in computing the total income of a person to include the share of the income of his wife and minor sons therein, was constitutionally valid for the reason that it was intended to prevent evasion of tax by persons putting the properties in the names of their wives or minor children, as the case may be.	None
+This Court again in Navnitlal C. Javeri v. K. K. Sen, Appellate Assistant Commissioner of Incometax, D Range, Bombay, Civil Appeal No. 45 of 1964 dated 28101964 (AIR 1965 SC 1375 ) sustained the validity of S. 2(6A)(e) of the Indian Incometax Act, 1922, which included in the definition of dividend, inter alia, payment made by the Company by way of advance or loan to a shareholder to the extent to which the company possessed accumulated profits on the ground that it was a measure to prevent private controlled companies adopting the device of making advances or giving loans to their shareholders with the object of evading payment of tax.	None
+11.	None
+The question in the instant case, therefore, is whether the constitutional validity of S. 2(.6A)(d) of the Act can be supported on the ground that it was enacted to prevent evasion of incometax.	None
+While an entry delineating a legislative field must be widely and liberally construed, there must be a reasonable nexus between the item taxed and the field so delineated.	Reasoning
+The said clause deals with the distribution by a company on the reduction of its capital to the extent to which the company possesses accumulated profits.	Reasoning
+Accumulated profits of a company may be utilised in the following 3 ways (1) for increasing the capital stock (2) for distributing the same among the shareholders by way of dividends and (3) for reducing the capital.	Reasoning
+Ordinarily a company reduces the capital when there is loss or depreciation of assets in that event there is no question of distribution of profits to the shareholders but the shares are only devaluated.	Reasoning
+But a company may, on the pretext of reducing its capital, utilise its accumulated profits to pay back to the shareholders the whole or part of the paid up amounts on the shares.	Reasoning
+A shareholder though in form gets back the whole or a part of the capital contributed by him, in effect he gets a share of the accumulated profits which, if a straightforward course was followed, he should have received as dividend.	Reasoning
+This is a division of profits under the guise of division of capital a distribution of profits under the colour of reduction of capital.	Reasoning
+If this was permitted, there .	Reasoning
+would be evasion of supertax, the extent of the evasion depending upon the prevalence of the evil.	Reasoning
+The Legislature, presumably in the interest of the exchequer, enlarged the definition of dividend to catch the said payments within the net of taxation.	Reasoning
+By doing so, it is really taxing the profits in the hands of the shareholders, though they are receiving the said profits under the cloak of capital.12.	Reasoning
+Learned counsel for the appellant contends that under the Companies Act a company can lawfully reduce the share capital with the sanction of the Court, that there is no prohibition thereunder against such a reduction being made by way of distribution of accumulated profits to the shareholders, that the amounts so paid to them would be in law capital receipts and that, therefore, there could not be in law or in fact any evasion of tax on income.	Arguments of Petitioner
+Reliance is placed upon Ss. 100 to 103 of the Companies Act.	None
+This argument mixes up two aspectsthe legal and fiscal.	Reasoning
+Under Company Law the question of reducing capital is a domestic one for the decision of the majority of shareholders.	Reasoning
+The Court comes into the picture only to see that the reduction is fair and equitable and that the interests of the minority and the creditors do not suffer.	Reasoning
+It may not also be concerned with the motive of the general body in resolving to reduce the capital but the Incometax law is concerned with tax evasion.	Reasoning
+Tax can be evaded by breaking the law, or avoided in terms of the law.	Reasoning
+When there is a factual avoidance of tax in terms of law, the Legislature steps is to amend the Incometax law so that it can catch such an income within the net of taxation.	Reasoning
+There is, therefore, no inconsistency between a receipt being a capital one under the Company law, and by fiction being treted as taxable income under the Incometax Act. 13.	None
+Therefore, as S. 2(6A)(d) of the Act embodies a law to prevent evasion of tax, it falls within the ken of entry 54 of List I of Schedule Seven to Government of India Act, 1935.	None
+14.	None
+The next question is whether the said dividends were distributed in the year 195354, as the appellant contends, or in the accounting year 195455, as the respondent argues.	None
+The relevant sections of the Act in this context are S. 2(6A)(d) and S. 16(2).	None
+Section 2(6A)(d) has been already extracted.	None
+The relevant part of S. 16(2) reads For the purposes of inclusion in the total income of an assessee any dividend shall be deemed to be income of the previous year in which it is paid, credited or distributed . . . .	None
+Dividend, with which we are now concerned, is not that which we ordinarily understand by that expression, but dividend by definition.	None
+Under S. 2(6A)(d) of the Act it is one of the ingredients of the definition that it.	None
+shall have been distributed by a company on reduction of the capital to the extent to which the company possesses accumulated profits.	None
+Under S. 16(2) of the Act such a dividend shall be deemed to be an income of the previous year in which it is paid, credited or distributed.	None
+Unless such a distribution as is mentioned in Cl.	None
+(d) of S. 2(6A) of the Act had taken place, it would not be a dividend.	None
+If it was not so distributed, S. 16(2) of the Act would not be attracted.	None
+To put in other words, if the accumulated profits were distributed.	None
+it would satisfy not only the definition of dividend in Cl.	None
+(d) but also would fix the year in which it would be deemed to be income.	None
+What then is the meaning of the expression distribution ?	None
+The dictionary meaning of the expression distribution is to give each a share, to give to several parsons.	None
+The expression distribution connotes something actual and not notional.	None
+It can be physical it can also be constructive.	None
+One may distribute amounts between different shareholders either by crediting the amount due to each one of them in their respective accounts or by actually paying to each one of them the amount due to him.	None
+This Court had to construct the scope of the word paid in S. 16(2) of the Act in J. Dalmia v. Commissioner of I. T., New Delhi, 196453 ITR (SC) 83 (AIR 1964 SC 1866 ), Shah J., speaking for the Court observed The expression paid in S. 16(2), it is true, does not contemplate actual receipt of the dividend by the members.	None
+In general, dividend may be said to be paid within the meaning of section 16(2) when the company discharges its liability and makes the amount of dividend unconditionally available to the member entitled thereto.	None
+This Court again reaffirmed the said principle in Mrs. P. R. Saraiya v. Commissioner of Incometax, Bombay City, 1, Bombay, Civil Appeals Nos. 704715 of 1963 dated 2291964 (AIR 1965 SC 1263 ) and held that where dividend was not credited to any separate account of the assessee so that he could, if he wished, draw it, it was not credited or paid within the meaning of S, 16(2) of the Act.	Reasoning
+The same meaning must be given to the word distribution.	Reasoning
+The only difference between the expression paid and the expression distribution is that the latter necessarily involves the idea of division between several persons which is the same as payment to several persons.	Reasoning
+15.	None
+At this stage the anomaly that is alleged to flow from our view may conveniently be noticed.	Reasoning
+It is said that there will be different points of time for ascertaining the extent of the accumulated profits, with the result S. 2(6A)(d) of the Act becomes unworkable in practice or at any rate leads to unnecessary complications.	Reasoning
+We do not see any justification for this comment.	Reasoning
+Distribution is a culmination of a process.	Reasoning
+Firstly, there will be a resolution by the General Body of a company for reduction of capital by distribution of the accumulated profits amongst the shareholders secondly, the company will file an application in the Court for an order confirming the reduction of capital thirdly, after it is confirmed, it will be registered by the Registrar of Joint Stock Companies fourthly, after the registration the company issues notices to the shareholders inviting applications for refund of the share capital, and fifthly, on receiving the applications the company will distribute the said profits either by crediting the proportionate share capital to each of the shareholders in their respective accounts or by paying the said amounts in cash.	Reasoning
+Out of the said 5 steps, the first 4 are only necessary preliminary steps which entitle the company to distribute the accumulated profits.	Reasoning
+Credits or payments are related to the said declaration that is to say, distribution is from and out of the accumulated profits resolved to be distributed by the company.	Reasoning
+In this view, the accumulated profits to be distributed are fixed by the resolution and the figure does not change with the date of payment or credit.	Reasoning
+Indeed, a similar process is to be followed in the case of declaration of ordinary dividends firstly, there will be a resolution by the General Body of the company declaring the dividends secondly, thereafter the amounts payable to each of the shareholders are distributed by appropriate credits or payments.	Reasoning
+Dividends may be paid or credited to different shareholders during different accounting years and the shareholders may be assessed in respect , of the said payments in different years.	Reasoning
+Even so the payments are referable only to the declaration of the dividends out of the profits of a particular year.	Reasoning
+This Court, as we have noticed earlier, in the decisions cited supra held that the year of credit or payment to a shareholder was crucial for the purpose of assessment and not the date of declaration.	None
+16.	None
+Let us see whether this, view introduces any complication in the matter of reduction of rebate on supertax payable by the Company.	Issue
+The appellantCompany set up a claim for a rebate on supertax under Cl.	None
+(ii) of the first proviso to paragraph D of Part II of the first schedule to the Finance Act, 1956.	Arguments of Petitioner
+The Company based its claim on the contention that the distribution of dividends on reduction of capital took place during the year ending November 30, 1954, and not during the year ending November 30, 1955, and, therefore, Cl.	Arguments of Petitioner
+(i)(b) of the second proviso to paragraph D of Part II of the first schedule to the Finance Act, 1956, read with Explanation (it) to paragraph D, which provides for reduction of rebate allowable under cl.	Arguments of Petitioner
+(ii) of the first proviso by an amount computed at certain slab rates on the amount of dividends distributed to the shareholders during the previous year, could not be invoked.	Arguments of Petitioner
+To put it in other words, the assessee claimed that as the dividends were not distributed in the accounting year, there could not be any reduction of the rebates under Cl.	Arguments of Petitioner
+(i)(b) of the said proviso.	Arguments of Petitioner
+If as we have held, the distribution was made during the year ending November 30, 1955, i.e., the accounting year when the amounts were paid, the Revenue would be entitled to reduce the rebate by the amount computed at the prescribed rates on the amount of dividends.	None
+Some complication may arise only if we accept the argument that the date of payment fixes the date for ascertaining the quantum of accumulated profits.	Reasoning
+But we have rejected that contention.	Reasoning
+In this view, the claim of reduction of rebate on supertax provided by the first schedule to the Finance Act, 1956, can be worked out without any confusion or complication.	Reasoning
+We, therefore, hold that the dividend must be deemed to have been paid or distributed in the year when it was, actually, whether physically or constructively, paid to the different shareholders, that is to say when the amount was credited to the separate accounts of the shareholders or paid to them.	Reasoning
+17.	None
+What are the facts in the present case?	None
+The High Court, on August 6, 1954, sanctioned the reduction of the capital from Rs. 25 lakhs to Rs. 15 lakhs.	None
+On November 4, 1954, the Registrar of Companies issued the certificate under S. 61(4) of the Companies Act.	Reasoning
+On November 5, 1954, the Company issued notices to the shareholders inviting applications for refunds.	Reasoning
+In the notice sent to the shareholders they were informed that the share transfer register of the Company would remain closed from November 16 to November 30, 1954 (both days inclusive) and refund would be made to those shareholders, whose names stood on November 15, 1954, in the books of the Company.	Reasoning
+After the applications were received, the amounts payable to the shareholders were debited in the accounts and refunds were actualy granted during the accounting year 1954 i.e., between December 1, 1954, and November 30, 1955.	Reasoning
+It is clear from the said facts, that the amounts were distributed only during the accounting year, when the amounts were both debited and paid.	Reasoning
+We, therefore, agree with the High Court that the dividends were distributed to the shareholders during the accounting year, i.e. 195155.	Reasoning
+18.	None
+In the result, the appeal fails and is dismissed with costs.	Decision
+The judgment of Raghubar Dayal and Bachawat JJ. was delivered by BACHAWAT, J. 19.	None
+For the reasons given by brother Subba Rao, J. we agree that S. 2(6A)(d) of the Indian Incometax Act, 1913 is not ultra vires the Central Legislature, but we are unable to agree with his conclusion with regard to the fourth question of law referred for the opinion of the High Court.	Issue
+The fourth question arose because of the claim of the appellant company to a rebate of supertax under Cl.	None
+(ii) of the first proviso to paragraph D of part II of the first schedule to the Finance Act, 1956 and its contention that the distribution of dividends on reduction of capital contemplated by S. 2(6A)(d) of the Indian Incometax Act, 1922 took place during the year ending November 30, 1951 and not during the year ending November 30, 1955, and consequently there could be no reduction of the rebate under Cl.	None
+(i)(b) of the second proviso to paragraph D of part II of the first schedule to the Finance Act, 1956 read with explanation (it) to paragraph D. 20.	Facts
+Now, Cl.	None
+(i)(b) of the second proviso to paragraph D of part II of the first schedule to the Finance Act, 1956 provides for reduction of the rebate allowable under Cl.	Arguments of Petitioner
+(ii) of the preceding proviso by an amount computed at certain slab rates on the amount of dividends in the case of a company referred to in Cl.	None
+(ii) of the preceding proviso which has distributed to its shareholders during the previous year dividends in excess of 6 per cent of its paid up capital, not being dividends payable at a fixed rate, and the explanation (it) to paragraph D provides that for the purpose of paragraph D the expression dividend shall be deemed to include any distribution included in the expression dividend as defined in Cl.	None
+(6A) of section 2 of the Indian Incometax Act.	None
+Section 2(6A)(d) of the Indian Incometax Act, 1922 provides that dividend includes.	None
+any distribution by a company on the reduction of its capital to the extent to which the company possesses accumulated profits which arose after the end of the previous year ending next before the lst day of April, 1933, whether such accumulated profits have been capitalised or not 21.	None
+Obviously, S. 2(6A)(d) contemplates a distribution on reduction of capital under S. 55(1)(c) of the Indian Companies Act, 1913 under which subject to confirmation by the Court, limited company, if so authorised by its articles, may by special resolution reduce the share capital in any way, and in particular may either with or without extinguishing or reducing liability on any of its shares, pay off any paidup capital which is in excess of the wants of the company, and may, if and so far as is necessary, alter its memorandum by reducing the amount of its share capital and of its shares accordingly.	None
+22. Section 56 of the Act enables the company to apply to the Court for an order confirming the reduction, and under S. 60 of the Act, the Court may make an order confirming the reduction on such terms and conditions as it thinks fit.	None
+Upon compliance with certain formalities, the Registrar of Joint Stock Companies is required under S. 61 of the Act to register the order and a minute Approved by the Court, and on such registration, and not before, the resolution for reducing share capital as confirmed by the order so registered shall take effect.	None
+Under S. 62, the minute when registered shall be deemed to be substituted for the corresponding part of the memorandum of the company.	None
+23.	None
+In the instant case, the issued, subscribed and paidup capital of the company was Rs.25 lakhs, consisting of 5 lakhs shares of Rs.5/ each.	None
+On December 16, 1953, the company passed a special resolution for reducing its share capital from Rs. 25 lakhs to Rs. 15 lakhs and for payment of Rs.	Facts
+2/ per share to the existing shareholders under S. 55(1)(c) of the Indian Companies Act, 1913.	None
+On May 10, 1954, the company applied to the Court for an order confirming the reduction.	None
+On August 6, 1954, the High Court made an order confirming the reduction.	None
+On November 1, 1954, the order and the minute approved by the Court were duly registered with the Registrar, and on the same date, the Registrar issued a certificate of registration.	None
+24.	None
+On November 5, 1954, the notice of registration was duly published.	None
+On the same day, the company issued a circular notice to its shareholders stating that the refund of Rs. 2/per share will be made on receiving confirmation of the registration and requesting the shareholders to send their share certificates to the company at an early date for necessary endorsement and refund of share capital and stating that the refund would be made to the shareholders, whose names stood on November 15, 1954 in the books of the company, the share transfer register would remain closed from November 16 to November 30, 1954, and the refunds would be made to the shareholders whose names stood on November 15, 1954 in the books of the company.	None
+The balance sheet for the year ending November 30, 1954 did not show the reduction, and the capital of the company in this balance sheet was shown to be Rs. 25 lakhs.	None
+The necessary book entries and the payments of dividends to the shareholders were not made during the year ending November 30, 1954.	None
+The book entries with regard to the reduction and refund were made, and the refunds were given to the shareholders during the year ending November 30, 1955 and the reduction was shown in the balance sheet for the year ending November 30, 1955.	None
+25.	None
+The point in issue is when does the distribution contemplated by S. 2(6A)(d) of the Incometax Act, 1922 take place?	None
+Section 2(6A)(d) speaks of dividend in the shape of any distribution by a company amongst its shareholders on reduction of its capital to the extent of accumulated profits possessed by it.	None
+We reject the contention that this distribution takes place when the dividend is paid or credited to the shareholders.	None
+The distribution contemplated by S. 2(6A)(d) is a distribution by a company on the reduction of its capital.	None
+The word on has no fixed meaning but in the context of the subsection, it must be given the meaning at the time of as on entering, on the 1st of the month.	None
+The distribution contemplated by the subsection is, therefore, distribution at the time of the reduction of its capital, that is to say, when the resolution for reduction of its capital under S. 55(1)(c) of the Indian Companies Act, 1913 takes effect.	None
+As soon as the resolution for reduction of capital and consequential refund of the surplus capital to the shareholders takes effect, the capital stands reduced, the surplus ceases to be capital and stands allotted to the shareholders, each shareholder obtains a vested right to the refund of his share of the surplus, and a liability arises on the part of the company to make the refund.	None
+This liability arises as soon as the reduction of capital takes effect, and it matters not that the company has not made the necessary book entries showing the reduction of capital and the transfer of the surplus to the account of the shareholders.	None
+The word distribution has several dictionary meanings.	Reasoning
+In the context of S. 2(6A)(d), it means allotment or apportionment of the surplus amongst the shareholders this allotment takes place and each shareholder gets a vested right to his portion of the surplus as soon as the capital stands reduced.	None
+26.	None
+A close scrutiny of S. 2(6A)(d) reveals that (a) the distribution takes place on a single date and (b) the expression accumulated profits means profits accumulated up to the date of the distribution.	None
+These two basic ideas which are implicit in S. 2(6A)(d) are forcibly brought out in the explanation to the corresponding S. 2(22) of the Incometax Act, 1961.	None
+We thus find firstly that the entire distribution of the surplus amongst the shareholders takes place on a single date.	None
+Now if the distribution is to have certain single date, that date can only be the date when the reduction of capital becomes effective.	None
+The payments to the sharehoders either actual or notional by credit entries in the books of account are made subsequently.	None
+The payments need not be made on one date they may be and often are made on several dates.	None
+The successive payments cannot be the distribution contemplated by S. 2(6A)(d).	None
+We find secondly that the accumulated profits are to be ascertained on the date of the distribution.	None
+But we find independently for reasons mentioned hereafter that the accumulated profits must be ascertained on the date of the reduction of capital.	None
+Thus the two events, namely, the distribution and the reduction of capital must synchronise and the accumulated profits must also be ascertained at the same point of time.	None
+The synchronisation is also obvious on a plain reading of the abridged text any distribution on the reduction of capital to the extent of accumulated profits.	None
+27.	None
+The artificial dividend under S. 2(6A)(d) must be fixed by reference to the accumulated profits on the date of the reduction of capital and not by reference to the accumulated profits on the successive dates of the payments.	None
+If the amount of the dividend were to be fixed by reference to the accumulated profits on the several dates of the payments, the result might well be that some payments would be dividends to their full extent, some would be dividends to a limited extent and some would not be dividends at all.	None
+Take a case where the accounting year of the company ends on November 30, a resolution for the reduction of its capital to the extent of rupees ten lakhs and for refund of Rs. 2/ for each share of Rs. 5/ takes effect on June 30, 1954 and payments of rupees one, six and three lakhs are made respectively on October 30, 1934, October 30, 1955 and October 30, 1956, and assume that the extent of the accumulated profits is rupees ten lakhs on June 30, 1934 and on October 30, 1954, rupees two lakhs on October 30, 1955 and rupees two lakhs on October 30 1956.	None
+If the amount of the dividend were to be fix by reference to the accumulated profits on the dater of the payments, the result would be that the payment of rupees one lakh would be dividend to the full extent, the payment of rupees six lakhs would be dividend to the extent of one third and the payment of rupees three lakhs would not be dividend at all.	None
+It is reasonable to think that the legislature did not contemplate such a result.	None
+The character of the distribution is determined by the extent of the accumulated profits on the date when the reduction of capital becomes effective and is not altered by any subsequent increase or decrease of the accumulated profits, and all subsequent payments of the capital so distributed share alike the original character of the distribution.	None
+28.	None
+It is argued that in the case of a normal dividend, a comparable distribution takes place, a declaration of dividend out of the profits of a particular year is made, and is followed by payment of the dividend, and decided cases under S. 16(2) show that the distribution takes place on payment and not on the declaration of a dividend.	None
+We think this comparison of the normal dividend with the artificial dividend in S. 2(6A)(d) in the shape of the distribution to the extent of the accumulated profits is misleading, and the assumptions on which this comparison is made are not correct.	None
+The declaration of a normal dividend may be made out of accumulated profits, and need not necessarily be made out of the profits of any particular year.	None
+Section 2(6A)(d) does not contain any definition of a normal dividend.	None
+In the case of a normal dividend, the question of ascertaining the accumulated profits to the extent of which the distribution amounts to dividend does not arise.	None
+This problem would have arisen, had S. 2(6A) defined normal dividend as any distribution by a company on the declaration of dividend to the extent to which the company possesses accumulated profits.	None
+On such a definition, the only possible interpretation would have been that the accumulated profits are ascertained and the distribution takes place on the date of the declaration of the dividend.	None
+29.	None
+The argument based upon the decided cases under S.16(2) is misconceived.	None
+Section l6(2) dealt with the question when the dividend shall be deemed to be the income of the shareholders.	None
+By S. 16(2)	None
+the dividend was deemed to be the income of the shareholders when it was paid, credited or distributed.	None
+An artificial dividend under S.2(6A)(d) is either distributed or paid, whereas the normal dividend is either paid or credited, and, in the case of 196453 ITR (SC) 83 at p. 90 (AIR 1964 SC 1866 at pp.186970, and Civil Appeals Nos. 704 715 of 1963 dated 2291964 (AIR 1965 SC 1263 )	None
+it was held that the normal dividend is neither paid nor credited by reason of the fact that the dividend is declared.	None
+In this case, we are not concerned with the problem of construction of S.16(2) or the interpretation of the word paid or credited.	None
+The word distributed is not synonymous with the word paid or credited.	None
+The three words are used in the Act in different senses.	None
+Moreover, the policy of the legislature on the question of the taxability of the dividend in the hands of the shareholders has varied from time to time.	None
+Subsection (2) of S.16 was repealed and in its place, subsection (1A) of S. 12 was introduced by the Finance Act, 1959 with effect from April 1, 1960, and the corresponding provision is to be found in S. 8 of the Incometax Act, 1961.	None
+Under S. 12(lA) of the Incometax Act, 1922 and S. 8 of the Incometax Act, 1961 the declaration of dividend is crucial even for the purpose of assessment of the shareholders.	None
+The legislature thus recognises now that the distribution of the normal dividend takes place on the declaration of the dividend.	None
+30.	None
+In the instant case, the resolution for the reduction of the capital of the company and the consequential refund of the surplus capital to its shareholders took effect on November 4, 1954.	None
+Consequently, the distribution of the dividend as defined by S. 2(6A)(d) took place on November 4, 1954, i.e. during the previous year corresponding to the assessment year 195556.	None
+It is true that during the accounting year ending November 30, 1954, the company did not pay any dividends, nor make any book entries with regard to reduction of capital or with regard to refund or payment of surplus capital.	None
+But the company incurred on November 4, 1954 the legal liability to, make the refunds and the distribution must be deemed have taken place on November 4, 1954, though no book entries were made and no payments were made on that date.	None
+In view of the fact that the distribution took effect on November, 4, 1954, the company was bound to make necessary entries in their books on November 4, 1954 showing the reduction of capital, and was also bound to show the reduction in its balance sheet for the year ending November 30, 1954.	None
+Irrespective of its method of bookkeeping, the company incurred on November 4, 1954, the legal liability to make the refunds.	None
+The method of bookkeeping is not relevant, but, were it so, it is pertinent to remember that the accounts of the company were kept on the mercantile basis.	None
+That system of accounting brings into debit as expenditure the amount for which a legal liability has been incurred before it is actually disbursed.	None
+See Keshao Mills Ltd. v. Commissioner of Incometax, Bombay, 1953	None
+SCR 950 at p. 958 (AIR 1953 SC 187 at p. 190).	None
+31.	None
+In conclusion, we must point out that the revenue authorities should have, but in fact have not fixed the amount of the dividend by reference to the accumulated profits on November 4, 1954, when the resolution for reduction of capital became effective, or by reference to the accumulated profits brought forward on December 1, 1953 at the commencement of the accounting year during which the reduction of capital took effect.	None
+Instead, the revenue authorities took into account the accumulated profits on December 1, 1954, that is to say, the date of the commencement of the subsequent accounting year during which the dividends were paid.	None
+The amount of the accumulated profit as on December l, 1954 was fixed by the Incometax Officer at Rs. 8,42,337/, and was subsequently reduced by the Tribunal to Rs. 1,69,244130.	None
+The revenue authorities rightly assumed that the distribution and the ascertainment of the accumulated profit to the extent of which the distribution is deemed to be dividend under S. 2(6A)(d) took place during the same accounting year, but they erred in holding that the accounting year commencing on December 1, 1954 is the relevant year.	None
+32.	None
+In our opinion, the High Court was in error in holding that dividends under S. 2(6A)(d) were distributed during the previous year corresponding to the assessment year, 195657.	None
+We think that the dividends, if any, under S. 2(6A)(d) were distributed in the previous year corresponding to the assessment year 195556, and the fourth question should be answered accordingly.	None
+The appeal is allowed in part to this extent.	None
+In view of the divided success, we direct that the parties will pay and bear their own costs in this court and in the Court below.	None
+ORDER 33.	None
+In accordance with the majority Judgment, the appeal fails and is dismissed with costs.	Decision
+34.	None
+Appeal dismissed.	None

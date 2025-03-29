@@ -1,0 +1,92 @@
+ Oral Judgment (D.G. Karnik
+, J.)Heard learned counsel for the parties.2.
+This appeal is directed against the judgment and order dated 4th April 2007 passed by a learned Single Judge of this Court admitting the petition for winding up of the appellant company and appointing the Official Liquidator as the provisional liquidator in terms of clause (a) of Company Application no.700 of 2006.3.
+For recovery of certain sums, the respondent instituted a legal proceeding against the appellant in June 2003 in the High Court of Justice, Queens Bench Division, Commercial Court, U.K.
+As the appellant failed to appear in the proceeding by a judgment and order dated 13th January 2004, the English Court granted a summary judgment in the sums of US 44,65,890.26, US 2,69,324.47, UK Pounds 1,10,502.32, HK Dollars 1,85,000, SG Dollars 44,694.64 and RMB 2,41,524.00.
+The appellant was also directed to pay interest on those amounts at the rate of 9 p.a.
+A certificate dated 24th March 2004 was issued by the Master of the English Court that no appeal had been brought against the judgment and the judgment was enforceable.4.
+As the appellant failed to pay the amount due under the judgment of the English Court, a notice dated 11th October 2005 was issued by the respondent to the appellant under section 434 of the Companies Act 1956 (for short the Act) calling upon it to pay the amount due and outstanding under the judgment of the English Court.
+The appellant neither paid the money nor sent any reply to the notice.
+Thereupon petition for winding up was filed by the respondent against the appellant interalia on the ground that (i) that the appellant was liable to pay to the respondent a sum of Rs.26,99,67,511/ due under the order of the English Court which it had failed to pay and appellant was therefore deemed to be unable to pay its debts and (ii) even otherwise the appellant was unable to pay its debts in as much as the accumulated losses of the company aggregated to Rs.225.94 crores, the net assets were negative at minus Rs.153.76 crores, the liabilities of the appellant to its customers were to the extent of Rs.166 crores and to its bankers and other secured creditors were 49.07 crores and the appellant was commercially insolvent.5.
+The appellant appeared before the learned Company Judge and contested admission of the winding up petition as well as the prayer for appointment of the Official Liquidator as the provisional liquidator.
+By the impugned judgment, the learned Single Judge accepted the contention of the respondent that the respondent was unable to pay its debts.
+He also held that the amount due and payable by the appellant to the respondent under the judgment of the English Court was not paid despite the notice of demand served on the appellant and therefore appellant was deemed to be unable to pay its debts as provided under clause (a) of subsection (1) of section 434 of the Act.
+He therefore admitted the Company Petition and also appointed Official Liquidator as the provisional liquidator for the appellant company.6.
+Learned counsel for the appellant appearing before us submitted that clause (a) of subsection (1) of section 434 was not attracted in the present case.
+He submitted that the decree was a foreign decree and was not presently enforceable as the period of limitation of three years provided for its enforcement under Article 101 of the Limitation Act had expired.
+He further submitted that the fact that the respondent had filed an execution petition earlier which was pending was immaterial as a suit upon the judgment of the English Court was not filed in India within a period of three years as provided under Article 101 of the Limitation Act.
+Learned counsel further submitted that in respect of a debt which had culminated into a decree of a Court the case would be governed by clause (b) of section 434(1) of the Act and clause (a) thereof would not apply.
+The company would be deemed to unable to pay its debts only if execution or other process issued on a decree or order of any Court or Tribunal in favour of a creditor of the company is returned unsatisfied, in whole or in part.
+Counsel invited our attention to section 434(1) of the Act, which reads as underSec.434 (1) A company shall be deemed to be unable to pay its debts (a) if a creditor, by assignment or otherwise, to whom the company is indebted in a sum exceeding one lakh rupees then due, has served on the company, by causing it to be delivered at its registered office, by registered post or otherwise, a demand under his hand requiring the company to pay the sum so due and the company has for three weeks thereafter neglected to pay the sum, or to secure or compound for it to the reasonable satisfaction of the creditor(b) if execution or other process issued on a decree or order of any Court or Tribunal in favour of a creditor of the company is returned unsatisfied in whole or in part or(c) if it is proved to the satisfaction of the Tribunal that the company is unable to pay its debts, and, in determining whether a company is unable to pay its debts, and, in determining whether a company is unable to pay its debts, the Tribunal shall take into account the contingent and prospective liabilities of the company.
+Counsel submitted that clause (a) of subsection (1) of section 434 was a general provision in respect of a debt in excess of Rs.1 lakh due from a company while clause (b) was a special provision in respect of a debt which is due under a decree of a court.
+He further submitted that since a special provision has been made in respect of a liability which has culminated in a decree applying the maxim general specialibus nonderogant it must be held that the special provision will take precedence over the general provision.
+He submitted that clause (b) of section 434(1) was a special provision applicable only in respect of money due under a decree and therefore, a decree holder creditor would not be entitled to have recourse to the provision contained in clause (a) of subsection (1) of section 434 of the Act.
+A decree holder cannot issue a notice of demand and on failure of the judgment debtor to pay the decretal amount contend that the company is unable to pay its debts within the meaning of clause (a) of subsection (1) of section 434 of the Act.
+A decree holder can resort to the deeming provision as to inability of a company to pay its debts only if an execution or other process issued at the instance of the decree holder is returned unsatisfied in whole or in part as provided under clause (b) of subsection (1) of section 434 of the Act.
+In support of his submissions the counsel referred to and relied upon a decision of the Division Bench of the Calcutta High Court in Dalhousie Jute Co.Ltd.
+Vs.
+Mulchand Lakshmichand.
+Therein, after setting out subsection (1) of section 434 of the Companies Act, the Division Bench observedIn order to attract the deeming cl.(a) above, it is incumbent on the petitioning creditor to show that sums exceeding Rs.500 is presently payable and for failure whereof the notice has been sought to be served demanding payment thereof.
+The expression the sum so due and the expression neglected to pay the sum as also the expression to secure or compound for it, would no doubt definitely suggest that the sum which is presently payable has not been paid or no provision for payment has been made by securing or compounding for the same.
+In order to attract cl.(b) of s.434(1), the petitioning creditor cannot succeed merely by obtaining a decree or order for payment.
+Ordinarily it would mean that the decretal debt is presently payable but the statute requires, that the execution proceedings would have to be taken in respect of such decree or order and such execution proceedings must be returned unsatisfied in whole or in part.
+Then only, for the purpose of the winding up of a company, the company would be deemed to be unable to pay its decretal dues and not earlier.
+It is to be noticed that nothing had been provided as to what would happen to a creditor who would obtain an award for money in his favour.
+Regarding cl.(c) of s.434(1), it would appear that wide powers have been given to the court to determine the inability on the part of the company to pay its debts.
+In forming its satisfaction, the court has to look into the various factors concerning the companys financial position including its contingent and prospective liabilities.7.
+Per contra, Mr. Sen, learned counsel for the respondent submitted that an amount due under a decree was as much a debt as any other debt and therefore, even in respect of an amount due under a decree, the decree holder is entitled to serve a notice of demand on the company and on failure of the company to pay the amount due under the decree within the statutory period of 21 days, a decree holder like any other creditor can file a petition for winding up on the ground that company is deemed to be unable to pay its debt by resorting to clause (a) of subsection (1) of section 434 of the Act.
+He submitted that if an ordinary creditor who has not even proved its claim in a court of law can issue a notice of demand and on failure to the company to pay the amount of the debt is entitled to file a petition for winding up then why the creditor who has proved his debt in a suit or other legal proceeding and has obtained a decree be not entitled to an order for winding up of the company if it fails to pay the decreed debt within three weeks of the notice of demand.
+He cannot be put in a situation worse than the creditor who has not proved his debt in a legal proceeding.
+Subclause (b) of section 434(1) is only an additional ground available to the creditor who has obtained a decree against the company.
+Clause (b) of section 434(1) does not prevent the decree holder creditor to resort to a deeming provision of clause (a) thereof.
+In support of his submissions, learned counsel for the respondent referred to and relied upon the decisions of Single Judges of the Calcutta High Court in Re Unique Cardboard Box Mfg.Co.P. Ltd., reported in 1974, Vol.48 Co. Cases 599 Delhi High Court in Madhuban Pvt.
+Ltd.
+Vs.
+Narain Dass Gokal Chand reported in 1971
+(Vol.41) Co.
+Cases 685, Calcutta High Court in All India General Transport Corp.Ltd.
+Vs.
+Raj Kumar Mittal reported in 1978
+(Vol.48) Co.
+Cases 604, Madras High Court in
+Seethai Mills Ltd.
+Vs.
+N. Perumalsamy Anr. reported in 1980 (
+Vol.50) Co.
+Cases 422 and Guwahati High Court in Investment of India Ltd.
+Vs.
+Everest Cycles Ltd. reported in 1984 (Vol.56) Co.Cases 165.
+He also submitted that this Court has also consistently taken the same view and referred to its decisions in Dhootpapeshwar Sales Pvt.Ltd. reported in 1972
+(Vol.42) Co.
+Cases 139 and unreported decision in the case of Sugam Construction Pvt. Ltd. (Company Petition no.650 of 2004) decided on 29th April 2005 (Coram S.U. Kamdar, J).8.
+In our view, in the facts and circumstances of the case in hand, it is not necessary to consider whether a creditor whose claim has culminated into a decree and who has become a decree holder is entitled to file a petition for winding up under clause (a) of subsection (1) of section 434 on failure of the company to pay the decretal amount within the statutory period on service of a demand notice or is required to resort to and file the petition only under clause (b) of subsection (1) of section 434 of the Act on execution or any process issued on a decree being returned unsatisfied.
+In paragraph no.21 and 22 of the Company Petition, the respondent has averred the facts which disclose that the appellant company is clearly commercially insolvent and is unable to pay its debts.
+Contents of paragraph nos.21 and 22 of the petition has been extracted in detail in paragraph no.10 of the impugned judgment.
+The learned Judge has also noted that in its affidavit in reply, the appellant has not denied the averments made in paragraph nos.21 and 22 of the Company Petition and therefore they are deemed to be admitted.
+In paragraph no.22 of the Company Petition, the respondent has clearly averred the following(a) The appellant company has accumulated losses aggregated to Rs.225.94 crores.
+(b) Sales income of the appellant has come down drastically to Rs.11.83 crores from 123.78 crores in the previous year.(c)
+No provision is made by the appellant for interest liability on loans and dues of foreign creditors due to which loss for the year is understated in the profit and loss account.(d) Losses have resulted in the net worth of the appellant being completely eroded.
+A reference was filed by the appellant to the BIFR under the provisions of Sick Industrial Companies Act, 1985 2985.(g)
+Appellants cash flow was negligible and effectively negative.
+(h) Appellants current assets were negative at Rs.153.76 crores.
+(i) Appellants foreign creditor, Shweta International Pvt.Ltd. had filed a suit against the appellant for recovery of Rs.140 crores.(j)
+The liability of appellant to the creditors customers alone (excluding bankers and others) was Rs.166 crores.(k)
+Appellants liabilities to its bankers and other creditors was Rs.49.07 crores.
+(l) Appellants bankers viz.
+State Bank of Saurashtra and Punjab National Bank had recalled the loan facilities and had filed proceedings before Debt Recovery Tribunal, Mumbai.9.
+None of the allegations made above were denied by the appellant in the affidavit in reply and must therefore be deemed to have been admitted.
+They disclose that the company has negative the net worth, the cash flow is negligible and effectively negative.
+Its business has practically come to a stand still.
+They also disclose that the creditors are to the extent of several hundreds of crores of rupees and that the substratum of the company has disappeared.
+Nothing was brought on record to show that the financial difficulties were only temporary and given some time.
+The appellant had the means of repaying the debts.
+No scheme for rehabilitation was sanctioned by the BIFR under the Sick Industrial Companies Act.
+In the circumstances, even without even resorting to the deeming provision about the inability of a company to pay its debts made under section 434 of the Companies Act, it must be held that the respondent had established that appellant is unable to pay its debts.
+Clause (e) of section 433 of the Act provides that the company may be wound up if it is unable to pay its debts.
+Section 434 of the Act only provides a few circumstances under which a presumption is drawn about the inability of a company to pay its debts.
+If the circumstances enumerated in section 434 of the Act exist it would be deemed that the company is unable to pay its debts.
+In our opinion, it is open for the creditor to prove without resorting to the fiction under section 434 of the Act that a company is unable to pay its debts.
+Of course in the absence of presumption under section 434 of the Act the burden of proving that the company is unable to pay its debts would be heavy when the company contests the claim of the creditor that the company is unable to pay its debts.
+The court would be slow to infer and hold that the company is unable to pay its debt and would ask for a strict proof.
+However in the present case, in the light of the averments made in paragraph no.21 and 22 of the petition, which have not been denied by the appellant company, we are satisfied that the respondent has discharged the burden and proved appellant company is commercially insolvent and is unable to pay its debts.10.
+For these reasons, there is no merit in the appeal, which is hereby dismissed.

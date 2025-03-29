@@ -1,0 +1,106 @@
+ K.Agrawal, J. SLP (C) No. 25006 of 2012 Leave granted.	None
+This batch of appeals has been filed against the impugned judgment and order dated 07.02.2012 passed by the High Court of Delhi at New Delhi in ITA Nos. 216, 398, 403, 404 and 680 of 2011 whereby the Division Bench of the High Court upheld the decision of the Income Tax Appellate Tribunal (in short the Tribunal) dated 19.02.2010.	Issue
+Since the moot question of law in all these appeals is akin, hence, vide this common judgment, all the appeals would stand disposed of.	None
+In order to appreciate the controversy at hand, it is pertinent to allude to the relevant facts in a summarized way for the proper insightful of the instant case.	None
+The appellant herein is the Income Tax Department, on the other hand, the Respondent  M s Virtual Soft Systems Ltd. is a company registered under the provisions of the Companies Act, 1956.	Facts
+b.	None
+On 29.12.1999, the Respondent filed return of income for the Assessment Year 19992000 declaring loss of Rs 70,24,178/ while claiming an amount of Rs 1,65,12,077/ as deduction for lease equalization charges.	Facts
+c.	None
+On scrutiny, the Assessing Officer, after perusal of the return and hearing the parties, vide Assessment Order dated 28.01.2005 disallowed deduction claimed as the lease equalization charges amounting to Rs.1,65,12,077/ and added the same to the income of the Respondent under the Income Tax Act, 1961 (in short the IT Act).	Facts
+Being aggrieved with the said Assessment Order, the Respondent preferred an appeal before the Commissioner of Income Tax (Appeals).	None
+Learned CIT (Appeals), vide order dated 15.09.2005, upheld the order of the Assessing Officer and dismissed the appeal.	Facts
+Being dissatisfied, the Respondent preferred an appeal before the ITAT.	Facts
+Vide order dated 19.02.2010, the ITAT allowed the appeal of the Respondent while setting aside the orders passed by Learned CIT (Appeals) and the Assessing Officer.	Facts
+Being aggrieved, the Revenue took the matter before the High Court.	Facts
+The High Court, vide judgment and order dated 07.02.2012, dismissed the appeals at the preliminary stage while confirming the decision of the ITAT.	Facts
+Hence, this instant appeal has been filed before this Court by the Revenue.	Facts
+We have given our thoughtful consideration to the submissions of learned senior counsel for the parties and perused the relevant records of the case. Point(s) for consideration 5.	None
+The short question that arises for consideration before this Court is whether the deduction on account of lease equalization charges from lease rental income can be allowed under the Income Tax Act, 1961, on the basis of Guidance Note issued by the Institute of Chartered Accountants of India (ICAI)?	Issue
+Rival submissions At the outset, learned senior counsel for the Revenue contended that the lease equalization charge is an additional deduction debited to Profit and Loss Account (PL) in addition to the depreciation claimed in books so as to make it equal to capital recovery.	Arguments of Petitioner
+This is an artificial calculation which bifurcates lease rental to capital recovery and interest component.	Arguments of Petitioner
+Learned senior counsel further contended that in fact the entire lease income constitutes income of the assessee.	Arguments of Petitioner
+Also, there is no concept of deduction regarding the lease equalization charges under the IT Act.	Arguments of Petitioner
+Hence, learned senior counsel contended that impugned decision of the High Court is perverse and is liable to be set aside.	Arguments of Petitioner
+On the other hand, learned senior counsel for the Respondent submitted that this issue is no longer res integra.	Arguments of Respondent
+Now, it is a settled principle that a Guidance Note issued by the ICAI carries great weight and by adopting a method of accounting prescribed in such a Guidance Note, in order to compute real income and offering the same for taxation, cannot be disregarded by the Assessing Officer unless such action falls within the scope and ambit of Section 145(3) of the IT Act.	Arguments of Respondent
+Further, it was submitted that the lease equalization charge was nothing but a method of adjusting the depreciation claimed in the books of accounts to enable the Respondent to represent its real income by adopting an accounting methodology which had surely the seal of approval of a professional body such as the ICAI.	Arguments of Respondent
+Learned senior counsel finally submitted that the judgment passed by the High Court is wellversed and within the parameters of law and no interference is sought for by this Court in the matter.	Arguments of Respondent
+Discussion Prior to critically examining the case, it would be appropriate to have an understanding and significance of the Guidance Note issued by the ICAI.	Issue
+The ICAI is an expert body, created by the Parliament under the Chartered Accountants Act, 1949.	Reasoning
+The ICAIs publication on the subject indicates that the Guidance Note on Accounting for Leases was issued by it for the first time in 1988 which was later on revised in 1995.	None
+The Guidance Note reflects the best practices adopted by the accountants throughout the world.	Reasoning
+The ICAI is a recognized body vested with the authority to recommend accounting standards for ultimate prescription by the Central Government in consultation with the National Advisory Committee of Accounting Standards for the presentation of true and fair financial statements.	Reasoning
+Section 211 of the Companies Act, 1956 as it stood before the amendment dealt with the Form and contents of balancesheet and profit and loss account.	None
+Sub clause (3C) of Section 211 was added vide 1999 amendment with retrospective effect.	None
+The relevant portion of Section 211 of the Companies Act is reproduced herein as under (3C) For the purposes of this section, the expression accounting standards means the standards of accounting recommended by the Institute of Chartered Accountants of India constituted under the Chartered Accountants Act, 1949 (38 of 1949), as may be prescribed by the Central Government in consultation with the National Advisory Committee on Accounting Standards established under subsection (1) of section 210A Provided that the standards of accounting specified by the Institute of Chartered Accountants of India shall be deemed to be the accounting standards until the accounting standards are prescribed by the Central Government under this subsection.	None
+(Emphasis supplied by us)	None
+The purpose behind the amendment in Section 211 of the Companies Act, 1956 was to give clear sight that the accounting standards, as prescribed by the ICAI, shall prevail until the accounting standards are prescribed by the Central Government under this subsection.	Reasoning
+The purpose behind the accounting standards was to arrive at a computation of real income after adjusting the permissible deprecation.	Reasoning
+It is not disputed that these accounting standards are made by the body of experts after extensive study and research.	Reasoning
+11.	None
+At this stage, it would be pertinent to reproduce the relevant provisions of the Guidance Note on Accounting for Leases, revised in 1995, which is as under Accounting for leases in the Books of a lessor Finance Leases Assets leased under finance leases should be disclosed as 9.	None
+Assets given on lease, as a separate section under the head Fixed Assets in the balance sheet of the lessor.	None
+The classification of Assets given on lease should correspond to that adopted in respect of other fixed assets.	None
+In addition to the particulars required by statute, e.g., Schedule VI to the Companies Act, 1956, particulars relating to Lease Adjustment Account should be disclosed as stated in Para 11.	None
+Lease rentals (those received and those due but not received) under a finance lease should be shown separately under Gross Income in the profit and loss account of the relevant period.	None
+It is appropriate that against the lease rental, a matching lease annual charge is made to the profit and loss account.	None
+This annual lease charge should represent recovery of the net investment fair value of the leased asset over the lease term.	Reasoning
+The said charge should be calculated by deducting the finance income for the period (as per para 12 below) from the lease rental for that period.	None
+This annual lease charge would comprise (i) minimum statutory depreciation (e.g., as per the Companies Act, 1956) and (ii) lease equalization charge, where the annual lease charge is less than minimum statutory depreciation.	None
+However, where annual lease charge is less than minimum statutory depreciation, a lease equalization credit would arise.	None
+In this regard the following accounting entries disclosure should be made.	None
+a. ?	None
+A separate Lease Equalization Account should be opened with a corresponding debit or credit to Lease Adjustment Account, as the case may be.	None
+b.	None
+Lease Equalisation Account should be transferred every year to the Profit and Loss Account and disclosed separately as deduction from addition to gross value of lease rentals shown under the head Gross Income.	None
+Statutory depreciation should be shown separately in the profit and loss account.	None
+Accumulated statutory depreciation should be deducted from the original cost of the leased asset in the balance sheet of the lessor to arrive at the net book value.	None
+d. Balance standing in Lease Adjustment Account should be adjusted in the net book value of the leased assets.	None
+The amount of adjustment in respect of each class of fixed assets may be shown either in the main balance sheet or in the Fixed Assets Schedule as a separate column in the section related to leased assets.	None
+e.	None
+The aggregate amount included under Lease Adjustment Account on account of lease equalisation credits should be disclosed separately.	None
+The method of income measurement suggested in this paragraph, is in consonance with the inherent nature of a finance lease.	None
+The above method is illustrated in the Appendix to this Guidance Note. 12.	None
+The finance income for the period should be calculated by applying the interest rate implicit in the lease to the net investment in the lease during the relevant period.	None
+This method would ensure recognition of net income in respect of a finance lease at a constant periodic rate of return on the lessors net investment outstanding in the lease.	None
+However, some lessor use a simpler method for calculating the finance income for each of the periods comprising the lease term by appropriating the total finance income from the lease in the ratio of minimum lease payments outstanding during each of the respective periods comprising the lease term.	None
+(The total finance income from the lease is the difference between the aggregate minimum lease payments receivable over the lease term and the fair value of the leased asset at the inception of the lease.)	None
+This method may be used where the finance income in respect of all individual periods as per this method approximate the finance income for the corresponding periods determined according to the former method.	None
+It is however clarified that where this method is used, overdue lease rentals, i.e., lease rentals fallen due but not collected should not be taken into account for determining the amount of minimum lease payments outstanding during each of the respective periods comprising the lease term.	None
+At the first look, it appears that the method of accounting provided in the Guidance Note of 1995, on the one hand, adjusts the inflated cost of interest of the assets in the balance sheet.	Reasoning
+Secondly, it captures real income by separating the element of capital recovery (essentially representing repayment of principal amount by the lessee, the principal amount being the net investment in the lease), and the finance income, which is the revenue receipt of the lessor as remuneration reward for the lessors investment.	Reasoning
+As per the Guidance Note, the annual lease charge represents recovery of the net investment fair value of the asset lease term.	Reasoning
+The finance income reflects a constant periodic rate of return on the net investment of the lessor outstanding in respect of the finance lease.	Reasoning
+While the finance income represents a revenue receipt to be included in income for the purpose of taxation, the capital recovery element (annual lease charge) is not classifiable as income, as it is not, in essence, a revenue receipt chargeable to income tax.	Reasoning
+The method of accounting followed, as derived from the ICAIs Guidance Note, is a valid method of capturing real income based on the substance of finance lease transaction.	None
+The rule of substance over form is a fundamental principle of accounting, and is in fact, incorporated in the ICAIs Accounting Standards on Disclosure of Accounting Policies being accounting standards which is a kind of guidelines for accounting periods starting from 01.04.1991.	Reasoning
+It is a cardinal principle of law that the difference between capital recovery and interest or finance income is essential for accounting for such a transaction with reference to its substance.	Reasoning
+If the same was not carried out, the Respondent would be assessed for income tax not merely on revenue receipts but also on nonrevenue items which is completely contrary to the principles of the IT Act and to its Scheme and spirit.	None
+The bifurcation of the lease rental is, by no stretch of imagination, an artificial calculation and, therefore, lease equalization is an essential step in the accounting process to ensure that real income from the transaction in the form of revenue receipts only is captured for the purposes of income tax.	Reasoning
+Moreover, we do not find any express bar in the IT Act which bars the bifurcation of the lease rental.	Reasoning
+This bifurcation is analogous to the manner in which a bank would treat an EMI payment made by the debtor on a loan advanced by the bank.	Reasoning
+The repayment of principal would be a balance sheet item and not a revenue item.	Reasoning
+Only the interest earned would be a revenue receipt chargeable to income tax.	Reasoning
+Hence, we do not find any force in the contentions of the Revenue that whole revenue from lease shall be subjected to tax under the IT Act.	Reasoning
+15.	None
+Without a doubt, in a catena of cases, this court has discussed the relevancy of the Guidance Note.	None
+While dealing with one of such matters, this Court, in Commissioner of Income TaxVII, New Delhi vs. Punjab Stainless Steel Industries (2014) 15 SCC 129 held as under So as to be more accurate about the word Turnover, one can either refer to dictionaries or to material which are published by bodies of Accountants.	Reasoning
+The Institute of Chartered Accountants of India (hereinafter referred to as the ICAI) has published some material under the head Guidance Note on Tax Audit under Section 44B of the Income Tax Act.	Reasoning
+The said material has been published so as to guide the members of the ICAI.	Reasoning
+In our opinion, when a recognized body of Accountants, after due deliberation and consideration publishes certain materials for its members, one can rely upon the same.	Reasoning
+In the present case, the relevant Assessment Year is 19992000.	Reasoning
+The main contention of the Revenue is that the Respondent cannot be allowed to claim deduction regarding lease equalization charges since as such there is no express provision regarding such deduction in the IT Act.	Reasoning
+However, it is apt to note here that the Respondent can be charged only on real income which can be calculated only after applying the prescribed method.	Reasoning
+The IT Act is silent on such deduction.	Reasoning
+For such calculation, it is obvious that the Respondent has to take course of Guidance Note prescribed by the ICAI if it is available.	Reasoning
+Only after applying such method which is prescribed in the Guidance Note, the Respondent can show fair and real income which is liable to tax under the IT Act.	Reasoning
+Therefore, it is wrong to say that the Respondent claimed deduction by virtue of Guidance Note rather it only applied the method of bifurcation as prescribed by the expert team of ICAI.	Reasoning
+Further, a conjoint reading of Section 145 of the IT Act read with Section 211 (unamended) of the Companies Act make it clear that the Respondent is entitled to do such bifurcation and in our view there is no illegality in such bifurcation as it is according to the principles of law.	Reasoning
+Moreover, the rule of interpretation says that when internal aid is not available then for the proper interpretation of the Statute, the court may take the help of external aid.	Reasoning
+If a term is not defined in a Statute then its meaning can be taken as is prevalent in ordinary or commercial parlance.	Reasoning
+Hence, we do not find any force in the contentions of the Revenue that the accounting standards prescribed by the Guidance Note cannot be used to bifurcate the lease rental to reach the real income for the purpose of tax under the IT Act.	Reasoning
+To sum up, we are of the view that the Respondent is entitled for bifurcation of lease rental as per the accounting standards prescribed by the ICAI.	Reasoning
+Moreover, there is no express bar in the IT Act regarding the application of such accounting standards.	Reasoning
+In view of above detailed discussion, we are not inclined to interfere in the impugned decision of the High Court.	Reasoning
+Accordingly, the appeal is hereby dismissed leaving parties to bear their own cost.	Decision
+In view of the above, other connected appeals are also disposed off accordingly.	Decision

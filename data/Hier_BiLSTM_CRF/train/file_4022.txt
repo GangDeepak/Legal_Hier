@@ -1,0 +1,107 @@
+ Hegde, J.1.	None
+This appeal against the judgment of the Patna High Court dated the 3rd February, l964 in its Appellate Order No. 99 of 1963 was filed after obtaining special leave from this Court.	Issue
+It arises from a proceeding under Sec.	Issue
+47, Civil Procedure Code.	Issue
+In execution of a mortgage decree, the decreeholders sought to proceed against Bakasht lands of the judgmentdebtors.	None
+The judgmentdebtors objected to the same on the ground that the execution was barred under Section 4 (d) of the Bihar Land Reforms Act, 1950 (to be hereinafter referred to as the Act). .	None
+But that objection was overruled by the executing court on two different grounds namely (1) that the objection in question is barred by the principles of res judicata and (2) the bar of Section 4 (d) pleaded is not tenable.	Issue
+The decision of the execution court was affirmed in appeal but reversed in second appeal by the High Court.2.	Issue
+The two questions that arise for decision in this appear. are (1) whether the objection as regards the executability of the decree pleaded by the judgment debtors is barred by the principles of res judicata and (2) whether the mortgage decree has become unexecutable in view of the provisions of the Act.3.	Issue
+We shall now briefly set out the material facts of the case.	Facts
+The mortgagees, the appellants in this appeal obtained a preliminary decree on June 26, 1947 on the basis of a mortgage.	Facts
+The property mortgaged was an Estate within the meaning of the Act.	Facts
+That property included both Baksht lands as well as other lands.	Facts
+The Act came into force after the passing of the aforementioned preliminary decree.	Facts
+The decreeholder filed petition for passing a final decree on September 19, 1955.	Facts
+The Estate mortgaged vested in the State of Bihar on January 1, 1956 as a result of a notification issued under Section 3 (1) of the Act.	Facts
+A final decree was passed in the mortgage suit on October 1, 1956.	Facts
+Thereafter the mortgagees applied under Section 14 of the Act and got determined the compensation to which they were entitled under the Act.	Facts
+It is said that they did not proceed any further in that proceeding but on the other hand filed on June 18, 1958 an execution petition to execute the mortgagedecree against the Bakasht lands.	Facts
+The judgmentdebtors resisted that execution by filing an application under Section 47, Civil Procedure Code (Misc.	Facts
+Case No. 94 of 1959) on the ground that the decree cannot he executed in view of the provisions of the Act.	Facts
+That application was dismissed for the default of the judgmentdebtors on September 12, 1959.	Facts
+A second application raising the same ground (Misc.	Facts
+Case No. 110 of 1959) was filed by the judgment debtors on September 24, 1959.	Facts
+That again was dismissed on July 23, 1960 for default of the judgmentdebtors.	Facts
+A third application raising the same ground of objection (Misc.	Facts
+Case No. 91 of 1960) was filed by the judgmentdebtors on September 12, 1960.	Facts
+That application was dismissed on January 4, 1962 after examining the contentions of the parties.	Facts
+Therein the execution court came to the conclusion that the objection raised by the judgmentdebtors is barred on the principles of res judicata and further that the same has no merits.	Facts
+This decision as mentioned earlier was affirmed by the appellate court but reversed by the High Court.4.	Facts
+We shall first take up the contention that the objection taken by the judgmentdebtors is barred by principles of res judicata.	None
+Though at one stage learned Counsel for the appellantdecreeholders attempted to bring the case within Explanation 5,Section11, Civil Procedure Code, he did not pursue that line of argument but tried to support his contention on the broader principles of res judicata.	None
+The real question for decision in this case is whether the dismissal of Misc.	None
+Cases Nos. 94 and 110 of 1959 for default of the judgmentdebtors can be said to be a final decision of the court after hearing the parties.	Issue
+Before a plea can be held to be barred by the principles of res judicata, it must be shown that the plea in question had not only been pleaded but it had been heard and finally decided by the Court.	Reasoning
+A dismissal of a suit for default of the plaintiff, we think, would not operate as res judicata against a plaintiff in a subsequent suit on the same cause of action.	Reasoning
+If it was otherwise there was no need for the legislature to enact R. 9, O. 9, Civil Procedure Code which in specific terms says that where a suit is wholly or partly dismissed under Rule 8, the plaintiff shall be precluded from bringing a fresh suit in respect of the same cause of action.	Reasoning
+The contention that the dismissal of a previous suit for default of the plaintiffs operates as res judicata in a subsequent suit in respect of the same claim was repelled by the Judicial Committee of the Privy Council in Maharaja Radha Parshad Singh v. Lal Sahab Rai, (1890) 17 Ind App 150.	Reasoning
+Therein the Judicial Committee observed thusNone of the questions, either of fact or law, raised by the pleadings of the parties, was heard or determined by the judge of the Shahabad Court in 1881 and his decree dismissing the suit does not constitute res judicata within the meaning of the Civil Procedure Code.	None
+It must fall within one or other of the sections of Chapter VII of the Code in the present case it is immaterial to consider which, the severest penalty attached to such dismissal in any case being that the plaintiff cannot bring another suit for the same relief.5.	None
+From this decision it is clear that the Judicial Committee opined that before a plea can be held to be barred by res judicata that plea must have been heard and determined by the Court.	None
+Only a decision by a Court could be res judicata, whether it be statutory underSection11, Civil Procedure Code or constructive as a matter of public policy on which the entire doctrine rests.	None
+Before an earlier decision can be considered as res judicata the same must have been heard and finally decidedsee P. Venkata Subha Rao v. V. Jagannadha Rao, (1964)	None
+2 SCR 310 (AIR 1967 SC 591 ).6.	None
+The Courts in India have generally taken the view that an execution petition which has been dismissed for the default of the decreeholder though by the time that petition came to be dismissed, the judgmentdebtor had resisted the execution on one or more grounds, does not bar the further execution of the decree in pursuance of fresh execution petitions filed in accordance with law  see Lakshmibai Anant Kondkar v. Ravji Bhikaji Kondkar, 31.	Reasoning
+Bom LR 400 (AIR 1929 Bom 217 ), Even the dismissal for default of objections raised underSection47, Civil Procedure Code does not operate as res judicata when the same objections are raised again in the course of the executionsee Bahir Das Pal v. Girish Chandra Pal, AIR 1923 Cal 287 Bhagwati Prasad Sah v. Radha Kishun Sah, AIR 1950 Pat 354 Jethmal v. Mst.	Reasoning
+Sakina, AIR 1961 Raj 59 Bishwanath Kundu v. Smt, Subala Dassi, AIR 1962	Reasoning
+Cal	Reasoning
+272 .	Reasoning
+We do not think that the decision in Ramnarain v. Basudeo, ILR 25 Pat 595 (AIR 1947 Pat 298 ) on which the learned Counsel for the appellant placed great deal of reliance is correctly decided.	Reasoning
+Hence we agree with the High Court that the plea of res judicata advanced by the appellant is unsustainable.7.	None
+The next question is whether the execution is barred under the provisions of the Act.	Issue
+The contention of the judgmentdebtors is that it is so barred whereas according to the appellants as the Bakasht lands which form part of the mortgaged property had not vested in the State, the execution can proceed against those lands.	None
+Therefore we have to see whether the entire mortgaged property had vested in the State in pursuance of the notification underSection3 or only the mortgaged property minus the Bakasht lands.8.	Reasoning
+There is no dispute that the property mortgaged was an Estate within the meaning ofSection2(i) and the notification issued underSection3 covered the entirety of the Estates.	None
+But what was urged on behalf of the appellants is that what had vested in the State was the nonbakasht lands as well as the proprietary interest in the Bakasht lands an hence the Bakasht lands do not have the protection of Sec. 4 (d) consequently it is not necessary for them to exclusively proceed underSection14.9.	None
+The consequences of the vesting of an Estate is set out inSection4.Section4 (a) provides that once an Estate vests in the State the various rights in respect of that Estate enumerated therein shall also vest in the State, absolutely free from all encumbrances.	None
+Among the rights enumerated therein undoubtedly includes the right of possession.	None
+In view ofSection4 (a) there is hardly any doubt that the proprietor loses all his rights in the estate in question.	None
+After setting out the various interests lost by the proprietor that Section proceeds to say such proprietor or tenure holder shall cease to have any interests in such estate or tenure other than the interests expressly saved by or under the provisions of this Act.	None
+In order to find out the implication of the clause extracted above we have to go to Section 8 which provides that on and from the date of vesting all lands used for agriculture or horticultural purposes which were in khas possession of an intermediary on the date of vesting (including certain classes of land specified in that section) shall subject to the provisions of Sections 7A and 7B be deemed to be settled by the State with such intermediary and he shall be entitled to retain possession thereof and hold them as a raiyat under the State having occupancy rights in respect of such lands, subject to the payment of such fair and equitable rent as may be determined by the Collector in the prescribed manner.10.	None
+Reading Sections 3, 4 and 6 together, it follows that all Estates notified under Section 3 vest in the State free of all encumbrances.	None
+The quondam proprietors and tenureholders of those Estates lose all interests in those Estates.	None
+As proprietors they retain no interest in respect of them whatsoever.	None
+But in respect of the lands enumerated in Section 6 the State settled on them the rights of raiyats.	None
+Though in fact the vesting of the Estates and the deemed settlement of raiyats rights in respect of certain classes of lands included in the Estates took place simultaneously, in law the two must be treated as different transactions first there was a vesting of the Estates m the State absolutely, and free of all encumbrances.	None
+Then followed the deemed settlement by the State of raiyats rights on the quondam proprietors.	None
+Therefore in law it would not be correct to say that what vested in the State are only those interests not coming with Section 6.11.	None
+Section 4 (d) provides that no suit shall lie in any Civil Court for the recovery of any money due from Such proprietor (proprietor whose estate has vested in the State) or tenureholder the payment of which is secured by a mortgage of, or is a charge on such estate or tenure and all suits and proceedings for the recovery of any such money which may be pending on the date of vesting shall be dropped.	None
+Proceedings in this section undoubtedly include execution proceedings.	None
+This is not a case where only a part of the mortgaged property has vested in the State and as such the rule laid down by this Court in Raj Kishore v. Ram Pratap AIR 1967 SC 801 is not attracted.	None
+As mentioned earlier the entire Estate mortgaged had vested though some interest in respect of a portion of the mortgaged property had been settled by the State on the mortgagors.12.	None
+Under the circumstances the only remedy open to the decreeholders is that provided in Chap.	None
+IV of the Act i. e. a claim underSection14 before the Claims Officer for determining the amount of debt legally and justly payable to each creditor in respect of his claim.	None
+The procedure to be followed in such a proceeding is prescribed in Ss. 15 to 18.	None
+Provisions relating to the assessment and payment of compensation payable to the quondam proprietors and tenureholders are found in Chap.	None
+V of the Act (Ss. 19 to 31).Section24 (5) provides that in the case where the interest of a proprietor or tenureholder is subject to a mortgage or charge, the compensation shall be first payable to the creditor holding such mortgage or charge and the balance, if any, shall be payable to the proprietor or tenureholder concerned . .	None
+That subsection further prescribes the maximum amount that can be paid to such a creditor.13.	None
+In view of what has been stated above it follows that under the circumstances of this case it is not open to the appellants to proceed with the execution.	Reasoning
+Their only remedy is to get compensation under the Act.14.	Reasoning
+Our conclusion receives strong support from some of the decisions of this Court.	Reasoning
+In Rana Sheo Ambar Singh v. Allahabad Bank Ltd., Allahabad, (1962) 2	Reasoning
+SCR 441 (AIR 1961 SC 1790 ) a question identical to the one before us, but arising under the U. P. Zamindari Abolition and Land Reforms Act, came up for consideration by this Court.	Reasoning
+One of the questions that arose for decision in that case was whether the Bhumidari right settled by the State on a previous proprietor whose estate had vested in the State was liable to be proceeded against in execution of a mortgage decree against the Estate that had vested in the State.	Reasoning
+This Court held that it was not liable to be proceeded against.	Reasoning
+Therein it was ruled that the intention of the U. P. Zamindari Abolition and Land Reforms Act was to vest the proprietary rights in the Sir and Khudkasht land and grove land in the State and resettle on intermediary not as compensation but by virtue of his cultivatory possession of lands comprised therein and on a new tenure and confer upon the intermediary a new and special right of Bhumidari, which he never had before bySection18 of the Act.	Reasoning
+The provisions in that Act relating to vesting and settlement of Bhumidari rights are in all essential particulars similar to those in the Act relating to vesting and settlement of Bakasht lands.	Reasoning
+This Court further ruled in that case that the mortgagee could only enforce his rights against the mortgagor in the manner as provided in S. 6(h) of the U. P. Act read with S. 73 of the Transfer of Property Act and follow the compensation money under the Act.15.	Reasoning
+In Krishna Prasad v. Gauri Kumari Devi, (1962)	None
+Supp 3 SCR 564(AIR 1962 SC 1464 ) the question that arose for decision by the Court was whether a mortgage decreeholder could proceed against the properties of the mortgagor other than those mortgaged in enforcement of the personal covenant when the property mortgaged had vested in the State under the provisions of the Act.	None
+That question was answered in the negative.	None
+In the course of the judgment Gajendragadkar, J., (as he then was) who spoke for the Court observed that there is no doubt that the scheme of the Act postulates that where the provisions of the Act apply, claims of the creditors have to be submitted before the Claims Officer, the claimants have to follow the procedure prescribed by the Act and cannot avail of any remedy outside the Act by instituting suit or any other proceeding in the Court of ordinary civil jurisdiction.	None
+Proceeding further he observedIt is in the light of this scheme of the Act that we must refer toSection4 (a) and determine what its true scope and effect are.	None
+Mr. Jha contends that in construing the words of Section4 (d) it would be necessary to bear in mind the object of the Act which was merely to provide for the transference to the State of the interests of the proprietors and tenureholders in land and of the mortgagees and lessees of such interests.	None
+It was not the object of the Act, says Mr. Jha, to extinguish debts due by the proprietors or tenureholders and so, it would be reasonable to confine the operation ofSection4 (d) only to the claims made against the estates which have vested in the State and no others.	None
+In our opinion, this argument proceeds on an imperfect view of the aim and object of the Act.	None
+It is true that one of the objects of the Act was to provide for the transference to the State of the estates as specified.	None
+But as we have already seen, the provisions contained inSection16 in regard to the scaling down of the debts due by the proprietors and tenureholders clearly indicate that another object which the Act wanted to achieve was to give some redress to the debtors whose estates have been taken away from them by the notifications issued underSection3.	None
+Therefore, in construingSection4 (d), it would not be right to assume that the interests of the debtors affected by the provisions of the Act do not fall within the protection of the Act.and again at page 578 (of SCR)(at p. 1470 of AIR)Having regard to the said scheme, it is difficult to confine the application ofSection4 (d) only to execution proceedings in which the decreeholder seeks to proceed against the estate of the debtor.	None
+In fact, an execution proceeding to recover the decretal amount from the estate which has already vested in the State, would be incompetent because the said estate no longer belongs to the judgment debtor.16.	None
+Summarising the effect of the aforementioned decisions this it what this Court observed in Raj Kishores case, AIR 1967 SC 801 (supra)  	Reasoning
+a case arising under the ActFrom the principles laid down by this Court in the above two decisions, it follows that where the whole of the property mortgaged is an estate, there can be no doubt that the procedure prescribed by Chapter IV has to be followed in order that the amount due to the creditor should be determined by the claims officer and the decision of the claims officer or the Board has been made final by the Act.17.	Reasoning
+For the reasons mentioned earlier we are of the opinion that the decision of the majority of the Judges in the Full Bench decision in Sideshwar Prashad Singh v. Ram Saroop Singh, 1963 BLJR 802 (AIR 1963 Pat 412 ) is not correct.	Reasoning
+The true effect of the decisions of this Court in Rana Sheo Ambar Singhs case, (1962) 2 SCR 441 (AIR 1961 SC 1790 ) supra) and Krishna Prasads case, (1962)	Reasoning
+Supp 3 SCR 564 (AIR 1962 SC 1464 ) is as explained by Kamala Sahai J., in that case.18.	Reasoning
+In the result this appeal fails and it is dismissed with costs.19.	Decision
+Appeal dismissed.	None

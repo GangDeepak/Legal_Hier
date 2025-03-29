@@ -1,0 +1,177 @@
+ P. Wadhwa, J. State Bank of India (SBI) is aggrieved by the order dated September 29, 1995 of the Customs, Excise and Gold (Control) Appellate Tribunal (for short, the Tribunal) rejecting its claim for refund of custom duty amounting to Rs. 10,86,49,119/.	Issue
+The claim for refund has been made under Section 27 of the Customs Act, 1962 and it is alleged that the excess amount of custom duty could not have been levied in view of the provisions of the Customs Valuation (Determination of Price of Imported Goods) Rules, 1988 (for short, the Rules) framed thereunder and the Press Note dated March 17, 1992 of the Department of Electronics, Government of India.	Issue
+SBI imported a consignment of Computer Software and Manuals from Kindle Software Ltd., Dublin, Ireland (Kindle for short) of the value of US 4,084,475.00 (equivalent to Rs. 10,75,70,267.25).	Facts
+SBI filed a Bill of Entry No. 5209 dated July 19, 1991 along with the invoice of Kindle bearing No. 910701 dated July 3, 1991 for the aforesaid amount and after paying custom duty of Rs. 12,04,78,699/ on July 25, 1991 cleared the goods for home consumption.	Facts
+On August, 7,1991 SBI filed an application before the Additional Collector of Customs, Bombay claiming refund of custom duty of Rs. 10,86,49,119/.	Facts
+It said that it had since received a detailed invoice which gave the particulars of imported Software and Manuals as under SBI, therefore, said that though it had paid custom duty on the total value shown in the Bill of Entry, the basic cost of software which was to be installed at one site in Bombay was US 401,047 while the rest of the amount of US 3,683,428 was payable only as licence fees for its right to use the software for the bank countrywide.	Facts
+SBI, therefore, said that it was required to pay custom duty for the consignment of software on an amount of US 401,047 only which included the cost of Manuals, Diskettes and licence fee and not on the whole amount shown in the Bill of Entry.	Facts
+In support of its claim SBI referred to the relevant Rules, these being Rules 2, 3, 4, 9(1) (c) and 12 of the Rules and the Interpretative Note to Rule 9 (1)(c).	Facts
+On the strength of the interpretative Note to Rule 9(1)(c) the SBI said that charges for the right to reproduce the imported goods in the country of importation should not have added to the price actually paid or payable for the imported goods in determining the custom value.	Facts
+SBI, therefore, requested that assessment made in respect of the consignment imported by it be rectified and that the breakup of the invoice amount in respect of (1) the cost of the manuals and diskettes, single site licence fee and (2) countrywide licence fee shown on the Bill of Entry earlier at the time of clearance of the goods.	Facts
+With this application SBI also sent a copy of another invoice from Kindle bearing the same number and date and for the same amount of US 4,084,475.00, now bifurcating the amount.	Facts
+We may set out here both the invoices, one that filed with the Bill of Entry and the other with the application seeking refund of the custom duty.	None
+SBI stated that it corresponded with Kindle and thereafter received the second invoice showing the breakup of the single site fee and the countrywide licence fee for use by copying and on that basis filed its claim for refund of the excess amount of custom duty amounting to Rs. 10,86,49,119/. By order dated February 29, 1992, the Assistant Collector rejected the refund claim of the SBI.	Facts
+It filed an appeal before the Collector (Appeals).	Facts
+In the meantime a press note2 dated March 17, 1992 was issued by the Government of India in the Department of Electronics which, according to SBI, directed that custom duty was not to be levied on reproduction charges.	Facts
+By order dated October 12, 1992, Collector (appeals) remanded the matter back to the Assistant Collector with the following observations I find that Asstt.	Facts
+Collector has not given any reason why the countrywide use of software cannot be considered as reproduction in the present case and also why the licence fee for countrywide use should not be considered the charges for the right to reproduce the imported goods in the country of importation as mentioned in Note to Rule 9(1)(c) of the Customs Valuation Rules, 1988.	Facts
+This is perhaps the most vital question in the case which has to be decided after due enquiry and the finding has to be a properly reasoned one.	Facts
+That is missing in the impugned order.	Facts
+The press note No. CDD Misc./92 dated 17.3.92 issued by the Department of Electronics has also been produced before me which was not available to the Lower Authority when he passed the impugned order in February 1992.	Facts
+This merits due consideration.	Facts
+In view of the above, I quash the impugned order and direct the Asstt.	Facts
+Collector to reexamine the case afresh and decide the issue.	Facts
+Now again after examining the matter in detail and after giving personal hearing to the SBI, the Assistant Collector by his order dated June 21, 1993 dismissed the claim of the SBI for refund.	Facts
+Appeal was taken to the Collector (Appeals) who by order dated July 7, 1994 upheld the order of the Assistant Collector.	Facts
+Further appeal was taken to the Tribunal which, by the impugned judgment dated September 29, 1995, dismissed the same.	Facts
+That is how the matter is before us.	Facts
+Section 14 of the Customs Act provides for valuation of goods for purposes of assessment.	None
+Subsection (1) of Section 14 provides For the purposes of the Customs Tariff Act, 1975 (51 of 1975), or any other law for the time being in force whereunder a duty of customs is chargeable on any goods by reference to their value, the value of such goods shall be deemed to be the price at which such or like goods are ordinarily sold, or offered for sale, for delivery at the time and place of importation or exportation, as the case may be, in the course of international trade, where the seller and the buyer have no interest in the business of each other and the price is the sole consideration for the sale or offer for sale Provided that such price shall be calculated with reference to the rate of exchange as in force on the date on which a bill of entry is presented under Section 46, or a shipping bill or bill of export as the case may be, is presented under Section 50.	None
+Subsection (1A) of Section 14 provides Subject to the provisions of Subsection (1), the price referred to in that subsection in respect of imported goods shall be determined in accordance with the rules made in this behalf.	None
+The whole thrust of Section 14 is to find out the value of the goods being imported for the purpose of assessment of duty of customs.	None
+In view of Subsection (1A) of Section 14 Rules have been framed.	None
+In the present controversy we are only concerned with the interpretation of Rule 9(1)(c) read with the Note of the Rules.	None
+These Rules apply to imported goods where a duty of customs is chargeable by reference to their value.	None
+Transaction value under Clause (f) of Rule 2 has been defined to mean the value determined in accordance with Rule 4.	None
+Rule 3 says that for the purposes of these Rules the value of imported goods shall be the transaction value.	None
+Under Rule 4 transaction value of the imported goods shall be the price actually paid or payable for the goods when sold for export to India, adjusted in accordance with the provisions of Rule 9 of the Rules.	Reasoning
+Rule 9 provides, in so far as it is relevant, that in determining the transaction value there shall be added to the price actually paid or payable for the imported goods, royalties and licence fees that the buyer is required to pay, directly or indirectly as a condition of the sale of goods being valued, to the extent that such royalties and fees are not included in the price actually paid or payable.	None
+This is Rule 9(1)(c).	None
+Now, if we refer to the Interpretative Note relating to Rule 9(1)(c) it says that royalties and licence fees may include, among other things, payments in respect to patents, trade marks and copyrights.	None
+There is, however, an exception which says that the charges for the right to reproduce the imported goods in the country of importation shall not be added to the price actually paid or payable for the imported goods in determining the customs value.	None
+Further payments made by the buyer for the right to distribute or resell the imported goods shall not be added to the price actually paid or payable for the imported goods if such payments are not a condition of the sale for the exports to the country of importation of the imported goods.	None
+The purpose for the Press Note is two fold (1) to bring down the prices of the imported software and (2) to save precious foreign exchange outflow on several copies of imported software.	None
+With this object in view, Central Government decided to allow duplication reproduction of imported software in India.	None
+That being so, duplication will not attract any excise duty.	None
+The royalty payable on duplicate copies of the software will be paid with the foreign exchange arranged by the party.	None
+No custom duty will be leviable on the royalty paid.	Arguments of Petitioner
+But then the Indian party will ensure that the royalty paid for each copy is not more than what is being charged by the manufacturer owner from other customers elsewhere in the world.	None
+Master Copy imported for duplication purposes will be assessed to customs duty as per existing procedure.	None
+From the reading of the press note, it is apparent that it would apply when there is commercial exploitation of the imported software.	None
+What we have now to see is if under the agreement SBI has right to reproduce the imported software and for that purpose SBI has paid royalties and licence fee which have been added to the price actually paid for the imported software for use at the principal place called the Support center.	Arguments of Respondent
+If that is so under the Press Note no customs duty is leviable on the royalty so paid.	None
+This takes us to the relevant terms of the agreement which would indicate as to whether or not the royalty license fees needed to be included in the value of the imported goods.	None
+The agreement is dated June 29, 1991 between the SBI and Kindle (the licensor) and is for the supply and support of software.	Reasoning
+It is a detailed one runs into 30 parts with various clauses and Schedules.	Reasoning
+If we refer to some of the relevant clauses we find that Kindle is to provide a software to the SBI along with manuals for the internal requirements only of SBI which shall be entitled to use of the software or any part thereof to process all or part of the actual business transactions of SBI, in parallel or live mode.	Reasoning
+Use of the software is strictly confined to the employees of the SBI at any branch or office of SBI in India called licence site.	Reasoning
+Software and manuals are to be delivered at one place called Support center where SBI shall maintain its principal team of support personnel for licence sites in the country.	Reasoning
+Use means copying of any portion of software into a machine and then processing of the machine instructions etc.	Reasoning
+Kindle has granted to SBI a nontransferable and nonexclusive licence to use the software in India and to provide technical assistance in the implementation of the software at the licence sites.	Reasoning
+Use of the software and manual by the SBI is under terms of strict confidentiality.	Reasoning
+SBI is forbidden to copy or promote a copy of the software save as may be strictly required for delivery to the licence sites.	Reasoning
+Use of the software and manual outside the term of the agreement is also forbidden.	Reasoning
+Schedule11 to the agreement describes the licensed software modules and single site licence fees totalling US 401,047.	Reasoning
+The whole software package consisting of 12 modules is called BANK MASTER.	Reasoning
+For this licence fee is US 422,322 but since all the Modules were not agreed to be supplied the licence fee for single site came to US 401,047.	Reasoning
+ScheduleII describes the initial licence fees and recurring licence fees.	Reasoning
+Initial licence fees for a countrywide licence in India for the software modules specified in ScheduleI for use under the terms of the agreement shall be US 4,084,475.	Reasoning
+This fee would be for a period of five years.	Reasoning
+Thereafter, it is the annual recurring licence fees as described in the agreement.	None
+Schedule I and II, in relevant parts, may be set out Initial Licence Fee and Recurring Licence Fees.	Reasoning
+1.1	None
+The initial Licence Fee for a countrywide licence for India for the Software Models specified in Schedule I (excluding the IQ Module) for use under the provisions of the Agreement shall be US 4,710,000.	Reasoning
+The Initial Licence Fee for the IQ Module shall be US 125 per site.	None
+1.2 From 1st October 1991 until the expiry of five years from the date of receipt by the Licensor of the payment referred to in Article 5.1(d) of this Agreement the annual Recurring Licence Fee for India for the Software Modules specified in Schedule I (excluding the IQ Module) (for use under the provisions of the Agreement) shall be US 435,000.	None
+Thereafter the annual Recurring Licence Fee for the IQ Module shall be US 22.50 per site.	None
+Mr. R.F. Nariman, learned Counsel appearing for the appellant, submitted with reference to various clauses of the agreement, the Press Note dated March 17, 1992 and Rule 9(1) (c) read with the interpretative note thereto that the refund claim was valid and ought to have been allowed.	Arguments of Petitioner
+According to him 46 diskettes and 82 manuals were imported for which there was separate price list and that was only liable to duty and not for the use of software at other places called the licensed places in the country.	Arguments of Petitioner
+Reference was also made to two letters one dated July 31, 1991 and the other dated September 17, 1991 from Kindle to SBI.	Arguments of Petitioner
+With the letter dated July 31, 1991 detailed invoice No. 910701 dated July 3, 1991 was sent.	Arguments of Petitioner
+It was stated in the letter that in terms of Schedule II of the agreement, upon delivery of a copy of the software to the Support center (single site), the next installment of US 1,429,566/25 had also become due and payable representing 35 of the licence fee in respect of those of the software modules as had already been delivered to the Support center.	Arguments of Petitioner
+It was further stated that the above amount also covered the charges for copying reproducing the software and documentation that SBI may use as per the terms of the agreement.	Arguments of Petitioner
+Lastly, it was said that SBI may please note that SBI would be entitled to copy reproduce the software and documentation, a copy of which software and five copies of which documentation are to be delivered by us to the Support center under the said Agreement, and thereby use these copies for its internal requirements as per the terms of the said Agreement.	Arguments of Petitioner
+Again in the second letter it was stated that with reference to the telephonic clarification sought by you as per the Agreement dated 29th June, 1991 executed between us, we hereby clarify and confirm that the amount of the licence fee mentioned in the Schedule II of the said Agreement means the licence fee payable by you in respect of a copy of the Software modules (excluding the IQ Module) and the copies of the Documentation supplied to the Support center (single site) and charges payable by SBI making reproducing any further copies thereof as per the terms of the said Agreement to be used by SBI at any of the licensed site in India (countrywide licence) as per the terms of the said Agreement.	Arguments of Petitioner
+Mr. Nariman also stated that with the Bill of Entry dated July 17, 1991 a declaration of the following effect was also filed DECLARATION We hereby declare that the break up for the value (as shown in column 9) of the consignment imported under B E No. 5209/19.7.91.	Arguments of Petitioner
+AWB No.61812310200 dt.	Arguments of Petitioner
+12791 as under . .	Arguments of Petitioner
+.	Arguments of Petitioner
+He then said that the authorities including the Tribunal did not properly consider the scope and intent of the Press Note and though the argument was raised it was brushed aside without proper consideration.	Arguments of Petitioner
+In short, argument of Mr. Nariman is that licence fee for right to use software countrywide at licence sites under the agreement is nothing but charges for the right to reproduce the imported software which charges shall not be added to the price actually paid or payable for the imported software in determining the customs value.	Arguments of Petitioner
+The Press Note clarifies that no custom duty will be leviable on the royalty paid.	Arguments of Petitioner
+13.	None
+Mr. Salve, learned Solicitor General, said that if true meaning of the agreement is seen, SBI has no right of reproduction of the software.	Arguments of Respondent
+The word reproduction is a term of art and is used in commercial sense.	Arguments of Respondent
+Right to reproduce is not for the convenience of the user but for the purpose of distribution.	Arguments of Respondent
+Reproduction in any case is a post importation event.	Arguments of Respondent
+Rules and the Press Note referred to commercial transaction where reproduction is meant for sale.	Arguments of Respondent
+In the present case, copies are only modalities for the use of the software by the SBI with various restrictions.	Arguments of Respondent
+It is fee for right to use.	Arguments of Respondent
+There are restrictive clauses negatively built up in the agreement.	Arguments of Respondent
+What SBI has imported is the acquisition of the software with the right to use.	Arguments of Respondent
+He said this was the understanding of the SBI also and in this connection, he referred to para 11 of the impugned judgment of the Tribunal.	Arguments of Respondent
+It is as under The appellants had written a letter dated 3.12.1992 to the Jt.	Arguments of Respondent
+Controller, Exchange Control Department Reserve Bank of India for reexporting of software module.	Arguments of Respondent
+In this letter they, have clearly specified the value of the entire software imported by them for the branches countrywide on US 4,084,475.00.	Arguments of Respondent
+After reexport, they have filed before the Asstt.	Arguments of Respondent
+Collector of Customs, an application for reexport of the BANK MASTER Query Module of the software under Section 74 of Customs Act.	Arguments of Respondent
+They have intimated about the deposit of Customs Duty of Rs. 12,04,78,699.00 paid by them on the total invoice amount of US 4,084,475.00 on account of countrywide licence for use of the software.	Arguments of Respondent
+In this letter, they have not stated that they have paid reproduction charges but have clearly stated that their invoice value for use of the software as per invoice value is US 4,084,475.00.	Arguments of Respondent
+They have been given an Annexure of splitup of values in this letter.	Arguments of Respondent
+They again wrote another letter dated 19.7.93 to the Asstt.	Arguments of Respondent
+Collector of Customs, wherein also they have requested for granting permission of reexport BM Query Module.	Arguments of Respondent
+This letter also speaks about the detail breakup of the various modules to RBI.	Arguments of Respondent
+They have stated that they estimate that the present market value will be definitely at least 10 more than the cost at which they had procured from the supplier as they had obtained special concession for the countrywide licence and that two years have elapsed since then.	Arguments of Respondent
+They filed their claim for duty drawback under Section 74 of Customs Act.	Arguments of Respondent
+By their letter dated 20.6.94 wherein also they have stated that they paid the said customs Duty under the said invoice amount of US 4,084,475.00 on account of countrywide licence for use of the software in respect of the software modules received.	Arguments of Respondent
+In the Annexure also, they have given the split up value and cost of software  all modules countrywide, cost of software  all modules (single site).	Arguments of Respondent
+In this letter, they have not mentioned about anything about the reproduction charges being different in the assessable value of the software.	Arguments of Respondent
+They again filed a letter dated 20.9.94 claiming duty drawback under Section 74 of the Customs Act in respect of the said Bank master Query.	Arguments of Respondent
+In this letter, they have given the entire details of the agreement as well as the cost of the entire project but they have not raised the dispute as well The case of the SBI is that only one set of diskettes was imported which comprised the software programme.	None
+This was to be kept in the Support Center at Bombay and as and when the software programme had to be made available to the branches of the Bank copies of these programmes were to be taken on blank floppies and sent to branches for use.	Reasoning
+It was stated that this process is reproduction.	Reasoning
+The agreement refers to licence fee payable in respect of single site in ScheduleI and ScheduleII refers to the fee for the countrywide licence and both are indicated separately.	Reasoning
+The claim for refund was in respect of ScheduleII.	Reasoning
+Though the original invoice did not show the split up the detailed invoice which was received later on did show licence fee for use at single site (including cost of manuals and diskettes) and that for the right to use countrywide.	Reasoning
+It is on that account it was submitted that software could be made available to branches only by reproduction process at the support center and that licence fees charged for right to use countrywide is reproduction charges and the same, therefore, could not be charged to duty.	Reasoning
+It is not, however, clear as to why the second invoice giving details having the same invoice number and the date was not available at the time of original assessment.	Reasoning
+Mr. Nariman could not give clear answer to that.	Reasoning
+He, however, stressed that details were already there on the back of Bill of Entry in the form of declaration, which we have reproduced above.	Reasoning
+This does not appear to be correct.	Reasoning
+This declaration appears to have been filed subsequently at the time of claiming refund.	Reasoning
+There is no mention of split up of charges anywhere in the body of the Bill of Entry.	Reasoning
+In column 9 of the Bill of Entry assessable value under Section 14 of the Customs Act has been shown as Rs. 10,75,70,267/.	Reasoning
+There is no indication whatsoever that any other document towards declaration was filed showing different charges  one for the use of the software at single site and the other for use of the software countrywide.	Reasoning
+This certainly appears to us to be an after thought.	Reasoning
+At the time when Bill of Entry was filed there is no doubt that what was mentioned in column 9 was the transaction value which is covered by the definition given in Clause (f) of Rule 2 of the Rules.	Reasoning
+The question that arises for consideration is if licence fee charged towards countrywide use of software in the second invoice could be the charges for the right to reproduction and were these added to the price actually paid or payable for the imported goods.	Issue
+If we refer to the agreement, software is not sold to the SBI as such but it was to remain property of Kindle.	Reasoning
+There is no other value of the software indicated in the agreement except the licence fee.	Reasoning
+Price is payable only for allowing SBI to use the software in a limited way at its own centers for a limited period and that is why the amount charged is called the licence fee.	Reasoning
+After five years SBI is required to pay only recurring licence fee.	Reasoning
+Countrywide use of the software and reproduction of software are two different things and licence fee for countrywide use cannot be considered as the charges for the right to reproduce the imported goods.	Reasoning
+Under the agreement copying, storage, removal, etc. are under the strict control of kindle and all copies are the property of the Kindle.	Reasoning
+SBI can use the software for its internal requirements only.	Reasoning
+Licence has been given to SBI to use the property of Kindle at its branches and not for reproduction of the software as claimed by the SBI.	Reasoning
+The words in the agreement are specific that SBI shall pay the licensor the initial licence fee and the recurring licence fees for use under the provisions of this agreement.	Reasoning
+It is difficult to accept the contention of the SBI that the countrywide licence fee paid by it is basically the reproduction charges only and by virtue of interpretative note to Rule 9(1)(c) the said charges could not be included in the assessable value for the purpose of levying of customs duty.	Reasoning
+Countrywide licence fee paid by SBI is not the same as the charges for the right to reproduce as envisaged in the interpretative note to Rule 9(1)(c).	Reasoning
+Total cost incurred would be transaction value on which customs duty has to be charged and total cost for the purpose of assessment of customs duty would include single site licence fee as well as countrywide licence fee.	Reasoning
+Rule 3(1) of the Rules provides that value of the imported goods shall be transaction value as defined by Rule 4 and which in the present case would mean the price actually paid or payable for the goods when sold for export to India.	Reasoning
+The amount payable to the supplier was US 4,084,475 which was correctly taken as assessable value.	Reasoning
+We may also take notice of the argument of the SBI that reproduction or making copies is unavoidable in its case as it has to have a countrywide computer network which works on LAN (Local Area Network) version and is not a mainframe system.	Reasoning
+In the case of mainframe it is possible to use the programme countrywide without having to reproduce software.	Reasoning
+But then even in such a situation SBI would have to pay the licence fee for countrywide use because it is the extent of the use which is determinative of the quantum of the licence fee.	Reasoning
+The act of reproduction is only the intermediary stage in the process of putting the programme to countrywide productive use.	Reasoning
+The term productive use has been defined in Clause 1.8 of the agreement which means use of software or any part thereof to process all or part of SBIs actual business transaction in parallel or live mode.	Reasoning
+The amount of US 3,683,428 has been paid as licence fee for countrywide use of software to process all or part of SBIs actual business transaction and not for acquiring the right to use the software programme.	Reasoning
+Kindle supplied to the SBI countrywide licence for India of software package containing various modules as given in the invoice and consisting of 46 diskettes and 82 manuals (including cost of insurance and freight) for US 4,084,475.00.	Reasoning
+This amount in the subsequent invoice was bifurcated into (I) Licence Fee for use of software package at single site (including cost of 82 manuals and 46 diskettes of US 14,300)  US 401,047 and (2) Licencing Fee for right to use countrywide  US 3,683,428.00 (totalling US 4,084,475).	Reasoning
+Reproduction and use are two different things.	Reasoning
+Now under the agreement user is specifically limited to licence sites.	Reasoning
+Transaction as a whole is to be seen.	Reasoning
+Press Note is of no help to the SBI.	Reasoning
+Rule 9(1)(c) and the interpretative note thereto did not apply as nothing was added to the price actually paid for the imported goods by way of royalties etc.	Reasoning
+Refund would be allowable only if there was something added on to the royalty payment which was not in the present case.	Reasoning
+The invoice originally presented was complete in itself.	Reasoning
+Second invoice was not filed along with the Bill of Entry.	Reasoning
+In the second invoice also it is licence fee for right to use countrywide and it is not right to reproduce as claimed by the SBI.	Reasoning
+Schedule I to the agreement is module and copies are modalities for the use of software by the SBI with various restrictions.	Reasoning
+If we again refer to Clause 6.4 of the agreement there is a complete restraint on SBI which says SBI shall not use, print, copy, reproduce or disclose the software or documentation in whole or in part except as is expressly permitted by the agreement nor shall SBI permit any of the foregoing.	Reasoning
+SBI is also barred from allowing access to its software or documentation except what is permitted under the agreement.	Reasoning
+Again SBI is barred from selling, charging or otherwise making the software or documentation available to any person except what is expressly permitted under the agreement.	Reasoning
+Clause 6.5 of the agreement says that SBI shall not copy or permit copying of the software supplied to it by Kindle save as may be strictly required for delivery to licence sites.	Reasoning
+The terms of the agreement also apply to the copies.	Reasoning
+Having thus examined the terms of the agreement between M s. Kindle Software Ltd., Dublin, Ireland and the State Bank of India for supply of software and the Rules regarding valuation as contained in Customs Valuation (Determination of Price of Imported Goods) Rules, 1988 and the Press Note, we are of the opinion that the stand of the revenue is correct.	Decision
+The State Bank of India is not entitled to any refund of the custom duty paid.	Decision
+We uphold the order of the Customs, Excise and Gold (Control) Appellate Tribunal and dismiss the appeal with costs.	Decision

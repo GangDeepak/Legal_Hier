@@ -1,0 +1,26 @@
+The respondent manufactures electric bulbs and tubes.	Facts
+The bulbs and tubs are sold FOR destination.	Facts
+The price charged includes two per cent towards transit risk insurance.	Facts
+For the purposes of the assessable value of the bulbs and tubes, the respondent claimed a deduction on account of equalised freight based on the elements of transportation charges, insurance charges, octroi and taxes.	Facts
+The respondent filed a statement of actual expenses for the year in question, namely, 199495, duly certified by a Cost Accountant.	Facts
+It showed that the deduction on account of insurance charges was actually on account of transit losses breakages replenished to customers.	Facts
+The deduction on this account, claimed in the sum of Rs. 1,05,79,909/, was disallowed by the assessing authority and in appeal.	Facts
+The Central Excise and Gold (Control) Appellate Tribunal, however, in a brief order, said that transit insurance was eligible for deduction while determining assessable value according to its earlier orders.	Issue
+It, therefore, allowed the appeal.	Issue
+2.The learned Attorney General, appearing for the appellant, submitted that what was in question was actually compensation for breakages or losses sustained during transit paid by the respondent to its customers and it was, therefore, not an allowable deduction.	Arguments of Petitioner
+He drew attention in this behalf to the two M.R.F. judgments,Assistant Collector of Central Excise Ors.v.	Arguments of Petitioner
+Madras Rubber Factory 1986 SC 682 (S.C.) 1986 SC 682 and Government of India Ors.	Arguments of Petitioner
+v. Madras Rubber Factory Ltd.	Arguments of Petitioner
+Ors. 1995 SC 937 (S.C.) 1995 SC 937) where it has been held that payments in the nature of compensation did not qualify for deduction.	Arguments of Petitioner
+3.Learned counsel for the respondent placed reliance upon Section 4(2) of the Central Excise Act, 1944.	Arguments of Respondent
+It provides (2) The provisions of this section shall not apply in respect of any excisable goods for which a tariff value has been fixed under subsection (2) of section 3.	Arguments of Respondent
+4.He submitted that the cost of transit insurance was includible in the cost of transportation and in this behalf he relied upon the secondMRFjudgment.	Arguments of Respondent
+He submitted, in the first instance, that although the respondent had not insured with an insurance company the goods that it was transporting to its customers the effect was the same in that it was providing insurance to its customers and was charging two per cent from them.	Arguments of Respondent
+In the alternative, he submitted that if this submission was not accepted and the court was of the view that it was compensation that was being paid to the customers, it was part of the cost of the transportation of the goods.	Arguments of Respondent
+5.We are unable to accept either submission.	None
+In the case of transportation what is includible is the cost of taking out insurance to cover the goods transported in other words, to cover oneself against a possible loss by paying a premium to an insurance company.	Reasoning
+The payment made by the respondent to its customers for breakages and losses cannot tantamount to insurance.	Reasoning
+Nor can, by any means, such compensation be treated as a part of the cost of transportation it is a clear case of making up to the customer by means of a credit note the monies that it has lost on account of breakages or losses in transit.	Reasoning
+6.In the result, the civil appeal is allowed.	Decision
+The judgment and order under appeal is set aside.	None
+7.No order as to costs.	None

@@ -1,0 +1,427 @@
+ P. Colabawalla J.1.
+By this Petition, the Petitioner bank seeks a writ of certiorari for quashing the impugned order dated 29th December, 2016 (Exh F) and the impugned reference dated 29th December, 2016.
+The impugned order dated 29th December, 2016 (Exh F) passed by Respondent No.1 holds that certain transactions entered into by the Petitioner are Specified Domestic Transactions (for short SDTs) as per section 92BA(i) of the Income Tax Act, 1961 (for short the I.T. Act) and the Arms Length Price (ALP) of the said transactions are required to be determined by making a reference to Respondent No.2.
+It is pursuant to this order that the reference dated 29th December, 2016 was made to Respondent No.2 under section 92CA(1) of the I.T. Act for determination of the ALP in the Petitioners case for the Assessment Year (for short A.Y.) 201415.
+It is the case of the Petitioner that the impugned order as well as the impugned reference are exfacie without jurisdiction, illegal, unsustainable, contrary to the principles of natural justice and contrary to law, and therefore, ought to be quashed and set aside by us in our writ jurisdiction.
+This is how the present Writ Petition has been filed.2.
+Before we set out the legal submissions of the respective parties, the brief facts of the case and which would be necessary to determine the controversy before us, are as under(a) The Petitioner is a public limited company registered under the Companies Act, 1956 and is also registered as a banking company with the Reserve Bank of India (RBI).
+The primary business of the Petitioner is banking.
+The Petitioner filed its assessment of income for the Assessment Year (A.Y.) 201415 on 30th November, 2014 declaring a total income of Rs.12595,27,63,920/. The Petitioner, along with the return of income, also filed Form 3CEB inter alia disclosing certain specified domestic transactions entered into by it during the relevant year.
+Thereafter, the Petitioners case was selected for scrutiny assessment.
+During the scrutiny, the Petitioner again filed a copy of Form 3CEB on 11th June, 2016.
+It is the case of the Petitioner that the SDTs entered into by it and reported in Form 3CEB were similar to the transactions entered into by the Petitioner in the earlier assessment year, namely, A.Y. 201314 and the Transfer Pricing Officer (for short the TPO) had accepted that all the transactions entered into by the Petitioner were at an ALP.
+This was held by the TPO in his order dated 24th October, 2016.(b)
+It is in these circumstances that the Petitioner has averred that it was surprised to receive a show cause notice from Respondent No.1 on 29th December, 2016 at 01.39 a.m., vide an email, for the alleged nonreporting of certain related party transactions for the A.Y. 20142015 and required the Petitioner to provide the reasons why the same should not be reported to Respondent No.2 for determination of the ALP.
+This show cause notice was to be replied to by the Petitioner by 11.00 a.m. on the same date i.e. 29th December, 2016.
+According to Respondent No.1 certain transactions (mentioned hereinafter) were entered into by the Petitioner with related parties as per section 40A(2)(b) which were not reflected in form 3CEB filed by the Petitioner.
+Those transactions are as underi.
+The Petitioner purchased Loans from HDFC Ltd and its subsidiaries amounting to Rs.5164 Cr and Rs.27.72 Cr respectively.ii.
+The Petitioner has received services from HBL Global Private Ltd. (for short HBL Global) for which the Petitioner paid an amount 492.5 Cr.
+and the Petitioner was having beneficial ownership of HBL Global.iii.
+The Petitioner has paid interest amount 4.41 Crore to HDB Welfare Trust which was a Trust created by the Petitioner.(c) Since Respondent No.1 was of the opinion that these transactions were entered into with related parties as set out in section 40A(2)(b) of the IT Act, they ought to have found place in Form 3CEB filed by the Petitioner.
+Since this was not done, the show cause notice was issued.(d)
+According to the Petitioner no personal hearing was given to them by Respondent No.1 in relation to these transactions.
+Be that as it may, the Petitioner, vide its letter dated 29th December, 2016, submitted a reply with respect to each of these above mentioned three transactions and gave an explanation as to why they could not be termed as SDTs.
+This being the case the Petitioner stated that there was no requirement on their part to disclose the same in Form 3CEB and correpondingly there was no question of making a reference to the TPO for determining the ALP in relation to these three transactions.(e)
+In a nutshell, it was the Petitioners case that the transaction referred to in item (i) above the purchase of loans from HDFC Ltd, firstly did not relate to A.Y. 2014 2015 but in fact the aforesaid transaction was entered into by the Petitioner in the earlier year and were relating to A.Y. 20132014.
+For A.Y. 201314 transfer pricing assessment had already been completed and become final.
+The Petitioner further submitted that in any event, none of the promoters of the Petitioner held more than 20 of the shareholding individually and hence these transactions did not take place with a person as contemplated under section 40A(2)(b) of the IT Act.
+The other submission with reference to this transaction was that admittedly this transaction was a transaction of purchase of loans which could never be termed as an expenditure, and therefore, the same did not come within the ambit of section 92BA(i) of the IT Act.(f)
+As far as the transaction listed at item (ii) is concerned payment of Rs.492.50 Cr to HBL Global for services rendered, the Petitioner submitted that it did not have any direct shareholding in HBL Global as that company was a subsidiary of Atlas Documentary Facilitators Co. Pvt. Ltd.
+(ADFC Ltd.) in which the Petitioner has a 29 shareholding.
+The Petitioner submitted that indirect shareholding is not covered or contemplated under section 40A(2)(b) of the Act, and therefore, the transactions with HBL Global was not covered under the said section.
+This being the case, the contention of the Petitioner was that this transaction also could never fall within the ambit of a SDT as understood under section 92BA(i).
+In support of this argument, the Petitioner submitted that the Petitioner cannot be regarded as the beneficial owner of the shares of HDL Global as the beneficial owner of these shares was ADFC Ltd. and not the Petitioner.(g)
+As far as the transaction listed in item (iii) is concerned payment of interest of Rs.4.41 Cr to HDB Trust, the Petitioner submitted that HDB Welfare Trust was established for providing general welfare measures such as medical relief and educational assistance to the employees of the Petitioner bank.
+The Petitioner bank further submitted that as the beneficiaries of the HDB Welfare Trust were the employees of the Petitioner and not the Petitioner, the Trust does not come within the ambit of a person party as required under section 40A(2)(b) of the Act.(h)
+After considering these objections of the Petitioner, Respondent No.1, vide his impugned order dated 29th December, 2016, rejected the objections that the aforesaid transactions were not SDTs, and therefore, held that domestic transfer pricing provisions would be applicable.
+In a nutshell, Respondent No.1 held that the Petitioner was involved in the transaction of purchase of loan which is a business asset of the Petitioner and the purchase of such asset from a related party falls under section 40A(2)(b) of the IT Act.
+Respondent No.1 further held that the consolidated holding of the promoters was in excess of 20 of the shareholding of the Petitioner and hence, the beneficial ownership clause was applicable.
+Respondent No.1 further went on to hold that since the Petitioner holds 29 shareholding of ADFC Ltd., which in turn holds 98.4 of the shares of HBL Global, the Petitioner had beneficial ownership and voting rights of more than 20 of HBL Global and hence the transaction with HBL Global was with a person party as covered by section 40A(2)(b) of the I.T. Act.
+As far as the Trust was concerned, Respondent No.1 held that the Petitioner possesses more than 20 of the rights in the said Trust which makes it a related party as per the provisions of section 40A(2)(b) of the Act.
+It is in these circumstances that Respondent No.1 passed the impugned order and thereafter, on the very same day (namely, on 29th December, 2016) made a reference (in relation to all the abovementioned three transactions) under section 92CA(1) of the Act to Respondent No.2 for determining the ALP.(i)
+Once this reference was made, Respondent No.2 issued a notice dated 30th December, 2016 under section 92CA(2) of the I.T. Act asking the Petitioner to produce various information in relation to international transactions and or SDTs referred to by Respondent No.1 vide his letter dated 29th December, 2016.
+This was for A.Y. 20142015.
+To this letter of Respondent No.2, the Petitioner replied by contending that certain basic documents which the Petitioner had maintained with respect to the international transactions SDTs reported by the Petitioner in Form No.3CEB were already submitted and those transactions were accepted to be SDTs.
+It was the case of the Petitioner that the transactions referred to Respondent No.2 by Respondent No.1 were not SDTs, and therefore, the Petitioner was not obliged in law to submit any documents to Respondent No.2 with reference to these transactions.
+The Petitioner also alleged that the reference made to Respondent No.2 was not only bad in law, but also appeared to be made in undue haste by Respondent No.1.(j)
+It is thereafter, and in these facts and circumstances, that the present Writ Petition has been filed seeking quashing and setting aside of the impugned order dated 29th December, 2016 passed by Respondent No.1 as well as the impugned reference dated 29th December, 2016 under which Respondent No.1 made a reference to Respondent No.2 for determining the ALP for the above mentioned three transactions and which, according to Respondent No.1, were SDTs.(k) After this Petition was filed on 23rd June, 2017, the Division Bench of this Court recorded that the matter has debatable issues which require consideration, and therefore, the matter was placed for hearing on 14th July, 2017.
+The Division Bench directed that till then the TPO shall not pass any final order.
+The Division Bench also recorded that if possible an endeavor shall be made to dispose of this Petition finally at the stage of admission.
+Thereafter, the matter has been adjourned from time to time and has now come up before us and with the consent of parties we have heard it finally.
+In these circumstances we issue Rule.
+The Respondents waive service.
+By consent, Rule is made returnable forthwith and heard finally.3.
+In this factual backdrop, learned Senior Counsel Mr J.D. Mistri appearing on behalf of the Petitioner, submitted that in the facts of the present case there were three transactions which the Revenue had alleged, were SDTs.
+They are (1) Loans of Rs.5164 Crores purchased by the Petitioner from the promoters (HDFC Ltd.) and loans of Rs.27.72 Crores purchased from the subsidiaries(2) Payment of Rs.492.50 Crores by the Petitioner to HBL Global for rendering services and(3) payment of interest of Rs.4.41 Crores by the Petitioner to HDB Welfare Trust.
+Mr Mistri submitted that it is only when the aforesaid transactions, or any of them, are a SDT, and which are not reported by the assessee, then the A.O. is required to issue a show cause notice to the assessee and pass an order disposing of the objections of the assessee before referring the said SDT to the TPO for determining the ALP.
+He submitted that to challenge the order of the A.O. there is no other alternate efficacious remedy and in fact this Court in the case of Vodafone India Services Pvt.
+Ltd.
+Vs.
+Union of India 361 ITR 531 has held that such an order passed by the A.O. rejecting the objections of the assessee that the transactions are not SDTs, can be challenged by way of a Writ Petition.
+Another reason stated by Mr Mistri why the Writ Petition came to be filed was that once the transaction is treated as a SDT, penalty under section 271G of the Act (at 2 of the value of the alleged SDT) is leviable, even if the TPO was to come to the conclusion that the transactions were at the ALP.
+It is in these circumstances, Mr Mistri submitted that the Petitioner has been constrained to approach this Court in its extraordinary, equitable and discretionary jurisdiction under Article 226 of the Constitution of India.4.
+Thereafter, Mr Mistri submitted that neither of the three transactions are a SDT as wrongly held by Respondent No.1.
+He submitted that as far as the loans of Rs.5164 Crores purchased by the Petitioner from the promoters as well as Rs.27.72 Crores purchased from the subsidiaries is concerned, he stated that the aforesaid transaction is not a transaction relating to the assessment year in question, namely, A.Y. 201415.
+In this regard he relied upon the annual accounts of the Petitioner annexed at pages 100 101 of the paper book.
+According to Mr Mistri, this submission was not even considered by the A.O. in the impugned order while rejecting the objections of the Petitioner.
+Mr Mistri submitted that this transaction related to A.Y. 201314, for which the Transfer Pricing Assessment was already completed.
+This being the case, at the outset, Mr Mistri submitted that this transaction could never be taken for A.Y. 201415 and be treated as a SDT.5.
+Thereafter, Mr Mistri submitted that in any event, this transaction of purchasing loans could never be a SDT.
+Mr Mistri submitted that for a transaction to fall within the meaning of a SDT under section 92BA(i) of the Act, the transaction has to be one which is not an international transaction and in which any expenditure in respect of which payment has been made or is to be made by the assessee to a person referred to in section 40A(2)(b) of the Act.
+He submitted that section 40A(2)(b) of the Act refers to certain persons, and the transaction in question, namely, the purchase of loans from the promoters of the Petitioner (HDFC Ltd.) did not fall within any of the persons mentioned in section 40A(2)(b) read with explanation (a) thereof, and which is appended to section 40A(2)(b) of the Act.
+In this regard, he brought to our attention section 40A(2)(b)(iv) of the Act and contended that the person referred to in the said subsection has to have a substantial interest in the business or profession of the assessee (in the present case the Petitioner).
+He submitted that explanation (a) sets out what is the meaning of substantial interest and stipulates that in a case where the business or profession is carried on by a company, such person is, at any time during the previous year, the beneficial owner of the shares carrying not less than 20 of the voting power.
+In the facts of the present case, Mr. Mistri submitted that admittedly HDFC Ltd. is the beneficial owner of only 16.39 of the shares of the Petitioner and hence section 40A(2)(b) was not at all applicable to the present transaction.
+He submitted that the Revenue had grossly erred in clubbing the shareholding of HDFC Ltd. with the shareholding of its subsidiary, namely, HDFC Investments Ltd. (and which has a 6.25 shareholding in the Petitioner), to cross the threshold of 20.
+To put it differently, Mr Mistri submitted that HDFC Ltd. holds 16.39 of the shareholding of the Petitioner and HDFC Investments Ltd. holds 6.25 of the shares of the Petitioner.
+To cross the threshold of 20 as required under section 40A(2)(b), the Revenue is seeking to club both these shareholdings together.
+He submitted that in law, this can never be done.
+He submitted that in law, the Parent Company (here HDFC Ltd.) can never be said to be the beneficial owner of the properties of its subsidiary (here HDFC Investments Ltd.).
+He submitted that the shares held by HDFC Investments Ltd in the Petitioner was nothing but the movable property of HDFC Investments Ltd.
+This being the case, Mr. Mistri submitted that the Revenue could never club the two shareholdings together to cross the threshold of 20 as required by section 40A(2)(b) read with explanation (a) thereof.
+In support of this proposition, Mr. Mistri placed reliance on the following decisions of the Supreme Court(a)
+Bacha F. Guzdar Vs. CIT (1955) 27 ITR 1 (SC)(b)
+Vodafone International Holdings BV Vs. UOI 341 ITR 1 (SC) and(c) BA Mohota Textile Traders Pvt.
+Ltd.
+Vs. DCIT 397 ITR 616 (Bom).6.
+To further substantiate this argument, Mr Mistri also placed reliance on the meaning of the word beneficial owner as appearing in the Blacks Law Dictionary as well as Tax Laws Lexicon (2012 Edition).
+According to Mr Mistri, Blacks Law Dictionary defined beneficial owner as one recognized in equity as the owner of something because use and title belong to that person, even though the legal title may belong to someone else especially one from whom property is held in Trust .
+Similarly, according to Mr Mistri, Tax Laws Lexicon (2012 Edition) defines beneficial owner as the person who is not the legal owner but has the right to deal with the property as his own and has a right to enjoy the income.
+Mr. Mistri submitted that even section 89 of the Companies Act, 2013 requires a disclosure to be made to the Company (in the present case the Petitioner) by the owner of the shares if the owner is not the beneficial owner.
+In the present case no such disclosure is required to be made by HDFC Investments Ltd., and in fact, no such disclosure has been made in terms of section 89, by
+HDFC Investments Ltd.
+He therefore submitted that HDFC Ltd. (the parent company of HDFC Investments Ltd.) could never be said to be the beneficial owner of the shares owned by HDFC Investments Ltd. in the Petitioner.7.
+Mr Mistri then submitted that it is undisputed that there cannot be more than one beneficial owner of the shares.
+It cannot be that two different persons are the beneficial owners of the same shares.
+If we were to accept the submission of the Revenue, the same would lead to a complete absurdity.
+Mr Mistri submitted that take for example Company A has a wholly owned subsidiary, Company B.
+In turn, the shares of Company C are held 90 by Company B and 10 by Company A.
+If one was to give the interpretation as sought for by the Revenue, then it would mean that Company A beneficially owns 100 of Company C which would lead to an absurd situation that Company B though owning 90 of the shareholding in Company C, would not be regarded as having a substantial interest in Company C as Company B cannot be said to be the beneficial owner of its 90 shareholding in Company C. Further, if the interpretation of the Revenue was to be held as correct then one will not have to not stop there and then also see the shareholders of Company A as the beneficial owner of the shares of Company C.
+This would then lead to absurd results, namely, that then even Company A also would not have a substantial interest in Company C and it would be the shareholders of Company A that would have a substantial interest in Company C. This, according to Mr Mistri, would lead to startling results.
+He therefore submitted that such an interpretation has to be avoided at all costs.8.
+Mr Mistri further submitted that a Guidance Note issued by the Institute of Chartered Accountants of India on Report under section 92E, specifically provides that for the purposes of section 40A(2)(b) one has to consider only direct shareholding and not derivative or indirect shareholding.
+He submitted that though the Guidance Note is not binding on this Court, the Supreme Court in the case of CIT Vs Virtual Soft Systems Ltd.
+404 ITR 409 (SC) has held that the Guidance Note can be used as an aid to interpret the provision.
+In furtherance of this argument, Mr Mistri submitted that wherever the Legislature intended, they have used the term directly or indirectly throughout the Income Tax Act, 1961.
+Some of the examples given by Mr Mistri were sections 92A(1), 92A(2), 285A, 9(1)(i), and explanation 5 to section 9(1), to name a few.
+Mr Mistri submitted that in fact the term directly or indirectly is used more than 40 times in the Act.
+What is important to note is that this very term, directly or indirectly is conspicuously absent in explanation (a) to section 40A(2)(b) of the Act, was the submission of Mr. Mistri.
+If the interpretation of the Revenue was to be accepted, the same would tantamount to doing serious violence to the language of the statute by introducing words in explanation (a) to section 40A(2)(b) which have not been provided by the Legislature.
+Mr. Mistri submitted that this is more so when one takes into consideration that explanation (a) to section 40A(2)(b), being a deeming provision, must be interpreted strictly.
+He, therefore, submitted that the present transaction, namely, purchase of loans by the Petitioner from HDFC Ltd. and its subsidiary can never be termed as a SDT.9.
+In the alternative to the above argument, Mr Mistri submitted that the purchase of these loans can never be an expenditure as covered under sections 28 to 37 of the Act.
+It was basically a purchase of an asset and hence not an expenditure covered under section 92B(A)(i).
+Mr Mistri submitted that section 40A would be applicable when an amount expended or paid is claimed as a deduction whereas loans purchased by the Petitioner is not claimed as a deduction and which is reflected as an asset in the balancesheet.
+He submitted that even the A.O. accepts in the impugned order that the transaction of purchase of loans is an asset of the Petitioner.
+Mr Mistri submitted that section 92BA(i) would apply only when an expenditure is incurred for which a payment is made to a party covered under section 40A(2)(b) of the Act.
+In the present case, the purchase of loans was not an expenditure but payment made for acquiring an asset, and hence, the same could never fall within the ambit of section 92BA(i) at all.
+Mr Mistri submitted that it is not possible to purchase an asset without making payment but that by itelf, without anything more, would not mean that such payment is an expenditure as understood under the Act.
+He submitted that for purchasing an asset the purchaser pays a price for acquiring the asset and it is referred to as the consideration for the purchase of that asset and not an expenditure for that asset.
+He submitted that the consideration paid for acquiring the asset can never be said to be in the nature of expenditure so as to come within the ambit of section 92BA(i) of the Act.
+Mr Mistri was at pains to point out that an asset would be reflected in the balancesheet of the company whereas expenditure would not find place in the balancesheet but would be reflected in the Profit Loss Account.
+These loans that were purchased by the Petitioner are reflected in the balancesheet of the Petitioner bank and not in the Profit Loss Account.
+This is another reason why Mr Mistri submitted that the present transaction, namely, purchase of loans by the Petitioner, could never fall within the definition of a SDT under section 92BA(i) of the Act.10.
+As far as the transaction with HBL Global is concerned, namely, the payment made by the Petitioner of Rs.492.50 Crores to HBL Global for rendering services, Mr Mistri submitted that the Petitioner bank holds 29 shares of a company called Atlas Documentary Facilitators Co. Pvt. Ltd. (ADFC Ltd.) which in turn holds 98.4 shares of HBL Global.
+He submitted that admittedly the Petitioner does not have any shareholding in HBL Global and hence the Petitioner does not beneficially own more than 20 of the shares of the HBL Global Pvt. Ltd. or vice versa, as contemplated under section 40A(2)(b) of the Act.
+He, therefore, submitted that the payment of Rs.492.50 Crores for the services rendered by HBL Global to the Petitioner was not a transaction that could fall within section 92BA(i) of the Act to be termed as a SDT.
+Mr. Mistri submitted that Respondent No.1 erred in holding that merely because the Petitioner holds 29 shares of ADFC Ltd., which in turn holds 98.4 shares in HBL Global, the Petitioner would be regarded as a beneficial owner of the shares and voting rights of HBL Global.
+Once again, Mr Mistri submitted that Respondent No.1 has completely misconstrued meaning of the word beneficial owner of the shares.
+He submitted that the legal and beneficial owner of shares of HBL Global is only ADFC Ltd. and cannot be said to be any shareholder of ADFC Ltd.
+He submitted that it is now well settled that the shareholders of a company cannot be said to have any beneficial interest in the assets of that company.
+He submitted that 98.4 shareholding of ADFC Ltd. in HBL Global was an asset movable property of ADFC Ltd.
+By no stretch of the imagination, therefore, could the Petitioner be held to be the beneficial owner of the shares held by ADFC Ltd in HBL Global.
+He, therefore, submitted that this transaction could never be termed as a SDT as understood under section 92BA(i) read with section 40A(2)(b) of the Act.
+Mr Mistri submitted that if the logic of Respondent No.1 was to be taken to its logical conclusion, then it would mean that it is not even the Petitioner who is the beneficial owner of the shares of HBL Global, but it is the shareholders of the Petitioner who were the beneficial owners of the shares of HBL Global.
+As stated earlier, Mr Mistri submitted that this would lead to an absurd situation.
+He submitted that this could never been the intention of the Legislature as such an interpretation would lead to startling results and therefore has to be avoided.11.
+As far as the transaction of payment of interest of Rs.4.41 Crores to HDB Welfare Trust is concerned, Mr Mistri submitted that the beneficiaries of the said Trust are the employees of the Petitioner and not the Petitioner.
+He, therefore, submitted that the Trust does not come within the ambit of section 40A(2)(b) of the Act as explanation (b) to section 40A(2)(b) clearly provides that the Petitioner must be beneficially entitled to 20 of the profits in the said Trust.
+He submitted that in the facts of the present case this transaction did not fall within explanation (a) of section 40A(2)(b), but explanation (b) to the said section.
+He submitted that Respondent No.1 had proceeded on a factually wrong assumption that the Petitioner possesses more than 20 of the rights in the said Trust which makes it a related party as per the provisions of section 40A(2)(b) of the Act.
+He, therefore, submitted that even this transaction could never fall within the ambit and scope of a SDT as contemplated under section 92BA(i) of the Act.12.
+Mr Mistri then submitted that the whole premise of the impugned order that these transactions are referred to as related party transactions in form 3CD, was factually incorrect.
+This fact, according to Mr Mistri, has been accepted by Respondent No.1 in an affidavitinreply filed on behalf of the Revenue (page 356).
+He, thereafter submitted that the impugned order is contrary to the principles of natural justice and needs to be set aside on this ground alone.
+He submitted that the notice issued to the Petitioner before passing the impugned order was served on the Petitioner on 29th December, 2016 at 01.29 a.m. asking the Petitioner to show cause by 11.00 a.m. of the same date.
+The Petitioner was given no personal hearing and though the Petitioner filed its submissions in the afternoon of 29th December, 2016, Respondent No.1 passed the impugned order on the very same day.
+He submitted that even the approval from the CIT was granted on the same day and thereafter the reference in relation to these three transactions was made to TPO also on the very same day.
+He submitted that looking to these facts it was clear that the principles of natural justice had been clearly violated as no effective opportunity was given to the Petitioner for showing cause to the notice issued by Respondent No.1.
+No personal hearing was also granted to the Petitioner before passing the impugned order, was the submission of Mr Mistri.
+He, therefore, submitted that all this clearly goes to show that the impugned order and the impugned reference are clearly illegal and bad in law, and therefore, ought to be set aside by us in our extraordinary, equitable and discretionary jurisdiction under Article 226 of the Constitution of India.13.
+On the other hand, Mr Chhotaray, learned advocate appearing on behalf of the Revenue, submitted that for a specified domestic transaction there are two types of pricing.
+First is the Arms Length Price and the second is the Transfer Price.
+The ALP is the price between unrelated parties.
+This price is determined by the market forces.
+Transfer Price, on the other hand, is the price of the transaction fixed between two related parties.
+Since these related parties are subject to common control, the price of inter se transactions amongst the related parties can be manipulated to transfer profit from one party to another in order to evade tax.
+It is for this very reason that the Transfer Pricing provisions were brought into force by the Legislature so as to determine the ALP of a transaction between related parties.
+He submitted that this was done in order to evade tax.
+If the Transfer Price was different from the ALP the Taxing Officer could make adjustments after following the provisions as set out in Chapter X of the Income Tax Act, 1961.14.
+As far as the transaction of purchase of loans by the Petitioner from HDFC Ltd. is concerned, Mr Chhotaray submitted that it was wrong on the part of the Petitioner to claim that the purchase of these loans is not an expenditure since it is not debited to the Profit and Loss Account.
+He submitted that the Petitioner is a bank involved in banking business.
+In the normal course of its business it indulges in the activity of purchasing and selling of loans.
+These transactions, being a part of the business activity of the Petitioner warrant to be treated as a business asset and stock.
+He submitted that in the annual report of the Petitioner, the Petitioner reported these related party transactions as purchases.
+He submitted that the purchase of any asset services cannot be made without incurring an expenditure.
+For any asset, irrespective of whether it is a current investment or a long term investment, an expenditure has to be incurred.
+Such an expenditure constitutes the cost of the asset.
+Moreover, the loan purchase transactions involve expenditure every year by way of interest on such loans which is a Revenue expenditure.
+Even when a capital asset is purchased, cost is incurred and such cost is then capitalized and becomes a part of the balancesheet.
+Nevertheless, the nature is expenditure only.
+Mr Chhotaray submitted that an expenditure is an outgo.
+The Petitioner had incurred the expenditure for purchasing the loans and made payment.
+This being the case it was clear that the current transaction would clearly be a SDT as contemplated under section 92BA(i) of the Act.15.
+Mr Chhotaray submitted that the argument of Mr Mistri that HDFC Ltd. is not a person covered under section 40A(2)(b)(iv) is incorrect.
+Mr Chhotaray submitted that under explanation (a) to section 40A(2)(b) a person has substantial interest in the assessee if it is the beneficial owner of the shares carrying not less than 20 of the voting power.
+In the facts of the present case, Mr Chhotaray submitted that HDFC Ltd. (holding 16.39 shares in the Petitioner) and its wholly owned subsidiary, HDFC Investments Pvt. Ltd.
+(holding 6.25 of the shareholding in the Petitioner company), together hold 22.64 of the shares of the Petitioner.
+Mr Chhotaray submitted that what is important to note is the voting power and not the shareholding so as to fall within explanation (a).
+According to Mr Chhotaray this issue is squarely covered by a decision of Karnataka High Court in the case of Commissioner of Income Tax Vs.
+Amco Power Ltd. (379 ITR 375) (KARN).
+He submitted that this decision clearly holds that for the purpose of computing voting power of the company in another company, the shareholding of its wholly owned subsidiary has to be clubbed with its own share holding.
+In the facts before Karnataka High Court, Mr Chhotaray submitted that the shareholding of the company was only 6 whereas its wholly owned subsidiary had a 45 share holding.
+In these circumstances, it was held that taking into consideration the shareholding of 45 of the wholly owned subsidiary, the voting power of the company was 51 (i.e. 6 45).
+Mr Chhotaray submitted that in the facts of the present case, the situation is identical.
+He submitted that taking into consideration the shareholding of 6.25 of HDFC Investments Ltd. (and which is a wholly owned subsidiary of HDFC Ltd.) in the Petitioner alongwith the shareholding of 16.39 of HDFC Ltd. in the Petitioner, the total voting power HDFC Ltd. had in the Petitioner was 22.64.
+This was clearly above 20 as required under explanation (a) to section 40A(2)(b) of the Act.
+Mr Chhotaray submitted that the word beneficial appearing in explanation (a) is totally misconstrued by the Petitioner.
+Mr Chhotaray submitted that if the Petitioners submissions are accepted, the word beneficial would become totally redundant.
+In support of this proposition, Mr Chhotaray relied upon the decision of the Supreme Court in the case of CIT v s Podar Cement Pvt.
+Ltd. 1997 (226) ITR 625 (SC).
+Over and above this, he submitted that even the CBDT circular No.6/b dated 6th July, 1968 while explaining the newly introduced provision of section 40A(2)(b) refers to holding substantial interest directly or indirectly.16.
+In addition to this, Mr Chhotaray submitted that even before the US regulatory authorities, HDFC Ltd. had represented that it was the beneficial owner of 22.64 of the equity shares of the Petitioner and exercised substantial influence over board decisions, which could result in HDFC Ltd. making decisions or foregoing opportunities to benefit HDFC Ltd that restrict their growth and harm their financial condition.
+He submitted that HDFC Ltd., in its annual report declared that it had ownership interest of 22.64 in the Petitioner HDFC Bank Ltd.
+Looking to all these facts, Mr Chhotaray submitted that it is too late in the day for the Petitioner to contend that HDFC Ltd. was a beneficial owner of only 16.39 of the shares in the Petitioner and not having more than 20 voting power.
+He therefore submitted that the purchase of loans by the Petitioner from HDFC Ltd. would clearly fall within ambit of section 92BA(i) to mean a SDT.17.
+As far as the second transaction is concerned, namely, the payment made by the Petitioner to HBL Global for the services rendered, Mr Chhotaray submitted that the Petitioner received services worth Rs.492.50 Crores from HBL Global.
+He submitted that admittedly the Petitioner owns 29 of the shareholding in ADFC Ltd.
+In turn, ADFC Ltd. holds 98.4 of the shareholding in its subsidiary HDFC Global.
+Accordingly, the Petitioner had a substantial interest, albeit indirectly, in HBL Global, was the submission of Mr Chhotaray.
+In this regard Mr Chhotaray relied upon provisions of section 40A(2)(b)(vi)(B) of the Act.
+Here also Mr Chhotaray relied upon the CBDT circular dated 6th July, 1968 to contend that even indirect shareholding would be covered.
+This being the case, Mr Chhotaray submitted that even this transaction with HBL Global would squarely fall within the meaning of a SDT as contemplated under section 92BA(i) of the Act as it was a transaction between two related parties.18.
+As far as the third transaction is concerned, namely, the payment of interest of Rs.4.41 Crores to HDB Trust is concerned, Mr Chhotaray submitted that the Petitioner has a deposit of Rs. 45.12 Crores from HDB Welfare Trust and has paid interest of Rs.4.41 Crores.
+He submitted that the Petitioner has a substantial interest in terms of explanation (b) to section 40A(2)(b) of the Act.
+He submitted that this issue has been discussed in detail by the Revenue in its affidavit at page 355 to 358 of the paper book.
+Mr Chhotaray submitted that section 92(2)(A) specifically mentions interest as an item for determination of ALP.
+He submitted that the Petitioner is the founder member of this Trust and the Trust held shares in the Petitioner till 2006.
+The benefits enjoyed by the Trust when it was a shareholder continues even now.
+The Petitioner has included the reserves of HDB Welfare Trust of Rs.60.03 Crores in its reserve while preparing a consolidated financial statement.
+The activities of the Employees Welfare Trust have been included as other business activities in the annual report of the Petitioner.
+He submitted that in any case the payment of interest is an expenditure and it needs examination whether the rate of interest was proper.
+He submitted that for all these reasons even this transaction would be a SDT as contemplated under section 92BA(i) of the Act.
+For all the aforesaid reasons, Mr Chhotaray submitted that there was no merit in this Writ Petition and the same ought to be dismissed with costs.19.
+We have carefully gone through the papers and proceedings in the present Writ Petition as well as the impugned order dated 29th December, 2016 and the impugned Reference dated 29th December, 2016.
+We have also given our anxious consideration to the arguments advanced by the Petitioner as well as on behalf of the Revenue.
+We find that the entire controversy in the present Writ Petition basically revolves around the interpretation of section 92BA(i) read with section 40A(2)(b) of the I. T. Act.
+As mentioned earlier, it is the case of the Revenue that the three transactions mentioned hereinabove fall within the meaning of a Specified Domestic Transaction (SDT), as set out in section 92BA(i) of the I. T. Act.
+Section 92BA as it stood then, reads thus92BA.
+Meaning of specified domestic transaction.
+For the purposes of this section and Sections 92, 92C, 92D and 92E, specified domestic transaction in case of an assessee means any of the following transactions, not being an international transaction, namely (i) any expenditure in respect of which payment has been made or is to be made to a person referred to in clause (b) of subsection (2) of Section 40A(ii) any transaction referred to in Section 80A(iii) any transfer of goods or services referred to in subsection (8) of Section 80IA(iv) any business transacted between the assessee and other person as referred to in subsection (10) of Section 80IA(v) any transaction, referred to in any other section under Chapter VIA or Section 10AA, to which provisions of subsection (8) or subsection (10) of Section 80IA are applicable or(vi) any other transaction as may be prescribed,and where the aggregate of such transactions entered into by the assessee in the previous year exceeds a sum of five crore rupees.20.
+Section 92BA of the I. T. Act sets out the meaning of a SDT and stipulates that for the purposes of this section and sections 92, 92C, 92D and 92E Specified Domestic Transactions in the case of an assessee inter alia means the transactions set out thereunder from clauses (i) to (vi).
+As far as the above three transactions are concerned, it is common ground before us that if they were to fall within the term of a SDT, they would be covered under clause (i) of section 92BA which provides that it should be a transaction between the assessee and a person referred to in section 40A(2)(b) for an expenditure in respect of which payment has been made or is to be made to such person.
+In other words, if a transaction is with reference to an expenditure in respect of which payment has been made or is to be made by the assessee to a person referred to in section 40A(2)(b), only then would the same be a SDT.
+For this purpose it would therefore also be necessary to reproduce section 40A, to the extent it is relevant to decide the present controversy.
+Section 40A deals with expenses or payments not deductible in certain circumstances and the relevant portion thereof reads thus40A. Expenses or payment not deductible in certain circumstances.
+(1) The provisions of this section shall have effect notwithstanding anything to the contrary contained in any other provision of this Act relating to the computation of income under the head Profits and gains of business or profession.(2) (a) Where the assessee incurs any expenditure in respect of which payment has been or is to be made to any person referred to in clause (b) of this subsection, and the Assessing Officer is of opinion that such expenditure is excessive or unreasonable having regard to the fair market value of the goods, services or facilities for which the payment is made or the legitimate needs of the business or profession of the assessee or the benefit derived by or accruing to him therefrom so much of the expenditure as is so considered by him to be excessive or unreasonable shall not be allowed as a deductionProvided that no disallowance, on account of any expenditure being excessive or unreasonable having regard to the fair market value, shall be made in respect of a specified domestic transaction referred to in Section 92BA, if such transaction is at arms length price as defined in clause (ii) of Section 92F.(b)
+The persons referred to in clause (a) are the following, namely(i) where the assessee is an individualany relative of the assessee(ii) where the assessee is a company, firm, association of persons or Hindu undived familyany director of the company, partner of the firm, member of the association or family, or any relative of such director, partner or member,(iii) any individual who has a substantial interest in the business or profession of the assessee, or any relative of such individual(iv) a company, firm, association of persons or Hindu undivided family having a substantial interest in the business or profession of the assessee or any director, partner or member of such company, firm, association or family, or any relative of such director, partner or member or any other company carrying on business or profession in which the first mentioned company has substantial interest(v) a company, firm, association of persons or Hindu undivided family of which a director, partner or member, as the case may be, has a substantial interest in the business or profession of the assessee or any director, partner or member of such company, firm, association or family or any relative of such director, partner or member(vi) any person who carries on a business or profession,(A) where the assessee being an individual, or any relative of such assessee, has a substantial interest in the business or profession of that person or(B) where the assessee being a company, firm, association of persons or Hindu undivided family, or any director of such company, partner of such firm or member of the association or family, or any relative of such director, partner, or member, has a substantial interest in the business or profession of that person.
+Explanation.
+For the purposes of this subsection, a person shall be deemed to have a substantial interest in a business or profession, if,(a) in a case where the business or profession is carried on by a company, such person is, at any time during the previous year, the beneficial owner of shares (not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profit) carrying not less than twenty per cent of the voting power and(b) in any other case, such person is, at any time during the previous year, beneficially entitled to not less than twenty per cent of the profits of such business or profession.21.
+Since the other subsections of section 40A are not relevant, they have not been reproduced.
+Section 40A(2)(a) stipulates that where the assessee incurs any expenditure in respect of which payment has been made or is to be made to any person referred to in clause (b) of this subsection, and the A.O. is of the opinion that such expenditure is excessive or unreasonable having regard to the fair market value of the goods, services or facilities for which the payment is made or the legitimate needs of the business or profession of the assessee, or the benefit derived by or accruing to him therefrom, so much of the expenditure as is so considered by him to be excessive or unreasonable, shall not be allowed as a deduction.
+The proviso to subsection 2(a) stipulates that no disallowance, on account of any expenditure being excessive or unreasonable having regard to the fair market value, shall be made in respect of a SDT referred to in section 92BA, if such transaction is at the ALP as defined in clause (ii) of section 92F.22.
+Then comes clause (b) of section 40A(2) and refers to certain entities.
+In the present case, reliance has been placed by the Revenue on clauses (iv) (vi)(B) of section 40A(2)(b) to contend that the transactions which form the subject matter of this Petition would fall within the meaning of a SDT.
+What section 40A(2)(a) read with section 40A(2)(b)(iv) provides is that where the assessee incurs any expenditure in respect of which payment has been or is to be made to any company, firm, association of persons or Hindu undivided family having a substantial interest in the business or profession of the assessee, or any director, partner or member of such company, firm, association or family or any relative of such director, partner or member or any other company carrying on business or profession in which the first mentioned company has a substantial interest, and the A.O. is of the opinion that such expenditure is excessive or unreasonable, then he can disallow such expenditure as a deduction.
+What is the meaning of substantial interest has then been set out by the Legislature in the explanations (a) and (b) to section 40A(2)(b).
+Explanation (a) clearly sets that in the case where a business or profession is carried on by a company, such person is, at any time during the previous year, the beneficial owner of shares (not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits), carrying not less than 20 of the voting power, would be deemed to have a substantial interest.
+Explanation (b) stipulates that in any other case, such person is, at any time during the previous year, beneficially entitled to not less than 20 of the profits of such business or profession.23.
+On a conjoint reading of section 92BA(i) read with section 40A(2)(b), in the facts of the present case, what becomes clear is that for the transactions referred to earlier to fall within the meaning of a SDT, the assessee has to have a transaction (not being an international transaction) with a person as listed in clauses (i) to (vi) of section 40A(2)(b).24.
+In the facts before us, it is common ground that the transactions which form the subject matter of the present Writ Petition, if were to be construed as a SDT, then the same would have to fall within section 92BA(i) which states that any transaction in which any expenditure in respect of which payment has been made or is to be made by the assessee to a person referred to in clause (b) of subsection 2 of section 40A, would be a SDT.
+This being the case, we shall now examine whether each of these transactions fall within the meaning of a SDT.TRANSACTION1 LOANS PURCHASED
+BY THE PETITIONER FROM HDFC LIMITED25.
+It is undisputed that the Petitioner purchased the loans of HDFC Ltd. of more than Rs. 5,000 Crores.
+HDFC Ltd. admittedly holds 16.39 of the shareholding in the Petitioner.
+If one were to go merely by this figure of 16.39, then, on a plain reading of section 40A(2)(b)(iv) read with explanation (a) thereof, HDFC Ltd. would not be a person who would have a substantial interest in the Petitioner.
+This is simply because explanation (a) clearly stipulates that for one to have a substantial interest, it should be the beneficial owner of shares carrying not less than 20 of the voting power.26.
+However, the Revenue contends that the requirement of explanation (a) of having more than of 20 of the voting power is clearly established in this case because HDFC Ltd. holds 100 of the shareholding in another company called HDFC Investment Ltd., which in turn, holds 6.25 shareholding in the Petitioner.
+When one clubs the shareholding of HDFC Ltd. of 16.39 with the shareholding of the HDFC Investments Ltd. of 6.25 (and which is a wholly owned subsidiary of HDFC Ltd.), the threshold of 20 as required under explanation (a) to section 40A(2)(b), is clearly crossed.
+This being the case, it is the Revenues contention that HDFC Ltd. clearly has a substantial interest in the Petitioner, and therefore, the transaction of purchasing loans by the Petitioner from HDFC Ltd. would fall within the meaning of a SDT, in which case, for this transaction, the ALP has to be determined by the TPO.27.
+On a plain reading of the aforesaid provisions, we are unable to agree with the submissions of the Revenue.
+What explanation (a) to section 40A(2)(b) clearly stipulates is that a person shall be deemed to have a substantial interest in a business or profession in a case where the business or profession is carried on by a company, such person is, at any time during the previous year, the beneficial owner of shares carrying not less than 20 of the voting power.
+In other words, explanation (a) when broken down, requires two conditions that need to be fulfilled.
+The first condition is that, that the person should be the beneficial owner of shares (not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits) and second that these shares (of which the person is the beneficial owner) are carrying not less than 20 of the voting power.
+In the facts of the present case, admittedly HDFC Ltd., on its own, is not the beneficial owner of shares carrying at least 20 of the voting power as required under explanation (a) to section 40A (2) (b) of the I. T. Act.
+The shareholding that HDFC Ltd. has in the Petitioner is only 16.39.28.
+We cannot, and the law does not permit us, to hold that HDFC Ltd. is the beneficial owner of 22.64 of the shares in the Petitioner by clubbing the share holding of HDFC Investments Ltd. with the shareholding of
+HDFC Ltd.
+If we were to do this, we would be effectively holding that HDFC Ltd., being a shareholder of HDFC Investments Ltd., is the beneficial owner of the shares which HDFC Investments Ltd. holds in the Petitioner.
+This, in law, is clearly impermissible because a shareholder of a company can never have any beneficial interest in the assets (movable or immovable) of that company.
+In the present case, if we were to accept the contention of the Revenue, it would mean that HDFC Ltd. is the beneficial owner of the shares which HDFC Investments Ltd. holds in the Petitioner.
+This would be contrary to all canons of Company Law.
+It is well settled that a shareholder of a company can never be construed either the legal or beneficial owner of the properties and assets of the company in which it holds the shares.
+This being the position in law, we find that the Revenue is incorrect in trying to club the shareholding of HDFC Investments Ltd. in the Petitioner along with the shareholding of HDFC Ltd. in the Petitioner, to cross the threshold of 20 as required in explanation (a) to section 40A(2)(b).
+We are supported in the view that we take by a decision of the Supreme Court in the case of Bacha F. Guzdar Vs.
+Commissioner of Income Tax (1955) 27 ITR 1.
+The relevant portion of this decision reads thus7.
+It was argued by Mr Kolah on the strength of an observation made by Lord Anderson in Commissioners of Inland Revenue v. Forrest 8 Tax Cases, p 704 at 710 that an investor buys in the first place a share of the assets of the industrial concern proportionate to the number of shares he has purchased and also buys the right to participate in any profits which the company may make in the future.
+That a shareholder acquires a right to participate in the profits of the company may be readily conceded
+but it is not possible to accept the contention that the shareholder acquires any interest in the assets of the company.
+The use of the word assets in the passage quoted above cannot be exploited to warrant the inference that a shareholder, on investing money in the purchase of shares, becomes entitled to the assets of the company and has any share in the property of the company.
+A shareholder has got no interest in the property of the company though he has undoubtedly a right to participate in the profits if and when the company decides to divide them.
+The interest of a shareholder visavis the company was explained in the Sholapur Mills Case(1950)
+SCR 869, 904 .
+That judgment negatives the position taken up on behalf of the appellant that a shareholder has got a right in the property of the company.
+It is true that the shareholders of the company have the, sole determining voice in administering the affairs of the company and are entitled, as provided by the Articles of Association to declare that dividends should be distributed out of the profits of the company to the shareholders but the interest of the shareholder either individually or collectively does not amount to more than a right to participate in the profits of the company.
+The company is a juristic person and is distinct from the shareholders.
+It is the company which owns the property and not the shareholders.
+The dividend is a share of the profits declared by the company as liable to be distributed among the shareholders.
+Reliance is placed on behalf of the appellant on a passage in Buckleys Companies Act (12th Edn.), p. 894 where the etymological meaning of dividend is given as dividendum, the total divisible sum but in its ordinary sense it means the sum paid and received as the quotient forming the share of the divisible sum payable to the recipient.
+This statement does not justify the contention that shareholders are owners of a divisible sum or that they are owners of the property of the company.
+The proper approach to the solution of the Question 1s to concentrate on the plain words of the definition of agricultural income which connects in no uncertain language revenue with the land from which it directly springs and a stray observation in a case which has no bearing upon the present question does not advance the solution of the question.
+There is nothing in the Indian law to warrant the assumption that a shareholder who buys shares buys any interest in the property of the company which is a juristic person entirely distinct from the shareholders.
+The true position of a shareholder is that on buying shares an investor becomes entitled to participate in the profits of the company in which he holds the shares if and when the company declares, subject to the Articles of Association, that the profits or any portion thereof should be distributed by way of dividends among the shareholders.
+He has undoubtedly a further right to participate in the assets of the company which would be left over after winding up but not in the assets as a whole as Lord Anderson puts it.(emphasis supplied)29.
+This proposition has again been reiterated by the Supreme Court in Vodafone International Holdings BV v. Union of India (2012) 6 SCC 613 .
+Paragraphs 256 to 258 of this decision read thus256.
+Subsidiary companies are, therefore, the integral part of corporate structure.
+Activities of the companies over the years have grown enormously of its incorporation and outside and their structures have become more complex.
+Multinational companies having large volume of business nationally or internationally will have to depend upon their subsidiary companies in the national and international level for better returns for the investors and for the growth of the company.
+When a holding company owns all of the voting stock of another company, the company is said to be a WOS of the parent company.
+Holding companies and their subsidiaries can create pyramids, whereby a subsidiary owns a controlling interest in another company, thus becoming its parent company.257.
+The legal relationship between a holding company and WOS is that they are two distinct legal persons and the holding company does not own the assets of the subsidiary and, in law, the management of the business of the subsidiary also vests in its Board of Directors.
+In Bacha F. Guzdar v. CIT AIR 1955 SC 74 , this Court held that shareholders only right is to get dividend if and when the company declares it, to participate in the liquidation proceeds and to vote at the shareholders meeting.
+Refer also to Carew and Co. Ltd. v. Union of India (1975) 2 SCC 791 and Carrasco Investments Ltd. v. Directorate of Enforcement (1994) 79
+Comp Cas 631 (Del).258.
+Holding company, of course, if the subsidiary is a WOS, may appoint or remove any Director if it so desires by a resolution in the general body meeting of the subsidiary.
+Holding companies and subsidiaries can be considered as single economic entity and consolidated balance sheet is the accounting relationship between the holding company and subsidiary company, which shows the status of the entire business enterprises.
+Shares of stock in the subsidiary company are held as assets on the books of the parent company and can be issued as collateral for additional debt financing.
+Holding company and subsidiary company are, however, considered as separate legal entities, and subsidiary is allowed decentralised management.
+Each subsidiary can reform its own management personnel and holding company may also provide expert, efficient and competent services for the benefit of the subsidiaries.(emphasis supplied)30.
+In the facts before us it may be true that HDFC Ltd. may indirectly have 20 of the voting power in the Petitioner because HDFC Investments Ltd. is a wholly owned subsidiary of
+HDFC Ltd.
+However, that by itself would not mean that HDFC Ltd. has a substantial interest in the Petitioner as required and stipulated in explanation (a) to section 40A(2)(b).
+As mentioned earlier, for a person to have a substantial interest as contemplated under explanation (a), two conditions have to be fulfilled, namely (i) that the person has to be the beneficial owner of the shares and (ii) those very shares have to carry not less than 20 of the voting power.
+It is only when these two conditions are fulfilled that explanation (a) can be pressed into service.
+In the facts before us, if we were to accept the submission of the Revenue, then we would have to hold that HDFC Ltd. is the beneficial owner of the 6.25 shareholding that HDFC Investments Ltd. has in the Petitioner.
+This 6.25 shareholding of HDFC Investments Ltd in the Petitioner is the movable property and an asset of HDFC Investment Ltd.
+That would mean that HDFC Ltd., holding 100 shares of HDFC Investments Ltd., would have to be construed as the beneficial owner of the properties assets of
+HDFC Investments Ltd.
+This can never be the case because that would be contrary to all canons of company law as well as the decisions of the Supreme Court in the case of Bacha F. Guzder and Vodafone International Holdings BV (supra).
+This being the case, HDFC Ltd., by no stretch of the imagination can be said to be the beneficial owner of the shares that HDFC Investments Ltd. holds in the Petitioner.
+This is simply because the shares that HDFC Investments Ltd. holds in the Petitioner is its asset, and HDFC Ltd., though being a 100 shareholder of HDFC Investments Ltd., cannot be termed as the owner (beneficial or otherwise) of the assets and properties of
+HDFC Investments Ltd.
+In these circumstances, therefore, the shareholding of HDFC Ltd. and HDFC Investments Ltd. cannot be clubbed together to cross the threshold of 20 as required under explanation (a).
+This being the position, we have no hesitation in holding that the HDFC Ltd. does not have a substantial interest in the Petitioner, and therefore, is not a person as contemplated under section 40A(2)(b)(iv) for the present transaction to fall within the meaning of a SDT as set out in section 92BA (i) of the I. T. Act.31.
+There is another reason for coming to this conclusion.
+If we were to interpret this provision as is sought to be contended by the Revenue, it would lead to an absurd situation, as correctly contended by Mr. Mistri.
+It is undisputed that there cannot be more than one beneficial owner of the same shares.
+If we were to take the example that was given by Mr. Mistri during arguments, it would effectively lead to a completely absurd result.
+Take for example Company A has a wholly owned subsidiary Company B.
+In turn, the shares of Company C are held 90 by Company B and 10 by Company A.
+If one was to give the interpretation as sought for by the Revenue, then it would mean that Company A beneficially owns 100 of Company C which would lead to an absurd situation that Company B though owning 90 of the shareholding in Company C, would not be regarded as having a substantial interest in Company C as Company B cannot be said to be the beneficial owner of its 90 shareholding in Company C. Further, if the interpretation of the Revenue was to be held as correct then one will not have to not stop there and then also see the shareholders of Company A as the beneficial owner of the shares of Company C.
+This would then lead to absurd results, namely, that then even Company A also would not have a substantial interest in Company C and it would be the shareholders of Company A that would have a substantial interest in Company C. This would lead to startling results.
+It is now well settled that whilst interpreting a statutory provision, an interpretation which would lead to an absurdity, should always be avoided.
+This is yet another reason why we are unable to accept the submission of the Revenue that this particular transaction would fall within the meaning of a SDT as understood and set out in section 92BA (i) of the I. T. Act.32.
+There is yet another reason that we find that the present transaction (purchase of loans by the Petitioner from the HDFC Ltd.) could never be termed as a SDT.
+Section 92BA (i) contemplates a transaction in which any expenditure is incurred in respect of which payment has been made or is to be made to a person referred to in clause (b) of subsection 2 of section 40A of the I. T. Act.
+What we find in the facts of the present case is that the Petitioner had purchased the loans of HDFC Limited.
+This was a purchase of an asset.
+As correctly submitted by Mr. Mistri, when the purchaser pays the price for acquiring an asset it is referred to as a consideration for purchase of that asset and not an expenditure for that asset.
+Acquisition of an asset, therefore, cannot be said to be in the nature of an expenditure so as to come within the ambit of section 92BA (i) of the Act.
+It is true that consideration has to be paid for purchasing an asset but that would not mean that it is an expenditure.
+Mr. Mistri is correct when he submits that an asset would be reflected in the balancesheet of the company whereas an expenditure would be reflected in the Profit and Loss account.
+In fact, in the facts of the present case, the loans purchased by the Petitioner from HDFC Ltd. were reflected in the balancesheet and not in the Profit and Loss account.
+This being the case, we find that this is not an expenditure at all as contemplated under section 92BA(i), and therefore, the money expended for purchasing these loans can never be termed as an expenditure incurred by the Petitioner.
+It would, therefore, not fall within the meaning of a SDT as understood under section 92BA(i) of the Act.33.
+For all the aforesaid reasons, we therefore have no hesitation in holding that this transaction of purchase of loans by the Petitioner from HDFC Ltd. would not fall within the meaning of a SDT.
+This being the case, there was no question of Respondent No.1 treating it so and thereafter referring the same to the TPO under section 92CA(1) for determining the ALP.TRANSACTION2PAYMENT MADE BY THE PETITIONER TO HBL GLOBAL PRIVATE LIMITED FOR RENDERING SERVICES34.
+As far as this transaction is concerned, it is the contention of the Revenue that it would be a transaction with a person falling within section 40A(2)(b)(vi)(B) of the I. T. Act.
+Section 40A(2)(b)(vi) reads thus(vi) any person who carries on a business or profession,(A) where the assessee being an individual, or any relative of such assessee, has a substantial interest in the business or profession of that person or(B) where the assessee being a company, firm, association of persons or Hindu undivided family, or any director of such company, partner of such firm or member of the association or family, or any relative of such director, partner, or member, has a substantial interest in the business or profession of that person.(emphasis supplied)35.
+As far as this transaction is concerned, we find that the Petitioner holds 29 of the shares in
+ADFC Ltd.
+In turn, ADFC Ltd. holds 98.4 of the shares in HBL Global.
+It is not in dispute that the Petitioner holds no shares of HBL Global.
+Merely because the Petitioner holds 29 of the shares of ADFC Ltd., which in turn holds 98.4 shares in HBL Global, the Petitioner cannot be regarded as having a substantial interest in HBL Global.
+For us to hold that the Petitioner would have a substantial interest in HBL Global, we would have to hold that the Petitioner, because it holds 29 of the shareholding in ADFC Ltd., is the beneficial owner of 98.4 of the shares of HBL Global which are held by
+ADFC Ltd.
+This in law, and as discussed in detail earlier, we cannot do because the Petitioner, being a shareholder of ADFC Ltd., does not have any interest (beneficial or otherwise) in the properties assets of ADFC Ltd. (which in this case would be the shareholding that ADFC Ltd. has in HBL Global).
+This being the case, we find that even this transaction is not entered into with a person as mentioned in section 40A(2)(b)(vi)(B) of the I. T. Act.
+Here also, we find merit in the submission of Mr. Mistri that if the plea of the Revenue is taken to its logical conclusion, then, it would mean that it is not the Petitioner which is the beneficial owner of the shares of HBL Global but it would be the shareholders of the Petitioner who are the beneficial owner of the shares of HBL Global.
+This could never have been the intention of the Legislature.36.
+To counter this argument, Mr. Chhotaray placed reliance on the Circular dated 6th July, 1968 and stated that the said Circular issued by the CBDT clearly states that for the purposes of section 40A(2)(b) direct and indirect shareholding has to be taken into account.
+We are unable to agree with the submissions of Mr. Chhotaray.
+There is no question in the facts of the present case to refer to or consider any indirect shareholding.
+As mentioned earlier, on a plain reading of explanation (a) to section 40A(2)(b), for there to be a substantial interest, the person has to be the beneficial owner of shares holding not less than 20 of the voting power.
+In this transaction, the Petitioner can never be said to be beneficial owner of the shares in HBL Global for the simple reason that it holds absolutely no shares in HBD Global.
+It holds shares in a company called ADFC Ltd., which in turn holds 98.4 shares in HBL Global.
+This would not mean that either directly or indirectly the Petitioner is the beneficial owner of the shares of HBD Global.
+We, therefore, find no merit in this contention.37.
+We would also like to take note of the Guidance Note on Report under section 92E of I.T. Act issued by Institute of Chartered Accounts of India which states as under4A.16 As in the case of section 92A(2)(a)
+and (b) (which defines the term associated enterprise for the purposes of international transactions) the phrase directly or indirectly is not used in Section 40A(2)(b).
+However, in this regard, reference should be made to the Central Board of Direct Taxes Circular number 6P dated 6 July 1968 explaining the then newly inserted provisions in section 40A(2).
+This circular sets out the categories of the persons, payments to whom fall within the purview of section 40A(2).
+It mentions that such persons would include inter alia (c) persons in whose business or profession the taxpayer has a substantial interest directly or indirectly.
+However, Explanation to Section 40A(2) deems a person to have substantial interest if such person is beneficial owner of shares carrying not less than 20 of voting power.
+The expression beneficial owner needs to be construed in contrast to legal owner and not in the context of determining indirect ownership of shares.
+Hence, the emphasis is on covering the real owner of the shares and not the nominal owner.
+This proposition is also supported by legal jurisprudence which states that in a multitier structure, a parent cannot be regarded as the beneficial owner of shares in a downstream subsidiary merely because it owns the shares of the intermediate subsidiary companies.
+It is important to respect the fact that the entities are separate legal entities.
+Consequently, in a situation where A Ltd. holds 50 in B Ltd. and B Ltd. holds 50 in C Ltd., under ordinary circumstances, A Ltd. cannot be regarded as having beneficial interest in C Ltd.
+In other words, for purposes of Section 40A(2)(b), it may be appropriate to consider only direct shareholding and not derivative or indirect shareholding.4A.17
+The coverage of section 40A(2)(b) is very wide and covers persons related to the assessee under several relationships.
+Thus the assessee and the accountant should ensure that all relevant expenditure transactions with all specified persons as mentioned in section 40A(2)(b) should be carefully identified and included in transfer pricing documentation and accountants report.
+With regard to ensuring completeness of such information, the accountant should obtain a written representation from the assessee detailing the list of persons specified in section 40A(2)(b) and expenditure transactions with them.38.
+From this Guidance Note what is clear is that the word beneficial owner needs to be construed in contrast to legal owner and not in the context of determining indirect ownership of shares.
+Hence, the emphasis is on covering the real owner of the shares and not the nominal owner.
+The report further states that this proposition is also supported by legal jurisprudence which states that in a multitier structure, a parent cannot be regarded as the beneficial owner of shares in a downstream subsidiary merely because it owns the shares of the intermediate subsidiary companies.
+It is important to respect the fact that the entities are separate legal entities.
+This Guidance Note also gives an example which clearly indicates that for the purpose of section 40A(2)(b)
+it may be appropriate to consider only a direct shareholding and not a derivative or indirect shareholding.
+In fact, the Supreme Court in the case of Commissioner of Income Tax v s Virtual Soft Systems Limited (2018) 404 ITR 409 (SC) (2018) 6 SCC 584 ) has categorically discussed the relevancy of the Guidance Note and for the purposes of interpretation, the Supreme Court has held that it can certainly be used as an aid to interpret the provision.
+Paragraph 18 of the SCC report of this decision reads thus18.
+Without a doubt, in a catena of cases, this Court has discussed the relevancy of the Guidance Note.
+While dealing with one of such matters, this Court, in CIT v. Punjab Stainless Steel Industries CIT v. Punjab Stainless Steel Industries, (2014) 15 SCC 129 held as under (SCC p. 134, para 17)17.
+So as to be more accurate about the word turnover, one can either refer to dictionaries or to material which are published by bodies of accountants.
+The Institute of Chartered Accountants of India (hereinafter referred to as ICAI) has published some material under the head Guidance Note on Tax Audit under Section 44B of the Income Tax Act.
+The said material has been published so as to guide the members of ICAI.
+In our opinion, when a recognised body of Accountants, after due deliberation and consideration publishes certain materials for its members, one can rely upon the same.39.
+For all the aforesaid reasons, we are unable to accept the submission of Mr. Chhotaray that the present transaction (namely the payment made by the Petitioner to HBL Global for services rendered) would fall within the meaning of a SDT as understood and covered under section 92BA(i) of the I.T. Act.
+TRANSACTION3PAYMENT OF INTEREST OF RS.
+4.41 CRORES
+BY THE PETITIONER TO HDB WELFARE TRUST.40.
+As far as this transaction is concerned, it is the case of the Revenue that the Petitioner has deposits of Rs.45.12 Crores from the HDB Employee Welfare Trust and has paid interest of Rs.4.41 Crores.
+According to the Revenue, the Petitioner has a substantial interest in terms of explanation (b) to section 40A(2)(b) of the Act.
+Explanation (b) stipulates that in any other case i.e. other than a person mention in explanation (a), a person is said to have a substantial interest if such person is at any time during the previous year, beneficially entitled to not less than 20 of the profits of such business or profession.41.
+We fail to see how the Revenue can contend that the transaction of payment of interest to HBD Welfare Trust and which Trust has been set up for the benefit of its employees, would fall within Explanation (b) to section 40A (2)(b) of the I. T. Act.
+It is not even the case of the Revenue that the Petitioner is entitled to at least 20 of the profits of the said Trust.
+The Trust has been set up exclusively for the welfare of its employees and there is no question of the Petitioner being entitled to 20 of the profits of such Trust.
+This being the case, we find that this transaction also clearly would not fall within section 40A(2)(b) read with explanation (b) thereof to be a SDT as understood and covered by section 92BA(i) of the I. T. Act.42.
+Before parting, it would only be fair to deal with the judgments relied upon by Mr. Chhotaray.
+The first decision was of the Karnataka High Court and the other was of the Supreme Court.
+On carefully going through the decision of the Karnataka High Court in the case of Commissioner of Income Tax Vs.
+Amco Power Systems Ltd. (supra)
+, we find that the reliance thereon by Mr Chhotaray is wholly misplaced.
+What the Karnataka High Court was considering in the facts of that case were the provisions of section 79 of the I.T. Act and which are materially different from section 40A(2)(b) which is being considered by us in the present Writ Petition.
+In fact when one peruses section 79 of the I.T.Act, it is clear that the same deals with carry forward and set off of losses in the case of certain companies.
+It is on the wording of section 79 of the I.T. Act, that the Karnataka High Court has given a finding that since ABL was having complete control over APIL and even though the shareholding of ABL was reduced to 6 in the year in question, yet by virtue of being the holding company, owning 100 shares of APIL, the voting power of ABL could not be said to have been reduced to less than 51.
+It came to this finding because ABL, together with APIL were having voting power of 51.
+This finding of the Karnataka High Court was given because the wordings of section 79 of the I.T. Act are materially different from the wordings of Section 40A(2)(b).
+We, therefore, find that the reliance placed by Mr Chhotaray on this decision is wholly misconceived.43.
+Similarly, we find that the reliance placed by Mr Chhotaray on the decision of the Supreme Court in the case of CIT v s Podar Cement Pvt. Ltd. (supra) is wholly misplaced.
+In this case, the Supreme Court was called upon to decide whether in law the income derived by the assessee company by letting out flats of a building is taxable under the head Income from other Sources under section 56 of the Act or whether the same was to be taxed as Income from House Property under section 22 of the Act.
+On carefully going through this judgment, we do not see how this decision in any way supports the contention of Mr Chhotaray.
+Section 22 of the Act deals with Income from House Property and stipulates that the annual value of property of any buildings or lands appurtenant thereto of which the assessee is the owner, other than such portions of such property as he may occupy for the purpose of any business of profession carried on by him the profits of which are chargeable to income tax, shall be chargeable to income tax under the head Income from House Property.
+The owner of house property has also been defined in section 27 and clause (iii) thereof inter alia stipulates that a member of a cooperative society to whom a building or part thereof is allotted or leased under a house building scheme of the society, shall be deemed to be the owner of that building or part thereof.
+Section 27(iii)(a) and (iii)(b) also set out who shall be deemed to be the owner in certain circumstances.
+It is whilst interpreting these provisions, the Supreme Court was deciding as to who would be the owner as contemplated under section 22 of the Act.
+We fail to see that this judgment can be of any assistance to the Revenue in the facts and circumstances of the present case.
+The Supreme Court was considering completely different sections of Income Tax Act and whose wordings are materially different from the wordings of section 40A(2)(b) of the Act.
+We therefore find that the reliance placed by Mr Chhotaray on this decision is also wholly misplaced.44.
+In view of the foregoing discussion, we find that none of the three transactions that form the subject matter of this Petition fall within the meaning of a SDT as required under section 92BA(i) of the I.T. Act.
+This being the case, we find that Respondent No.1 was clearly in error in concluding that these transactions were SDTs, and therefore required to be disclosed by the Petitioner by filing Form 3CEB.
+He therefore could not have referred these transactions to Respondent No.2 for determining the ALP.45.
+In these circumstances, and in view of the foregoing discussion, the Writ Petition is allowed in terms of prayer clause (a).
+Rule is made absolute in the aforesaid terms.
+However, in the facts and circumstances of the case, there shall be no order as to costs.

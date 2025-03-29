@@ -1,0 +1,909 @@
+ DR.
+D.Y.CHANDRACHUD, J.1.
+Rule, by consent returnable forthwith.
+With the consent of Counsel and at their request the Petition is taken up for hearing and final disposal.2.
+The Whole Time Member of the Securities and Exchange Board of India has rejected an application filed by the Petitioner for permission to undertake business as a Stock Exchange, other than for the Currency Derivatives Segment.
+The order is under Section 4 of the Securities Contracts (Regulation) Act, 1956 (SCRA) and Sections 11(1) and 19 of the Securities and Exchange Board of India Act, 1992.
+The Petition challenges the legality of the order.3.
+For convenience of exposition, this judgment is divided into Parts, which are as follows I  Facts (Paragraphs 427).
+II  Show Cause Notice by SEBI and the Impugned order.
+(Paragraphs 2830)
+III Submissions (Paragraphs 3136).
+IV The SCRA and MIMPs Regulations (Paragraphs 3746).
+V  Role of Stock Exchanges (Paragraphs 4753).
+VI Regulation 4 and Regulation 8 (Paragraphs 5455).
+VII
+The process of dilution (Paragraphs 5657).
+VIII Share warrants (Paragraphs 5862).
+IX Buy back arrangements (Paragraphs 6366).
+X Duty of disclosure (Paragraphs 6769).
+XI Legality of buy backs (Paragraphs 7081).
+XII Persons Acting in concert (Paragraphs 8293).
+XIII
+The Validity of the impugned order (Paragraphs 94103).
+XIV Conclusion (Paragraph 104).I Facts.4.
+The Fourth Respondent, Multi Commodity Exchange of India Limited, who is a promoter of the Petitioner made an application on 12 August 2008 for recognition of the Petitioner as a Stock Exchange.
+The Petitioner was incorporated on 14 August 2008 and received a certificate for commencement of business on 19 August 2008.
+The Petitioner has two promoters, Financial Technologies (India) Limited (FTIL) and Multi Commodities Exchange of India (MCX), the Third and the Fourth Respondents.
+On 22 August 2008, the Petitioner applied to SEBI for the grant of recognition as a Stock Exchange under the provisions of Section 3 of the SCRA.
+On 23 August 2008, SEBI granted an inprinciple approval to the Petitioner to set up a Stock Exchange initially in the Currency Derivatives Segment in accordance with the SCRA and its Regulations.
+On 18 September 2008, SEBI addressed a letter to the Petitioner granting recognition under Section 4 of the SCRA for operating a Stock Exchange for a period of one year commencing on 16 September 2008 and ending on 15 September 2009.
+The approval was subject to various conditions, among them being the followingFull compliance with the provisions of the Securities Contracts (Regulation) (Manner of Increasing and Maintaining Public Shareholding in Recognized Stock Exchanges) Regulations, 2006 within one year from the date of recognition of the stock exchange.
+The acronym MMIPS Regulations will be utilised in this judgment for those Regulations.5.
+The Petitioner commenced operations in the Currency Derivatives Segment on 7 October 2008.
+The MIMPS Regulations have a background.
+In August 2002, a Committee headed by Mr.Justice M.H.Kania, former Chief Justice of India recommended that (i) Stock Exchanges should be corporatised and demutualised and (ii) Ownership of Stock Exchanges should not be concentrated in the hands of a single entity or groups of related entities.
+Parliament introduced Sections 4A and 4B into the SCRA to foster the separation of ownership and control of stock exchanges from their trading members by implementing a scheme of corporatisation and demutualisation.
+When the MIMPS Regulations were issued in 2006, they were intended to provide for corporatisation and demutualisation of old Stock Exchanges and diversification of the ownership of Stock Exchanges.
+Full compliance with the provisions of MIMPS Regulations was mandated by SEBI in this background on 18 September 2008 when it granted recognition to the Petitioner for a period of one year under Section 4 of the SCRA.
+The MIMPS Regulations have introduced a cap of 5 on the holding of any resident in the equity capital of a recognised stock exchange.
+The cap applies to direct and indirect shareholding and the holding of persons acting in concert.6.
+On 5 November 2008, SEBI issued a framework for introducing trading of securities of Small and Medium Enterprises, following which on 8 December 2008, the Petitioner furnished a proposal for commencement of operations in that Segment.
+On 22 December 2008, the Petitioner applied to SEBI for permission to commence business in the Equities and Derivative segment on the Exchange platform in addition to the Small and Medium Enterprise Segment.7.
+On 31 March 2009, the Petitioner offered to issue shares on a preferential basis to Punjab National Bank (PNB) together with an exit option.
+The exit option stipulated that (i) PNB would be entitled to a simple rate of return at the rate of 16 per annum after completion of three years from the date of investment on the total amount invested (ii) FTIL or its nominees would have a right to buy back shares from PNB at any time after the expiry of a period of one year from the date of investment and (iii) If PNB retained the shares inspite of the buy back offer, it would not be entitled to an assured rate of return and FTIL would have no liability to buy back the shares in future.8.
+On 21 May 2009, the Petitioner addressed a letter to SEBI seeking an extension of one year to ensure full compliance with the MIMPS Regulations.9.
+Between May and November 2009, in order to comply with the MIMPS Regulations, the Petitioner in the first stage made a series of primary allotments of shares on a preferential basis to eighteen Banks.
+As a result, the paid up capital of the Petitioner increased from Rs.135 crores to Rs.173.45 crores.
+On 15 June 2009, the Petitioner applied for renewal of its existing recognition in the field of currency derivatives.10.
+On 17 June 2009, the RBISEBI Standing Technical Committee introduced a regulatory framework for trading on Interest Rate Futures.
+Following this, on 19 June 2009, the Petitioner made an application to SEBI for permission to launch trading in Interest Rate Futures.11.
+On 18 July 2009, FTIL sold 7.18 crore shares of the Petitioner amounting to 4.91 per cent of its paid up share capital to IFCI Limited.
+On 20 July 2009, PNB addressed a letter to the Petitioner setting out the terms and conditions on which its Board had approved its investment in the shares of the Petitioner.
+The letter stipulated that (i) PNB would be entitled to a simple rate of return at 16 per annum on the completion of three years from the date of investment (ii) FTIL or its nominees would have a right to buy back shares from PNB at any time after the expiry of one year from the date of investment and (iii)
+In the event that PNB desired to retain the shares in spite of the buy back offer by FTIL, PNB would not be entitled to the assured rate of return and FTIL would have no liability to buy back the shares in future.
+On 12 August 2009, FTIL accepted the terms and conditions stipulated by PNB, but expressed its inability to execute a share purchase agreement.12.
+On 20 August 2009, the Petitioner entered into a Share Purchase Agreement (SPA) with IL FS Financial Services Limited (ILFS) and the Fourth Respondent under which ILFS agreed to purchase shares of the Petitioner worth Rs.159.12 crores from the Fourth Respondent.
+On the same date, as the execution of the SPA, a company by the name of LaFin Financial Services Pvt. Ltd.
+(LaFin) addressed a letter to ILFS offering an exit option.
+LaFin, which is a promoter of FTIL, furnished an undertaking accepting the obligation to purchase in its sole discretion during the agreed period all the shares purchased by ILFS under the share purchase agreement at any time after the completion of one year from the date of investment, but no later than three years from the date of investment after which the right of ILFS would lapse.
+The undertaking furnished by LaFin to ILFS inter alia contained the following stipulation1.
+LaFin Financial Services Pvt. Ltd. (LAFin) or its appointed nominees have an obligation to offer to purchase at any time during the Agreed Period (as defined hereinafter) in its sole discretion considers appropriate, all the shares purchased by you under the SPAs in MCXSX by giving a written notice at any time after completion of one (1) year from the date of investment but no later than three (3) years from the date of investment (Agreed Period), post which your rights herein stated shall lapse.
+You will have to confirm your acceptance non acceptance for the offer within a maximum period of 30 days.
+The price at which such shares will be offered to be purchased by us will be at a price which will be higher of the following (Buy Back Price)(i)
+Price which provides an internal rate of return (IRR) of 15 on the investment or(ii) Price at which the most recent transaction MCXSX equity shares is carried out by MCXSX or MCX or FTIL Group.2.
+It being clarified that in the event MCXSX plans an IPO within one year from the date of investment we hereby covenant that we shall not proceed with the IPO in case the IPO price is less than the Buy Back Price.
+Further, in the event MCXSX plans an IPO within the Agreed Period we undertake that the IPO price will not be less than the Buy Back Price and you would be provided the right to completely exit in such an IPO by way of an offer for sale or else we shall provide the buy back offer as per point 1 above at the Buy Back Price before the listing of the shares.
+5.
+We as promoters of MCXSX shall ensure that, save and except issuance of shares of MCXSX to (a) banks as listed in annexure to this letter to enhance its share capital to Rs.180 crores, and (b) to the employees of MCXSX in terms of the employees stock options plans schemes formulated by MCXSX, MCXSX shall not issue any shares to any person at a price below Rs.35/ per equity share, without the prior written consent of ILFS Financial Services Limited, which consent shall not be unreasonably withheld or delayed or denied by ILFS Financial Services Limited.6.
+We agree that pursuant to purchase of the MCXSX shares from you as per point 1, we undertake for and on our behalf and on behalf of FTIL, MCX and our group companies, not to sell issue any equity shares of MCXSX for a period of three months commencing from the date of purchase as per point 1 above, for a price exceeding the Buy Back Price.
+The sale of shares to ILFS was effected on 21 August 2009.13.
+The recognition granted to the Petitioner as a Stock Exchange was renewed by SEBI for a further period of one year ending on 15 September 2010 by a notification dated 31 August 2009, subject to the following conditions (i) The Petitioner shall ensure full compliance with the relevant provisions of the MIMPS Regulations within a period of one year (ii) The Petitioner would permit trading only in securities in which trading was earlier permitted and shall not be eligible for introduction of any class of contracts in securities till such time as compliance in (i) above was ensured and (iii) The Petitioner shall comply with such other conditions as may be imposed by SEBI from time to time.
+The renewal was without prejudice to the rights of SEBI to decide the application of the Petitioner dated 7 April 2010.14.
+On 22 October 2009, the Petitioner submitted a report to SEBI under Regulation 11(2) of the MIMPS Regulations.
+The report included a statement of top ten shareholders of the Petitioner as on 30 September 2009.
+Among those shareholders were the Third Respondent with a shareholding of 35.05, the Fourth Respondent with a shareholding of 38.31 and IFCI Ltd. with a shareholding of 4.27.
+Hence, the shareholding pattern reflected that the Promoter Companies had a shareholding of 73.36.15.
+On 31 October 2009, the Petitioners Board of Directors called upon the initial promoters, the Third and Fourth Respondents, to reduce their shareholding by cancelling their shares in excess of the prescribed limit, by a scheme of reductioncumarrangement under Sections 391 to 393 of the Companies Act, 1956 read with Sections 100 to 104.
+On 14 December 2009, the Fourth Respondent addressed a letter to ILFS referring to the Share Purchase Agreement dated 20 August 2009 and LaFins letter of the same date and requested ILFS to approve the scheme of reductioncumarrangement proposed to be considered at an Extraordinary General Meeting to be held on 15 December 2009.16.
+The scheme for reduction of the equity shareholding of the promoters was approved by the shareholders of the Petitioner at an Extraordinary General Meeting on 15 December 2009.
+The scheme explained in paragraph 2.4 that the conventional method of bringing down the existing stake of promoters by selling shares to investors may substantially delay regulatory compliance.
+This, it was stated, was because while on the one hand, investors were willing to invest only after the Company received approvals for selling other segments, the regulator wanted the process of disinvestment to be completed before giving such approvals.
+Hence, it was stated that in order to expedite regulatory compliance, it was proposed to reduce the excess shareholding of the reducing shareholders and compensate them by way of issue of transferable warrants to them which may be exercised by the holder after six months of the issue without entailing any cash outflow from the Company.
+The exercise of warrants, it was clarified, would always be subject to the SCR Regulations.
+The objective of the scheme, it was stated, was to reduce the shareholding of FTIL and MCX, the Third and Fourth Respondents, each to 5, as a result of which their combined equity shareholding in the Company would be 10 of the total subscribed share capital.
+The manner in which the scheme was to be worked out was as follows(i) The issued subscribed paid up equity share capital of the Company would stand reduced to the extent of an aggregate of 199.66 crore equity shares comprised of the following(a) 61.71 crore equity shares held by MCX would stand cancelled(b) 56.24 crore equity shares held by FTIL would stand cancelled and(c) 1.70 crore equity shares held by ILFS would stand cancelled.(ii)
+Simultaneously, with the reduction of the equity capital, the Company would issue an aggregate of 119.66 crore warrants to the three reducing shareholders exactly corresponding to the share capital cancelled and reduced and(iii)
+Each warrant would entitle the holder to subscribe to one equity share of the face value of Re.1 at any time after six months from the date of issue.
+The warrant holder was entitled to exercise its option to subscribe to the fully paid up equity shares of the Company at any time after six months from the date of allotment.
+The warrants were not to carry any voting rights in the Company.17.
+On 18 December 2009, a Petition was filed in this Court for sanctioning a Scheme of ReductioncumArrangement under Sections 100 to 104 and 391 to 394 of the Companies Act, 1956.
+In the Petition that was filed before this Court, it was stated that though the reducing shareholders had a right to transfer the warrants to other investors or to exercise the option under the warrants, the Petitioner would ensure compliance with the MIMPS Regulations as well as the regulatory regimeThe said Reducing Shareholders shall, over a period of time, transfer their warrants to other prospective investors or exercise the option attached to the warrants.
+However, the Petitioner Company shall ensure that such transfer or exercise shall always be in compliance with the Securities Contracts (Regulation) (Manner of Increasing and Maintaining Public Shareholding in Recognized Stock Exchanges) Regulations, 2006, or any other equivalent regulatory regime laid down by the competent regulator, which is for the time being in force.18.
+On 21 December 2009, the Petitioner addressed a letter to SEBI highlighting the main features of the Scheme of Reduction.
+The letter accepted that the scheme will be in contrast to the normal practice of reducing holding by selling shares and realizing value.
+Among the main features of the Scheme which were highlighted were as followsa)
+The shareholding of FTIL and MCX each would not be in excess of 5 (post reduction) and excess shares would be extinguished by corresponding reduction of paid up equity capital of the companyd) MCX, FTIL and the other shareholder whose equity shares are extinguished as above shall be allotted an equal number of warrants as a part of the Scheme.e)
+Promoters once having reduced their shareholding to 5 shall not be permitted to increase their holding beyond limits specified under MIMPS Regulation, thereafter.19.
+The Scheme of ReductioncumArrangement was approved by the Company Judge of this Court on 12 March 2010 and the Scheme took effect from 19 March 2010.
+The order of the Company Judge dated 12 March 2010 notes that the Regional Director had filed an affidavit stating that the Scheme does not appear to be prejudicial to the interests of the shareholders and public except as stated in paragraphs 6(a) and 6(b).
+In paragraph 6(a) it was stated by the Regional Director that since the Company was recognized as a stock exchange by SEBI, it was required to inform the regulator about the proposed Scheme of Reduction.
+The Petitioner by its letter dated 21 December 2009 was recorded as having informed SEBI and of having obtained an acknowledgment.
+The second objection of the Regional Director was that there was no enabling provision in the Articles of Association to issue warrants in lieu of a reduction of share capital to which it was submitted on behalf of the Petitioner that the warrants are securities convertible into shares and hence, the issuance of warrants was enabled under the Articles of Association.
+On 19 March 2010, the Registrar of Companies issued a certificate registering the order of this Court consequent upon which the reduction of capital and the scheme stood implemented.20.
+On 7 April 2010, the Petitioner informed SEBI of having complied with the MIMPS Regulations and sought its approval to deal in interest rate derivative markets, equities, futures and options on equity and wholesale debt segments and in all segments which are permitted to the Bombay Stock Exchange and National Stock Exchange.
+On 13 April 2010, a copy of the order of the Company Judge sanctioning the Scheme together with the Scheme which was sanctioned was furnished by the Petitioner to SEBI.
+SEBI had conducted an inspection of the Petitioner in July and August 2009 in respect of which an inspection report was forwarded on 16 April 2010.21.
+On 4 June 2010, the Petitioner applied for renewal of its recognition valid until 15 September 2010 to trade in the existing securities.
+The Petitioner also sought an expeditious grant of permission to commence operation in other segments.22.
+On 16 July 2010, the Petitioner instituted a writ proceeding under Article 226 of the Constitution before this Court aggrieved by the delay on the part of SEBI in deciding upon the application for approval for commencing trading in other segments in addition to exchange credit currency derivatives.23.
+On 21 July 2010, SEBI addressed a letter to the Petitioner stating that it had been brought to its notice that the Petitioner had entered into buy back arrangements with a Bank which was a shareholder of the Petitioner.
+This, it was stated, was observed from a news article published on 19 July 2010.
+On 2 August 2010, the Petitioner in a reply to SEBIs letter enclosed a copy of the comfort letter which was issued to PNB by FTIL, its promoter and the Third Respondent.24.
+On 10 August 2010, a Division Bench of this Court disposed of the Writ Petition by directing SEBI to take a final decision on the application submitted by the Petitioner by 30 September 2010.
+The Court recorded the statement of the Third and Fourth Respondents that they would convey to SEBI, Board resolutions indicating their resolve to comply with the requirement of the statutory regulations regarding the shareholding not exceeding the prescribed percentage.
+Pursuant to the statement made before the Division Bench, both FTIL and MCX, the two Promoters of the Petitioner, passed and submitted Board resolutions to SEBI to the effect that they shall not increase their equity shareholding by acquiring equity shares under any buy back or other arrangements which would result in the limits prescribed under the MIMPS Regulations being exceeded and that they shall at all times continue to comply with the Regulations.25.
+On 11 August 2010, ILFS addressed a letter to SEBI in order to explain the background of the investment made in the Petitioner.
+The letter stated that a Share Purchase Agreement had been executed in August 2009 for the purchase of 44.2 million shares of the Petitioner from MCX.
+Another Share Purchase Agreement was executed by a private equity fund managed by an ILFS Group Company with respect to 27.8 million shares.
+Under an exit arrangement it was agreed that LaFin Financial Services which held a 26 equity stake in FTIL was obligated to offer to purchase the shares held by the ILFS Group on the completion of one year and within a period of three years at a stipulated rate.
+The letter stated that on 10 August 2010, ILFS Financial Services Ltd. had, in a meeting of its Board, resolved to explore an exit from the investment made in the shares of the Petitioner, including by expediting the right to sell the investment in accordance with exit terms to the promoters of the Petitioner.26.
+On 19 August 2010, PNB addressed a letter to SEBI regarding the buy back arrangement stating that in view of the Scheme sanctioned by this Court for reduction of capital, there would be an inference that PNBs arrangement with regard to buy back of shares has implicitly been extinguished.27.
+On 30 August 2010, SEBI renewed the recognition of the Petitioner for a period of one year with effect from16 September 2010 without prejudice to its right to decide upon the application submitted by the Petitioner on 7 April 2010.II
+The Notice by SEBI and the impugned order28.
+A notice was issued by SEBI to the Petitioner on 30 August 2010 under Sections 4(4) and 12A of the SCRA read with Sections 11(1) and 11B of the SEBI Act to show cause why the application dated 7 April 2010 should not be rejected.
+Five grounds were set out in support of the notice to show cause (i) Concentration of the promoters interest in the Petitioner as a stock exchange the case being that both the Third and Fourth Respondents continue to retain the same percentage share (38.01 and 33.89) of the issued equity shares and warrants taken together as they did when both the promoters were holding only equity shares of the Petitioner (ii) The manner of compliance with Regulation 8(1) of the MIMPS Regulations did not accord with the modes set out in Regulation 4.
+All other Stock Exchanges had adopted one of the modes explicitly recognised in Regulation 4, whereas the Petitioner had merely substituted the holding of equity by a right to acquire equity (iii) Neither the Petitioner nor its promoters, the Third and Fourth Respondents, could be regarded as fit and proper persons since inter alia the details of the buy back arrangement had been concealed from SEBI.
+Prior to the letter dated 21 December 2009, the Petitioner had not furnished any information to SEBI in regard to the proposed Scheme of Reduction and even at the time of filing of the application on 7 April 2010, the Scheme was not shared with SEBI (iv) The promoters of the Petitioner are persons acting in concert within the meaning of Explanation IV to Regulation 8(1) and (v) The Petitioner and its promoters, the Third and Fourth Respondents, were in violation of the SCRA inasmuch as the buy back agreements were forward contracts which were in contravention of the provisions of the Act.
+The Petitioner submitted a reply to the notice to show cause on 16 September 2010.29.
+The Whole Time Member of the SEBI passed the impugned order on 23 September 2010, rejecting the application of the Petitioner dated 7 April 2010.
+The findings which have been arrived at in the impugned order, may be broadly summarized thus(i) The MIMPS Regulations are not applicable to Stock Exchanges that are already corporatised and demutualised.
+The Petitioner was already corporatised and demutualised at the time of its recognition.
+But, the Regulations became applicable to the Petitioner because SEBI specifically imposed a condition that the Petitioner shall comply fully with the relevant provisions of the Regulations within one year(ii) The approval granted by the High Court to the Scheme of capital reduction does not conclude the issue as to whether there was compliance with the requirements of the SCRA or the MIMPS Regulations since that was not a subject matter for consideration of the Court when it approved the Scheme(iii) Since the object of the Scheme was to ensure full compliance with the Regulations, there was no reason as to why the Petitioner did not seek the opinion of SEBI as to whether the Scheme was in full compliance with the Regulations(iv)
+Excluding the warrants held by a shareholder in computing the limits of ownership in a Stock Exchange would violate the spirit of the MIMPS Regulations.
+If the holding of equity shares in excess of the shareholding limits is not permissible, the holding of a right to equity shares cannot be held to be permissible(v)
+The conversion of shares into warrants was not one of the four modes set out in Regulation 4 and was, therefore, not permissible(vi) The undertaking furnished by the Petitioner together with its promoters not to violate the MIMPS Regulations in the Scheme of Capital Reduction will not render it compliant with the Regulations(vii) The difficulty of the promoters in divesting shares was purely a commercial consideration.
+SEBIs interpretation of the meaning of full compliance under the Regulations should not be tailored to meet the business objectives of the promoters(viii) Other Stock Exchanges have not adopted any method other than one of the methods referred to in the MIMPSRegulations(ix)
+The meaning of the expression acting in concert is to be derived from the Takeover Regulations by virtue of Explanation (IV) to Regulation 8(x)
+The meaning in the Takeover Regulations has to be adopted mutatis mutandis.
+Regulation 8 uses the expression hold in contrast to the Takeover Regulations which use the expression acquire.
+This would mean that a common objective attaches itself to the holding of shares and not acquiring a target company.
+A person holding shares in a recognized Stock Exchange with a common objective would be a person acting in concert for the purposes of Regulation 8(xi) FTIL and MCX are de jure, persons acting in concert for the purpose of Regulation 8.
+Section 370 of the Companies Act, 1956 defines when two bodies corporate shall be deemed to be under the same management.
+Reliance has been placed on two letters dated 14 December 2009 and 20 August 2009 addressed by MCX to ILFS Financial Services Limited and by LaFin to the same Company (stated to be addressed by Jignesh P.Shah), Jignesh Shah is the Chairman and Group Chief Executive Officer of FTIL and Vice Chairman of MCX, both promoters of the Petitioner.
+He has also been nonexecutive Vice Chairman of the Petitioner.
+He has issued undertakings on behalf of the promoters and other Group Companies that the Petitioner shall not issue shares except as provided for.
+MCX is listed on the website of FTIL as a Group Company and Jignesh Shah, CEO.
+He is, therefore, a de facto Manager for both the promoter Companies.
+He is in effective control and the driving force for the affairs of both FTIL and MCX.
+Consequently, the holding of both FTIL and of MCX exceeds the permissible limit of five percent in a Stock Exchange.
+MCX and FTIL are persons acting in concert for the purposes of Regulation 8(xii)
+The buy back arrangements constitute forward contracts and are contrary to the provisions of the SCRA(xiii)
+The Petitioner is not a fit and proper person and it would not be in public interest to allow the application.
+The Petitioner had knowledge of the buy back arrangements and failed to discharge its obligation to SEBI as a regulatory body to disclose these transactions.
+In none of the quarterly reports submitted under Regulation 11(5) were the arrangements disclosed.
+The buy back arrangements were material to a determination of whether the sale and transfer of ownership by promoters or shareholders whose holding was in excess of permissible limits is in full compliance with Regulation 8(1).
+There was a failure on the part of the Petitioner to fulfill its fiduciary responsibilities underRegulation 11 for making a full disclosure.
+The proposed Scheme ought to have been submitted to SEBI and a confirmation should have been sought as to whether it was in compliance with the MIMPS Regulations(xiv)
+There is a concentration of economic interest in the Petitioner in the hands of the two promoters.
+The conclusions which have been arrived at by the Whole Time Member are as followsa.
+The concentration of economic interest in a recognised stock exchange in the hands of two promoters is not in the interest of a wellregulated securities marketb.
+The Applicant is not fully compliant with the MIMPS Regulations as substitution of shares by warrants is an attempt to work around the requirements of Regulation 8 and the same is not a mode recognised as falling within the scope of the said Regulationsc.
+The Applicant has been dishonest in withholding material information on arrangements regarding the ownership of shares of its shareholders and therefore has not adhered to fair and reasonable standards of honesty that should be expected of a recognised Stock Exchanged.
+The Applicant has failed to ensure compliance with Regulation 8 of the MIMPS Regulations as its two promoters (FTIL and MCX) are persons acting in concert and cannot hold more than 5 in the equity shares of a recognized stock exchangee.
+The Applicant is instrumental to buy back transactions that are illegal under the SCR Act and cannot be considered to have adhered to fair and reasonable standards of integrity that should be expected of a recognized Stock exchange.30.
+Before we deal with the rival submissions, it must be noted at the outset that the application dated 7 April 2010 was filed by the Petitioner.
+SEBI issued a notice to show cause to the Petitioner on 30 August 2010 to explain why the application should not be rejected.
+The Third and Fourth Respondents, who are promoters of the Petitioner, were not heard by SEBI.
+No Petition independently has been filed by them.
+During the course of the hearing, Counsel appearing on behalf of the Third and Fourth Respondents submitted before the Court that in support of the Petitioner, they would urge submissions on merits about the legality of the order passed by SEBI on 23 September 2010 and would, therefore, not be urging that there is a breach of the principles of natural justice.
+III SUBMISSIONS a.
+The Petitioners submissions31.
+The Petitioner has submitted before the Court that the principal findings against it are that(i) The Petitioner has not fully complied with the MIMPS Regulations(ii)
+The Petitioner is not a fit and proper person and(iii)
+There is a concentration of economic interest in the hands of the Third and Fourth Respondents qua the Petitioner.
+As regards the issue of full compliance, it has been urged that the finding is based on the allegation that (a) The manner of effecting capital reduction is different from the modes specifically provided in Regulation 4 which does not meet with the standards of full compliance (b) The Scheme of Capital Reduction is contrary to the understanding furnished to SEBI by the Petitioner (c)
+The Petitioner cannot be permitted a different mode of compliance with the MIMPS Regulations than what is permitted to other Exchanges (d)
+The right to acquire equity shares through warrants is contrary to the objectives of the MIMPS Regulations and (e) The Scheme of Reduction has not led to diversification of ownership and economic interest.
+The submissions which have been urged on behalf of the Petitioner are thatA. (i)
+The initial permission to start a commodities exchange was subject to the condition of full compliance with the MIMPS Regulations which was subsequently changed to compliance with the relevant provisions of those Regulations.
+The Regulations do not ipso facto apply to the Petitioner since the Petitioner was not subjected to a scheme for corporatisation or demutualization approved by SEBI, but were made applicable as a condition of a permission granted to establish an exchange.
+Regulation 4 applies to dilution of equity of persons having trading rights in a Stock Exchange and cannot apply in terms to the Petitioner.
+At the highest, Regulation 4 can apply as regards the requirement of at least 51 shares being held by the public.
+Regulation 2(1)(h) defines the expression public as including a member of the public, but excluding a shareholder with trading rights.
+In the case of the Petitioner, the entire equity is held by persons other than those holding trading rights(ii) The method of reduction of share capital has resulted in the Third and Fourth Respondents reducing their shareholding respectively to less than five percent(iii)
+The letter dated 21 December 2009 addressed by the Petitioner points out the manner in which the MIMPS Regulations would be complied with and it was the case of the Petitioner that the method of reduction was suggested by Senior Officers of SEBI(iv) Other Stock Exchanges in India historically had trading members, whereas the Petitioner had no trading members at all.
+Consequently, the means adopted by other Stock Exchanges cannot apply to the Petitioner(v)
+The submission of concentration of economic interest has not been pressed by SEBI before the Court.
+Concentration of economic interest is not contemplated as a ground in any Regulation, statutory provision or in the permission granted to the Petitioner(vi)
+The Petitioner has complied with the MIMPS Regulations to the extent to which they can be applied to it(vii)
+The right to convert warrants into equity shares has erroneously been equated by SEBI with equity shares.
+In any event, undertakings have been filed before this Court and before SEBI to the effect that at no point will the MIMPS Regulations be violated or the limit of shareholding crossed.
+B.
+On the issue as to whether the Petitioner is a fit and proper person, it has been urged that the order passed by SEBI is based on the nondisclosure of the buy back arrangements by the Petitioner and its promoters.
+In this regard, it has been urged that(i)
+The buy back arrangements are lawful.
+The promoters have filed undertakings that they would not violate the MIMPS Regulations which presupposes that they would not exceed the limit of five percent(ii) Moreover, it is not necessary that the promoters themselves would buy back shares and it would be open to them to find other buyers to purchase shares on the exercise of the option.
+C. Finally, it has been urged that none of the relevant provisions of law embody the concept of economic interest in regard to the recognition of the Stock Exchanges.
+SEBI did not press the point during the course of the arguments, but merely relied on the order of the Whole Time Member.b.
+The Third Respondents submissions32.
+On behalf of the Third Respondent, which has supportedthe Petitioner as its promoter, it has been urged that SEBI has advanced the following grounds in regard to the buy back arrangements between the promoters on the one hand and PNB and ILFS on the other hand(i) The buy back arrangement which is a forward contract, is illegal by reason of the provisions of the SCRA(ii) Even if presently the buy back arrangement does not give rise to a concluded contract, a contract would stand concluded on the exercise of the option by PNB and or ILFS to sell back the shares to the promoters.
+In that event, it has been presumed that the promoters upon the performance of the obligation to buy back would exceed the limit of five percent set out in the MIMPS Regulations and(iii)
+The promoters are not fit and proper persons within the meaning of Regulation 9 since they are parties to an illegal contract.
+A.
+The submissions which have been urged by the Third Respondent on the legality of the buy back arrangement are as follows(i) The buy back arrangement does not constitute a concluded contract for the purchase and sale of shares, but only furnishes an option to PNB ILFS.
+This is in the nature of a privilege or concession entirely dependent on the volition of the PNB ILFS.
+An option involves a unilateral exercise of volition as distinct from a contract of sale and purchase which involves reciprocal obligations(ii) If and when, the buy back arrangement fructifies into a contract, the contract will be for sale and transfer of shares necessarily on a spot delivery basis.
+Spot delivery contracts are expressly permitted by the notification issued under Section 16 of the SCRA.
+Spot delivery in Section 2(i) of the SCRA applies to shares in dematerialised form held in a depository account which is the case in the present case.
+The contract would, therefore, necessarily be on a spot delivery basis and would not suffer from any illegality(iii)
+The buy back arrangement with PNB is exempted from the applicability of the SCRA by virtue of Section 28(1)(a) since PNB is set up under a special law, the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970(iv)
+In the alternative, both the buy back arrangements are exempted under the notification dated 27 June 1961 under which an exemption under Section 28(1)(b) had been granted to contracts for preemption or similar rights contained in promotion or collaboration agreements(v)
+On the principle of contemporanea expositio, the buy back arrangement is lawful because SEBI has followed a consistent practice from the time that Section 16 was enacted, of not holding such buy back arrangements to be unlawful.
+In at least thirteen cases of Red Herring Prospectus cleared by SEBI, there is an exit option of the nature involved in the present case to which SEBI has granted its approval.
+Over the last half a century of the enforcement of the Act, neither the Central Government, nor SEBI have taken the position that buy back arrangements would be unlawful under Section 16 or Section 18A(vi)
+The legality of buy back arrangements is also implicitly recognised in the Takeover Regulations of 1997 and 2011 which independently have the force of law under Section 30 of the SEBI Act, 1992.B.
+The alternative submission of SEBI is that even if the buy back is not a forward contract, it amounts to an option in securities which is a contract in derivatives not traded or settled on any recognised Stock Exchange or with the permission of SEBI.
+Consequently, the buy back arrangement would be in violation of Section 18A of the SCRA.
+On this submission of SEBI, it has been urged that(i)
+This submission was not part of the show cause notice, nor is it the basis of the order passed by SEBI.
+Hence, the submission cannot be urged for the first time in these proceedings In the alternative(ii) From the definition of the expression derivative in Section 45U(a) of the R.B.I. Act, 1934 and Section 2(ac) of the SCRA, it would be evident that a derivative is an instrument whose value is to be derived from an underlying asset.
+In the case of the buy back arrangement in the present case, the subject matter is the buy back of shares directly and there is no question of deriving the value of the shares from any underlying asset(iii)
+In the case of an option contract, the right to buy or the right to sell is itself the subject matter of the contract and the option is traded on the Stock Exchange.
+It is only such option contracts that are required to be traded on the Stock Exchange(iv)
+The buy back arrangement in the present case does not result in an option being traded or sold.
+The arrangement is directly with reference to shares and is not an option contract.
+C. As regards the second contention of SEBI that the exercise of the option under the buy back arrangement will result in a contract coming into existence and which upon being performed by the promoters will result in their exceeding the limit of five percent under the MIMPS Regulations, it has been urged that(i) SEBI is not entitled to take into consideration the mere possibility of future events taking place, particularly when there is no obligation on PNB and or ILFS to sell the shares to the promoters in future.
+A scheme which is otherwise valid cannot be questioned on an apprehension or speculation of what might possibly happen in future.
+SEBI, by taking this factor into account, has misdirected itself by proceeding on the basis of an irrelevant consideration(ii) SEBI did not have any reasonable basis to presume that the exercise of the buy back option would result in the promoters exceeding the limit on the shareholding of five percent, particularly having regard to the fact that the conduct of the promoters thus far has reduced their shareholding in compliance with the Regulations.
+More over, even if the promoters were to acquire shares on the exercise of the option under the buy back arrangement by PNB or ILFS, the promoters could lawfully comply with the Regulations by increasing the authorised share capital of the Petitioner to such an extent that the acquisition of shares pursuant to the buy back arrangement would not result in the promoters exceeding the shareholding of five percent.
+Alternatively, the promoters could arrange for the acquisition of the shares by some other independent persons so that no one would cross the limit of five percent.
+In any event, the effect of the exercise of the buy back option would have to be considered only at that stage in the light of the situation as it would emerge.
+Allowing SEBI to take into consideration hypothetical future possibilities would result in an arbitrary exercise of powers contrary to Article 14(iii)
+Since the order passed by SEBI is based on specific grounds, no generalities can be used to sustain the order if it is otherwise not sustainable.
+Public interest does not include mere future possibilities being taken into account.
+As a matter of fact, SEBI has acted against public interest, by perpetuating, the monopoly of one Stock Exchange which alone at present has permission to deal in the segments.
+The Petitioner is ready and willing to provide such safeguards as may be required by the Court(iv)
+The only reason furnished by SEBI for holding that the promoters are not fit and proper persons is that they were parties to a buy back arrangement which is alleged to be illegal.
+This ground being misconceived, since the buy back arrangement is not illegal, there is no basis to hold that the promoters are not fit and proper persons(v) Even though SEBI is a statutory regulator, it cannot claim immunity from judicial review though in a restricted field.
+If within the restricted area where judicial review is permissible, it is demonstrated that the order is arbitrary, based on irrelevant considerations and contrary to law, the Court ought to exercise its jurisdiction to set aside the order.c.
+The Fourth Respondents submissions33.
+On behalf of the Fourth Respondent, the following submissions have been urged(i) In view of the order of the Company Court dated 12 March 2010 sanctioning the Scheme of Capital Reduction, the issue as to whether the holding of the promoters stands reduced to five percent and the effect of the convertible warrants on promoters shareholding stands conclusively decided in favour of the Petitioner.
+The object of the Scheme was solely to reduce the holding of the promoters to five percent to comply with the MIMPS Regulations.
+It was the function of the Company Court to scrutinize the Scheme and once sanctioned, the Scheme binds SEBI and operates as res judicata on all issues involved in the Petition(ii)
+The finding that a reduction can be achieved only in one of the modes prescribed in Regulation 4 is unsustainable (a) Regulation 4 does not apply to the Petitioner which was already a demutualised exchange with no trading member shares to be divested and hence the modes specified are not exhaustive or mandatory (b) The object of the Regulation is more important than the manner in which it is achieved especially because there is no prohibition of achieving the object in any particular manner(iii) SEBI has erred in ignoring the factual position on the date of the consideration of the application.
+On that date, the promoters shareholding stood reduced to five percent and the mere possibility of the promoters increasing their shareholding beyond five percent in future could not justify the order.
+SEBIs conclusion would have been correct if the warrants provided for automatic conversion into shares and if the warrants were not transferable at all.
+That is not the case(iv) If SEBI were to act on the basis of a mere possibility of a future breach, the action would be rendered arbitrary and unreasonable(v) The warrant holder does not become a shareholder and his name is not borne on the register of members until the option is exercised(vi) The existence of the buy back arrangement is an irrelevant factor as in the case of warrants.
+Nondisclosure of the buy back arrangement has no effect on the decision.
+What was required to be disclosed were facts pertaining to the shareholding of the promoters on the date of the consideration of the application and not the possibility of an event happening in future which could result in a breach(vii)
+The possibility of the buy back arrangement increasing the shareholding of promoters to beyond five percent is not a relevant consideration.
+In spite of the exercise of the option under the buy back arrangement, the promoters shareholding can still be within the limit of five percent by the promoters (a) disposing of their other existing shareholding so that the total shareholding does not exceed five percent (b) increasing the share capital so that the increased holding of the promoters does not exceed five percent and (c) performing the buy back arrangement by nominating a third party to buy back the shares(viii)
+The MIMPS Regulations do not upon their terms apply to the Petitioner, but they have been made applicable by notifications dated 18 September 2008 and 31 August 2009.
+Under the later notification, only the relevant Regulations are made applicable.
+This notification was issued to get over an impasse created by the earlier notification.
+If a limited Company already in existence applied for permission, such permission could not be granted because all promoters taken together would ordinarily hold more than five percent shares.
+In such an event, there would be no application made by an existing Company and all the provisions would be rendered useless.
+Hence, that regulation has no application to the facts of the present case and there can be no occasion to commit a breach thereof(ix) Alternatively, even if the combined shareholding of two promoters is to be considered, even then, unless it is established that they were acting in concert, there would be no violation of Regulation 8.
+Acting in concert presupposes a requirement of an overt act.
+Acting in concert in promoting a Company cannot be regarded as acting in concert while considering an application for permission unless an overt act post promotion is established(x) The issue as to whether two promoters by holding more than five percent of the shares are acting in concert is a question of fact to be determined after considering the entire material.
+An inference of promoters acting in concert is negated by the fact that (a) The promoters have made efforts to bring down their shareholding from 49 and 51 respectively to five percent each and(b)
+They have furnished an undertaking to keep their holdingwithin limits(xi)
+The essential requirement of acting in concert is a common objective as held by the Supreme Court.
+Explanation IV to Regulation 8(1) refers to Regulation 2(1)(e) of the Takeover Regulations indicating a legislative intent to adopt the definition.
+An explanation is an integral part of the statute and has to be construed harmoniously with the main provision.
+The expression derived from is a narrow expression and the essential features of the definition of a person acting in concert in the Takeover Regulations cannot be destroyed.
+Since the definition of person acting in concert is incorporated from the Takeover Regulations, the expression has to be interpreted in the sense in which it appears in those Regulations.
+Even if the definition is applied mutatis mutandis, it cannot destroy the essential features of the MIMPS(xii)
+The contention that Mr.Jignesh Shah controls the promoters and the Petitioner and that hence, in view of Regulation 2(e)(2)(i), the promoters are acting in concert is not sustainable.
+The only material alleged is that Mr.Jignesh Shah had addressed two letters.
+One of the two letters was in fact, not signed by Mr.Shah.
+He cannot be considered as a Manager within the meaning of Section 2(24) of the Companies Act, 1956 merely on the basis of addressing one letter.
+In view of the provisions of Regulation 2(2) of the Takeover Regulations, the expression Companies under thesame management shall have the meaning given in Section 370(1B) of the Companies Act, 1956(xiii) SEBI at all material times, was aware of the position of Mr.Jignesh Shah and that at no point of time was a grievancemade(xiv)
+The only basis on which the Petitioner has been held not to be a fit and proper person is that there was an option to convert the warrants and there was a buy back arrangement.
+Both are irrelevant.
+Even if an option is exercised, that would not necessarily result in increasing the shareholding beyond five percent.
+Moreover, the buy back arrangement is not going to be operated since the undertaking given is that the shareholding would not be increased(xv)
+In any event, the findings which have been made against the promoters cannot be permitted to be used in any other proceedings, since the promoters are not parties to the proceedings in which the order was passed.d.
+Submissions of SEBI34.
+On behalf of the First Respondent, the following submissions have been urged by the Additional Solicitor General of India(i)
+Stock Exchanges play a vital and important role in the economy and are an instrument of regulation.
+Recognition under Section 4 of the SCRA has to be in the interest of trade and public interest.
+SEBI has to be satisfied of the suitability and integrity of an applicant(ii) The initial approval granted by SEBI to the Petitioner on 18 September 2008 was subject to full compliance with the MIMPS Regulations.
+The fact that in the renewal notification dated 31 August 2009, the expression relevant provisions was used, does not make any difference(iii) Between 2008 and 2010, the Petitioner adopted a number of steps to achieve compliance with the MIMPS Regulations including the sale of shares coupled with an obligation of the promoters to buy back shares and the Scheme of ReductioncumArrangement to convert some of the equity shares into warrants.
+On scrutiny, SEBI discovered that the Petitioner has failed to comply with the MIMPS Regulations for the following reasons(a)
+The buy back arrangement between the promoters with various Banks and Financial Institutions indicated that the transfers were not true sales and the promoters had not divested their shareholding for the purposes of the MIMPS Regulations(b)
+The warrants issued under the Scheme of Reduction did not result in a diversification of ownership in a manner sought to be achieved by the MIMPS Regulations(c)
+The Third and Fourth Respondents were persons acting in concert and together holding ten percent of the equity capital of the Petitioner in breach of Regulation 8 and(d) The Petitioner failed to adhere to fair and reasonable standards of honesty by suppressing relevant information from SEBI(iv) Sections 4A and 4B of the SCRA were introduced following the report of the Kania Committee.
+These sections gave an impetus to separate ownership and control of Stock Exchanges from trading members by implementing a Scheme of corporatisation and demutualisation.
+The MIMPS Regulations only apply to the old mutualised Stock Exchanges for which a Scheme was approved by SEBI.
+However, in order to avoid discrimination against the old Stock Exchanges which were established prior to the Regulations, SEBI imposed compliance with the MIMPS Regulations as a condition for recognition of the Petitioner.
+Consequently, the provisions of the Regulations must be read contextually(v) The finding in the impugned order that FTIL and MCX are persons acting in concert for the purposes of Regulation 8 and that their combined holding of ten percent of the equity capital of the Petitioner is in breach of Regulation 8, is a finding of fact(vi) Under Section 370(1B) of the Companies Act, 1956, two Companies are deemed to be under the same management if inter alia they have a common Manager.
+FTIL and MCX have a common Manager (Jignesh Shah) and are, therefore, deemed to be persons acting in concert for the purposes of the MIMPS Regulations.
+This finding is based on certain letters addressed by Jignesh Shah, Director of LaFin and the promoter of FTIL.
+He is a Chairman and Group Executive Officer of FTIL (a promoter of the Petitioner) and the Vice Chairman of MCX (the Second promoter of the Petitioner).
+He is also a nonexecutive Vice Chairman of the Petitioner.
+He issued an undertaking on behalf of MCX and FTIL and other group Companies that the Petitioner will not issue shares except as provided for.
+This shows that he was not only in a position to issue an undertaking for FTIL of which he is Managing Director, but also for MCX of which he is designated as nonexecutive Vice Chairman.
+MCX is listed as a Group Company of FTIL.
+The two promoters are, therefore, under a common management(vii)
+The expression persons in concert as it is used in the Takeover Regulations must apply mutatis mutandis to the MIMPS Regulations and hence, there is no requirement of a common objective of acquisition for the purposes of the MIMPS Regulations.
+This is buttressed by the use of the word derived in Explanation 4.
+Prior to its amendment in 2008, Regulation 8 provided that no person shall directly or indirectly acquire or hold more than five percent in the paid up equity capital of a recognized Stock Exchange.
+After the amendment, the reference to acquire has been deleted indicating that a common purpose of acquiring shares is not relevant to the MIMPS Regulations(viii)
+Even the Takeover Regulations use the expression persons acting in concert in the context of a mere holding of shares without acquisition(ix) FTIL and MCX continue to act in unison with a common object of continuing to hold equity shares of the Petitioner in excess of the limit specified in Regulation 8 (a) In response to a letter of PNB offering to purchase shares of the Petitioner if a buy back was provided, FTIL wrote to PNB offering a buy back (b) MCX sold shares of the Petitioner to ILFS for which a buy back was entered into between ILFS and LaFin.
+However, on 26 March 2010 when ILFS exercised its right under the buy back arrangements, the warrants were purchased by MCX instead of LaFin.
+FTIL controls MCX.
+Control has a wide meaning and means effective control(x) The shareholding pattern of the promoters of the Petitioner is also in breach of Regulation 8.
+LaFin Financial Services Pvt.
+Ltd. is a Company owned and controlled by Jignesh Shah and his wife and as a promoter of FTIL and MCX.
+The shares of the Petitioner held by FTIL and MCX are indirectly held by LaFin Jignesh Shah breaching the five percent limit(xi) LaFin, FTIL and MCX constitute one group which is evident from the following circumstances (a) Jignesh Shah and his wife hold hundred percent of the equity capital of LaFin as admitted at the hearing by the Petitioner and by the Third and Fourth Respondents (b) LaFin together with Jignesh Shah and his family hold 45.53 of the equity share capital of FTIL (c) FTIL holds 31.18 of the equity capital of MCX (d)
+The website of FTIL shows the Petitioner and MCX as part of the FTIL Group and (e) LaFins letter dated 20 August 2009 and MCXs letter dated 14 December 2009 corroborates the position(xii)
+As regards the buy back arrangements, the submissions are as follows (a)
+Though the buy back agreements were entered into to comply with the MIMPS Regulations, these arrangements were not disclosed to SEBI, thereby withholding relevant information (b) The entering into the buy back agreements and the conduct of the group are relevant factors that SEBI can take into account while deciding as to whether to recognize a Stock Exchange (c)
+The buy back agreements are illegal, albeit for reasons different from those set out in the impugned order and in the show cause notice dated 30 August 2010.
+Hence, if a member of the Stock Exchange enters into an illegal contract, it is rendered unfit to run a Stock Exchange.
+SEBI should be allowed to plead the illegality of the agreements in these proceedings on grounds other than those contained in the show cause notice and the impugned order(xiii)
+The Scheme of Reduction did not have any impact on the buy back agreements.
+ILFS was offered a fresh buy back agreement by MCX in respect of warrants that were issued to it pursuant to the Scheme of Reduction.
+ILFS exercised that right on 26 March 2010 by requiring MCX to procure the purchase of some warrants.
+In fact, ILFS in a letter to SEBI asserted that the buy back agreement is a valid contract(xiv)
+The buy back agreements are valid contracts in praesenti though there is no obligation in praesenti.
+The enforceability of the contract is dependent on the volition of one of the parties and not on a contingent event(xv)
+The SCRA applies equally to listed and unlisted companies and would apply to the shares of the Petitioner(xvi)
+The impugned order proceeds on the basis that the buy back agreements are forward contracts and, therefore, illegal under Sections 13 and 16 of the SCRA.
+However, on a close scrutiny, it appears that the buy back agreements are actually option contracts and are, therefore, illegal under Section 18A and of the SCRA.
+A buy back agreement envisages that the institutional investor has a right, but not an obligation to sell shares to the promoters of the Petitioner and constitutes an option in securities under Section 2(1)(d).
+Option contracts are derivatives under Section 2(ac).
+Under Section 18A, contracts in derivatives are lawful only if traded on a recognized Stock Exchange and settled on its clearing house.
+Neither were the buy back agreements entered into on a recognized Stock Exchange, nor was SEBIs permission obtained as required by the notification dated 1 March 2000.
+The buy back agreements are, therefore, unlawful(xvii)
+As regards the issuance of warrants as a mode for compliance with the MIMPS Regulations, Regulation 8 unlike Regulation 4 does not specify the manner in which shareholding should be reduced to below the specified threshold.
+The modes specified in Regulation 4 are not required to be followed mandatorily for the purposes of Regulation 8.
+Reducing shareholding by the issuance of warrants, however, leaves an escapehatch open to the promoters to increase their shareholding whenever they so desire.
+The submission of the Petitioner that the Scheme sanctioned by the Company Court operates in rem and would bind SEBI is erroneous.
+A Scheme under Section 391 binds the creditors and shareholders and cannot bind SEBI which does not in any event have locus in a Section 391 Petition.
+SEBI is not a creditor and the Scheme does not bind it under Section 391(2)(xviii)
+In the event that the Third and Fourth Respondents could not have complied with the shareholding limit prescribed in Regulation 8, they could have made an application under Regulation 9 for permission to exceed the shareholding limit.
+No such application was made(xix)
+The doctrine of contemporanea exposito applied in the context of ancient statutes has no applicability to the interpretation of modern statutes.
+The mere silence of SEBI in the face of certain Red Herring Prospectuses mentioning the existence of the buy back agreements is not sufficient and some manifestation of a conscious act or clarification on the part of SEBI was necessary even assuming that the doctrine is attracted(xx)
+In exercise of the power of judicial review, the Court will not sit in judgment over the decision of the regulator as an Appellate Forum, but will interfere only when the decision is so unreasonable that no reasonable authority could have come to that decision.
+When dealing with orders of the expert bodies, the interference of the Court is confined to those cases where an order is perverse, based on no evidence or on a misreading of evidence.
+On these grounds, it has been urged that the interference of the Court is not warranted in the exercise of the jurisdiction under Article 226 of the Constitution.35.
+These submissions now fall for determination.36.
+The adjudication in the present case is by the Whole Time Member of SEBI, which is an expert statutory body.
+While assessing the challenge to those findings, the Court must bear in mind that the interference of the Court under Article 226 of the Constitution is confined to certain well settled, if restricted, parameters.
+The view of the expert should not be disturbed unless it is perverse or not based on evidence or is based on a misreading of evidence.
+This principle was laid down by the Supreme Court even in the context of the appellate power of the High Court over a determination made by the Electricity Regulatory Commission.
+(West Bengal Electricity Regulatory Commission vs. C.E.S.C. Ltd. (AIR 2002 SC 3588 (U.P. Financial Corporation Vs.
+Gem Cap (India) Pvt. Ltd.) (1993) 2 SCC 299 ) (Haryana Financial Corporation vs. Jagdamba Oil Mills), (2002) 3 SCC 496 ).
+The High Court under Article 226 of the Constitution would not be justified in substituting the view of an expert adjudicator for another view merely because it commends itself to the Court See also the judgment of Mr.Justice Moses in the Queens Bench Division Administrative Court in the U.K. in The Queen On the application of London and Continental Stations and Property Limited vs. The Rail Regulator,
+2003 EWHC 2607IV
+The provisions of the SCRA 37.
+Section 4 of the SCRA empowers the Central Government to grant recognition to a Stock Exchange if it is satisfied, after making an enquiry as may be required(a) that the rules and bye laws of a stock exchange applying for registration are in conformity with such conditions as may be prescribed with a view to ensure fair dealing and to protect investors(b) that the stock exchange is willing to comply with any other conditions (including conditions as to the number of members) which the Central Government, after consultation with the governing body of the stock exchange and having regard to the area served by the stock exchange and its standing and the nature of the securities dealt with by it, may impose for the purpose of carrying out the objects of this Act and(c) that it would be in the interest of the trade and also in the public interest to grant recognition to the stock exchange.
+Under subsection (2) of Section 4, the Central Government may prescribe by way of Rules, conditions for the grant of recognition relating to (i) the qualifications for membership of the stock exchange (ii) the manner in which contracts shall be entered into(iii) the representation of the Central Government and (iv) maintenance and audit of accounts.38.
+Historically, Stock Exchanges were owned and controlled by persons who were also trading members of the Exchange.
+In August 2002, an Expert Committee headed by Mr.Justice M.H.Kania examined the ownership structures of Stock Exchanges and recommended that (a) Stock Exchanges should be corporatised and demutualised and (b) Ownership of Stock Exchanges should not be concentrated in the hands of a single entity or groups of related entities.
+In paragraph 9.30 of its report, the Committee stated that demutualisation demands that shareholding in a stock exchange should not remain exclusively with the brokers on the stock exchange.
+The Committee opined that dispersal of membership can be achieved in one of two ways(a) by the shares initially issued to brokers being offered for sale to the public and (b) by the stock exchange making an issue of shares to the public.
+The Committee opined that no specific form of dispersal need be prescribed, but there a time limit should be prescribed within which at least 51 of the shares would be held by nontrading members of the stock exchange.
+In paragraph 9.32, the Committee was of the view that having regard to the public interest in the efficient functioning of stock exchanges, it is important that no single entity or groups of related entities should be allowed to control a stock exchange through a cornering of shares.
+The Committees view was that there should be a ceiling of five per cent on the voting rights which can be exercised by a single entity or groups of related entities irrespective of the size of the ownership of shares.39.
+Following the report of the Kania Committee, Sections 4A and 4B were introduced with effect from 12 October 2004 by the Securities Laws (Amendment) Act, 2004 into the SCRA.
+Section 4A stipulates that on and from the appointed date, all recognized stock exchanges if not corporatised and demutualised before the appointed date, shall be corporatised and demutualised in accordance with the provisions of Section 4B. Section 4B lays down the procedure for corporatisation and demutualisation.
+Under subsection (1) all recognised stock exchanges referred to in Section 4A, were mandated to submit a scheme for corporatization and demutualisation to SEBI for its approval within such time as may be stipulated.
+SEBI is empowered to approve a scheme submitted upon being satisfied that it would be in the interest of trade and in public interest.
+SEBI is empowered in subsection (6) while approving the scheme to restrict the voting rights of the shareholders who are also stock brokers of the exchange the right of shareholders or stock brokers to appoint representatives on the governing board and to provide that the maximum number of representatives of the stock brokers on the governing board shall not exceed onefourth of the total strength of the board.
+Subsection (8) of Section 4B stipulates that every recognised stock exchange in respect of which a scheme for corporatisation or demutualisation has been approved under subsection (2), shall, either by fresh issue of equity shares to the public or in any other manner as may be specified by the regulations made by SEBI, ensure that at least fiftyone per cent of its equity share capital is held, within twelve months of the publication of the order under subsection (7) notifying the scheme by the public other than shareholders having trading rights.40.
+Section 12A of the SCRA empowers SEBI to issue directions in the interests of investors and the securities market where it is satisfied that it is necessary(a) in the interest of investors, or orderly development of securities market or(b) to prevent the affairs of any recognised stock exchange, or, clearing corporation or such other agency or person, providing trading or clearing or settlement facility in respect of securities, being conducted in a manner detrimental to the interest of investors or securities market or(c) to secure the proper management of any such stock exchange or clearing corporation or agency or person, referred to in clause (b).MIMPS Regulations41.
+In exercise of the powers inter alia conferred by Section 31 read with subsection (8) of Section 4B, SEBI notified the Securities Contracts (Regulation)(Manner of Increasing and Maintaining Public Shareholding in Recognized Stock Exchanges) Regulations, 2006.42.
+Regulation 2 contains definitions.
+The expression control is defined in Regulation 2(e) to have the meaning assigned to it, in Regulation 2(1)(c) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997.
+The expression public is defined in Regulation 2(h) to include any member or section of the public, but not to include any shareholder of a recognized stock exchange having trading rights or any associate of such shareholder.
+The expression associate is defined in Regulation 2(b).
+In Regulation 2(j) a shareholder having trading rights means a shareholder, who has a trading interest in the stock exchange, whether directly or indirectly.43.
+Regulation 3 provides that the MIMPS Regulations shall be applicable to all recognized stock exchanges in respect of which a scheme for corporatisation or demutualisation has been approved by the Board under Section 4B. Regulation 3 indicates that the MIMPS Regulations were to apply only to old mutualised stock exchanges for which a scheme is approved by SEBI.
+The application of the Regulations to the Petitioner was brought about initially by SEBIs approval on 18 September 2008 to set up a stock exchange which was subject to the condition that the Petitioner would ensure full compliance with the MIMPS Regulations.
+The approval being valid initially for a period of one year, it was renewed subsequently.
+In the course of the renewal dated 31 August 2009, the Petitioner was called upon to comply fully with the relevant provisions of the MIMPS Regulations.
+The modification in the terminology effected on 31 August 2009 by requiring full compliance with the relevant provisions of the MIMPS Regulations is an aspect which would have to be borne in mind.
+The Petitioner was as such, not a stock exchange in respect of which a scheme was approved by SEBI under Section 4B. There can be no manner of doubt that even so, as a condition attaching to the grant of recognition, SEBI was entitled to impose stipulations.
+Among those in Subsection (2) of Section 4, is a stipulation for qualification for membership of the stock exchange.
+Subsection (2) of Section 4 contemplates that Rules can be framed for the grant of recognition to stock exchanges to include among other matters, conditions relating to those specified in clauses (1), (2), (3) and (4).
+SEBI also has a broad power, which is conferred upon it in Section 12A, to issue directions to secure the interest of the investors, the orderly development of the securities market, to prevent the affairs of a recognised stock exchange being conducted in a manner detrimental to the interest of investors or the securities market and to secure the proper management of any stock exchange.
+SEBI has the power to require compliance with the MIMPS Regulations as a condition for the grant of recognition even to an exchange such as the Petitioner.
+As a matter of fact, these proceedings have been conducted by Counsel on the basis that it was as a result of SEBIs notification that the provisions of the MIMPS Regulations were attracted.44.
+Regulation 4 provides that a stock exchange shall ensure that at least 51 of its equity share capital is held by the public either by a fresh issue of equity shares to the public through the issue of a prospectus or in the following manner(a) offer for sale, by issue of prospectus, of shares held by shareholders having trading rights therein(b) placement of shares held by shareholders having trading rights to such persons or institutions as may be shortlisted by the recognised stock exchange with the approval of the Board(c) issue of equity shares on private placement basis by the recognized stock exchange to any person or group of persons not being shareholders having trading rights or their associates subject to the approval of the Board or(d) any combination of the above.
+Regulation 4 forms part of Chapter II of the MIMPS Regulations which deals with the manner of increasing public shareholding.
+Regulation 8 forms part of Chapter III which deals with shareholding restrictions.
+Regulation 8(1) provides that no person resident in India shall, at any time, directly or indirectly, either individually or together with persons acting in concert hold more than five per cent of the equity share capital in a recognized stock exchange.
+Under the first proviso, the restriction of five per cent is enhanced upto fifteen per cent of the paid up equity share capital of a recognized stock exchange in the case of a stock exchange, a depository, a clearing corporation, a banking or an insurance company and a public financial institution.
+Explanation (IV) to Regulation 8 states that the expression persons acting in concert shall have the meaning derived from clause (e) of subregulation (1) of Regulation 2 of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997.45.
+Regulation 8(1), in its present form, was substituted by an amendment which was with effect from 23 December 2008.
+Prior to its substitution, Regulation 8(1) contained a stipulation prohibiting a person from acquiring or holding more than five per cent in the paid up equity share capital in a recognized stock exchange.
+The reference to acquisition has been deleted in the Regulation as it has been recast after amendment.
+The prohibition in Regulation 8(1) brings within its purview a holding whether directly or indirectly or either individually or together with persons acting in concert of more than five per cent of the equity share capital.
+Regulation 9(1) stipulates that no person shall, directly or indirectly, either individually or together with persons acting in concert with him, acquire and or hold more than five per cent of the paid up equity share capital unless he is a fit and proper person and has taken prior approval of the Board for doing so.
+Hence, if the stipulation restricting the holding to five per cent is to be exceeded after the commencement of the Regulations, this can only take place with the prior approval of the Board and subject to the fitness of the person.
+Who is to be regarded as a fit and proper person is defined in Regulation 9(2).46.
+Regulation 11 deals with the obligations of a recognized stock exchange.
+Such an exchange under subregulation (1) has to ensure that (a) that no transfer or issue of equity shares therein is made otherwise than in accordance with these regulations(b) that at least fiftyone per cent of its equity share capital is continuously held by the public and(c) that the restrictions contained in regulations 8 and 9 are complied with in respect of the shareholding therein.
+At the end of every quarter, every recognized stock exchange is required to submit a report to the Board on (a) The names of ten largest shareholders together with the number and percentage of the shares held (b) The names of the shareholders falling under Regulation 8, who had acquired shares in that quarter and (c)
+The shareholding pattern in the stock exchange.
+An undertaking confirming compliance of the provisions of subregulation (1) has to be submitted to the Board on a quarterly basis within fifteen days from the end of each quarter.
+Regulation 11(4) confers an overriding power on SEBI to call for any information inter alia from a recognized stock exchange.
+Every exchange is required by Regulation 11(5) to maintain and preserve books, registers and documents and records relating to the issue or sale of equity shares under the Regulations for a period of ten years.
+The Board has the power under Regulation 12 to undertake inspection and conduct enquiries and audit of a recognized stock exchange or any shareholder having trading rights in the exchange.
+V Role of Stock Exchanges47.
+Stock Exchanges traditionally were constituted by brokers and dealers, who were in management.
+This position has undergone a radical change in several countries.
+Andreas M Fleckner in a seminal article titled Stock Exchanges at the Crossroads (Fordham Law Review April, 2006) notes that with increased competition caused by deregulation, technological advances and globalization, the organisation of stock exchanges was at crossroads.
+The organization of stock exchanges was altered with the onset of demutualizationTraditionally, stock exchanges were organized as notforprofit organizations founded and owned by brokers and dealers who managed their stock exchange like an exclusive club, with high barriers for new entrants and a regional or even national monopoly, comparable to a medieval gild.
+Today, domestic and international competition increasingly compel stock exchanges to give up their exclusivity, undergo restructuring, and become publicly traded forprofit companies, a process referred to as demutualization.
+At first glance, it might seem incestuous that stock exchanges themselves issue stock.
+But in fact this development brings a kind of normalization The public corporation the most efficient organizational form for large enterprises will help stock exchanges catch up with domestic and international competitors.48.
+Stock exchanges, as the author notes, bring together sellers and buyers, investors and issuers and through information distribution, informed and uninformed market participants.
+What makes stock exchanges institutions with a distinctive character is that they are both regulators and regulated entities.
+They are regulators because they oversee the market which they organize.
+They are regulated because they are subject to the control and supervision of a regulator (SEBI in India).49.
+Fleckner identifies five functions of stock exchanges(i) Stock exchanges are market organizers.
+In this role they provide a market place where stocks can easily be bought and sold.
+Stock markets serve the economy and the public by bringing together those who demand capital (corporations) and those who supply capital (investors).
+Investors can reduce risk by spreading their investments.
+Stock exchanges make those investments liquid enough to invest and divest without significant price changes by providing liquidity.
+Traditionally, this function was performed on the floor of the stock exchange where brokers met, negotiated and agreed upon the price for stock transfers executed for their principals.
+In an electronic age, the trading floor of the stock exchange is becoming increasingly obsolescent with stock exchanges maintaining electronic systems world wide that can match orders for the buying and selling of shares automatically(ii) Stock exchanges are information distributors.
+This function consists of the trades executed, the volume, price, and parties involved.
+This function has a considerable economic value in providing financial services such as market reports and analysis of stocks.
+Information about previous trades is of material significance in the market for derivatives which are financial instruments whose value is derived from an underlying asset such as stocks.
+Information about settled trades has a regulatory function since it is the basis of market surveillance and helps in detecting securities fraud such as insider trading or market manipulation(iii)
+Stock exchanges are regulators of the market which they organize.
+This ranges from compliance surveillance to enforcement.
+The brokerdealers who trade on the market are subject to rules of the stock exchanges.
+Stock exchanges also monitor compliance by participants with the regulatory regime including that directed by the statutory regulator.
+Stock exchanges perform an important role to ensure fair trading and accurate price discovery both of which are critical in creating investor confidence(iv) Stock exchanges set standards of corporate governance through their listing rules(v) Finally, while fulfilling this function, stock exchanges carry on business enterprises.
+As business enterprises (though the business of running a stock exchange may not necessarily be commercial), the performance of the stock exchange has a bearing on its competitive position in relation to its own competitors.50.
+Commencing with the Stockholm Stock Exchange in 1993 stock exchanges worldwide transformed themselves from memberowned companies into publicly held companies, a development known as demutualisation.
+Consequently, the right to trade at the stock exchange came to be separated from ownership.
+Among the factors that fostered competition among stock exchanges worldwide, were deregulation, technological progress and globalization.
+Capital and investors seamlessly cross borders in a globalised world, brought together by modern technology.
+The consequence of demutualisation was to provide stock exchanges with access to capital suppliers, high end technology and state of the art information systems.
+Demutualisation also resulted in changes in the management structure of stock exchanges.
+Under the traditional structure broker dealers were key decision makers.
+With demutualization there was a separation of ownership and the control.
+If the shareholding is dispersed, the role of management ought to stand transferred, at least in theory, to senior management.51.
+Stock exchanges provide what is described as the first layer of oversight.
+In many areas, stock exchanges are self regulators.
+As self regulatory organizations, stock exchanges have a frontline responsibility for regulation of their markets and for controlling compliance by members of rules to which they are subject.
+They ensure in that capacity, compliance of the requirements established the statutory regulator.
+Apart from the regulation of members, market surveillance carried on by stock exchanges in certain jurisdictions regulates issuers.
+They do so by ensuring that the stocks of issuers are reliably traded and that issuers meet standards of corporate governance.
+In exercising these powers, stock exchanges may face issues involving a conflict of interest.
+Such conflicts of interest have to be handled and addressed effectively within the regulatory framework.52.
+Stock exchanges as institutional mechanisms have an important role to play in ensuring the stability of the financial and economic system.
+The orderly functioning of the market for securities is no longer a matter of a private concern, for those who transact on the market.
+The market for securities can be volatile.
+Transactions in the securities market and the transparency of institutional mechanisms have a significant bearing on the wealth of investors.
+Inflows and outflows of capital from the stock market have an immediate and, often serious, impact on financial stability in the country.
+The orderly functioning of stock exchanges as institutions through which transactions in securities take place is a matter of public interest.
+The regulatory powers which have been conferred upon SEBI to recognise stock exchanges must be understood in the context of ensuring the protection of investors on one hand and the public interest that is involved on the other.
+SEBI is an expert regulatory body which is vested with the power to direct and regulate the functioning of stock exchanges.
+SEBI, as a regulatory authority, is vested with wide powers to ensure the protection of the interest of investors and the orderly development of the securities market.
+Ensuring the proper management of stock exchanges is a matter which falls within the regulatory framework which SEBI directs.
+Where the affairs of a recognized stock exchange are conducted in a manner detrimental to the interest of the investors or the securities market, it has consequences not just for the stock holders in the market, but for the financial stability of the nation.
+Stock exchanges are the first frontiers of regulation, for it is their duty to ensure, in the first instance, that transactions are conducted in a transparent manner and in accordance with the rules and regulations and bye laws that have been approved.
+Their duty to report to SEBI is an adjunct of the power conferred upon SEBI to regulate.53.
+Historically, stock exchanges were controlled by trading members.
+It was the report of the Kania Committee which brought to bear public focus upon the need to corporatise and demutualise stock exchanges and to ensure that their ownership is not concentrated in the hands of a single entity or groups of related entities.
+Sections 4A and 4B of the SCRA enabled SEBI to put into place a mechanism of separation of ownership and control of stock exchanges from trading members by implementing a scheme for corporatisation and demutualisation.
+Conflicts of interest of trading members were sought to be obviated by ensuring a disassociation between members who trade on the exchange and control over the ownership of the exchange.
+The MIMPS Regulations were made applicable to recognised stock exchanges in respect of which such a scheme has been approved under Section 4B by SEBI.
+A stock exchange, such as the Petitioner, had no trading members as such, but SEBI considered it appropriate as an expert body to avoid discrimination against old stock exchanges which were established prior to the enforcement of the Regulations by importing a requirement of compliance with the Regulations as a condition for the recognition of the Petitioner.
+VI Regulation 4 and Regulation 854.
+Regulation 8 provides a restriction against the holding of more than five per cent of the equity share capital in a recognized stock exchange by a person resident in India directly or indirectly either individually or together with persons acting in concert.
+Regulation 4 also provides for the manner of increasing the public shareholding so as to ensure that at least 51 of the equity share capital is held by the public.
+Regulation 8 which contains a restriction on the holding of shares does not expressly incorporate the provisions of Regulation 4 in regard to the manner in which a reduction of the shareholding has to be brought about to ensure compliance with the five per cent norm.
+The order passed by the Whole Time Member proceeds on the basis that compliance with one of the modes specified in Regulation 4 is the only acceptable method for bringing about conformity with Regulation 8.
+SEBI in the course of its oral and written submissions also accedes to the position that Regulation 8, unlike Regulation 4, does not specify the manner in which shareholding should be reduced to below the specified threshold.55.
+SEBI, however, suggests that one would ordinarily expect the modes specified in Regulation 4 to be followed for the purposes of Regulation 8, even though they are not mandatory.
+Now, all the modes which are provided for in Regulation 4 may not be applicable to a situation involved such as in the case of the Petitioner.
+Among the modes which are specified, are an offer for sale of shares held by shareholders having trading rights the placement of shares held by shareholders having trading rights to such persons or institutions as may be shortlisted by the exchange with the approval of SEBI.
+The third mode is the issue of equity shares on private placement basis by a stock exchange to any person or group of persons not being shareholders having trading rights or their associates.
+In a stock exchange having no shareholders with trading rights, the modes specified in clauses (a) and (b) of Regulation 4 would have no application.
+Hence, the issue as to whether there is compliance with the provisions of Regulation 8 must be determined on the basis of whether there is, in fact, a genuine divestment of shares held in excess of five per cent by a person resident, directly or indirectly or together with persons acting in concert.
+VII
+The process of dilution56.
+Now, in the present case, on 12 August 2008, the shareholding structure of the Petitioner at the time of the application for recognition was one where MCX held 51, while FTIL held 49.
+The two promoters of the Petitioner, MCX and FTIL respectively held the entire equity capital.
+As on 30 September 2009, the shareholding structure of the Petitioner after the sale (accompanied by the buy back agreements) to PNB, ILFS and IFCI reflected a shareholding of MCX at 38.31 and of FTIL at 35.05.
+The holding of IFCI was 4.27, that of PNB at 2.97 and of ILFS at 2.63.
+The rest of the share capital was held by the Banks.
+On 30 November 2009, the shareholding pattern of the Petitioner, prior to the scheme of reduction reflected the holding of MCX at 37.03 and of FTIL at 33.89.
+On 31 March 2010, the shareholding structure of the Petitioner after the scheme of reductioncumarrangement was such that the shareholding of MCX and FTIL was reduced to five per cent each.
+In addition, MCX was allotted 63.41 crore warrants and FTIL was alloted 56.24 crore warrants.57.
+The Whole Time Member of SEBI in his impugned order has held that(i) The issuance of warrants did not constitute a permissible method of ensuring compliance with Regulation 8 and only substituted equity shares into a right to equity shares with a view to circumventing Regulation 8(1)
+and(ii)The buy back agreements were forward contracts which violated the provisions of the SCRA.
+These two aspects of the determination in the impugned order fall for consideration.
+VIII Issuance of Share Warrants58.
+The Petition which was filed before the Company Judge under Sections 391 to 394 read with Sections 100 to 103 of the Companies Act, 1956 on 18 December 2009, envisaged that in order to comply with the provisions of Regulation 8(1), the Petitioner was implementing a scheme of capital restructuring so that the voting rights of the promoters and their equity stake would be brought down to five per cent each.
+The scheme envisages that warrants would be issued to the shareholders, who are subject to the scheme of capital reduction, namely, MCX, FTIL and ILFS.
+Each warrant would entitle the holder to subscribe to one equity share at any time after six months from the date of issue and an option to that effect could be exercised after six months from the date of allotment.
+The warrants were, however, not to carry any voting rights.
+Clause 2.4 of the scheme provided that the exercise of the warrant would be subject to the Regulations.59.
+By a letter dated 21 December 2009, SEBI was informed of the Scheme.
+The letter intimated SEBI that (i) Post reduction, the shareholding of the two promoters would not be in excess of five per cent (ii) The two promoters and another shareholder, a financial institution whose equity shares were being extinguished would to the extent of equity capital being extinguished be allotted an equal number of warrants and (iii) The promoters once having reduced their shareholding to five per cent shall not be permitted to increase their shareholding beyond the limit specified in the MIMPS Regulations.60.
+During the pendency of the earlier Writ Petition before this Court, a statement was made on behalf of the two promoters before the Division Bench on 10 August 2010 that Board resolutions would be passed to ensure that the promoters would not increase their shareholding beyond the limit specified in the MIMPS Regulations.
+Following this, Board resolutions were passed of both the promoters on 11 August 2010 and 17 August 2010.
+Copies of the Boards resolutions were furnished to SEBI on 20 August 2010.
+Both the resolutions were before SEBI much prior to the passing of the impugned order dated 23 September 2010.61.
+The position on the record, therefore, is that as a result of the scheme of reduction which was put into place, the shareholding of the two promoters was brought down to five per cent each.
+Each of the two promoters was allotted warrants in lieu of the share capital which was reduced.
+The warrants were not to carry any voting rights.
+Under the warrants, the promoters were conferred with an option to obtain the allotment of equity shares after the expiry of six months.
+The promoters, by the resolutions passed by their Board of Directors, resolved that the exercise of the option under the warrants shall not be carried out to exceed the limit prescribed in the MIMPS Regulations.
+In pursuance of the statement which was made before the Division Bench of this Court that the promoters would pass Board resolutions to ensure that they would not increase their shareholding beyond the limit prescribed in the MIMPS Regulations, resolutions were, in fact, passed and intimated to SEBI.
+Having regard to this undisputed background, it is not possible to accept the finding of the Whole Time Member that the issuance of warrants to the two promoters is a device which would result in a restoration of their holding beyond the limit prescribed by the MIMPS Regulations.
+A mere possibility of what may happen is hypothetical, as the Supreme Court has held and cannot result in the invalidation of a transaction which is otherwise lawful.
+(Hindustan Lever Employees Union vs. Hindustan Lever Ltd. (1995) Suppl.
+1 SCC 499) .
+The aspect as to whether the promoters can be regarded as persons acting in concert, will be dealt with separately.62.
+Having regard to this finding, the submission which has been urged on behalf of the Fourth Respondent by Counsel, to the effect that the scheme when sanctioned, became binding on SEBI and would be res judicata of all issues involved in the Petition assumes subsidiary significance.
+A scheme under Section 391 of the Companies Act, 1956 has statutory force and binds the creditors and shareholders of the Company.
+SEBI is not a creditor of the Company.
+SEBI, as a matter of fact, was not heard in the Company Petition.
+There can be no dispute about the principle of law that the powers of the Company Court, when it sanctions a scheme under Sections 391 to 393 of the Companies Act, 1956, are wide.
+Before sanctioning a scheme, though approved by a majority of the creditors or members, the Court has to be satisfied that the Company or any other person moving the application for sanction, has disclosed all the relevant matters.
+The Court has to determine whether the scheme is fair, just and reasonable and is not contrary to the provisions of law or of public policy.
+The Court would not countenance a scheme which is unconscionable or illegal or which is otherwise unfair and unjust to the class of shareholders or creditors for whom it is meant.
+(Mihir H.Mafatlal vs. Mafatlal Industries Ltd. (1997) 1 SCC 579 ).
+Once the scheme is sanctioned, it would bind even the dissenting minority shareholders or creditors.
+(S.K. Gupta vs. K.P. Jain, (1979 (49) Com. Cases 342)and
+N.A.P. Allagiri Raja vs. N.Guruswamy (1989) 65 Com.
+Cases 758).
+Consequently, when the Company Court sanctions the scheme, the fairness of the scheme qua them has also to be borne in mind.
+The point, however, to note is that SEBI as a regulatory authority is entitled in law to determine as to whether the provisions of the MIMPS Regulations as a condition subject to which recognition has been granted, have been complied with.
+The power of SEBI to do so as an expert regulatory body acting within the domain of its own statutory functions is not abrogated by the sanction which was granted by the Company Court.
+The scheme of arrangementcumreduction was also a scheme under Section 100.
+Such a scheme, as well, will not dilute or abrogate the statutory powers of SEBI to exact compliance with the statutory provisions, the enforcement of which SEBI can oversee.
+IX Buy back arrangements63.
+The next aspect of the case which is required to be considered relates to the buy back agreements.
+PNB by its letter dated 20 July 2009 recorded the terms of the buy back agreements.
+Under the agreement, FTIL or its nominees was conferred with the right to buy back shares of PNB at any time after the expiry of one year from the date of investment.
+By a letter dated 19 August 2010 addressed to SEBI by PNB, it was stated that after the scheme was sanctioned by the Company Court, and keeping in mind the MIMPS Regulations, PNBs arrangement with regard to the buy back stood implicitly extinguished since the promoter could not hold more than five per cent of the equity shares.64.
+On 20 August 2009, a Share Purchase Agreement was entered into between the Petitioner and MCX on the one hand and ILFS Financial Services Ltd. (IL FS) on the other for the sale of 4.42 crore shares of MCX for a consideration of Rs. 159.12 crores with a further option to purchase an additional 1.80 crore shares.
+Prior to the Scheme of Reduction, the shareholding of ILFS in the Petitioner was 2.54 of the equity capital.
+As a result of the Scheme of Reduction, the holding of ILFS would have increased to 8.13 of the equity capital of the Petitioner.
+Consequently, under the Scheme of reduction ILFS was to be allotted 1.70 crore warrants.
+Upon the Scheme of ArrangementcumReduction, the shareholding of ILFS was brought down to five per cent, in addition to which, ILFS held 1.70 crore warrants.65.
+On 20 August 2009, ILFS entered into a buy back agreement with LaFin Financial Services Pvt. Ltd. (La Fin).
+The terms of the buy back agreement stipulated that LaFin or its nominees would be under an obligation to purchase back the shares at any time after the completion of one year from the date of investment and no later than three years.
+On 14 December 2009, MCX addressed a letter to ILFS seeking approval of the Scheme of Reduction, but confirmed that this would not be construed as a dilution of the terms of the Share Purchase Agreement and of the letter issued by LaFin.
+On 11 August 2010, ILFS addressed a communication to SEBI reaffirming that the buy back agreement was alive and was intended to be enforced.66.
+There are two aspects in relation to the buy back agreement upon which there is a dispute.
+The first relates to the nondisclosure of the buy back agreement.
+The second relates to whether the buy back agreement is a forward contract in violation of the provisions of the SCRA.X Duty of disclosure67.
+The fact that the buy back agreement was not initially disclosed to SEBI is not in dispute.
+The submission which has been urged on behalf of the Fourth Respondent is that the nondisclosure of the buy back arrangement had no effect on the decision and the existence of such an arrangement was an irrelevant factor in the determination.68.
+We are unable to accept the submission that a fair, candid and complete disclosure to SEBI would not require a disclosure in respect of the buy back arrangement.
+The object and purpose of the divestment of shares of the promoters was to ensure compliance with Regulation 8 of the MIMPS Regulations.
+If in the process of divestment, the promoters were under an obligation to offer to buy back the shares on the completion of a period stipulated, that is a matter which ought to have been brought to the notice of SEBI.
+The submission which has been urged on behalf of the promoters is that the buy back would not necessarily result in the promoters exceeding the shareholding limit of five per cent in the equity capital of the Petitioner.
+It was submitted that, for instance, it would be open to the promoters to ensure continued compliance with the MIMPS Regulations despite the exercise of the option under the buy back agreements by (i) increasing the equity capital or (ii) causing the purchase of shares to be effected by an independent nominee.
+Hence, it was urged that the buy back agreements would not foreclose the possibility of MIMPS compliance in the future despite the exercise of the buy back option.
+That, in our view, did not absolve the Petitioner to make a full disclosure before SEBI that while compliance with Regulation 8 was being fulfilled by a divestment of shares, yet buy back agreements were entered into.
+The basic purpose underlying Regulation 8 is to ensure that no resident should own whether directly or indirectly with any other persons acting in concert, more than five per cent of the equity capital of a recognised stock exchange.
+Where the promoters hold more than five per cent of the equity capital, the divestment of their excess holding, so as to bring them in compliance with Regulation 8, must be genuine.
+The fact that the divestment of the shares held by a promoter in a stock exchange is accompanied by a buy back agreement is a material circumstance which must be disclosed to SEBI.
+On 21 July 2010, SEBI addressed a letter to the Petitioner adverting to a news article published on 19 July 2010, stating that the promoters of the Petitioner had entered into buy back agreements with the Banks who are shareholders of the Petitioner.
+In a reply dated 2 August 2010, the Petitioner informed SEBI that FTIL, as its promoter, had issued a letter of comfort dated 12 August 2009 to PNB without entering into a formal binding buy back agreement or shareholding agreement.
+It was stated that once the Scheme of Reduction was approved, the letter addressed by FTIL to PNB became infructuous and irrelevant.
+The Petitioner stated that it has complied with the MIMPS Regulations by virtue of the Scheme as approved and the shareholding of FTIL and MCX stood reduced to five per cent with no right to acquire even a single share in violation of limit prescribed by MIMPS Regulations.
+Even at that stage, there was no reference to the buy back agreement which was entered into with ILFS.
+On this aspect of the matter, we are unable to accept the contention of the Petitioner and of the Third and Fourth Respondents that the existence of the buy back agreements was a circumstance which was irrelevant and was not required to be disclosed to SEBI.69.
+The relationship between a Stock Exchange and SEBI must be founded in trust and good faith.
+Both constitute important limbs of the regulatory framework, SEBI is the cornerstone in ensuring regulatory compliance.
+Mandating full disclosure of compliance requirements is necessary in order to ensure transparent and accountable governance.
+Stock Exchanges cannot maintain a cloak of secrecy over their affairs and management, particularly when they are required to conform to regulatory standards.
+Allowing a regime of secrecy and permitting Exchanges to suppress information from SEBI will encourage a culture of nepotism.
+The MIMPS Regulations subserve an important objective based on the public interest in protecting investors and in an orderly market for securities.
+Full disclosure of compliance actions is a necessary element in that process.
+XI Legality of the Buy back agreements70.
+The order passed by the Whole Time Member of SEBI holds that the buy back agreements are forward contracts and are not lawful arrangements under the SCRA.71.
+Section 13 of the SCRA provides that if the Central Government is satisfied, having regard to the nature or the volume of transactions in securities in any State or area, that it is necessary so to do, it may, by a notification, declare the section to apply to such State or area and thereupon every contract which is entered after the date of the notification otherwise than between the members of a recognized stock exchange shall be illegal.
+Section 2(h) defines the expression securities to include shares, scrips, stocks, bonds, debentures, debenture stock, or other marketable securities of a like nature in or of any incorporated company or other body corporate.
+Section 16 empowers the Central Government to declare, where it is of opinion that it is necessary to prevent undesirable speculation in specified securities, that no person in the State or area specified shall, save with the permission of the Central Government, enter into any contract for the sale or purchase of any security specified in the notification except to the extent and in the manner specified therein.
+Subsection (2) provides that all contracts entered into in contravention of the provisions of subsection (1) shall be illegal.72.
+In exercise of the powers conferred by Subsection (1) of Section 16, the Central Government by a notification dated 27 June 1969 declared that save with its permission, no person shall enter into any contract for the sale or purchase of any security other than such spot delivery contract or a contract for cash or hand delivery or special delivery in any security as is permissible under the Act and the Rules, Byelaws and Regulations of a recognized stock exchange.
+On 1 March 2000, the earlier notification was rescinded and a fresh notification was issued by which it has been declared that no person shall save with the permission of SEBI enter into any contract for the sale or purchase of securities other than a spot delivery contract or a contract for cash or hand delivery or special delivery or a contract in derivatives as is permissible under the SCRA or the SEBI Act, 1992 and the Rules and Regulations made under those Acts and the Rules and Regulations and Byelaws of a recognized stock exchange.
+A spot delivery contract is defined in Section 2(i) of the SCRA to mean a contract which provides for actual delivery of securities and the payment of the price either on the same day as the date of the contract or on the next day, the actual period taken for the dispatch of the securities or the remittance of money through post being excluded if the parties do not reside in the same town or locality.
+The definition also covers a transfer of securities by a depository from the account of a beneficial owner to the account of another beneficial owner when securities are dealt with by a depository.73.
+The impugned order proceeds on the basis that the buy back agreement is a forward contract and, is therefore, illegal.
+Now, before we deal with the question of law, it must be noted at the outset that in the course of the submission, the Additional Solicitor General of India has not supported the ground that the buy back agreements constitute forward contracts.
+An alternate submission was sought to be urged that the buy back agreements were actually option contracts or derivatives and were, therefore, illegal under Section 18A of the SCRA.
+The finding as to illegality was sought to be sustained on the basis of a ground which was neither raised in the notice to show cause, nor in the impugned order of the Whole Time Member.
+Whether such a submission should be permitted to be urged at this stage would be considered separately.
+But, it merits emphasis that the basis and foundation on which the buy back agreements were construed as being illegal on the ground of these being forward contracts does not find support in the oral submissions urged by the Learned Additional Solicitor General or in the written submissions.74.
+Now, it is in this background that the finding of illegality in the impugned order must be assessed.
+The buy back agreements furnish to PNB and ILFS an option.
+The option constitutes a privilege, the exercise of which depends upon their unilateral volition.
+In the case of PNB, the buy back agreements contemplated a buy back by FTIL after the expiry of a stipulated period.
+But, in the event that PNB still asserted that it would continue to hold the shares, despite the buy back offer, FTIL or its nominees would have no liability for buying back the shares in future.
+In the case of ILFS, LaFin assumed an obligation to offer to purchase either through itself or its nominee the shares which were sold to ILFS after the expiry of a stipulated period.
+In both cases, the option to sell rested in the unilateral decision of PNB and ILFS, as the case may be.75.
+In a buy back agreement of the nature involved in the present case, the promissor who makes an offer to buy back shares cannot compel the exercise of the option by the promisee to sell the shares at a future point in time.
+If the promisee declines to exercise the option, the promissor cannot compel performance.
+A concluded contract for the sale and purchase of shares comes into existence only when the promisee upon whom an option is conferred, exercises the option to sell the shares.
+Hence, an option to purchase or repurchase is regarded as being in the nature of a privilege.76.
+In V.Pechimuthu vs. Gowrammal, (2001) 7 SCC 617 )Mrs.Justice Ruma Pal, speaking for a Bench of the Supreme Court explained the nature of an option or privilege thusA privilege has been defined as a particular and peculiar benefit or advantage enjoyed by a person, and a concession as a form of privilege.
+An option to purchase or repurchase has been held to be such a privilege or concession (See Shanmugam Pillai v. Annalakshmi, (AIR 1950 FC 38 K.Simrathmull v. Nanjalingiah Gowder, AIR 1963 SC 1182 ).
+This is because an option by its very nature is dependent entirely on the volition of the person granted the option.
+He may or may not exercise it.
+Its exercise cannot be compelled by the person granting the option.
+It is because of this onesidedness or unilaterality, as it were, that the right is strictly construed andan option for the renewal of a lease, or for the purchase or repurchase of property, must in all cases be exercised strictly within the time limited for the purpose, otherwise it will lapse(Halsburys Laws of England, 3rd Edn., Vol.3, Art.281, p. 165)13.
+An agreement for sale and purchase simpliciter, on the other hand, is a reciprocal arrangement imposing obligations and benefits on both parties and is enforceable at the instance of either.77.
+The distinction between an option to purchase or repurchase and an agreement for sale and purchase simpliciter lies in the fact that the former is by its nature dependent on the discretion of the person who is granted the option whereas the latter is a reciprocal arrangement imposing obligations and benefits on the promissor and the promisee.
+The performance of an option cannot be compelled by the person who has granted the option.
+Contrariwise in the case of an agreement, performance can be elicited at the behest of either of the parties.
+In the case of an option, a concluded contract for purchase or repurchase arises only if the option is exercised and upon the exercise of the option.
+Under the notification that has been issued under the SCRA, a contract for the sale or purchase of securities has to be a spot delivery contract or a contract for cash or hand delivery or special delivery.
+In the present case, the contract for sale or purchase of the securities would fructify only upon the exercise of the option by PNB or, as the case may be, ILFS in future.
+If the option were not to be exercised by them, no contract for sale or purchase of securities would come into existence.
+Moreover, if the option were to be exercised, there is nothing to indicate that the performance of the contract would be by anything other than by a spot delivery, cash or special delivery.
+Where securities are dealt with by a depository, the transfer of securities by a depository from the account of a beneficial owner to another beneficial owner is within the ambit of spot delivery.78.
+Reliance is sought to be placed by the Additional Solicitor General on a decision of Chief Justice M.C.Chagla, speaking for a Division Bench in Jethalal P.Thakkar vs. R.N. Kapur (AIR 1956 Bombay 74).In that case, an undertaking was furnished by the Defendant to the Plaintiff to sell off for the Plaintiff a stipulated quantity of shares of a Bank at a specified price within twelve months from the date on which the Bank was converted into a Financial Corporation and if at the end of twelve months, the Defendant was not able to sell off the shares for the Plaintiff, the Defendant accepted the obligation to take delivery of those shares against the payment of a stipulated amount to the Plaintiff without interest.
+The Defendant failed to sell off the shares within the time stipulated upon which the Plaintiff sued for damages on the strength of the contract.
+In that case, the provisions of the Bombay Securities Control Contract Act, 1925 came up for consideration.
+The Act defined a ready delivery contract as a contract for the purchase or sale of securities for the performance of which no time is specified and which is to be performed immediately or within a reasonable time.
+The contention of the Plaintiff was that this was a ready delivery contract and, therefore, was lawful.
+If the contract was not a ready delivery contract, it would be void under Section 6 of the Act of 1925.
+Chief Justice Chagla held that on a plain reading of the contract, it was clear that no obligation attached with regard to the purchase of the shares on the part of the Defendant until the contingency contemplated occurred after a lapse of twelve months.
+The Learned Chief Justice held thatA clear distinction must be borne in mind between the case where there is a present obligation under the contract and the performance is postponed to a later date, and the case where where is no present obligation at all and the obligation arises by reason of some condition being complied with or some contingency occurring.
+The contract in that case was held to fall in the second category and it was held that this was not a case where a present obligation was created but parties had agreed to postpone the performance.
+If on the date when the contract was entered into, there was no contract for sale or purchase of the shares, it was impossible to suggest that on that date the contract was void because it came within the mischief of the Act.
+The Court held that the intention of the parties was that there would be a contract for the purchase or sale on the occurring of a contingency and as soon as the obligation ripened and a contract subsisted between them that contract was to be performed immediately or within a reasonable time.
+The suit filed by the Plaintiff was, therefore, held not to be rendered bad by reason of the provisions of the Bombay Act.
+The judgment of a Learned Single Judge in Niskalp Investments and Trading Company Ltd. vs. Hinduja TMT Ltd., (2008) 143 Com.
+Cases 204 Bom),has been rendered on a Summons for Judgment in a Summary Suit in which the Learned Judge granted unconditional leave to defend, and does not advance the discourse.79.
+The ambit of the expression securities in Section 2(h) of the SCRA has fallen for determination in several judgments of this Court.
+Would the expression cover listed and unlisted securities The issue, as would be noted hereinafter, has been settled in a judgment of the Supreme Court.
+In Dahiben Umedbhai Patel vs. Norman James Hamilton, (1983) 85 BOMLR 275 )a Division Bench of this Court held that the definition of securities requires marketability which the shares of a private Company do not possess and hence, that expression will only take in shares of a public limited company.
+In Brooke Bond India Ltd. vs. U.B.Ltd., (1994) 3 Comp.LJ. 279
+(Bom.)
+a Learned Single Judge of this Court held prima facie at the hearing of a motion for interlocutory relief that a transaction of shares of a public limited Company unlisted on the stock exchange is not intended to be governed by the SCRA.
+In Mysore Fruit Products Ltd. vs. The Custodian, (2005)
+107 Bom.L.R. 955)another Learned Single Judge held that the forward sale of shares even of public limited Companies which are not listed on the stock exchange are prohibited by the SCRA.
+This aspect of the controversy is now resolved by the decision of the Supreme Court in Naresh K.Aggarwalla Co. vs. Canbank Financial Services Ltd. (2010) 6 SCC 178 ).The
+Supreme Court observed that the definition of the expression securities in Section 2(h)(i) does not make any distinction between listed securities and unlisted securities and the notification dated 27 June 1969 issued under Section 16 of the SCRA will also apply to the securities which are not listed on the stock exchange.
+Finally, it will be necessary to advert to the decision of the Supreme Court in Bank of India Finance Ltd. vs. The Custodian (AIR 1997 SC 1952).
+In that case, the Appellant Bank had entered into a contract with different brokers for the purchase and sale of certain securities which were not listed on any stock exchange.
+The transaction consisted of two legs.
+The first or the ready leg consisted of purchase or sale of certain securities at a specified price and the second or forward leg consisted of the sale or purchase of the same or similar securities at a later date at a price determined on the first date.
+The ready leg of the transaction was completed with the Appellant paying the agreed price and receiving delivery of the securities which were agreed to be purchased.
+Before the forward leg of the transaction would be completed, the Special Court Ordinance was issued on 6 June 1992 which was replaced by an Act.
+The Custodian filed an application before the Special Court contending that such ready forward transactions were illegal inter alia under the SCRA and the securities which were sold to the Appellant in the ready leg continued to be in law the properties of the notified persons on the date when they were notified under the Act.
+The Supreme Court held that the valid part or the ready leg of the transaction has been completed while the invalid part of the forward leg has to be ignored.
+What the notification under Section 16 was held to prohibit is the entering into of a forward contract that is a sale at a future date for a fixed price.
+This latter part of the agreement could not have been entered into, but was clearly severable and would not affect the transaction which has already taken place at the time of the execution of the ready leg.
+The decision of the Supreme Court in Bank of India Finance therefore, dealt with a situation where the ready leg of the contract had been duly fulfilled while the forward leg had remained to be performed.
+The latter, involving a contract for the purchase and sale of shares in future at a specified price was a ready forward contract and was unlawful.80.
+In the present case, there is no contract for the sale and purchase of shares.
+A contract for the purchase or sale of the shares would come into being only at a future point of time in the eventuality of the party which is granted an option exercising the option in future.
+Once such an option is exercised, the contract would be completed only by means of spot delivery or by a mode which is considered lawful.
+Hence, the basis and foundation of the order which is that there was a forward contract which is unlawful at its inception is lacking in substance.81.
+The Learned Additional Solicitor General, however, sought to sustain the finding of illegality by submitting that the buy back agreements constitute an option in securities within the meaning of Section 2(1)(d) and derivatives under Section 2(ac) of the SCRA and are violative of the provisions of Section 18A. Section 18A stipulates that notwithstanding anything contained in any other law for the time being in force, contracts in derivatives shall be legal and valid if such contracts are traded in a recognized stock exchange in accordance with the rules and bye laws of such exchange.
+It has been urged that as the buy back agreements were not entered into on a recognized stock exchange, they are illegal.
+Moreover, no permission was obtained from SEBI in respect of such option (derivative) as required by the notification dated 1 March 2000.
+On this aspect, we find merit in the submission urged on behalf of the Petitioner and by Counsel for the Third and Fourth Respondents that this contention which is urged on behalf of SEBI has been raised for the first time during the course of the oral arguments in Court.
+The contention was not a part of the notice to show cause, nor was it the basis of the order that was passed by the Whole Time Member.
+Moreover, on 13 September 2011, SEBI has issued a notice to show cause to the Petitioner stating that in the alternative to the findings recorded in paragraphs 66 and 67 of the order dated 23 September 2010 (those relating to the buy back agreements being forward contracts and, therefore, unlawful) and assuming that the buy back agreements are not in the nature of forward contracts, they would amount to an option in securities and, therefore, derivatives which were neither traded nor settled at any recognized stock exchange nor with the permission of SEBI.
+They are consequently, stated to be in breach of the provisions of Section 18A of the SCRA read with the notification dated 1 March 2000.
+The Petitioner has been called upon to show cause as to why its application dated 13 June 2011 for the renewal of recognition should not be rejected.
+Having regard to the fact that SEBI has issued a notice to show cause to the Petitioner raising the very ground which was sought to be urged in the alternative by the Learned Additional Solicitor General, we are of the view that it is manifestly inappropriate for this Court to render an adjudication on the issue at this stage.
+That is even more so, because a violation of the provisions of Section 18A on the basis that the buy back agreements constitute options in securities or derivatives was not a ground taken in the show cause notice which resulted in the impugned order of the Whole Time Member, nor for that matter, is it a ground in the impugned order itself.
+XII Persons Acting in concert.82.
+The impugned order contains a finding that MCX and FTIL are persons acting in concert and consequently their combined equity shareholding of ten per cent of the total equity capital of the Petitioner is not in compliance with Regulation 8 of the MIMPS Regulations.
+These findings have been challenged on behalf of the Petitioner and a substantial area of submission has covered the ambit and purview of Explanation (IV) to Regulation 8.83.
+Regulation 8 contains a bar on a person resident holding directly or indirectly either individually or together with persons acting in concert, more than five per cent of the equity share capital of a recognized stock exchange.
+The expression person acting in concert is defined in Explanation (IV) to have the meaning derived from Regulation 2(1)(e) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997.
+Regulation 2(1)(e) of the Takeover Regulations defines the expression person acting in concert as follows (e) person acting in concert comprises.
+(1) persons who, for a common objective or purpose of substantial acquisition of shares or voting rights or graining control over the target company, pursuant to an agreement or understanding (formal or informal), directly or indirectly cooperate by acquiring or agreeing to acquire shares or voting rights in the target company or control over the target company.(2) Without prejudice to the generality of this definition, the following persons will be deemed to be persons acting in concert with other persons in the same category, unless the contrary is established(i) a company, its holding company, or subsidiary or such company or company under the same management either individually or together with each otherRegulation 2(2) specifies that all other expressions unless defined therein shall have the meaning assigned to them under the SEBI Act, 1992, the SCRA or the Companies Act, 1956.
+The expression control is defined in Regulation 2(1)(c) as follows (c) control shall include the right to appoint majority of the directors or to control the management or policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their shareholding or management rights or shareholders agreements or voting agreements or in any other manner.84.
+For the purpose of computing the ceiling on the holding of equity share capital in a recognized stock exchange which is fixed at five per cent, Regulation 8(1) requires the holding of the person resident in India to be taken into account, whether held directly or indirectly either individually or together with persons acting in concert.
+While interpreting Regulation 8 a prefatory point is that the ambit of the regulation has quite intentionally been cast in wide terms.
+The object of the provision is to ensure that a person or group of persons or related entities cannot control voting rights in a stock exchange.
+In order to effectuate that purpose an outside limit of five per cent on the equity holding of a person resident has been imposed.
+The regulation seeks to ensure that its provisions should not be diluted through an indirect holding of shares and the use of the expression directly or indirectly are indicative of the fact that the net of Regulation 8 is set in wide terms.85.
+The expression persons acting in concert is to have the meaning derived from Regulation 2(1)(e) of the Takeover Regulations.
+The expression derive means to draw or receive, or obtain as from a source or origin (P.Ramanatha Aiyars The Law Lexicon, Second Edition, Reprint 2007 page 530).
+The process of derivation is to trace or show the origin.
+The act of deriving, it has been stated, is immediate and direct and is perhaps distinguishable from an act of tracing which may be a some what more gradual process.
+To derive a meaning is to obtain that meaning from a source or origin.
+The source indicated in Explanation (IV) is Regulation 2(1)(e) of the Takeover Regulations.86.
+In construing the words of an explanation in a statute, it must be borne in mind that while traditionally, the function of an explanation is to explain the meaning of a word used in a statutory provision or to clear up any doubt, ultimately the issue is one of legislative intent.
+The position has been elucidated in the judgment of the Supreme Court in Dattatraya Govind Mahajan vs. State of Maharashtra, (1977) 2 SCC 548 )
+thusthe orthodox function of an explanation is to explain the meaning and effect of the main provision to which it is an explanation and to clear up any doubt or ambiguity in it.
+But ultimately it is the intention of the legislature which is paramount and mere use of a label cannot control or deflect such intention.
+It must be remembered that the legislature has different ways of expressing itself and in the last analysis the words used by the legislature alone are the true repository of the intent of the legislature and they must be construed having regard to the context and setting in which they occur.
+Therefore, even though the provision in question has been called an Explanation, we most construe it according to its plain language and not on any a priori considerations.
+(See in this context G.P.Singhs Principles of Statutory Interpretation pages 204 205).
+In Sundaram Pillai vs. Pattabiraman, (1985) 1 SCC 591 at page 613)the Supreme Court indicated that an explanation may have the following objects(a) to explain the meaning and intendment of the Act itself(b) where there is any obscurity or vagueness in the main enactment, to clarify the same so as to make it consistent with the dominant object which it seems to subserve(c) to provide an additional support to the dominant object of the Act in order to make it meaningful and purposeful(d) an Explanation cannot in any way interfere with or change the enactment or any part thereof but where some gap is left which is relevant for the purpose of the Explanation, in order to suppress the mischief and advance the object of the Act it can help or assist the Court in interpreting the true purport and intendment of the enactment, and(e) it cannot, however, take away a statutory right with which any person under a statute has been clothed or set at naught the working of an Act by becoming an hindrance in the interpretation of the same.
+Justice G.P.Singh in his seminal work on the Principles of Statutory Interpretation observes that the meaning to be given to the explanation will really depend upon its terms and not on any theory as to its purpose (Tenth Edition 2006 pg 205).
+Indeed, as the Supreme Court has observed in Mahajan (supra), the essential task in construing an explanation is to deduce the legislative intent from the words used.87.
+Prior to its amendment in 2008, Regulation 8(1) contained a reference both to the acquisition or holding of more than five per cent in the paid up equity capital in a recognized stock exchange.
+Following the amendment and the recasting of Regulation 8, the reference now is to the holding of not more than five per cent of the equity share capital.
+In the Takeover Regulations, Regulation 2(1)(e) defines the expression person acting in concert in two parts.
+Clause (1) of Regulation 2(1)(e) refers to a situation where persons who, for a common objective or purpose of substantial acquisition of shares or voting rights or gaining control over the target Company, pursuant to an agreement or understanding, formal or informal, directly or indirectly cooperate by acquiring or agreeing to acquire shares or voting rights in the target Company or control over the target Company.
+The elements which go to comprise clause (1) of Regulation 2(1)(e) are (i) A group of persons who share a common object or purpose (ii) The object or purpose is the substantial acquisition of shares or voting rights or gaining control(iii) The object or purpose must be referable to a target Company(iv)
+Such persons must act in pursuance of an agreement or understanding, though the agreement or understanding may be formal or informal (v) Pursuant to the agreement or understanding, there must be cooperation between those persons directly or indirectly by acquiring or agreeing to acquire shares or voting rights in the target Company or control over the target Company.88.
+The existence of a common object or purpose is an essential requirement of Regulation 2(1)(e)(1).
+In Daichi Sankyo Company Limited vs. Jayaram Chigurupati, (2010) 7 SCC 449paras 48 and 49 pages 471
+472)a Bench of three Learned Judges of the Supreme Court while interpreting the provisions of Regulation 2(1)(e)(1) emphasised the requirement that there must exist a target Company on the one hand, and the coming together of two or more persons with a shared common objective or purpose on the other hand.
+This emerges from the following observations48.
+To begin with, the concept of person acting in concert under regulation 2(e)(1) is based on a target company on the one side, and on the other side two or more persons coming together with the shared common objective or purpose of substantial acquisition of shares etc. of the target company.
+Unless there is a target company, substantial acquisition of whose shares etc. is the common objective or purpose of two or more persons coming together there can be no persons acting in concert.
+For, dehors the target company the idea of persons acting in concert is as irrelevant as a cheat with no one as victim of his deception.
+Two or more persons may join hands together with the shared common objective or purpose of any kind but so long as the common object and purpose is not of substantial acquisition of shares of a target company they would not comprise persons acting in concert.49.
+The other limb of the concept requires two or more persons joining together with the shared common objective and purpose of substantial acquisition of shares etc. of a certain target company.
+There can be no persons acting in concert unless there is a shared common objective or purpose between two or more persons of substantial acquisition of shares etc. of the target company.
+For, dehors the element of the shared common objective or purpose the idea of person acting in concert is as meaningless as criminal conspiracy without any agreement to commit a criminal offence.
+The idea of persons acting in concert is not about a fortuitous relationship coming into existence by accident or chance.
+The relationship can come into being only by design, by meeting of minds between two or more persons leading to the shared common objective or purpose of acquisition of substantial acquisition of shares etc. of the target company.
+It is another matter that the common objective or purpose may be in pursuance of an agreement or an understanding, formal or informal the acquisition of shares etc. may be direct or indirect or the persons acting in concert may cooperate in actual acquisition of shares etc.
+or they may agree to cooperate in such acquisition.
+Nonetheless, the element of the shared common objective or purpose is the sine qua non for the relationship of persons acting in concert to come into being.
+Hence, it is now a settled principle of law that the relationship which the words persons acting in concert encompasses is one which comes into being by design.
+The existence of this design postulates a meeting of minds, the holding of a shared common object or purpose, the existence of an understanding and the implementation of that understanding in fulfilling the shared purpose of acquiring shares or voting rights or gaining control over the target Company.89.
+A similar view has been taken in a judgment of a Division Bench of this Court in K.K. Modi vs. Securities Appellate Tribunal, (2003) 113 Com.
+Cases 418)where it has been held that the mere fact that a person is a promoter does not make him an acquirer, unless it is shown that he either intends to acquire or is acting in concert with the acquirer for the acquisition of shares of the target Company.
+In order to establish that a person is acting in concert, a common objective or purpose must be shown to exist.90.
+Clause (2) of Regulation 2(1)(e) raises a presumption in which certain persons will be deemed to be persons acting in concert with other persons in the same category unless the contrary is established.
+The presumption in clause (2) is, rebuttable.
+Subclause (i) of Clause (2) refers to a Company, a holding Company or subsidiary or such Company or Companies under the same management either individually or together with each other.
+Regulation 2(2) stipulates that all other expressions unless defined shall have the same meaning assigned to them inter alia under the Companies Act, 1956.
+Section 370(1B) of the Companies Act, 1956 contains a deeming definition of when two bodies corporate shall be deemed to be under the same management, those situations being as follows(i) if the managing director or manager of the one body, is managing director or manager of the other body or (ii) if a majority of the directors of the one body constitute, or at any time within the six months immediately preceding constituted, a majority of the directors of the other body(iii) if not less than onethird of the total voting power with respect to any matter relating to each of the two bodies corporate is exercised or controlled by the same individual or body corporate or(iv) if the holding company of the one body corporate is under the same management as the other body corporate within the meaning of clause (i), clause (ii) or clause(iii) or(v) if one or more directors of the one body corporate while holding, whether by themselves or together with their relatives, the majority of shares in that body corporate also hold, whether by themselves or together with their relatives, the majority of shares in the other body corporate.91.
+The Additional Solicitor General submitted that since the provisions of the Takeover Regulations have been incorporated by reference into the MIMPS Regulations, the Court may make due alterations in the details of Regulation 2(1)(e) based on the context of the incorporating regulations.
+In Paresh Chandra Chatterjee vs. The State of Assam, (AIR 1962 SC 167 )the Supreme Court held while construing the provisions of the Assam Land (Requisition and Acquisition) Act, 1948, that the legislature having provided that the provisions of the Land Acquisition Act, 1894, shall apply mutatis mutandis in respect of a reference made to the Court under the State Act, appropriate changes in the phraseology used in Section 23 of the Central Act may have to be made to apply the principles underlying those provisions to the state legislation.
+The Additional Solicitor General urged that there is a difference in the context and setting of the expression persons acting in concert used in the Takeover Regulations and, the definition of the expression in the Takeover Regulations must apply with due alteration of details.
+If such an interpretation is adopted, it was urged, there would be no requirement of a common objective of acquisition for the purpose of the MIMPS Regulations.92.
+Now, it must be emphasized that Explanation (IV) to Regulation 8 provides that the expression persons acting in concert shall have the meaning derived from Regulation 2(1)(e) of the Takeover Regulations.
+The meaning ascribed to the expression persons acting in concert in Regulation 2(1)(e) is unless the context otherwise requires.
+But, Explanation IV of Regulation 8 incorporates specifically the definition from Regulation 2(1)(e) of the Takeover Regulations.
+In deriving the meaning of the expression persons acting in concert from the Takeover Regulations and applying it in the context of the MIMPS Regulations, it will be necessary for the Court to render the expression workable having regard to the context in which the term is used in the MIMPS Regulations.
+Regulation 8 of the MIMPS Regulations, as it now stands, regulates the holding of equity share capital of a recognized stock exchange.
+Though Regulation 8 prior to its amendment in 2008 regulated both the acquisition and holding of paid up equity capital, the reference to acquisition was deleted by the amendment.
+This is indicative of the fact that the common purpose of the acquisition of shares may not be relevant for the purposes of the MIMPS Regulations.
+Moreover, even the Takeover Regulations themselves contemplate the use of the expression persons acting in concert in connection with the holding of shares, such as in the provisions of Section 6(3).
+At the same time, while the definition of the expression persons acting in concert in the Takeover Regulations is to be applied in a meaningful sense for the purpose of the MIMPS Regulations, the essential ingredient of the expression is the existence of a common objective.
+SEBI as a delegate of Parliament, when it made the MIMPS Regulations, incorporated the definition of the expression from the Takeover Regulations.
+SEBI would be presumed to have known the ambit of that expression as used and interpreted in the Takeover Regulations.
+When the meaning of the expression persons acting in concert is derived from the Takeover Regulations, the latter constitute the source of the meaning.
+The essential attributes of the expression are those which are to be found in the Takeover Regulations.
+In extrapolating the meaning contained in the Takeover Regulations to the MIMPS Regulations, the essential features of the meaning cannot be destroyed.
+The process of extrapolation may legitimately involve necessary changes in points of detail.
+To incorporate the meaning mutatis mutandis may be permissible so as to adapt matters of detail to impart effective content to the expression when it is used in the context of the MIMPS Regulations.
+But that process must necessarily adopt the heart and soul of the meaning and the existence of a common object and purpose constitutes the essence of the meaning of the expression persons acting in concert.
+Regulation 8 is being applied to a situation where the promoters of a stock exchange held the entire equity capital before the process of divestment commenced.
+The mere fact that they are promoters is not sufficient to hold that they are acting in concert for the purpose of Regulation 8.
+If such an extreme position of interpretation were to be adopted, compliance with Regulation 8 norms would be illusory in a situation where the original position is that the entire share capital is held by promoters.
+Hence, the law requires something more to establish a case of persons acting in concert.
+The essential ingredients of the definition in Regulation 2(1)(e) must be fulfilled.93.
+In Commissioner of Income Tax vs. East Coast Commercial Co. Ltd., (AIR 1967 SC 768 )the Supreme Court construed the provisions of Section 23A of the Income Tax Act, 1922, while analysing as to when it could be said that a Company is one in which the public are substantially interested.
+By the Explanation to Section 23A(1), it was enacted inter alia that a company shall be deemed to be a company in which the public are substantially interested if shares carrying not less than twentyfive per cent of the voting power have been allotted to or acquired unconditionally or are beneficially held by the public.
+Under Section 23A, the Assessing Officer was required, if satisfied that the profits and gains distributed as dividends by any company were less than sixty per cent of the assessable income of that previous year, as reduced by the income tax and super tax payable, to make an order that the undistributed portion of the assessable income of the company shall be deemed to have been distributed as dividends among the shareholders as at the date of the general meeting.
+This power could not be exercised in respect of a company in which the public are generally interested.
+The Supreme Court noted that the Tribunal had to decide, in the first instance, whether there was a group of persons acting in concert holding a sufficient number of shares which may control the voting as a block.
+But the existence of a block was held not to be decisive.
+The Supreme Court adverted to its earlier decision in Commissioner of Income Tax vs. Jubilee Mills Ltd., (1963 (48) ITR 9 (SC)where it was held that no direct evidence and overt act of concert between the members of the group having control over voting was necessary to prove that the Company is not one in which the public is substantially interested.
+In Jubilee Mills, the Supreme Court held thatThe test is not whether they have actually acted in concert but whether the circumstances are such that human experience tells us that it can safely be taken that they must be acting together.
+While following this principle in East Coast Commercial (supra), the Supreme Court applying this principle, held as followsIt is the holding in the aggregate of a majority of the shares issued by a person or persons acting in concert in relation to the affairs of the Company which establishes the existence of a block.
+It is sufficient, if having regard to their relation etc., their conduct, and their common interest, that it may be inferred that they must be acting together evidence of actual concerted acting is normally difficult to obtain, and is not insisted upon.
+XIII
+The validity of the impugned order.94.
+In the notice to show cause that was issued to the Petitioner, FTII and MCX were regarded as persons acting in concert on the basis of a letter dated 14 December 2009 addressed by MCX to ILFS and a letter dated 20 August 2009 addressed by LaFin to ILFS Financial Services.
+Moreover, it was alleged that FTIL and MCX are under the same management in terms of Regulation 2(1)(e)(2)(i) of the Takeover Regulations read with Section 370(1B) of the Companies Act, 1956.
+Moreover, it was alleged that FTIL as on 31 March 2010, held 31.18 of the equity share capital of MCX and that by its dominant holding, FTIL is in control of MCX.95.
+There are two limbs to the finding which has been arrived at by the Whole Time Member on the issue.
+First, the impugned order adverts to the letters dated 20 August 2009, addressed by LaFin to ILFS and to the letter dated 14 December 2009, addressed by MCX to ILFS.
+The letter dated 20 August 2009, was addressed by LaFin to ILFS, following on a Share Purchase Agreement signed between MCX, ILFS and the Petitioner on the same date.
+By the letter, LaFin furnished an undertaking to offer to purchase all the shares which under the SPA were sold by MCX to ILFS within a stipulated period.
+The price at which the shares would be offered to be purchased would be (i) a price providing an internal rate of return of 15 on investment or the price at which the most recent transactions of the equity shares of the Petitioner was carried out by the Petitioner or by MCX or the FTIL group.
+Moreover, it was assured that in the event that the Petitioner plans an initial public offering within one year from the date of the investment, LaFin covenanted that it shall not proceed with the IPO in case the price at the IPO is less than the buy back price.
+As promoter of the Petitioner, LaFin further assured that save and except for the issuance of the shares of the Petitioner to some Banks and in terms of employees stock option plans, the Petitioner shall not issue any share to any person at a price below Rs.35/ per equity share without the prior written consent of ILFS.
+LaFin also stated that pursuant to the purchase of the shares of the Petitioner, it undertook not to sell or issue any equity shares in the Petitioner on behalf of FTIL, MCX and our group Companies for a stipulated period from the date of purchase for a price exceeding the buy back price.
+The letter was signed on behalf of LaFin by Jignesh Shah, its Director.
+The second letter dated 14 December 2009 was issued by MCX to ILFS referring to the Share Purchase Agreement and to the letter dated 20 August 2009 from LaFin.
+MCX by its letter sought the approval of ILFS to the proposed Scheme of Reduction which was to be discussed in an extraordinary General Meeting of the Petitioner.
+The letter contained an assurance that it was not in dilution of the terms of the SPA.
+Similarly, MCX furnished an undertaking for and on its behalf and on behalf of FTIL, LaFin and our group companies not to sell or issue any equity shares of the Petitioner until the warrants issued on capital reduction are converted into shares by the existing shareholders.
+On 26 March 2010, when ILFS exercised its rights under the buy back agreements, the warrants were purchased not by LaFin, but by MCX.96.
+During the course of the hearing, certain factors have been set out to on behalf of SEBI to indicate that the three companies, the Petitioner, MCX and FTIL form part of one group.
+These are (i) Jignesh Shah and his wife held 100 of the equity share capital of LaFin as admitted during the course of the hearing by the Petitioner and by the Third and Fourth Respondents (ii) LaFin together with Jignesh Shah and his family hold 45.53 of the equity share capital of FTIL (iii) FTIL holds 31.18 of the equity share capital of MCX and (iv) The website of FTIL shows the Petitioner and MCX as part of the FTIL group.
+In paragraph 52 of his impugned order, the Whole Time Member has concluded that FTIL and MCX are Companies under the same management under Section 370(1B)(i) of the Companies Act, 1956 on the ground that they have a common manager, Mr.Jignesh Shah, and are, therefore, deemed to be persons acting in concert for the purpose of MIMPS Regulations.
+This finding in the impugned order is as follows The letters referred to above are those of Mr.Jignesh P.Shah, Director of LaFin Financial Services Private Ltd., the promoter of FTIL.
+I find that, as brought out in the Notice, Mr.Jignesh Shah holds the positions of Chairman and Group Chief Executive Officer of FTIL, (a promoter of MCXSX) and the Vice Chairman of MCX (the second promoter of SCXSX).
+The Applicant has in his written submissions explained that he is only a nonexecutive Vice Chairman of MCX.
+Mr.Jignesh Shah has issued the undertakings referred to on behalf of MCX, FTIL, and other group companies that MCXSX will not issue shares except as provided for.
+He is in a position to issue an undertaking not only for the company (FTIL) that he is managing director of, but also for the Company (MCX) for which he is designated as its nonexecutive Vice Chairman.
+I find that MCX, as per publicly available information, has a regular Managing Director.
+But it is Mr.Jignesh Shah and not the Managing Director who has issued the undertaking on behalf of the Applicant as well a fact that further brings out his position of dominance in the management of all these three institutions from the website of FTIL, that MCX is listed as one of the group companies of FTIL and that Mr.Jignesh Shah is designated as the Group CEO.
+One does not have to go farther, to see that Mr.Jignesh shah is de facto, a manager for both the promoter companies viz., FTIL and MCX.
+Using the test of common management in Section 370(1B)(i) of the Companies Act, 1956, it is reasonable to conclude that the two promoters are under a common management.97.
+The finding which is contained in the extract quoted above proceeds on the basis that both the letters were addressed by Mr.Jignesh Shah.
+As a matter of fact, only one of the two letters, that dated 20 August 2009 addressed by LaFin to ILFS has been signed by Jignesh Shah.
+The other letter dated 14 December 2009 addressed by MCX to ILFS has not been signed by him.
+That apart, under Section 370(1B) of the Companies Act, 1956 two bodies corporate are deemed to be under the same management if the Manager of one body is the Manager of the other.
+Section 2(24) defines the expression manager to mean an individual who is subject to the superintendence, control and direction of the Board of Directors and has the management of the whole or substantially the whole of the affairs of the Company.
+The test that must be applied in determining as to whether a person must be regarded as a manager in Section 2(24) was elucidated in the judgment of the Supreme Court in Commissioner of Income Tax, Kerala vs. Alagappa Textile (Cochin) Ltd, (1980) 1 SCC 214 ).Mr.
+Justice V.D. Tulzapurkar, speaking for the Bench of the Supreme Court held as followsBefore we consider the principal question relating to the proper construction of the Agreement dated November 10, 1957, it will be desirable to note the relevant provisions of the Indian Companies Act, 1913 as also the new Companies Act, 1956, which have a bearing on the question at issue.
+Since the Agreement between the assessee on the one hand and
+the Kamala Mills Ltd.
+On the other was entered into at a time when the Indian Companies Act, 1913 was in force it will be proper first to refer to the definition of Manager given in s. 2(9) of the said Act.
+Section 2(9) ran thus2(9) manager means a person who, subject to the control and direction of the directors has the management of the whole affairs of a company, and includes a director or any other person occupying the position of a manager by whatever name called and whether under a contract of service or not.
+It will be clear that to satisfy the aforesaid definition a person, which could include a firm, body corporate or an association of persons, apart from being in management of the whole affairs of a company had to be subject to the control and direction of the directors.
+This definition has undergone a substantial change under the Companies Act, 1956.
+Under this Act s. 2(24) defines the expression manager thus.2(24) manager means an individual (not being the managing agent) who, subject to the superintendence, control and direction of the Board of directors, has the management of the whole, or substantially the whole, of the affairs of a company, and includes a director or any other person occupying the position of a manager, by whatever name called, and whether under a contract of service or not.
+In this definition three conditions are required to be satisfied (a) the manager must be an individual, which means that a firm or a body corporate or an association is excluded and cannot be a manager (a fact which is expressly made clear in s. 384), (b) he should have the management of the whole or substantially the whole affairs of the company and (c) he should be subject to the superintendence, control and directions of the Board of Directors in the matter of managing the affairs of the company.
+Subject to the changes made in the aspects covered by (a) and (b), in both the definitions the aspect that a manager has to work or exercise his powers under the control and directions of the Board of Directors is common and essential.
+In fact it is this aspect which distinguishes Manager from Managing Agent.
+If the definition of Manager as given in s. 2(24) is compared with that of Managing Agent as given in s. 2(25) it will appear clear that though there is an overlapping of the functions of the manager as well as the managing agent of the company the essential distinction seems to be that whereas the manager has to be subject to the superintendence, control and direction of the Board of directors the managing agent is not so subject.
+There is merit in the contention which has been urged on behalf of the Petitioner and the Third and Fourth Respondents that the impugned order proceeds to hold that Jignesh Shah is a Manager of both FTIL and MCX primarily on the basis of one letter and the undertaking contained therein.
+The test which has been adverted to in the judgment of the Supreme Court in Alagappa Textile (supra) has not been considered while assessing the applicability of Regulation 2(2)(e)(2).
+Moreover, several of the circumstances which have been adverted to during the course of the submissions by the Learned Additional Solicitor General of India do not form the basis of the impugned order.
+This is apart from the fact that in deciding the issue as to whether FTIL and MCX are persons acting in concert, the Whole Time Member of SEBI has not dealt with whether the principal requirement of a common objective or purpose has been fulfilled.
+The impugned order is, therefore, rendered vulnerable on account of its failure to apply the requisite legal standard that must determine whether the promoters were acting in concert within the meaning of Regulation 2(1)(e).98.
+During the course of the hearing, a joint statement has been tendered to the Court on behalf of the Third and Fourth Respondents in the form of an undertaking signed by their Advocates in the following termsJoint Statement by Respondent Nos.3 and Respondent No.4 The Respondent No.3 and 4 jointly and severally hereby undertake to reduce their total shareholding in the Petitioner so that they do not collectively exceed 5 shareholding in the Petitioner or such limits as prescribed under the MIMPS Regulations from time to time.
+Such reduction shall take place within such time line as directed by SEBI.
+Further the Respondent no.3 and 4 jointly and severally hereby undertake that in the event the options either under buy back or under the warrants is exercised then their shareholding either jointly or severally will not exceed 5 of the Petitioner or such limits as prescribed under the MIMPS Regulations from time to time.99.
+The Third and Fourth Respondents have now unequivocally stated before the Court that they would undertake together not to exceed five per cent in the shareholding of the Petitioner or such limit as may be prescribed under the MIMPS Regulations from time to time.
+A further undertaking has been tendered that even if the option under the buy back or under the warrants are exercised, the holding of the Third and Fourth Respondents jointly or severally shall not exceed five per cent.
+This is an aspect which SEBI must be required to reconsider upon the final order that we propose to pass in the case.
+Concentration of Economic Interest100.
+The finding by SEBI to the effect that there would be a concentration of economic interest has fairly not been canvassed by the Learned Additional Solicitor General during the course of the submissions.
+None of the Regulations contains an independent statutory norm in regard to the concentration of economic interest.
+This ground in the impugned order is, therefore, extraneous to the MIMPS Regulations.
+If the requirements of the MIMPS Regulations are fulfilled, then independent of them, there would be no further norm referable to the concentration of economic interest on which the Petitioner would fail in its application.
+Fit and proper person101.
+In holding that it would not be in the public interest and the interest of the trade to grant the application, SEBI has concluded in its impugned order that the Petitioner is not a fit and proper person.
+This finding is primarily based on the following premises(i) There was a failure on the part of the Petitioner to disclose the buy back agreements.
+These should have been shared with SEBI in order to enable it to determine whether Regulation 8(1) has been complied with(ii)
+The buy back agreements were illegal under the SCRA and the Petitioner was either instrumental to those agreements or has knowledge of them and(iii)
+The Petitioner should have submitted the proposed Scheme of Reduction to SEBI and ought to have sought a confirmation of whether it fully complies with the MIMPS Regulations.
+The Whole Time Member has, however, concluded that he cannot go so far as to agree with what has been stated in the notice that the Petitioner has been dishonest in not giving SEBI adequate information about the Scheme itself.102.
+In the earlier part of this judgment, the issue of disclosure has been elaborated upon at length.
+The relationship of a stock exchange with SEBI must be founded on utmost good faith.
+Material and relevant facts which have a bearing on compliance with the Act and the Regulations which SEBI enforces must be disclosed.
+When SEBI, as a condition for the recognition of a stock exchange imposes a stipulation of compliance with the provisions of the MIMPS Regulations and it may be compliance of the relevant provisions as the subsequent notification imposes there has to be a genuine and honest compliance with the requirements of the Regulations.
+The Petitioner and its promoters may be correct in asserting that the existence of the buy back agreements does not ipso facto result in a violation of the MIMPS Regulations, in the present, once the shareholding of the promoters is brought within the permissible limit.
+The buy back involves an option which may or may not be exercised in the future.
+The promoters submit that they have several courses of action open to ensure that their shareholding does not exceed the statutory limit if the option is exercised.
+New capital can be infused by increasing the authorised capital or the promoters may find an independent third party to purchase the shares on the exercise of the buy back option.
+But these are evidently matters which SEBI as regulator must be informed about.
+The buy back casts an obligation on the promissory to purchase though an option is given to the promisee to sell in future.
+The regulator is entitled to be in the know of full facts and the existence of a buy back agreement is a relevant fact.
+Even assuming that the promoters would make legitimate arrangements in future upon the exercise of the buy back option to ensure that their shareholding continues to be within the limit prescribed, SEBI would be within its statutory powers to demand assurances that those conditions would be fulfilled.
+We are, therefore, unable to accept the submission which was urged on behalf of the promoters that the nondisclosure of the buy back agreements is of no consequence because the buy back agreements were, according to them, a wholly irrelevant consideration.
+The divestment of shares held by the promoters in excess of the limit prescribed by Regulation 8 was to ensure MIMPS compliance.
+If as in this case, a divestment of shares was also accompanied by a buy back obligation assumed by the promoters, disclosure of the buy back is a relevant consideration.
+The existence of the buy back agreements is a relevant consideration in enabling SEBI to determine as to whether there was a genuine divesting of shares held by the promoters in exeess of the limit.
+Compliance with the provisions of the MIMPS Regulations by the promoters of the stock exchange cannot be cloaked in secrecy qua SEBI as a regulator.103.
+But having said this, we are of the view that it would not be justifiable in the facts of the present case to reject the application merely on that ground.
+From the perspective of the Whole Time Member who made the impugned order, the nondisclosure of the buy back agreements is coupled with his finding that the buy back is a forward contract and, is therefore, illegal.
+This aspect of the finding of the adjudicating officer has been held to be erroneous in the earlier part of the judgment.
+Once the buy back agreement is held not to be a forward contract, then the alleged illegality of the agreement as a ground for holding that the Petitioner is not a fit and proper person necessarily ceases to exist.
+Another circumstance which must be borne in mind is that during the course of the proceedings before SEBI, an undertaking has been tendered on behalf of the promoters that the statutory limit which has been prescribed under the MIMPS Regulations would not be exceeded.
+Moreover, during the course of the proceedings before this Court, the undertaking which has been tendered by the promoters is even more specific and stringent that notwithstanding the exercise of the option under the buy back or the warrants, the shareholding of both the promoters together jointly or severally will not exceed five per cent.
+There has, hence, been a bona fide effort on the part of the Petitioner and its two promoters to ensure that they do not breach the provisions of the MIMPS Regulations by undertaking to the Court that the shareholding of the promoters together shall not exceed the limit of five per cent prescribed under the MIMPS Regulations for a resident.
+XIV Conclusion104.
+In this view of the matter, the conclusions which have been arrived at in the course of the judgment may now be revisited in determining the appropriate final order to be passed in the case(i) Though the MIMPS Regulations in terms apply to a stock exchange in respect of which a Scheme for demutualisation and corporatisation has been approved under Section 4B, the application of those regulations was extended to the Petitioner by SEBI as a condition for the grant of recognition.
+Though initially SEBI demanded full compliance with the MIMPS Regulations, the requirement which was imposed while extending recognition thereafter, was full compliance with the relevant Regulations.
+In either view of the matter, there must be a genuine, bona fide and honest attempt to comply with the MIMPS Regulations(ii) SEBI as a regulatory authority was while exercising its wide ranging statutory powers acting within its jurisdiction in imposing a requirement of compliance with the MIMPS Regulations as a condition attaching to the recognition of the stock exchange(iii)
+Regulation 8 prescribes the limit for holding of shares in a stock exchange by a person resident in India, individually or with persons acting in concert.
+The manner in which a dilution of the equity stake of the promoters had to take place in order to ensure compliance with the provisions of the MIMPS Regulations was not confined to the modes specified in Regulation 4.
+Many of the modalities prescribed in Regulation 4 do not apply to a stock exchange like the Petitioner which has no trading members.
+So long as there is a genuine divestment of the equity stake of the promoters in excess of the limit prescribed by Regulation 8, that would fulfill the requirement of Regulation 8(iv)
+Stock exchanges are an integral part of the statutory framework which SEBI regulates in relation to the securities market.
+The relationship between a stock exchange and SEBI is one based on trust and utmost good faith.
+A stock exchange is duty bound to make a full and honest disclosure of all material and relevant facts which have a bearing on the issue as to whether the requirements of the MIMPS Regulations have been fulfilled.
+The existence of the buy back agreements was a material circumstance which ought to have been disclosed to SEBI(v)
+The sanctioning of the Scheme of capital reduction by the Company Judge under Sections 391 to 393 read with Sections 100 to 103 of the Companies Act, 1956, does not preclude SEBI as a statutory regulator from determining as to whether the provisions of the MIMPS Regulations have been complied with.
+SEBI is independently entitled to ensure compliance with the MIMPS Regulations which have been made a condition for the grant of recognition.
+The statutory functions conferred upon SEBI under the SCRA and cognate legislation are not diluted(vi)
+During the course of the proceedings before SEBI as well as before this Court, undertakings have been filed by the promoters to the effect that the provisions of the MIMPS Regulations including the ceiling on the holding of the shares would be complied with notwithstanding the exercise of the option under the buy back agreement and the warrants for the allotment of shares.
+Both the promoters have now held themselves down to hold together, jointly and severally no more than five per cent of the equity capital.
+There is no reasonable basis to reject the undertakings which have been filed(vii)
+The buy back agreements cannot be held to be illegal as found in the impugned order of the Whole Time Member of SEBI on the ground that they constitute forward contracts.
+A buy back confers an option on the promisee and no contract for the purchase and sale of shares is made until the option is exercised.
+The promissor cannot compel the exercise of the option and if the promisee were not to exercise the option in future, there would be no contract for the sale and purchase of shares.
+Once a contract is arrived at upon the option being exercised, the contract would be fulfilled by spot delivery and would, therefore, not be unlawful.(viii)
+The alternate submission which has been urged on behalf of SEBI at the hearing that the buy back agreements constitute an option in securities and being derivatives violate the provisions of Section 18A of the SCRA is not the basis either of the notice to show cause that was issued to the Petitioner or of the order passed by the Whole Time Member of SEBI.
+SEBI has in fact, issued a notice to show cause to the Petitioner subsequent to the order asserting that as a ground.
+In that view of the matter, it will not be appropriate or proper for this Court to render any finding on that aspect, particularly when it did not find a place either in the notice to show cause or in the order passed thereon(ix) The definition of the expression persons acting in concert is for the purpose of the MIMPS Regulations derived from the Takeover Regulations, by Explanation (IV) to Regulation 8 of the MIMPS Regulations.
+Regulation 8 after its amendment in 2008, refers only to the holding of shares and not to the acquisition and holding of the shares as earlier.
+In applying the provisions of Regulation 2(1)(e) of the Takeover Regulations (which defines persons acting in concert) to the MIMPS Regulations, it would be permissible following well settled principles in that regard to make some alteration in detail to render the regulations meaningful and effective.
+However, the essential ingredients of the expression persons acting in concert in the Takeover Regulations cannot be abrogated.
+SEBI when it incorporated the definition of persons acting in concert from the Takeover Regulations was conscious of the definition in those Regulations and must be attributed with the knowledge of the manner in which it has been interpreted.
+The Supreme Court has held that the existence of a common objective or purpose is a necessary requirement of the expression which must be fulfilled by an agreement, formal or informal(x) The impugned order passed by the Whole Time Member has failed to apply the principal test enunciated by the judgment of the Supreme Court in Daichi Sankyo (supra) in determining as to whether certain persons may be held to be acting in concert.
+The mere fact that two persons have come together in promoting a Company does not lead to the inference that they are acting in concert for the purposes of the Takeover Regulations.
+The further finding of the Whole Time Member of SEBI that the two promoters of the Petitioner had a common Manager is based primarily on the execution of one letter.
+The finding does not take into account the test spelt out by the Supreme Court in Alagappa Textile (supra) that a person in order to be a manager within the meaning of Section 2(24) of the Companies Act, 1956 must have the management of the whole or substantially the whole of the affairs of the Company and be subject to the superintendence, control and directions of the Board of Directors.
+The findings which have been arrived at in the impugned order are contrary to law since they ignore the relevant legal tests which have been laid down by the Supreme Court(xi)
+In any event, both the promoters of the Petitioner have, during the course of the hearing of these proceedings, tendered undertakings to the Court to the effect that notwithstanding the exercise of the option conferred by the warrants and by the buy back agreements, their shareholding jointly and severally in the petitioner shall not exceed five per cent as prescribed in Regulation 8 of the MIMPS Regulations(xii)
+On the aspect as to whether the Petitioner is a fit and proper person for the grant of recognition, the finding which has been arrived at in the impugned order is inter alia based on a conclusion as to the illegality of the buy back agreements on the ground that they are forward contracts, which is found to be erroneous in the present judgment.
+The effect of the nondisclosure of the buy back agreements to SEBI should be considered having regard to the fact that a genuine attempt has been made by the promoters by tendering an undertaking to the Court that their shareholding together shall not exceed five per cent of the equity capital, notwithstanding the exercise of the options.105.
+In view of these conclusions and for the reasons that we have indicated above, we are of the view that the impugned order passed by the Whole Time Member of SEBI on 23 September 2010 would have to be set aside.
+We direct accordingly.
+We direct, in consequence, that the application filed by the Petitioner on 7 April 2010 shall be reconsidered afresh in terms of the observations contained in this judgment.
+Upon remand, a fresh decision shall be arrived at after furnishing the Petitioner an opportunity of being heard within a period of one month from today.
+Rule is made absolute in the aforesaid terms.
+There shall be no order as to costs.

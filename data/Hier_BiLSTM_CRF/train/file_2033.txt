@@ -1,0 +1,102 @@
+ Arijit Pasayat, J. Challenge in this Appeal is to the judgment rendered by a Division Bench of the Allahabad High Court repelling the challenge to constitutional validity of Section 8E of the Uttar Pradesh Trade Tax Act, 1948 (in short the Act).	Issue
+By the impugned judgment several writ petitions involving identical challenge were disposed of.	Issue
+Aforesaid Section 8E of the Act was inserted by Section 7 of the U.P. Act No. 11 of 2001.	None
+A brief reference to the factual aspects would suffice.	None
+Appellant filed the writ petition, inter alia, with following stands Appellant is an agent of principals situated outside the State of Uttar Pradesh, who for the sake of convenience are described as ExU.P. Principals.	Facts
+Appellant purchased Mentha Oil for and on behalf of ExU.P. Principals and dispatched them to the said principals on the basis of agreements entered into.	Facts
+One consignment of Mentha Oil was detained by the Trade Tax officer, Mobile Squad, Jhansi and the driver was informed by a notice that the detention was made because the appellant had not deducted the tax from the sellers agriculturists and had not deposited the same in terms of Section 8E of the Act.	Facts
+Appellant sent a reply on 11.7.2001 stating that the purchase of Mentha Oil was for and on behalf of ExU.P. Principals from the agriculturists and all the documents accompanying the consignment clearly established this fact.	Facts
+When the authority insisted on deposit of the tax in terms of Section 8E of the Act the Writ Petition was filed.	Facts
+Because similar detentions were made in case of others, writ petitions were filed challenging constitutional validity of Section 8E of the Act.	Facts
+The primary challenge was that the seller was not a dealer as defined in the Act i.e. Section 2(c).	Facts
+Reference was made to proviso to the provision in this regard.	Facts
+Further the transactions in question being interstate in character the State Government did not have legislative competence to provide for deduction of tax in respect of such transactions.	Facts
+The respondentsState and its functionaries who were respondents in the writ petition supported the constitutional validity of the impugned provision.	None
+The High Court basically came to the conclusion that the language of a statutory provision can be narrowed down if that is necessary to sustain the constitutional validity.	None
+Accordingly it was held that the language of Section 8E of the Act shall be narrowed down so as to make it applicable only the intraState sales purchases and held the provision to be valid.	Facts
+It was further held that even though the agriculturists farmers who sell their produces to the appellant cannot be treated as dealer in view of proviso to Section 2(c), yet appellant had a liability to pay purchase tax on the purchases made in view of Section 3(1) of the Act.	Facts
+Though the High Court held that the trade tax authority concerned may decide in respect of each transaction on the facts of each case whether it is an intraState sale or purchase or not, that according to the High Court did not affect validity of Section 8E.	Facts
+Questioning correctness of the judgment of the High Court learned counsel for the appellant submitted the High Court clearly missed to notice the basic issues involved.	Arguments of Petitioner
+The transactions being undisputedly interState transactions, the State legislature had no competence to provide for deduction of tax at the time of making purchase.	Arguments of Petitioner
+Strong reliance was placed on the decisions of this Court in Steel Authority of India Ltd. v. State of Orissa and others 2000 (3) SCC 200 and Nathpa Jhakri Joint Venture v. State of H.P. and Others 2000 (3) SCC 319 with reference to the decisions of this Court in M s Bhawani Cotton Mills Ltd. v. State of Punjab and Anr.	Arguments of Petitioner
+(AIR 1967 SC 1616 ).	Arguments of Petitioner
+It was submitted that when a person has ultimately no liability to pay tax, he cannot be compelled to go through the procedure provided under the statute for the purpose of assessment and determination of tax liability, if any.	Arguments of Petitioner
+It was pointed out that the notice issued itself accepted the position that the transaction was an interState one.	Arguments of Petitioner
+5.	None
+In response, learned counsel for the respondentState submitted that the High Court has rightly upheld the constitutional validity of Section 8E of the Act.	Arguments of Respondent
+According to him, the High Court should have dismissed the writ petition on the preliminary ground that alternative remedy was available.	Arguments of Respondent
+Coming to the plea of alternative remedy, we find that such a plea does not appear to have been raised by the respondent as there is no discussion in the High Courts judgment in this regard.	Reasoning
+Further, the constitutional validity of Section 8E issue could not have been decided by the statutory authorities.	Reasoning
+Be that as it may, we find that the High Court has thoroughly confused the issues.	Reasoning
+The decisions of this Court in Steel Authority of Indias case (supra) and M s Nathpa Jhakris case (supra) related to legislative competence in the matter of deduction of tax under a state statute in respect of an interstate transaction.	Reasoning
+The High Court commented upon the correctness of the judgments observing that several larger Benches decisions were not considered.	Reasoning
+To say the least the High Courts approach is inappropriate.	Reasoning
+The decisions in Steel Authoritys case (supra) and M s Nathpa Jhakris case (supra) related to issues on which there appears to be no contrary view taken by any larger Bench.	Reasoning
+The High Court could not have sat in judgment over the correctness of the judgments of this Court.	Reasoning
+The High Court appears to have proceeded on the basis that this Court should have read down the provisions under consideration to uphold them.	Reasoning
+What is the basic fallacy in this approach is illuminatingly analysed in Minerva Mills Ltd. and Ors. v. Union of India and Ors.	None
+(1980 (3) SCC 625).	None
+In paragraphs 64 and 65, the concept of reading down was succinctly stated as follows 64.	None
+xxx	None
+xxx xxx	None
+The principle of reading down the provisions of a law for the purpose of saving it from a constitutional challenge is wellknown.	None
+But we find it impossible to accept the contention of the learned Counsel in this behalf because, to do so will involve a gross distortion of the principle of reading down, depriving that doctrine of its only or true rationale when words of width are used inadvertently.	None
+The device of reading down is not to be resorted to in order to save the susceptibilities of the law makers, nor indeed to imagine a law of ones liking to have been passed.	None
+One must at least take the Parliament at its word when, especially, it undertakes a constitutional amendment.	None
+65.	None
+xxx	None
+xxx xxx	None
+If the Parliament has manifested a clear intention to exercise an unlimited power, it is impermissible to read down the amplitude of that power so as to make it limited.	None
+The principle of reading clown cannot be invoked or applied in opposition to the clear intention of the legislature.	None
+We suppose that in the history of the constitutional law, no constitutional amendment has ever been read down to mean the exact opposite of what it says and intends.	None
+In fact, to accept the argument that we should read down Article 31C, so as to make it conform to the ratio of the majority decision in Kesavananda Bharati is to destroy the avowed purpose of Article 31C as indicated by the very heading Saving of certain laws under which Articles 31A, 31B and 31C are grouped.	None
+Since the amendment to Article 31C was unquestionably made with a view to empowering the legislatures to pass laws of a particular description even if those laws violate the discipline of Articles 14 and 19, it seems to us Impossible to hold that we should still save Article 31C from the challenge of unconstitutionality by reading into that Article words which destroy the rationaleof that Article and an intendment which is plainly contrary to its proclaimed purpose.	None
+There is no, and can be none, quarrel to the proposition that if on one construction a given statute will become ultra vires the powers of the Legislature whereas on another construction, which may be open, the statute remains effective and operative, the Court will prefer the latter, on the ground that the Legislature is presumed not to have intended an excess of its jurisdiction.	None
+But as observed by Holmes J. in Northern Securities Company v. United States 193 US 197, the rule requires that the statute must be construed in such a way as not merely to save its constitutionality but so far as it is consistent with fair interpretation, not to raise grave doubts on that score.	None
+The rule does not apply when the offending words have only one meaning e.g. when the restricted meaning makes them useless or redundant (See M.P. Cement Manufacturers Association v. State of M.P. and Ors.	None
+(2004 (2) SCC 249 ).	None
+In other words, the rule applies only where two views are possible as to the meaning of the statutory language.	Reasoning
+In neither Steel Authoritys case (supra) nor M s Nathpa Jhakris case (supra) that was the position.	Reasoning
+The basic issue related to power to provide for any deduction of tax in respect of interstate transactions.	Reasoning
+There was no issue relating to intrastate transactions.	None
+Therefore, the question of any reading down was of no relevance.	Reasoning
+In Steel Authority of Indias case (supra) it was inter alia observed as follows By virtue of Entry 54 of List II of the Seventh Schedule read with Article 246 of the Constitution of India, the States are empowered to levy taxes on the sale or purchase of goods, other than newspapers.	None
+The Fortysixth Amendment to the Constitution introduced, inter alia, Clause (29A) (b) in Article 366 of the Constitution as a result, tax on the purchase or sale of goods included a tax on the transfer of property in goods (whether as goods or in some other form) involved in the execution of a works contract.	None
+Article 286(1) of the Constitution states that no law of a State shall impose, or authorise the imposition of a tax on the sale or purchase of goods where such sale or purchase takes place outside the State or in the course of the import of goods into, or export of goods out of the territory of India.	None
+Article 286(2) authorises	None
+Parliament by law to formulate principles for determining when a sale or purchase of goods takes place in any of the ways mentioned in subArticle (1).	None
+Acting upon this power, Parliament has set out in Sections 3, 4 and 5 of the Central Sales Tax Act, 1956 principles for determining when a sale or purchase of goods can be said to take place in the course of interState, trade or commerce, when a sale or purchase of goods can be said to take place outside the State and when a sale or purchase of goods can be said to take place in the course of import or export.	None
+In Gannon Dunkerley and Co. and Ors.	None
+v. State of Rajasthan and Ors., 1993 (1) SCC 364 , this Court has held that it is necessary to exclude from the value of a works contract the value of goods which are not taxable by a State in view of Sections 3, 4 and 5 of the Central Sales Tax Act, 1956.	None
+The value of goods involved in the execution of a works contract has to be determined after making these exclusions from the value of the works contract.	None
+13.	None
+There can be no doubt, upon a plain interpretation of Section 13AA, that it is enacted for the purposes of deduction at source of the State sales tax that is payable by a contractor on the value of a works contract.	Reasoning
+For the purposes of the deduction neither the owner nor the Commissioner who issues to the contractor a certificate under Section 13AA(5) is entitled to take into account the fact that the works contract involves transfer of property in goods consequent upon of an interState sale, an outside sale or a sale in the course of import.	Reasoning
+The owner is required by Section 13AA(1) to deposit towards the contractors liability to State sales tax four per cent of such amount as he credits or pays to the contractor, regardless of the fact that the value of the works contract includes the value of interState sales, outside sales or sales in the course of import.	Reasoning
+There is, in our view, therefore, no doubt that the provisions of Section 13AA are beyond the powers of the State legislature for the State legislature may make no law levying sales tax on interState sales, outside sales or sales in the course of import.	Reasoning
+In M s Nathpa Jhakris case (supra) the view expressed in Steel Authority of Indias case (supra) was reiterated.	Reasoning
+The High Court also observed that it was reading down and narrowing down the language of the provision to sustain the constitutional validity of the same.	None
+It was observed that the language of Section 8E can be narrowed down so as to make it applicable only to intrastate sales purchases.	Facts
+The appellant in fact raised the dispute on the factual aspects contending that the transaction was one of interstate character.	Reasoning
+Its emphasis was on the validity of the provision visvis interstate transactions.	None
+There was no necessity of any reading down as there was no dispute in the case at hand relating to intrastate sales.	Reasoning
+The question of appellant having liability to pay purchase tax was also not a relevant factor for determination of the basic question regarding validity of Section 8E.	Reasoning
+The nature of a transaction cannot be decided on the basis of the provisions of a taxation statute.	Reasoning
+It has to be factually examined.	Reasoning
+The High Court instead of focussing on the factual aspects dealt with issues not relevant, and that too giving clearly indefensible interpretations.	Reasoning
+The factual aspects should have been asked to be dealt with by the authorities.	Reasoning
+By directing the authorities to do it after laying down the law, which as noted down was not the correct position in law, would really serve no purpose.	Reasoning
+On the facts of the case, there is no need to decide the question relating to validity of Section 8E of the Act except stating that the provision is subject to what has been stated in Steel Authoritys case (supra) and M s Nathpa Jhakris case (supra), for which the factual determination has to be done by the authorities.	Reasoning
+Therefore, we allow the appeal subject to the following directions The reply filed by the appellant on 11.7.2001 shall be dealt with by the respondent no. 3 in accordance with law.	None
+The said authority shall decide as to the nature of the transaction i.e. whether it is of intra state or interstate character.	None
+If it is of interState character, the decisions in Steel Authoritys case (supra) and Nathpa Jhakri case (supra) shall apply.	Reasoning
+Section 8E, therefore, cannot be held applicable to interState transactions.	None
+(2) The question whether the appellant has any liability to pay purchase tax shall not be dealt with in the proceedings relating to which the notice was issued on 8.7.2001 and the reply was filed on 11.7.2001.	Reasoning
+(3) It will be for the appellant to establish that the transaction in question was of interState character.	None
+(4) The appellants shall be given opportunity to file further reply and place such materials as according to it are relevant before the concerned authority within four weeks from today.	Reasoning
+(5) Considering the reply and further reply and materials to be placed for consideration by the appellant, the concerned trade tax authority shall decide the issue in accordance with law.	None
+Before we part with the case, it would be appropriate to remind the legislatures of what was stated in Bhawani Cotton Mills case (supra) that if a person is not liable for payment of tax at all, at any time, the collection of a tax from him, with a possible contingency of refund at a later stage, will not make the original levy valid, because if sales or purchases are exempt from taxation altogether, they can never be taken into account, at any stage, for the purpose of calculating or arriving at the taxable turnover and for levying tax.	Reasoning
+The view was reiterated in Steel Authoritys case (supra) and Nathpa Jhakri case (supra).	Reasoning
+In the latter case, it was noted, echoing the view in Bhawani Cotton Mills case (supra) that it is no solace to say that such a person can get refund after completion of assessment.	Reasoning
+If the principles indicated in these cases are followed, large number of unnecessary litigations can be avoided.	Reasoning
+The appeal is allowed to the aforesaid extent without any order as to costs.	Decision

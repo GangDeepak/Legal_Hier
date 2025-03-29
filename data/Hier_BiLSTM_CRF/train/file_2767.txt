@@ -1,0 +1,162 @@
+ P. JEEVAN REDDY, J. These appeals are preferred by the Revenue against the judgment of the Punjab and Haryana High Court answering the questions, referred at the instance of the assessee, in favour of the assessee and against the Revenue.	None
+The question involved in all these appeals are common.	None
+It would be sufficient if we take the case of one of the assessees,	Facts
+M s Shiv Prakash Janak Raj Co. (P) Ltd.	Facts
+Four assessment years are relevant in this case, viz.	Facts
+, Assessment Years 196869, 196970, 197071 and 197172.	Facts
+The two questions referred under Section 256(1) of the Income Tax Act, 1961 are.	None
+Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that the interest for the Assessment Year 197172, had already accrued to the assessee on 31101970, under the mercantile system of accountancy ?	Issue
+(ii) Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that the subsequent relinquishment of interest by a resolution dated 24111970, did not affect the tax liability of the assessee on accrual basis ?	Issue
+The partners of a firm, M s Shiv Prakash Janak Raj Co. (the Firm), are also the shareholders directors of the assesseecompany.	Facts
+The assesseecompany had advanced a loan to the firm.	Facts
+During the accounting year relevant to the Assessment Year 196667, it charged interest in a sum of Rs 25, 048 on the loan so advanced.	Facts
+Similarly, for the Assessment Year 196768, it charged interest in a sum of Rs 25, 843.	Facts
+For the four assessment years concerning herein, however, the assessee adopted a different course.	Facts
+(The accounting year adopted by the assessee was the year ending on 31st October.)	Facts
+In respect of the Assessment Year 196869 (year ending 31101967), the assesseecompany passed a resolution on 9101967 (i.e., before the end of the accounting year) deciding not to charge interest from the firm in view of the difficult financial position of the firm.	Facts
+For the next three assessment year, i.e., Assessment Years 196970, 197071 and 197172, similar resolutions were passed on 2621969, 1631970 and 24111970 respectively.	Facts
+In other words, in the case of last three assessment years, the resolution deciding not to charge interest on the loan advanced to the firm was passed after the expiry of the relevant accounting year.	Facts
+Indeed the resolution says that the firm had approached the assesseecompany to waive the interest on the loan for each of the said years and that on such representation that the directors of the assesseecompany, (who were also partners in the said firm) decided that on interest shall be charged for each of the said three assessment years.	Facts
+In the assessment proceedings relating to the said four assessment years, the Income Tax Officer took the view that inasmuch as the loans in question were interestbearing loans and because the assesseecompany had relinquished the interest without any commercial considerations and further because the directors shareholders of the assesseecompany were interested in the firm, it was a case of collusion between them to evade the tax liability.	Facts
+Accordingly, he added an amount towards interest calculating it at the rate of fifteen per cent per annum.	Facts
+On appeal, the Appellate Assistant Commissioner found that inasmuch as the resolution to waive the interest was passed after the expiry of the accounting year and further because the assesseecompany was following the mercantile system of accounting, the interest must be held to have already accrued to the assessee before it was waived.	Facts
+He, however, reduce the rate of interest to nine per cent.	Facts
+With that modification, he dismissed the appeals.	Facts
+The assessee thereupon filed a further appeal to the Tribunal but without success.	Facts
+The Tribunal observed that even though to entries were made in the books of the assesseecompany or of the firm with respect to receipt or payment of interest, that circumstance is of no relevance in view of the facts that the resolutions were passed after the expiry of the accounting year that the assessee was maintaining its accounts on mercantile basis and further that the relinquishment of interest was not for any commercial reasons.	Facts
+On reference, however, the High Court took a contrary view purporting to follow the decision of this Court in CIT v. Birla Gwalior (P) Ltd.	Facts
+The High Court held that in view of the said decision, the principle of earlier decision of this Court in Morvi Industries Ltd. v. CIT cannot be applied to this case.	Facts
+In these appeals, it is contended by Shri J. Ramamurthy, learned Senior Advocate for the appellantRevenue, that in the fact and circumstances of the case, the view taken by the Tribunal was the correct one being consistent with the decisions of this Court and that the High Court was in error in holding to the contrary, Shri G.C. Sharma, learned counsel for the assessee, however, sought to support the reasoning and conclusion of the High Court.	Arguments of Petitioner
+Before we refer to the decisions of this Court, it is necessary to reiterate the basic facts of the case.	Facts
+For the previous two assessment years, viz., 196667 and 196768, the assesseecompany did charge interest on the loan advanced by it to the firm which shows that the loan was an interestbearing loan.	Facts
+The second circumstance to be noticed is that the resolution waiving interest was passed after the expiry of the relevant accounting year in the case of three subsequent assessment years, viz., Assessment Years 196970, 197071 and 197172.	Facts
+Only in the case of Assessment Year 196869, was the resolution passed before the expiry of the accounting year.	Facts
+Thirdly, the assesseecompany was maintaining its accounts on mercantile basis.	Facts
+Yet another circumstance to be noticed is that the Tribunal has found it as a fact that the waiver was not based upon any commercial considerations.	Facts
+Of course, no entries were made in the accounts of the assesseecompany, or for that matter in the accounts of the firm, in respect of four assessment years concerned herein, that any interest was received or paid.	Facts
+On these facts, it has to be held that in the case of three subsequent assessment years, the interest had accrued to the assessee notwithstanding the fact that no entries may have been made in the accounts of the assessee to that effect.	Facts
+The waiver of interest after the expiry of the relevant accounting year only meant that the assessee was giving up the money which had accrued to it.	Facts
+It cannot be said, in the circumstances, that the interest amount had not accrued to the assessee.	Facts
+Therefore, the Tribunal was right in taking the view it did in respect of Assessment Years 196970, 197071 and 197172.	Facts
+In the case of Assessment Year 196869, however, the resolution was passed before the expiry of the accounting year and though the finding of the Tribunal is that the said waiver was not actuated by any commercial considerations, yet the learned counsel for the Revenue did not press the Revenues case so far as this assessment year is concerned.	Facts
+In Morvi Industries Ltd.	None
+the relevant facts were the following the assessee, which was the managing agent of its subsidiary company, maintained its accounts on the mercantile system.	Facts
+It was entitled to receive an office allowance of rupees one thousand per month, a commission at 12 1/2 per cent of the net profits of the managed company and an additional commission of 1 1/2 per cent on all purchases of cotton and sales of cloth and yarn.	None
+In the accounting years ended on 31121954 and 31121955, the managed company suffered losses and the assessee earned only commission on the sale of cloth and yarn for the two years.	None
+The total amounts including the office allowance which the assessee was entitled to receive were Rs 50, 719 and Rs 13, 963 for the two years.	None
+Under clause 2(e) of the managing agency agency agreement, the commission was due to the assessee on 31121954 and 31121955 respectively and it was payable immediately after the annual accounts of the managed company had been passed in general meetings, which were held on 24111955 and 2171956 respectively.	None
+By resolutions of its Board of Directors dated 441955 and 1961956 respectively i.e., after the commission had become due but before it had become payable in terms of clause 2(e), the assessee relinquished its commission on sales and office allowance because the managed company had been suffering heavy losses in the past years.	None
+The Tribunal held that the relinquishment by the assessee of its remuneration after it had become due was of no effect.	None
+It also rejected the assessees claim that the amounts relinquished were allowable under Section 10(2)(xv) of the Income Tax Act, 1922.	None
+The High Court agreed with the view taken by the Tribunal.	None
+On appeal, this Court agreed with the view taken by the High Court and the Tribunal.	None
+It held that the commission had accrued to the assessee on 31121954 and 31121955 and the fact that the payment was deferred till after the accounts had been passed in the meetings of the managed company did not affect the accrual of the income.	None
+It was held that since the assessee had chosen to give up unilaterally the amounts accrued to it, it could not escape the liability to tax on those grounds.	None
+Khanna, J., speaking for the threeJudge Bench, made the following observations which are apposite to the issue concerned herein (SCC p. 455, paras 12 and 14).	None
+The appellant company admittedly was maintaining its account according to the mercantile system.	None
+It is well known that the mercantile system of accounting differs substantially from the cash system of bookkeeping.	None
+Under the cash system, it is only actual cash receipts and actual cash payments that are recorded as credits and debits whereas under the mercantile system, credit entries are made in respect of amounts due immediately they become legally due and before they are actually received similarly, the expenditure items for which legal liability has been incurred are immediately debited even before the amounts in question are actually disbursed.	None
+Where accounts are kept on mercantile basis, the profits or gains are credited though they are not actually realised, and the entries thus made really show nothing more than an accrual or arising of the said profits at the material time.	None
+The same is the position with regard to debits made.	None
+(See Indermani Jatia v. CIT.	None
+In the present case, the amounts of income for the two years in question were given up unilaterally after they had accrued to the appellant company.	None
+As such, the appellant could not escape the tax liability for those amounts.	None
+The learned Judge also quoted with approval certain observations made by Hidayatullah, J. (as he then was) in CIT v. Shoorji Vallabhdas Co. which we shall refer to presently.	None
+The ratio of this decision clearly supports the Revenues case.	None
+In Birla Gwalior (P) Ltd.	None
+the facts were the following the respondent, which was the managing agent of the two companies, maintained its accounts on the mercantile system.	None
+It was entitled to an agreed managing agency commission and an office allowance from each of the managed companies.	None
+No date for payment of the commission was stipulated on the managing agency agreements.	None
+The accounting year of the respondent as well as the managed companies was the financial year.	None
+The respondent gave up managing agency commission from both the managed companies for the Assessment Years 195455 and 195657, after the end of the relevant financial years but before the accounts were made up by the managed companies.	None
+It also gave up before the end of the relevant financial years its office allowance from one of the managed companies for the Assessment Year 195556 and 195657.	None
+The Appellate Tribunal held that the commission given up was not the respondents real income and that since it was given up on grounds of commercial expediency, it was allowable deduction under Section 10(2)(xv) of the Indian Income Tax Act, 1922.	None
+In relation to office allowance, the Tribunal found that the financial position of the managed company was not sound during the relevant accounting years that it was necessary for the respondent to give up the office allowance in order to stabilise the finances of the managed company and because of the sacrifice made by the respondent the finances of the managed company improved and as a result the respondent was able to earn more profits in later years.	None
+On reference made under Section 66(2).	None
+The High Court opined that (1) the commission foregone by the respondentassessee was not its real income.	None
+On that basis, it declined to answer the question whether the amounts of the commission foregone were allowable as a revenue expenditure under Section 10(2)(xv) of the 1922 Act and (2) that the office allowance foregone was deductible as business expenditure under Section 10(2)(xv).	None
+On appeal, this Court affirmed the view taken by the High Court.	None
+We are, however, concerned only with the first answer given by the High Court.	Reasoning
+In our opinion, there is no contradiction or inconsistency between the holding in this case and the holding in	Reasoning
+Morvi Industries Ltd.	Reasoning
+In this case, the important fact found was that the money became due to the assessee not at the end of the accounting year, but on the date the managed company made up its accounts.	Reasoning
+Indeed, no date was fixed in the agreement for payment of the commission and the assessee gave up its commission even before it accrued to it, i.e., before the managed company made up its account.	Reasoning
+It is for this reason, this Court held that the commission had not accrued to the assessee by or before the date it gave it up.	Reasoning
+Indeed, Hegde, J., speaking for himself and Khanna, J., specifically referred to the decision in Morvi Industries Ltd. and distinguished it on the above basis.	Reasoning
+We are, therefore, unable to agree with the High Court	Reasoning
+that by the virtue of the decision of this Court in Birla Gwalior (P) Ltd.	Reasoning
+the principle of Morvi Industries Ltd. does not apply to the present case.	Reasoning
+The facts of the present case (with respect to three assessment years, viz., 196970, 197071 and 197172) so squarely fall within the principle of Morvi Industries Ltd.	Reasoning
+In State Bank of Travancore v. CIT the facts were the following the appellantBank maintained its accounts on the basis of mercantile system.	None
+It was charging interest on the loans advanced by it.	None
+Some of the loans had become sticky, i.e., their recovery had become extremely doubtful.	None
+The Bank, however, charged interest on these loans also, debiting the account of the parties concerned.	None
+But instead of carrying the interest amount to the profit and loss account the appellant remitted the said interest amount to a separate account called the Interest Suspense Account.	None
+In the course of its assessment, the bank claimed that having regard to the poor financial condition of the said debtors and the poor chances of recovery of interest from them, the interest amount due from them was taken to the Interest Suspense Account to avoid showing inflated profits by including hypothetical and unreal income and further that the interest on such sticky advance was not its real income and, hence, no taxable.	None
+Both the Tribunal and the High Court rejected the plea.	None
+On appeal, this Court, by majority, Sabyasachi Mukharji and Ranganath Misra, JJ., (Tulzapurkar, J. dissenting) affirmed the decision of the High Court.	None
+This Court held that the interest on the sticky advances did accrue to the appellantBank according to the mercantile system of accounting and that, indeed, the appellant had debited the respective parties with interest.	None
+The appellant, however, did not choose to treat the debt as bad debts but carried the interest amount to the Interest Suspense Account.	None
+Mere crediting of the said interest amount to, what it called the Interest Suspense Account, without treating it as a bad debt or irrecoverable interest, was repugnant to Section 36(1)(vii) and Section 23(3) of the Act and that the concept of real income does not help the appellantBank.	None
+It was observed that the concept of real income cannot be so read as to defeat the object and the provisions of the Act.	None
+Sabyasachi Mukharji, J., in his opinion, discussed all the relevant cases on the subject including Morvi Industries Ltd. and Birla Gwalior (P) Ltd. as well as the decision of this Court in Shoorji Vallabhdas Co. (SC) and stated the proposition emerging therefrom in the following words(SCC pp.	None
+6667, para 69).	None
+see(1)	None
+It is the income which has really accrued or arisen to the assessee that is taxable.	None
+Whether the income has really accrued or arisen to the assessee must be judged in the light of the reality of the situation (2) The concept of real income would apply where there has been a surrender of income which in theory may have accrued but in the reality of the situation no income has resulted because the income did not really accrue (3) Where a debt has become bad deduction in compliance with the provisions of the Act should be claimed and allowed (4) Where the Act applies, the concept of real income should not be so read as to defeat the provisions of the Act (5) If there is any diversion of income at source under any statute or by overriding title then there is not income to the assessee (6) The conduct of the parties in treating the income in a particular manner is material evidence of the fact whether income has accrued or not (7) Mere improbability of recovery, where the conduct of the assessee is unequivocal, cannot be treated as evidence of the fact that income has not resulted or accrued to the assessee.	None
+After debiting the debtors account and not reversing that entry  but taking the interest merely in suspense account cannot be such evidence to show that no real income has accrued to the assessee or been treated as such by the asses(8)	None
+The concept of real income is certainly applicable in judging whether there has been income or not but in every case it must be applied with care and within wellrecognised limits.	None
+To the argument of real income pressed with great persistence in that case, the learned Judge responded in the following words (SCC p. 67, para 70).	None
+We were invited to abandon legal fundamentalism.	None
+With a problem like the present one, it is better to adhere to the basic fundamentals of the law with clarity and consistency than to be carried away by common cliches.	None
+The concept of real income certainly is wellaccepted one and must be applied in appropriate cases but with circumspection and must not be called in aid to defeat the fundamental principles of law of income tax as developed.	None
+We respectfully agree with the propositions as well as the observations of the learned Judge with respect to the plea of real income.	Reasoning
+We may now deal with the decision in Shoorji Vallabhdas Co. (SC) relied upon strongly by Shri Sharma, learned counsel for the respondentassessee.	None
+The assesseefirm was the managing agent of two shipping companies.	None
+Under the managing agency agreement, the assessee was entitled to receive as commission ten per cent of the freight charged.	None
+Between 141947 and 31121947, a sum of Rs 1, 71, 885 from on company and Rs 2, 56, 815 from the other company became due to the assessee as commission at the aforesaid rate of ten per cent.	None
+In the books of account of the assessee, these amounts was credited to itself and debited to the managing companies.	None
+But what happened even before 31121947 is of relevance.	None
+In November 1947, the assessee desired to have the managing agency transferred to two private limited companies, Shoorji Vallabhdas Limited and Pratapsingh Limited, floated by the assesseefirm.	None
+Certain shareholders of the managed companies objected to the rate of commission and suggested that the commission should be either ten per cent of the profits of the managed companies or 2 1/2 per cent of the freight receipt.	None
+The Board of the Directors of the Malabar Steamship Company agreed with the said suggestion and invited the assesseefirm to reduce its managing commission to 2 1/2 per cent of the freight for the year as well as for the future years.	None
+The assessee accepted the said offer and agreed to voluntarily reduce its managing agency commission both in respect of that year as well as for the future years to 2 1/2 per cent of the total freight.	None
+A similar procedure was followed in the case of the other managed company (New Dholera Steamships Limited).	None
+On this basis, both the managed companies appointed the two private limited companies aforesaid as their managing agents at their extraordinary meeting held on 30121947  the appointment was to take effect from 111948.	None
+Subsequently, at the annual general meetings of two managed companies held in December 1948, the commission was reduced from the ten per cent of the freight 2 1/2 per cent as already agreed.	None
+The assessee accordingly given up seventyfive per cent of its earnings during the aforesaid year of account (141947 to 1121947) and disclosed only the remaining twentyfive per cent amount as its income in its assessment proceedings.	None
+The Income Tax Officer and the Appellate Assistant Commissioner held that the commission amount ten per cent of the freight had already accrued to the assessee during the previous year ending on 3131948 and since the assessee had given up seventyfive per cent of the said amount after such accrual, the whole of the commission amount, which was actually credited in the books of assessee, it includible in its income.	None
+On appeal, there was a difference of opinion between the two members of the Tribunal.	None
+On reference to the President, he held that even though the actual reduction took place after the year of account was over, there was in fact an agreement to reduce the commission even during the currency of the accounting year and hence, it cannot be said that the large income ten per cent) had accrued to the assesseefirm.	None
+Accordingly, the assessees appeal was allowed by the Tribunal.	None
+Thereupon, the following two questions were referred to the High Court under Section 66, viz.	None
+Whether the two sums of Rs 1, 36, 903 and Rs 2, 00, 625 are income of the previous year ended 3131948 ?.	None
+(2) If the answer to the first question is in the affirmative, whether they represent an item of expenditure permissible under the provisions of Section 10(2)(xv) of the Indian Income Tax Act, 1922, in computing the assessees income of that previous year from its managing agency business ?	None
+The High Court agreed with the view taken by the President of the Tribunal and answered the first question in the negative, i.e., in favour of the assessee and against the Revenue.	None
+It declined to express any opinion on the second question.	None
+This Court affirmed the approach adopted by the President of the Tribunal and the High Court.	None
+It pointed out.	None
+Here too, the agreements within the previous year replaced the earlier agreements, and altered the rate in such a way as to make the income different from what had been entered in the books of account.	None
+A mere bookkeeping entry cannot be income, unless income has actually resulted, and in the present case, by the change of the terms the income which accrued and was received consisted of the lesser amounts and not the larger.	None
+This was not a gift by the assessee firm to the managed companies.	None
+The reduction was a part of the agreement entered into by the assessee firm to secure a longterm managing agency arrangement for the two companies which it had floated.	None
+Hidayatullah, J., speaking for himself and J.C. Shah, J., observed that the facts of the case before them were identical to the facts of the case in CIT v. Chamanlal Mangaldas Co. and that the principle of the said decision squarely applied to the facts of the case before them.	None
+In the course of the judgment, the learned Judge observedIncome tax is a levy on income.	None
+No doubt, the Income Tax Act takes into account two points of time at which the liability to tax is attracted, viz., the accrual of the income or its receipt but the substance of the matter is the income.	None
+If income does not result at all, there cannot be a tax, even though in bookkeeping, an entry is made about a hypothetical income, which does not materialise.	None
+Where income has, in fact, been received and is subsequently given up in such circumstances that it remains the income of the recipient, even though given up, the tax may be payable.	None
+Where, however, the income can be said not to have resulted at all, there is obviously neither accrual nor receipt of income, even though an entry to that effect might, in certain circumstances, have been made in the books of account.	None
+This is exactly what has happened in this case, as it happened in the Bombay case CIT v. Chamanlal Mangaldas Co. (Bom) which was approved by this Court.	None
+We may also mention that when this case was cited before this Court in State Bank of Travancore it has been distinguished on the basis of the above fact, viz., that the agreement to give up seventyfive per cent of the commission was arrived at during the relevant previous year itself, i.e., before the close of the previous year and, therefore, what accrued to the assessee at the end of the relevant previous year was the commission at 2 1/2 per cent of the freight alone and not ten per cent.	Reasoning
+It cannot, therefore, be said that this case lays down any principle contrary to the one enunciated in Morvi Industries Ltd., Since the facts of the case in Chamanlal Mangaldas Co. are identical to the facts in Shoorji Vallabhdas Co. we do not think it necessary to refer to the facts of that case separately.	Reasoning
+Shri G.C. Sharma submitted that applying the real income theory, it must be held that no interest had really accrued to or received by the assessee for the said three assessment years (196970, 197071 and 197172) and that indeed, no such entries were made in the account books of the assessee.	Arguments of Respondent
+He submitted that, as a fact, no income was received and that the assessee cannot be asked to pay tax on income which it had not received.	Arguments of Respondent
+We answer this contention by repeating the words of Sabyasachi Mukharji, J. in State Bank of Travancore which we have extracted hereinabove.	None
+The concept of real income cannot be employed so as to defeat the provisions of the Act and the Rules.	Reasoning
+Where the provisions of the Act and the Rules apply, it is only those provisions which must be applied and followed.	Reasoning
+There is no room  nor would be permissible for the court  to import the concept of real income so as to whittle down, qualify or defeat the provisions of the Act and the Rules.	Reasoning
+For the above reasons, the appeals relating to Assessment Years 196970, 197071 and 197172 (in the case of Shiv Prakash Janak Raj Co.) are allowed and the appeal relating to Assessment Year 196869 (in the case of Shiv Prakash Janak Raj Co.) is dismissed as not pressed.	Decision
+For the same reasons, the other appeals are allowed.	Decision
+The judgment of the High Court in all these matters (except with respect to the Assessment Year 196869 in the case of Shiv Prakash Janak Raj Co.) is set aside.	Decision
+The questions referred to are answered in favour of the Revenue and against the assessee (except in the appeal relating to Assessment Year 196869 in the case of Shiv Prakash Janak Raj Co.)	Decision
+There shall be no order as to costs.	Decision

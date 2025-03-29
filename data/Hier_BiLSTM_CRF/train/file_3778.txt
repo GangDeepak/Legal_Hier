@@ -1,0 +1,92 @@
+ Bachawat, J. 1.	None
+On April 19, 1951, the plaintiffappellant instituted a suit in the Court of the Second Joint Civil Judge, Junior Division at Bagalkot, for possession of the suit properties or redemption of a mortgage and the taking of accounts on the allegation that defendant No. 1 was the usufructuary mortgagee under a mortgage deed dated  June 28, 1945 (Ex. 43).	Facts
+The defendants pleaded that the transaction of June 28, 1945 was an advance lease and not a mortgage, and they were protected tenants within the meaning of the Bombay Tenancy and Agricultural Lands Act, 1948 (Bombay Act LXVII of 1948) hereinafter referred to as the Act.	Facts
+On March 4, 1953, the trial Court passed the following decree10.	Facts
+(A) The deed Exhibit 43 is a composite document comprising of a mortgage and a lease.	Facts
+On taking accounts of the mortgage debt, it is found that plaintiff owed nothing to the defendants on the date of suit.	Facts
+The mortgage stands fully redeemed.	None
+(B)	None
+The plaintiff is at liberty to seek his remedy for possession of the suit lands in the Revenue Courts.	Facts
+(C)	None
+The plaintiff shall recover half the costs of the suit from the defendants and the defendants shall bear their own.	Facts
+On April 15, 1953, the plaintiff filed an appeal in the Court of the Assistant Judge at Bijapur, and the defendants filed crossobjections.	Facts
+On July 5, 1955, the first appellate Court held that the Civil Court had no jurisdiction to determine whether defendant No. 1 was a mortgagee in possession or a tenant, and passed the following decreeThe appeal is partly allowed.	Facts
+The decree of the learned trial Judge that nothing is due by the plaintiff to the defendants under the transaction (Exhibit 43) at the date of the suit and the plaintiff is at liberty to seek his remedy for possession of the suit land in Revenue Court is confirmed.	Facts
+The rest of the decree namely that the document (Exhibit 43) is a composite document showing a mortgage and a lease and about costs is set aside.	Facts
+Instead it is directed that the record and proceedings should go back to the Trial Court who should give three months time to the plaintiff after record and proceedings reach it for filing proper proceedings in the Tenancy Court for determining as to whether defendant 1 is a tenant.	Facts
+If the plaintiff does not institute those proceedings within the time allowed by the Trial Court, then the suit of the plaintiff for possession etc., should be dismissed ordering the parties to bear their own costs.	Facts
+If the proceedings are instituted by the plaintiff in the Tenancy Court, then the Trial Court should await the final decision of the said Tribunal.	Facts
+In case it is held by the Tenancy Court that the defendant 1 is not a tenant, then the Trial Court should proceed to pass a decree for possession of the suit lands from the defendants to the plaintiff and should order inquiry into mesne profits from the date of suit until delivery of possession and should reconsider the question of costs between the parties to the suit.	Facts
+On October 1, 1955, the plaintiff filed a second appeal in the High Court of Mysore.	Facts
+On December 7, 1959, the High Court dismissed the second appeal.	None
+The High Court heldThe lower Appellate Court having come to the conclusion that it has got no jurisdiction to interpret this document, should not have taken the accounts, treating the document as a mortgage.	Facts
+Therefore, I set aside that finding of the Assistant Judge.	Facts
+I confirm the finding of the Assistant Judge that the Civil Court has got no jurisdiction to interpret the document, Ex. 43 as to whether it is a mortgage or a lease.	Facts
+It is, therefore, directed that the record should go back to the Trial Court who should refer the issue to the Mamlatdar as to whether the defendant is a lessee under Exhibit 43, dated 28th June 1945 and in case it is held that the defendant is not a tenant, then the Trial Court will proceed to decide the suit on merits.	Facts
+If it is held that the defendant is a lessee and therefore, a tenant, then the suit will be dismissed.	Facts
+Consequently, the appeal fails and is dismissed with costs.	Facts
+Subsequent petitions by the plaintiff for review of this decree and for leave to file a Letters Patent Appeal were dismissed on April 14, 1960.	Facts
+The plaintiff now appeals to this Court by special leave.	Facts
+2.	None
+On behalf of the appellant.	Arguments of Petitioner
+Mr. Patwardhan contended that the jurisdiction of a Civil Court depends upon the allegations made in the plaint, the Civil Court has full jurisdiction to try a suit for recovery of possession of agricultural lands on redemption of a mortgage and the Mamlatdar has no jurisdiction to try such a suit, the plea in the written statement that the defendants were protected tenants did not oust the jurisdiction of the Civil Court to try the suit and the Civil Court should have tried and decided the incidental issue whether the defendants were mortgagees or protected tenants, instead of referring the issue to the Mamlatdar.	Arguments of Petitioner
+On behalf of the respondents.	Arguments of Respondent
+Mr. Gopalakrishnan disputed these contentions, and contended that the High Court rightly referred the issue for the decision of the Mamlatdar.	Arguments of Respondent
+3.	None
+The suit lands are agricultural lands within the meaning of the Bombay Tenancy and Agricultural Lands Act, 1948.	None
+The Act was passed with a view to amend the law relating to tenancies of agricultural lands and to make certain other provisions in regard to those lands.	None
+Land as defined in S. 2(8) of the Act covers land used for agricultural purposes including the site of dwelling houses occupied by agriculturists for the purposes inter alia of S. 29.	None
+Sections 2(10) (A), 4 and 4A define permanent tenants, tenants and protected tenants respectively.	None
+Section 29(2) provides that no landlord shall obtain possession of any land or dwelling house held by a tenant except under an order of the Mamlatdar, and for obtaining such order, he must make an application in the prescribed form within a certain time.	None
+By S. 29 (4), the landlord taking possession of any land or dwelling house except in accordance with the provisions of subs.	None
+(2), is liable to forfeiture of crops, penalties and costs.	None
+Section 70 (b) provides that for the purposes of the Act, one of the duties and functions to be performed by the Mamlatdar is to decide whether a person is a tenant or a protected tenant or a permanent tenant.	None
+Section 85 (1) provides that no Civil Court shall have jurisdiction to settle, decide or deal with any question which is by the Act required to be settled decided or dealt with by the Mamlatdar.	None
+Section 85A reads85A (1).	None
+If any suit instituted in any Civil Court involves any issues which are required to be settled, decided or dealt with by any authority competent to settle, decide or deal with such issues under this Act (hereinafter referred to as the competent authority) the Civil Court shall stay the suit and refer such issues to such competent authority for determination.	None
+(2) On receipt of such reference from the Civil Court, the competent authority shall deal with and decide such issues in accordance with the provisions of this Act and shall communicate its decision to the Civil Court and such Court shall thereupon dispose of the suit in accordance with the procedure applicable thereto.	None
+Explanation.	None
+For the purpose of this section a Civil Court shall include a Mamlatdars Court constituted under the Mamlatdars Courts Act, 1906.	None
+4.	None
+With regard to suits and proceedings by a landowner for possession of agricultural lands, the combined effect of Ss. 29, 70, 85 and 85A of the Act is as follows The Mamlatdar has exclusive jurisdiction to entertain an application by a landlord for possession of agricultural lands against a tenant, and the Civil Court has no jurisdiction to entertain and try a suit by a landlord against a tenant for possession of agricultural lands.	Reasoning
+The Mamlatdar has no jurisdiction to try a suit by a landowner for recovery of possession of agricultural lands from a trespasser or from a mortgagee on redemption of a mortgage, and the Civil Court has jurisdiction to entertain such a suit but if the defendant to the suit pleads that he is a tenant or a protected tenant or a permanent tenant and an issue arises whether he is such a tenant, the Court must refer the issue to the Mamlatdar for determination, and must stay the suit pending such determination, and after the Mamlatdar has decided the issue, the Court may dispose of the suit in the light of the decision of the Mamlatdar.	Reasoning
+5. Section 85A was introduced by Bombay Act XIII of 1956, which came into force on March 23, 1956 during the pendency of the second appeal in this case.	Reasoning
+The suit out of which this appeal arises was governed by the law as it stood before the introduction of S. 85A. But independently of S. 85A and before it came into force, the Bombay High Court in Dhondi Tukaram v. Hari Dadu, ILR (1953)	Reasoning
+Bom 969 (AIR 1954 Bom 100 ), held that the effect of Ss. 70 (b) and 85 read in the light of the other provisions of the Act was that if in a suit filed against the defendant on the footing that he is a trespasser he raises the plea that he is a tenant or a protected tenant the Civil Court had no jurisdiction to deal with the plea, and the proper procedure was to refer the issue to the Mamlatdar for his decision and not to dismiss the suit straightway.	Reasoning
+The Court observedTherefore, we hold that in a suit filed against the defendant on the footing that he is a trespasser if he raises the plea that he is a tenant or a protected tenant, the Civil Court would have no jurisdiction to deal with that pleaWe would, however, like to add that in all such cases where the Civil Court cannot entertain the plea and accepts the objection that it has no jurisdiction to try it, it should not proceed to dismiss the suit straightway.	Reasoning
+We think that the proper procedure to adopt in such cases would be to direct the party who raises such a plea to obtain a decision from the Mamlatdar within a reasonable time.	Reasoning
+If the decision of the Mamlatdar is in favour of the party raising the plea, the suit for possession would have to be dismissed, because it would not be open to the Civil Court to give any relief to the landlord by way of possession of the agricultural land.	Reasoning
+If, on the other hand, the Mamlatdar rejects the plea raised under the Tenancy Act, the Civil Court would be entitled to deal with the dispute on the footing that the defendant is a trespasser.	Reasoning
+6.	None
+In Dhondi Tukarams case, ILR (1953)	Reasoning
+Bom 969 (AIR 1954 Bom 100 ), the Court expressed the hope that the legislature would make suitable amendments in the Act.	Reasoning
+The Bombay Legislature approved of the decision, and gave effect to it by introducing S. 85A by the amending Bombay Act XII of 1956.Section 85A proceeds upon the assumption that though the Civil Court has otherwise jurisdiction to try a suit, it will have no jurisdiction to try an issue arising in the suit, if the issue is required to be settled, decided or dealt with by the Mamlatdar or other competent authority under the Act, and on that assumption, S. 85A provides for suitable machinery for reference of the issue to the Mamlatdar for his decision.	Reasoning
+Now, the Mamlatdar has jurisdiction under S. 70 to decide the several issues specified therein for the purposes of this Act, and before the introduction of S. 85A, it was a debatable point whether the expression for the purposes of this Act meant that the Mamlatdar had jurisdiction to decide those issues only in some proceeding before him under some specific provision of the Act, or whether he had jurisdiction to decide those issues even though they arose for decision in a suit properly cognisable by a Civil Court, so that the jurisdiction of the Civil Court to try those issues in the suit was taken away by S. 85 read with S. 70.	Reasoning
+Dhondi Tukarams case, ILR (1953)	Reasoning
+Bom 969 (AIR 1954 Bom 100 ), settled the point, and held that the Mamlatdar had exclusive jurisdiction to decide those issues even though they arose for decision in a suit properly cognisable by a Civil Court.	Reasoning
+The result was somewhat startling, for normally the Civil Court has jurisdiction to try all the issues arising in a suit properly cognisable by it.	Reasoning
+But having regard to the fact that the Bombay Legislature approved of Dhondi Tukarams case, ILR (1953)	Reasoning
+Bom 969 (AIR 1954 Bom 100 ), and gave effect to it by introducing S. 85A, we must hold that the decision correctly interpreted the law as it stood before the enactment of S. 85A.	Reasoning
+It follows that independently of S. 85A. and under the law as it stood before S. 85A came into force, the Courts below were bound to refer to the Mamlatdar the decision of the issue whether the defendant is a tenant.	Reasoning
+7.	None
+In Mudugere Rangaiah v. M. Rangaiah, ILR (1959)	Reasoning
+Mys 420, the plaintiff sued for a declaration that he is the kadim tenant in the suit land and prayed for a permanent injunction restraining the defendant from interfering with his possession.	Reasoning
+Both the plaintiff and the defendant claimed to be tenants under the same landlord.	Reasoning
+The defendant contended that the suit was not maintainable in a Civil Court in view of S. 46 of the Mysore Tenancy Act (Mysore Act No. XIII of 1952).	Reasoning
+The Mysore High Court held that the jurisdiction of the Amildar is limited to cases arising by or under the Mysore Tenancy Act, and the decisions that he is required to give under S. 32 of the Act were for the purposes of the Act and the aforesaid suit did not arise under any of the provisions of the Act and the Civil Court had, therefore, the jurisdiction to decide all the points in dispute in the suit including the question of tenancy and no provision in the Act laid down that a Civil Court was not entitled to try civil proceedings involving the determination of any question falling within S. 32 of the Act, though the Amildar was the competent authority to settle, decide and deal with those questions, had they arisen in proceedings under the Act.	Reasoning
+Sections 32 and 46 of the Mysore Act are similar to Ss. 70and 85 of the Bombay Act, but there are many points of distinction between the scheme and legislative history of the Mysore Act and those of the Bombay Act.	Reasoning
+The Mysore High Court considered Dhondi Tukarams case, ILR (1953)	Reasoning
+Bom 969 (AIR 1954 Bom 100 ), and also noted some of the points of distinction between the two acts.	Reasoning
+In the instant case, the question of interpretation of Ss. 32, 46 and other provisions of the Mysore Act does not arise, and we express no opinion on it.	Reasoning
+We must not be taken to express any opinion one way or the other on the correctness or otherwise of the decision in Mudugere Rangaiahs case, ILR (1959)	Reasoning
+Mys 420.	None
+8.	None
+Mr. Patwardhan also contended that in the second appeal preferred by the plaintiff the High Court had no jurisdiction to set aside the finding of the first appellate Court given in favour of the appellant, namely, the finding that nothing is due by the plaintiff to the defendants under the transaction, Exhibit 43.	Arguments of Petitioner
+There is no substance in this contention.	Reasoning
+The first appellate Court recorded inconsistent findings.	Arguments of Petitioner
+Having held that the Civil Court had no jurisdiction to determine whether defendant No. 1 was a mortgagee in possession or a tenant, the lower appellate Court should have stayed the suit pending decision of that question by the Mamlatdar, and until such a decision was given, the Court could not proceed on the footing that the transaction evidenced by Exhibit 43 was a mortgage and the defendant No. 1 was a mortgagee and hold that nothing was due by the plaintiff to the defendants under the transaction.	Reasoning
+The High Court had ample power to correct this error and to set aside this inconsistent finding in an appeal filed by the plaintiff, though the defendants had filed no appeal or crossobjections.	Reasoning
+9.	None
+In the result, the appeal is dismissed with costs.	Decision
+10.	None
+Appeal dismissed.	None

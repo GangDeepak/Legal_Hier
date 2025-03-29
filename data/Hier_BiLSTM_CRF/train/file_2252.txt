@@ -1,0 +1,74 @@
+Rajendra Babu, J. The appellants are the manufacturers of silver oxide zinc batteries (hereinafter referred to as batteries) supplied to Ministry of Defence (hereinafter referred to as MOD) and Hindustan Aeronautics Limited (hereinafter referred to as HAL).	Facts
+The issue in this appeal relates to the excise duty in respect of the batteries supplied to the MOD.	Facts
+The appellants supplied the batteries to HAL at a higher price than the price charge to MOD.	Facts
+The price charged of MOD was Rs.33,393/ and to HAL was Rs.53,993/.	Facts
+The prices charged were in terms of the contract entered into by the appellants with the respective buyers.	Facts
+Silver is one of the raw materials used in the manufacture of the batteries.	Facts
+In the case of supplies to MOD, there was a stipulation in the contract that the appellants would be supplied with the silver.	Facts
+MOD was holding the stock of silver in Bombay and Calcutta Mints and supplied the same to various manufacturers of batteries from whom it was purchasing the batteries.	Facts
+MOD used to obtain silver at Rs.2,500/ per Kg.	Facts
+from the Mints.	Facts
+After sometime, MODs stock of silver at Bombay and Calcutta Mints got depleted.	Facts
+Hence, they supplied the old life expired batteries to various manufacturers to recover the silver from those batteries and use the recovered silver in the manufacturing of the fresh batteries and the appellants were to give a rebate to the MOD in the price to be charged per battery.	Facts
+The appellants while invoicing the goods to the MOD, took the value of the silver used in those batteries as was recovered from the life expired batteries at the rate of Rs.2,500/ per kg.	Facts
+as against Rs.6,666/ per kg.	Facts
+which was adapted for the batteries supplied to HAL.	Facts
+According to appellants, the reason for taking the value of silver at Rs.2,500/ per kg.	Facts
+was that that the MOD was allowed to purchase the silver from the mint at the rate of Rs.2,500/ per kg.	Facts
+and according to the contract, the stipulation was that the price of the silver to be adapted for arriving at the price to be charged was to be Rs.2,500/ per kg.	Facts
+The Collector of Central Excise, Hyderabad, after noticing the difference in the price charged on the batteries supplied to MOD and HAL issued a show cause notice demanding differential duty on batteries supplied by appellants to MOD, on the ground that the market value of silver should be taken as the basis for determining the assessable value.	Facts
+In spite of demur the said demand was confirmed.2.	Facts
+On appeal, the Appellate Tribunal held that the price determined by the appellants for the batteries by adapting the lower silver price at the rate of Rs.2,500/ per kg.	Facts
+as against the open market price of Rs.6,666/ was a notional workout and the price indicated by the MOD is not reflective of the true value of the silver.	Facts
+The Tribunal held that as per Section 4 of the Central Excise Act, 1944 the price that is to form the basis for assessment is the price at which the goods are sold in the ordinary course of business and the sale to MOD cannot be taken to be the sale in the ordinary course of business.	Facts
+The sale of batteries to MOD was held to be a special arrangement and a notional price a silver was adapted.	Facts
+The Tribunal held that this cannot be considered as transaction in the ordinary course of business and the price which is chargeable in the open market should form the basis of assessment.	Facts
+It was held that price based on comparable goods was to be adapted as the price of the silver i.e. at the rate of Rs.6,666/ per kg.	Facts
+as was adapted in case of supply of batteries to HAL and dismissed the appeal.	Facts
+Hence this appeal.	Facts
+The question that arises for consideration is as to what is the assessable value of silver which is used in the manufacture of silver oxide zinc batteries supplied to MOD.	Issue
+Is it the price at which MOD got silver from the mint or the market price of the silver?	Issue
+The contention of the appellant is that the contract price at which the batteries are sold to MOD is the sole consideration of the sale of batteries to the MOD and on that contract price the assessable value of silver has to be determined.	Issue
+Relying on the first proviso to Section 4(1)(a), which speaks about sale of goods, two classes of buyers and the price at which the goods are sold to each buyer should be taken as the normal price of such goods in relation to each such class of buyers, the appellants contend that the price at which the batteries are sold of MOD shall be taken as the normal price of the batteries.	Arguments of Petitioner
+Appellants also rely on rule 5 of the Central Excise (Valuation) Rules, 1975.5.	Arguments of Petitioner
+The appellants contend that even if it is assumed that price is not the sole consideration in the transaction with MOD, the money value of the silver flowing from MOD to the appellant, i.e. Rs.2500/ per kg.	Arguments of Petitioner
+should be taken into account while determining the assessable value.	Arguments of Petitioner
+Appellants contend that the comparable price taken by the silver in determining the value of silver is not correct.	Arguments of Petitioner
+Comparable value under Rule 6(b)(ii) could be taken into account when the value of the excisable goods cannot be ascertained under Rule 4 or Rule 5.	Arguments of Petitioner
+Reliance is placed on Ashok Leyland Ltd. vs. Collector of Central Excise, Madras, 2002 (146) ELT 503 (SC) , in which it was held that sale of goods to different classes of buyers does not make normal price unascertainable as to attract Section 4(1)(d).	Arguments of Petitioner
+It is contended that the normal price of battery is the price at which it is sold to MOD and accordingly the value of silver is to be ascertained.	Arguments of Petitioner
+Respondents contend that normal price should be ascertained by reference to the transaction.	Arguments of Respondent
+Since the transaction with MOD is a special arrangement, the contract price cannot be taken into account as such transaction is not done in the ordinary course of business.	Arguments of Respondent
+Therefore, the market value of the silver should be taken into account.	Arguments of Respondent
+It is contended that in order to claim the benefit of the proviso, the appellant should show normal practice of whole sale trade.	Arguments of Respondent
+Since the supply of old life expired batteries to retrieve the silver forms a special arrangement it will not constitute a normal practice.	Arguments of Respondent
+It is contended that even if some raw material is supplied free of cost for the purpose of excise duty, the market value should be taken into account.	Arguments of Respondent
+Section 4 of the Central Excise and Salt Act deals with valuation of excisable goods which are chargeable to duty with reference to the value.	Reasoning
+Valuation is based ordinarily on the price thereof that is at the price at which goods subject to excise duty are sold by manufacturer to a buyer.	Reasoning
+In exceptional circumstances when the valuation cannot be so more that closest equivalent thereof is determined in the manner prescribed in the valuation Rules.	Reasoning
+Value for the purpose of the said Rules is value under Section 4 of the Act and is to be determined under Rules 4 and 5.	Reasoning
+Rule 6 has to be invoked only in situation when assessment of value of goods subject to excise duty cannot be determined under Rules 4 5.	Reasoning
+When the goods are not sold by the manufacturer but are used or consumed in the manufacture of other goods, the value is to be determined upon the value of compatable goods manufactured, and if that cannot be done on the cost of production, if any, which he would have normally earned as the sale of such goods.	None
+This view, we have set out above finds support, from decisions in Ashok Layland vs. CCE Madras, 2002 (146) ELT 503 Union Carbide (India) vs. CCE Calcutta, 2003 (158) ELT 15 , Burn Standard Company Ltd. vs. UOI, 1992 (60) 671 CCE vs. Dai Ichi Karkaria Ltd., 1999 (112) ELT 353.	None
+The assessable value of the silver should be taken at Rs.2500/ per kg.	None
+which is the rate at which MOD used to get the silver from the mint.	None
+The price charged by the appellants was in terms of the contract entered into by them with MOD.	None
+As per the terms of the contract, MOD was to supply the silver to manufacture the batteries.	None
+Since the stock of silver in the mint depleted, MOD supplied the old life expired batteries to retrieve the silver and to use the recovered silver in the manufacture of new batteries.	Facts
+As per terms of the contract, the appellants were to give a rebate to the MOD in the price to be charged per battery and this was the reason for the difference in prices between the batteries supplied to MOD and HAL.	Facts
+The value of the silver supplied to the appellants is determinable.	None
+Had the stock of silver in the mint did not deplete, MOD would have supplied silver from the mint.	None
+Since the stock depleted, MOD supplied old life expired batteries for the recovery of silver.	None
+This will not make the value of silver undeterminable.	None
+The value of the silver supplied would be Rs. 2500/ per kg., the price at which MOD would get the silver from the mint.	None
+The question of determining the assessable value of silver based on the value of the comparable goods would arise only when the value is undeterminable.	None
+The the present case that question does not arise.	None
+The supply of silver by MOD being one of the stipulation in the contract between MOD and the appellant, would constitute a normal practice of the wholesale trade in such goods.	None
+As per the first proviso to Section 4(1)(d), where in the accordance with the normal practice of the wholesale trade, goods are sold at different prices to different classes of buyers, each such price shall be deemed to be the normal price of such goods in relation to each such class of buyers.	Reasoning
+Therefore, the normal price of battery sold to MOD by the appellants is Rs.33,393/ and the assessable value of silver used in the manufacture of such battery is at Rs.2500/ per kg.	Reasoning
+and cannot take the market value of silver.12.	Reasoning
+The contract between the MOD and the assessee provided for supply of silver from the mint at a particular rate and had to be supplied by the MOD and in lieu thereof the appellants were allowed to retrieve silver from old used batteries, and their special feature cannot be ignored.	Reasoning
+Batteries of the nature in question are largely used only by MOD.	Reasoning
+Hence the view taken by the Tribunal down to adjudicating authority cannot be sustained.13.	Reasoning
+Hence, we allow this appeal and set aside the order of the Tribunal and thereby the order for differential cannot be enforced.	Reasoning
+Appeal allowed accordingly.	Decision

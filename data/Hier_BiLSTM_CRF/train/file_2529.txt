@@ -1,0 +1,87 @@
+Ruma Pal, J. The question to be decided in this appeal is whether the appellant was an exporter for the purposes of Section 80 HHC of the Income Tax Act, 1961.	Issue
+The appellant processes sea foods.	Facts
+It exported some of its products directly to foreign buyers but it was not an eligible export house under the Import and Export Police 198283 (referred to as the Policy) and it could not avail of the special facilities granted to eligible export houses under the Policy.	None
+An agreement was entered into between an export house and the appellant on 24th August, 1982 by which the appellant agreed to export the processed sea food in the name of the export house against purchase orders placed on the export house by foreign buyers so that the export house could claim the benefits under the Policy in consideration for which the appellant would be paid 2.25 of the FOB value of the goods exported.	None
+In terms of the agreement, the appellants processed sea foods were to be sold to the export house after the goods crossed the customs barrier.	None
+All formalities of export were to be completed by the appellant but the shipment would be on account of the export house.	None
+The Letter of Credit opened in favour of the export house by the foreign purchases would be endorsed in favour of the appellant.	None
+While the benefits from the agreement as far as the export house was concerned were limited to those available under the Policy, the appellant would not only be entitled to the entire sale proceeds realised by the export, but in terms of the agreement it could alone claim all the privileges available under the statutory provisions to an exporter, in addition to the commission of 2.25.	None
+The particular transaction with which we are concerned began with a purchase order placed on the export house by a buyer in California.	None
+The buyer opened a Letter of Credit in favour of the export house.	None
+The goods were duly shipped and the documents were handed over by the appellant to the export house for negotiation.	None
+The Letter of Credit was indorsed in favour of the appellant by the export house and the entire amount of the foreign exchange credited in the appellants account.	None
+The appellant then claimed deductions permissible to an exporter under Section 80 HHC of the Income Tax Act, 1961 for the assessment year 198384.	None
+Prior to its amendment in 1989, Section 80 HHC in so far as it is relevant read 80 HHC (1) Where the assessee, being an Indian Company or a person (other than a company) who is resident in India, exports out of India during the previous year relevant to an assessment year any goods or merchandise to which this Section applies, there shall, in accordance with and subject to the provisions of this section, be allowed, in computing the total income of the assessee, the following deductions, namely (a) a deduction of an amount equal to one per cent of the export turnover of such goods or merchandise during the previous year and(b) a deduction of an amount equal to five per cent of the amount by which the export of such goods or merchandise during the previous year exceeds the export turnover of such goods or merchandise during the immediately proceeding year.(2)(a).	None
+This section applies to all goods or merchandise (other than those specified in clause (b) if the sale proceeds of such goods or merchandise exported out of India are relievable by the assessee in convertible foreign exchange.	None
+The appellants claim for deduction was rejected by the respondent.	None
+The appellant preferred an appeal before the Income Tax Appellate Tribunal.	Facts
+The Tribunal allowed the appeal relying on the definition of the word export in Section 2(18) of the Customs Act which says that export means taking out of India to a place outside India.	Facts
+According to the Tribunal, when the goods cleared the customs barrier, the export house was nowhere on the scene and that the export process having been actually done by the appellant assessee and not the export house, the appellant was the exporter within the meaning of Section 80 HHC.6.	Facts
+In the context of these facts, the following question came to be referred to the High Court at the instance of the respondent Whether, on the facts and in the circumstances of the case, the assessee is entitled to deduction under Section 80 HHC of the Income Tax Act, 1961 in respect of exports (not done directly by the assessee) done through export house ?	Facts
+The High Court answered the reference against the assessee and in favour of the Revenue.	None
+The decision of the High Court is now impugned before us.8.	Facts
+It was contended by the appellant, relying on C.T. Ltd. and another v. Commercial Tax Officer and others, 104 STC 94 , that it was entitled to the benefits of the Section because it had, in fact, exported its products by selling them to the export house after the goods had crossed the customs barrier.	Arguments of Petitioner
+According to he appellant, the export applications were in the name of the appellant, the certificate issued by the export inspection agency showed the name of the appellant the column Name and address of the exporter, the bill of charges of shipping was in the name of the appellant, the Marine Products Development Authority had recognised the appellant as the exporter in respect of the exports done in the name of the export house the GR I form issued by the Reserve Bank of India under Section 18 of the Foreign Exchange Regulation Act, 1973 was in the name of the appellant, the Customs authorities had recognised the appellant as the exporter under Section 75 of the Customs Act in granting draw back on custom duties and the Bill of Lading showed both the appellant and the export house as the shipper.	Arguments of Petitioner
+All this, it was argued, showed that the appellant was the real exporter although for the purpose of the Import Export Policy, the export house had been shown as the exporter.	Arguments of Petitioner
+The only interest of the export house in the entire transaction was the benefits granted to an exporter by way of Import Replenishment (REP) licences as the foreign exchange realised by the export house for the sea foods exported has in fact been credited to the appellants account.	Arguments of Petitioner
+The respondents on the other hand contended that the documents showed that the appellant was acting as the agent of the export house and that there was no privity of contract between the foreign buyer and the appellant.	Arguments of Respondent
+It was pointed out that although the foreign exchange was ultimately credited in the appellants account in terms of the agreement between the export house.	Arguments of Respondent
+The appellant had been part to the declaration under paragraph 165 of the Import Export Policy that t he export house was the exporter and had received from the export house the commission of 2.25 for this.	Arguments of Respondent
+It was submitted thatthe question of title was irrelevant for the purposes of Section HHC and that what was important under the Section was by whom the foreign exchange was receivable.	Arguments of Respondent
+Finally it was submitted that the Central Board of Direct Taxes in circular No. 466 dated 14.8.1986 had clarified that the payment received from export houses by any manufacturer whose goods were exported through export houses would not be included in the total income of the manufacturer if such claim for noninclusion was supported by a certificate of the export house.	Arguments of Respondent
+In this case, there was no such certificate.	None
+On the other hand the export house had claimed had been allowed deductions under Section 80 HHC in respect of the export in question.	None
+Section 80 HHC requires (i) the assessee to export the goods and (ii) the sale proceeds to be receivable by the assessee in convertible foreign exchange.	None
+The foundation of the appellants arguments before us, as far as the first requirements is concerned, is the agreement between the appellant and the export house and in particular the clause which provides that the property in the goods would pass to the export house only after they had crossed the Customs barrier.	None
+However, as rightly contended by the respondent, the question of title or property in the goods exported is not relevant to Section 80 HHC.	None
+The Section does not in terms require the exporter to be the owner of the goods.	None
+Even Section 2(18) of the Customs Act does not include the idea of ownership within the definition of the word export.	None
+This may be contrasted with Section 5(3) of the Central Sales Tax Act, 1956 where the emphases is on the transfer of title by a last sale or purchasepreceding the sale or purchase occasioning the export.	None
+That is why in C.T. Ltd. and another v. Commercial Tax Officer and others, 104 STC 94 , relied on by the appellant, this Court held that although the State Trading Corporation (STC) was shown as the exporter of goods, since there was no sale to STC, STC merely acted as an agent of the assessee who had purchased the goods for export.	None
+This decision cannot be relied on to construe Section 80 HHC of the Income Tax Act.	None
+The object of Section 80 HHC is to grant an incentive to earners of foreign exchange.	None
+The matter will, therefore, have to be considered with reference to this object.	None
+The transaction commenced with the agreement between the Californian buyer and the export house.	None
+But for this contracted, there would be no export and no receipt of foreign exchange at all.	None
+In fulfillment of its obligation under the contract the export house had entered into an independent contract with the appellant.	None
+The appellant was not a party to the first contract.	None
+If the first contract were breached, the assessee could not demand the foreign exchange from the buyer.	None
+Again, if the goods were not exported, the foreign buyer could not look to the appellant for reimbursement.	None
+Admittedly, the shipment was also made by the appellant on account of the export house.	None
+This was in accordance with the agreement which specifically provided The Processors hereby agree to export in the name of the Export House frozen fish, Shrimps, Lobster Tails of the minimum F.O.B. value of Rs. 5 to 6 lacs (Rupees five to six lacs only).	None
+Furthermore, the appellant was party to a declaration to the concerned authorities under the Policy that the export house was the exporter.	Arguments of Respondent
+It may be that this was for the purpose of enabling the export house to reap the benefit of the Policy but it was also for the added advantage of the commission earned by the appellant from the export house.	None
+The export house had also claimed and been allowed deduction in respect of the amount realised by the export under Section 80 HHC.	None
+The appellant having allowed the authorities to act on that basis, did so at its peril.	None
+It cannot now disclaim the position.	None
+A somewhat similar situation was considered by this Court in Mineral and Metal Trading Corporation v. R.C. Mishra and others, 1993(201) ITR 851.	None
+In order to avail of the benefits of the barter system which entitled imports to be made against the goods exported, inter alia through Mineral and Metal Trading Corporation (MMTC), FerroAlloys Corporation Ltd. had exported goods to foreign buyers through MMTC.	None
+The purchase order which was initially placed on FerroAlloys by the foreign buyer was split into two contracts, one between the local supplier and the MMTC and the second between MMTC and FerroAlloys.	None
+Letters of Credit were opened by the foreign buyer in the name of MMTC and were endorsed by MMTC in favour FarroAlloys.	None
+As in the case before us both FarroAlloys and MMTC claimed Tax Credit Certificate under Section 280 ZC of the Income Tax Act, 1961.	None
+The High Court held that the Farro Alloys was the real exporter.	None
+This Court reversed the decision of the High Court and held that MMTC was the exporter for the purposes of Section 280 ZC All this was done as required by the system of barter.	None
+FarroAlloys availed of this system presumable because it was to its advantage.	None
+In fact, it appears that it was not able to sell the said goods otherwise.	None
+Be that as it may, whether by choice or by lack of alternative, it chose to route its goods through MMTC.	None
+It open to the FarroAlloys now to say that all this must be ignored in the name of external appearances and it must be treated as the real exporter for the purpose of Section 290 ZC.	None
+It wants to be the gainer in both the events.	None
+A case of heads I win, tails you loseFarroAlloys cannot come to the MMTC when it is profitable to it and disavow it when it is not profitable to it.	None
+It cannot have it both ways.	None
+Secondly, the phrase sale proceedsreceivable by the assessee in Section 80 HHC subsection (2), cannot be construed to mean sale proceeds ultimately received.	None
+Payment for the export was by the Letter of Credit.	None
+The Letter of Credit being in favour of the export house, the foreign exchange was receivable by it.	None
+That the export house may have chosen to transfer the foreign exchange to a third party under some independent arrangement would not make the third party the exporter.	None
+Whatever the internal arrangement between the export house and the appellant, as far as the Income Tax authorities were concerned, the export house would clearly be the exporter.	None
+Finally, different statutes, have conferred benefits and cast obligations on an exporter but none of the statutory provisions allows more than one person either to claim the benefit given or be subject to the obligation cast.	None
+For example, Paragraph 165 of the Import and Export Policy for the year 198283 states In respect of third party exports, i.e. where all or any of the export documents contained the names of two parties, the import replenishment licence as admissible under the import policy for Registered Exporters may be claimed by any of these two parties provided (i) the claimant is a Registered Exporter and is otherwise eligible under the Policy, (ii) the claimant produces a certificate of disclaimer from the other party in his favour, and (iii) the party granting the disclaimed is not itself debarred from receiving licences etc.	None
+under the Import (Control) Order, 1955.	None
+The paragraph recognises that there may be a situation where the export documents contain more than one name but the privilege of obtaining a REP licence can be claimed by only one.	Reasoning
+Similarly, the Circular No. 446 dated 14.8.1986 issued by the Central Board of Direct Taxes as well as the amendment in 1989 to Section 80 HHC, allow a supporting manufacturer to claim deductions in respect of profits of the export provided the supporting manufacturer furnishes a certificate from the export house, interalia, stating that the export house had not claimed deductions under the Section.	Reasoning
+Both the Circular as well as the amendment indicate that were it not for the clarification amendment, it would be the export house alone which could have claimed deductions under the Section a right which could be waived in favour of the supporting manufacturer.	Reasoning
+It was for this reason that the agreement between the appellant and the export house had divided the benefits and obligations obtainable by an exporter between them.	Reasoning
+Under clauses 7 and 8 of the agreement, the export house was alone entitled to claim the REP import licence benefits and all the accruing to an eligible merchant exporter under the terms of the Import Trade Control Policy.	Reasoning
+On the other hand, in clause 10 the export house confirmed that it would not claim benefits available from the Customs and Central Excise authorities and or any other Government Department in respect of the export of ships.	None
+It may be that in claiming the deduction under Section 80 HHC, the export house has violated this term of the agreement but that cannot make the appellant the exporter.17.	Reasoning
+The logical consequence of the Tribunals view would be that both the export house and the original manufacturer could claim to have exported the goods and be entitled to receive the foreign exchange, and both could consequently claim at different stages deduction under Section 80 HHC in respect of the same amountan outcome contrary to the language of the Section itself.18.	Reasoning
+For all these reasons, we affirm the decision of the High Court and dismiss the appeals with costs.	Decision

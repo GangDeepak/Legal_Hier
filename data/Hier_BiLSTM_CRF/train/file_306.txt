@@ -1,0 +1,26 @@
+ F. Nariman, J.	None
+In the present case, the Respondent No.2 was declared NPA on 21.07.2011.	Facts
+At that point of time, the State Bank of India filed two O.As in the Debt Recovery Tribunal in 2012 in order to recover a total debt of 50 Crores of rupees.	Facts
+In the meanwhile, by an assignment dated 28.03.2014, the State Bank of India assigned the aforesaid debt to Respondent No.1.	Facts
+The Debt Recovery Tribunal proceedings reached judgment on 10.06.2016, the Tribunal holding that the O.As filed before it were not maintainable for the reasons given therein.2.	Facts
+As against the aforesaid judgment, Special Civil Application Nos. 1062110622 were filed before the Gujarat High Court which resulted in the High Court remanding the aforesaid matter.	Facts
+From this order, a Special Leave Petition was dismissed on 25.03.2017.3.	Facts
+An independent proceeding was then begun by Respondent No.1 on 03.10.2017 being in the form of a Section 7 application filed under the Insolvency and Bankruptcy Code in order to recover the original debt together with interest which now amounted to about 124 Crores of rupees.	Facts
+In the FormI that has statutorily to be annexed to the Section 7 application in Column II which was the date on which default occurred, the date of the NPA i.e. 21.07.2011 was filled up.	Facts
+The NCLT applied Article 62 of the Limitation Act which reads as follows table Applying the aforesaid Article, the NCLT reached the conclusion that since the limitation period was 12 years from the date on which the money suit has become due, the aforesaid claim was filed within limitation and hence admitted the Section 7 application.	Facts
+The NCLAT vide the impugned judgment held, following its earlier judgments, that the time of limitation would begin running for the purposes of limitation only on and from 01.12.2016 which is the date on which the Insolvency and Bankruptcy Code was brought into force.	Issue
+Consequently, it dismissed the appeal.4.	Issue
+Mr. Aditya Parolia, learned counsel appearing on behalf of the appellant has argued that Article 137 being a residuary article would apply on the facts of this case, and as right to sue accrued only on and from 21.07.2011, three years having elapsed since then in 2014, the Section 7 application filed in 2017 is clearly out of time.	Arguments of Petitioner
+He has also referred to our judgment in B.K. Educational Services Private Limited vs. Parag Gupta and Associates, 2018 SCC OnLine SC 1921 in order to buttress his argument that it is Article 137 of the Limitation Act which will apply to the facts of this case.5.	Arguments of Petitioner
+Mr. Debal Banerjee, learned Senior Counsel, appearing on behalf of the respondents, countered this by stressing, in particular, para 7 of the B.K. Educational Services Private Limited (supra) and reiterated the finding of the NCLT that it would be Article 62 of the Limitation Act that would be attracted to the facts of this case.	Arguments of Respondent
+He further argued that, being a commercial Code, a commercial interpretation has to be given so as to make the Code workable.6.	Arguments of Respondent
+Having heard the learned counsel for both sides, what is apparent is that Article 62 is out of the way on the ground that it would only apply to suits.	Reasoning
+The present case being ?	Reasoning
+an application?	Reasoning
+which is filed under Section 7, would fall only within the residuary article 137.	Reasoning
+As rightly pointed out by learned counsel appearing on behalf of the appellant, time, therefore, begins to run on 21.07.2011, as a result of which the application filed under Section 7 would clearly be timebarred.	Reasoning
+So far as Mr. Banerjee?s reliance on para 7 of B.K. Educational Services Private Limited (supra), suffice it to say that the Report of the Insolvency Law Committee itself stated that the intent of the Code could not have been to give a new lease of life to debts which are already timebarred.7.	Reasoning
+This being the case, we fail to see how this para could possibly help the case of the respondents.	Reasoning
+Further, it is not for us to interpret, commercially or otherwise, articles of the Limitation Act when it is clear that a particular article gets attracted.	Reasoning
+It is well settled that there is no equity about limitation  judgments have stated that often time periods provided by the Limitation Act can be arbitrary in nature.8.	Reasoning
+This being the case, the appeal is allowed and the judgments of the NCLT and NCLAT are set aside.	Decision

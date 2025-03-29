@@ -1,0 +1,774 @@
+ L. Gokhale, J.1.
+These two Appeal Nos.702 and 703 of 2003 seek to challenge the common judgment and order of a Single Judge dated 8th August 2003 rejecting two Notices of Motion bearing Nos.2557 of 2002 and 2793 of 2002, both of which were taken out by the Appellant herein (original Plaintiff) in Suit No.3092 of 2002, which they have filed against Motorola Inc. and Iridium LLC, the Respondents herein (original Defendants).
+The two Motions sought orders in the nature of attachment before judgment and injunction for obtaining security for a decree that might be passed in the Appellants favour in the pending suit.
+Amongst others, the suit claims are (1) US 12,04,90,000 with further interest at the rate of 5 per annum on the principal amount of US 9,03,30,000 and (2) a sum of Rs.3,77,21,54,857 with interest at the rate of 12 per annum on the principal amount of Rs.48,11,00,000/. The Respondents, other than the original Defendants, were joined as additional Respondents.
+The two motions sought injunctions restraining these additional Respondents from paying over those amounts to the original Defendants.
+Those motions were rejected by the common impugned order and hence these two appeals have been filed.2.
+The points which arise for determination in these two appeals are common and hence both the appeals are heard and are being decided together.
+The appeals are being contested by Respondent No.1 only although other Respondents are served.
+At the request of the counsel for both the parties and as recorded on 5th September 2003 by us, the appeal is heard finally at the admission stage.3.
+Parties to the proceeding(i) The Appellant (hereinafter at times referred to as the Plaintiff Company) is admittedly a special purpose company floated by Indian Financial Institutions, and 80 of its equity is held directly or indirectly by Public Financial Institutions, Nationalised Banks and Public Insurance Companies, viz.
+IDBI, ICICI, SBI, Exim Bank, UTI, GIC and its subsidiaries, LIC, HDFC and Infrastructure Leasing and Financial Services Limited (for short IL FS) (which itself is promoted by UTI, HDFC and Central Bank of India).(ii)
+The balance 20 of the equity in the Plaintiff Company is held by Respondent No.1 (hereinafter at times referred to as Defendant No.1).(iii)
+The Appellant has been incorporated to finance global personal communications in India and to invest in Iridium Inc., a company specializing in such a system known as Iridium.4.
+Respondent No.1 is a multinational Corporation whose business interests span the globe.
+It has almost the status of the leader in the telecom business worldwide.
+Respondent No.1 is incorporated and registered under the laws of Delaware in the USA.
+It is the creator and developer of this Iridium System.
+Respondent No.2 Iridium LLC (hereinafter at times referred to as Defendant No.2) is another special purpose company which is the successor to a company by name Iridium Inc., which was a 100 subsidiary of Defendant No.1.
+Iridium Inc., was incorporated on 14th July 1991 to provide these Iridium services and merged into Defendant No.2 Iridium LLC on 19th July, 1996.5.
+SuitClaim in a nutshell(i) To put it in a nutshell, the Iridium System is supposed to be the first commercial wireless communication system that is being designed to provide global digital service to handheld telephones similar to todays cellular phones.
+The Iridium System was expected to provide (i) digital data, (ii) facsimile, (iii) paging, and (iv) geolocation services to subscribers.
+These services were to be delivered through a low earth orbiting satellite constellation.
+Some 66 satellites were designed to communicate directly with handheld subscriber equipments, with one another and with terrestrial interconnection points known as Gateways as well as with earthbased system control facilities.
+This was supposed to be a proven technology and investment was sought for further research and making it a commercial venture.
+It was expected to be particularly useful for the international business traveler, and was projected to have great commercial potential.(ii)
+However, the project did not give the expected results and failed technically and consequently became a commercial failure.
+It is the case of the appellant that the above referred IL FS (which is the contributor to the share capital of the Appellant) was induced by the Respondents to enter into agreements with them and to contribute huge amounts to the share capital of Respondent No.2.
+These agreements were subsequently assigned to the Appellant.
+It is their case that this investment was procured on the basis of fraud and or actionable misstatements and nondisclosure of vital information in disregard of duty of care, which would vitiate the entire transaction and, in any case, would become voidable leading to the claim for refund of the amounts which were thus procured on the basis of fraud and or actionable misstatement and nondisclosure in the Private Placement Memorandum (PPM) of 1992 which was a sort of prospectus seeking this investment.6.
+(i) Prayer (a) of this suit, therefore, seeks a declaration that the Stock Purchase Agreement dated 19th July, 1993 and the Supplemental Stock Purchase Agreement dated 15th September, 1994, which procured this investment of US 70 million, were void and non binding on the Appellant and, in any case, were voidable.(ii) Prayer (b) is about the Gateway Equipment Purchase Agreement dated 30th November 1995 (for short GEPA).
+This Agreement was entered into by the Appellant itself with Respondent No.1.
+The Appellant had entered into a second Agreement for this purpose with Respondent No.1 on 10th July, 1997.
+The investment under these GEPA was to the tune of US20,330,000.
+Both these Agreements as also other related System Purchase Service Provider Agreements are claimed to be vitiated for the same reason as mentioned earlier.
+Prayer (b) seeks a declaration that the GEPA dated 30th November 1995 and the restated GEPA dated 10th July 1997 and related System Purchase Service Provider Agreements are void voidable and not binding on the Appellant.(iii)
+Similarly the Appellant has made a claim for Rs.3,77,21,54,857/ for the loss and damage which is made of various counts such as (a) Rs.48,11,10,000/ spent in connection with construction, management and operation of Indian Gateway at Pune(b) Rs.1,29,70,000/ towards custom duty for the equipment of Gateway(c)
+Rs.2,82,32,000/ towards custom duty for hand sets etc.(d)
+Rs.2,99,53,20,000/ by way of operational losses till 31st March 2002.(iv)
+Based on this declaration, a decree is sought in prayer (d) for (i) the amount of US 1,20,490,000/ (consisting of principal amount of US 9,03,30,000/ with interest at 5 from the date of payment till filing of the suit) with interest at 5 on principal amount of US 90,330,000 arrived at as above, and (ii) Rs.3,77,21,54,857/ with interest at 12 on principal amount of Rs.48,11,00,000/ both from the date of filing till payment realization.
+The particulars of claim are enclosed to the Plaint at Exhibit C.7.
+The suit was filed on 16th September 2002.
+Notice of Motion No.2557 of 2002 was taken out therein with supporting affidavit of one Ravi Parthasarthi, authorized signatory of the Appellant, affirmed on 16th September 2002 against Respondents Nos.1 and 2 (original Defendants) and BPL Mobile Cellular Limited (additional Respondent).
+It was pointed out therein that the 1st Respondent had filed a Company Petition against the additional Respondent BPL Mobile Cellular Limited in the High Court of Madras, wherein consent terms had been filed and therein various amounts were payable by the additional Respondent to Respondent No.1 herein.
+The amounts payable therein were around Rs.100 crores and they were payable in six installments.
+Two of these installments were already paid leaving the balance of Rs.60 crores.
+Through prayer (a) and (b) thereof, the motion sought security for the amount claimed in the suit as well as attachment before judgment against such of the assets and properties of the Defendants, and particularly Defendant No.1, as are available in India, including all amounts payable or receivable, including the amounts receivable in the aforesaid company petition.
+Prayers (c) and (d) of this motion read as follows(c) That pending the hearing and final disposal of the present suit, the Defendants whether by themselves or through their servants or otherwise be restrained by an order and injunction of this Honble Court from removing from India, assigning, transferring, discounting, scrutinizing, or otherwise encumbering any assets or properties in India including any amounts payable to or receivable by, the Defendants, from any person or entity in India, including the amounts payable under the Consent Terms filed by and between the 1st Defendants and the respondents, in Company Petition No.185 of 2001, in the Madras High Court or from assigning until the sum of USD 120,490,000 and sum of Rs.377,21,54,857/ together with further interest from the date of filing of the present suit is either paid to the Plaintiff or deposited in this Honble Court or secured by a bank guarantee to the satisfaction of the Prothonotary Senior Master(d) That pending the hearing and final disposal of the present suit, the Respondents be ordered and directed to deposit in this Honble Court such amounts of money as are payable by the Respondents to the 1st Defendants under the Consent Terms filed by and between the 1st Defendants and the Respondents in Company Petition No.185 of 2001 in the Madras High Court.
+The learned Single Judge, then hearing the notice of motion, on hearing the counsel for the Appellant granted an exparte adinterim order in terms of prayer (c) on 16th September 2003.
+After a notice was issued and the counsel for Respondent No.1 were heard, this order was modified on 3rd October 2003 by another Single Judge and he restricted the injunction to the monies receivable by Respondents Nos.1 and 2 under the consent terms filed before the Madras High Court, i.e., for about Rs.60 crores.8.
+The Appellant subsequently took out the second Notice of Motion No.2793 of 2002, which was against the original Defendants and three more additional Respondents, i.e., Spice Telecom Ltd., Bharti Cellular Ltd. and Idea Cellular Ltd. Prayers (a) and (b) of this motion also sought security and attachment before judgment as in the earlier motion.
+Prayers (d) and (e) of this motion read as follows(d) That pending the hearing and final disposal of the present suit, the Respondents be restrained by an order and injunction of this Honble Court from paying any of the amounts mentioned in Exhibit A hereto the Defendants(e) That pending the hearing and final disposal of the present suit, the Respondents be ordered and directed to deposit the amount mentioned in Exhibit A hereto, in this Honble Court.
+Exhibit A to the motion mentioned the amounts that were due and payable from the three additional Respondents and which were US 70 million, US 10 million and US 5 million respectively.
+The adinterim order as sought in this motion has however been declined by the learned Judge hearing the motion on 21st October, 2002.9.
+Respondents contention in a nutshellThese motions were opposed by the Respondents No.1, the main reply being that of Shri Rajesh Madan, their Constituted Attorney affirmed on 13th March 2003.
+Rejoinder and further affidavits were filed thereafter.
+The Appellant filed its rejoinder thereafter.
+Extensive documents were produced by the parties before the learned single Judge and they relied upon a large number of Judicial authorities.
+Whereas the case of the Appellant was that it has been deceived and that the entire project was a fraud, Respondent No.1 contended that there was a fraud, Respondent No.1 contended that there was no fraud, that the Appellant had complete knowledge about the scheme and the risk therein, which were disclosed in the 1992 PPM, that their claim suffered from delay and laches and that it was essentially a case of commercial failure since in the meanwhile, the cellular technology had advanced much more and faster than expected, leading to a commercial nonviability of the digital system on which Iridium was based.
+If the venture had failed commercially, the Respondents could not be blamed and the Appellant will have to share the losses like all other investors and, therefore, there was no case on merits.10.
+The learned Single Judge, who heard the two motions finally, rejected the same by his common judgment and order dated 8th August, 2003.
+The learned Judge held that (i) no prima facie case was made out for the interim reliefs prayed and this was not a case of balance of convenience and irreparable injury to justify an injunction, and (ii) in any case, the interim orders as sought could not be granted either under Order XXXVIII Rule 5 or under Section 151 of the C.P.C.
+The learned Single Judge, however, continued the adinterim order dated 16th September 2002 as varied by order dated 3rd October 2002 for a period of 4 weeks thereafter.11.
+When these two appeals were filed against the aforesaid common judgment and order, a request was made by the counsel for the Appellant as well as Respondent No.1 that the appeals be heard finally at the admission stage.
+Accordingly the appeals are heard finally.
+The adinterim order as continued by the learned Single Judge has been continued by an order passed by this Bench during the pendency and disposal of these appeals.12.
+Additional documents permitted in appealIt had so happened that as recorded by the learned Single Judge himself in para 33 of his impugned order, at the last moment at the close of arguments before him, Respondent No.1 produced two letters, which were enclosed as Exhibits 1 and 2 to an affidavit dated 25th July 2003.
+The documents were produced to claim that the Appellant had the knowledge of the subsequent 1995 PPM.
+The learned Judge has allowed them to be produced in the interest of justice and the two letters have gone a long way to decide the matter in favour of Respondents Nos.1 and 2.
+When the present appeals were filed, the Appellant took out two motions therein, being Notice of Motion Nos.2591 and 2592 of 2003.
+In the affidavit in support of these motions affirmed on 3rd September 2003, the Appellant enclosed a letter of IDBI dated 5th December, 1995 to which the Minutes of the Joint Meeting of Indian Institutional Investors held on 14th November 1995 were enclosed as Exhibit A. At Exhibit B to this affidavit, were the Minutes of the 25th Meeting of the Board of Directors of Iridium India Telecom Limited held on 7th April 1999.
+According to the Appellant, these two documents were necessary to be looked into partly as an answer to the documents which the Respondents had produced before the learned Single Judge at the close of the arguments.13.
+Thereafter when these Appeals reached for hearing before this Bench, the matter was argued on some 8 days and again it was at the fag end of the arguments that Mr. Desai, learned Senior Counsel appearing for the Respondents, on the instructions of his clients, while tendering the written submissions for the convenience of the Court, tendered along therewith still some more documents which were not part of the record before the learned Single Judge.
+Mr. Kapadia, learned Senior Counsel appearing for the Appellant, therefore, objected to the documents being taken on record.
+He also pointed out that no motion was taken out nor any affidavit filed to justify placing of these documents on record.
+Mr. Desai, therefore, made an oral application to take out a motion to seek permission to produce the concerned documents.
+That motion has been taken out on 25th November 2003.14.
+That Notice of Motion No.3462 of 2003 taken out by Respondent No.1 herein in this appeal was allowed by this Bench by its order dated 12th December 2003 which has been since reported in 2004 (1) BCR 479.
+This Bench took a view that the documents sought to be produced had bearing on the knowledge of the Appellant and it would not be proper that the judgment be pronounced without these documents being considered or else it will leave a lacuna in the evidence on record.
+Respondent No.1, therefore, were permitted to produce those documents by relying on the power of the Appellate Court under Order XLI Rule 21 of C.P.C. so that entire material will be placed before this Court and the Court pronounces its judgment in a more satisfactory manner and no obscure elements remain.
+The Appellants were also permitted to produce the two documents that they had enclosed to the affidavit affirmed on 3rd September 2003 referred to earlier.
+Points arising for determination in appeal15.
+Thereafter this appeal has been argued extensively by the Counsel for the Appellant as well as of Respondent No.1 and quite ably to say the least.
+The Appellant has canvassed that the learned Single Judge has erred in taking the view that no prima facie case was made out to grant the injunction in the two motions as sought before him and that this was not a fit case to exercise the inherent powers of the Civil Court under Section 151 of the C.P.C. if not under Order XXXVIII Rule 5 thereof.
+As against that, the counsel for Respondent No.1 has submitted that the order is a well reasoned one, that the Appellant has failed to make out a prima facie case or of balance of convenience and any irreparable injury and, in any event, the powers under Section 151 could not be said to be available for exercise of jurisdiction, when an order under Order XXXVIII Rule 5 of the C.P.C. could not be passed.
+That apart, it was also submitted on their behalf that the Appeal Court should not interfere with the exercise of discretion of the Court of first instance and substitute its own discretion, and that the scope for its interference was very much restricted.
+In view of these submissions, the points which arise for our determination in these appeals are as follows(A)
+Whether the learned Single Judge erred in coming to the conclusion that the Appellant had failed to make out a prima facie case, balance of convenience in its favour and of irreparable loss to claim injunction(B)
+In any case, whether the learned Single Judge was right in holding that he could not grant the relief as sought by exercising the powers under Section 151 of the C.P.C. if not under Order XXXVIII Rule 5 thereof(C) Whether the power of the Appellate Court to interfere with the exercise of power by the Trial Court at an interlocutory stage was in any way restricted16.
+Before we deal with the submissions of the learned counsel for both the parties on the above points, it would be desirable to refer to the Chronology of relevant facts and events.17.
+(i) It is the claim of Respondent No.1 that since about 1988 they were developing a system known as IRIDIUM SYSTEM.
+During this period, Respondent No.1 and its industrial team spent more than 800 staffyears in an effort to develop this system.
+According to Respondent No.1 they spent during this period approximately 75 million on research, design and development relating to this system and by 1992 they believed that none of the proposed competing systems or their sponsors had developed the level of resources possessed by them.(ii)
+It is the Appellants case that in 1990 Respondent No.1 decided not to finance the Iridium venture on its own and further decided that the finance needed for this system should be brought in through Global tenders.(iii)
+It is an admitted position that on 14th July 1991 Respondent No.1 floated a subsidiary by name of Iridium Inc which was a special purpose company for dealing with the matters concerning the Iridium system.
+Iridium Inc was admittedly, a 100 subsidiary of Respondent No.1.18.
+Private Placement Memorandum of 10th August 1992 We will refer to the relevant provisions of 1992 PPM since the disputed investment has been induced on the basis thereof.(i) On 10th August 1992 Iridium Inc. circulated a Private Placement Memorandum (hereinafter referred to as the 1992 PPM).
+This document was circulated to describe the offering of shares of common stock of
+Iridium Inc.
+It was in the nature of a prospectus and contained annexures termed as Legal Documents annexed which contained copies of certain executed contracts, sample arrangement, forms, certificate of incorporation of Iridium, the amended byelaws of Iridium and the Motorola warrant.(ii)
+The 1992 PPM contained an Executive Summary, and overall view of the system, an overall view of the Gateway Service providers, market forecast and competition, summary of the projected and financial information, managements discussion and analysis of the projected financial information, space system contracts and related issues, Motorolas role and conflict of interest, spectrum and other regulatory matters, details pertaining to management, details pertaining to Iridium Corporate structure, terms of offering, risk factors, details of the US Federal income tax consideration and other information contained in Annexures A to E to the 1992 PPM.19.
+Though the 1992 PPM runs into 173 closely printed pages, it still stated that it did not contain all information which may be of interest to the prospective investors or to explain completely the complexities of the technologies or the regulatory and licensing consideration involved in the Iridium system.
+It called upon the prospective investors to consult with their own Counsel and advisors and undertake such investigation as they thought appropriate before investing in shares.
+It informed the prospective investors that the PPM and its documents were based upon projections with respect to the future development and performance of the company, Gateway operations and the services provided.
+That such projections reflected variety of assumptions which may or may not prove correct and small changes or inaccuracies in some assumptions may dramatically affect the results.
+IT stated that no representation was made as to accuracy or achievability on the assumptions or the projections based thereon.
+It stated that Goldman Sachs Co., acting as Placement Agent for this offering had not independently verified any of such information and assumed no responsibility for its accuracy or completeness.
+It stated that only those particular representations and warranties which may be made to investors in definitive, executed written agreements would have legal effect and that nothing contained in the documents or in any such definitive written agreements would serve or limit or eliminate in any way, any of the disclaimers made in the document.
+It stated that the information contained in the 1992 PPM was as presented on the date thereof and was subject to change without notice.20.
+The description of Iridium System as per 1992 PPM(i)
+The Iridium system was described in the 1992 PPM under the caption overview in the chapter giving Executive Summary as followsThe Iridium system is the first commercial wireless communications system that is being designed to provide global digital service to the handheld telephones similar to the Cellular phones.
+The Iridium system is also expected to provide digital data, facsimile, paging and geolocation services to subscribers.
+These services will be delivered through a low earth orbiting satellite constellation.
+The satellites that make up this constellation are designed to communicate directly with handheld subscriber equipment, with one another and with terrestrial interconnection points (gateways) as well as with earthbased system control facilities.(ii)
+Under the caption Global Coverage, there was a statement in the 1992 PPM relating to Global Coverage in the following termsIridium system has been designed to provide subscribers link e.g. (dial tone for voice service) on a global basis with certain limitations such as under severe or unusual conditions viz.
+(in nature or concrete canvons, such as Manhattan).
+These conditions typically prove trouble some for other forms of wireless communications, including Cellular.(iii)
+There was a statement relating to the services being Handheld services in the following termsIridium system is designed to serve handheld equipment, similar in size and weight to todays handheld cellular.
+The company believes that the Iridium system is the only commercial global satellite system proposed that will have the capability (link margin averaging 16 dB) for handheld digital voice service.
+The Iridium system is also being designed to provide data, facsimile, paging and geolocation services.(iv)
+There was another statement relating to Substantial Resource Expenditures to date of PPM in the following termsThe Iridium system has been under development for over four years.
+Between Motorola and its industrial team, more than 800 staffyears have been expended in the development effort.
+Motorola alone has spent approximately 75 million on the research, design, and development relating to the Iridium system.
+Motorola and the company believes that none of the proposed competing system or their sponsors has devoted close of this level of resources.(v)
+One more statement pertained to the System design incorporates Proven Technology and the same was in the following termsMost of the technologies of the Iridium system has already been successfully applied in a number of other operational systems, including systems used by NASA US Department of Defence.
+However, IRIDIUM system would be the first commercial system to integrate these existing technologies to form a global personal communications network.21.
+Dual mode phone, market forecast and attractive financial returnsIt was stated in this PPM that Motorola intended to develop a dual mode phone.(i)
+Motorola has agreed to develop and sell Iridium subscriber equipment and Iridium gateway equipment pursuant to reasonable to Motorola and others.
+In particular, Motorola intends to develop dualmode Iridium cellular telephones.
+In additional, Motorola has agreed to license others to manufactures and sell subscriber and gateway equipment on a similar basis.(ii)
+The Iridium System is projected to become operational in early 1998.
+Motorola and the Company project nearly 1.7 million total voice and paging subscribers by 2002 and nearly 3.4 million by 2007.
+Iridium revenues, net profit and annual cash flow are projected to reach approximately 4.0 billion, 1.9 billion and 1.7 billion respectively by 2002.(iii) Attractive Financial Returns
+The aftertax rate of return on an equity investment in Iridium is projected to be 32 over the period 1992 through 2013.
+In addition, Iridiums ancillary businesses, those of the gateways and service providers, are generally projected to provide attractive financial returns as well as strong cash flow, subject to certain assumptions.(iv)
+Dual Mode Phones to improve Market Access and Penetration Motorola has agreed to manufacture dualmode Iridium cellular telephones.
+These units are expected to operate both with a subscribers regional standard cellular service as well as with the Iridium system.
+This compatibility would allow Iridium service to be marketed as a premium global roaming service by cellular service providers around the world.
+This should position iridium to increase market access and penetration by permitting the Company to benefit from existing cellular distribution channels.(v)
+Market forecast and competition The market for Iridium services is the large and rapidly growing market for handheld personal voice, paging, data and facsimile communications around the world.
+The Company expects Iridium usage to come from seven principal market segments business travelers, highincome users, aeronautical users, governments, industrial users, rural applications and coastal marine users.
+Of these, the business traveler and high income segments are expected to be the most significant.
+These two segments are projected to generate 40 and 25 respectively of the Companys revenues in 2002.(vi)
+Overall Financing Strategy.
+The Company presently expects to require total capital of approximately 4.0 billion.
+This is made up of approximately 3.37 billion to purchase the initial Iridium constellation of satellites and system control facilities under the Space System Contract, approximately 0.46 billion for estimated payments of interest and approximately 0.19 billion for estimated net startup and operating expenses through 1998.
+After 1999, the Company expects to have positive cash flow after debt service.
+Subject to the discretion of the Companys board of directors and other considerations, the Company expects to pay dividends after 2000, but there can be no assurance that such dividends will be paid.(vii)
+Apart from representations made as above, an impression was given that this is the technology of immediate future.
+If you invest into it you will reap huge profits, but if you do not join the other countries of Asia Pacific Region, such as Japan, will exploit the absence of an Indian participant leaving those not joining to suffer.22.
+Rick FactorsUnder the caption Risk Factors, the investors were inter alia informed that to build the Iridium system the company and its suppliers would have to integrate a number of complex technologies.
+The integration of this large array of diverse technologies was a complex task that had not been attempted prior to the Iridium system.
+The integration project was further complicated by the fact that most of the hardware components associated with the Iridium system would be in space.
+Errors requiring changes to hardware components in space may require a premature satellite deorbiting with attendant costs and revenue loss.
+Operation of the Iridium system was also dependent on software.
+However, the satellites were designed such that the software which would operate therein could generally be modified by transmitting new versions through the constellations cross link network.
+Assumptions had been made as to how much power or link margin was required to maintain communications link between the satellites and the portable subscriber units.
+Although the Respondents believed that sufficient link margin would exist to maintain such communications, there would be times when the communications link could not be maintained.
+The financial projections set forth in the document were based on an assumption that the IRIDIUM system would become operational as currently designed.
+Though the satellite design had begun, not all technology issues had been resolved.
+The document mentioned that Motorola intended to develop a dual, mode Iridium Cellular telephone.
+There were several other statements contained in these voluminous documents but the aforesaid could be said to be essence of the representations made therein.23.
+Representation leading to the investment by the Appellant(i)
+It is the plaintiffs case that after 1992 PPM was circulated, senior officers representatives and employees of Respondent No.1 like Mr. Robert W. Kinzie, Mr. Robert Galvin, Mr. John Mitchell, Mr. Gordon Comerford and Mr. Gary Tooker, visited India and made representations to the senior officers of interested Indian companies such as IL FS, HDFC, VSNL, ICICI, UTI etc.
+These representations commenced in 1992 and continued till 1994.
+They have been referred to in paragraph10 of the plaint.
+It is the plaintiffs case that in one of these representations officers of defendant No.1 referred to the technologies as tested technologies.(ii) On 19th July, 1993 the first Stock Purchase Agreement was entered into between Iridium Inc.
+On the one hand and the earlier referred IL FS and a consortium of investors on the other.
+This agreement pertained to the sale and purchase of 8 lakhs shares at the price of 1000 per share.
+The total capital which was to be raised under this agreement was US 800 million.
+IL FS was given the option to purchase 40,000 shares at the price of 1000 per share and it was provided that this option shall automatically deem to be exercised on the date the permission of the RBI was received under Section 19(1)(e) of the Foreign Exchange Regulation Act, 1973.
+This option involved an investment of US 40 million over a period of time extending till 1995.
+It may be mentioned here that as per this document, the authorized capital stock of Iridium Inc. consisted of 16,75,000/ shares of common stock of par value 0.01, 20 shares of directors of company stock of par value .01 per share and 50,000 shares of series M convertible Preferred stock of par value .01 per share.
+It appears that the net value of the capital stock of Iridium Inc. was approximately 17,025/. The term investors under this agreement was defined as Each person named under the signature space under the caption investors.
+It may be stated here that the name of IL FS did not appear under the caption investors and under this agreement, they fell into a separate category i.e. Option holders.
+This fact is mentioned because clause7 of this Agreement referred to Representations, Warranties, Acknowledgments and Agreements of the investors.
+Under this caption it was mentioned that each investor was capable of evaluating merits and risks of the purchase of the shares and that in purchasing shares such investor had relied upon the advice of such investors own advisors, the representations and warranties of the company contained in the Agreement and the information contained in the Private Placement Memorandum.
+It appears that this clause was not applicable to option purchasers.(iii)
+This offering of US 800 million was closed by Iridium Inc on 29th July 1993 and US 300 million came to be raised under the said offering.
+Even after the closing, Iridium Inc. admitted other companies as investors.(iv)
+On 1st December 1993 a document styled as Confidential Information Statement came to be circulated by Iridium Inc.
+This document was circulated for the purpose of bringing Information up to date.
+Suffice it to say that this document did not place on record any failure of the system to deliver or function according to the 1992 PPM.
+There were no additional limitations or risks mentioned in this document in addition to those already mentioned in the 1992 PPM.24.
+Supplemental Stock Purchase Agreement(i)
+On 15th September 1994, Iridium Inc. entered into a Supplemental 1994 Stock Purchase Agreement with IL FS.
+Under this agreement IL FS agreed to purchase 30000 shares from the common stock of Iridium Inc. of the face value of US 0.01 at the price of US 1000.
+Under clause 15 of the said Agreement it was provided that the said Agreement constituted the entire agreement among the parties and superseded any understandings, agreements, or representations by or among such parties, written or oral made at any time prior to the Closing, that may relate in any way to the subject matter hereof, provided that the agreement would have no effect on any Existing Stock Purchase Agreement.
+This agreement did not contain a clause relating to any specific representations or warranties made by the investors IL FS.(ii)
+On 24th October 1994 the plaintiff company came to be incorporated in India under the Companies Act.
+As stated hereinbefore major financial institutions in India are the shareholders of the plaintiff company and the plaintiff company was incorporated as a special purpose company by the financial institutions in India to further deal with the Iridium venture.(iii)
+On 5th January 1995 Iridium Inc. came out with a second Confidential Information Statement and circulated the same with intent to bringing the information upto date.
+It needs to be stated that this Confidential Information Statement did not refer to any further risks or limitations of the Iridium system over and above those mentioned in the 1992 PPM.(iv) On 16th January 1995 a Stock Purchase Agreement was entered into between IL FS Limited and the plaintiff whereby IL FS agreed to sell its commitment to purchase 32000 total investors shares under the Stock Purchase Agreement dated 19th July 1993 and the commitment to purchase 30000 shares under the Supplemental Stock Purchase Agreement dated 15th September 1994 to the plaintiff.
+The consideration to the transfer of the shares to the buyer was that the seller was to be issued share capital of the face value equivalent to 26 million.
+The plaintiff agreed to indemnify the seller in all respect against all obligations and liabilities under the Iridium Share Purchase Agreement to be bound by the provisions of the Iridium Share Purchase Agreement as though the buyer was an investor as defined in the Iridium Sale Purchase Agreements and that the seller agreed to assign to the Plaintiff the sellers rights with respect to the shares under the Iridium Shares Purchase Agreements.
+There were other provisions which would not be of a much relevance.25.
+Form S1 filed by Respondent No.2 in the U.S. disclosing several limitations(i) On 14th July 1995 the Iridium Inc. which was then seeking to raise investments by sale of debt instruments to the American public, filed form S1 which is the Registration Statement under The Securities Act of 1933 with the Securities and Exchange Commission in Washington D.C.
+In this form, Iridium Inc. disclosed several additional limitations of the Iridium system.
+The limitations disclosed in this document were more severe than as contained in the PPM dated 10th August 1992 or in the Confidential Information Statement dated 5th January 1995.
+For example, it was stated that Iridium may also face competition in the future from Companies using new technologies and new satellite system which could render the Iridium system obsolete or less competitive.
+Such technologies even if not ultimately successful, could have a material and adverse effect on Iridium as a result of associated initial marketing efforts.
+Iridiums business could be materially and adversely affected if competitors began operation or existing telecommunications service providers penetrate Iridiums target markets before completion of the Iridium system.
+It was for the first time mentioned that the satellites which represented substantially all of the companies assets would have a limited useful life which could be assumed to be of 5 years.(ii)
+On 17th October 1995 the public debt offering was discussed at the meeting of the Finance Committee of Iridium Inc.
+One Shri S.K. Chakrabarti Chief General Manager of IDBI was present in this meeting held at Washington, D.C.
+It appears that the public debt offering was withdrawn by Iridium Inc. on the advise of Goldman Sachs Co. the underwriters and advisors to the issue and the equity securities committee of
+Iridium Inc.
+It further appears that at the said meeting, there was severe criticism against Goldman Sachs Co. by the shareholders of Iridium Inc. who were of the view that the various risks associated with the Iridium project were not properly assessed by them and the timing of the issue was wrong.
+We may state here that in the course of the hearing of the Appeal, we made several requests to Counsel for the Respondents to make the minutes of this meeting dated 17th October 1995 available to us but though an additional compilation of documents was permitted to be filed, this document has not yet been produced in this Suit.(iii)
+On 18th October, 1995 there was a meeting of the Board of directors and a separate special meeting of the stockholders of Iridium Inc.
+Shri S.K. Chakrabarti representing Iridium Inc. was present at both these meetings of the board of directors.
+One of the items which was to be discussed at these meetings, was the report of the technical advisory committee.
+The agenda provided that this item was on the agenda to accommodate any question that may arise on the report which was provided in table13.
+It appears that in so far as this item is concerned on the agenda, in the absence of objections, oral report on this item is not given.
+We may state here that the technical advisory committee report which was in the form of table13 was a document that we would have liked to peruse because the same would have indicated the nature of technical expertise regarding the Iridium system.
+However, this document also has not yet been filed in this suit or in proceedings therein.
+At the meeting dated 18th October 1995 the board of directors of Iridium Inc. resolved to raise 300 million from existing current equity investors and their affiliates preferably in the form of convertible prefer stock.(iv)
+On 31st October 1995, Iridium Inc. addressed a letter to Mr. S.H. Khan, Chairman and Managing Director of IDBI seeking that he and other investors subscribe to the convertible stock offering.
+This letter mentioned that within the next 2 weeks, Iridium Inc. would send to each investor the formal offering memorandum for such financing.(v)
+On 14th November 1995 there was a joint meeting of the Indian institutional investors.
+Mr. Chakrabarty who had been present at the 3 meetings in Washington held on 17th October 1995 and 18th October 1995 reported on the rejection of the debt offering by Iridium Inc. in America.
+The meeting ultimately concluded that the Indian investors, could take a final view regarding participation in the proposed offer if they could be satisfied about the prospectus and progress so far achieved about the implementation of the project and effectiveness of the measures being taken to mitigate various risks associated with the project.
+They concluded that Iridium Inc. should be requested to make a presentation at an early date and in the meanwhile, Iridium Inc. should be advised to furnish certain clarifications relating to enhanced participation by Motorola in the proposed offering.26.
+(i) Private Placement Memorandum of 20th November 1995It is the case of the Respondent No.1 that on 20th November 1995 Iridium Inc. came out with the prospectus terms of offering for raising additional equity in accordance with the Board Resolution dated 18th October 1995.
+This document reflected the additional risks and limitations as contained in the S1 form.
+The risks and limitations mentioned in this document were substantially greater than risks and limitations as mentioned in the 1992 PPM.
+The chapter relating to the risk factor contained several more headings and was much more voluminous than the 1992 PPM.
+Amongst the several categories of risks was the risk pertaining to Technology and Implementation Risks.
+In this it was mentioned that the integration of this array of diverse technologies was a complex task that had not previously been attempted.
+Some of the statements herein were as follows (a) That errors requiring changes in hardware components in space may require premature satellite replacement with attendant costs and revenue loss.
+(b) That system was dependent on software which was being or will have to be developed, integrated and tested and which would have to be reprogrammed if errors require changes.
+(c) That no assurance could be given that the software that were being developed or would have to be developed would be completed when required including integration and testing or that the software would function as required.
+(d)
+No assurance could be given that the integration of the technologies and software necessary for the effective operation of the Iridium system, including each gateway, will occur in a timely manner or without additional expenses, which may have a material and adverse effect in the company.
+(e) No assurance could be given as to when the Iridium system would become commercially viable.(ii) Severe Service Limitations acceptedIt was further mentioned that because the Iridium system was under construction and had not yet been deployed there could be no assurance that all of the expected features could be achieved.
+There would be certain service limitations or degradation in the voice due to the interference imposed by natural or manmade obstructions and that such limitation would vary sometime significantly as the satellites of the system moved across the sky and would also vary according to the nature of the equipment.
+This degradation would include inability to initiate or receive calls and interruption of service.
+These limitations would be more severe than the limitations experienced in comparable environment, and in cellular systems due to lower link margin in the Iridium system than those prevailing in cellular systems.
+Some limitations could be mitigated by moving to an area which had a specially clear view of the satellites.
+Minor degradation of service quality and availability could be anticipated to occur as widely spaced obstructions, such as trees, building and other natural and manmade obstacles were positioned between the satellite and the user.
+Larger and more densely spaced obstacles should be anticipated to introduce more significant limitations.
+Severe degradation of service quality and availability would be expected from time in densely packed urban environments.
+Service availability inside buildings was expected to be limited would vary with building construction and other relevant factors.
+Only extremely voice service was accepted to be available inside buildings which steel construction and metal coated glass typical of urban high rice buildings.
+The structure of the automobile would tend to obstruct the signal, service to portable telephone inside an automobile would have limitations which would vary with the type of vehicle.
+The significant reduction in signal strength associated with the use inside a moving automobile would make the effect of other environmental obstructions temporary but more pronounced.
+The Respondents believed that it would be possible to largely eliminate this loss of signal strength through the use of an optional portable antenna that could be quickly affixed to, and removed from, the exterior of the automobile.
+There was no mention of facsimile facility.
+In short, the Iridium system as described in the 1995 PPM did not paint a very rosy picture.
+The existing investors who had already invested in the stock of Iridium Inc. on the basis of the 1992 PPM would obviously face a Hobsons choice as they would have to decide whether to take the risk of investing further monies or to put at risk the monies already invested.27.
+Disputed correspondenceIt is the case of the Defendant No.1 that on 21st November 1995 the PPM dated 20th November 1995 was forwarded by Iridium Inc. to Mr. S.H. Khan, Chairman and Managing Director of IDBI.
+This letter is addressed to all the Directors of Iridium Inc. and Mr. S.H. Khan was one of such Directors on the board of
+Iridium Inc.
+The purpose of this letter was to transmit to Mr. Khan the formal offering of the financing offer to the tune of US 300 million, as per the terms contained in the Confidential PPM which was stated to be attached.
+It was the case of the defendant No.1 that copies of these letters were addressed to Mr. Ravi Parthasarthy, Managing Director of IL FS and Mr. Moosa Raza, Managing Director of the Appellant.
+Suffice it to say at this stage that there is no acknowledgement of this letter either by Mr. Khan, Mr. Parthasarthy or Mr. Moosa Raza of the Appellant.
+Mr. Ravi Parthasarthy filed an affidavit stating that he does not recollect having received this letter.
+Respondent No.1 relies upon a fax message of one Shri Chakravarti, Chief General Manager of IDBI dated 6th December 1995 to Respondent No.2 which refers to above letter dated 21st November 1995 as the one forwarding the PPM and informs Respondent No.2 that in their meeting of 14th November 1995 (which is prior to the PPM of 20th November 1995)
+the Iridium Investors had not taken any final decision on participating in the proposed offer.28.
+Gateway Equipment Purchase Agreement (GEPA) of 30th November 1995(i)
+On 23rd November 1995 there was a meeting of the board of directors of the plaintiff company.
+In the minutes of the said meeting, there is a reference to a letter of offer made by Respondent No.1 Motorola to the plaintiffcompany relating to the Gateway Equipment Purchase Agreement (GEPA) which was required to be executed prior to 30th November 1995.
+There is also reference to a commitment made by the plaintiffcompany to make the down payment in respect of the said Gateway Equipment Purchase Agreement by 30th October 1995, failing which delayed payment charges 3 p.a.
+for a 30 days delay, 6 p.a.
+for further delay upto 60 days was payable.
+The board resolved to enter into the Gateway Equipment Purchase Agreement with defendant No.1 Motorola.
+In the Minutes, there is also a mention that the board was informed that Iridium Inc. would send a formal offer to each of the investors relating to the issue of Preferred stock by Iridium Inc, which indicated that the PPM dated 20.11.1995 had not been received by the Plaintiff Company at least till 23rd November 1995.(ii)
+On 30th November 1995 the Gateway Equipment Purchase Agreement was entered into by the plaintiff with Iridium Inc.
+The Plaintiff Company thus became liable to pay the price for purchase of the Gateway Equipment and other Equipments as mentioned in the said Agreement.(iii)
+On 19th July 1996, Iridium Inc. merged with Respondent No.2 i.e., Iridium LLC.
+In view of the various Stock Purchase Agreements, the shareholding of Respondent No.1 i.e., Motorola in Respondent No.2 had been substantially reduced to 20.(iv) From December1996 onwards payments were made by the Plaintiffcompany under the Gateway Equipment Purchase Agreement.
+These payments were to continue from time to time till 5th March 1999.29.
+Restated GEPA of 10th July 1997On 10th July 1997 a supplementary Agreement to the Gateway Equipment Purchase Agreement was entered into between the Appellant and Respondent No.1 and the Gateway Business System Service Provider Business System Agreement was entered into by and between the Appellant and Respondent No.2 i.e., Iridium LLC.
+Under this agreement the Appellant became liable to pay further amounts to Respondents No.2.
+The payments under this Agreement were made from 22nd January 1998 till 21st January 1999.30.
+(i) On 11th June 1998 the Executive Committee of the board of directors of the Appellantcompany met in Mumbai.
+The representative of Respondent No.1 Motorola was present in this meeting by invitation and the meeting reviewed the possibility of an initial public offering (IPO) to be made by the plaintiff company on the Nasdaq exchange of USA between 8th September 1998 and 22nd September 1998.
+It is however, an admitted position that this IPO never fructified.(ii) On 6th August 1998 the Appellantcompany prepared a draft brochure in form F1 in the nature of a disclosure document for raising monies in the US market.
+A draft of this document was produced in these appellate proceedings by Respondent No.1 in order to show that prior to the preparation of this draft, the Appellantcompany had become aware of the enhanced risks and limitations of the Iridium system as such enhanced risks and limitations were contained in the body of the draft.
+It was mentioned in this document that subscribers to the Iridium handheld phone should expect degradation in service quality and availability to occur in environments where obstructions, such as trees, buildings and other natural and manmade obstacles, were positioned between a satellite and the user.
+The severity of this degradation would increase as the obstacles became larger and more densely spaced.
+Only extremely limited satellite voice service, or no satellite voice service, was expected to be available in densely packed urban environments or inside buildings with steel construction and metal coated glass common in many urban high rise buildings (including, in particular, in most hotels and professional buildings).
+That in addition, because the structure of automobiles would tend to obstruct the satellite signal, use of a handheld Iridium phone in a moving automobile would make the effect of environmental obstructions temporary but more pronounced.
+It was further mentioned that the Iridium system had not been designed to provide highspeed data and facsimile transmission capability.
+As a result, Iridium expected that the appeal of Iridium facsimile and data services would be limited.
+It may be mentioned that this document was produced in order to support the contention of the Respondent that the Appellants were well aware of the additional risks and limitations of the Iridium system and had approached this court on the false basis that they had discovered the fraud misrepresentation actionable grounds in January2000.31.
+Some of the other important events are as follows(i) In May1998 Respondent No.2 raised 350 Million from various investors.(ii)
+In or about October November1998
+the Iridium system was launched by the sending of satellites into space and according to the Appellant in the course of its gradual commissioning the Appellant and other investors noticed that there were shortcomings in the system and started making enquiries with the Respondents.(iii)
+In January1999, Respondent No.2 raised a further amount of US 242 million from various investors.(iv) in February1999
+the handheld instruments came to India and the Gateway in India started functioning to very poor response.(v)
+On 31st May 1999 IL FS which was a shareholder in the plaintiffcompany addressed a common letter to both the defendants inter alia stating that there were large number of complaints emanating in relation to the fundamental efficiency of the system.
+Based on the feedback received from the customers in India, it was the view of IL FS that rectification of system defects by Motorola would take some time.
+They had recently received a communication from Respondent No.2 that the fax feature could not be made operative though this was a major requirement of the vertical market.
+The letter mentioned that it was necessary to gain time until all system deficiencies were identified and corrected.
+It was suggested that instead of going in for restructuring, the Respondent No.2 should consider obtaining protection from creditors by filing Chapter11 proceedings and could then focus on working with Motorola to correct system deficiencies, and put its house in order.(vi)
+On 30th August 1999 Respondent No.2 i.e., Iridium LLC applied for bankruptcy in the US court under Chapter11.32.
+Events ultimately leading to the suit(i) According to the Appellants through the said Chapter11 Bankruptcy proceedings, in or about December99/January2000 they discovered the fraud misrepresentations on the part of the Appellant.(ii) That in the middle of 2000, settlement talks took place between the Appellant and the Respondents.(iii) On 5th November 2000 and 4th January 2001 two tolling agreements were entered into between the plaintiff and the Respondents under which immediate legal proceedings were not to be taken.(iv)
+In or about January2001 the satellites which were the main assets of defendant No.2 company were sold in the bankruptcy proceeding to one Collusy group for approximately US 25 million.
+In this deal the satellites which had been purchased by Respondent No.2 for approximately US 3600 million are said to have been disposed of in the deal brokered by Pentagon for US 25 million which was a fraction of the actual price, thus depriving the creditors of Respondent No.2 of an opportunity for making any real recovery of their dues in future.(v)
+On 12th April 2001 a legal notice was issued by the Appellant to the Respondents to which they received a reply on 2nd June 2001.33.
+Complaint by American Unsecured CreditorsOn 19th July, 2001 a complaint came to be filed by the Statutory committee of unsecured creditors in the US bankruptcy court against Respondent No.2 and other affiliated American companies jointly administered in the bankruptcy proceedings.
+The complainant outlined the procedures followed by the Respondents to raise monies from investors and claimed that the conveyance from Iridium to Motorola were all fraudulent as Respondent No.2 Iridium LLC, while being undercapitalized or insolvent had paid US 4.3 billion to Motorola in the 6 years prior to the filing of bankruptcy proceedings on 13th August 1999, and that Iridium has received less than an equivalent value in exchange for each of the transfers.
+For reasons given in the complaint it was claimed that each of the transfers was a fraudulent conveyance under Central US law.
+It was also contended that the conveyances were also fraudulent under the State law.34.
+Criminal ProceedingIn October2001
+the Appellant initiated criminal proceedings of cheating against the Respondents.
+It may be mentioned here that these proceedings have been quashed by this Court and the matter is subjudice in the Apex Court.35.
+In September2002 a Company petition for the winding up of the Appellant company came to be filed.
+To oppose this winding up petition, affidavits were filed on behalf of the Appellant Company expressing the hope that the Iridium system would work in the future on the deficiencies being removed under protections from bankruptcy proceedings in the US.36.
+On 16th September 2002 the Appellant filed the present suit in this court for the reliefs mentioned hereinabove, wherein the motions were moved as mentioned above leading to the impugned orders.37.
+On this background, we come to the first point for determination in this appeal.
+Whether the Appellant has made out a prima facie case, the balance of convenience is in its in favour or has suffered irreparable loss to claim injunctionAs far as this aspect is concerned, when one comes to the grant of an interlocutory injunction during the pendency of a legal proceeding, the Court has to exercise its discretion by applying three tests viz.
+(i) whether the Appellant has a prima facie case (ii) whether balance of convenience is in his favour, and (iii) whether he would suffered an irreparable injury if his prayer for interlocutory relief is disallowed.
+This has been well settled by the Apex Court and reiterated in Gujarat Bottling Co. v. Coca Cola, reported in (1995) 5 SCC 545.
+38.
+When we come to the frame of the present suit, this suit seeks an order and decree for certain sums of money through prayer (d) by way of restitution.
+This prayer is based on the declaration which is sought through prayers (a) and (b).
+The two prayers deal with the Agreements concerning the purchase of shares and purchase of Gateway equipment.
+It is submitted in the Plaint that the investment made on the basis of these Agreements was procured by fraud and or actionable misstatements and nondisclosure of vital information in utter disregard of duty of fairness and disclosure.
+Thus it is contended that the Agreements suffer from suggestio falsi and suppressio veri.39.
+The two motions are taken out in this suit praying for interim orders on the footing that the Appellant does have a prima facie case as above and the Respondents and particularly the 1st Respondent has no asset whatsoever in India to satisfy the execution of any decree that may be passed against them.
+The first motion was moved with respect to certain amounts which were receivable by the Respondent No.1 from the additional Respondent therein in a proceeding in Madras High Court.
+The second motion was similarly taken out with respect to three additional Respondents from whom certain monies were receivable by the 1st Respondent.
+It was submitted that the balance of convenience was entirely in favour of the appellant and irreparable injury will be caused to the Appellant in case the injunction as sought was not granted.40.
+When we see the Plaint to find out as to what are the averments to examine the prima facie case, what we find is that the Appellant has averred in para 3 of the Plaint that the sums involved in the suit were procured on the basis of representations which was false to the knowledge of the Respondents through it is further averred that these representations were subsequently discovered to be materially fraudulent.
+In the alternative, it is stated that there were misrepresentations and in further alternative is the statement in this regard of breach of duty of care owned by the Respondents to the Appellant and the same being actionable.
+It is submitted that the investment of US 70 billion was made entirely relying on these representations.
+Thereafter it is pointed out in para 5 of the plaint that Respondent Nos.1 and 2 were one and the same.
+The 1st Respondent was the single largest shareholder in the 2nd Respondent and most of the persons on the Board of Directors of the 2nd Respondent were deputed or seconded by the 1st Respondent.
+The only business of the 2nd Respondent in the Iridium System and in the project was operated under the three contracts viz.
+Space System Contract, Operational Maintenance Contract and the Terrestrial Network Development Contract.
+All these Contracts were awarded by the 2nd Respondent to the 1st Respondent and were totally one sided and lucrative to the 1st Respondent and grossly unfair to the 2nd respondent, under which the 1st respondent received excessive profits while saddling the 2nd Respondent with exorbitant losses.
+The 2nd Respondent was only a faade through which the 1st Respondent in fact operated.
+Therefore, it is submitted that Respondent No.1 is responsible for the damage caused through the representations in the PPM issued by Respondent No.2 and the veil should be lifted and Respondent No.1 should be directed to pay the damages.41.
+It is then submitted in the plaint that in view of the representatives in the 1992 PPM that investments in the Iridium System will be extremely rewarding that the predecessors of the Appellant invested the huge amount in the stocks of Respondent No.2.
+It was subsequently noticed that the System was a complete failure.
+The System was launched in November 1998 and the handsets were received in India in February 1999.
+It was then revealed that there were many deficiencies such as (a) the signals could not be picked up inside buildings and cars (b) the hand sets were extremely bulky and at times required antenna, (c) they failed to operate function properly, (d) there was an acute shortage of the operational hand sets, (e) the voice communication was very poor, (f) data, fax paging and geolocation could not be provided, and (g) the System was found to be less favourable when compared with other wireless System including cellular phones and was in fact inferior to the State terrestrial land based system.42.
+It is the case of the Appellant that at that stage it learnt that the Respondents had come out with the second PPM on 20th November 1995 which disclosed may more deficiencies, but a copy of the same was not made available to the Appellant.
+It is specifically submitted in para 24(i) of the Plaint that the same was deliberately concealed from the Appellant and the Appellant got it only from some of the other investors.
+It is the case of the Appellant that only when the commercial operations were launched in India in November 1998 and when hand sets received in February 1999 failed to deliver results, that the Appellant discovered the fraud.
+It is the case of the Appellant that it had no reason to apprehend anything prior thereto.
+It is at that time only when it made inquiries that it came to know about the 1995 PPM and S1 proceedings which were filed by the American investors.
+In fact, it had also thought of raising monies in the American market and had prepared a draft brochure on 6th August, 1998 which was prior to the launch of the System in India.43.
+When we peruse the judgment of the learned Single Judge, we find that the learned Judge notes that there is as such no denial of the fact that such deficiencies did crop up.
+The defence, however, has been that in 1992 PPM itself there were large number of disclosures and risk factors were already placed on record.
+In para 19 of the judgment, the learned Judge has referred to the assurances, which were contained in the PPM such as that there will be global coverage that the handheld service will make available the date, facsimile, paging and geolocation that there will be a dual mode and interchangeability and that there was a proven technology.
+The learned Judge has, however, commented in para 20 that there was a serious dispute between the parties as to intent and meaning of the representations.
+In para 16 of the Judgment, he has refused to draw any adverse inference against the Respondents on Appellants assertion that the Respondents themselves had rejected the proposal in 1990 to put in US 1 billion into this project.
+In para 21 of the judgment, the learned Judge has noted the comment of the Respondents that by proven technology it was meant that a technology which was prove in NASA and US Department of Defence, but what was contemplated was an integration.
+Having noted this, he has thereafter noted at the end of para 22 that whether the representations were made deceitfully or they were made honestly is a matter which can be properly gone into only at the time of trial of the suit.
+Having said this, however, against at the end of para 24 he has observed that the representations made in the 1992 PPM were conditional and clearly called upon the investors to make their own evaluation.
+He has emphasized the aspect that the PPM required the investors to consult their counsel or advisors before investment.
+Thereafter in para 27 onwards, the learned Judge has discussed the deficiencies which were declared in the 1995 PPM and the S1 Form which was filed by the Respondents in the U.S.
+Thereafter he has noted the contention of the Appellant that had they known about these deficiencies, they would not have made the investment (last part of para 27).
+However, the learned Judge has held in para 31 that the Appellant could not plead ignorance of the 1995 PPM evaluation because of the presence of Mr. S.H. Khan on the Board of Directors of Respondent No.2 as a representative of the Appellant.
+The learned Judge has noted that the signature of Mr. Khan does not appear in the Power of Attorney below Form S1.
+As recorded by him in para 33 of the judgment at the close of the arguments, he allowed Respondent No.1 to produce two letters dated 21st November 1995 and on that basis came to the conclusion that the Appellant had the knowledge of the 1995 PPM.
+The Appellant, according to the learned Judge, had therefore, made a palpably false statement that a copy of the 1995 PPM was not available to it.
+Thereafter the learned Judge has commented that there was delay of some 18 months in filing the suit.
+He therefore formed an opinion that there was no prima facie case for an interim order made out by the Appellant.44.
+Mr. Kapadia, learned counsel appearing for the Appellant, criticized the approach of the learned Judge where he had accepted that the project failed since it became a commercial failure.
+Mr. Kapadia submitted that this was not a case of mere commercial failure, but that of a technical deficiency, which the Appellant could discover only when the system became operational in India in November 1998 and the hand sets were received in February 1999.
+It is submitted that the Appellant had invested quite a huge amount of approximately Rs.500 crores.
+It was quite a big money even by international standards.
+A party investing amount to such an extent was entitled to full and complete disclosure.
+The Appellant had acted on the basis of the representations made to its predecessors and the 1992 PPM, which was elaborated through various representations by senior officers of the Respondents.
+They were clearly impressed and informed that the Iridium System had been duly tested and had a proven technology, it would offer global coverage through compact handheld telephones, and facilities such as data, fax, facsimile, page and geolocation will be provided.
+It will have a large market and the business travelers will be a major component thereof.
+As the events turned out, there was no global coverage, facilities such as data and fax were never offered even until the assets of Iridium were sold in bankruptcy in middle of 2001.
+Motorola has not denied this.
+Initially, it was declared that the System may not operate in Manhattan like canyons.
+However, later on it was declared that it was so found that it would not work even in automobiles or where there was an obstruction by objects like trees also.
+How such a system could compete with cellular phones45.
+According to the Appellant, it was not correct to say that the cellular technology had overtaken the digital technology.
+Motorola is a leader in the cellular technology also.
+Even at the time of 1992 PPM, it was aware that the cellular technology had made great strides and in the overview of the executive summary, it was stated that the System was to provide global digital service to handheld telephones similar to todays cellular phones.
+Mr. Kapadia submitted that this was nothing but an attempt, at the highest, to develop the technology at the cost of the financiers.
+The financiers had not invested the amounts for any technological research only.
+When more than Rs.500 crores were invested by the Indian financial companies, what was expected was an adequate commercial return.
+If what was promised was a motor car and what was finally made available was an autorickshaw, it was bound to fail in the expectations of the customers.
+One can understand that an automobile is promised with particular facilities and another one is manufactured with a few facilities less.
+But, as stated above, this almost became a situation of making available an autorickshaw when an automobile is promised.
+It could not be said to be a mere commercial failure, but a technical failure.
+If Motorola was contending that some 800 staff years had been put in and US 75 million were already spent on research, it is inconceivable that operating the system inside the buildings and cars should have been difficult.
+If Motorola knew that it did not have the technology but concealed its inability, it was a fraud.
+Alternatively, it would be, in any case, a misrepresentation if they believed it to be true, but in fact it turned out to be a failure.
+Mr. Kapadia submitted in this behalf that if they had any such proven technology and they made efforts over the years, they would have produced some reports in that behalf, but not a word was forthcoming as to how and why the proven technology of 1992 instead of improving with the passage of time failed to perform 6 years thereafter.
+As the 1992 PPM itself stated, national roaming was a common feature at that time, international roaming was something which was next logical development.
+The Appellant expected it to come up in view of the assertions made in the PPM that the Respondents had a prove technology with NASA and US Department of Defence.
+They had to form an overall impression by looking to the PPM in the context of the representation that was made in that behalf.
+They cannot be now told that there were many risk factors.
+The risk factors will have to be read in the context of the entire PPM.
+The risk factors indicated that sometime there could be some difficulty with a linkage with the satellite, and that not all the technological issues had been resolved, but the risk factors cannot be read to mean anything beyond that to nullify the entire project which is what had happened.46.
+Mr. Kapadia submitted that the fraud was discovered only when the System failed from November 1998/February 1999 onwards and when the information was received about the 1995 PPM.
+Much was sought to be made out of the letter sent to Mr. Khan dated 21st November 1995.
+The investment thereafter was in GEPA.
+GEPA was signed in the U.S. on 30th November 1995 by other officers.
+The contemporaneous meeting of the Appellants Board of Directors does not disclose receiving the 1995 PPM and, in any case, GEPA does not refer to the 1995 PPM.
+The Appellant having invested US 70 million in equity did not expect any sharp tactics.
+If there were any deficiencies, which were disclosed in the 1995 PPM, they were bound to have a bearing on the decision of signing the GEPA, but such disclosure of the PPM prima facie appears not to have taken place at all.
+If the Appellant had the knowledge, the Appellant may not have signed the GEPA because by that time it was not exactly necessary to have the Gateway in India since the System could work through other Gateways.
+It is in the absence of knowledge that the Agreement was signed and, in any case, operational deficiencies became known only in 199899.
+The service of any such letter on 21st November 1995 cannot take away the force of the submissions of the Appellant that sharp tactics were played with it.
+By such methods and attempts to impose knowledge on the Appellant, the fraudulent conduct of the Respondents becomes more glaring.47.
+Mr. Kapadia submitted that to understand the impact of the 1992 PPM and the meaning of wording thereof, the document had to be seen in its entirety.
+He submitted that it was no use emphasizing the risk factors and that it was a cleverly drafted document.
+He drew our attention to a judgment of Court of Appeal in Arnisons vs. Smith, (1989) 49
+Chancery Division 348.
+In that matter, the misgivings created by a prospectus were sought to be removed by subsequently issuing a circular.
+The circular was also vague.
+Commenting upon the clever use of language in such matters, it was observed by Lord Halsbury as followsThe prospectus appears to me to have been drawn up with the aim of conveying a wrong impression under words sufficiently near the truth to escape being treated as a misrepresentation, and I think that the circular was framed with a similar view to avoid bringing to the minds of the plaintiffs the real facts of the case while stating enough to enable the defendants to say that the plaintiffs were informed of those facts.
+I think therefore that the circular does not alter the case and that the appeal must fail.48.
+On DelayMr.
+Kapadia then submitted that the Appellant cannot be faulted on the ground of delay.
+The Respondents were not prejudiced by reason of delay on the part of the Appellant, and the delay by itself cannot be a ground for refusing interim relief unless it indicates any acquiescence on the part of the party concerned or unless the other party has altered its position to its detriment.
+Mr. Kapadia relied upon the judgment of the Apex Court in the case of Satyanarayan v. Yellojirao, AIR 1965 SC 1405 for that purpose.
+He submitted that the Appellant could not be said to have abandoned or waived its right by this delay.
+Any such knowledge, as sought to be attributed to the Appellant, also will not disentitle it from proceeding with its claim so long as the same is within limitation.49.
+Balance of convenienceAs far as balance of convenience is concerned, Mr. Kapadia drew our attention to the dicta in Dalpat Kumar v. Prahlad Singh, (1992) 1 SCC 719 , where the Apex Court observed that it would be sound discretion to find the amount of substantial mischief or injury which was likely to be caused to the parties if the injunction was refused and compare it with that which was likely to be caused to the other side if the injunction was granted.
+It is only on weighing the probabilities that the court has to take its decision.
+As far as the present matter is concerned, he submitted that the 1st Respondent admittedly had no immovable property in India nor do they have any movables except the receivables under the contracts with Indian companies and the shareholding in its subsidiaries in India.
+He pointed out that the said subsidiaries have not cared to file any affidavit undertaking to make their assets and monies available in the event any decree is passed against the 1st Respondent.
+The 1st Respondent was continuing to do their business in India and, therefore, since the Appellant had made out a prima facie case, it would be more proper to protect the interest of the Appellant.
+In the event such interim order is not granted and if the Appellant succeeds finally, the Appellant will have to go to U.S. to recover the amounts by executing the decree passed.
+Mr. Desai, learned counsel for Respondent No.1 had made a statement that the Respondents would not mind such a decree being executed in the U.S. and will not raise any question of invalidity of Indian decree on the ground of lack of jurisdiction at that point of time.
+Mr. Kapadia submitted thereupon that it was no solace to a party who has put in such a huge amount and would be driven in a further proceeding in execution.
+In his submission, no prejudice would be caused to the Respondents on the other hand if an interim order was granted.
+The financial organizations and banks supporting the Appellant were ready to file an affidavit that in the event the suit is dismissed, they will compensate the Respondents for whatever loss suffered due to the retention of the amounts in India.50.
+Irreparable injurySimilarly with respect to irreparable injury, Mr. Kapadia submitted that not granting any interim relief would cause an irreparable injury to the cause of the Appellant for the same reason as stated above and the Appellant will have to wait till the end of the trial and then proceed for an execution.
+As against that, the interest of the Respondents will be taken care of by the undertaking being offered by the financial organizations and banks supporting the Respondents.
+Counter on behalf of Respondent No.151.
+Mr. Desai, learned counsel for Respondent No.1, on the other hand, submitted that the learned Single Judge was absolutely right in coming to the conclusion that he had arrived at.
+The learned Single Judge had rightly emphasizes the fact that the 1992 PPM had clearly laid down what were the deficiencies and risks factors.
+Knowingly these investments were made.
+It was a commercial venture, and it having failed all those who wanted to benefit with the venture will have to suffer.
+There was no deception on the part of the Respondents.
+They had disclosed all the factors and knowingly the investments were made by the Appellant.52.
+Mr. Desai further submitted that even as far as the 1995 PPM is concerned, the respondents had clearly placed it on record that not merely Mr. Khan but other officers of the Appellant were clearly aware of the 1995 PPM.
+Inspite of that, the investment was done by the Appellant in GEPA.
+It was not the case of the Respondents that it was going to be a failure.
+They were making efforts and attempts were being made to improve the System.
+The cellular technology had, however, moved faster in the meanwhile and overtaken leading to a situation for which the Respondents could not be blamed.
+Mr. Desai emphasized the fact that the Appellant had prepared a draft prospectus in July 1998 for inviting investments from the American companies.
+It was another matter that they did not go ahead with that, but that showed that they expected the venture to succeed and that is what they had stated in the 1998 draft.
+The Appellant had defended the investment in Iridium System in its reply to windingup petition against it.
+This indicated that the Appellant had the clear knowledge of the Systems and its deficiencies which were also detailed in the 1998 draft.
+Mr. Desai submitted that the Gateway at Pune was presently operational as well.
+The only thing was that the traffic was less and it had its own limitation.
+He submitted that the System was used by the Defence Force even in India and it could not be condemned as a technical failure.
+He submitted that the conduct of the Appellant clearly indicated that they did not consider the knowledge of the service limitations of the Iridium System as vitiating factors or establishing any misrepresentation as claimed by them.53.
+Mr. Desai submitted that the 1992 PPM though spoke about a proven technology, it also stated that the System was still being designed and improved.
+He submitted that it had as much as 30 references with respect of future design work in connection with the Iridium System.
+It was also stated that the project was to become operational only in 1998.
+It had clearly stated that a number of complex technologies were to be integrated.
+In his submission, there was no deception or fraud.
+The judgment in the case of Armison (supra) relied upon by Mr. Kapadia was not apposite to the present case.54.
+Mr. Desai, therefore, submitted that the Appellant had failed to make out a prima facie case and the learned Judge was right in the view taken by him.
+He further made a statement that the Respondents were prepared to accept the decision of this court when finally rendered in the suit (subject to the right of appeal) and they will not challenge it on the ground of lack of jurisdiction when execution is initiated later on in U.S. He, however, submitted that the Respondents were having good business in India and it should not be obstructed by granting injunction of the kind which was sought.
+In his submission, the entire balance of convenience was in favour of the Respondents and the Respondents will suffer irreparable injury if any such injunction is granted.
+In his submission, the entire balance of convenience was in favour of the Respondents and the Respondents will suffer irreparable injury if any such injunction is granted.
+Their monies will get blocked for no fault of theirs and which should not be ordered.
+It will also affect such international ventures and investments.
+Finding on Point No.1 arising for determination in this Appeal55.
+With respect of Point No.1, we have considered the pleadings, the documentary material placed on record by both the parties, authorities relied upon by them as well as submissions by their counsel.
+As noted earlier, while examining the question of grant of an interlocutory injunction, one has to consider whether there is a prima facie case, whether balance of convenience is in favour of the Appellant and whether he would suffer irreparable injury if the relief is not granted, as laid down in Gujarat Bottling Companys case (supra).
+However, apart from the three tests, what the Apex Court has observed thereafter is very material.
+The decision whether or not to grant an interlocutory injunction has to be taken at a time when the existence of the legal right assailed by the plaintiff and its alleged violation are both contested and uncertain and remain uncertain till they are established at the trial on evidence.
+Relief by way of interlocutory injunction is granted to mitigate the risk of injustice to the plaintiff during the period before that uncertainty could be resolved.
+The object of the interlocutory injunction is to protect the plaintiff against injury by violation of his right for which he could not be adequately compensated in damages recoverable in the action if the uncertainty were resolved in his favour at the trial.
+The need for such protection has, however, to be weighed against the corresponding need of the defendant to be protected against injury resulting from his having been prevented from exercising his own legal rights for which he could not be adequately compensated.
+The court must weigh one need against another and determine where the balance of convenience lies.
+In order to protect the defendant while granting an interlocutory injunction in his favour the court can require the plaintiff to furnish an undertaking so that the defendant can be adequately compensated if the uncertainty were resolved in his favour at the trial.56.
+In the present case, what is alleged by the Appellant is fraud or misrepresentation on the part of Respondent No.1.
+Section 17 of the Indian Contract Act defines what is a fraud.
+The said section reads as follows17.
+Fraud means and includes any of the following acts committed by a party to a contract, or with his connivance, or by his agent, with intent to deceive another party thereto or his agent, or to induce him to enter into the contract(1) the suggestion, as a fact, of that which is not true, by one who does not believe it to be true(2) the active concealment of a fact by one having knowledge or belief of the fact(3) a promise made without any intention of performing it(4) any other act fitted to deceive(5) any such act or omission as the law specially declares to be fraudulent.
+Explanation.
+Mere silence as to facts likely to affect the willingness of a person to enter into a contract is not fraud, unless the circumstances of the case are such that, regard being had to them, it is the duty of the person keeping silence to speak, or unless his silence is, in itself, equivalent to speech.
+As far as misrepresentation is concerned, it is defined in section 18 and this section reads as follows18.
+Misrepresentation means and includes(1)
+the positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true(2) any breach of duty which, without an intent to deceive, gains an advantage to the person committing it, or any one claiming under him, by misleading another to his prejudice or to the prejudice of any one claiming under him(3) causing, however innocently, a party to an agreement to make a mistake as to the substance of the thing which is subject of the agreement.57.
+Thus, as can be seen, fraud includes the suggestion as to a fact of something which is not proved by one who also does not believe it to be true.
+As against that, misrepresentation is a wrongful positive assertion of something by a person who believes it to be true as such.
+In fraud, there is an active concealment of a fact by one having knowledge thereof, whereas a misrepresentation may be made innocently, but it leads to a party to an agreement to make a mistake as to the substance of the subject matter of the agreement.
+The principal difference between the fraud and misrepresentation is that in one case, the person making the suggestion knows that it is not true and in the other case, he believes it to be true, though in both cases it is a misstatement of the fact which misleads the other party.
+In the present case, it is the assertion of the Appellants that they have been misled by the Respondents as to the material particulars of the agreement.
+It is their case that in good faith they have put in huge funds and it is only when the hand sets arrived in India in February 1999 and the Gateway became operational that they realized that the whole project was a failure.
+There cannot be any dispute with respect to the fact that the Appellant did put in huge money in good faith.
+The question is whether any misstatement of fact was resorted to by the Respondents and whether it was so resorted to knowingly or unknowingly.
+There is no dispute with respect to the fact that the representations of the Respondent were accepted to be valid and good representations by the Appellant, that they acted bona fide there under and that the huge investment made by them based thereon has been a total waste causing a serious prejudice to them.
+As stated above, the questions whether there is a misstatement and secondly whether it is made knowingly to induce the Appellant to part with the huge amounts Or whether, in any case, it is a breach of duty without any intent to deceive which has led to an advantage to the Respondents If it is a willful act on the part of the Respondents, it will amount to a fraud and in the event it is a wrong representation unknowingly made but in breach of duty, it would still amount to misrepresentation.58.
+As far as the duty of exercising necessary and adequate care is concerned, the decision in the case of Directors C. of the Central Railway Co. of Venezuela v. Joseph Kisch 1867 English and Irish Appeals Vol.
+II 99 relied upon by Mr. Kapadia is quite apt.
+In that judgment, it is laid down that the rules which apply to false or deceptive representation in contract between individuals apply equally to contract between an individual and a company.
+No misstatement or concealment of any material facts or circumstances ought to be permitted in a prospectus issued to invite persons to become shareholders in a projected company.
+The public are, in such a case, entitled to have the same opportunity of judging of everything material to a knowledge of the true character of the undertaking as the promoters themselves possess.
+As held in that decision Where there has been fraudulent misrepresentation or willful concealment of facts, by which a person has been induced to enter into a contract, it is no answer to his claim to be relieved from it, that he might have know the truth by proper inquiry.
+The decision however undoubtedly lays down that it is the duty of the person who believes to have been misled to raise the objection at an early period, and not to be guilty of needless delay.59.
+As we have seen earlier, the Appellants case has been that it has been induced to part with a substantial amount of money, almost Rs.500 crores on the basis of the representations made by Motorola and its representatives.
+Accepting that the necessary information has been fully supplied, the Appellant participated in the project.
+As stated earlier, the representations of Motorola were that the Iridium System was based on a prove technology, that it would offer global coverage to compact hand set telephone holders, that the services provided will include data, fax, paging and geolocation and it will be comparable to cellular phones, and that it will be a strong commercial venture.
+The Appellant had put in their money into the project not merely for Research and Development (R D), but for good return on the investment made.
+It was the case of the Respondents that they had put in 800 staff years of research and 75 millions dollars earlier, and that similar services were already tested and operated by NASA and the American Department of Defence Forces, and the only thing that was expected was a proper integration.
+Inasmuch as national roaming had already been achieved, what was now expected was an international roaming to be provided to a business traveler.
+A huge investment was sought because some 66 satellites were to be made operational and earth stations known as Gateways were to be set up to contact the satellites.
+The project undoubtedly needed a further expenditure for research, but basically it is this expenditure on infrastructure which was supposed to be very costly.60.
+Having invested the money, the Appellant expected good result from the Respondents.
+What they got in turn was a very heavy hand set which was undoubtedly unwieldy.
+It was of course quite costly compared to the cellular phones.
+The four facilities promised were not available and whereas initially the difficulties were projected only in Canyon like buildings such an in Manhattan, ultimately what was seen was that hand sets were not at all useful even in automobiles and when there are obstructions even by trees.
+There is no dispute about all these failures.
+It was submitted on behalf of the Respondents that the instruments were found to be useful for the persons working on oilrigs and in deserts.
+However, the case of the Appellant was that the hand sets were sought not merely for persons working in oilrigs or those crossing the deserts.
+They were meant for the international business travelers and thereafter to a large number of consumers of telecom business to make it a successful commercial venture.
+It was submitted on behalf of the Respondents that the cellular technology overtook in the meanwhile.
+On this aspect also, it is seen that Respondent No.1 is a leader in cellular technology.
+This is admitted in their first 1992 PPM.
+Respondent No.1 contended that it was a commercial failure inspite of huge technical efforts, but in that case, the Respondents were expected to place on record the material data of the efforts made for the technical success.
+The record indicates that such material must exist.
+The balance sheets of Respondent No.1 for 4 years prior to 1992 could have been produced to show investment of US 75 million in research and its utilization.
+Documents to show as to how 800 staff years of work had been put in prior to the issuance of the 1992 PPM could have been produced.
+Documents to show that the technology was proven to be workable by NASA and U.S. Department of Defence could have been produced.
+The technical report referred in the minutes of the Board meeting of Respondent No.1 is also not produced.
+In fact, there is no factual scientific technical data produced to indicate that any proven technology was available with Respondent No.1 in 1992.
+No documents have been produced to show what efforts were made thereafter towards the success of the venture and how and where it has failed.
+In the absence of data, it would certainly be permissible for the Appellant to submit that there was no such material to indicate any such technological efforts and that right from the inception, it was a fraud.
+Alternatively, in any case, it is the case of the Appellants that they have acted to their prejudice on the basis of the representations, which undoubtedly have proved to be unjustified and untrue.
+In that case, it is submitted that if not a fraud, it is a misrepresentation, for which also it is the Respondents alone who are responsible.61.
+When we are examining the case of the Appellant for interlocutory order, we are not required to give a finding that they have foolproof case of fraud or misrepresentation.
+We have to see whether the Appellant has made out a case of existence of legal rights and their violation due to fraud or misrepresentation as claimed and the resultant prejudice if protection is not granted.
+We have to see if the Appellant has made out a case for protection until the matter goes for trial.
+In Martin Buros Ltd. V. R.N. Bannerjee AIR 1958 SC 79 the question before the Apex Court was with respect to the order of the Labour Appellate Tribunal (LAT).
+The LAT had to determine on the material before it as to whether the employer had made out a prima facie case for the termination of the employees service.
+In that context, the Apex Court in para 27 stated about the prima facie case in the following words27.
+A prima facie case does not mean a case proved to the hilt but a case which can be said to be established if the evidence which is led in support of the same were believed.
+While determining whether a prima facie case had been made out the relevant consideration is whether on the evidence led it was possible to arrive at the conclusion in question and not whether that was the only conclusion which could be arrived at on that evidence.
+If the Appellant has no such case, it will certainly not get the interim order, but if it has made out any such case, it cannot be denied it either.62.
+In the present case, the Appellant has contended that it has lost its investment completely.
+So also is the grievance of the unsecured creditors who have filed the complaint in the American Court of Bankruptcy.
+They have referred to the procedure adopted by the Respondents to raise monies from investors.
+They have pointed out that the conveyances from Iridium to Motorola were all one sided and fraudulent and that Iridium LLC, while being undercapitalized or insolvent had paid US 4.3 billions to Motorola in the last 6 years prior to filing the bankruptcy proceedings in August 1999.
+They have pointed out that Iridium has received less than an equivalent value in exchange for each of the transfers.
+It was contended that all those transfers were fraudulent conveyances under the law of the States as well as the Federal U.S. Law.
+And that Motorola has received Rs.19,500 crores from iridium over the years.
+Mr. Madan of Motorola in para 36 of his reply his denied this, yet has thereafter stated that the 1st Respondent is concurrently assessing the precise amounts of money it received from Iridium Inc and the 2nd Respondent under each contract.
+If it is the case of Motorola that it is a failed commercial venture, normally in all such ventures all persons participating lose money.
+How is that in the present controversy everybody has lost money whereas Motorola appears to have gained Motorola has been paid under various contracts.
+It has also been paid under the Gateway Equipment Agreement and ultimately Iridium LLC has become bankrupt.
+Is it not a case for examining whether there was a design behind the entire project and that the design was only to defraud and, in any case, is it not a case of a misrepresentation due to which the Appellant has also suffered and in which case, should it not get back the money that was procured from it on the basis of such misrepresentation63.
+The defence of the Respondents has been that the risk factors were disclosed all throughout and that the Appellant has taken its own decisions.
+In this behalf, it is material to note that in the 1992 PPM it is stated that small changes or inaccuracies in assumptions may dramatically affect the result.
+What are those small changes and inaccuracies No material has been placed so far before the Court.
+No affidavit whatsoever either of Robert Kinzie or any of the officers who made the representations leading to the investment by the Appellant has been made.
+It is possible that all this material may be placed at the time of the trial.
+However, as of now in the absence of these particulars, can the Appellant be faulted if it contends that the investment made by it had been procured on the basis of fraud or misrepresentation As of now, until the contrary is proved, the dicta in Arnison v. Smith quoted earlier will continue to apply, namely that the proceedings appear to have been drawn to convey wrong impression while, at the same time, attempting to escape from being treated as misrepresentation.
+The observations of Lord Halsbury in Aarons Reefs Ltd. v. Twiss 1896 PC 273 at page 281 of the report are quite illuminating, where it is observed as followsIt is said there is no specific allegation of fact which is proved to be false.
+Again I protest, as I have said against that being the true test.
+I should say, taking the whole thing together, was there false representation I do not care by what means it is conveyed by what trick or device or ambiguous language all those are expedients by which fraudulent people seem to think they can escape from the real substance of the transaction.
+If by a number of statement you intentionally give a false impression and induce a person to act upon it, it is not the less false although if one takes each statement by itself there may be a difficulty in showing that any specific statement is untrue.
+Similarly in S. Pearson Son Ltd. v. Lord Mayor Co. of Dublin 1907 PC 351, an action of deceit for damages for fraudulent representations was defended on the basis of a provision in the contract that the Appellant must verify all representations for himself and not rely on their accuracy.
+It was held that the contract truly construed, contemplated honesty on both sides and protected only against honest mistakes and that no one can escape law for its own fraudulent statement by inserting in a contract a clause that the either party shall not rely upon them.64.
+Thus it is the overall impression given to the investors which is material.
+In the present transaction, the impression given as claimed by the Appellant, was undoubtedly that this was going to be a successful venture though there are certain improvements which were still to be carried on.
+A good investment be made and it will get very good return.
+It is this appeal which has landed the Appellant into difficulties.
+Respondent No.2 was only the operating face.
+It was Respondent No.1 which was the originator and the operator of the entire scheme and it is Respondent No.1 who has benefited through it and is claiming that the venture has failed commercially.65.
+Apart from relying upon the socalled frankness of the 1992 PPM, it is also submitted in defence that the 1995 PPM should be deemed to be known to Mr. Khan, a representative of the Appellant on the Board of Directors of Iridium.
+It is also claimed that some other officers also knew it.
+It is submitted by the Respondents that the Appellant invested in GEPA inspite of this knowledge.
+The Respondents further case is that a draft document seeking further investment from the American investors was prepared by the Appellant in August 1998 and even in September, 2002 the project was defended when a winding up petition was filed against the Appellant.
+Now, what is to be noted is that the 1995 PPM is of 20th November 1995 whereas GEPA is signed in US on 30th November 1995, i.e., within a few days thereafter.
+There is no official communication from the Respondents to the Appellant of the 1995 PPM and S1 Form which the Respondents had filed in the American Court.
+There is no proof of service of any such document though a submission is sought to be advanced on the basis of the letter written on 21st November 1995 to Shri Khan and reply of Shri Chakravarti dated 6th December 1995.
+Besides, merely because the Appellant was an existing equity investor, it is stated in para 79 of Mr. Madans reply that the Appellant must necessarily have therefore received a copy of the 1995 PPM.
+Again while denying that copy of 1995 PPM was never furnished to the Appellant, it is however stated in the same para There was no question or obligation on the part of the 1st Respondent to furnish a copy of the 1995 PPM to the Appellant.
+The learned Single Judge is however impressed by the submission based on these letters and has held that the Appellant was disentitled to an equitable relief in view of the false stand taken by them.
+In this connection, it is material to note that the Respondents were dealing with a company, i.e., the Appellant, which had already invested US 70 millions and were expected to further invest US 20 millions.
+It is surprising and shocking that the correspondence relied upon is with three officers.
+Howsoever highly they may be placed, their knowledge cannot be equated with the knowledge of the Appellant.
+If the Respondents are contending that they were truthful and honest, there should be an official communication addressed to the Appellant and the same is undoubtedly lacking.
+The letter dated 21st November 1995 is addressed to Mr. Khan in his capacity as a member of the Board of Directors of Respondent No.2, though representing the Appellant on the Board.
+The learned Judge has found fault with the Appellant for not filing the affidavit of Mr. Khan.
+The appellant has denied having then received the 1995 PPM and, in any case, the Appellant did not suspect anything foul at that time.
+It is their assertion that they realized about the failure of the system and of the deception only when the system became operational in November 1998 and the hand sets became available in February 1999.
+Therefore, although it is quite understandable for Respondent No.1 to contend that the Appellant must have received the 1995 PPM at that time, this by itself cannot deny them the equitable relief.
+Thereafter a correspondence has ensued between the parties and attempt to settle the dispute was made, and failing that finally the suit is filed in September 2002.
+Undoubtedly, some time has passed in the meanwhile.
+However, the Respondent have not suffered any prejudice on this count and the Appellant cannot be nonsuited only on this basis.
+The Respondents have submitted that the Appellant defended the deficiencies in the Iridium Project in September 2002 when a winding up petition was filed against it.
+Mr. Desai, learned counsel for the Respondents, submitted that at least by that date, the Appellant had clearly understood that they had been cheated if that is their case.
+The answer of Mr. Kapadia to that submission is that the appellant has explained the investment made by it as made in good faith.
+In a winding up petition, the appellant could not have stated that its investments were bad.
+Any defence in the winding up petition by the Appellant cannot disentitle it from raising the claim from the party who has deceived it.
+Mr. Desai, learned counsel for the Respondents, submitted that the Appellant had all throughout accepted the project as a valid one and only with an intention to save the position of its officers that the present proceeding has been filed.
+If there is any failure to act with diligence or promptitude on the part of the officers of the Appellant, that is a matter to be taken up by the Management of the Appellant as well as those who have invested their monies along with the Appellant.
+That cannot be a ground for the Respondents to contend that the Appellants conduct is in approval of whatever that has been done by the Respondents or that it establishes that the Respondents have not done any wrong.66.
+In our view, the Appellant has an arguable case and explanation and the Respondents cannot nonsuit it only on this ground.
+Huge amounts have been paid and siphoned of on the plea of technical research and sale of equipment.
+Principal defence has been that it is a commercial failure.
+All these aspects will have to be decided.
+It is not possible to give a finding and a clean chit to the Respondents as of now.
+It will amount to ruling out the case of the Appellant at an interlocutory stage which is just not possible.
+In fact, this order is necessary from the point of investor protection also.
+Even the learned single Judge has said in para 31 of his impugned order and which we quote I do not hold that such a view may not be possible on trial.
+The learned Single Judge has, therefore, clearly erred in holding that the Appellant has no prima facie case for fraud or concealment.
+Mr. Desai had submitted that any such order will have effect on international business transactions.
+We are afraid that these transactions cannot be read as oneway traffic and unjustified siphoning of funds.
+If a plaintiff makes out a case in that behalf in law and on facts, he will be justified in seeking a protective order.67.
+That takes us to the case of balance of convenience and irreparable injury.
+As seen above, a huge amount has been paid by the Appellant to the Respondents.
+The case of the Respondents is that they have large purchase orders to the tune of Rs.130 crores in India and have investments of Rs.230 crores.
+If that is so, even to protect their own investors, they should have offered to maintain some minimum balance as suggested during the course of the argument which they have declined.
+If at the end of the litigation the Appellant succeeds, occasion may arise when it will have to take the decree to United States for execution which will mean further delay and objections.
+Mr. Desi has submitted that Respondent No.1 will not raise the plea of alternative dispute resolution through Arbitration and will also not raise the issue of invalidity of an Indian Decree on the ground of lack of jurisdiction when the decree is taken to the U.S. for execution.
+However, one is not sure as to what will be the status of the Respondent Company at that time, and Mr. Kapadia has rightly referred to the case of Enron which was an international giant at one point of time and which has landed into difficulty, which is very well known.
+Besides, that will mean that even after obtaining the decree, the Appellant will have to pursue the judgment debtor in the American Courts for execution.
+What the Appellant is seeking is a sort of garnishee order and an order of this nature has been passed by a Division Bench of this Court (Per P.D. Desai, CJ and S.H. Kapadia, J., as Their Lordships then were in this Court) in Appeal No.704 of 1992 (Triangle Drilling Ltd. v. Jagson International Ltd.) which has been mentioned above.
+In that case, the Appellant had sought to recover hire charges for two jackup rigs.
+A motion was taken out seeking interim relief restraining the 1st Respondent from receiving any payment under their contract with the 2nd Respondent until the claimed amount is first paid to the Appellant and or deposited in the Court.
+It was submitted that it would be nothing else but a garnishee order which can be resorted to only on execution of the decree.
+The Division Bench held that such an order could very well be passed.
+It is also a situation where obviously irreparable injury will be caused to the appellant if any such protective order is not passed.
+The counsel for the Appellant has made a statement that the member banks of the Appellant are prepared to make statement and file undertakings in this court that in the event the suit is finally dismissed, the deposited amount will be returned with appropriate amount of interest.
+In our view, that takes care of the interest of the Respondents also.
+Prima facie, thus there is a case for an injunction, the balance of convenience is also in favour of the Appellant and irreparable injury will be caused to its interest if any such order is not passed.
+Whether the learned single judge had erred in holding that he could not grant the relief as sought by exercising the powers under Section 151 of C.P.C. if not under Order XXXVIII Rule 5 of C.P.C.68.
+The second point for our determination is with respect to the powers of the court to grant the kind of prayers that are sought through the two motions.
+The motions seek a direction to furnish security and or a warrant of attachment under Order XXXVIII Rule 5 of C.P.C. Those are prayers (a) and (b) of the two motions.
+Prayers (c) and (d) of the first motion and prayers (d) and (e) of the second motion are in the nature of a garnishee order for attaching the money receivable by the Respondents.
+Order XXXVIII Rule 5 requires a plaintiff to prima facie show that the Respondent (a) is about to dispose of whole or any part of his property, or (b) is about to remove whole or part of his property from the local limits of jurisdiction of the court with an intent to obstruct or delay the execution of a decree that may be passed against him.
+In the present case, Respondent No.1 Motorola does not have any fixed assets in India.
+The learned counsel appearing for the Appellant made a statement before the learned Single Judge that the Appellant was not in a position to show that the Respondent was about to dispose of the property with an intent to obstruct or delay the execution of the decree, yet in the peculiar facts and circumstances of the case, the garnishee order was pressed with respect to the receivables of the Respondents in India and for that purpose reliance was placed on Section 151 of C.P.C.69.
+As far as this reliance is concerned there are two judgments of the Apex Court of which we got to take note.
+The first is in the case of Padam Sen v. The State of U.P., AIR 1961 SC 218 and the second one is in the case of Manohar Lal v. Seth Hiralal, AIR 1962 SC 527 .
+In Padam Sens case, the power under Section 151 of C.P.C. was erroneously used to seize the books of accounts of a party by appointing a Commissioner.
+The Apex Court held that the powers under Section 151 were not powers over the substantive rights which litigant possess.
+The court was expected to summon the person concerned and if he did not produce the necessary documents, it could penalize the party and draw adverse inference, but it could not seize them forcibly.
+While dealing with this situation, the Apex Court observed in para 8 of the said judgment as followsThe inherent powers of the Court are in addition to the powers specifically conferred on the Court by the Code.
+They are complimentary to those powers and therefore it must be held that the Court is free to exercise them for the purposes mentioned in Section 151 of the Code when the exercise of those powers is not in any way in conflict with what has been expressly provided in the Code or against the intentions of the Legislature.
+It is also well recognized that the inherent power is not to be exercised in a manner which will be contrary to or different from the procedure expressly provided in the Code.
+In Manohar Lals case (supra), the power under Section 151 of C.P.C. was invoked again erroneously to apply in a Court at Indore for restraining the other party from continuing the proceeding of a suit filed by him in the Court at Asansol.
+The Apex Court interfered with that order on the facts of the case.
+It referred to the above referred judgment in the case of Padam Sen and on the power of the court, it however heldthat courts have inherent jurisdiction to issue temporary injunctions in the circumstances which are not covered by provisions of Order XXXIX CPC.
+There is no such expression in Sc.94 which expressly prohibits the issue of a temporary injunction in the circumstances not covered by Order XXXIX.
+(para 18 of the judgment)The majority judgment held that section 151 itself says that nothing in the Code shall be deemed to limit or otherwise affect the inherent power of the Court to make orders necessary for the ends of justice.
+In the face of such a clear statement, it is not possible to hold that the provisions of the Code control the inherent power by limiting it or otherwise affecting it.
+The inherent power has not been conferred upon the Court, it is a power inherent in the Court by virtue of its duty to do justice between the parties before it.
+Further, when the Code itself recognizes the existence of the inherent power of the Court, there is no question of implying any powers outside the limits of the Code.70.
+Mr. Desai, learned counsel for the Appellant, submitted that there is no conflict between the propositions in the two decisions and what is laid down in the Padam Sens case is not disturbed by the second judgment.
+The inherent powers are to be exercised not in conflict with what has been expressly provided in the Code.
+The Court was not expected to do indirectly what could not be done directly.
+If the Appellant could not get an interim order under of Order XXXVIII Rule 5, or of Order XXXIX Rule 1, they could not get it under Section 151 of C.P.C. If at all any interim order was to be granted, it will have to be granted in consonance with the principles underlying the grant of any attachment or injunction and not dehors that.71.
+Mr. Desai secondly submitted that Respondent No.1 was not a fly by night company.
+It was functioning in India for good time, it had good business over here and it wanted to continue hereafter also.
+No order should be passed whereby its business will be affected unnecessarily.
+He submitted that the Appellant had to first obtain a decree and then only their rights will arise until such an order could not be granted as of now.
+He submitted that the Respondents have large purchase orders in India and that by itself will take care of the interest of the Appellant in the event any decree is subsequently passed.
+We however asked Mr. Desai as to whether the Respondents were ready to maintain a particular level of receivables in India.
+He declined to make any positive statement stating that this will also operate as some kind of an interim order, to which Respondent No.1 was not agreeable as a matter of principle.72.
+When we peruse the order passed by the learned Single Judge, what we find that in para 44 he has accepted the aforesaid submission of Mr. Desai, namely that if an injunction was granted under section 151 or an order of attachment is made thereunder, it ought not to be granted without the intention of the Respondent to remove dispose of the property to defeat creditors with a view to obstruct or delay execution.
+At the end of para 39 of his order, he has observed that it does not appear that court can or ought to abandon condition on which the power is conferred on a court to grant an order or attachment before judgment or injunction under Order XXXIV Rule 1(b).
+In support of this inference, he has quoted the earlier referred quotation in Padam Sen (supra) in para 45 of his order and then observed that in case of injunction, the Parliament has prescribed the manner in which these power are to be exercised.
+The learned Judge has quoted para 9 from Padam Sen in para 46 of his judgment to state that inherent powers are not over substantive rights.73.
+Submissions were made before the learned Single Judge on the basis of the parity with Mareva injunction.
+The learned Judge has referred to the Partaminas case in this behalf and has observed that no injunction should be granted merely because the Respondent is a debtor.
+He has observed that clear liability or debt is absolutely necessary and something more than a mere possibility of a decree in favour of the Appellant has to be shown.
+In his view, it will have to be a clear case with no tenable defence.
+The learned Judge has observed that if any such interim order is passed, it will affect the business of a foreign company and no reputable foreign company will like to be plagued with any such order.
+The fact that the Respondent is a foreign company is not sufficient by itself.
+He has also relied upon the Polly Pecks case where it was held that Mareva ought not to interfere with ordinary course of business.
+The learned Judge has also observed that normally no attachment before judgment is granted in a suit for unliquidated damages.74.
+Mr. Kapadia, on the other hand submitted that the law laid down in Manohar Lals case held the field.
+In his submission Manohar Lal in fact explains the law laid down earlier in Padam Sens case.
+He submitted that in Manohar Lal, the Court has in terms said that the provisions of order XXXIX read with Section 94 of C.P.C. are not exhaustive and the court does have power to grant interim relief in exercise of its inherent jurisdiction under circumstances which are not covered under Order XXXIX.
+He pointed out that the Court has observed that the C.P.C. is not exhaustive for the simple reason that the Legislature is incapable of contemplating all possible circumstances.75.
+He further submitted that as far as the Chartered Courts are concerned, Manohar Lals judgment in terms lays down that its powers are wide.
+In para 42 of the judgment in Manohar Lal, while dealing with the powers of the Chartered High Courts, Shah J. in his separate but concurrent judgment observed as followsIt is true that the High Courts constituted under charters and exercising ordinary original jurisdiction do exercise inherent jurisdiction to issue an injunction to restrain parties in a suit before them from proceeding with a suit in another court, but that is because the Chartered High Courts claim to have inherited this jurisdiction from the Supreme Courts of which they were successors.
+This jurisdiction would be saved by S.9 of the Charter At (24 and 25 Vict.
+C.104) of 1861 and in the Code of Civil Procedure, 1908 it is so expressly provided by S.4.
+But the power of the civil courts other than the Chartered High Courts must be found within S.94 and 0.39 R.1 and 2 of the Civil Procedure Code.76.
+Mr. Kapadia then referred to an unreported judgment of a Division Bench of this Court (Per P.D. Desai, CJ.
+and S.H. Kapadia, J.) (as Their Lordships were in this Court) in the case of Triangle Drilling Ltd. v. Jagson International Ltd.
+In that matter, the Appellant had sought an injunction restraining Respondent No.1 from receiving any payment from Respondent No.2.
+The Single Judge had declined to grant injunction on the ground that he could not exercise the inherent powers under Section 151 to grant an order which would otherwise be under Order XXXVIII Rule 5.
+In the view of the Single Judge it amounts to nothing else but a garnishee proceeding which can be resorted only in execution of a decree.
+The Appeal Bench considered the judgment in Manohar Lals case as authorizing the exercise of a power to grant an injunction.
+The Appeal Court observed that the learned Single Judge was in error that he had no power or jurisdiction to grant such a prohibitory relief.
+It however observed that the power of the Chartered High Courts were not confined to statutory provisions alone and the court had an inherent power under its general equity jurisdiction to grant the necessary injunction.
+Mr. Kapadia referred to a recent judgment in the case of Rajnibai v. Kamlabai, (1996) 2 SCC 225.
+In that matter, the court observed that merely because there was no dispute as regards the corporeal right to property, it did not mean that the party was not entitled to a remedy under Order XXXIX Rule 1 and 2 of C.P.C. and then the Court observedEven otherwise also it is settled law that under Section 151 of the Code of Civil Procedure, the Court has got inherent power to protect the rights of the party pending the suit.77.
+Alternatively, Mr. Kapadia also made a submission that under Order XXXVIII Rule 1, there was a distinction between the expression local limits of the court and living in India.
+In his submission, under subrule (b), the intention of the party was immaterial.
+In support of his submission, he relied upon the judgment of the Apex Court in the case of VSNL v. M.V. Kapitan Kud, (AIR 1996 SC 516 ).
+In that matter, the claim even if successful would have remained unexecutable or landed in trouble in private international law as the ship under construction was a Ukrainian one.
+The Apex Court directed a deposit of Rs.10 crores and insisted on an undertaking by Ukrainian Ambassador that the Government would satisfy the decree for a further sum of Rs.25 crores.
+He therefore submitted that when the Respondents were not ready to maintain some minimum receivables, the interim order as sought ought to be granted.78.
+Having noted the rival submissions, what we find is that the learned Single Judge has failed to notice the force and the effect behind the observations of the Apex Court in para 18 of Manohar Lal (supra) quoted above.
+Thus the Court has in terms held that there was no expression in section 94 which prohibited issuance of injunction in circumstances not covered by order XXXIX.
+Therefore, it has held that Courts have inherent jurisdiction to issue such orders.
+The learned Judge has also missed the explanation given in Manohar Lal on Padam Sen by observing as follows in para 22 of Manohar LalIn the above case, this Court did not uphold the order of the Civil Court, not coming under the provisions of Order XXIV, appointing a commissioner for seizing the account books of the plaintiff on the application of the defendants.
+The order was held to be defective not because the Court had no power to appoint a commissioner in circumstances not covered by S.75 and Order XXIV, but because the power was exercised not with respect to matters of procedure but with respect to a matter affecting the substantive rights of the plaintiff.
+This is clear from the further observations made at page 887 (of SCR) (at p.219 of AIR).
+This Court saidThe question for determination is whether the impugned order of the Additional Munsif appointing Sri Raghubir Pershad Commissioner for seizing the plaintiffs books of account can be said to be an order which is passed by the Court in the exercise of its inherent powers.
+The inherent powers saved by S.151 of the Code are with respect to the procedure to be followed by the Court in deciding the cause before it.
+These powers are not powers over the substantive rights which any litigant possesses.
+Specific powers have to be conferred on the Courts for passing such orders which would affect such rights of a party.
+Such powers cannot come within the scope of inherent powers of the Court in matters of procedure, which powers have their source in the Court possessing all the essential powers to regulate its practice and procedure.79.
+The judgment in Manohar Lal has been followed in Triangle (supra) where the Division Bench observedIn Manohar Lal Chopra v. Rai Bahadur Rao Raja Seth Hiralal, AIR 1962 SC 527 , the question which fell for consideration was whether having regard to the language of clause (c) of Section 94 of the Civil Procedure Code, interim injunction can be issued only if a provision for their issue is made in Order XXXIX Rules 1 and 2.
+The submission on behalf of the Appellant in that case that clause (c) of Section 94 provides that the Court may, if it is so prescribed, grant a temporary injunction in order to prevent the ends of justice from being defeated and that the word prescribed, according to Section 2 of the Code means prescribed by Rules and that Rules 1 and 2 of Order XXXIX lay down precisely the circumstances in which a temporary injunction may be issued.
+The majority decision rejected this submission and held that Courts have inherent jurisdiction to issue temporary injunction in circumstances which are not covered by the provisions of Order XXXIX of the Code.
+The reasons set out in support of this view are as followsIt is well settled that the provisions of the Code are not exhaustive, for the simple reason that the Legislature is incapable of contemplating all the possible circumstances which may arise in future litigation and consequently for providing the procedure for them.
+The effect of the expression if it is so prescribed is only this that when the rules prescribed the circumstances in which the temporary injunction can be issued, ordinarily the Court is not to use its inherent powers to make the necessary order in the interests of justice, but is merely to see whether the circumstances of the case bring it within the prescribed rule.
+If the provisions of Section 94 were not there in the Code, the Court could still issue temporary injunctions, but it could do that in the exercise of its inherent jurisdiction.
+No party has a right to insist on the Courts exercising that jurisdiction and the court exercises its inherent jurisdiction only when it consider it absolutely necessary for the ends of justice to do so.
+It is in the incidence of the exercise of the power of the Court to issue temporary injunction that the provisions of Section 94 of the Code have their effect and not in taking away the right of the Court to exercise its inherent power.
+There is nothing in Order XXXIX Rules 1 and 2, which provides specifically that a temporary injunction is not to be issued in cases which are not mentioned in those rules.
+The rules only provide that in circumstances mentioned in them the Court may grant a temporary injunction.
+The Division Bench also noted that even in the minority judgment, Shah J. had expressly recognized the power of Chartered High Courts to grant injunction in inherent jurisdiction.80.
+The view taken by the learned Single Judge is therefore contrary to the dicta in Manohar Lal and Triangle.
+It is erroneous also for the reason that if the power is to be exercised only in the circumstances prescribed, then the occasion to rely upon section 151 of C.P.C. would become redundant.
+We have, therefore, no hesitation in holding that the learned Single Judge has erred in coming to the conclusion that he could not grant the relief sought by exercising the powers under section 151 of C.P.C.
+He has, therefore, erred in declining to exercise the jurisdiction which he had.
+Whether the power of the Appellate Court to interfere with the exercise of discretion of the trial court was in any way restricted81.
+Mr. Desai, learned counsel for the Respondents, then submitted that the learned Single Judge had exercised his discretion in the matter by declining to grant the injunction and unless this was shown to be perverse, the Appellate Court was not expected to interfere with it.
+He relied upon the following passage from the judgment in the case of Wander v. Antox, (1990) Supp.
+SCC 727The appellate court will not interfere with the exercise of discretion of the court of first instance and substitute its own discretion except where the discretion has been shown to have been exercised arbitrarily, or capriciously or perversely or where the court had ignored the settled principles of law regulating grant or refusal of interlocutory injunctions.
+An appeal against exercise of discretion is said to be an appeal on principle.
+Appellate court will not reassess the material and seek to reach a conclusion different from the one reached by the court below solely on the ground that if it had considered the matter at the trial stage it would have come to a contrary conclusion.
+If the discretion has been exercised by the trial court reasonably and in a judicial manner the fact that the appellate court would have taken a different view may not justify interference with the trial courts exercise of discretion.82.
+Mr. Kapadia, learned counsel for the Appellant, on the other hand, submitted that the judgment in the case of Wander v. Antox deals with an exercise of discretion and not with adjudication.
+He submitted that what the learned Judge had resorted to in the present matter was not exercise of discretion but it was adjudication.
+Here the learned Single Judge has concluded that no case for relief was made out and has thus adjudicated.
+It was not a case of exercise of any discretion.
+Since the learned Single Judge took the view that no case was made out, he had to refuse the relief.
+It was not a case of exercise of any discretion.
+If exercise of discretion was equated with adjudication, all erroneous orders would remain untouched and appeals would be dismissed only on that ground.83.
+That apart, Mr. Kapadia referred to a subsequent judgment of the Apex Court in the case of Laxmikant Patel v. Chetanbhai Shah, (2002) 3 SCC 65.
+That was a matter where interim injunction was refused both by the Trial Court and the High Court.
+The Apex Court held that where the refusal to grant injunction would occasion a failure of justice, such injunction would not be capable of being undone at a later stage, the discretion exercised by the Trial Court and the High Court can neither be said to be reasonable nor judicious and it becomes obligatory of an Appellate Court to interfere with the same.84.
+We quite see the force of the submission.
+The function of the Appellate Court is to correct the error when brought to its notice, since any refusal to correct such error would lead to continuation of a wrong and the effect thereof would not be capable of being undone at a later stage.
+The distinction between discretion and adjudication has been brought out in a Division Bench Judgment in para 21 of the case of Hiralal v. Ganesh AIR 1984 Bombay 218.It must be remembered that the concept of discretion is distinct from that of adjudication.
+When the Deputy Registrar rejected the appellants application for rectification on the round that the two marks are not deceptively similar, she did not use any discretion but adjudicated upon the rival contentions of the parties.
+It would be trite to say that exercise of discretion can arise in favour of a party when adjudication by the Registrar is against that party.
+In the present case, the Deputy Registrars adjudication was in fact in favour of the respondents, with the result that there was no occasion for the Deputy Registrar to exercise any discretion.
+Directions and orders85.
+Having dealt with these three points, which arise for our determination in this matter, we are of the view that the learned Single Judge has clearly erred in holding that the appellant did not have a prima facie case and that the balance of convenience was not in its favour and that no such irreparable injury will be caused to the Appellant if interim order was not granted.
+The learned Judge has also erred in holding that he could not pass the order that was sought by invoking section 151 of the C.P.C. In the circumstances, we reverse the finding of the learned Single Judge on both these counts.
+As far as any impediment on the powers of this Court in passing appropriate interim orders in appeal is concerned, we overrule such submission, and hold that this Court can interfere with an order of an adjudicatory nature, where found erroneous.
+Not exercising this power would in fact result into irreparable injustice.
+In the circumstances, we allow this appeal and set aside the order passed by the learned Single Judge.86.
+As far as Notice of Motion No.2557 of 2002 is concerned, we make it absolute in terms of prayers (c) and (d) though restricting it only to US 120,490,000 which consists of the principal claim of US 9,03,30,000 under the share investment and the purchase of Gateway, with interest at 5 from the dates of payment till filing of the suit.
+There is no dispute as far as the amount spent on share investment and purchase of Gateway and the claim of interest at 5 till the filing of the suit is quite reasonable.
+We are conscious that this is a suit for unliquidated damages and, therefore, as far as the other claim of over Rs.377 crores is concerned, we are refraining ourselves from passing any order since the particulars thereof will have to be established on evidence.
+Those are aspects which will have to be established in trial.
+Similarly as far as Notice of Motion No.2793 of 2002 is concerned, therein also we make the same absolute in terms of prayers (d) and (e) again, as stated earlier, restrict it only to US 120,490,000.
+We make it clear that the amount required to be deposited in both the motions together will not exceed Rupee equivalent of US 120,490,000.
+For maintaining both these orders, the Appellant will have to file undertakings of duly authorized Senior Managers of IDBI, State Bank of India, IL FS and such of their constituents taking responsibilities for these US 120,490,000 and stating therein in unequivocal terms that in the event the suit is dismissed, they will refund these amounts within 4 weeks from the date of the order (subject to any further order in appeal) with appropriate interest as may be directed at that stage.
+We direct that the undertakings will be filed within two weeks from today with a copy to the Respondents.87.
+The amount when realised in pursuance to this order including the amount of above Rs.60 crores and not exceeding in all US 120,490,000 when deposited will be invested by the Prothonotary Senior Master in fixed deposit in the State Bank of India, Mumbai for a period of 13 months to begin with and will continue to be renewed for further period of 13 months thereafter from time to time until further orders are passed in the suit.88.
+Appeals are allowed in these terms.
+Costs will be costs in the cause.
+After this judgment and order was pronounced, Mr. Chenoy, learned counsel appearing for Respondent No.1, prays for stay of this order for a period of 12 weeks.
+He states that further particulars in support will be presented on Wednesday, 5th May 2004.
+Only for this limited purpose, the matter be notified on 5th May 2004 at 2.45 p.m.5th May 2004The appeal has been shown for directions today in view of the oral request which was made by Mr. Chenoy, learned counsel for Respondent No.1, on 30th April 2004 when the judgment and order was passed on these two appeals.
+Mr. Chenoy, has tendered a praecipe dated 5th May 2004 signed by the attorney of the Respondent No.1.
+Information is given with respect of various amounts which are to be received in India and a request is made that for a period of 90 days only an injunction in terms of prayer (c) of Notice of Motion No.2557 of 2002 will suffice and prayers (d) and (e) of Notice of Motion No.2793 of 2002 need not be granted.
+In essence, a stay is sought to the deposit which will be the effect of this order.
+Mr. Kapadia, learned counsel for the Appellants, opposes this request by submitting that various possibilities can always arise hereafter including an attachment of these amounts in the hands of the Respondent No.1.
+Be that as it may.
+Since we have granted an injunction to the Appellants, we do not think that bringing this amount in the High Court and depositing with then Prothonotary Senior Master is something which should be stayed by this Court.
+An injunction is granted by this Court and, as far as this Court is concerned, normally when an injunction is granted, it is meant to be operative and therefore we hereby reject the request made on behalf of the Respondent No.1.Authenticated copy of this order be made available to the parties.

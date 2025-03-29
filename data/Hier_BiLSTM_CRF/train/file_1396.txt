@@ -1,0 +1,494 @@
+ URINDER SINGH NIJJAR, J. The original complainant Iridium India Telecom Ltd. (hereinafter referred to as the appellant) has preferred this appeal against the judgment and order dated 8th August, 2003, passed by a learned single judge of the Bombay High Court quashing the criminal complaint dated 3rd October, 2001 filed by the appellant, inter alia, against respondent no.1, namely, Motorola Incorporated.	Facts
+The complaint pertained to allegations of cheating under Section 420 read with Section 120B of the Indian Penal Code.	None
+Although the complaint spread over thirty five pages elaborately sets out the factual scenario, we may notice the foundational facts.	None
+Motorola Inc (respondent No.1), Iridium LLC and Iridium Inc. are a part of one group of corporations created through mergers and takeovers.	None
+Respondent No.1 was the founder promoter of a corporation known as Iridium LLC incorporated in the State of Delaware, U.S.A Iridium LLC was incorporated on 19th July, 1996 as a wholly owned subsidiary of respondent No.1.	Facts
+Iridium LLC was the successor of another corporation known as Iridium Inc. which was incorporated on 14th July, 1991 also a wholly owned subsidiary of respondent no.1.	Facts
+On or about, 19th July, 1996 Iridium Inc was merged into Iridium LLC.	None
+Iridium System Iridium Project (which expressions are used interchangeably) was represented as being the worlds first commercial system designed to provide global digital hand held telephone data, facsimile, paging, geolocation services similar to todays cellular phone.	None
+It was further averred that Iridium System was conceived by respondent No.1 in the year 1987 and it was intended to be a wireless communication system through a constellation of 66 satellites in low orbit to provide digital service to mobile phones and other subscriber equipment globally.	Facts
+It was emphasized that Iridium Inc. was an instrumentality of respondent No.1 the corporate veil from behind which respondent No.1 operated.	None
+Respondent no.1 conceived, orchestrated, directed and controlled Iridium and was at all material times Iridiums dominant shareholder, supplier, financier, controller of its board, as well as the developer of Iridiums business model and the creator of the Iridium system, which was respondent no.1s proprietary space based Satellite Communication system.	Facts
+Respondent no.1 also designed, developed, sold, maintained and operated the hardware and software of the Iridium System Project.	Facts
+It was further alleged in the complaint that respondent no.1 initially held the entire equity in Iridium.	Facts
+Although the equity of respondent no.1 was subsequently diluted by sale to various investors and shareholders through a series of private public offerings, respondent no.1 continued to hold, own and control a substantial part (about 19.6) of the equity of Iridium.	Facts
+From the inception respondent no.1 exercised effective control over the Board of Directors of Iridium.	Facts
+It was further alleged that most of the persons on the board of Iridium were either former employees or current employees of respondent no.1 who were deputed or seconded to Iridium.	Facts
+It was further alleged that respondent no.1 was the primary contractor for Iridium system project.	None
+As already stated above, this comprised of five segments.	Facts
+These five segments were supplied, sold, maintained and operated by three contracts viz.	Facts
+(i) the space system contract (ii) the operation and maintenance contract and (iii) the terrestrial Network Development Contract.	Facts
+Each of these contracts was awarded by Iridium Inc. to respondent no.1.	Facts
+The said contracts were intentionally structured to ensure that although Iridium paid all the development costs, respondent no.1 would still own the most valuable assets of the Iridium system.	Facts
+It was also alleged that respondent no.1 provided itself with excessive profits while saddling Iridium with exorbitant costs.	Facts
+Substantially, all the initial capital raised by Iridium (form persons which included Iridium India Telecom Ltd) was used to make payments to respondent no.1.	Facts
+In all a sum of Rs. 19500 crores (6.5 billion U.S ) has been paid till date by Iridium to respondent no.1 for the Iridium system.	None
+It was further mentioned in the Complaint that in August 1992, a PPM was floated through merchant bankers, Goldman Sachs (who acted as placement agents) with the intention of attracting investments from large and successful companies world wide.	None
+Copies of PPM were distributed to and received by several prominent Indian companies, both in the public and private sector.	Facts
+Prominent amongst these were Infrastructure Leasing and Financial Services Ltd. (ILFS) Industrial Development Bank of India (IDBI) Industrial Credit and Investments Corporation of India (ICICI)	None
+State Bank of India (SBI) Export Import Bank of India (EXIMP Bank) Housing Development Finance Corporation Ltd. (HDFC) Unit Trust of India (UTI) General Insurance Corporation of India (GIC) Life Insurance Corporation of India (LIC)	None
+The object of the said PPM was to obtain funds investments to finance the Iridium project.	None
+The PPM set out in detail the salient features of the Iridium project, its technical suitability, commercial feasibility, risk factors.	Facts
+Thus it was claimed that the said document was in the nature of a prospectus.	Facts
+It contained a positive invitation to offer.	Facts
+The next equity offering was made under the Private Placement Memorandum in 1995 (1995 PPM) wherein the original representations and or warranties and or assurances were substantially watered down and for the first time references were made to the fact that the system may not successfully operate.	None
+It was also mentioned in the Complaint that certain personal representations were made by the representatives of respondent no.1 to further induce the persons to invest in Iridium.	None
+In the course of these presentations and meetings, promotional video cassettes which depicted the progress of the project, the successful attainment of various project milestones well within schedule and how the said project would actually function when fully operational, were displayed.	Facts
+The representations made by respondent No.1 are as under The Iridium System would use technology which was tried and tested and had been successfully applied in a number of operational systems including systems used by NASA and the U.S Department of Defence.	Facts
+In other words the technology that would be employed in the Iridium System, was not untested or experimental, but was a proven and tested technology with a past record of successful operation.	Facts
+The Iridium System would provide a subscriber link on a global basis, which would be accessible virtually anywhere on the earth surface, save and except cases where severe or unusual conditions prevented the reception of signals.	Facts
+In normal operating dayto day real life environment, the Iridium System would, therefore offer a high quality link.	Facts
+In particular Iridium phones would work in automobiles and buildings which were the most common place where the professional traveler who would represent the bulk of Iridium customers, would use the same.	Facts
+Global coverage and accessibility was therefore assured.	None
+Subscribers would be able to access the Iridium System through compact, hand held small sized phones which were comparable in size and weight to cellular phones.	Facts
+The Iridium System would provide a high quality signal and offer (i) voice (ii) data (iii) fax and (iv) geolocation services.	Facts
+The System would provide a strong signal with sufficient link margin (i.e. a margin allowance) in excess of the minimum technical requirement for desired voice quality.)	Facts
+The Iridium System would be eminently viable and the investors in the Iridium project would expect to receive handsome financial gains.	Facts
+The Iridium System was a creation of respondent No.1 who was the world leader in cellular technology.	None
+Backing of respondent No.1 ensured its success.	None
+In addition to the benefits of investing in the equity of Iridium Inc. large investors would have the option to purchase the gateway, which would be an interconnection point between the space based segment of the Iridium System and land terrestrial network.	None
+Investment in gateway would be an extremely remunerative and profitable venture.	None
+According to the appellant the aforesaid representations were made to individual institutions and entities handling public money so as to induce them to believe that Iridium was a company worth participating and investing in by purchasing shares and operating a gateway.	Facts
+The officers of respondent no.1 impressed upon the prospective investors that Iridium Project venture was bound to succeed.	None
+Relying upon the aforesaid representations the appellant as well as the banks and institutions mentioned hereinabove, in good faith, collectively invested a sum of US 70 million for purchasing equity of Iridium Inc as well as spent a sum of about Rs.150 crores in setting up a gateway at Deghi in Pune.	Facts
+The complaint then proceeds to state that the representations made by respondent no.1 proved to be false, dishonest, fraudulent and deceitful.	Facts
+It was discovered that Iridium System was a complete failure and all the material representations made, as aforesaid, were totally false, dishonest, fraudulent and deceitful, to the knowledge of respondent and in particular respondent no.1.	Facts
+It is specifically pleaded that the System proved to be a complete non starter and technological failure as is evident from the followings The phones did not work inside buildings or cars and even under trees.	None
+In real world operating environments, therefore, they were useless.	Facts
+The Iridium phones were extremely bulky.	Facts
+The quality of the Iridium signals, even in open areas with no obstruction, was extremely poor with frequent disconnections.	Facts
+The promised data and fax features were not provided.	Facts
+The system was inferior to competing cellular systems.	Facts
+The system could operate with a single gateway.	None
+It was also alleged that respondent no.1 had full knowledge about the unviability of the Iridium system.	None
+This can be best gauged from the fact that the board of directors of respondent no.1 had in the early 1990s rejected a proposal that respondent no.1 itself fund the billions of dollars needed to develop the Iridium system.	Facts
+Obviously, therefore, respondent no.1 had no qualms about inducing others to invest their money.	None
+It was further averred in the complaint that the entire exercise of the respondent No.1 besides generating money for itself, was to experiment with others money and at others risk (including the appellant).	None
+The Iridium System and Iridium was therefore used as a research and development tool in order to facilitate and assist the respondent No.1 to develop its expertise in building satellite systems so that the said expertise could be marketed by it to others.	Facts
+It was further alleged that market researchers who had been commissioned by respondent no.1 had reported that Iridiums target market, the professional business traveler would have little interest in using the system.	Facts
+The research group characterized the product as suitable only for oil rigs or the desert.	Facts
+It had been pointed out that Iridium as then conceived may not address the needs of many US based executives who traveled globally and or have offices in divergent or even in remote area.	Facts
+It was pointed out that the system limitations of Iridium were too severe to sustain interest.	None
+The appellant company was further induced to part with a sum of Rs. 126 crores for the gateway.	None
+The necessity for installation of a gateway was a complete fraud.	Facts
+The respondent no.1 knew that no gateway was necessary.	Facts
+The entire need for a gateway was dishonestly created to get a license to operate the system in it.	Facts
+The Collusy Group is now operating the System on a limited scale through one single gateway, which further establishes the fact that there was no need for more than one gateway.	None
+The appellants subsequently learnt that within nine months of the huge investment made in Iridium, it applied for bankruptcy protection under Chapter 11 of the U.S. Bankruptcy Code.	None
+Despite best efforts, Iridium could not be revived and ultimately the much touted Iridium System, for which US 6.5 billion had been paid to respondent No.1, was sold for a paltry sum of US 25 million.	Facts
+This represented 0.4 of the amount which was paid for by the appellant and other investors.	Facts
+Consequently, the investment of the appellants and its constituent shareholders of approximately Rs.500 crores was wiped out and or completely lost.	Facts
+The appellants, therefore, addressed a notice dated 12th April, 2001, respondent No.1 calling upon them to make payment of a sum of US 250 million, being the loss suffered by the appellant as also seeking punitive damages.	None
+In the aforesaid notice, it was clearly mentioned that in the event respondent No.1 failing to make the payment, criminal prosecution would be instituted.	Facts
+The respondent No.1 by its reply dated 2nd June, 2001 repudiated his liability and instead made a claim of US 6,977,989 upon the appellant.	Facts
+Left with no other alternative, the appellants filed a criminal complaint alleging that respondent no.1 has committed an offence of cheating as defined under Section 415 of the Indian Penal Code.	Facts
+On the basis of the aforesaid allegations, the appellants have filed a complaint before the Judicial Magistrate, Ist Class, Khadki Court, Pune charging that respondent No.1 are guilty of the offence of criminal conspiracy for cheating the appellant and for the offence of cheating committed pursuant to the conspiracy.	Facts
+The entire material was placed before the Judicial Magistrate.	None
+Upon consideration of the complaint and upon hearing the counsel for the appellant, by an order dated 6th November, 2001 the Judicial Magistrate Ist Class, Khadki Court, Pune issued process against the respondent No.1 to 7 for offences under section 420 read with Section 120 IPC.	Facts
+The order reads as under  Read Complaint and verification.	Facts
+Perused documents.	Facts
+Heard the advocate Nimbalkar for the complainant.	Facts
+It reveals that complainant is a company of which the shares are held by public financial institutions, nationalized banks and public insurance companies i.e. IDDI, ICICI, SBI, UTI, GIC, LIC etc.	Facts
+The investments made by complainant company was raised out of public savings and funds of above noted public institutions.	Facts
+Therefore, it reveals that this case involves issues regarding public money.	Facts
+It is settled principle that at the stage of issuance of process prima facie case is to be considered.	Facts
+After giving anxious though to the averments in the complaint and the documents produced on record, it reveals that prima facie case is made out to issue process.	Facts
+Hence, issue process against Accused No.1 to 7 for the offence under Section 420 r w 120B of IPC.	Facts
+Aggrieved by the aforesaid order, the respondents filed a petition under Article 227 of the Constitution of India and under Section 482 Cr.	None
+P.C. seeking quashing of the order issuing process, dated 6th November, 2001, passed by the Judicial Magistrate Ist Class, Khadki Court, Pune.	Facts
+The grounds as culled out from the petition can be summed up as under The complaint lacked the basic and essential ingredients of the offence of cheating and conspiracy.	None
+At best the complaint had set out a civil dispute, subject to mandatory arbitration which the appellant herein (Iridium Telecom Pvt. Ltd.) was seeking to settle by adopting a cheaper coercive method.	None
+The complaint suppressed material facts which would have nullified the claim of the appellant based on the alleged misrepresentations.	None
+The Complaint does not even prima facie show that any of the representations made by the respondent No.1 herein (Motorola Inc petitioner before the High Court) were false nor is there any material to even prima facie establish any dishonest intention ab intio on their part while making the open offer investment in	Facts
+Iridium Inc.	None
+The Court of JMFC, Pune did not have any territorial jurisdiction to entertain the complaint.	None
+The close association of respondent No.1 with the Iridium project was fully disclosed to all the potential investors in the 1992 PPM prior to their investment.	None
+The 1992 PPM also made it clear that each prospective investor should consult its own counsel and advisers and undertake such investigation as it deemed appropriate before investing in the shares of Iridium Inc.	Facts
+The risk factors were very prominently highlighted in the 1992 PPM.	Facts
+The 1992 PPM made it clear that there were many risks in the investment.	Facts
+The entire project was unique being the first of its kind.	Facts
+The representations were made to very select strategic investors, who were experts in their own fields.	Facts
+The appellant had the backing of some of the prominent financial institutions of the country with the best of expertise in assessing the arrears of risk capital as well as with admitted technical advice, support and expertise of Videsh Sanchar Nigam Limited (VSNL).	None
+It was stated that the service of summons was illegal, invalid and improper.	None
+It was further averred that filing of the petition under Section 482 should not be construed to be an admission of valid service.	None
+The High Court granted ad interim relief staying the proceeding of C.C. No.81/2001 pending on the file of the learned Magistrate, to the respondent No.1 after the petition under Article 227 and Section 482 Cr.	Facts
+P.C was filed.	Facts
+The appellant had then filed a Special Leave Petition (Crl.)	Facts
+No.2093/2003 wherein this Court observed as follows The order under challenge is an interlocutory order, therefore we are not inclined to interfere with the same.	Facts
+However, in the facts and circumstances of the case, we think it appropriate that the petition pending before the High Court should be disposed of as early as possible.	Facts
+Therefore, we request the High Court to dispose of the pending petition of the respondent by the end of July, 2003 and while so deciding the High Court the High Court should also decide whether such decision of the High Court will bind those who have not approached the High Court challenging the summons issued by the Trial Court to them.	None
+With these observations this Special Leave Petition is disposed off.	None
+The High Court by order dated 8th August, 2003 allowed the petition and quashed the order issuing process passed by the JMFC, Pune.	None
+Aggrieved by the said judgment, the appellant have filed the present appeal before this Court.	Facts
+We have heard Mr. Ram Jethmalani, learned senior counsel, for the appellant, Mr. Ashok Desai, learned senior counsel for the respondent No.1 and Mr. Parag Tripathy for the Union of India at considerable length.	None
+The submissions made by Mr. Jethmalani although very elaborate, may be summed up as follows The power to quash a criminal complaint that too at the stage of cognizance, is an extreme power, which must be exercised very sparingly and with abundant caution that too in the rarest or rare cases.	Arguments of Petitioner
+(ii) In exercise of its power under Section 482, the High Court has to consider the complaint as a whole, without examining merits of the allegations i.e. genuineness of the allegations is not to be examined at this stage.	Arguments of Petitioner
+(iii)	Arguments of Petitioner
+The complaint is not required to verbatim reproduce the legal ingredients of the offence.	Arguments of Petitioner
+If the necessary factual foundation is laid in the complaint, proceedings should not be quashed.	Arguments of Petitioner
+(iv) Quashing of a complaint is warranted only where the complaint is so bereft of even basic facts which are absolutely necessary for making out an offence that it would be a miscarriage of justice to permit the proceedings to continue.	Arguments of Petitioner
+(v) In support of the aforesaid submissions, Mr Jethmalani has relied on the following judgments of this Court Smt.	Arguments of Petitioner
+Nagawwa Vs. Veeranna ((1976) 3 SCC 736 ), Municipal Corporation of Delhi Vs.	Arguments of Petitioner
+Ram Kishan Rohtagi ((1983) 1 SCC 1 ), Dhanalakshmi Vs. R.Prasanna Kumar (1990 (Supp) SCC 686), State of Haryana Vs.	Arguments of Petitioner
+Bhajan Lal ((1992) Supp.	Arguments of Petitioner
+(1) SCC 335)	Arguments of Petitioner
+Mr. Jethmalani further submitted that the judgment of the High Court is contrary to all known principles on the basis of which an order issuing process can be quashed.	Arguments of Petitioner
+He invited our attention to the detailed pleadings in the complaint the Stock Purchase Agreements, Gateway Equipment Purchase Agreement and From S1 etc.	Arguments of Petitioner
+According to Mr. Jethmalani, the documents were subjected to meticulous analysis by the High Court at the instance of the respondent.	Arguments of Petitioner
+On a wholly erroneous interpretation of the aforesaid documents, the High Court concluded that the allegations made in the complaint even if they are taken on the face value, disclosed only civil liability.	Arguments of Petitioner
+The High Court was unnecessarily influenced by the submission that the Risk Factors had been duly pointed out to the prospective investors including the appellants.	Arguments of Petitioner
+These matters were to be examined by Court of competent jurisdiction at the appropriate time.	Arguments of Petitioner
+The allegations could be proved or disproved on the basis of the evidence led by the parties.	Arguments of Petitioner
+The High Court, according to Mr. Jethmalani, failed to appreciate that the 1992 PPM was in the nature of a deemed prospectus.	Arguments of Petitioner
+Therefore whilst issuing the aforesaid PPM, the promoter was required to make a true and full disclosure of all the relevant facts.	Arguments of Petitioner
+This duty is imposed on the promoter under Section 3 and 64 of the Companies Act, 1956.	Arguments of Petitioner
+The statements made in the PPM as also in the representations made to the high ranking officials of the prospective investors including the appellants, have been proved to be incorrect and misleading.	Arguments of Petitioner
+According to Mr. Jethmalani, the legal position on this issue is quite clear and placed reliance on The Directors c., of the Central Railway Company of Venezuela Vs.	Arguments of Petitioner
+Joseph Kisch (1867 English and Irish Appeals (Vol. II), 99), New Brunswick and Canada Railway Company Vs. Muggeridge ((1860)1 Dr. Sm. 381), Redgrave Vs.	Arguments of Petitioner
+Hurd	Arguments of Petitioner
+((1881) 20 Ch. D at p.13), Aarons Reefs Limited Vs.	Arguments of Petitioner
+Twiss (1896 Appeal Cases 273 (House of Lords)).	None
+According to Mr. Jethmalani dishonest intention of the respondent is evident from the fact that the proposal to invest in the Iridium system which was taken to the Board of Directors of the respondent Motorola, was not accepted.	None
+The market researchers commissioned by Motorola had in fact clearly stated that the professional business traveler would have little interest in the system.	Arguments of Petitioner
+It had been characterized as suitable only for oil rigs or deserts.	Arguments of Petitioner
+Mr. Jethmalani reiterated that the respondents deliberated painted a very rosy picture.	Arguments of Petitioner
+They had promised a global link from any place on earth.	Arguments of Petitioner
+The falsity of such tall claims is evident from the fact that the phone would not operate under a tree or in a building.	Arguments of Petitioner
+It proved to be utterly useless.	Arguments of Petitioner
+Mr. Jethmalani then submitted that the value, which may be placed on the disclaimers relied upon by the respondent, could only be judged after a full fledged trial.	Arguments of Petitioner
+At best, the disclaimers would be a defence.	Arguments of Petitioner
+They would not be sufficient to absolve the respondents from criminal liability.	Arguments of Petitioner
+It was then submitted by Mr. Jethmalani that the High Court committed a serious error of law in concluding that the respondent being a corporation was incapable of committing the offence of cheating.	Arguments of Petitioner
+He emphasised that by now, it is settled in almost all jurisdictions of the world governed by the rule of law that companies can be prosecuted for certain criminal offences.	Arguments of Petitioner
+The offences for which companies can be criminally prosecuted are not limited only to the specific provisions made in the Income Tax Act, The Essential Commodities Act, The Prevention of Food Adulteration Act.	Arguments of Petitioner
+Mr. Jethmalani relied on Kalpnath Rai Vs. State ((1997) 8 SCC 732 ), Asstt.	Arguments of Petitioner
+Commr.	Arguments of Respondent
+Vs. Velliappa Textiles Ltd ((2003) 11 SCC 405 )., and Standard Chartered Bank Vs.	Arguments of Petitioner
+Directorate of Enforcement ((2005) 4 SCC 405).	Arguments of Petitioner
+It was finally submitted by Mr. Jethmalani that the High Court has converted itself into the Court of a Judicial Magistrate and conducted an inquiry under Section 202, 244 and 245.	Arguments of Petitioner
+Mr. Parag Tripathi, the learned Addl.	Arguments of Respondent
+Solicitor General submitted that the High Court was unnecessarily influenced by the fact that the service has not been duly affected on the respondent.	Arguments of Respondent
+This did not lead to the only conclusion that the defective service was a deliberate attempt to enable the appellants to adopt coercive process against the respondent.	Arguments of Respondent
+It is further submitted by Learned ASG that the High Court wrongly concluded that the highlighting of the risk factors would absolve the respondents of the criminal liability.	Arguments of Respondent
+According to the ASG, the mere existence of an arbitration clause, does not lead to the conclusion that there can be no criminal liability in such cases.	Arguments of Respondent
+In support of the submissions, the ASG relied on Trisuns Chemical Industry Vs.	Arguments of Respondent
+Rajesh Agarwal ((1999) 8 SCC 686 ), It is further submitted that the respondent company cannot hide behind the defence that the company is incapable of possessing the necessary mens rea for commission of the offence of cheating.	Arguments of Respondent
+In support of the submissions, he relied upon the following judgments Asstt.	Arguments of Respondent
+Commr.	Arguments of Respondent
+Vs. Velliappa Textiles Ltd Supra., Standard Chartered Bank Vs.	Arguments of Respondent
+Directorate of Enforcement Supra.	Arguments of Respondent
+We may now note the submission of Mr. Ashok Desai.	None
+The learned senior counsel at the very out set, submitted that even the basic facts have not been placed before this Court.	None
+According to him there were three things which have to be noted.	None
+Firstly, no representation was made by Motorola as such.	None
+Secondly, Iridium Inc was a company controlled by strategic investors.	None
+Thirdly, representations were not of existing facts but future projections wherein every possible warning was given.	None
+According to the learned senior counsel, the most important aspect of the case are that We are dealing with a prospectus.	None
+We are dealing with technological development.	None
+Therefore, it can succeed or it can fail.	None
+Then again we are dealing with feasibility.	None
+Mr. Desai submitted that the Iridium system was and is a technological success.	None
+It is being used in global aerospace programmes and defence departments of different countries.	None
+One of its major customers is the Indian Defence Forces.	None
+Merely because the satellite mobile system is not a commercial success is not sufficient to establish that the respondent company had any dishonest intention.	None
+Mobile phones seem to have overtaken the entire market.	None
+Even the satellite phones and used when the mobile phone service is not available.	None
+That is particularly so in remote and inaccessible terrain.	None
+He then submitted that while seeking investments from strategic investors, the 1992 PPM contained all the necessary information.	None
+The statements in the PPM related to future projections.	None
+They were based on certain assumptions.	None
+Merely because the expectations of the appellant were not realized, it would not be sufficient to establish dishonest intention of the respondents.	None
+The representations were made to strategic investors.	None
+These were individuals, firms and entities, who were experts in their field.	None
+They had been duly forewarned of the risk factors.	None
+Therefore, the High Court rightly concluded that the complaint even if it is accepted in toto, would not disclose the necessary ingredients to establish criminal liability.	None
+Mr. Desai reiterated that the risk factors had been prominently displayed at the commencement of the PPM.	None
+In order to ensure that the investors were well aware of the risks involved, they were invited to be guided by the counsel or their own experts.	None
+Each investor had therefore accepted and acknowledged that in making the investments, they had relied only on the advice of their own experts.	None
+Mr. Desai then submitted that the High Court correctly relied upon the documents placed on record by the respondent.	None
+These were documents which were required to be placed before the Magistrate by the appellants.	None
+They were deliberately withheld to mislead the Magistrate into issuing process.	None
+This according to him would amount to playing a fraud on court.	None
+He then submitted that in spite of the fact that the respondent had not been duly served in order to avoid incalculable damage to its image, reputation and business prospects.	None
+The respondent was compelled to move to the High Court for nipping in the bud a wholly frivolous and unjustified criminal prosecution.	None
+The High Court was also justified in relying on the documents as the appellants had relied on the reply to the notice before the Magistrate.	None
+They had, however not placed on the record the notice, and the accompanying documents.	None
+The High Court also correctly stated the legal position with regard to the inability of a company to possess the necessary mens rea for the commission of a criminal offence.	None
+According to Mr. Desai, the facts pleaded would disclose only civil liability at best.	None
+It is submitted by him that it was not necessary for the High Court to permit the matter to proceed any further.	None
+The High Court on a correct interpretation of the various clauses of the 1992 PPM and the Stock Purchase Agreements of 1993 and 1994, concluded that it was a case of pure and simple civil liability.	None
+It was further submitted that the High Court was within its jurisdiction to look at all the documents including the documents which were not on record.	None
+The power of the High Court under Section 482 Cr.P.C is much wider than the revisional jurisdiction of the High Court Cr.	None
+P.C under Section 401 Cr.	None
+P.C.	Reasoning
+In support of the submissions, the learned counsel has relied on Madhavrao Jiwajirao Scindia and Others Vs.	None
+Sambhajirao Chandrojirao Angre and Others ((1988) 1 SCC 692 )	None
+State of Orissa	None
+Vs.	None
+Debendra Nath Padhi ((2005) 1 SCC 568 ) and M.N. Ojha and Others Vs.	None
+Alok Kumar Srivastav and Another ((2009) 9 SCC 682 ).	None
+Mr. Desai also pointed out that the representations were not made in the year 1992 as the appellant was not incorporated till 1994, therefore, it was impossible to have made any representation to the complainant.	None
+Even otherwise, the representations were accompanied by prominent risk factors.	None
+The representations related to future projections and expectations.	None
+This is patent from the fact that although the representations were made in the year 199293, the system itself was not commissioned till 1998.	None
+The High Court, according to Mr. Desai, correctly relied on the risk factors.	None
+This is especially important since one Mr. S.H. Khan had been nominated by the appellant on the Board of Directors of the respondent.	None
+Apart from being a Director, he was a member of the Finance Committee and Related Party Contracts Committee of Iridium Inc.	None
+Therefore, the appellants were well aware of the risk factors.	None
+We have considered the submissions made by the learned senior counsel.	None
+A bare perusal of the submissions would be sufficient to amply demonstrate that this cannot be said to be an open and shut case for either of the parties.	None
+There is much to be said on both sides.	None
+The entire scenario painted by both the sides is circumscribed by ifs and buts.	None
+A mere reading of the 1992 PPM would not be sufficient to conclude that the entire information has been given to the prospective investors.	None
+Similarly, merely because there may have been some gaps in the information provided in the PPM would not be sufficient to conclude that the respondents have made deliberate misrepresentations.	None
+In such circumstances, we have to examine whether it was appropriate for the High Court to exercise its jurisdiction under Section 482 Cr.P.C. to quash the proceedings at the stage when the Magistrate had merely issued process against the respondents.	None
+The contours within which the High Court would exercise its jurisdiction to quash the criminal proceeding has been dilated upon, and well defined by this Court in a catena of judgments.	Reasoning
+We may make a reference here only to a few representative cases.	Reasoning
+In the case of Smt.	Reasoning
+Nagawwa Vs. Veeranna Supra considering the limits within which the Magistrate is required to conduct an inquiry under Section 202 of the Cr.P.C., this Court observed that the scope of such inquiry is (Para 4) extremely limited  limited only to the ascertainment of the truth or falsehood of the allegations made in the complaint (i) on the materials placed by the complainant before the Court (ii) for the limited purpose of finding out whether a prima facie case for issue of process has been made out and (iii) for deciding the question purely from the point of view of the complainant without at all adverting to any defence that the case may have.	Reasoning
+In fact it is well settled that in proceedings under Section 202, the accused has got absolutely no locus standi and is not entitled to be heard on the question whether the process should be issued against him or not.	Reasoning
+It has been further held (Para 5) as follows Once the Magistrate has exercised his discretion it is not for the High Court, or even this Court, to substitute its own discretion for that of the Magistrate or to examine the case on merits with a view to find out whether or not the allegations in the complaint, if proved, would ultimately end in conviction of the accused.	None
+These considerations, in our opinion, are totally foreign to the scope and ambit of an inquiry under Section 202 of the Code of Criminal Procedure which culminates into an order under Section 204 of the Code.	None
+Thus it may be safely held that in the following cases an order of the Magistrate issuing process against the accused can be quashed or set aside (1) where the allegations made in the complaint or the statements of the witnesses recorded in support of the same taken at their face value make out absolutely no case against the accused or the complaint does not disclose the essential ingredients of an offence which is alleged against the accused (2) where the allegations made in the complaint are patently absurd and inherently improbable so that no prudent person can ever reach a conclusion that there is sufficient ground for proceeding against the accused (3) where the discretion exercised by the Magistrate in issuing process is capricious and arbitrary having been based either on no evidence or on materials which are wholly irrelevant or inadmissible and (4) where the complaint suffers from fundamental legal defects, such as, want of sanction, or absence of a complaint by legally competent authority and the like.	None
+The aforesaid examples are of course purely illustrative and provide sufficient guidelines to indicate the contingencies where the High Court can quash proceedings.	None
+This Court in the case of Kurukshetra University Vs.	None
+State of Haryana ((1977) 4 SCC 451 ), again stated the principle regarding the exercise of the inherent powers conferred by Section 482 Cr.	None
+P.C. Chandrachud J. speaking for the Bench observed as follows It ought to be realised that inherent powers do not confer an arbitrary jurisdiction on the High Court to act according to whim or caprice.	None
+That statutory power has to be exercised sparingly, with circumspection and in the rarest of rare cases.	None
+In Municipal Corporation of Delhi Vs.	None
+Ram Kishan Rohtagi supra this Court reiterated the legal position with regard to the limits of the power under Section 482, as stated in the case of Raj Kapoor and Others Vs.	None
+State ((1980) 1 SCC 43 )	None
+wherein Krishna Iyer, J., observed as follows Even so, a general principle pervades this branch of law when a specific provision is made easy resort to inherent power is not right except under compelling circumstances.	None
+Not that there is absence of jurisdiction but that inherent power should not invade areas set apart for specific power under the same Code.	None
+This Court also reiterated the four propositions of law which were said to be illustrative in the case of Smt.	None
+Nagawwa Vs. Veeranna supra.	None
+It was further held as follows It is, therefore, manifestly clear that proceedings against an accused in the initial stages can be quashed only if on the face of the complaint or the papers accompanying the same, no offence is constituted.	None
+In other words, the test is that taking the allegations and the complaint as they are, without adding or subtracting anything, if no offence is made out then the High Court will be justified in quashing the proceedings in exercise of its powers under Section 482 of the present Code.	None
+The aforesaid proposition of law was again reiterated by this Court in the case of Madhavrao Jiwajirao Scindia and Others Vs.	None
+Sambhajirao Chandrojirao Angre and Others supra in the following words The legal position is well settled that when a prosecution at the initial stage is asked to be quashed, the test to be applied by the court is as to whether the uncontroverted allegations as made prima facie establish the offence.	None
+It is also for the court to take into consideration any special features which appear in a particular case to consider whether it is expedient and in the interest of justice to permit a prosecution to continue.	None
+This is so on the basis that the court cannot be utilised for any oblique purpose and where in the opinion of the court chances of an ultimate conviction are bleak and, therefore, no useful purpose is likely to be served by allowing a criminal prosecution to continue, the court may while taking into consideration the special facts of a case also quash the proceeding even though it may be at a preliminary stage.	None
+The aforesaid ratio of law was further elaborately discussed in the case of State of Haryana Vs.	None
+Bhajan Lal Supra, wherein this court had formulated certain principles pertaining to the exercise of such power in the following words In the backdrop of the interpretation of the various relevant provisions of the Code under Chapter XIV and of the principles of law enunciated by this Court in a series of decisions relating to the exercise of the extraordinary power under Article 226 or the inherent powers under Section 482 of the Code which we have extracted and reproduced above, we give the following categories of cases by way of illustration wherein such power could be exercised either to prevent abuse of the process of any court or otherwise to secure the ends of justice, though it may not be possible to lay down any precise, clearly defined and sufficiently channelised and inflexible guidelines or rigid formulae and to give an exhaustive list of myriad kinds of cases wherein such power should be exercised.	None
+Where the allegations made in the first information report or the complaint, even if they are taken at their face value and accepted in their entirety do not prima facie constitute any offence or make out a case against the accused.	None
+Where the allegations in the first information report and other materials, if any, accompanying the FIR do not disclose a cognizable offence, justifying an investigation by police officers under Section 156(1) of the Code except under an order of a Magistrate within the purview of Section 155(2) of the Code.	None
+Where the uncontroverted allegations made in the FIR or complaint and the evidence collected in support of the same do not disclose the commission of any offence and make out a case against the accused.	None
+Where, the allegations in the FIR do not constitute a cognizable offence but constitute only a noncognizable offence, no investigation is permitted by a police officer without an order of a Magistrate as contemplated under Section 155(2) of the Code.	None
+Where the allegations made in the FIR or complaint are so absurd and inherently improbable on the basis of which no prudent person can ever reach a just conclusion that there is sufficient ground for proceeding against the accused.	None
+Where there is an express legal bar engrafted in any of the provisions of the Code or the concerned Act (under which a criminal proceeding is instituted) to the institution and continuance of the proceedings and or where there is a specific provision in the Code or the concerned Act, providing efficacious redress for the grievance of the aggrieved party.	None
+Where a criminal proceeding is manifestly attended with mala fide and or where the proceeding is maliciously instituted with an ulterior motive for wreaking vengeance on the accused and with a view to spite him due to private and personal grudge.	None
+We also give a note of caution to the effect that the power of quashing a criminal proceeding should be exercised very sparingly and with circumspection and that too in the rarest of rare cases that the court will not be justified in embarking upon an enquiry as to the reliability or genuineness or otherwise of the allegations made in the FIR or the complaint and that the extraordinary or inherent powers do not confer an arbitrary jurisdiction on the court to act according to its whim or caprice.	None
+The aforesaid ratio of law was further reiterated in the case of Janata Dal Vs.	None
+H.S. Chowdhary ((1992) 4 SCC 305 ) in the following words The criminal courts are clothed with inherent power to make such orders as may be necessary for the ends of justice.	None
+Such power though unrestricted and undefined should not be capriciously or arbitrarily exercised, but should be exercised in appropriate cases, ex debito justitiae to do real and substantial justice for the administration of which alone the courts exist.	None
+The powers possessed by the High Court under Section 482 of the Code are very wide and the very plenitude of the power requires great caution in its exercise.	None
+Courts must be careful to see that its decision in exercise of this power is based on sound principles.	None
+This Court in Dr Raghubir Sharan Vs.	None
+State of Bihar had an occasion to examine the extent of inherent power of the High Court and its jurisdiction when to be exercised.	None
+Mudholkar, J. speaking for himself and Raghubar Dayal, J. after referring to a series of decisions of the Privy Council and of the various High Courts held thus (E)very High Court as the highest court exercising criminal jurisdiction in a State has inherent power to make any order for the purpose of securing the ends of justice Being an extraordinary power it will, however, not be pressed in aid except for remedying a flagrant abuse by a subordinate court of its powers This inherent power conferred by Section 482 of the Code should not be exercised to stifle a legitimate prosecution.	None
+The High Court being the highest court of a State should normally refrain from giving a premature decision in a case wherein the entire facts are extremely incomplete and hazy, more so when the evidence has not been collected and produced before the Court and the issues involved whether factual or legal are of great magnitude and cannot be seen in their true perspective without sufficient material.	None
+Of course, no hard and fast rule can be laid down in regard to the cases in which the High Court will exercise its extraordinary jurisdiction of quashing the proceedings at any stage Adverting to the scope of the jurisdiction of the High Court under Section 482, this Court in the case of State of Orissa Vs.	None
+Debendra Nath Padhi ((2005) 1 SCC 568 ) again reiterated as follows It is evident from the above that this Court was considering the rare and exceptional cases where the High Court may consider unimpeachable evidence while exercising jurisdiction for quashing under Section 482 of the Code.	None
+In the present case, however, the question involved is not about the exercise of jurisdiction under Section 482 of the Code where along with the petition the accused may file unimpeachable evidence of sterling quality and on that basis seek quashing, but is about the right claimed by the accused to produce material at the stage of framing of charge.	None
+Again upon a very elaborate examination of the powers possessed by the High Court under Section 482 Cr.P.C., this Court in the case of Inder Mohan Goswami and Anr.	None
+Vs.	None
+State of Uttaranchal and Ors.	None
+((2007) 12 SCC 1 ) very clearly observed that the aforesaid powers are very wide and the very plentitude of the power requires great caution in its exercise.	None
+The Court must be careful to see that its decision in exercise of this power is based on sound principles.	None
+It is clearly observed that the High Courts have been invested with inherent powers, both in civil and criminal matters, to achieve a salutary public purpose.	None
+A Court proceeding ought not to be permitted to degenerate into a weapon of harassment or persecution.	None
+At the same time, it is also observed that the inherent power should not be exercised to stifle a legitimate prosecution.	Reasoning
+The High Court should normally refrain from giving a prima facie decision in a case where all the facts are incomplete and hazy, more so, when the evidence has not been collected and produced before the Court and the issues involved, whether factual or legal are of such magnitude that they cannot be seen in their true perspective without sufficient material.	None
+Reiterating the observations made by this Court in the case of Indian Oil Corporation Vs. NEPC India Ltd. and Ors ((2006) 6 SCC 736 ), the Court again cautioned about a growing tendency in business circles to convert purely civil disputes into criminal cases.	None
+The Court reiterated that any effort to settle civil disputes and claims, which do not involve any criminal offence, by applying pressure through criminal prosecution should be deprecated and discouraged.	None
+The limits within which the jurisdiction under Section 482 can be exercised was again precisely stated in the case of Divine Retreat Centre Vs. State of Kerala ((2008) 3 SCC 542 ), as follows In our view, there is nothing like unlimited arbitrary jurisdiction conferred on the High Court under Section 482 of the Code.	None
+The power has to be exercised sparingly, carefully and with caution only where such exercise is justified by the tests laid down in the section itself.	None
+It is well settled that Section 482 does not confer any new power on the High Court but only saves the inherent power which the Court possessed before the enactment of the Code.	None
+There are three circumstances under which the inherent jurisdiction may be exercised, namely, (i) to give effect to an order under the Code, (ii) to prevent abuse of the process of court, and (iii) to otherwise secure the ends of justice.	None
+In the case of M.N. Ojha and Others Vs.	None
+Alok Kumar Srivastav and Another supra, this Court was dealing with a situation where the SDJM had issued process mechanically and without any application of mind.	None
+Furthermore, the High Court had dismissed a petition for quashing the order of SDJM by a cryptic and nonspeaking order.	None
+In such circumstances, this Court observed  Had the learned SDJM applied his mind to the facts and circumstances and sequence of events and as well as the documents filed by the complainant himself along with the complaint, surely he would have dismissed the complaint.	None
+He would have realised that the complaint was only a counterblast to the FIR lodged by the Bank against the complainant and others with regard to the same transaction.	None
+The case on hand is a classic illustration of nonapplication of mind by the learned Magistrate.	None
+The learned Magistrate did not scrutinise even the contents of the complaint, leave aside the material documents available on record.	None
+The learned Magistrate truly was a silent spectator at the time of recording of preliminary evidence before summoning the appellants.	None
+The High Court committed a manifest error in disposing of the petition filed by the appellants under Section 482 of the Code without even adverting to the basic facts which were placed before it for its consideration.	None
+It is true that the Court in exercise of its jurisdiction under Section 482 of the Code of Criminal Procedure cannot go into the truth or otherwise of the allegations and appreciate the evidence if any available on record.	None
+Normally, the High Court would not intervene in the criminal proceedings at the preliminary stage when the investigation enquiry is pending.	None
+Interference by the High Court in exercise of its jurisdiction under Section 482 of the Code of Criminal Procedure can only be where a clear case for such interference is made out.	None
+Frequent and uncalled for interference even at the preliminary stage by the High Court may result in causing obstruction in progress of the inquiry in a criminal case which may not be in the public interest.	None
+But at the same time the High Court cannot refuse to exercise its jurisdiction if the interest of justice so required where the allegations made in the FIR or complaint are so absurd and inherently improbable on the basis of which no fair minded and informed observer can ever reach a just and proper conclusion as to the existence of sufficient grounds for proceeding.	None
+In such cases refusal to exercise the jurisdiction may equally result in injustice more particularly in cases where the complainant sets the criminal law in motion with a view to exert pressure and harass the persons arrayed as accused in the complaint.	None
+Keeping in view the aforesaid principles, we may now examine as to whether the High Court has adopted the correct approach while exercising its inherent power under Section 482 Cr.P.C.	Reasoning
+The High Court notices in extenso the facts as narrated above.	Reasoning
+Thereafter the High Court notices the submissions made on behalf of the parties.	Reasoning
+It was observed by the High Court that a company corporation will not have the mens rea for commission of the offence under Section 415 IPC.	Reasoning
+The High Court relied on the observations made by this Court in the case of Kalpanath Rai Vs. State ((1997) 8 SCC 732 ) and distinguished the judgment in the case of M.V. Javali Vs. Mahajan Borewell Co. ((1997) 8 SCC 72 ).	Reasoning
+It is held that a company being a juridical person cannot have the intention to deceive, which is the necessary mens rea for the offence of cheating.	Reasoning
+According to the High court, although a company can be a victim of deception, it can not be the perpetrator of deception.	Reasoning
+It can only be a natural person who is capable of having mens rea to commit the offence.	Reasoning
+According to the High Court, the same reasoning would also apply in respect of the offence of conspiracy which involves a guilty mind to do an illegal thing.	Reasoning
+The judgments relied upon by the complainant are distinguished by the High Court, as they pertain to special provisions contained in different statutes such as, Income Tax Act, Essential Commodities Act, Food Adulteration Act and TADA Act.	Reasoning
+It is noticed that in Kalpanath Rai Vs. State Supra this Court was concerned with the provisions of TADA Act.	Reasoning
+The High Court was further of the opinion that Indian Penal Code does not contain any provision similar to the aforesaid acts.	Reasoning
+Since the offence of cheating under Section 415 and the offence of conspiracy under Section 120B can only be committed by a natural person, the word whoever cannot include in its sweep, a juridical person like a company.	Reasoning
+The High Court notices the judgment of the Calcutta High Court in the case of A.K. Khosla Vs. T.S. Venkatesan (1992 Crl.	Reasoning
+L.J. 1448) wherein it was held that there are two tests in respect of prosecution of a corporate body i.e. first being the test of mens era and the other being the mandatory sentence of imprisonment.	Reasoning
+However, no opinion has been expressed there upon by the High Court.	Reasoning
+In view of the aforesaid conclusions, the High Court has held that the complaint would not be maintainable against the respondent.	Reasoning
+We are of the considered opinion that there is much substance in the submission of Mr. Jethmalani that virtually in all jurisdictions across the world governed by the rule of law, the companies and corporate houses can no longer claim immunity from criminal prosecution on the ground that they are incapable of possessing the necessary mens rea for the commission of criminal offences.	Reasoning
+The legal position in England and the United States has now crystallized to leave no manner of doubt that a corporation would be liable for crimes of intent.	Reasoning
+In the year 1909, the United States Supreme Court in New York	None
+Central Hudson River Railroad Co.	None
+Vs. United States (53 L Ed 613), stated the principle thus It is true that there are some crimes which, in their nature, cannot be committed by corporations.	None
+But there is a large class of offences, of which rebating under the federal statutes is one, wherein the crime consists in purposely doing the things prohibited by statute.	None
+In that class of crimes we see no good reason why corporations may not be held responsible for and charged with the knowledge and purposes of their agents, acting within the authority conferred upon them.	None
+If it were not so, many offences might go unpunished and acts be committed in violation of law where, as in the present case, the statute requires all persons, corporate or private, to refrain from certain practices, forbidden in the interest of public policy.	None
+We see no valid objection in law, and every reason in public policy, why the corporation, which profits by the transaction, and can only act through its agents and officers, shall be held punishable by fine because of the knowledge and intent of its agents to whom it has entrusted authority to act in the subjectmatter of making and fixing rates of transportation, and whose knowledge and purposes may well be attributed to the corporation for which the agents act.	None
+While the law should have regard to the rights of all, and to those of corporations no less than to those of individuals, it cannot shut its eyes to the fact that the great majority of business transactions in modern times are conducted through these bodies, and particularly that interState commerce is almost entirely in their hands, and to give them immunity from all punishment because of the old and exploded doctrine that a corporation cannot commit a crime would virtually take away the only means of effectually controlling the subjectmatter and correcting the abuses aimed at.	None
+The aforesaid sentiment is reiterated in the 19 American Jurisprudence 2d para 1434 in the following words Lord Holt is reported to have said (Anonymous, 12 Mod 559, 88 Eng Reprint 1164) that a corporation is not indictable, but the particular members of it are.	None
+On the strength of this statement it was said by the early writers that a corporation is not indictable at common law, and this view was taken by the courts in some of the earlier cases.	None
+The broad general rule is now well established, however, that a corporation may be criminally liable.	None
+This rule applies as well to acts of misfeasance as to those of nonfeasance, and it is immaterial that the Act constituting the offence was ultra vires.	None
+It has been held that a de facto corporation may be held criminally liable.	None
+As in case of torts the general rule prevails that a corporation may be criminally liable for the acts of an officer or agent, assumed to be done by him when exercising authorized powers, and without proof that his act was expressly authorized or approved by the corporation.	None
+A specific prohibition made by the corporation to its agents against violation of the law is no defence.	None
+The rule has been laid down, however, that corporations are liable, civilly or criminally, only for the acts of their agents who are authorized to act for them in the particular matter out of which the unlawful conduct with which they are charged grows or in the business to which it relates.	None
+Again in 19 Corpus Juris Secundum, para 1363 it has been observed as under A corporation may be criminally liable for crimes which involve a specific element of intent as well for those which do not, and, although some crimes require such a personal, malicious intent, that a corporation is considered incapable of committing them, nevertheless, under the proper circumstances the criminal intent of its agent may be imputed to it so as to render it liable, the requisites of such imputation being essentially the same as those required to impute malice to corporations in civil actions.	None
+The Courts in England have emphatically rejected the notion that a body corporate could not commit a criminal offence which was an outcome of an act of will needing a particular state of mind.	None
+The aforesaid notion has been rejected by adopting the doctrine of attribution and imputation.	None
+In other words, the criminal intent of the alter ego of the company body corporate, i.e., the person or group of person that guide the business of the company, would be imputed to the corporation.	None
+It may be appropriate at this stage to notice the observations made by the MacNaghten, J. in the case of Director of Public Prosecutions Vs.	None
+Kent and Sussex Contractors Ltd. 1944 1	None
+All ER 119)	None
+A body corporate is a person to whom, amongst the various attributes it may have, there should be imputed the attribute of a mind capable of knowing and forming an intention  indeed it is much too late in the day to suggest the contrary.	None
+It can only know or form an intention through its human agents, but circumstances may be such that the knowledge of the agent must be imputed to the body corporate.	None
+Counsel for the respondents says that, although a body corporate may be capable of having an intention, it is not capable of having a criminal intention.	None
+In this particular case the intention was the intention to deceive.	None
+If, as in this case, the responsible agent of a body corporate puts forward a document knowing it to be false and intending that it should deceive, I apprehend, according to the authorities that Viscount Caldecote, L.C.J., has cited, his knowledge and intention must be imputed to the body corporate.	None
+The principle has been reiterated by Lord Denning in the case of H.L.Bolton (Engg.)	None
+Co. Ltd.	None
+Vs.	None
+T.J.Graham Sons (1956 3 All ER 624) in the following words A company may in many ways be likened to a human body.	None
+They have a brain and a nerve centre which controls what they do.	None
+They also have hands which hold the tools and act in accordance with directions from the centre.	None
+Some of the people in the company are mere servants and agents who are nothing more than hands to do the work and cannot be said to represent the mind or will.	None
+Others are directors and managers who represent the directing mind and will of the company, and control what they do.	None
+The state of mind of these managers is the state of mind of the company and is treated by the law as such.	None
+So you will find that in cases where the law requires personal fault as a condition of liability in tort, the fault of the manager will be the personal fault of the company.	None
+That is made clear in Lord Haldanes speech in	None
+Lennards Carrying Co. Ltd.	None
+Vs. Asiatic Petroleum Co. Ltd. (AC at pp.	None
+713, 714).	None
+So also in the criminal law, in cases where the law requires a guilty mind as a condition of a criminal offence, the guilty mind of the directors or the managers will render the company themselves guilty.	None
+The aforesaid principle has been firmly established in England since the decision of House of Lords in Tesco Supermarkets Ltd.	None
+Vs. Nattrass (1971 All ER 127).	None
+In stating the principle of corporate liability for criminal offences, Lord Reid made the following statement of law I must start by considering the nature of the personality which by a fiction the law attributes to a corporation.	None
+A living person has a mind which can have knowledge or intention or be negligent and he has hands to carry out his intentions.	None
+A corporation has none of these it must act through living persons, though not always one or the same person.	None
+Then the person who acts is not speaking or acting for the company.	None
+He is acting as the company and his mind which directs his acts is the mind of the company.	None
+There is no question of the company being vicariously liable.	None
+He is not acting as a servant, representative, agent or delegate.	None
+He is an embodiment of the company or, one could say, he hears and speaks through the persona of the company, within his appropriate sphere, and his mind is the mind of the company.	None
+If it is guilty mind then that guilt is the guilt of the company.	None
+It must be a question of law whether, once the facts have been ascertained, a person in doing particular things is to be regarded as the company or merely as the companys servant or agent.	None
+In that case any liability of the company can only be a statutory or vicarious liability.	None
+From the above it becomes evident that a corporation is virtually in the same position as any individual and may be convicted of common law as well as statutory offences including those requiring mens rea.	Reasoning
+The criminal liability of a corporation would arise when an offence is committed in relation to the business of the corporation by a person or body of persons in control of its affairs.	Reasoning
+In such circumstances, it would be necessary to ascertain that the degree and control of the person or body of persons is so intense that a corporation may be said to think and act through the person or the body of persons.	Reasoning
+The position of law on this issue in Canada is almost the same.	Reasoning
+Mens rea is attributed to corporations on the principle of alter ego of the company.	Reasoning
+So far as India is concerned, the legal position has been clearly stated by the Constitution Bench judgment of this Court in the case of Standard Chartered Bank Vs.	None
+Directorate of Enforcement Supra On a detailed consideration of the entire body of case laws in this country as well as other jurisdictions, it has been observed as follows There is no dispute that a company is liable to be prosecuted and punished for criminal offences.	None
+Although there are earlier authorities to the effect that corporations cannot commit a crime, the generally accepted modern rule is that except for such crimes as a corporation is held incapable of committing by reason of the fact that they involve personal malicious intent, a corporation may be subject to indictment or other criminal process, although the criminal act is committed through its agents.	None
+This Court also rejected the submission that a company could avoid criminal prosecution in cases where custodial sentence is mandatory.	None
+Upon examination of the entire issue, it is observed as follows In the case of Penal Code offences, for example under Section 420 of the Indian Penal Code, for cheating and dishonestly inducing delivery of property, the punishment prescribed is imprisonment of either description for a term which may extend to seven years and shall also be liable to fine and for the offence under Section 417, that is, simple cheating, the punishment prescribed is imprisonment of either description for a term which may extend to one year or with fine or with both.	None
+If the appellants plea is accepted then for the offence under Section 417 IPC, which is an offence of minor nature, a company could be prosecuted and punished with fine whereas for the offence under Section 420, which is an aggravated form of cheating by which the victim is dishonestly induced to deliver property, the company cannot be prosecuted as there is a mandatory sentence of imprisonment.	None
+So also there are several other offences in the Indian Penal Code which describe offences of serious nature whereunder a corporate body also may be found guilty, and the punishment prescribed is mandatory custodial sentence.	None
+There are a series of other offences under various statutes where the accused are also liable to be punished with custodial sentence and fine.	None
+As the company cannot be sentenced to imprisonment, the court has to resort to punishment of imposition of fine which is also a prescribed punishment.	None
+As per the scheme of various enactments and also the Indian Penal Code, mandatory custodial sentence is prescribed for graver offences.	None
+If the appellants plea is accepted, no company or corporate bodies could be prosecuted for the graver offences whereas they could be prosecuted for minor offences as the sentence prescribed therein is custodial sentence or fine.	None
+As the company cannot be sentenced to imprisonment, the court cannot impose that punishment, but when imprisonment and fine is the prescribed punishment the court can impose the punishment of fine which could be enforced against the company.	None
+Such a discretion is to be read into the section so far as the juristic person is concerned.	None
+Of course, the court cannot exercise the same discretion as regards a natural person.	None
+Then the court would not be passing the sentence in accordance with law.	None
+As regards company, the court can always impose a sentence of fine and the sentence of imprisonment can be ignored as it is impossible to be carried out in respect of a company.	None
+This appears to be the intention of the legislature and we find no difficulty in construing the statute in such a way.	None
+We do not think that there is a blanket immunity for any company from any prosecution for serious offences merely because the prosecution would ultimately entail a sentence of mandatory imprisonment.	None
+The corporate bodies, such as a firm or company undertake a series of activities that affect the life, liberty and property of the citizens.	None
+Largescale financial irregularities are done by various corporations.	None
+The corporate vehicle now occupies such a large portion of the industrial, commercial and sociological sectors that amenability of the corporation to a criminal law is essential to have a peaceful society with stable economy.	None
+We hold that there is no immunity to the companies from prosecution merely because the prosecution is in respect of offences for which the punishment prescribed is mandatory imprisonment (sic and fine).	None
+We overrule the views expressed by the majority in Velliappa Textiles1 on this point and answer the reference accordingly.	None
+Various other contentions have been urged in all appeals, including this appeal, they be posted for hearing before an appropriate Bench.	None
+These observations leave no manner of doubt that a company corporation cannot escape liability for a criminal offence, merely because the punishment prescribed is that of imprisonment and fine.	Reasoning
+We are of the considered opinion that in view of the aforesaid Judgment of this Court, the conclusion reached by the High Court that the respondent could not have the necessary mens rea is clearly erroneous.	Reasoning
+The next important question which needs to be examined is as to whether the averments made in the complaint if taken on their face value would not prima facie disclose the ingredients for the offence of cheating as defined under Section 415 IPC.	Issue
+The aforesaid section is as under Cheating.	None
+Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceive, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.	None
+Explanation A dishonest concealment of facts is a deception within the meaning of the section.	None
+A bare perusal of the aforesaid section would show that it can be conveniently divided into two parts.	Reasoning
+The first part makes it necessary that the deception by the accused of the person deceived, must be fraudulent or dishonest.	Reasoning
+Such deception must induce the person deceived to either (a) deliver property to any person or (b) consent that any person shall retain any property.	Reasoning
+The second part also requires that the accused must by deception intentionally induce the person deceived either to do or omit to do anything which he would not do or omit, if he was not so deceived.	Reasoning
+Furthermore, such act or omission must cause or must be likely to cause damage or harm to that person in body, mind, reputation or property.	Reasoning
+Thus, it is evident that deception is a necessary ingredient for the offences of cheating under both parts of this section.	Reasoning
+The complainant, therefore, necessarily needs to prove that the inducement had been caused by the deception exercised by the accused.	Reasoning
+Such deception must necessarily produce the inducement to part with or deliver property, which the complainant would not have parted with or delivered, but for the inducement resulting from deception.	Reasoning
+The explanation to the section would clearly indicate that there must be no dishonest concealment of facts.	Reasoning
+In other words, nondisclosure of relevant information would also be treated as a misrepresentation of facts leading to deception.	None
+It was, therefore, necessary for the High Court to examine the averments in the complaint in terms of the aforesaid section.	None
+The High Court upon detailed examination of the 1992 PPM, the Stock Purchase Agreements and the 1995 PPM concluded that even if the averments made in the complaint are accepted on their face value, it would only disclose a civil dispute between the parties.	Reasoning
+Surprisingly, the High Court notices the representations that were made and contrasted the same with the actual realities and yet concluded that the averments made in the complaint even if taken at their face value would not lead to the conclusion that the respondent has committed the offence of cheating.	Reasoning
+In coming to the aforesaid conclusions, the High Court has given elaborate reasons.	Reasoning
+The High Court negated the submissions of the appellant that 1992 PPM is in the nature of a prospectus or a brochure, which requires that all technical information touching upon the commercial feasibility of the project had to be faithfully and fully disclosed.	Reasoning
+The submission is rejected with the observation that the 1992 PPM contained the following caution An investment in Iridium involves certain risks, many of which relate to the factors and developments listed above, prospective investors should carefully consider the disclosures set forth elsewhere in this memorandum, including those under the caption risk factors(1992 PPM Pg. 5) The High Court also accepted the submissions of the respondent that the 1992 PPM contained a separate chapter titled Risk Factors.	Reasoning
+This portion related to the most important risk factors which were as follows New regulated Business Venture.	Reasoning
+The Company is a new business venture of global scope that will require substantial licensing and authorizations from numerous sovereign nations before its business can be conducted in the manner contemplated by its current business plan.	Reasoning
+Therefore in deciding whether to invest in Shares, prospective investors must evaluate among other things, the potential feasibility and future performance of the Company based on its business plan without benefit of any operating history, and prior to application for an receipt of such licensing and authorizations.	Reasoning
+No assurance can be given that any of the necessary licenses and authorizations will be obtained in a timely or at all.	Reasoning
+(1992 PPM Pg. 72)	Reasoning
+According to the High Court, the respondent No.1 did not keep the investors in dark about the Iridium System and gave them all necessary information in respect of various aspects of the system.	Reasoning
+In coming to the aforesaid conclusion, the High Court observed that a bare perusal of the complaint shows that there is no reference to the Stock Purchase Agreements of 1993 and 1994.	Reasoning
+In fact, these two important documents contain acknowledgments of the investors about their capability of evaluating the merits and risks of the purchase of the shares and their relying upon their own advisors.	Reasoning
+The High Court, therefore, negated the submission that there has not been a complete and candid disclosure of the entire material which has resulted in the deception inducement of the appellant to make huge investment in the Iridium.	Reasoning
+This conclusion reached by the High Court did not take notice of the explanation to Section 415.	Reasoning
+The aforesaid explanation gives a statutory recognition to the legal principles established through various judicial pronouncements that misleading statements which withhold the vital facts for intentionally inducing a person to do or to omit to do something would amount to deception.	Reasoning
+Further, in case it is found that misleading statement has wrongfully caused damage to the person deceived it would amount to cheating.	Reasoning
+It would at this stage be appropriate to notice the observations made by the House of Lords in the case of The Director c. of the Central Railway Company of Venezuela Vs.	Reasoning
+Joseph Kisch supra which would be of some relevance to the issue under consideration.	Reasoning
+In this case, the House of Lords examined the duty of those who issued a prospectus inviting investments from the general public and held that they were required to make a true and full disclosure of all the relevant facts.	Reasoning
+The House of Lords quoted with approval the observations made in the case of New Brunswick and Canada Railway Company Vs. Muggeridge Supra wherein it has been observed as follows  those who issue a prospectus holding out to the public the great advantages which will accrue to persons who will take shares in a proposed undertaking, and inviting them to take shares on the faith of the representations therein contained, are bound to state everything with strict and scrupulous accuracy, and not only to abstain from stating as fact that which is not so, but to omit no one fact within their knowledge the existence of which might in any degree affect the nature, or extent, or quality of the privileges and advantages which the prospectus holds out as inducements to take shares.	None
+The House of Lords went on to observe that it is no answer to a person who has been deceived that he would have known the truth by proper inquiry.	None
+It would be apposite to reproduce here the observations made by the House of Lords on this aspect of the matter	None
+But it appears to me that when once it is established that there has been any fraudulent misrepresentation or willful concealment by which a person has been induced to enter into a contract, it is no answer to his claim to be relieved from it to tell him that he might have known the truth by proper inquiry.	None
+He has a right to retort upon his objector, You, at least, who have stated what is untrue or have concealed the truth, for the purpose of drawing me into a contract, cannot accuse me of want of caution because I relied implicitly upon your fairness and honesty.	None
+I quite agree with the opinion of Lord Lyndhurst, in the case of Small Vs. Attwood (1), that where representations are made with respect to the nature and character of property which is to become the subject of purchase, affecting the value of that property, and those representations afterwards turn out to be incorrect and false, to the knowledge of the party making them, a foundation is laid for maintaining an action in a Court of common law to recover damages for the deceit so practiced and in a Court of equity a foundation is laid for setting aside the contract which was founded upon that basis.	None
+And in the case of Dobell Vs. Stevens (2), to which he refers as an authority in support of the proposition, which was an action for deceit in falsely representing the amount of the business done in a public house, the purchaser was held to be entitled to recover damages, although the books were in the house, and he might have had access to them if he thought proper.	None
+Upon the whole case I think the decree of Lords Justices ought to be affirmed, and the appeal dismissed with costs.	None
+The aforesaid observations leave no manner of doubt that the appellants were entitled to an opportunity to prove the averments made in the complaint.	None
+They were entitled to establish that they have been deliberately induced into making huge investments on the basis of representations made by respondent No.1 and its representatives, which representations subsequently turned out to be completely false and fraudulent.	Reasoning
+The appellants were entitled to an opportunity to establish that respondent No.1 and its representatives were aware of the falsity of the representations at the time when they were made.	Reasoning
+The appellants have given elaborate details of the positive assertions made by respondent No.1 which were allegedly false to its knowledge.	Reasoning
+It is also claimed by the appellants that the respondent No.1 and its representatives willfully concealed facts which were material and ought to have been disclosed, but were intentionally withheld so as to deceive the appellant into advancing and expending a sum of Rs.500 Crores.	Reasoning
+As noticed earlier, both the appellants and the respondents have much to say in support of their respective view points.	Reasoning
+Which of the views is ultimately to be accepted, could only be decided when the parties have had the opportunities to place the entire materials before the Court.	Reasoning
+This Court has repeatedly held that power to quash proceedings at the initial stage have to be exercised sparingly with circumspection and in the rarest of the rare cases.	Reasoning
+The power is to be exercised ex debito justitiae.	Reasoning
+Such power can be exercised where a criminal proceeding is manifestly attended with malafide and have been instituted maliciously with ulterior motive.	Reasoning
+This inherent power ought not to be exercised to stifle a legitimate prosecution.	Reasoning
+In the present case, the parties are yet to place on the record the entire material in support of their claims.	Reasoning
+The issues involved are of considerable importance to the parties in particular, and the world of trade and commerce in general.	Reasoning
+In such circumstances, in our opinion, the High Court ought to have refrained from indulging in detailed analysis of very complicated commercial documents and reaching any definite conclusions.	Reasoning
+In our opinion, the High Court clearly exceeded its jurisdiction in quashing the criminal proceeding in the peculiar facts and circumstances of this case.	Reasoning
+The High Court noticed that while exercising jurisdiction under Section 482 Cr.	Reasoning
+P.C.	Reasoning
+the complaint in its entirety will have to be examined on the basis of the allegations made therein.	Reasoning
+But the High Court has no authority or jurisdiction to go into the matter or examine its correctness.	Reasoning
+The allegations in the complaint will have to be accepted on the face of it and the truth or falsity cannot be entered into by the Court at this stage.	Reasoning
+Having said so, the High Court proceeded to do exactly the opposite.	Reasoning
+We, therefore, allow the appeal and set aside the impugned judgment of the Bombay High Court.	Decision
+There shall be no order as to costs.	Decision

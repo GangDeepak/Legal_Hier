@@ -1,0 +1,54 @@
+ P. BHARUCHA, J.	None
+The facts that we state relate to the case of Tata Davy Limited (C.A. No. 1354 of 1991).	None
+They are substantially similar to the facts of the other appeals.	None
+The said appellant was, on February 9, 1988, declared a sick company within the meaning of the Sick Industrial Companies (Special Provisions) Act, 1985 (now referred to as the Central Act).	Facts
+On a reference, under section15 of the Central Act made on December 23, 1989, an inquiry under section 16 was made and a scheme was sanctioned by the Board for Industrial and Financial Reconstruction (now referred to as the Board) for the said appellants benefit and it was at the relevant time under implementation.3.	Facts
+For the assessment years 198384 and 198485, the said appellant was in arrears of sales tax under the Orissa Sales Tax Act, 1947 (now referred to as the State Act).	Facts
+The recovery of the said arrears was sought to be made by attachment of the said appellants property under the provisions of section13A of the State Act.	Facts
+The High Court of Orissa was considering the question whether steps to recover sales tax dues under section13A of the State Act were in the nature of proceedings by way of execution, distress or the like contemplated by section22(1) of the Central Act in a writ petition filed by Aluminium Industries Ltd. (the appellant in the other appeals) which was, as aforestated, in a position similar to that of the said appellant.	Facts
+The said appellant intervened in the writ petition and was heard.4.	Facts
+The High Court said in its judgment on the writ petition (see Tata Davy Ltd. v. Union of India that the question before it was whether the provisions of section22(1) of the Central Act overrode the provisions of section13A of the State Act.	Facts
+It held that there was no irreconcilable conflict between the two provisions as they operated in separate and distinct fields and, therefore, both were capable of being obeyed.	Facts
+The result was that section22(1) of the Central Act would not protect the properties of industrial companies from being proceeded against in exercise of the power under section13A of the State Act.5.	Facts
+Very soon after the High Courts judgment this Court decided the case of Gram Panchayat v. Shree Vallabh Glass Works Limited to which we shall make reference.	Issue
+The appellants applied to the High Court to review its decision in the light of the Vallabh Glass Works judgment.	Facts
+The High Court expressed its inability to do so.	Issue
+Hence, these appeals.	Issue
+For the purposes of appreciating the controversy, section 22(1) of the Central Act needs to be set down Suspension of legal proceedings, contracts, etc.  	None
+(1) Where in respect of an industrial company, an inquiry under section 16 is pending or any scheme referred to under section 17 is under preparation or consideration or a sanctioned scheme is under implementation or where an appeal under section 25 relating to an industrial company is pending, then, notwithstanding anything contained in the Companies Act, 1956 (1 of 1956), or any other law or the memorandum and articles of association of the industrial company or any other instrument having effect under the said Act or other law, no proceedings for the winding up of the industrial company or for execution, distress or the like against any of the properties of the industrial company or for the appointment of a receiver in respect thereof and no suit for the recovery of money or for the enforcement of any security against the industrial company or of any guarantee in respect of any loans or advance granted to the industrial company shall lie or be proceeded with further, except with the consent of the Board or, as the case may be, the appellate authority.	None
+Learned counsel for the appellants placed reliance upon the judgment in Vallabh Glass Works (SC).	Arguments of Petitioner
+Vallabh Glass Works had been declared a sick industrial company within the meaning of section3(1) (o) of the Central Act.	Arguments of Petitioner
+The appellantGram Panchayat initiated coercive proceedings under section129 of the Bombay Village Panchayat Act against Vallabh Glass Works to recover arrears of property tax.	Arguments of Petitioner
+Vallabh Glass Works filed a writ petition in the High Court at Bombay claiming the protection of section22 of the Central Act.	Arguments of Petitioner
+The writ petition was allowed, and the Gram Panchayat appealed to this Court.	Arguments of Petitioner
+This Court noted that the said Board had been satisfied by its order dated August 27, 1987, that Vallabh Glass Works had become a sick industrial company and, consequently, steps had been taken under sections 16 and 17 of the Central Act.	Arguments of Petitioner
+As soon as the enquiry under section 16 was ordered by the said Board, this Court said, the various proceedings set out under section22(1) of the Central Act were deemed to have been suspended.	Arguments of Petitioner
+Creditors could then approach the said Board for permission to proceed against the sick company for recovery of their dues and the said Board, at its discretion, could accord such approval.	Arguments of Petitioner
+If approval was not granted, the creditors remedy was not extinguished.	Arguments of Petitioner
+It was only postponed.	Arguments of Petitioner
+The section provided for exclusion of the period during which the remedy was suspended while computing the period of limitation for recovery of the dues.7.	None
+Learned counsel for the appellants submitted that in the case of Vallabh Glass Works, this Court had dealt with proceedings for recovery of dues under a State Act and had come to the conclusion that section22(1) of the Central Act applied thereto.	Arguments of Petitioner
+The case of the appellants was, therefore, squarely covered by Vallabh Glass Works case (SC) (SC).8.	Arguments of Petitioner
+Learned counsel for the respondents submitted that section22(1) of the Central Act should be so read as not to interfere with the exclusive power of the States to legislate under entry 54 of List II of the Seventh Schedule to the Constitution in respect of sales tax.	Arguments of Respondent
+In his submission, the words any other law in section22(1) of the Central Act must be so read as to exclude all laws on List II subjects, for Parliament must be assumed to know its limitations.	Arguments of Respondent
+Learned counsel cited the judgment of this Court in Deputy Commercial Tax Officer v. Corromandal Pharmaceuticals (SC) 1997 2 Scale 640 , as supporting his case.9.	Arguments of Respondent
+Vallabh Glass Works (SC) (SC) judgment covers these appeals.	Reasoning
+Arrears of taxes and the like due from sick industrial companies that satisfy the conditions set out in section22(1) of the Central Act cannot be recovered by coercive process unless the said Board gives its consent thereto.10.	Reasoning
+The Central Act is enacted under entry 52 of List I of the Seventh Schedule.	Reasoning
+The said entry 52 empowers Parliament to legislate in respect of industries the control of which by the Union is declared by Parliament by law to be in the public interest.	Reasoning
+The Central Act declares that it is for giving effect to the policy of the State towards securing the principles specified in clauses (b) and (c) of article 39 of the Constitution, namely that the ownership and control of the material resources of the community are so distributed as best to serve the common good and that the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment.	Reasoning
+The Central Act does not impair or interfere with the rights of the States to legislate with respect to sales tax under entry 54 of List II of the Seventh Schedule.	Reasoning
+In the larger interest of the industrial health of the nation, section22 of the Central Act requires all creditors seeking to recover their dues from the sick industrial companies in respect of whom an inquiry under section 16 is pending or a scheme is under preparation or consideration or has been sanctioned, to obtain the consent of the said Board to such recovery.	Reasoning
+If such consent is not secured and the recovery is deferred, the creditors remedy is protected for the period of deferment is, by reason of subsection (5) of section 22, excluded in the computation of the period of limitation.	Reasoning
+The words any other law in section 22 cannot, therefore, be read in the manner suggested by learned counsel for the respondents.11.	Reasoning
+Deputy Commercial Tax Officer v. Corromandal Pharmaceuticals (SC), 11 (SC) judgment dealt with a sick industrial company which was enabled to collect amounts like sales tax after the date of the sanctioned scheme.	Reasoning
+This Court said, such amounts like sales tax, etc., which the sick industrial company is enabled to collect after the date of the sanctioned scheme, legitimately belonging to the Revenue, cannot be and could not have been intended to be covered within section22 of the Act.	Reasoning
+It added that the issue that had arisen before it had not arisen in the case of Vallabh Glass Works (SC) (SC).	Reasoning
+It did not appear therefrom or from any other decision of this Court or of the High Courts that in any one of them, the liability of the sick company dealt with therein itself arose, for the first time after the date of the sanctioned scheme.	Reasoning
+At any rate, in none of those cases a situation arose whereby the sick industrial unit was enabled to collect tax due to the Revenue from the customers after the sanctioned scheme but the sick unit simply folded its hands and declined to pay it over to the Revenue, for which proceedings for recovery had to be taken.	Reasoning
+Clearly, the facts in Deputy Commercial Tax Officer v. Corromandal Pharmaceuticals (SC) (SC) differ from the facts of Vallabh Glass Works case (SC) (SC) and those before us.	Reasoning
+The reference to Deputy Commercial Tax Officer v. Corromandal Pharmaceuticals (SC) (SC) is, therefore, inapposite.12.	Reasoning
+We hold, in the premises, that the respondents cannot recover the aforementioned arrears of sales tax from the appellants without first seeking the consent of the said Board in this behalf.	Reasoning
+The appeals are allowed and the judgments and orders under appeal are set aside.	Decision
+No order as to costs.	None
+Appeals allowed.	None

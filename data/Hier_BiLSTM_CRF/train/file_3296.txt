@@ -1,0 +1,65 @@
+ L. Venkatarama Aiyar, J.1.	None
+This is a petition under Art.	Issue
+32 of the Constitution, and the question that is raised therein for our decision is as to the validity of certain provisions of the East Punjab General Sales, Tax Act (East Punj.	Issue
+XLVI of 1948), hereinafter referred to as the Act, imposing a tax on the supply of materials in construction works treating it as a sale.2.	Issue
+It will be convenient at this stage to refer to the relevant provisions of the Act.	None
+Section 2 (c) defines contract as meaning,Any agreement for carrying out for cash or deferred payment or other valuable consideration, (i) the construction, fitting out, improvement, or repair of any building, road, bridge or other immovable property or(ii) the installation or repair of any machinery affixed to a building or other immovable property . .	None
+. .	None
+.	Issue
+.Dealer is defined in S. 2 (d) as any person engaged in the business of selling or supplying goods.	None
+Section 2 (h) defines sale as meaning any transfer of property in goods for cash or deferred payment or other valuable consideration, including a transfer of property in goods involved in the execution of a contract . .	None
+. .	None
+. .	None
+.	Issue
+Turnover is defined in S. 2 (j) as including the carrying out of any contract, less such portion as may be prescribed of such amount, representing the usual proportion of the cost of labour to the cost of materials used in carrying out such contract Section 4 (1) enacts that,. . . . .	None
+every dealer whose gross turnover during the year immediately preceding the commencement of this Act exceeded the taxable quantum shall be liable to pay tax under this Act on all sales effected after the coming into force of this Act.	None
+Section 5 provides that the tax shall be levied every year on the taxable turnover of a dealer at such rates as the Provincial Government may by notification direct.	None
+Rule 28 prescribes the mode of computing the taxable consideration with reference to contracts as provided in subcl.	None
+(ii) of cl.	None
+(i) of S. 2.3.	None
+The petitioners are a firm of building contractors.	Facts
+In December, 1956, they entered into a contract with the Military Engineering Services Department of the Government for the construction of certain buildings known as Married accommodation at Ambala Cantonment and received a sum of Rs. 32,000 on 31st January 1957, as advance.	Facts
+On 14th February 1957, the assessing authority, Jullundur District issued a notice intimating the petitioners that as they had failed to apply for registration under S. 7 of the Act assessment would be made under S. 18, subs.	Facts
+(2) for the periods commencing from 1st April 1955, onwards, and calling upon them to produce their account books and attend the hearing on 16th February 1957.	Facts
+Thereupon, the petitioners filed the present petition under Art.	Facts
+32 of the Constitution challenging the legality of the assessment proceedings, the main ground of attack being that the legislature of the Province of Punjab had, under Entry 48 in List II of Sch.	Facts
+VII to the Government of India Act, 1935, no power to impose tax on the supply of materials in construction works as there was no sale in fact on in law of those materials, and that the provisions of the Act which sought to do it wereultra vires.	Facts
+This question is now concluded by the decision of this Court in State of Madras v. Gannon Dunkerley and Co., C. A. No. 210 of 1956 D  141958 (AIR 1958 SC 560 )	None
+(A)wherein it has been held that the expression sale of goods in Entry 48 has the same import which it bears in the Sale of Goods Act, 1930, that in a building contract there is no sale of materials as such, and that accordingly the Provincial Legislature had no power to impose a tax thereon under Entry 48.4.	None
+In this view, we have now to consider the contention advanced by Mr. Bindra for the respondents that the building contract entered into by the petitioners with the Government was not an agreement simpliciter for the construction of works, but that on its true construction, it comprised a distinct agreement for the sale of materials.	Arguments of Respondent
+If that can be established, it is not disputed that the respondents would have a right to tax the transaction even part from the impugned provisions.	None
+The question is whether the contract of the petitioners with the Government for construction was one and indivisible, or whether it was combination of an agreement for sale of materials and an agreement for work and labour.	None
+The evidence placed before us leaves us in no doubt as to the true character of the contract.	Reasoning
+The tenders which were called for and received were for executing works for a lump sum, and in his acceptance of the tender of the petitioners dated 15th December 1956, the Deputy Chief Engineer stated The above tender was accepted by me on behalf of the President of India for a lump sum of Rupees 9,74,961.How	Reasoning
+this amount is made up is given in Annexure E to the reply statement.	Reasoning
+It will be seen therefrom that the petitioners were to construct nine blocks, and the amounts are worked out treating each of the blocks as one unit, and the figures are totalled up.	Reasoning
+It is impossible on this evidence to hold that there was any agreement for sale of the materials as such by the petitioners to the Government.5.	Reasoning
+For the respondents reliance was placed on the rule appearing in the printed General Conditions of Contracts issued by the Government.	Arguments of Respondent
+Rule 33 which was particularly relied on provides All stores and materials brought to the Site shall become and remain the property of Government and shall not be removed off the Site without the prior written approval of the G. E.	Arguments of Respondent
+But whenever the works are finally completed, the contractor shall at his own expense forthwith remove from the Site all surplus stores and materials originally supplied by him and upon such removal, the same shall revest in and become the property of the Contractor.	Arguments of Respondent
+It is argued that the true effect of this provision vesting the materials in the Government is that those materials must be taken to have been sold to it.	Arguments of Respondent
+That this is not the true meaning of the Rule will be clear when regard is had to other provisions in the Rules.	Arguments of Respondent
+Thus, the materials which are used in the construction must be approved by the authorities as of the right quality, and they could be condemned even alter the construction is completed if they are not according to contract or of inferior quality, in which case the contractor has to remove them and rebuild with proper materials.	Arguments of Respondent
+Terms such as these and those in Rule 33 quoted above are usually inserted in building contracts with the object of ensuring that materials of the right sort are used in the construction and not with the intention of purchasing them.	Arguments of Respondent
+If R. 33 is to be construed as operating by way of sale of materials of the Government when they are brought on the site, it must follow that the surplus materials remaining after the completion of the work must be held to have been resold by the Government to the contractor, and that is not contended for.6.	Arguments of Respondent
+In Tripp v. Armitage (1839) 4 M and W 687 150 ER 1597 at p. 1603 (B), a builder who had been engaged to construct a hotel became insolvent, and dispute arose between the assignees in bankruptcy and the proprietors of the hotel as to the title to certain wooden sashframes which had been delivered by the insolvent on the premises of the hotel and had been approved by the clerk and returned to the insolvent for the purpose of being affixed.	Reasoning
+The contention on behalf of the proprietors was that the goods having been approved by their surveyor, they must be held to have been appropriated to the contract and the property therein passed to them.	Reasoning
+In negativing this contention, Parke, B. observed It is said that the approbation of the surveyor is sufficient to constitute an acceptance by the defendants but that approbation is not given eo animo at all it is only to ascertain that they are such materials as are suitable for the purpose and notwithstanding that approval, it is only when they have been put up, and fixed to the house, in performance of the larger contract, that they are to be paid for.	Reasoning
+In Reid v. Macbeth and Gray 1904 AC 223 (C) the facts were similar.	Reasoning
+The dispute related to certain plates which had been prepared by contractors to be fitted in a ship.	Reasoning
+These plates had been passed by the surveyor and were marked with the number of the vessel and with marks showing the position which each plate was to occupy in the vessel.	Reasoning
+The ship owners laid claim to these plates on the ground that by reason of the approval by their surveyor and by the markings the property therein must be held to have passed to them, and that accordingly the assignees in bankruptcy of the contractors could not claim them.	Reasoning
+That contention was negatived by the House of Lords, who held that the facts relied on did not establish a contract of sale of the materials apart from the contract to construct the ship, and that the title to the materials did not as such pass to the shipowners.	Reasoning
+The position is the same in the present case.	None
+Rule 33 has not the effect of converting what is a lump sum contract for construction of buildings into a contract for the sale of materials used therein.	Reasoning
+It must therefore be held following the decision in State of Madras v. Gannon Dunkerley and Co. (A) (supra) that there has been no sale of the materials used by the petitioners in their constructions, and that no tax could be levied thereon.7.	None
+Counsel for the petitioners raised two other contentions, but they are unsubstantial and may be shortly disposed of.	Reasoning
+One was that in the definition of turnover in S. 2 (j), cl.	Arguments of Petitioner
+(ii) which is what is applicable to the present case, there is no reference to sale of goods, and that, accordingly, even if Entry 48 in List II is to be interpreted in a wide sense, the provision as actually enacted does not, in fact, tax the supply of materials in works contracts, treating it as a sale.	Arguments of Petitioner
+But the charging section is S. 4 (1), which makes it clear that the tax is on the gross turnover in respect of sales effected after the coming into force of the Act, and the obvious intention is to include the supply of materials in works contracts within the category of taxable turnover.8.	None
+It was next contended that the definition of dealer in S. 2 (d) required that the person should be engaged in the business of selling or supplying goods, that the petitioners who were building contractors were not engaged in the business of selling or supplying goods but of constructing buildings, and that therefore they were not dealers within that definition, and that as under S. 4 the tax could be imposed only on a dealer, the petitioners were not liable to be taxed.	Arguments of Petitioner
+But if the supply of materials in construction works can be regarded as a sale, then clearly building contractors are engaged in the sale of materials, and they would be within the definition of dealers under the Act.	None
+There is no substance in this contention either.9.	None
+The petitioners, however, are entitled to succeed on the ground that the impugned provisions are not within the authority conferred by Entry 48, and a writ of prohibition should accordingly issue restraining the respondents from taking proceedings for assessment of tax in respect of materials supplied by the petitioners in construction contracts.	Decision
+We direct the parties to bear their own costs.10.	Decision
+Petition allowed.	Decision

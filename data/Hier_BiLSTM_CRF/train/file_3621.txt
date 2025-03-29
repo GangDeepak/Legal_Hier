@@ -1,0 +1,153 @@
+ JUDGMENT A.K. Sarkar, J. 1.	None
+The appellant before us was the proprietor of the well known Balarampur Estate in the State of Uttar Pradesh.	Facts
+He was subjected to agricultural incometax under the Uttar Pradesh Agricultural Incometax Act, 1949, for the years 1355, 1356 and 1357F. Various proceedings arose out of the assessment orders, but it is unnecessary to burden this judgment by referring to them.	Facts
+The appellant appealed from the original orders of assessment and those appeals having failed, filed revision petitions against the appellate orders, but those were also unsuccessful.	Facts
+He then got a large number of questions of law referred to the High Court under section 24 of the Act.	Facts
+The present appeals arise out of the High Courts answer of those questions.	Facts
+There are three appeals now before us one in respect of each of the said three years.	Facts
+2.	None
+In these appeals only five questions have been canvassed.	Issue
+They related to different matters and their nature can be understood only when they are stated.	Issue
+But shortly put, the first question raises a point that the appellants liability is subject to maximum specified in a certain provision of the Act to which we will presently refer.	Issue
+The remaining four questions concern the appellants claim for exemption out of his income of sums paid to charities.	Issue
+3. The first question with which we propose to deal was question No. 5 before the High Court.	Issue
+It was in these terms Whether condition (b) in the Schedule of Rates is applicable to Part I alone or to both Parts I and II.	Issue
+4.	None
+The question is really one of the interpretation of the Act, to some of the provisions of which it is necessary to refer before proceeding further.	None
+Subsection (2) of section 2 defines agricultural income tax as tax payable under this Act and includes supertax.	None
+Section 3 is the charging section and the relevant portion of it is as follows Agricultural incometax and supertax at the rate or rates specified in the Schedule shall be charged for each year Now the Schedule so far as material runs thus SCHEDULE (See Section 3)Rates of Agricultural Incometax PART I (a)	None
+In the case of every individualthe basic rates of agricultural incometax will be as follows These rates are subject to the condition that (a) No agricultural incometax shall be payable on a total agricultural income which does not exceed Rs. 3,000 and (b) the agricultural incometax payable shall in no case exceed half the amount by which the total agricultural income exceeds Rs. 3,000.	None
+PART II (A)	None
+In the case of every individual, the basic rates of agricultural supertax shall be as follows (Various rates on various slabs of income are mentioned varying from one anna in the rupee on the income of Rs. 10,000 above Rs. 25,000 to five and a quarter annas in the rupee in respect of income over and above Rs. 1,50,000).	None
+5.	None
+The contention of the appellant is that agricultural incometax mentioned in condition (b) in Part I of the Schedule must be read in terms of the definition in section 2(2) and hence as including super tax.	Arguments of Petitioner
+He, therefore, says that the total amount of tax under both these heads payable by him under the Act can in no case exceed half the amount by which his total agricultural income exceeds Rs. 3,000.	Arguments of Petitioner
+Two reasons are given in support of this contention.	Arguments of Petitioner
+The first is what we have already mentioned, namely, the reason based on the definition of the term agricultural incometax.	None
+The second reason is that if agricultural incometax was not so understood, then relief granted by condition (b) would be available to a very small number of assessees, being those whose income varied between Rs. 3,000 and Rs. 3,214 per annum.	Arguments of Petitioner
+6.	None
+It does not seem to us that either of these reasons is wellfounded.	None
+Taking the second reason first, it may be stated that it is conceded on behalf of the respondent State that if the words agricultural incometax in condition (b) do not include supertax, then only persons having an income between Rs. 3,000 and Rs. 3,214 per annum would be benefited.	None
+The respondent however says that there is no reason to think that the number of such persons was small not that it was not intended to confine the benefit to them alone.	Reasoning
+We think that the contentions of the respondent State are of substance.	Reasoning
+We are unable to conclude from the fact that persons owning estates yielding income between Rs. 3,000 and Rs. 3,214 only would be benefited, that the expression agricultural incometax must be understood to include supertax so as to enlarge the scope of the benefit.	None
+The legislature may have intended to confer the benefit only on persons with a comparatively smaller income.	Reasoning
+There is nothing to show that it did not do so.	None
+In any case we do not think that we would be justified in including within the words agricultural incometax, supertax, for the simple reason that otherwise the benefit conferred would be restricted.	None
+We may add that there is nothing to show that persons with income between Rs. 3,000 and Rs. 3,214 per annum form a small number.	None
+7.	None
+Coming now to the first reason, it seems to us that the context requires that the definition of agricultural incometax in section 2(2) should not be imported into condition (b).	None
+Condition (b) is a condition to which the rates mentioned in Part I of the Schedule are made expressly subject.	Reasoning
+Those rates are only of agricultural income tax.	Reasoning
+The obvious intention is that the amount of the agricultural incometax only, that is to say, excluding the amount of supertax, that can be imposed, calculated at the rates specified in Part I of the Schedule, is not in any case to exceed the limit mentioned in condition (b).	Reasoning
+If it were not so, the words Those rates are subject to the condition preceding the two conditions would be insensible.	Reasoning
+This interpretation brings condition (b) in line with the expression agricultural incometax used in condition (a) where plainly it only refers to incometax.	Reasoning
+That condition says that no agricultural income tax shall be payable on a total agricultural income which does not exceed Rs.3,000.	None
+Since supertax is not payable unless the agricultural income exceeds Rs. 25,000, the expression agricultural incometax in condition (a) cannot be possibly interpreted as including supertax.	None
+It would be incongruous if the expression agricultural incometax in these two conditions were to be interpreted differently.	None
+We also think that the division of the Schedule into two parts clearly indicates that each Part is concerned with different taxes, namely Part I with incometax and Part II with supertax.	None
+This is another reason for thinking that the words agricultural incometax in condition (b) in Party should be understood as referring only to incometax and not supertax.	None
+For these reasons we think that the first question must be answered by saying that condition (b) only restricts the amount of incometax livable under the Act and has nothing to do with the amount of super tax that can be levied.	None
+This is the way in which the question was answered by the High Court and, in our opinion, rightly.	None
+8.	None
+The next question to which we now turn was marked question No. 8 in the reference.	None
+It was as follows Whether the Explanation to rule 17 is controlled by the itself or is to be interpreted and applied independently of the rule.9.	Issue
+The question is not very clear but it appears that the object was really to interpret the rule itself.	None
+The point at issue will be clearer after we have set out the relevant portion of the rule.	Reasoning
+17.	None
+Sums paid by an assessee as donations to any institution or fund which established in the Uttar Pradesh for a charitable purpose and is approved by the State Government for the purpose of the rule shall be exempt from liability to agricultural incometax Explanation.  	None
+In this rule charitable purpose includes relief of the poor, education medical relief and the advancement of any object of general public utility.	None
+10.	None
+It is not in dispute that the appellant spend large sums in charities.	Reasoning
+He maintained a number of hospitals and dispensaries and donated magnificently by way of scholarships to encourage deserving students.	Reasoning
+It appears that in the year 1355F his charities to the hospitals and dispensaries amounted to Rs. 1,06,54219 and in the shape of scholarship, Rs. 68,53718.	None
+We cannot help regretting that the matter could not be settled out of court and had to be litigated upon involving expense of moneys which could have been utilised for more useful purposes.	None
+11.	None
+The appellants object in raising this question is to get exemption for the charities made by which satisfied the definition of charitable purpose in the Explanation to the rule though the funds and institutions on which the benefit of the charities had been conferred had not been approved by the State Government.	Arguments of Petitioner
+Shortly put, the appellants contention is that the word and in the body of the rule should be read as or.	Arguments of Petitioner
+He contends that approval by the Government is provided for in the rule only to avoid disputes later as to whether the institution or fund not so approved as is for a charitable purpose within the meaning of the rule.	Arguments of Petitioner
+According to him, where the institution or fund is clearly for a charitable purpose as mentioned in the Explanation, the approval becomes unnecessary and it is useful only in doubtful cases.	Arguments of Petitioner
+He says that the word approved for the purpose of the rule only mean approval for the purpose of acceptance of the institution as having a charitable purpose within the rule so as to avoid any controversy later.	None
+12.	None
+We are not persuaded that this is the correct view to take.	None
+Normally the word and should be given its ordinary meaning and should be understood in a conjunctive sense.	Reasoning
+So understood the rule would require not only that the payment should be to an institution or fund established for a charitable purpose but that institution or fund must also be approved by the State Government for the purpose of the rule, that is, as an institution donation to which would entitled the donor to exemption from agricultural incometax.	Reasoning
+We think that the intention was that there must be approval of the institution or fund.	None
+The reason for that is clear.	Reasoning
+If such approval was not incumbent, then exemptions would have to be granted also in the case of an institution which was on the face of it for a charitable purpose but where the funds were not utilised for charities.	Reasoning
+It is not unusual for the legislature to provide that donations to such charities only will be given exemption where the Government has by its approval indicated that the charitable purpose will actually be served.	Reasoning
+We also think that the Explanation was inserted for indicating what charities the Government could approve under the rule.	None
+This seems to us to be the plain meaning of the language used and we find no justification for departing from that meaning.	None
+13.	None
+It was also said that if an approval was a condition precedent to the grant of an exemption, then it would be within the power of the Government to prefer one charitable institution to another.	Reasoning
+We do not think that this is an argument of any force.	Reasoning
+There is nothing, to prevent the legislature from giving the Government the power to prefer and such power had to be given if protection against the misuse of exemption is necessary, which we think it is.	Reasoning
+Further, it does not seem to us possible that the rule required approval of the Government only in cases where it was doubtful whether the institution or a fund had a charitable purpose.	Reasoning
+Either it had such a purpose or it had not.	Reasoning
+If any dispute arose, the matter had to be decided by the proper authorities, judicial or departmental.	Reasoning
+It was wholly unnecessary to provide for approval by the Government only in cases where it was doubtful whether the purpose of the institution was charitable or not.	Reasoning
+We, therefore, think that the answer to the question is that in spite of the Explanation no exemption can be granted under rule 17 unless the institution or fund is one for charitable purpose and has further been approved by the State Government for the purpose of the rule, that is, for the purpose of earning exemption under it.	None
+14.	None
+The next question which we take up is question No. 9 in the reference.	None
+That question reads thus Whether the hospitals which were subject to the general inspection by the civil surgeon can be treated as hospitals in receipt of a grant from the Government within the meaning of the notification issued under rule 17 ?15.	None
+We have earlier mentioned that the appellant spent large sums on the maintenance and expenses of the hospitals and several dispensaries.	Reasoning
+These institutions had no doubt been established for charitable purpose as defined in the Explanation in rule 17.	Reasoning
+But as we have held that in order to earn exemption under rule 17 the institutions have also to be approved by the Government, the appellant is required to show that the hospitals and dispensaries maintained by the notification mentioned in the question.	Reasoning
+The material portion of that notification is as follows In exercise if the powers conferred under rule 17 the Governor is pleased to approve for purpose of that rule the following funds and institutions (6) All hospitals, sanatoriums or clinics established in the Uttar Pradesh which are in receipt of a grant by the State Government or a local body 16.	None
+Under this notification a hospital or a clinic which is in receipt of a grant by the State Government would be an institution for a charitable purpose approved by the Government for the purpose of rule 17.	Reasoning
+17.	None
+In order, therefore, to earn the exemption the appellant has to establish that the hospitals and dispensaries were in receipt of a grant by the State Government or local body.	None
+It is however admitted that neither the State Government nor any local body ever made any cash grants to the hospitals and dispensaries.	Reasoning
+It appeared however that the State Government deputed doctors employed by it who inspected these hospitals and dispensaries, and paid their salaries and travelling allowances.	None
+The contention of the appellant is that the inspection of the hospitals and dispensaries by such doctors was sufficient to constitute a grant to the hospitals by the State Government.	None
+That is why the question referred to hospitals inspected by the civil surgeon.	Arguments of Petitioner
+It was contended on behalf of the respondent State that the word grant in the notification meant grant in cash only and for this purpose reference was made to various rules framed by the State Government for the management of charitable dispensaries and hospitals.	None
+The her the contention of the respondent or the view expressed by High Court is correct.	None
+All that we have here is inspection of the hospitals and dispensaries by the Government medical officers.	Reasoning
+We have nothing to show for what purpose such inspection was held.	Reasoning
+The inspection may have rendered no service at all to the hospitals and dispensaries for the purpose for which they exist.	Reasoning
+It may have been made only for Governments statistical purpose or for seeing that the health regulations prevailing in the state were being observed.	Reasoning
+We find it impossible to infer from the word inspection any idea of a service rendered to the patients in the hospitals or for the charitable object for which the hospitals had been maintained.	Reasoning
+It has not, therefore, been shown that the inspection by the Governments doctors was granted within the notification.	None
+18.	None
+Learned Counsel drew out attention to certain rule made by the court of wards in connection with the hospitals and dispensaries while the Balrampur Estate was in its charge.	None
+He said that those rules were being followed in the years with which we are concerned though the estate had then been released from the charge of the court of wards.	Reasoning
+This point, however, was not raised before the assessing authority nor the High Court and no reference to these rules in made in the assessment orders or the appellant judgment and order or by the High Court.	Reasoning
+These rules, however, do not advance the matter further.	Reasoning
+They provide that various appointments in the dispensaries had to be made by the Government civil surgeons.	Reasoning
+Such appointments do not, in our view, amount to rendering services for the charitable purpose for which the hospitals and dispensaries had been established.	None
+19. Learned Counsel then drew our attention to another part of these rules and a part of the affidavit filed by his clients agent in connection with the application for reference to the question to the High Court.	Arguments of Petitioner
+From these it appears that the dispensaries in the district were under the control of the Assistant Surgeon who was posted at the Memorial Hospital, Balrampur.	None
+It may be that this Assistant Surgeon was a Government employee but it does not appear what service he has rendering in the hospitals.	Reasoning
+In any case, this ground had been nowhere relied upon by the appellant as constituting a grant by the State Government within the meaning of the notification under rule 17.	Reasoning
+We are, therefore, unable to go into this question.	Reasoning
+We repeat however that it strikes us as extremely strange that the State Government should have taken a legalistic view of the matter and we think that munificence of the appellant deserved more consideration from it.	Reasoning
+20.	None
+We come now to the remaining two questions which were marked 10 and 11 and were framed as follows 10.	None
+Whether the scholarships paid to students were donations to an institution or fund within the meaning of the rule 17 ?	None
+11.	None
+Whether the amount paid to an institution earmarked for scholarships can be treated as donation to the institution within the meaning of rule 17 or can the institution on that ground be treated as an institution aided by the Government within the meaning of rule 17 ?	Issue
+21.	None
+Question No. 10 was reframed by the High Court and no objection was taken to it.	None
+As reframed the question reads as follows 10.	None
+(1) Whether the scholarships paid to students through an institution recognised by the State Government or a local authority were donations within the meaning of rule 17 ?	Issue
+(2) Whether the scholarships paid to students directly would amount to donations to an institution or to a fund within the scope of rule 17 ?22.	Issue
+It is necessary to refer to another part of the notification under rule 17 to which we have earlier referred.	Reasoning
+The notification besides approving for the purpose of the rule certain hospitals and clinics as we have earlier stated, also approved of educational institutions recognised or aided by the State Government or a local authority.	Reasoning
+The point of the present question really arises under this part of the notification.	Reasoning
+It is not disputed that the institutions in contemplation were institutions recognised or aided by Government.	Reasoning
+We feel no doubt that when moneys are paid to such an institution to be distributed as scholarships to its students, this is a donation to the institution for the institution utilises it for its own purpose, namely, helping its students which it may otherwise have done with its own funds.	Reasoning
+The first part of question No. 10 must, therefore, be answered in the affirmative as the High Court has done.	Reasoning
+For the same reason the second part of the question No. 10 has also to be answered in The affirmative.	None
+As in the first case, here also the institution had the benefit of the payment though indirectly through its students.	None
+What we have said disposes of question No. II also.	None
+The first part of this question is really the same .as question No. 10(1) and the answer to it must be in the affirmative.	None
+The second or the alternative part of this question does not arise because it is admitted in this court that all the institutions to which the donations with which these appeals are concerned were made, are recognised by the State Government.	None
+23.	None
+It remains to deal with a point raised by learned counsel for the respondent State and that refers to question No. 4.	Reasoning
+That question was, whether rule 17 was ultra vires section 8 of the Act ?	Reasoning
+That question was answered against the respondent but as the respondent did not file any appeal, it is impossible for this court to go into the question.	Reasoning
+In that view of the matter, we did not allow learned counsel for the respondent to canvass this point.	Decision
+24.	None
+These appeals are decided according to the answers given by us.	Decision
+There will be no order as to costs.	Decision

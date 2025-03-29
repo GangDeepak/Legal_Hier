@@ -1,0 +1,42 @@
+ Sikri, J.1.	None
+The respondent, hereinafter referred to as the dealer, filed a return for the quarter ending June 30, 1951, under the Orissa Sales Tax Act (Orissa Act XIV of 1947) (hereinafter referred to as the Act).	Facts
+He claimed a deduction of Rs. 2,40,000 under S. 5 (2) (a) (ii) in respect of the goods sold to a registered dealer, named M s. S. Lal and Co. Ltd. BA 1335.	Facts
+Similarly, for the quarter ending September 30, 1951, he claimed a deduction of Rs. 15,67713.	Facts
+By two assessment orders passed under S. 12 (2) of the Act, of the Sales Tax Officer, Cuttack III Circle, Jaipur, Orissa, determined the tax payable allowing the deduction of Rupees 2,40,000 and Rs. 15,67713, under S. 5 (2) (a) (ii).	Facts
+The dealer filed appeals to the Assistant Collector, Sales Tax , challenging the assessment on grounds which are not relevant.	Facts
+The dealer later filed revisions against the decision of the Assistant Collector.	Facts
+While the revisions were pending, the legislature amended the Orissa Sales Tax Act, in 1957, by Orrisa Sales Tax (Amendment) Act (Orissa Act XX of 1957).	Facts
+The effect of this amendment was that revisions were treated as appeals to Sales Tax Tribunal, and it enabled the Government to file crossobjections.	Facts
+The State of Orissa, in pursuance of this amendment, filed memorandum of crossobjections challenging the deduction of Rs, 2,40,000 and Rs. 15,67713, on the ground that the dealer had not produced any declaration, as required under R. 27 (2) of the Orissa Sales Tax Rules, 1947, as evidenced from the Check sheet kept on record.	Facts
+The Tribunal upheld this objection and directed that fresh assessments be made.	Facts
+Certain other questions were raised before the Tribunal by the dealer, but as nothing turns on them as far as these appeals are concerned, they are not being mentioned.	Facts
+The Tribunal stated a case to the High Court and one of the questions referred to was whether the assessing officer was not wrong in allowing deduction of Rs. 2,40,000/ for the quarter ending on 30651 and Rs. 15,677/1/3 for the quarter ending on 30951 from the respective gross turnover of the applicant.	Facts
+The High Court, following its earlier decision in Members, Sales Tax Tribunal Orissa v. S. Lal and Co., (1961) 12 STC 25 (Orissa), answered the question in the affirmative.	Facts
+The State of Orissa having obtained special leave from this Court, these appeals are now before us for disposal.2.	Issue
+Mr. Ganapathy Iyer, on behalf of the State of Orissa, has contended before us that it is clear that R. 27(2) was not complied with, and, therefore, the Sales Tax Officer was wrong in allowing the said deduction.	Arguments of Petitioner
+The answer to the question referred depends on the correct interpretation of S. 5 (2) (a) (ii), and R. 27 (2).	None
+They read thusS. 5(2) (a) (ii)  sales to a registered dealer of goods specified in the purchasing dealers certificate of registration as being intended for resale by him in Orissa and on sales to a registered dealer of containers or other materials for the packing of such goods.	None
+Provided that when such goods are used by the registered dealer for purposes other than those specified in his certificate of registration, the price of goods so utilised shall be included in his taxable turnover.	None
+Rule 27(2).	None
+Claims for deduction of turnover under Subclause (ii) of clause (a) of Subsection (2) of Section 5  A dealer who wishes to deduct from his gross turnover on sales which have taken place in Orissa the amount of a sale on the ground that he is entitled to make such deduction under Subclause (ii) of clause (a) of Subsection (2) of Section 5 of the Act, shall produce a copy of the relevant cash receipt or bill according as the sale is a cash sale or a sale on credit in respect of such sale and a true declaration in writing by the purchasing dealer or by such responsible person as may be authorised in writing in this behalf by such dealer that the goods in question are specified in the purchasing dealers certificate of registration as being required for resale by him or in the execution of any contract Provided that no dealer whose certificate of registration has not been renewed for the year during which the purchase is made shall make such a declaration and that the selling dealer shall not be entitled to claim any deduction of sales to such a dealer.3.	None
+It is plain from the terms of S. 5(2) (a) (ii) that a selling dealer is entitled to a deduction in respect of sales to a registered dealer of goods, if the goods are specified in the purchasing dealers certificate of registration as being intended for resale by him in Orissa.	Reasoning
+No other condition is imposed by the above Section.	Reasoning
+The proviso deals with consequences that follow if the purchasing dealer uses them for purposes other than those specified in his certificate of registration, and direct that, in that event, the price of goods so utilised shall be included in his turnover.	Reasoning
+Therefore, there is nothing in the Section itself that disentitles a selling dealer to a deduction, but if the contingency provided in the proviso occurs, then the price of goods is included in the taxable turnover of the buying dealer.	Reasoning
+But Mr. Ganapathy Iyer says, be it so, but the rule making authority is entitled to make rules for carrying out the purposes of the Act, and R. 27(2) is designed to ensure that a buying dealers certificate of registration does, in fact, mention that the goods are intended for resale by him, and for that purpose it has chosen one exclusive method of proving the fact before a Sales Tax Officer.	Arguments of Petitioner
+He further urges that no other method of proving that fact is permissible.	Arguments of Petitioner
+Rule 27(2) is mandatory and if there is breach of it the selling dealer is not entitled to deduction.	Arguments of Petitioner
+The learned counsel for the respondent, on the other hand, contends that R. 27(2) is directory.	Arguments of Respondent
+He points out that the word shall should be read as may, in the context.	Arguments of Respondent
+He further says that supposing the selling dealer brought the original certificate of registration of a buying dealer and produced it before the Sales Tax Officer, according to the appellant, this would not be enough, but this could never have been intended.	Arguments of Respondent
+In our opinion, R. 27(2) must be reconciled with the Section and the rule can be reconciled by treating it as directory.	Reasoning
+But the rule must be substantially complied with in every case.	Reasoning
+It is for the Sales Tax Officer to be satisfied that, in fact, the certificate of registration of the buying dealer contains the requisite statement, and if he has any doubts about it, the selling dealer must satisfy his doubts.	Reasoning
+But if he is satisfied from other facts on the record, it is not necessary that the selling dealer should produce a declaration in the form required in R. 27(2), before being entitled to a deduction.4.	Reasoning
+We are, therefore, of the opinion that the High Court came to a correct conclusion.	Reasoning
+The High Court is correct in holding that the production of declaration under R. 27(2) is not always obligatory on the part of a selling dealer when claiming the exemption.	Reasoning
+It is open to him to claim exemption by adducing other evidence so as to bring the transaction within the scope of S. 5(2) (a) (ii) of the Act.	Reasoning
+In this case, the Sales Tax Officer was satisfied by a mere statement of the dealer and it has not been shown that in fact the registration certificate of the buying dealer, M s. S. Lal and Co., did not contain the statement that the goods were intended for resale by him in Orissa.5.	Reasoning
+The appeals accordingly fail and are dismissed with costs.	Decision
+One set of hearing fee.6.	None
+Appeals dismissed.	None

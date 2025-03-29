@@ -1,0 +1,83 @@
+SEN, J. This case is a good illustration of why the High Court should not intervene in revenue matters in exercise of writ jurisdiction where adequate alternative statutory remedies are available.	None
+In the instant case, complications have arisen because of the directions given by the Patna High Court on 1591982 after quashing the various notices and orders in course of proceedings under the Central Excises and Salt Act.	None
+The appellants are manufacturers of sheet glass which at the material time was chargeable to Central excise duty on ad valorem basis.	Facts
+The appellants used to file their price lists in accordance with the procedure prescribed by the Central Excise Rules (hereinafter referred to as the Rules) and pay duty according to their calculations.	Facts
+The trouble in this case arose with the price list No. 38 of 1979 which was filed on 471979.	Facts
+A showcause notice dated 771979 was issued by the Assistant Collector of Central Excise calling upon the assessee to explain as to why certain deduction claimed by them should not be added back to the excisable value of the goods.	Facts
+This was followed up by another showcause notice dated 1681979 directing the appellants to follow the provisional assessment procedure prescribed under Rule 9B of the Rules and execute bonds for the purpose of effecting further clearances.	Facts
+On 591979, the Superintendent of Central Excise issued yet another showcause notice calling upon the appellants to explain as to why differential rate of duty should not be demanded under Rule 10 of the Rules w.e.f. 2061979	Facts
+and why penalty should not be imposed on them under Rule 173Q of the Rules.	Facts
+By another order dated 2131980, the Assistant Collector modified the price list filed by the appellants and disallowed all the deductions claimed by them except for trade discounts.	None
+The appellants filed a writ petition in the High Court challenging the aforesaid orders passed by the Superintendent of Central Excise.	Issue
+Ultimately on 1591982, the High Court quashed the showcause notice, the order passed on 2131980 by the Assistant Collector of Central Excise disallowing the claim for the deductions made by the appellants and also the direction for provisional clearance on furnishing of bond given on 1681979.	Facts
+The High Court, however, remanded the case back to the Assistant Collector to ascertain the element which will constitute postmanufactural expenses which according to the High Court could not be included in the assessable value.	None
+The assessable value was directed to be redetermined by the Assistant Collector in accordance with the guidelines given by the High Court.	Facts
+The Central Excise authorities did not prefer any appeal against the order of the High Court.	None
+On 731983, the Assistant Collector issued another showcause notice as to why claims for various deductions should not be disallowed.	Facts
+By final order dated 691984, the Assistant Collector rejected the claims for deductions following the law laid down by this Court in the case of Union of India v. Bombay Tyres International Ltd.	Facts
+A sum of Rs. 4, 61, 09, 242.28p.	Facts
+was demanded for the period from 2061983 to 3071983.	Facts
+By a further order dated 17101984, the Assistant Collector made another demand for differential duty amounting to Rs. 27, 81, 826.87p.	Facts
+for the period from 181983 to 31121983.	None
+The appellants contention is that these two orders were not preceded by any showcause notice under Section 11A of the Central Excises and Salt Act.	Facts
+This according to the appellants was mandatory and failure to give such a notice made these two orders void ab initio and of no legal effect.	Facts
+The appeal against the orders of the Assistant Collector was dismissed by the Collector (Appeals).	Facts
+A further appeal was preferred to Customs, Excise and Gold (Control) Appellate Tribunal.	Facts
+The Tribunal did not agree with the assessees contention that because no showcause notice under Section 11A was given to the appellants by the Excise authorities, the orders making demands by the Assistant Collector of Central Excise were void and had to be quashed.	Facts
+Mr. Dave on behalf of the appellants has contended that the demand for duty under the Central Excise Act could only be effected by issuing a showcause notice under Section 11A except in a case where clearance was provisional under Rule 9A in which case, on finalisation of assessment, differential duty could be determined as payable by the assessee.	Arguments of Petitioner
+Reliance was placed for this proposition on the decision of this Court in the case of Union of India v. Madhumilan Syntex (P) Ltd	Arguments of Petitioner
+In Madhumilan case an approved classification list was in force.	None
+A demand was made without issuing a notice modifying the classification list.	None
+In the instant case, however, there was a series of notices issued by the Excise authorities.	None
+Although showcause notice dated 771979 was quashed by the Patna High Court, the other notice had not been quashed.	None
+In any event, the Tribunal has pointed out that the Excise authorities wrote to the appellant repeatedly for production of the bills and account books for the purpose of determination of duty liability.	None
+The Tribunal held that the Assistant Collectors letter dated 5121983 was nothing but a notice for levy of differential duty.	None
+In Gokak Patel Volkart Ltd. v. CCE it was held by this Court that issue of showcause notice under subsection (1) of Section 11A was a condition precedent to a demand under subsection (2) of that section.	None
+On behalf of the Revenue, Mr. Gowri Sankaramurty drew our attention to the case of Samrat International (P) Ltd. v. CCE where this Court held that when the assessee cleared the goods by determining the duty himself and debiting the amount to personal ledger account, the duty was provisional and subject to final approval by the Excise Officer concerned.	Arguments of Respondent
+In such situations, para (B), clause (e) of the Explanation to Section 11B will apply.	Arguments of Respondent
+The relevant provisions of Section 11B at the material time were as under 11B. Claim for refund of duty.  	None
+(1) Any person claiming refund of any duty of excise may make an application for refund of such duty to the Assistant Collector of Central Excise before the expiry of six months from the relevant dateProvided that the limitation of six months shall not apply where any duty has been paid under protestExplanation.  	None
+For the purposes of this section, (A) (B) relevant date means, (a) to (d) (e) in a case where duty of excise is paid provisionally under this Act or the rules made thereunder, the date of adjustment of duty after the final assessment thereof(f) in any other case, the date of payment of duty.	Reasoning
+It was argued that Sections 11A and 11B are similarly worded and the scheme of the two sections is the same.	Arguments of Respondent
+In one case, the assessee can claim refund, in the other, the department can realise tax which was not levied or shortlevied.	Arguments of Respondent
+Under Section 11A, the period of limitation has to be calculated from the relevant date as defined.	Arguments of Respondent
+The important point is that this Court recognised that in a selfassessment scheme, where the assessee calculated and paid the amount of duty, nothing but a provisional assessment had taken place which was subject to final assessment.	Arguments of Respondent
+The period of limitation in such case will run from the date of making of the final assessment Mr. Dave drew our attention to the case of CCE v.	None
+Kosan Metal Products Ltd.	None
+In that case, brass rods were assessed under TI 68 during the period from 2471978 to 3131979 and under TI 26A(1)(a) with effect from 141979.	Arguments of Petitioner
+Thereafter, it was noticed by the Superintendent of Central Excise that the assessee had availed of the incorrect setoff of duty and a notice for imposition of penalty was issued under Rule 173Q.	Arguments of Petitioner
+It was alleged in the notice that the company was not eligible to setoff of duty.	Arguments of Petitioner
+The case of the company was that no notice under Rule 10 was issued to it within the time and there had been no fraud, collusion, wilful misstatement or suppression of facts on its part and that it had correctly availed this setoff Rule 10 has now been repealed and its provisions have been incorporated in Section 11A of the Act.	None
+But, in that case the Tribunal found that the classification lists had been finalised by the Bombay Collectorate.	None
+The Assistant Collector, Surat, had no authority to reopen those assessments Because the assessments had become final, this Court held that when the duty of excise had not been levied or paid or shortlevied or shortpaid, a notice had to be issued under Section 11A to realise the amount which had been shortlevied.	Reasoning
+The notice has to be issued normally within a period of six months of completion of final assessment.	Reasoning
+This case does not in any way give any support to the contention made by Mr. Dave In the instant case, the High Court after quashing the provisional assessment, directed the assessments to be made afresh in accordance with the guidelines given by it.	None
+No question of giving any notice under Section 11A arises at this stage.	Reasoning
+The provisional assessment was quashed by the High Court and direction was given to recompute the value of the excisable goods.	None
+This could only be done in accordance with the substantive provisions of Section 4 and in accordance with the procedure laid down in Rule 173I which at the material time stood as under 173I. Assessment by proper officer.  	None
+(1) The proper officer shall on the basis of the information contained in the return filed by the assessee under subrule (3) of Rule 173G and after such further inquiry as he may consider necessary, assess the duty due on the goods removed and complete the assessment memorandum on the return.	None
+A copy of the return so completed shall be sent to the assessee(2)	None
+The duty determined and paid by the assessee under Rule 173F shall be adjusted against the duty assessed by the proper officer under subrule (1) and where the duty so assessed is more than the duty determined and paid by the assessee, the assessee shall pay the deficiency by making a debit in the accountcurrent within ten days of receipt of copy of the return from the proper officer and where such duty is less, the assessee shall take credit in the accountcurrent for the excess on receipt of the assessment order in the copy of the return duly countersigned by a Superintendent of Central Excise.	None
+The assessee is entitled under Rule 173F to determine his liability for duty on the excisable goods manufactured by him and to remove such goods on payment of duty on selfassessment in accordance with the provisions laid down in the Rules.	None
+But this is only the first step in making of the assessment.	None
+The proper officer is empowered to assess the duty on the goods so removed by the assessee and complete the assessment on the return filed by the assessee.	None
+A copy of the return so computed by the proper officer has to be sent to the assessee.	None
+The duty assessed and paid by the assessee on selfassessment will be set off against the duty assessed by the proper officer.	None
+If the duty paid by the proper officer on final assessment is more than the duty determined and paid by the assessee, the assessee has to pay the deficiency by making a debit in the accountcurrent within ten days of the receipt of the copy of the return from the proper officer.	None
+If the duty on final assessment payable by the assessee is less than what he has actually paid, the assessee is entitled to take credit in the accountcurrent for the excess payment.	None
+No question of any showcause notice under Section 11A arises at this stage.	Reasoning
+The duty has to be paid by making adjustment in the accountcurrent which has to be maintained by the assessee within ten days time.	None
+Section 11A deals with recovery of duty not levied or not paid or shortlevied or shortpaid or erroneously refunded.	None
+Proceedings under Section 11A have to be commenced with a showcause notice issued within six months from the relevant date.	Reasoning
+Relevant date has been defined under subsection (3)(ii) to mean in a case where duty of excise is provisionally assessed under this Act or the rules made thereunder, the date of adjustment of duty after the final assessment thereof.	Reasoning
+After final assessment, a copy of the order on the return filed by the assessee has to be sent to him.	None
+Duty has to be paid by the assessee on the basis of the final assessment within ten days time from the receipt of the return.	Reasoning
+No question of giving any notice under Section 11A arises in such a case.	Reasoning
+It is only when even after final assessment and payment of duties, it is found that there has been a shortlevy or nonlevy of duty, the Excise Officer is empowered to take proceedings under Section 11A within the period of limitation after issuing a showcause notice.	Reasoning
+In such a case, limitation period will run from the date of the final assessment.	Reasoning
+The scope of Section 11A and Rule 173I are quite different.	Reasoning
+In this case, the provisional assessment earlier made by the proper officer has been quashed and pursuant to the direction of the High Court, the proper officer has made the final assessment.	Reasoning
+No question of failure of issuance of showcause notice under Section 11A arises in this case.	Reasoning
+Even otherwise, we do not find any infirmity in the order of the Tribunal.19.	Reasoning
+There is no merit in the appeals.	Decision
+The appeals are, therefore, dismissed with no order as to costs.	Decision

@@ -1,0 +1,242 @@
+ 	None
+S. Singhvi, J. Leave granted.	None
+Whether the Delhi High Court could entertain the petition filed by the respondents under Section 9 of the Arbitration and Conciliation Act, 1996 (for short, the Act) for grant of a declaration that Kuala Lumpur (Malaysia) is contractual and juridical seat of arbitration and for issue of a direction to the arbitral tribunal to continue the hearing at Kuala Lumpur in terms of clause 34 of Production Sharing Contract (PSC) is the question which arises for consideration in this appeal.	Issue
+Respondent No.1  Government of India owns petroleum resources within the area of Indias territorial waters and exclusive economic zones.	Facts
+Respondent No.2 is an arm of the Ministry of Petroleum and Natural Gas.	Facts
+On 28.10.1994, a PSC was executed between respondent No.1 on the one hand and a consortium of four companies consisting of Oil and Natural Gas Corporation Limited, Videocon Petroleum Limited, Command Petroleum (India) Private Limited and Ravva Oil (Singapore) Private Limited (hereinafter referred to as the Contractor) in terms of which the latter was granted an exploration licence and mining lease to explore and produce the hydro carbon resources owned by respondent No.1.	Facts
+Subsequently, Cairn Energy U.K. was substituted in place of Command Petroleum (India) Private Limited and the name of the Videocon Petroleum Limited was changed to Petrocon India Limited, which merged the appellant  Videocon Industries Limited.	Facts
+For the sake of convenience, the relevant clauses of Articles 33, 34 and 35 of the PSC are extracted below33.1 Indian Law to GovernSubject to the provisions of Article 34.12, this Contract shall be governed and interpreted in accordance with the laws of India.33.2 Laws of India Not to be ContravenedSubject to Article 17.1 nothing in this Contract shall entitle the Contractor to exercise the rights, privileges and powers conferred upon it by this Contract in a manner which will contravene the laws of India.34.3 Unresolved DisputesSubject to the provisions of this Contract, the Parties agree that any matter, unresolved dispute, difference or claim which cannot be agreed or settled amicably within twenty one (21) days may be submitted to a sole expert (where Article 34.2 applies) or otherwise to an arbitral tribunal for final decision as hereinafter provided.34.12.	Facts
+Venue and Law of Arbitration AgreementThe venue of sole expert, conciliation or arbitration proceedings pursuant to this Article, unless the Parties otherwise agree, shall be Kuala Lumpur, Malaysia, and shall be conducted in the English language.	Facts
+Insofar as practicable, the Parties shall continue to implement the terms of this Contract notwithstanding the initiation of arbitral proceedings and any pending claim or dispute.	Facts
+Notwithstanding the provisions of Article 33.1, the arbitration agreement contained in this Article 34 shall be governed by the laws of England.35.2 AmendmentThis Contract shall not be amended, modified, varied or supplemented in any respect except by an instrument in writing signed by all the Parties, which shall state the date upon which the amendment or modification shall become effective.4.	Facts
+In 2000, disputes arose between the respondents and the contractor with respect to correctness of certain cost recoveries and profit.	Facts
+Since the parties could not resolve their disputes amicably, the same were referred to the arbitral tribunal under clause 34.3 of the PSC.	Facts
+The arbitral tribunal fixed 28.3.2003 as the date of hearing at Kuala Lumpur (Malaysia), but due to outbreak of epidemic SARS, the arbitral tribunal shifted the venue of its sittings to Amsterdam in the first instance and, thereafter, to London.	Facts
+In its meeting held on 29.6.2003 at Amsterdam, the arbitral tribunal issued various directions in Arbitration Case No.1 of 2003.	Facts
+On the next day, the arbitral tribunal issued similar directions in Arbitration Case Nos.2 and 3 of 2003.	Facts
+On 19.8.2003, the arbitral tribunal issued revised time schedule for filing of the statement of claim, reply and counter claim, reply to counter claim, documents, affidavit of admission and denial of documents in Arbitration Case No.3 of 2003 and fixed the case for further proceedings to be held at London on 12.12.2003.	Facts
+By another order dated 30.10.2003, the arbitral tribunal directed that the hearing of the application filed by the claimants for taking on record the supplementary claim will take place at London on 15.11.2003, on which date, the following order was passed in Arbitration Case No.3 of 2003By consent of parties, seat of the Arbitration is shifted to London.	Facts
+Parties will deposit Rs.25,000 each as administrative cost with the Presiding Arbitrator.5.	Facts
+Thereafter, the following proceedings were held by the arbitral tribunal at London(i)	Facts
+6.2.2004  Interim Award pronounced in Case No.1 of 2003 pronounced.(ii) 7.2.2004  proceedings held in Arbitration Case No.2 of 2003.(iii) 17.3.2004  Case No.2 of 2003 fixed for 1319.5.2004 for final arguments.(iv) 17.3.2004  Case No.3 of 2003 fixed for recording of evidence from 3.6.2004 to 9.6.2004.(v) 17.3.2004  Case No.3 of 2003 fixed for arguments from 2026.7.2004.(vi) 27.3.2004  final arguments rescheduled to 1620.5.2004 in Case No.2 of 2003.(vii) 25.11.2004  Arbitral Tribunal declared that it will pass award in Case No.2 of 2003 and further partial award in Case No.1 of 2003.(viii) 3.2.2005  Case No.2 of 2003 fixed for 2526.2.2005 for hearing on the application for clarification filed on behalf of the Government of India.(ix) 12.3.2005  	Facts
+The Tribunal declared that it will finalise the award in Case No.3 of 2003 and crossobjections in Case No.1 of 2003.(x)	Facts
+31.3.2005  Partial award passed in Case No.3 of 2003.6.	Facts
+Respondent No.1 challenged partial award dated 31.3.2005 by filing a petition in the High Court of Malaysia at Kuala Lumpur.	Facts
+On being noticed, the appellant questioned the maintainability of the case before the High Court of Malaysia by contending that in view of clause 34.12 of the PSC only the English Courts have the jurisdiction to entertain any challenge to the award.7.	Facts
+After filing the petition before the High Court of Malaysia, the respondents made a request to the tribunal to conduct the remaining arbitral proceedings at Kuala Lumpur, but their request was rejected vide order dated 20.4.2006 and it was declared that the remaining arbitral proceedings will be held in London.8.	Facts
+At that stage, the respondents filed OMP No.255 of 2006 under Section 9 of the Act in Delhi High Court for stay of the arbitral proceedings.	Facts
+They filed another OMP No.329 of 2006 questioning award dated 31.3.2005 on the issue of exchange rate.	Facts
+The appellant objected to the maintainability of OMP No.255 of 2006 and pleaded that the Courts in India do not have the jurisdiction to entertain challenge to the arbitral award.	Facts
+The learned Single Judge of the Delhi High Court overruled the objection of the appellant and held that the said High Court has the jurisdiction to entertain the petition filed under Section 9 of the Act.	Facts
+The learned Single Judge extensively referred to the judgment of this Court in Bhatia International v. Bulk Trading S.A. (2002) 4 SCC 105 and	Facts
+observedThe ratio of Bhatia International, in my understanding, is that the provisions of PartI of the Indian Arbitration Act would apply to international commercial arbitrations held outside India, unless the parties by agreement express or implied, exclude all or any of its provisions.	Facts
+It is noteworthy that the respondent, while challenging the jurisdiction of this Court to entertain the present petition, has not disputed the applicability of Part	Facts
+I of the Indian Arbitration Act to international commercial arbitrations held outside India.	Facts
+It is not the case of the respondent that section 9 of the Indian Arbitrations Act does not apply to international commercial arbitrations held outside India.	Facts
+What, in fact, learned senior counsel for the respondent has sought to contend before this Court is that the parties herein, by adopting the English Law as the proper law governing the arbitration agreement, have expressly excluded the applicability of the Indian Arbitration Act, and consequently, this Court has no jurisdiction to entertain the present petition.	Facts
+This contention of the respondent has been resisted by learned senior counsel for the petitioner on the ground that English law governs the substantive aspects of the arbitration agreement, whilst the procedural aspect thereof is governed by the curial law, that is, the procedural law of the country where the seat of arbitration is.	Facts
+It is thus contended by learned senior counsel for the petitioner that the juridical seat of arbitration being in Kuala Lumpur, it is the Malaysian laws that would govern the conduct of the arbitral proceedings.	Facts
+Learned senior counsel for the respondent has countervailed the said averment of the petitioner by submitting that London, and not, Kuala Lumpur is the designated seat of arbitration in view of the order dated 15.11.2003 passed by the Arbitral Tribunal whereby the Arbitral Tribunal recorded the consent of the parties and shifted the seat of arbitration to London.	Facts
+In view of the petitioner having already conceded to London as the juridical seat of arbitration, it is thus contended by learned counsel for the respondent that the petitioner cannot know insist on Kuala Lumpur being the seat of arbitration.	Facts
+The averments made by the respondent, without prejudice to the veracity thereof, entail an examination on merit and thus cannot be accepted at this preliminary stage.	Facts
+Whether the Courts at Kuala Lumpur or London have the jurisdiction to decide upon the seat of arbitration squarely hinges on the procedural law governing the arbitration agreement.	Facts
+However, in a peculiar situation such as the present one where the governing procedural law is yet to be determined, I am of the view that a question regarding the seat of arbitration can be best decided by the Court to which the parties or to which the dispute is most closely connected.	Facts
+It is important to recall that in the instant case the parties have expressly stated in Article 33.1 of the PSC that the laws applicable to the contract would be the laws in force in India and that the Contract shall be governed and interpreted in accordance with the laws of India.	Facts
+These words are wide enough to engulf every question arising under the contract including the disputes between the parties and the mode of settlement.	Facts
+It was in India that the PSC was executed.	Facts
+The form of the PSC is closely related to the system of law in India.	Facts
+It is also apparent that the PSC is to be performed in India with the aid of Indian workmen whose conditions of service are regulated by Indian laws.	Facts
+Moreover, whilst the petitioner is an important portfolio of the Government of India, the respondent is also a company incorporated under the Indian laws.	Facts
+The contract has in every respect the closest and most real connection with the Indian system of law and it is by that law that the parties have expressly evinced their intention to be bound in all respects.	Facts
+The arbitration agreement is contained in one of the clauses of the contract, and not in a separate agreement.	Facts
+In the absence of any indication to the contrary, the governing law of the contract or the proper law (in the words of Dicey) of the contract being Indian law, it is that system of law which must necessarily govern matters concerning arbitration, although in certain respects the law of the place of arbitration may have its relevance in regard to procedural matters.	Facts
+There is no gainsay that the Courts observe extreme circumspection whilst affording relief under section 9 of the Indian Arbitration Act, lest the annals of party autonomy and sanctity of the arbitral tribunal  the hallmarks of any arbitration  are jeopardized.	Facts
+It is to be appreciated that the object underlying the grant of interim measures under section 9 of the Indian Arbitration Act is to facilitate and sub serve any ongoing arbitral proceedings.	Facts
+It is much apparent that the disparate stands taken by both parties qua the seat of arbitration has resulted in a veritable impasse in the arbitral proceedings in the present case.	Facts
+The petitioner has brought to our notice that the proceedings initiated by it at the High Court Kuala Lumpur challenging the Partial award have been virtually brought to a standstill owing the objections raised by the respondent on grounds of jurisdiction.	Facts
+The petitioner has already expressed its dissidence about the English Court deciding the question of seat of arbitration for the reason that for the English Court to assume jurisdiction, it is the place of arbitration which is the relevant factor.	Facts
+In such a situation, of the Indian Court does not adjudicate upon the present petition, the arbitral proceedings between the parties will invariably end in a stalemate.	Facts
+This, I am afraid, would not only be inimical to the interests of the parties but also affront to section 9 of the Indian Arbitration, the underlying object whereof is to sub serve and facilitate arbitral proceedings.	Facts
+Shri R.F. Nariman, learned senior counsel appearing for the appellant argued that the impugned order is liable to be set aside because the learned Single Judge misconstrued and misapplied the judgment of this Court in Bhatia International v. Bulk Trading S.A. (supra) and erroneously held that the Delhi High Court has jurisdiction to decide O.M.P. No.255 of 2006.	Arguments of Petitioner
+Learned counsel further argued that the learned Single Judge failed to appreciate that the reliefs prayed for in O.M.P. No.255 of 2006 could not have been granted on an application filed under Section 9 of the Act because stay of arbitral proceedings is beyond the scope of that section.	Arguments of Petitioner
+Learned senior counsel emphasized that Section 5 of the Act expressly bars intervention of the Courts except in matters expressly provided for in the Act and, therefore, even if the petition filed by the respondents under Section 9 could be treated as maintainable, the High Court did not have jurisdiction over the arbitration proceedings because the same are governed by the laws of England.	Arguments of Petitioner
+Shri Nariman then argued that after having expressly consented to the shifting of the seat of arbitration from Kuala Lumpur to Amsterdam in the first instance and effectively taken part in the proceedings held at London till 31.3.2005, respondent No.1 is estopped from claiming that the seat of arbitration continues to be at Kuala Lumpur.	Arguments of Petitioner
+Learned senior counsel submitted that the learned Single Judge was not justified in rejecting objection to the maintainability of the petitions filed by respondent No.1 in the Delhi High Court merely because the appellant had earlier filed O.M.P. No.179 of 2003 before the High Court.	Arguments of Petitioner
+He submitted that the doctrine of waiver and acquiescence cannot be pressed into service for deciding the issue relating to jurisdiction of the Delhi High Court to entertain the petition filed under Section 9 of the Act.	Arguments of Petitioner
+Shri Nariman further submitted that if respondent No.1 felt aggrieved against partial award it could have filed petition under Sections 67 and 68 of the English Arbitration Act, 1996.	Arguments of Petitioner
+Shri Gopal Subramaniam, learned Solicitor General submitted that as per the arbitration agreement which is binding on all the parties to the contract, a conscious decision was taken by them that Kuala Lumpur will be the seat of any intended arbitration, Indian law as the law of contract and English law as the law of arbitration and the mere fact that the arbitration was held outside Kuala Lumpur due to the outbreak of epidemic SARS, the venue of arbitration cannot be said to have been changed from Kuala Lumpur to London.	Arguments of Respondent
+Learned Solicitor General emphasised that once Kuala Lumpur was decided as the venue of arbitration by written agreement, the same could not have been changed except by amending the written agreement as provided in clause 35.2 of the PSC.	Arguments of Respondent
+He then argued that the arbitral tribunal was not entitled to determine the seat of arbitration and the record of proceedings held on 15.11.2003 at London cannot be construed as an agreement between the parties for change in the juridical seat of arbitration.	Arguments of Respondent
+He further argued that the PSC was between the Government of India and ONGC Ltd., Videocon Petroleum Ltd., Command Petroleum (India) Pvt.	Arguments of Respondent
+Ltd. and Ravva Oil (Singapore) Pvt.	Arguments of Respondent
+Ltd.	Arguments of Respondent
+and, therefore, the venue of arbitration cannot be treated to have been changed merely on the basis of the so called agreement between the appellant and the respondents.	Arguments of Respondent
+Learned Solicitor General submitted that any change in the PSC requires the concurrence by all the parties to the contract and the consent, if any, given by two of the parties cannot have the effect of changing the same.	Arguments of Respondent
+He then argued that every written agreement on behalf of respondent No.1 is required to be expressed in the name of the President and in the absence of any written agreement having been reached between the parties to the PSC to amend the same, the consent given for shifting the physical seat of arbitration to London did not result in change of juridical seat of the arbitration which continues to be Kuala Lumpur.	Arguments of Respondent
+In support of this argument, the learned Solicitor General relied upon the judgments of this Court in Mulamchand v. State of Madhya Pradesh (1968) 3	Arguments of Respondent
+SCR 214 and State of Haryana v. Lal Chand (1984) 3	Arguments of Respondent
+SCR 715.	Arguments of Respondent
+In the end, he argued that the provisions of the English Arbitration Act, 1996 would have applied only if the seat of arbitration was in England and Wales.	Arguments of Respondent
+He submitted that London cannot be treated as juridical seat of arbitration merely because the parties had decided that the arbitration agreement contained in Article 34 will be governed by the laws of England.	Arguments of Respondent
+We have considered the respective submissions and perused the record.	None
+We shall first consider the question whether Kuala Lumpur was the designated seat or juridical seat of arbitration and the same had been shifted to London.	None
+In terms of clause 34.12 of the PSC entered into by 5 parties, the seat of arbitration was Kuala Lumpur, Malaysia.	None
+However, due to outbreak of epidemic SARS, the arbitral tribunal decided to hold its sittings first at Amsterdam and then at London and the parties did not object to this.	None
+In the proceedings held on 14th and 15th October, 2003 at London, the arbitral tribunal recorded the consent of the parties for shifting the juridical seat of arbitration to London.	None
+Whether this amounted to shifting of the physical or juridical seat of arbitration from Kuala Lumpur to London?	None
+The decision of this would depend on a holistic consideration of the relevant clauses of the PSC.	None
+Though, it may appear repetitive, we deem it necessary to mention that as per the terms of agreement, the seat of arbitration was Kuala Lumpur.	None
+If the parties wanted to amend clause 34.12, they could have done so only by written instrument which was required to be signed by all of them.	None
+Admittedly, neither there was any agreement between the parties to the PSC to shift the juridical seat of arbitration from Kuala Lumpur to London nor any written instrument was signed by them for amending clause 34.12.	None
+Therefore, the mere fact that the parties to the particular arbitration had agreed for shifting of the seat of arbitration to London cannot be interpreted as anything except physical change of the venue of arbitration from Kuala Lumpur to London.	None
+In this connection, reference can usefully be made to Section 3 of the English Arbitration Act, 1996, which reads as follows 3.The seat of the arbitration.	None
+In this Part the seat of the arbitration means the juridical seat of the arbitration designated (a) by the parties to the arbitration agreement, or (b) by any arbitral or other institution or person vested by the parties with powers in that regard, or (c) by the arbitral tribunal if so authorised by the parties, or determined, in the absence of any such designation, having regard to the parties agreement and all the relevant circumstances.	None
+A reading of the above reproduced provision shows that under the English law the seat of arbitration means juridical seat of arbitration, which can be designated by the parties to the arbitration agreement or by any arbitral or other institution or person empowered by the parties to do so or by the arbitral tribunal, if so authorised by the parties.	None
+In contrast, there is no provision in the Act under which the arbitral tribunal could change the juridical seat of arbitration which, as per the agreement of the parties, was Kuala Lumpur.	None
+Therefore, mere change in the physical venue of the hearing from Kuala Lumpur to Amsterdam and London did not amount to change in the juridical seat of arbitration.	None
+This is expressly indicated in Section 53 of the English Arbitration Act, 1996, which reads as under Place where award treated as made.	None
+Unless otherwise agreed by the parties, where the seat of the arbitration is in England and Wales or Northern Ireland, any award in the proceedings shall be treated as made there, regardless of where it was signed, despatched or delivered to any of the parties.	None
+In Dozco India P. Ltd. v. Doosan Infracore Co. Ltd. 2010 (9) UJ 4521 (SC), the learned designated Judge while exercising power under Section 11(6) of the Act, referred to the following passage from Redfern v. Hunter	None
+The preceding discussion has been on the basis that there is only one place of arbitration.	None
+This will be the place chosen by or on behalf of the parties and it will be designated in the arbitration agreement or the terms of reference or the minutes of proceedings or in some other way as the place or seat of the arbitration.	None
+This does not mean, however, that the arbitral tribunal must hold all its meetings or hearings at the place of arbitration.	None
+International commercial arbitration often involves people of many different nationalities, from many different countries.	None
+In these circumstances, it is by no means unusual for an arbitral tribunal to hold meetings  or even hearings  in a place other than the designated place of arbitration, either for its own convenience or for the convenience of the parties or their witnesses It may be more convenient for an arbitral tribunal sitting in one country to conduct a hearing in another country  for instance, for the purpose of taking evidence In such circumstances, each move of the arbitral tribunal does not of itself mean that the seat of the arbitration changes.	None
+The seat of the arbitration remains the place initially agreed by or on behalf of the parties.	None
+The next issue, which merits consideration is whether the Delhi High Court could entertain the petition filed by the respondents under Section 9 of the Act.	None
+In Bhatia International v. Bulk Trading S.A. (supra), the three Judge Bench considered the important question whether Part I of the Act is applicable to the international arbitration taking place outside India.	None
+After noticing the scheme of the Act and argument of the appellant that Part I of the Act would apply only to the cases in which the venue of arbitration is in India, the Court observed A reading of the provisions shows that the said Act applies to arbitrations which are held in India between Indian nationals and to international commercial arbitrations whether held in India or out of India.	Facts
+Section 2(1)(f) defines an international commercial arbitration.	None
+The definition makes no distinction between international commercial arbitrations held in India or outside India.	None
+An international commercial arbitration may be held in a country which is a signatory to either the New York Convention or the Geneva Convention (hereinafter called the convention country).	None
+An international commercial arbitration may be held in a nonconvention country.	None
+The said Act nowhere provides that its provisions are not to apply to international commercial arbitrations which take place in a nonconvention country.	None
+Admittedly, Part II only applies to arbitrations which take place in a convention country.	None
+Mr. Sen fairly admitted that Part II would not apply to an international commercial arbitration which takes place in a nonconvention country.	None
+He also fairly admitted that there would be countries which are not signatories either to the New York Convention or to the Geneva Convention.	None
+It is not possible to accept the submission that the said Act makes no provision for international commercial arbitrations which take place in a nonconvention country.	None
+Now let us look at subsections (2), (3), (4) and (5) of Section 2.	None
+Subsection (2) of Section 2 provides that Part I would apply where the place of arbitration is in India.	None
+To be immediately noted, that it is not providing that Part I shall not apply where the place of arbitration is not in India.	None
+It is also not providing that Part I will only apply where the place of arbitration is in India (emphasis supplied).	None
+Thus the legislature has not provided that Part I is not to apply to arbitrations which take place outside India.	None
+The use of the language is significant and important.	None
+The legislature is emphasising that the provisions of Part I would apply to arbitrations which take place in India, but not providing that the provisions of Part I will not apply to arbitrations which take place out of India.	None
+The wording of subsection (2) of Section 2 suggests that the intention of the legislature was to make provisions of Part I compulsorily applicable to an arbitration, including an international commercial arbitration, which takes place in India.	None
+Parties cannot, by agreement, override or exclude the nonderogable provisions of Part I in such arbitrations.	None
+By omitting to provide that Part I will not apply to international commercial arbitrations which take place outside India the effect would be	None
+that Part	None
+I would also apply to international commercial arbitrations held out of India.	None
+But by not specifically providing that the provisions of Part I apply to international commercial arbitrations held out of India, the intention of the legislature appears to be to ally (sic allow) parties to provide by agreement that Part I or any provision therein will not apply.	None
+Thus in respect of arbitrations which take place outside India even the nonderogable provisions of Part I can be excluded.	None
+Such an agreement may be express or implied.	None
+If read in this manner there would be no conflict between Section 1 and Section 2(2).	None
+The words every arbitration in subsection (4) of Section 2 and the words all arbitrations and to all proceedings relating thereto in subsection (5) of Section 2 are wide.	None
+Subsections (4) and (5) of Section 2 are not made subject to subsection (2) of Section 2.	None
+It is significant that subsection (5) is made subject to subsection (4) but not to subsection (2).	None
+To accept Mr. Sens submission would necessitate adding words in subsections (4) and (5) of Section 2, which the legislature has purposely omitted to add viz.	None
+subject to provision of subsection (2).	None
+However read in the manner set out hereinabove there would also be no conflict between subsection (2) of Section 2 and subsections (4) and or (5) of Section 2.	None
+That the legislature did not intend to exclude the applicability of Part I to arbitrations, which take place outside India, is further clear from certain other provisions of the said Act.	None
+Subsection (7) of Section 2 reads as follows 2.	None
+(7) An arbitral award made under this Part shall be considered as a domestic award.	None
+As is set out hereinabove the said Act applies to (a) arbitrations held in India between Indians, and (b) international commercial arbitrations.	Facts
+As set out hereinabove international commercial arbitrations may take place in India or outside India.	Facts
+Outside India, an international commercial arbitration may be held in a convention country or in a non convention country.	None
+The said Act however only classifies awards as domestic awards or foreign awards.	None
+Mr. Sen admits that provisions of Part II make it clear that foreign awards are only those where the arbitration takes place in a convention country.	None
+Awards in arbitration proceedings which take place in a nonconvention country are not considered to be foreign awards under the said Act.	None
+They would thus not be covered by Part II.	None
+An award passed in an arbitration which takes place in India would be a domestic award.	None
+There would thus be no need to define an award as a domestic award unless the intention was to cover awards which would otherwise not be covered by this definition.	None
+Strictly speaking, an award passed in an arbitration which takes place in a nonconvention country would not be a domestic award.	None
+Thus the necessity is to define a domestic award as including all awards made under Part I.	None
+The definition indicates that an award made in an international commercial arbitration held in a non convention country is also considered to be a domestic award.	None
+(emphasis supplied)	None
+The Court then referred to Section 9 of the Act which empowers the Court to make interim orders and proceeded to observe Thus under Section 9 a party could apply to the court (a) before, (b) during arbitral proceedings, or (c) after the making of the arbitral award but before it is enforced in accordance with Section 36.	None
+The words in accordance with Section 36 can only go with the words after the making of the arbitral award.	None
+It is clear that the words in accordance with Section 36 can have no reference to an application made before or during the arbitral proceedings.	None
+Thus it is clear that an application for interim measure can be made to the courts in India, whether or not the arbitration takes place in India, before or during arbitral proceedings.	None
+Once an award is passed, then that award itself can be executed.	None
+Sections 49 and 58 provide that awards covered by Part II are deemed to be a decree of the court.	None
+Thus foreign awards which are enforceable in India are deemed to be decrees.	None
+A domestic award has to be enforced under the provisions of the Civil Procedure Code.	None
+All that Section 36 provides is that an enforcement of a domestic award is to take place after the time to make an application to set aside the award has expired or such an application has been refused.	None
+Section 9 does suggest that once an award is made, an application for interim measure can only be made if the award is a domestic award as defined in Section 2(7) of the said Act.	None
+Thus where the legislature wanted to restrict the applicability of Section 9 it has done so specifically.	None
+We see no substance in the submission that there would be unnecessary interference by courts in arbitral proceedings.	None
+Section 5 provides that no judicial authority shall intervene except where so provided.	None
+Section 9 does not permit any or all applications.	None
+It only permits applications for interim measures mentioned in clauses (i) and (ii) thereof.	None
+Thus there cannot be applications under Section 9 for stay of arbitral proceedings or to challenge the existence or validity of the arbitration agreements or the jurisdiction of the Arbitral Tribunal.	None
+All such challenges would have to be made before the Arbitral Tribunal under the said Act.	None
+The threeJudge Bench recorded its conclusion in the following words To conclude, we hold that the provisions of Part I would apply to all arbitrations and to all proceedings relating thereto.	None
+Where such arbitration is held in India the provisions of Part I would compulsorily apply and parties are free to deviate only to the extent permitted by the derogable provisions of Part I.	None
+In cases of international commercial arbitrations held out of India provisions of Part I would apply unless the parties by agreement, express or implied, exclude all or any of its provisions.	None
+In that case the laws or rules chosen by the parties would prevail.	None
+Any provision, in Part I, which is contrary to or excluded by that law or rules will not apply.	None
+(emphasis supplied)	None
+In Venture Global Engineering v. Satyam Computer Services Limited (2008) 4 SCC 190 , a twoJudge Bench was called upon to consider whether the Court of Additional Chief Judge, City Civil Court, Secunderabad had the jurisdiction to entertain the suit for declaration filed by the appellant to set aside the award passed by the sole arbitrator appointed at the instance of respondent No.1 despite the fact that the arbitrator had conducted the proceedings outside India.	None
+The trial Court had entertained and allowed the application filed by respondent No.1 under Order VII Rule 11 of the Code of Civil Procedure, 1908 (CPC) and rejected the plaint.	None
+The Andhra Pradesh High Court confirmed the order of the trial Court.	None
+Before this Court, reliance was placed by the appellant on the ratio of Bhatia International v. Bulk Trading S.A. (supra) and it was argued that the trial Court had the jurisdiction to entertain the suit.	None
+On behalf of the respondents, it was argued that the trial Court did not have the jurisdiction to entertain the suit because the award was made outside India.	None
+The Division Bench accepted the argument made on behalf of the appellant and observed On close scrutiny of the materials and the dictum laid down in the threeJudge Bench decision in Bhatia International we agree with the contention of Mr. K.K. Venugopal and hold that paras 32 and 35 of Bhatia International make it clear that the provisions of Part I of the Act would apply to all arbitrations including international commercial arbitrations and to all proceedings relating thereto.	None
+We further hold that where such arbitration is held in India, the provisions of Part I would compulsorily apply and parties are free to deviate to the extent permitted by the provisions of Part I.	None
+It is also clear that even in the case of international commercial arbitrations held out of India provisions of Part I would apply unless the parties by agreement, express or implied, exclude all or any of its provisions.	None
+We are also of the view that such an interpretation does not lead to any conflict between any of the provisions of the Act and there is no lacuna as such.	None
+The matter, therefore, is concluded by the threeJudge Bench decision in Bhatia International.	None
+The learned Senior Counsel for the respondent based on para 26 submitted that in the case of foreign award which was passed outside India is not enforceable in India by invoking the provisions of the Act or CPC.	None
+However, after critical analysis of para 26, we are unable to accept the argument of the learned Senior Counsel for the respondent.	None
+Paras 26 and 27 start by dealing with the arguments of Mr Sen who argued that Part I is not applicable to foreign awards.	None
+It is only in the sentence starting at the bottom of para 26 that the phrase it must immediately be clarified that the finding of the Court is rendered.	None
+That finding is to the effect that an express or implied agreement of parties can exclude the applicability of Part I.	None
+The finding specifically states But if not so excluded, the provisions of Part I will also apply to all foreign awards.	None
+This exception which is carved out, based on agreement of the parties, in para 21 (placita e to f) is extracted below 21.	None
+By omitting to provide that Part I will not apply to international commercial arbitrations which take place outside India the effect would be	None
+that Part	None
+I would also apply to international commercial arbitrations held out of India.	None
+But by not specifically providing that the provisions of Part I apply to international commercial arbitrations held out of India, the intention of the legislature appears to be to ally (sic allow) parties to provide by agreement that Part I or any provision therein will not apply.	None
+Thus in respect of arbitrations which take place outside India even the nonderogable provisions of Part I can be excluded.	None
+Such an agreement may be express or implied.	None
+The very fact that the judgment holds that it would be open to the parties to exclude the application of the provisions of Part I by express or implied agreement, would mean that otherwise the whole of Part I would apply.	None
+In any event, to apply Section 34 to foreign international awards would not be inconsistent with Section 48 of the Act, or any other provision of Part II as a situation may arise, where, even in respect of properties situate in India and where an award would be invalid if opposed to the public policy of India, merely because the judgmentdebtor resides abroad, the award can be enforced against properties in India through personal compliance of the judgmentdebtor and by holding out the threat of contempt as is being sought to be done in the present case.	None
+In such an event, the judgmentdebtor cannot be deprived of his right under Section 34 to invoke the public policy of India, to set aside the award.	None
+As observed earlier, the public policy of India includes  (a) the fundamental policy of India or (b) the interests of India or (c) justice or morality or (d) in addition, if it is patently illegal.	None
+This extended definition of public policy can be bypassed by taking the award to a foreign country for enforcement.	None
+We may now advert to the judgment of the learned Single Judge of the Gujarat High Court in Hardy Oil and Gas Limited v. Hindustan Oil Exploration Company Limited and others (2006) 1 GLR 658.	None
+The facts of that case were that an agreement was entered into between Unocal Bharat Limited, Hardy Oil and Gas Limited, Netherland B.V. (Hardy), Infrastructure Leasing and Financial Services Limited, Housing Development Finance Corporation Limited and Hindustan Oil Exploration Company Limited on 14.10.1998.	None
+The agreement had an arbitration clause.	None
+A dispute having arisen between the parties, the matter was referred to the arbitral tribunal.	None
+During the pendency of the arbitration proceedings, an application was filed by the appellant in the District Court, Vadodara under Section 9 of the Act.	None
+A preliminary objection was raised to the maintainability of that petition.	None
+The learned District Judge accepted the objection.	None
+The learned Single Judge of Gujarat High Court referred to clause 9.5 of the agreement, which was as under 9.5 Governing Law and Arbitration This Agreement (except for the provisions of Clause 9.5.4 relating to arbitration) shall be governed by and construed in accordance with the substantive laws of India.	None
+Any dispute or difference of whatever nature arising under, out of, or in connection with this Agreement, including any question regarding its existence, validity or termination, which the parties are unable to resolve between themselves within sixty (60) days of notification by one or more Parties to the other(s) that a dispute exists for the purpose of this Clause 9 shall at the instance of any Party be referred to and finally resolved by Arbitration under the rules of the London Court of International Arbitration (SLCIA), which Rules (Rules) are deemed to be incorporated by reference into this clause.	None
+The Tribunal shall consist of two arbitrators who shall be Queens Counsel, practicing at the English Bar in the Commercial Division of the High Court, one to be selected by the Parties invoking the Arbitration clause acting unanimously and one to be selected by the other shareholders acting unanimously, and one umpire who shall also be a Queens Counsel, practicing at the English Bar in the Commercial Division of this High Court.	None
+If the parties are unable to agree on the identity of the umpire within 15 days from the day on which the matter is referred to arbitration, the umpire shall be chosen and appointed by LCIA.	None
+Notwithstanding Article 3.3 of the Rules, the Parties agree that LICA may appoint a British umpire.	None
+No arbitrator shall be a person or former employee or agent of, or consultant or counsel to, any Party or any Associated 24 Company or any Party or in any way otherwise connected with any of the Parties.	None
+The place of arbitration shall be London and the language of arbitration shall be English.	None
+The law governing arbitration will be the English law.	None
+Any decision or award of an arbitral tribunal shall be final and binding on the Parties.	None
+The learned Single Judge referred to various judgments of this Court including Bhatia International v. Bulk Trading S.A. (supra), Shreejee Traco	Facts
+(I) Pvt. Ltd. v. Paperline International Inc. (2003) 9 SCC 79 , National Thermal Power Corporation v. Singer Company (1992) 3 SCC 551 and upheld the order of the learned District Judge by observing that in terms of clause 9.5.4 of the agreement, the place of arbitration was London and the law governing arbitration was the English law.	None
+The learned Single Judge referred to paragraph 32 of the judgment in Bhatia International v. Bulk Trading S.A. (supra) and observed that once the parties had agreed to be governed by any law other than Indian law in cases of international commercial arbitration, then that law would prevail and the provisions of the Act cannot be invoked questioning the arbitration proceedings or the award.	None
+This is evident from paragraph 11.3 of the judgment, which is extracted below However, their Lordships observed in Para.32 that in cases of international commercial arbitrations held out of India provisions of PartI would apply unless the parties by agreement, express or implied, exclude all or any of its provisions.	None
+In that case laws or rules chosen by the parties would prevail.	None
+Any provision, in PartI, which is contrary to or excluded by that law or rules would not apply.	None
+Thus, even as per the decision relied upon by learned advocate for the appellant, if the parties have agreed to be governed by any law other than Indian law in cases of international commercial arbitration, same would prevail.	None
+In the case on hand, it is very clear even on plain reading of Clause 9.5.4 that the parties intention was to be governed by English law in respect of arbitration.	None
+It is not possible to give a narrow meaning to this clause as suggested by learned Senior Advocate Mr. Thakore that it would apply only in case of dispute on Arbitration Agreement.	None
+It can be interpreted only to mean that in case of any dispute regarding arbitration, English law would apply.	None
+When the clause deals with the place and language of arbitration with a specific provision that the law governing arbitration will be the English law, such a narrow meaning cannot be given.	None
+No other view is possible in light of exception carved out of Clause 9.5.1 relating to arbitration.	None
+Term Arbitration, in Clause 9.5.4 cannot be taken to mean arbitration agreement.	None
+Entire arbitral proceedings have to be taken to be agreed to be governed by English law.	None
+In our opinion, the learned Single Judge of Gujarat High Court had rightly followed the conclusion recorded by the threeJudge Bench in Bhatia International v. Bulk Trading S.A. (supra) and held that the District Court, Vadodara did not have the jurisdiction to entertain the petition filed under Section 9 of the Act because the parties had agreed that the law governing the arbitration will be English law.19.	Reasoning
+In the present case also, the parties had agreed that notwithstanding Article 33.1, the arbitration agreement contained in Article 34 shall be governed by laws of England.	Reasoning
+This necessarily implies that the parties had agreed to exclude the provisions of Part I of the Act.	Reasoning
+As a corollary to the above conclusion, we hold that the Delhi High Court did not have the jurisdiction to entertain the petition filed by the respondents under Section 9 of the Act and the mere fact that the appellant had earlier filed similar petitions was not sufficient to clothe that High Court with the jurisdiction to entertain the petition filed by the respondents.	Reasoning
+In the result, the appeal is allowed.	Decision
+The impugned order is set aside and the petition filed by the respondents under Section 9 of the Act is dismissed.	Decision

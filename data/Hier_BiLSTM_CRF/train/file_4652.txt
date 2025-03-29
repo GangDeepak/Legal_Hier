@@ -1,0 +1,157 @@
+ SEN, J. 1.	None
+In this appeal, on certificate, from a judgment of the Delhi High Court, by which it acquitted the respondent of an offence punishable under Section 16 (1) (a) of Prevention of Food Adulteration Act, 1954, for the alleged contravention of Sec. 7 (1) thereof, two questions arise, namely (1) whether even though the Public Analyst found in one of the reports, Ext. PE that a particular sample of cashew nuts purchased from the respondents shop was insectinfested to the extent of 20.6 per cent and that it contained living insects, that circumstance by itself was not sufficient to warrant a conviction, and (2) whether the respondent was protected by subsec.	Issue
+(2) of S. 19 of the Act inasmuch as he had purchased the cashew nuts in sealed tins from a dealer in cashew nuts under the invoice Ext. DW 3/A, which contained a description of the goods as SW Best Borma.	Issue
+2.	Reasoning
+The facts of the prosecution case are these.	Facts
+The respondent is a partner of the firm M s. Narain Dass Tak Chand, Khari Baoli, Delhi.	Facts
+The firm is engaged in wholesale business in dryfruits including cashew nuts which it gets from different manufacturers.	Facts
+On August 1, 1968 three samples of cashew nuts were taken from its shop by the two Food Inspectors, S. L. Mehra, P. W. 1 and H. K, Bhanot, P. W. 3 from three sealed tins supplied by Sri Venkateswara Cashews, Panruti.	Facts
+These samples were duly forwarded to the Public Analyst, Delhi who by his three reports dated August 3, 1968 in Form III, Exts, PE, PE/1 and PE /2 found that all the three samples taken were insectinfested.	Facts
+Of these, two were insectinfested to the extent of 20.6 and 20.	Facts
+7 per cent and the third to the extent of 5.63 per cent.	Facts
+3.	None
+The Magistrate 1st Class, Delhi acquitted the respondent holding (1) that the respondent was a sleeping partner residing at Kanpur, and that there was nothing to show that he was in charge of and was responsible for the conduct of the business which was carried on at the shop of the firm at Khari Baoli, Delhi (2) that alternatively, the invoice Ext. DW 3/A produced by the respondent contained a warranty which absolved him from liability, and (3) that the ratio of living insects to dead insects not having been given in the Public Analysts report there being no. evidence to show that the cashew nuts in question were deleterious to health and if so, how much harmful effect it would have upon the health of a person consuming them, the mere fact of the cashew nuts being insect infested was not sufficient to bring home the charge.	Facts
+4.	None
+The Delhi High Court without going into the question as to whether the respondent was protected under subsection (2) of Section 19, maintained the order of acquittal, holding that merely because an article of food is insectinfested, it cannot be treated as adulterated within the meaning of Sec.	Facts
+2 (1) (f) of the Act unless it is further proved to be otherwise unfit for human consumption within the meaning of the section following its decision in Dhanraj v. Municipal Corporation of Delhi, ILR (1972)	Facts
+2 Delhi 681.	Facts
+In that view, it did not touch upon the other question namely, whether the invoice Ext. DW 3/A was sufficient warranty in law as to the purity of the article of food sold.	Facts
+5.	None
+The term adulterated as defined in Section 2 (1) (f) reads (f) if the article consists wholly or in part of any filthy, putrid, rotten, decomposed or diseased animal or vegetable substance or is insectinfested or is otherwise unfit for human consumption.	None
+6.	None
+In Dhanrajs case (supra) the High Court construed subcl.	None
+(f) thus The word otherwise in subclause (f) of clause (1) of Section 2 does suggest that all the adjectives used earlier refer to the quality of the article being unfit for human consumption.	None
+To fall under that subclause an article of food must be unfit of human consumption because it consists wholly or in part of any filthy, putrid, disgusting, rotten, decomposed or diseased animal or vegetable substance or because it is insectinfested or on account of any other cause.	None
+7.	None
+We are of the opinion that the High Court was clearly wrong in its interpretation of Section 2 (1) (f).	Reasoning
+On the plain language of the definition section, it is quite apparent that the words or is otherwise unfit for human consumption are disjunctive of the rest of the words preceding them.	Reasoning
+It relates to a distinct and separate class altogether.	Reasoning
+It seems to us that the last clause or is otherwise unfit for human consumption is residuary provision which would apply to a case not covered by or falling squarely within the clauses preceding it.	Reasoning
+If the phrase is to be read disjunctively the mere proof of the article of food beings filthy, putrid, rotten, decomposedor insect infested would be per se sufficient to bring the case within the purview of the word adulterated as defined in subclause (f) and it would not be necessary in such a case to prove further that the article of food was unfit for human consumption.	Reasoning
+8.	None
+It is however, pointed out that the construction placed by the High Court in Dhanrajs case upon Section 2 (1) (f) of the Act has been received with approval by this Court in Municipal Corporation of Delhi v. Kacheroo Mal (1976)	None
+2	Reasoning
+SCR 1 , where it is observed that the construction placed by the High Court in Dhanrajs case is the correct exposition of the law embodied in Section 2 (1) (f).	None
+It is added for the sake of elucidation that the adjectives which precede the phrase or is otherwise unfit for human consumption indicate presumptive but not absolute criteria as to the quality of the article of food.	None
+If we may say so with respect, we have reservation about the correctness of this decision, but it is not necessary to refer the case to a larger Bench.	None
+9.	None
+In Kacheroo Mals case it is observed The phrase or is otherwise unfit for human consumption can be read conjunctively as well as disjunctively.	None
+If it is read conjunctively, that is, in association with what precedes it, subclause (f) with slight consequent rearrangement and parenthesis would read like this If the article is unfit for human consumption on account of (a) its consisting wholly or in part of any filthy, putrid, disgusting rotten, decomposed or diseased animal or vegetable substance or being insectinfested, (b) or on account of any other cause.	None
+In this view of the subclause, proof of unfitness of the article for human consumption is a must for bringing the case within its purview.	None
+If the phrase is to be read disjunctively, the mere proof of the whole or any part of the article being filthy, putrid, disgusting, rotten or insectinfested would be conclusive to bring the case within the mischief of this subclause, and it would not be necessary in such a case to prove further that the article was unfit for human consumption.	None
+We would prefer the first construction as it comforts best with reason, commonsense, realities, the tenor of this provision and the main purpose and scheme of the Act.	None
+The adjective filthy, putrid, disgusting, decomposed, rotten insectinfested refer to the quality of the article and furnish the indicia for presuming the article to be unfit for human consumption.	None
+But the presumption may not be conclusive in all cases, irrespective of the character of the article, and the nature and extent of the vice afflicting it.	None
+This is particularly so, where an article is found to be insect infested.	None
+With utmost respect, we are not able to share this view and would hold that the observations made in the judgment should be confined to the particular facts of that case.	None
+10.	None
+The decision in Kacheroo Mals case was largely based on the circumstances that the standard of quality and purity was not prescribed in respect of cashew nuts.	None
+Now that R. 48B of the Prevention of Food Adulteration Rules, 1955 has been framed, the decision in Kacheroo Mals case is rendered inapplicable.	None
+11.	None
+In the definition clause, the collocation of words filthy, putrid, rotten, decomposed and insectinfested, which are adjectives qualifying the term an article of food, show that it is not of the nature, substance and quality fit for human consumption.	None
+It will be noticed that there is a comma after each of the first three words.	None
+It should also be noted that these qualifying adjectives cannot be read into the last portion of the definition i.e., the words or is otherwise unfit for human consumption, which is quite separate and distinct from others.	None
+The word otherwise signify unfitness for human consumption due to other causes.	None
+If the last portion is meant to mean something different, it becomes difficult to understand how the word or as used in the definition of adulterated in Section 2 (9) (f) between filthy, putrid, rotten etc. and otherwise unfit for human consumption could have been intended to be used conjunctively.	None
+It would be more appropriate in the context to read it disjunctively.	None
+In Strouds Judicial Dictionary, 3rd Edn., Vol. 1, it is stated at p. 135 And has generally a cumulative sense, requiring the fulfilment of all the conditions that it joins together, and herein it is the antithesis of OR.	None
+Sometimes, however, even in such a connection, it is, by force of a context, read as or.	None
+While dealing with the topic OR is read as AND, and vice versa	None
+Shroud says in Vol. 3, at p. 2009	None
+You will find it said in some cases that or means and but or never does mean and.	None
+Similarly, in Maxwell on Interpretation of Statutes, 11th Edn., pp. 22930, it has been accepted that to carry out the intention of the legislature, it is occasionally found necessary to read the conjunction or and and one for other.	None
+The word or is normally disjunctive and and is normally conjunctive, but at times they are read as vice versa.	None
+As Scrutton L. J. said in Green v. Premier Glynrhonwy Slate Co. (1928) 1 KB 561 at p. 568, you do sometimes read or as and in a statute But you do not do it unless you are obliged, because or does not generally mean and and and does not generally mean or.	None
+As Lord Halsbury L. C. observed in Mersey Docks Harbour Boar v. Handerson (1888) 13 AC 595 (603) the reading of or as and is not to be resorted to unless some other part of the same statute or the clear intention of it requires that to be done.	None
+The substitution of conjunctions, however, has been sometimes made without sufficient reasons, and it has been doubted whether, some of case of turning or into and and vice versa have not gone to the extreme limit of interpretation.	None
+12.	None
+Various categories of adulterated food mentioned in Sec.	None
+2 (1) (f) broadly fall into two kinds of adulteration firstly, where the constituent elements make the food obnoxious to human health or the existence of the particular composition of it, itself makes the food adulterated, and secondly, where the adulteration is constituted by the fact that the prescribed standard has not been observed in selling what purports to be a food of that standard or quality.	None
+13.	None
+We really fail to comprehend why the mere proof of an article of food like decomposed or diseased meat or rotten fish or putrid fruits and vegetables by the condition of the article itself should not be sufficient to attract the definition of adulterated contained in S. 2 (1) (f) and further proof of unfitness of the article for human consumption is still necessary for brining home the guilt.	None
+14.	None
+The decision in Kacheroo Mals case is, however, distinguishable inasmuch as there was in that case no. evidence that the cashew nuts, which were insectinfested to the extent of 21.9 per cent, were unfit for human consumption.	None
+15.	None
+In regard to cashew nuts there was, at the material time, no. statutory provision prescribing any minimum standards of purity.	None
+It is, therefore, for the Court to decide upon the evidence in the case, whether the insectinfestation found was of such nature and extent as to make it unfit for human consumption.	None
+Assuming the test in Kacheroo Mals case to be correct, and the report of the Public Analyst to be just a piece of evidence which has to be evaluated by the Court in the facts and circumstances of each particular case to reach a finding as to the unfitness or otherwise of the sample for human consumption, there is in the present case such evidence.	None
+Dr. B. D. Narang, DW 1, examined by the respondent, is an expert on the subject, being a member of the Central Committee of Food Standards, besides holding Ph. D. degree in Chemistry from the University of Texas.	None
+He unequivocally states that although in regard to cashew nuts, there was at that time	None
+no.	None
+statutory provision prescribing any minimum standard of purity, the Committee had recommended to allow a 10 per cent insectinfestation as it was of the view that this much infestation should not be taken as an act of adulteration since it was not harmful to human consumption.	None
+In view of this clear evidence, two of the samples of cashew nuts purchased from the respondent, which were found to be insectinfested to the extent of 20.6 and 20.7 per cent, must be held to be adulterated within the meaning of Section 2 (1) (f).	None
+There is no. reason for us not to act upon the testimony of Dr. Narang, who is the respondents own witness.	None
+16.	None
+That takes us to the next ground namely whether the respondent having sold cashew nuts from sealed tins purchased from the supplier Sri.	None
+Venkateswara Cashews, Panruti under the invoice Ext. DW 3/A bearing the description that they were SW Best Borma cashew nuts, was protected under Section 19 (2) of the Act which reads 19 (2).	None
+A vendor shall not be deemed to have committed an offence pertaining to the sale of any adulterated or misbranded articles of food if he proves (a) that he purchased the article of food (i) in a case where a licence is prescribed for the sale thereof, from a duly licenced manufacturer, distributor or dealer (ii) in any other case, from any manufacturer, distributor or dealer, with a written warranty in the prescribed form and (b) that the article of food while in his possession was properly stored and that he sold it in the same state as he purchased it.	Reasoning
+17.	None
+There can be no. doubt that M s. Narain Dass Tak Chand had purchased the cashew nuts in question from Sri Venkateswara Cashews.	None
+Ramesh Chand, DW 3, manager of the firm states that the goods are purchased and sold by the firm in wholesale at its shop at Khari Baoli, Delhi, According to this witness, all the three partners of the firm reside at Kanpur.	None
+They come to Delhi in a month or two for scrutinising the accounts.	None
+He states that the cashew nuts were purchased under the invoice Ext, DW 3	None
+/A	None
+and they were of SW mark.	None
+We are left to guess what the letters SW or SW Best Borma signify.	None
+18.	None
+It is, however, strenuously urged that the invoice describes the cashew nuts to be SW Best Borma and this amounts to a warranty as to quality.	Arguments of Respondent
+Strong reliance is placed on the decision of this Court in Ranganatha Reddiar v. State of Kerala (1970) 1	Arguments of Respondent
+SCR 864 and Andhra Pradesh Grain Seed Merchants Association v. Union of India (1917) 1	Arguments of Respondent
+SCR 166 for the contention that if an article of food is sold in the same condition in which it was purchased from the manufacturer or dealer, the vendor i.e., the retailer, like the respondent will not lose the protection of subsection (2) of Section 19 particularly when it is certified to be of good quality.	Arguments of Respondent
+We are afraid we cannot appreciate this line of reasoning.	None
+The two decisions in Ranganatha Reddiars case and in Andhra Pradesh Grain Seed Merchants case are clearly distinguishable.	None
+In the former case, the cash memo contained the words quality is up to the mark which meant that the quality of the article supplied was upto the standard required by the Act and the vendee.	None
+It was observed.	None
+It must be remembered that it is not a document drafted by a solicitor it is a document using the language of a tradesman.	None
+Any tradesman, when he is assured that the quality of the article is up to the mark will readily conclude that he is being assured that the article is not adulterated.	None
+In the latter case, it was a branded article of food, and it was said If the article of food is sold in the same condition in which it was from a licensed manufacturer or dealer, or was purchased with a warranty, the vendor will not lose the protection of subsection (2) of Section 19 merely because he opened the container.	None
+If the vendor has obtained the article from a licenced manufacturer, distributor or dealer or from a manufacturer, distributor or dealer with a warranty, he is protected, provided he has properly stored the article and sells it in the same state as he purchased the article, even if it turns out that the article was adulterated or misbranded.	None
+In the absence of any evidence that the respondent had purchased the cashew nuts under warranty, these authorities are of no. avail.	None
+19.	None
+Part IX of the Prevention of Food Adulteration Rules 1855 deals with the condition of sale and licence.	None
+Rule 50 stated that no. person shall manufacture, sell, stock, distribute or exhibit for sale the articles of food mentioned therein except under a licence.	None
+nuts is one of the articles mentioned therein.	None
+It is wide enough to include cashew nuts.	None
+Originally the rules did not prescribe the standards of the quality or purity in relation to dryfruits.	None
+That lacuna has, however, now been removed by the insertion of Rule 48B, which is in these terms 48B. Sale of insectdamaged dry fruits and nuts.  	None
+The dry fruits and nuts like raisins, currents, figs, cashewnuts, apricots, almonds may contain not more than 5 per cent of insectdamaged fruits and nuts, by count.	None
+20.	None
+Rule 12A which deals with warranty reads thus Rule 12A. Warranty  	None
+Every trader selling an article of food to a vendor shall, if the vendor so requires, deliver to the vendor a warranty in Form VIA Provided that no. warranty in such form shall be necessary if the lable on the article of food or the cash memo delivered by the trader to the vendor in respect of that article contains a warranty certifying that the food contained in the package or container or mentioned in the cash memo is the same in nature, substance and quality as demanded by the vendor.	None
+Explanation The term trader shall mean an importer, manufacturer, wholesale dealer or an authorised agent of such importer, manufacturer or wholesale dealer.	None
+Admittedly, there was no. warranty in the prescribed form in the instant case.	None
+The testimony of the two Food Inspector, S. L. Mehra, PW 1, and H. K. Bhanot, PW 3, no. doubt show that they bought the samples out of the sealed tins, but there is nothing to show that they were tins bearing the manufacturers lable guaranteeing purity.	Reasoning
+20A. In R. G. Pamnani v. State of Maharashtra (1975) 2	None
+SCR 886 this Court after distinguishing Andhra Pradesh Grain Seed Merchants case observed The reason why a warranty is required in both the cases contemplated in Section 19 (2) (a) (i) and (ii) is that if waranty were not to be insisted upon by the statute and if a vendor would be permitted to have a defence merely by stating that the vendor purchased the goods from a licenced manufacturer, distributor or dealer adulterated or misbranded articles would be marketed by manufacturers, distributors, dealers as well as purchasers from them with impunity.	Reasoning
+That is why a written warranty is enjoined in both the case in Section 19 (2) (a) (i) and (ii).	Reasoning
+Sec. 19	Reasoning
+(2) (a) of the Act will provide a defence where a vendor purchases articles of food from a licensed manufacturer, distributor or dealer with a written warranty in the prescribed form.	Reasoning
+Again, a vendor shall not be deemed to have committed an offence pertaining to the sale of any adulterated or misbranded article of food if he proves that he purchased the article from any manufacturer, distributor or dealer with a written warranty in the prescribed form.	Reasoning
+These salutary provisions are designed for the health of the nation.	Reasoning
+Therefore, a warranty is enjoined.	Reasoning
+No. laxity should be permitted.	Reasoning
+(Emphasis supplied).	None
+21.	None
+That, in our opinion, really concludes the matter.	Reasoning
+In the instant case, there is no. proof that the samples were taken from tins bearing the manufacturers label guaranteeing purity of goods, nor is there any such warranty in the invoice Ext. DW 3/A.	Reasoning
+It is, however, urged that the tins bore the imprint Good.	Reasoning
+There is nothing to substantiate this fact, and even if it were so, it is of little consequence.	Reasoning
+The word Good on which great emphasis is placed merely contains a description of the goods.	Reasoning
+At the most it amounts to puffing of goods.	Reasoning
+The word Good is not a warranty as to quality.	Reasoning
+The respondent is, therefore, not protected under Section 19 (2) of the Prevention of Food Adulteration Act, 1954 read with Rule 12A of the rules framed under the Act.	Reasoning
+22.	None
+The result, therefore, is that the appeal succeeds and is allowed.	Decision
+The order of acquittal of the respondent is set aside, and he is convicted for having committed an offence punishable under Section 16 (1) (a) read with Section 7 (1) of the Prevention of Food Adulteration Act, 1954.	Decision
+23.	None
+The contention that the respondent should be released on probation of good conduct under Section 4 of the Probation of Offenders Act, 1958 cannot be accepted.	Decision
+The provisions of Section 20AA inserted by Act 34 of 1976 interdicts the Court from applying the provisions of that Act to a prosecution under the Prevention of Food Adulteration Act, 1954.	Decision
+24.	None
+While we agree that adulteration of an article of food is a serious antisocial offence which must be visited with exemplary punishment, it will be rather harsh to pass a sentence of imprisonment in the facts and circumstances of this case.	Decision
+Under Section 16 of the Prevention of Food Adulteration Act, 1954, as in force at the material time, the Court had the discretion for special and adequate reasons under proviso to subsection (1) not to pass a sentence of imprisonment.	Decision
+In the instant case, the respondent is a man aged 75 years.	Decision
+The offence was committed on August 1, 1968 i.e., more than eleven years ago.	Decision
+The order of acquittal was based on the decision of the Delhi High Court in Dhanrajs case.	Decision
+The samples were taken from sealed tins.	Decision
+These are all mitigating circumstances.	Decision
+We accordingly refrain from passing a substantive sentence of imprisonment and instead of sentence the respondent to the period already undergone and to pay fine of Rs. 2, 000/ or in default to undergo rigorous imprisonment for a period of three months.	Decision

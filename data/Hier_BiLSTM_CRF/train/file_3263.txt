@@ -1,0 +1,178 @@
+ Venkatarama Aiyar, J.1.	None
+This appeal raises a question of importance as to whether amounts shown by an insurance company as reserves for unexpired risks on pending policies are liable to be deducted under R.2 of Sch.	Facts
+II to the Excess Profits Tax Act (XV of 1940), hereinafter referred to as the Act.2.	Facts
+The respondent is a Company carrying on life, fire, marine and general insurance business, and the present dispute relates to the assessment of excess profits tax on its income from business other than life insurance for the chargeable accounting periods ending 31st December 1940, and 31st December 1941.	Facts
+To appreciate the contentions raised, it is necessary to state that the policies of insurance with which these proceedings are concerned, are, unlike life insurance policies, issued in general for short periods or ad hoc in relation to a specified voyage or event.	Facts
+To take the most important of them, fire insurance policies, they are issued normally for one year, and the whole of the premium due thereon is received when the policies are actually issued.	None
+In any given year, while the premiums due on the policies would have been received in full, the risks covered by them would have run only in part and a part will be outstanding for the next year.	Facts
+The companies have to prepare annual statements of profit and loss for the purpose of ascertaining their profits and distributing their dividends.	None
+They have also to prepare revenue statements to be sent to the authorities under the provisions of the Insurance Act, 1938.	None
+The method adopted by the respondent in preparing the above statements has been that while the premiums received are all of them included in the assets of the year, a certain proportion thereof, usually 40 per cent., is treated as the reserve for unexpired risks, and that is shown as a liability.	None
+To take a concrete example, if in the year 1939 the respondent issued annual fire insurance policies and received a sum of Rs. 1,00,000 as premiums thereof, the whole of it would be shown as income in the statement for the year 1939, and a sum of Rs. 40,000 will be shown as a reserve for unexpired risks.	Facts
+In the profits and loss statement, the former will be shown as part of the assets and the latter as liability, and it is only the balance that will be included in the net profits.	None
+In 1940, the policies issued in 1939 would all of them have expired, and the sum of Rs. 40,000 shown as reserve in 1939 would be treated as part of the assets in 1940.	None
+There will, of course, be fresh policies issued in 1940, and in the statement of that year, the premiums received on those policies would be shown as part of the income, and 40 per cent.	Facts
+thereof would be set apart as reserve for unexpired risks.	Facts
+This method of accountkeeping is what is usually adopted by insurance companies, and is in accordance with wellrecognised and approved practice of accountancy.3.	Facts
+Now, the question is whether in the illustration given above, the sum of Rs. 40,000 which is set apart in 1939 as reserve for unexpired risks is liable to be deducted under R.2 of Sch.	Facts
+2 to the Act from out of the capital employed in business for that year, which would, of course, include, the whole of Rs. 1,00,000 received as premiums.	Facts
+The contention of the appellant is that if all the premiums received are to be treated as capital under R. 1, Sch. 2, then the sums which represent the outstanding liability in respect of the unexpired period of the policies in the illustration given above, Rs. 40,000  should be deducted as a liability under R.2 of Sch.	Facts
+2.	None
+The respondent while claiming that all the premiums received must be treated as capital, maintains that the provision for unexpired risks is a contingent liability and that is not within R.2 of Sch. II.	None
+The Tribunal decided the question against the respondent, but on reference under S. 66(1) of the Indian Incometax Act read with S.21 of the Act, the High Court of Calcutta answered the question adversely to the appellant, but granted a certificate under S. 66A, and that is how the appeal comes before us.4.	Facts
+The relevant statutory provisions may now be noticed.	None
+Under S. 4 of the Act, the charge is on the amount by which the profits during any chargeable accounting period exceed the standard profits.	None
+Standard profits are defined in S. 6, sub s. (1), and the respondent having exercised his option under the secondproviso thereto, they have to be calculated by applying the statutory percentage to the average amount of capital employed in the business during such chargeable accounting period.	None
+Schedule 2 enacts rules for the determination of the average capital employed.	None
+Under R. 1 (c), the capital employed will include the value of all assets when they became assets of the business.	None
+Rule 2 (1) enacts that any borrowed money and debts shall be deducted from out of the value of the assets.	None
+There is further a provision in R. 2(1), which is what is material for the purpose of the present appeal, and it runs as follows The debts to be deducted under this subrule shall include any such sums in respect of accruing liabilities as are allowable as a deduction in computing profits for the purposes of excess profits tax and the said sums shall be deducted notwithstanding that they have not become payable.	None
+For this clause to apply, two conditions must be satisfied.	None
+The sums to be deducted should be allowable as a deduction in computing the profits for the purpose of the Act, and further they should be in respect of accruing liabilities.	None
+Rule 1 of Sch. 1 enacts that .The profits of a business during any chargeable accounting period, shall, subject to the provisions of this Schedule, be computed on the principles on which the profits of a business are computed for the purposes of incometax under S.10 of the Indian Incometax Act, 1922.Section 10(7) of the Indian Incometax Act provides thatNotwithstanding anything to the contrary contained in Ss. 8, 9, 10, 12 or 18, the profits and gains of any business of insurance and the tax payable thereon shall be computed in accordance with the rules contained in the Schedule to this Act.	None
+Rule 6 of the Schedule providesThe profits and gains of any business of insurance other than life insurance shall be taken to be the balance of the profits disclosed by the annual accounts, copies of which are required under the Insurance Act, 1938, to be furnished to the Controller of Insurance after adjusting such balance so as to exclude from it any expenditure other than expenditure which may under the provisions of S. 10 of this Act be allowed for in computing the profits and gains of a business.5.	None
+It is common ground the statements furnished to the Controller of Insurance by the respondent for the relevant periods did disclose 40 per cent.	None
+of the premiums received as reserve for unexpired risks on the outstanding policies and that the same has been treated as a liability in its profits and loss statements and allowed in the assessment of incometax.	None
+Thus, one of the conditions required by R.2 has been satisfied.	None
+The whole controversy between the parties relates to the other condition whether the reserve of 40 per cent.	Issue
+can be regarded as a sum in respect of accruing liability.	Issue
+The contention of the learned Solicitor General is that it must be so regarded, and his argument in support of it may thus be stated A contract of insurance is complete as soon as the policy is issued.	Arguments of Petitioner
+From that time, the risk begins to attach to it and there is liability incurred.	Arguments of Petitioner
+Rule 2 does not require that the liability should have actually accrued it is sufficient that it is accruing.	Arguments of Petitioner
+Liability under a policy must be held to be accruing so long as the policy is in force, because it can ripen into actual liability at any time during the life of the policy on the happening of the specified event.	None
+When the assessee shows a certain amount as the value of that liability, it is a sum in respect of an accruing liability and must be deducted under R.2.6.	Arguments of Petitioner
+In support of this contention, the decision in Sun Insurance Office v. Clark, 1912 A.C. 443 6 Tax Cas 59 (A), was relied on.	None
+The facts of that case were as follows A fire insurance company which had been following the practice of entering in its annual statements 40 per cent.	None
+of the total premium receipts as reserve for unexpired risks claimed a deduction therefor in the assessment of its annual profits.	None
+The validity of the claim having been disputed, the question as to its admissibility was referred to the decision of the Court.	None
+Bray, J., who heard the reference, held that the amounts reserved for unexpired risks should be deducted firstly on the ground that the premium which had been paid in respect of a risk for a whole year could not be said to have been wholly earned, when a portion of the period covered by the policy was still to run, and that the reserve therefore was not income earned, and secondly and in the alternative, on the ground that as the premium had been received burdened with a liability which had been only partially discharged in the year of account, the portion of the liability still outstanding should be valued on the analogy of unpaid price due in respect of property purchased and included in the trading assets.	None
+This decision was taken in appeal, and was reversed by the Court of appeal, the learned Judges holding that though the reasoning of Bray, J., was sound, the question was concluded against the assessee by the decision of the House of Lords in General Accident Fire and Life Assurance Corporation v. McGowan, (1908)	None
+5 Tax Cas 308 (B).The case came on further appeal before the House of Lords which agreed with Bray, J., that the deduction was admissible, and distinguished the decision in, (1908) 5 Tax Cas 308 (B), as one turning on the facts of that case and as not laying down that, as a matter of law, the deduction could not be made.	None
+Lord Haldane stated the ground of his decision thus the case is analogous to one in which if goods are brought their value cannot be treated as profit without deducting the value of the liability to pay for them which the buyer has incurred.	None
+Lord Alverstone expressed the reasoning on which he based his conclusion as followsPremiums are not profits or gains, they are receipts which must be brought into account and out of which, after proper deduction for losses, profits will accrue.	None
+Lord Atkinson also rested his decision on the same ground, and observedThat case (Gresham Life Assurance Society v. Styles), 1892 A.C. 309 (C), clearly decided that the receipts of a business are not in themselves profit and gains within the meaning of IncomeTax Acts, but that it is what remains of those receipts after there has been deducted from them the cost of earning them which constitute the taxable profits and gains.	None
+Now what is the service which a Fire Insurance Company renders to each Insurer in consideration for the premium it receives?	None
+It is only by rendering this service in each case it earns these receipts.	None
+The service consists in indemnifying the insurer against loss by fire during the continuance of his policy Yet until that time has expired the service for which the Company has been paid has not been Completely performed.	None
+If the accounts of the Company are to be rendered before the date of expiry, then some division of the premium must be made, and the proportion to be appropriated to the service which is to be performed thereafter.	None
+I think the description unearned premium which has been used to describe this latter portion is a very appropriate and accurate description.	None
+It is also material to not that one of the authorities relied on for the Crown was the decision in, Scottish Union and National Insurance Company v. Smiles, 18892 Tax Cas 551 (D), wherein, discussing how the reserve for unexpired risk in fire policies is to be dealt with in computing the profits, the Lord President observedSeeing that fire Insurance policies are contracts for one year only, the premium received for the year of assessment, or on an average of three years, deducting losses by fire during the same period and ordinary expenses, may be fairly taken as profits and gains of the Company without taking into account or making any allowance for the balance of annual risks unexpired at the end of the financial year of the Company.	None
+Referring to this and to another decision, Lord Haldane observed that they are not, when carefully examined in the light of what appears to be the true principle, reliable as authorities for the proposition which would run counter to the practice and good sense of the commercial community.7.	None
+On the strength of the observations quoted above, the argument has been advanced by the learned SolicitorGeneral that the obligation which an insurance company contracts when it issues a policy is to be treated, in computing its profits for the purpose of taxation, as a liability in praesenti.	None
+Mr. K. P. Khaitan, learned counsel for the respondent, disputes the correctness of this contention.	None
+He argues that whatever the position under the English law, a contract of insurance is under the Indian Contract Act merely a contingent contract, that until the event specified in the policy happens, there is no enforceable liability, and that accordingly unexpired risks in pending policies cannot be treated as present liabilities.	Arguments of Petitioner
+He also urges a further contention based on the history of the enactment of R. 2 of Sch.	Arguments of Petitioner
+II to the Act.	Arguments of Respondent
+That rule as originally passed mentioned only borrowed money and debts, and it was by S. 10, Excess Profits Tax (Amendment) Act (XLII of 1940) that accruing liabilities were brought within that rule.	None
+And when they were brought in, they did not come as something independent of and distinct from borrowed money and debts.	None
+They came in under a provision, which enacted that the debts to be deducted under the rule included sums in respect of accruing liabilities.	None
+Relying on this circumstances, counsel for the respondent contends that however liberally the expression accruing liabilities might be construed, it cannot be interpreted so as to take in liabilities which do not bear the character of debts, and that a liability under a contract of insurance whereunder risk had not materialised, cannot be held to be a debt, and is therefore not an accruing liability within the rule.	Arguments of Respondent
+In support of this position, he relies on the decisions in Webb v. Stenton, 188311 Q. B.D. 518 at p. 527 (E) and Israelson v. Dawson, 19331 K. B. 301 (F).8.	None
+In 188211 QBD 518 at p. 527 (E), the question was whether a sum which was payable to the judgmentdebtor under a trust deed but which had not become due could be attached in the hands of the trustees as a debt owing or accruing within O. 45, R. 2 of the English Rules of Practice.	None
+In holding that it could not be, Lindely L. J. observedI should say, apart from any authority, that a debt legal or equitable can be attached whether it be a debt owning or accruing but it must be debt, and a debt is a sum of money, which is now payable or will become payable in the future by reason of a present obligation, debitum in prasenti, solvendum in future.	None
+An accruing debt, therefore, is a debt not yet actually payable, but a debt which is represented by an existing obligation.19531 K. B. 301 (F), was again a decision on O.45, R.2, the Court holding that the amount which became payable under a policy as the result of the accident specified therein having occurred, was nevertheless, not a debt which could be attached under this rule, before the compensation had been determined by the arbitrator in accordance with the conditions of the policy.9.	None
+The argument of the respondent based on the above decisions is that until the risk specified in the policy materialises and consequent thereon, the compensation payable thereunder is ascertained, there is only a contingent liability and not a debt, and that such liability is not within R.2 of Sch.	Arguments of Respondent
+II to the Act.	Arguments of Respondent
+In answer, the learned SolicitorGeneral contends that the decisions quoted above are not in point, they having been given on a different statute, that the decision in 1919 A. C. 443 6 Tax Cas 59 (A) which dealt with the question of assessment for purposes of taxation was directly applicable, and that according to that decision, the amounts reserved for unexpired risks would be sums in respect of accruing liabilities.10.That a contract of insurance is a contingent contract does not admit of argument.	Arguments of Respondent
+That is so under S. 31 of the Indian Contract Act, and that is also the law in England where it is termed conditional contract.	None
+(Vide Pollock on Contracts, 18th Edn.	None
+p.	None
+222).This, however, is not material for the purpose of the present discussion which is how such contracts are to be dealt with in assessing the taxable profits of an insurance company.	None
+That is a matter which must be determined and the provisions of the taxing statutes and their application to the facts found with reference to the particular assessment.	None
+And it is in this view that the decision in 1912 A. C. 443 6 Tax Cas 59 (A), becomes important.	None
+Now, what is the ratio of this decision?	None
+The law is well settled that a liability which is purely contingent cannot be allowed as a deduction in computing the profits of a business.	None
+And in holding that unexpired risks in respect of pending policies could be estimated and deducted out of the gross premium receipts the House of Lords must be held to have decided that the obligation of an insurer under such risk was a liability in praesenti.11.	None
+Reference might be made in this connection to the recent decision of the House of Lords in Southern Railway of Peru Ltd. v. Owen, 19562 ALL.	None
+E. R. 728 (G).	None
+There, the appellant Company operated a railway in Peru under a statutory scheme under which its employees were entitled to receive from it a lump sum payment on retirement, death or other termination of service.	None
+The Company claimed that it was entitled to value this liability in accordance with accountancy practice and to deduct the same from out of its annual profits.	None
+And support for this contention was sought in the decision in 1912 A. C. 443 6 TAX Cas.59 (A).	None
+In rejecting this claim, it was observed by the House of Lords that the accountancy valuation was not necessarily the correct valuation for purposes of incometax, and that the real point for decision was whether the claim was to be regarded as an essential charge against the trade receipts during the year.	None
+In distinguishing the decision in 1912 A. C. 443 6 TAX Cas 59 (A), Lord Oaksey made the following observations, which are pertinent to the present discussionReliance was placed during the argument, on 1912 A. C. 443 6 Tax Cas 59 (A), in which this House held that a percentage of the premium income of an insurance company might be deferred as a receipt to a future year because it was paid as consideration for future liability, but the principle of that decision is not, in my opinion applicable to the present case.	None
+The premium income was only deferred and would suffer tax in a future year, whereas, in the present case, if the appellant is permitted to deduct compensation, which it has not paid and which it may never have to pay, that compensation will escape tax altogether.	None
+There is, in my opinion, a fundamental distinction between a contingent liability and a payment dependent on a contingency.	None
+When a debt is not paid at the time it is incurred its payment is, of Course, contingent on the solvency of the debtor but the liability is not contingent.	None
+Similarly, the liability in 1912 A. C., 443 6 Tax Cas 59 (A) was not, in my opinion contingent but remained in force throughout the period of the insurance, though payment in pursuance of that liability might, or might not, have to be made.	None
+The decision in 1912 A. C., 443 6 Tax Cas 59 (A), and the observations in 1956  2 ALL E. R. 728 (G) quoted above do support the contention of the appellant that incomputing the profits of an insurance company for purpose of incometax, the unexpired risks are to be treated as a present liability.12.	None
+But even so, and on the footing that R. 6 in the Schedule to the Indian Incometax Act has adopted the law as laid down in 1912 A. C. 443 6 Tax Cas 59 (A), the question still remains whether unexpired risk in an outstanding policy is an accruing liability within R.2 of Sch.	None
+II to the Act.	Arguments of Respondent
+It is contended for the appellant that if that liability is a present liability for purposes of assessing the taxable profits for purposes of incometax,it must logically be the same for purpose of excess profits tax, and must therefore be deducted under R. 2 of Sch.	None
+II to the Act.	Arguments of Respondent
+That would be so, if the scheme and framework of the Excess Profits Tax Act were the same as those of the Incometax Act.	None
+But the fact is that the Excess Profits Tax Act differs in material respects from the Income tax Act, and the principles applicable in the assessment of profits under S.10 of the latter enactment cannot necessarily be held to be applicable in the ascertainment of the capital employed under Rr. 1 and 2 of Sch.	None
+II to the former Act.	Arguments of Petitioner
+The object of the Excess Profits Tax Act is to tax profits of a business when they overflow a certain level.	None
+That level is determined thus A certain period called the standard period is taken the capital invested and the profits made in the business during that year are ascertained, and the standard profits are worked out in relation to those two factors.	None
+Then, the capital actually employed in business during the chargeable accounting period is ascertained.	None
+If that capital is the same as that employed in the standard period, then there is no further problem but if it is more, then the standard profits are increased, and if it is less, they are reduced pro tanto.	None
+Thus, the whole scheme of the Act is to tax profits above a certain level, and that level will move upwards or downwards as the capital employed may be more, or less.	None
+It is this that Constitutes the distinguishing feature of the Excess Profits Tax Act, and it is the determination of the capital actually employed in business that forms one of the most important and arduous tasks in the ascertainment of taxable profits under the Act.13.	None
+Rule 1 of Sch.	None
+II to the Act enumerates three categories of properties, which are to be included in the computation of capital.	None
+It is to be noted that this rule does not adopt any legalistic or conventional notion of what is technically termed as capital but it proceeds on a factual basis to include whatever is utilised in business, whether it be tangible property or intangible property.	None
+The object of this provision is clearly to confer a benefit on the assessee by enabling him to retain at least in part the profits realised by him by investment of additional capital.	None
+Then there is R. 2, which provides for certain deductions being made out of capital.	None
+Omitting for the present accruing liabilities, which form the subject of the present controversy, the other two items mentioned therein are borrowed money and debts, and the reasons for their exclusion from capital falling within R. 1 would appear to be this Money borrowed and debts incurred for the purpose of the business must have been utilized in it, and would be included in the capital employed as defined in R. 1.	None
+The policy of the law being to give some relief to an assessee who invests additional capital in his business, the reason of it requires that that should be limited to capital contributed by the assessee himself.	None
+Otherwise, the benefit intended to be given to him might be abused, and the object of the legislation defeated by large scale employment of borrowed capital.	None
+Borrowed money and debt are therefore to be deducted out of what is capital within R. 1.14.	None
+We now come to the expression accruing liabilities.	None
+What does it precisely import?	None
+To decide that, we must have regard to the scope and purpose or Rr. 1 and 2 of Sch.	None
+II to the Act and to the context and setting of the expression.	None
+It has been already pointed out that the object of the Act is to tax profits which overflow a certain line indicated by what is termed standard profits, that the location of that line varies with the capital employed,that the scheme of R. 1 is on a factual basis to treat as capital all assets tangible and intangible which are thrown into a business and contribute to the earning of profits and to exclude therefrom under R. 2 that part of it which came in as a result of borrowing.	None
+Now, obviously, a deduction under R. 2 can only relate to what is capital under R. 1, and that must be a really profit earning asset, whether tangible or not.	None
+Borrowed money to be deducted under R. 2 is money borrowed for the purpose of the business, and which has gone to swell the capital under R.1.	None
+That is also the position as regards debts.	None
+And accruing liabilities which are liable to be deducted under R.2 must also be of the same character as borrowed money and debts with which they are associated on the principle of noscitur a sociis.	None
+They must be such as can be said to have been utilised in the business and formed part of the really effective trading assets during the chargeable accounting period.15.	None
+If that is the correct approach, as we conceive it is, the question to be considered is neither, on the one hand, whether the liability amounts in law to a debt  for if it is capable of being utilised in business and is so utilised, it will fall under R.2, even though it is not strictly speaking a debit nor, on the other hand, whether it is a liability which has been treated as one for the purpose of assessing incometax.	None
+In assessing income from business under S.10 of the Incometax Act, what is allowed as a deduction is any liability incurred solely and exclusively for the purpose of the business, and when that has not matured, its value is to be determined according to rules of accountancy and deducted.	None
+But when a deduction is claimed under R.2, what has to be seen is whether the obligation is such that it could be regarded as an asset used in the business, such as could conceivably contribute to its profits.	None
+If that is not established, then it cannot be included as capital under R.1, and cannot be deducted therefrom under R. 2 as an accruing liability.	None
+It should not be overlooked that a deduction under S. 10 of the Incometax Act and that under R. 2 of Sch.	None
+II to the Act proceed on totally different lines and have different objects in view.	None
+Under S.10, the deduction is claimed by the assessee, and that has the effect when allowed, of reducing the taxable profits.	None
+40 IND Under R. 2, it is claimed by the department, and if allowed, it will enhance the liability of the assessee by reducing the capital under R. 1.	None
+Incidentally, how inappropriate the principles laid down in 1912 A C 443 6 Tax Cas 59 (A) would be if it is applied for determining the question of capital employed in business for the purpose of Excess Profits Tax Act will be seen from the fact that one of the grounds on which the decision therein was based was that 40 per cent of the premiums received and set apart as reserve for unexpired risks was unearned income, and could not therefore be regarded as profits for the purpose of the Act.	None
+If that were the true position under the Excess Profits Tax Act, then the reserve could not be included in the capital of the business, and indeed, that was one of the contentions urged by the learned SolicitorGeneral.	None
+But that was not the stand taken by the department before the Tribunal and that is directly opposed to the plain language of R. 1 of Sch.	None
+II, under which all the premiums thrown into the business would be capital employed in the business.	None
+That clearly shows how unsafe it will be to adopt the principles laid down for the purpose of assessing business profits under the Incometax Act to a determination of the question of the capital employed under the Excess Profits Tax Act.16.	None
+In this view, is the reserve for unexpired risks an accruing liability within R. 2?	None
+The decision in 1912 A.C. 443 6 Tax Cas 59 (A) that it should be allowed as a deduction was based on two grounds.	None
+One was that it should be regarded as unearned income, and for the reasons already stated, it cannot avail when the question is one of determining capital under that Act.	None
+And the other was that the reserve represents a liability in the nature of unpaid price of property included in the trading assets.	None
+But apart from the fact that we have to strain the analogy in applying it to the present situation, can that liability be held to be of the character contemplated by R. 2?	None
+Can it be said that the reserve for unexpired risk was, like borrowed money and debt, part of the real trading assets of the business?	None
+The answer must clearly be in the negative.	None
+The reserve liability could not factually be said to have contributed to the running of the business or the earning of profits.	None
+It was something in the air, and could have had no effect in the working of the concern, during the chargeable accounting period.	None
+It cannot therefore be held to be an accruing liability within R. 2 of Sch.	None
+II to the Act.17.	None
+A case very much in point is the decision in Northern Aluminium Co. Ltd. v. Inland Revenue Commrs., 19461 ALL E R 546 at p. 554 (H).	None
+There the question arose whether a conditional liability under a contract was an accruing liability within the corresponding provision in the English Excess Profits Tax Act.	None
+The facts were that on December 16, 1939, an agreement was entered into between the Ministry of Aircraft Production and a company engaged in manufacturing aluminium products and supplying them to manufacturers of aircraft for the Government, wherein it was provided that the prices which the latter was then charging to its customers should be reduced for the period July 1, 1939 to June 30, 1940, and that the amount by which the prices paid to the company were in excess of the reduced prices should be paid by the company to the Ministry.	None
+The agreement further provided that negotiations should be started not later than June 30, 1940, for determining the rates to be charged for the periods following June 30, 1940.	None
+The agreement was, in fact, concluded only on October 12, 1942, whereby the prices to be charged by the company were fixed for the years, 1941, 1942 and 1943.	None
+In accordance with the agreement entered into on October 12, 1942, a sum of ?	None
+2, 743, 469 was repaid by the company to the Ministry in 1943 being the difference between the price paid by the customers and that fixed in the agreement.	None
+This amount was actually allowed as a deduction in the assessment of the business income for purpose of income tax, and the dispute related to the question whether it could be deducted in assessing the excess profits tax as an accruing liability of the company for the chargeable accounting period which was January 1 to December 31, 1941.	None
+It was held by the Court of appeal that there was, in fact, no agreement between the parties during the chargeable accounting period and that therefore no liability was incurred.	None
+In the alternative, it was held that even if the agreement dated December 16, 1939, could be construed as amounting to a conditional agreement for the period subsequent to June 30, 1940, the obligation created thereby could not be regarded as an accruing liability within the rule in question.	None
+Lord Greene, M. R., Stated the reason thusA purely conditional liability, which may or may not mature, is not one which falls within that language, for this reason Quite apart from the actual words it would be contrary to the whole conception underlying these capital provisions because a purely conditional liability which may or may not eventuate, is not a thing which affects a companys capital position, any more than a conditional receipt can affect its capital position.	None
+A receipt which may or may not be received, according as some agent does or does not happen, is not a thing with which you can earn profits.	None
+It is the possibility of earning profits on your real capital that these capital provisions are concerned with.	None
+Therefore, in my opinion, even if one could spell such a hypothetical and conditional contract out of these words, the result would not give rise to an accruing liability within the meaning of the section.	None
+This decision was taken in appeal to the House of Lords and was affirmed.	Reasoning
+Vide Inland Revenue Commissioners v. Northern Aluminium Co. Ltd., 1471	Reasoning
+ALL E. R. 608 (I).18.This decision establishes that a conditional liability under a concluded contract  it is on that footing that the second point arose for decision  was not an accruing liability for the purpose of the Excess Profits Tax Act, as the same had no effect on the actual capital position of the company, and the fact that it was allowed for purposes of incometax did not affect the position under the Excess Profits Tax Act.	None
+The learned SolicitorGeneral sought to distinguish this decision on the ground that it did not relate to an insurance business, whereas it was contended that 1912 A. C. 443 6 Tax Cas 59 (A), directly dealt with the question now under consideration whether reserves for unexpired risks in pending policies were liabilities which could be deducted.	None
+We do not see how it makes any difference in the construction of R. 2 of Sch.	Reasoning
+II to the Act that the liability sought to be deducted arises under an insurance policy and not under some other contract.	Reasoning
+We are of opinion that the principles laid down in 1946 1 ALL.	None
+E.R. 546 (H), and 19471 ALL.	Reasoning
+E.R, 608 (1), are applicable to the decision of the present case, and that a contingent liability in respect of unexpired risk is not an accruing liability within R. 2 of Sch. II to the Act.19.	Reasoning
+The decision appealed from is correct, and this appeal must accordingly be dismissed with costs.20.	Decision
+Appeal dismissed.	None

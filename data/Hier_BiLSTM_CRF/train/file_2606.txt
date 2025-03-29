@@ -1,0 +1,101 @@
+ T. Thomas, J. Special Leave granted.	None
+When a company, which committed the offence under Section 138 of the Negotiable Instruments Act (hereinafter referred to as the Act) eludes from being prosecuted thereof, can the Directors of that company be prosecuted for that offence ?	Issue
+This is the hub of the issue mooted before us by one of the Directors of the company.	Issue
+He approached the High Court of Punjab and Haryana with the contention that prosecution in such a situation is not maintainable as against the directors.	Issue
+But a single Judge of the High Court spurned down the contention by the judgment which is now being challenged in this appeal.	Issue
+M s. Rama Fibres Ltd. is a public limited company of which the present appellant is one of the directors.	None
+Five complaints were filed by another company (which is hereinafter referred to as the complainant) before a Judicial Magistrate of First Class Chandigarh against M s. Rama Fibres Ltd. (hereinafter referred to as the accused company) and 11 other persons who are shown as directors of the accused company.	None
+The complaints contained the allegations that cheques were issued on behalf of the accused company for the debts due to the complainant and such cheques were dishonoured by the drawee bank on the ground of insufficiency of funds in the account and notices were issued to the accused company as well as to the directors demanding payment of the amounts covered by the cheques, but no amount was paid.	None
+hence the complainant alleged that all the accused have committed the offence under Section 138 of the Negotiable Instruments Act in respect of each of the cheques.	None
+The magistrate took cognizance of the offence on each of the complaints and issued process against the accused.	None
+Objections were raised by the accused company on the premise that winding up proceedings have been ordered by the court on the accused company and hence no prosecution proceedings could be continued against the accused company.	None
+It appears that the magistrate had accepted the said contention and in respect of three complaints the magistrate ordered the complaint to remain in suspense against the accused company until leave is obtained from the Court concerned to continue with the prosecution proceedings.	None
+In respect of the remaining two complaints learned magistrate dropped further proceedings as against the accused company on the same premise.	None
+It was in the aforesaid background that the present appellant, who is arraigned as second accused in all the complaints, moved the trial court for dropping the criminal prosecution against him also.	None
+The trial magistrate dismissed the petitions holding that prosecution against the directors of the company who were in charge of the business of the company, could be maintained even without prosecuting the company itself.	None
+Revision petitions filed by the appellant in challenge of the aforesaid orders of the magistrate were dismissed by the learned single judge of the High Court as per the order, which is under challenge now.	None
+Smt.	Arguments of Petitioner
+Indira Jaising, learned senior counsel who argued for the appellant, contended that under Section 141 of the Act the company could be the principal offender and the directors are merely deemed offenders and hence a finding that the company is guilty of the offence is sine qua non for operation of the deeming provision to the prejudice of the directors.	Arguments of Petitioner
+Learned senior counsel referred us to Section 139 of the Act which contains the legal presumption that a holder of cheque had received it in discharge of a preexisting debt or liability and submitted that it is for the company to rebut the presumption and not for anybody else.	Arguments of Petitioner
+Reliance was placed by the learned senior counsel on the decision of a two Judge Bench of this Court in State of Madras v. C.V. Parekh and another, 1970 (3) SCC 491.	Arguments of Petitioner
+A brief written submission prepared by the counsel has been presented to us.	Arguments of Petitioner
+Shri Nidesh Gupta, learned counsel for the complainant company referred us to certain provisions of the Companies Act and contended that a company would not cease to exist merely because an order of winding up has been passed and the company would still continue to function until it reaches final dissolution.	Arguments of Respondent
+He canvassed for the position that learned magistrate had gone wrong in holding that leave of the liquidation court is necessary to continue prosecution against the prosecuting company.	Arguments of Respondent
+However, we do not consider it necessary to go into that question as it is not open to the complainant to canvass before us since it has not challenged the said order of the magistrate.	Arguments of Respondent
+Shri Nidesh Gupta further contended that there is no legal requirement that the company should necessarily have been made an accused in the prosecution case in order to sustain a conviction of the offending directors.	Arguments of Respondent
+According to the learned counsel where an offence is committed by a company, either the company alone or the person in charge of the business of the company alone, or both of them together can be prosecuted for the offence under Section 138 of the Act.	Arguments of Respondent
+He cited a few decisions to bolster up his contention and presented a written submission in aid of his arguments.	Arguments of Respondent
+It must be pointed out at the outset that the offender in Section 138 of the Act is the drawer of the cheque.	None
+He alone would have been the offender thereunder if the Act did not contain other provisions.	None
+It is because of Section 141 of the Act that penal liability under Section 138 is cast on other persons connected with the company.	None
+It is necessary to extract Section 141 of the Act which is as under Offences by companies.	None
+(1) If the person committing an offence under Section 138 is a company, every person who, at the time the offence was committed, was in charge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly Provided that nothing contained in this subsection shall render any person liable to punishment if he proves that the offence was committed without his knowledge, or that he had exercised all due diligence to prevent the commission of such offence.	None
+Notwithstanding anything contained in subsection (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.	None
+Three categories of persons can be discerned from the said provision who are brought within the purview of the penal liability through the legal fiction envisaged in the Section.	None
+They are (1) The company which committed the offence, (2) Everyone who was in charge of and was responsible for the business of the company, (3) any other person who is a director or a manager or a secretary or officer of the company, with whose connivance or due to whose neglect the company has committed the offence.	None
+Normally an offence can be committed by human beings who are natural persons.	Reasoning
+Such offence can be tried according to the procedure established by law.	Reasoning
+But there are offences which could be attributed to juristic persons also.	Reasoning
+If the drawer of a cheque happens to be a juristic person like a body corporate it can be prosecuted for the offence under Section 138 of the Act.	Reasoning
+Now there is no scope for doubt regarding that aspect in view of the clear language employed in Section 141 of the Act.	Reasoning
+In the expanded ambit of the word company even firms or any other associations of persons are included and as a necessary adjunct thereof a partner of the firm is treated as director of that company.	Reasoning
+Thus when the drawer of the cheque who falls within the ambit of Section 138 of the Act is a human being or a body corporate or even firm, prosecution proceedings can be initiated against such drawer.	Reasoning
+In this context the phrase as well as used in subsection (1) of Section 141 of the Act has some importance.	Reasoning
+The said phrase would embroil the persons mentioned in the first category within the tentacles of the offence on a par with the offending company.	Reasoning
+Similarly the words shall also in subsection (2) are capable of bringing the third category persons traditionally within the dragnet of the offence on an equal par.	Reasoning
+The effect of reading Section 141 is that when the company is the drawer of the cheque such company is the principal offender under Section 138 of the Act and the remaining persons are made offenders by virtue of the legal fiction created by the legislature as per the Section.	Reasoning
+Hence the actual offence should have been committed by the company, and then alone the other two categories of persons can also become liable for the offence.	Reasoning
+If the offence was committed by a company it can be punished only if the company is prosecuted.	Reasoning
+But instead of prosecuting the company if a payee opts to prosecute only the persons falling within the second or third category the payee can succeed in the case only if he succeeds in showing that the offence was actually committed by the company.	Reasoning
+In such a prosecution the accused can show that the company has not committed the offence, though such company is not made an accused, and hence the prosecuted accused is not liable to be punished.	Reasoning
+The provisions do not contain a condition that prosecution of the company is sine qua non for prosecution of the other persons who fall within the second and the third categories mentioned above.	Reasoning
+No doubt a finding that the offence was committed by the company is sine qua non for convicting those other persons.	Reasoning
+But if a company is not prosecuted due to any legal snag or otherwise, the other prosecuted persons cannot, on that score alone, escape from the penal liability created through the legal fiction envisaged in Section 141 of the Act.	Reasoning
+The next contention is that under Section 139 of the Act there is a legal presumption that the cheque was issued for discharging an antecedent liability and that presumption can be rebutted only by the person who drew the cheque.	None
+It was argued on that premise that if the drawer company is not made an accused the remaining accused would be under a handicap since the presumption would remain unrebutted.	None
+Section 139 of the Act reads thus Presumption in favour of holder.  	None
+It shall be presumed, unless the contrary is proved, that the holder of a cheque received the cheque, of the nature referred to in Section 138 for the discharge, in whole or in part, or any debt or other liability.	None
+The aforesaid presumption is in favour of the holder of the cheque.	Reasoning
+It is not mentioned in the section that the said presumption would operate only against the drawer.	Reasoning
+After all a presumption is only for casting the burden of proof as to who should adduce evidence in a case.	Reasoning
+It is open to any one of the accused to adduce evidence to rebut the said presumption.	Reasoning
+In a prosecution where both the drawer company and its officebearers are arrayed as accused, and if the drawer company does not choose to adduce any rebuttal evidence it is open to the other office bearersaccused to adduce such rebuttal evidence.	Reasoning
+If that be so, even in a case where the drawer company is not made an accused but the officebearers of the company alone are made the accused such office bearersaccused are well within their rights to adduce rebuttal evidence to establish that the company did not issue the cheque towards any antecedent liability.	Reasoning
+Hence we are not impressed by the contention that Section 139 of the Act would afford support to the plea that prosecution of the company is sine qua non for persecuting its directors under section 141 of the Act.	Reasoning
+In State of Madras v. C.V. Parekh and anr., 1970 (3) SCC 491 , a prosecution was launched against the Managing Director of a private limited company for the offence under Section 7 of the Essential Commodities Act with the aid of Section 10 of that Act.	None
+(That provision is very much analogous to Section 141 of the N.I. Act).	None
+The said private limited company was not included as an accused in the case.	None
+When the trial court acquitted the Managing Director the State challenged the acquittal before the High Court and having failed there also the State filed an appeal before this Court by special leave.	None
+It was contended before this Court that if the person arrayed as accused was shown to be in charge and was responsible for the conduct of the business of the company such person is liable to be convicted.	None
+This Court did not accept the contention and held that it must further be proved that the company has contravened the order issued under the E.C. Act.	None
+The following observations of this Court in the said decision are relevant This argument cannot be accepted, because it ignores the first condition for the applicability of Section 10 to the effect that the person contravening the order must be a company itself.	None
+In the present case, there is no finding either by the Magistrate or by the High Court that the sale in contravention of clause (5) of the Iron and Steel Control Order was made by the Company.	None
+In fact, the Company was not charged with the offence at all.	None
+The liability of the persons in charge of the Company only arises when the contravention is by the Company itself.	None
+Since, in this case, there is no evidence and no finding that the Company contravened clause (5) of the Iron and Steel Control Order, the two respondents could not be held responsible.	None
+The same provision under the E.C. Act was again considered by this Court in Sheoratan Agarwal and another v. State of Madhya Pradesh, AIR 1984 SC 1824 .	None
+In the said decision this Court explained the legal principle enunciated in State of Madras v. C.V. Parekh (supra) that there should be a finding that the contravention was made by the company before convicting the accused and not that the company itself should have been prosecuted along with the accused.	None
+We may say with great respect that the above understanding of the ratio in State of Madras v. C.V.	None
+Parekh cannot be taken exception to.	None
+Chinnappa Reddy, J., who spoke for the two Judge Bench in Sheoratan Agarwal (supra) further observed as follows Any one or more or all of them may be prosecuted and punished.	None
+The Company alone may be prosecuted.	None
+The conniving officer may individually be prosecuted.	None
+One, some or all may be prosecuted.	None
+There is no statutory compulsion that the personincharge or an officer of the Company may not be prosecuted unless he be ranged alongside the company itself.	None
+S. 10 indicates the persons who may be prosecuted where the contravention is made by the company.	None
+It does not lay down any condition that the personincharge or an officer of the company may not be separately prosecuted if the company itself is not prosecuted.	None
+Each or any of them may be separately prosecuted or along with the company.	None
+Smt.	Arguments of Petitioner
+Indira Jaising, learned senior counsel submitted that he observations in the aforesaid two decisions are not exactly to the point involved in this case and on the contrary the decision in U.P. Pollution Control Board v. M s. Modi Distillery and others, AIR 1988 SC 1128 was endeavoured to be shown as covering the issue involved now.	None
+In the said case a prosecution was moved against members of the Board of Directors of M s. Modi Distillery under Section 44 of the Water (Prevention and Control of Pollution) Act, 1974.	None
+Section 47 of that Act is identical to Section 141 of the N.I. Act.	None
+M s. Modi Distillery was not arraigned as an accused in that case and hence the High Court quashed the proceedings as against the others.	None
+This Court set aside the judgment of the High Court on the premise that even if there was any such technical flaw it was a curable flaw and directed the trial court to implead the company also as an accused.	None
+Of course there is an observation in the said decision, which is sought to be given much emphasis to, as follows Although as a pure proposition of law in the abstract the learned single Judges view that there can be no vicarious liability of the Chairman, ViceChairman, Managing Director and members of the Board of Directors under subs.	None
+(1) or (2) of S. 47 of the Act unless there was a prosecution against Messrs Modi Industries Limited, the Company owing the industrial unit, can be termed as correct, the objection raised by the petitioners before the High Court ought to have been viewed not in isolation but in the conspectus of facts and events and not in vacuum.	None
+The above observations are obiter.	Decision
+That apart, the law on the point was specifically discussed and dealt with in Sheoratan Agarwal (supra) with which we are in respectful agreement.	Decision
+We, therefore, hold that even if the prosecution proceedings against the company were not taken or could not be continued, it is no bar for proceeding against the other persons falling within the purview of subsections (1) and (2) of Section 141 of the Act.	Decision
+In the light of the aforesaid view we do not consider it necessary to deal with the remaining question whether winding up order of a company would render the company nonexistent.	None
+We, therefore, dismiss these appeals.	Decision
+Appeals dismissed.	None

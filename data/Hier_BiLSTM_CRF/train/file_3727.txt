@@ -1,0 +1,89 @@
+ Subba Rao, J.1.	None
+This appeal by special leave is directed against the order of a Division Bench of the High Court of Judicature at Allahabad holding that the Incometax Officer, in the circumstances of the case, went wrong in initiating proceedings under S. 34(1) of the Indian Incometax Act, 1922, hereinafter called the Act, in respect of the assessment year 194243.2.	None
+The facts may briefly be stated.	Facts
+The assessee was a holder of an impartible estate in the district of Ajmer.	Facts
+On March 25, 1944, the Incometax Officer assessed him to incometax for the year 194243.	Facts
+On April 5, 1945, on the ground that two items of the assessees income namely, syar (forest) income and interest income, were not included in the original assessment, a notice under S. 34 of the Act was issued to him.	Facts
+In response to the said notice, the assessee filed a return wherein he disclosed fully and completely the particulars of his interest income, but raised the plea that his forest income was not taxable.	Facts
+The Incometax Officer, by his order dated July 12, 1945, made a revised assessment including both the incomes.	Facts
+The respondent eventually took the matter on appeal to the Incometax Appellate Tribunal, which, by its order dated April 25, 1949, held that the Incometax Officer had no jurisdiction to initiate proceedings under S. 34 of the Act in respect of the forest income on the ground that the Incometax Officer had knowledge that the assessee had such income when he made the original assessment.	Facts
+Though the Tribunal only dealt with the question of forest income, by inadvertence or by mistake, it set aside the entire order of reassessment dated July 12, 1945, made by the Incometax Officer and restored the original order passed by him.	Facts
+The Incometax Department did not take any steps to rectify the mistake under S. 35 of the Act or make any attempt to have the question of the illegality referred to the High Court.	Facts
+Having allowed the order to become final, on January 3, 1950, the Incometax Officer after obtaining the sanction of the Commissioner initiated proceedings under S. 34 of the Act with respect to the interest income.	Facts
+On January 19, 1950, the Incometax Officer issued to the assessee a fresh notice under the said section.	Facts
+On September 25, 1950 a revised assessment order was made in regard to the assessment year 194243 in which the respondents interest income was also included.	Facts
+On appeal, the Appellate Assistant Commissioner confirmed the said order.	Facts
+On further appeal, the Incometax Appellate Tribunal held that since the assessee had failed to disclose his interest income in the return filed by him under S. 22(2) of the Act in connection with the original assessment the said income had escaped assessment and, therefore, the provisions of Section 34(1)(a) of the Act were attracted.	Facts
+On application filed by the assessee, the Tribunal referred the following question to the High Court under S. 66(1) of the ActWhether on the facts and in the circumstances of this case the provisions of S. 34(1) were applicable in respect of the assessment year 194243 on 19th January, 1950, when the notice under that provision was issued for the purpose of assessing the escaped interest income.	Facts
+The High Court came to the conclusion that the Tribunal in its order dated April 25, 1949, committed a clear error in setting aside the assessment of tax on the interest income without going into the correctness of the imposition of tax thereon, but that order had become final, it further held that the said order did not invalidate the entire proceedings taken under S. 34 of the Act and, therefore, the Incometax Officer could not take proceedings afresh under Section 34 of the Act.	Facts
+In the result the High Court answered the question in the negative.	Facts
+Hence the appeal.3.	None
+Mr. Rajagopala Sastri, learned counsel for the Revenue, contended that the interest income had escaped assessment and, therefore, the Incometax Officer was competent to initiate proceedings under S. 34(1)(a) of the Act for assessing the same.4.	Arguments of Petitioner
+Mr. Viswanatha Sastri, learned counsel for the respondent, on the other hand, argued that the assessment made by the Incometax Officer pursuant to the notice issued under S. 3 of the Act was in its entirety set aside by the Tribunal on the ground that there was no discovery within the meaning of S. 34 of the Act and that that order had become final and therefore, the Incometax Officer could not initiate fresh proceedings under that section on the principle of res judicata.5.	Arguments of Respondent
+To appreciate the contentions of the parties it is necessary to notice the scope of the order of the Tribunal dated April 25, 1949.	None
+Before the Appellate Tribunal it was contended on behalf of the assessee that the Incometax Officer who issued the said notice had no definite information which led to the discovery that the said income had escaped assessment within the meaning of the said section.	None
+Adverting to the said argument the Tribunal observedWe do not agree with the contention of the department that the Incometax Officer who made the original assessment did not apply his mind to this fact, as there is no evidence to show that at the material time such income was considered taxable by the Department.	None
+Ordinarily one would expect that when an Incometax Officer makes the assessment he does according to law and on the facts as produced before him.	None
+If the fact is before him he refused to take it into account thinking that it was immaterial or even inadvertently takes no notice of it, it cannot be said that the Incometax Officer came in possession of a definite information within the meaning of S. 34.	None
+We are, therefore, of the opinion that proceedings under S. 34 could not be initiated against the assessee for the four assessment years under reference.	None
+The order passed by the Incometax Officer in respect of these four years are, therefore, set aside and the original orders under S. 23(3) are restored.	None
+We have extracted the order in extenso as the argument really turns upon the scope of the said order.	None
+The Appellate Tribunal in considering the validity of the notice under S. 34 of the Act only discussed the question of the escape of the syar income it did not advert to the interest income at all.	Reasoning
+It came to the conclusion, having regard to the fact that the Incometax Officer at the time he made the original assessment had knowledge of the existence of the syar income, that the Incometax Officer did not come into possession of definite information within the meaning of S. 34 of the Act.	Reasoning
+Though the finding was arrived at on the basis of the syar income alone the Tribunal set aside the entire order of reassessment and restored the original order of assessment made by the Incometax Officer under S. 23(3) of the Act.	Reasoning
+The legal effect of the order was that the reassessment of the entire income, including the syar income and interest income, was set aside on the ground that the Incometax Officer did not come into possession of definite information leading to a discovery and, therefore, he could not initiate proceedings under S. 34 of the Act.	Reasoning
+It is true that the Tribunal had committed a mistake in setting aside the reassessment order in respect of the interest income also but, so long as that order stands, it comprehends both the incomes.6.	Reasoning
+The Incometax Officer did not take any further proceedings by way of reference to the High Court on any question of law arising out of the order of the Tribunal nor did he take any proceedings under S. 35 of the Act to have the order corrected on the ground of mistake.	None
+With the result the order has become final.7.	None
+The question, therefore, is not whether the order of the Tribunal in so far as it related to the interest income was made by inadvertence or under a mistake, but whether the Incometax Officer could initiate proceedings over again under S. 34 of the Act in derogation of the finding given by the Tribunal that the Incometax Officer did not discover that the income had escaped assessment.8.	Issue
+The Incometax Act is a selfcontained one.	Reasoning
+It creates a hierarchy of tribunals with original, appellate and revisional jurisdictions.	Reasoning
+Section 31 gives inter alia, right of appeal against some orders of the Incometax Officer to the Appellate Assistant Commissioner, S. 33 provides for a further appeal to the Incometax Appellate Tribunal and subs.	Reasoning
+(6) of S. 33 says that save as provided in S. 66 orders passed by the Appellate Tribunal on appeal shall be final.	Reasoning
+Section 66 provides for reference to the High Court on a question of law and S. 66A provides for appeals in certain cases to the Supreme Court.	Reasoning
+It is clear from the said provisions that the order of the Tribunal made within its jurisdiction, subject to the provisions of S. 66 of the Act, is final.	Reasoning
+Therefore, the decision of the Tribunal in respect of the subjectmatter under appeal before it is final and cannot be reopened by the assessee or the Department.9.	Reasoning
+The Judicial Committee in Commr. of Incometax, Bombay and Aden v. Khemchand Ramdas, (1938) 6 ITR 414 at pp. 424426 (AIR 1938 PC 175 at pp. 179180), succinctly stated the legal position thusBut it is not true that after a final assessment under those sections (Ss. 23 and 29) has been made the Incometax Officer can go on making fresh computations and issuing fresh notices of demand to the end of all time.	None
+But when once a final assessment is arrived at, it cannot in.	None
+Their Lordships opinion be reopened except in the circumstances detailed in Ss. 34 and 35 of the Act. . . . . .	None
+and within the time limited by those sections.	None
+Later on the same idea is restated thusIn their Lordships opinion the provisions of the two sections are exhaustive, and prescribe the only circumstances in which and the only time within which such fresh assessment can be made and fresh notices of demand can be issued.	None
+The Judicial Committee again in Commr. of Incometax, West Punjab v. Tribune Trust, Lahore, (1948) 16 ITR 214 (AIR 1948 PC 102), after noticing the relevant Sections of the Act, reaffirmed the same position and held that assessments once made would be valid and effective until they were set aside in the manner prescribed by the Act and that, if not so set aside, they were final.	None
+If so, it follows that the order of the Tribunal on the said question namely, that the whole order of reassessment under S. 34 of the Act was invalid as them was no discovery that the relevant income escaped assessment, had become final.10.	None
+The only two sections that enable the Incometax Officer to reopen final assessments are Ss. 34 and 35.	Reasoning
+If the Appellate Tribunal committed a mistake under S. 35 it can be rectified within four years from the date of the order.	Reasoning
+In the present case it was a clear case of mistake, for the Tribunal set aside the order of reassessment in respect of the interest income, though its validity to that extent was not disputed.	Reasoning
+But, for one reason or other the Revenue did not resort to the obvious remedy and allowed the mistake to remain uncorrected.	Reasoning
+In these circumstances, can S. 34 of the Act be resorted to?	None
+Learned counsel for the Revenue says that S. 34(1) (a), as amended in 1948, confers such a power on the Incometax Officer.	None
+The material part of S. 34, before amendment, read(1) If in consequence of definite information which has come into his possession the Incometax Officer discovers that income, profits or gains chargeable to incometax have escaped assessment in any year. . . . . .	Arguments of Petitioner
+.Section 34 (1)(a), as amended in 1948, reads If the Incometax Officer has reason to believe that by reason of the omission or failure on the part of an assessee . . . . .	Arguments of Petitioner
+to disclose fully and truly all material facts necessary for his assessment for that year, income, profits or gains chargeable to incometax have escaped assessment for that year . . . .	Arguments of Petitioner
+he may in cases falling under clause (a) at any time.	Arguments of Petitioner
+.	Arguments of Petitioner
+.	Arguments of Petitioner
+.	Arguments of Petitioner
+serve on the assessee. . .	Arguments of Petitioner
+a noticeIt is said that the words has reason to believe that by reason of the omission or failure on the part of an assessee to disclose fully and truly all material facts necessary for his assessment for that year, income, profits or gains chargeable for that year, income, profits or gains chargeable to incometax have escaped assessment are more comprehensive than the words the Incometax Officer discovers that income, etc., have escaped assessment in any year and, therefore, though there was a finding by the Tribunal that the Incometax Officer did not discover that there was escape of assessment, the Incometax Officer under the amended S. 34 can initiate proceedings in spite of that finding.	Arguments of Petitioner
+We cannot accept this argument.	None
+It could not have been the intention of the Legislature by amending the section to enable the Incometax Officer to reopen final decisions made against the Revenue in respect of questions that directly arose for decision in earlier proceedings.	Reasoning
+The Tribunal held in the earlier proceedings that the Incometax Officer knew all the facts at the time he made the original assessment in regard to the income he later on sought to tax.	Reasoning
+The said finding necessarily implies that the Incometax Officer had no reason to believe that because of the assessees failure to disclose the facts income has escaped assessment.	Reasoning
+The earlier finding is comprehensive enough to negative any such reason on the part of the Incometax Officer.	Reasoning
+That finding is binding on him.	Reasoning
+He could not on the same facts reopen the proceedings on the ground that he had new information.	Reasoning
+If he did so, it would be a clear attempt to circumvent the said order, which had become final.	Reasoning
+We are not concerned in this appeal with a case where the Incometax Officer got new information which he did not have at the time when the Tribunal made the order.	Reasoning
+The finding of the Tribunal is, therefore, binding on the Incometax Officer and he cannot, in the circumstances of the case, reopen the assessment and initiate proceedings over again.	Reasoning
+If that was not the legal position we would be placing an unrestricted power of review in the hands of an Incometax Officer to go behind the findings given by a hierarchy of tribunals and even those of the High Court and the Supreme Court with his changing moods.11.	None
+The decisions cited by the learned counsel for the Revenue do not countenance such a contention.	None
+Chakravartti, C. J., in R. K. Das and Co. v. Commr. of Incometax, West Bengal, (1956) 30 ITR 439 (AIR 1956 Cal 161 ), speaking for the Division Bench, only decided that the Incometax Officer could not make a reassessment unless he issued the prescribed notice and issued it in a valid form.	None
+As the notice under S. 34 of the Act issued therein was held to be bad inasmuch as the Incometax Officer did not take the sanction of the Commissioner, the learned Chief Justice held that the returns filed pursuant to such notice was also bad.	None
+We are not here concerned with that aspect of the case.	None
+The judgment of this Court in Commr. of Incometax, B. and O. v. Maharaja Pratapsingh Bahadur, (1961) 41 ITR 421 (AIR 1961 SC 1026 ), held that, as the earlier notice issued under S. 34(1) of the Act without the sanction of the Commissioner was bad, the entire proceedings for reassessment were illegal.	None
+There was an observation at the end of the judgment to the effect that there was time enough for fresh notices to have been issued, and we fail to see why the old notices were not recalled and fresh ones issued.	None
+The point now raised before us, viz., how far and to what extent a final order made in earlier proceedings under S. 34 of the Act would be binding on the Incometax Officer in subsequent proceedings under the said section was neither raised nor decided in that case.12.	None
+The said decisions, therefore, have no bearing on the question raised before us.13.	None
+For the foregoing reasons we hold that the answer given by the High Court to the question referred to it is correct.14.	Decision
+In the result, the appeal fails and is dismissed with costs.15.	Decision
+Appeal dismissed.	None

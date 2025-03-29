@@ -1,0 +1,339 @@
+ Sikri, CJ.	None
+(on behalf of self, A. N. Grover, J., A. N,.	None
+Ray, J. and D. G. Palekar, J.) 1.	None
+These appeals have been referred by a Division Bench of this Court to a larger Bench as the Division Bench felt that the decision of this Court in Travancore Titanium Product Ltd. v. Commr. of Incometax (1966) 3	Issue
+SCR 321 (AIR 1966 SC 1250 ) might require reconsideration.	Issue
+The only point involved in these appeals is whether the Wealth Tax paid by the assessee, a trading company, is deductible as an expenditure under S. 10 (1) and S. 10 (2) (xv) of the Incometax Act, 1922.	None
+The facts in both the appeals are similar.	Facts
+They relate to two separate accounting and assessment years and two assessment orders have been challenged.	Facts
+We may give a few facts in one appeal.	Facts
+The Indian Aluminium Co. Ltd., in respect of the year of assessment 195960 (accounting period Calendar year 1958), paid Rs. 1,59,630/ as Wealth Tax and claimed to deduct this amount as expense from their assessable income.	Facts
+The Income Tax Officer allowed the deduction but the Appellate Assistant Commissioner held that the Company was not entitled to the deduction of Wealth Tax as an expense.	Facts
+The Appellate Tribunal upheld the order of the Appellate Assistant Commissioner.	Facts
+On the application of the assessee, the following question was referred to the High Court Whether on the facts and circumstances of case, the sum of Rupees 1,59,630/ paid by the assessee as wealthtax was legally deductible as a business expense in computing the assessee income from business?	Facts
+2. The High Court, following the decision of this Court in Travancore Titanium case, (1966) 3	Reasoning
+SCR 321 (AIR 1966 SC 1250 ), answered the question against the assessee, Having obtained certificate of fitness from the High Court, the assessee has appealed to us.	None
+3. Basing himself on Keshav Mills Co. Ltd. v. Commr. of I. T. (1965) 2	Arguments of Respondent
+SCR 908 at p. 922 (AIR 1955 SC 1636)	Arguments of Respondent
+it was contended by the learned counsel for the Revenue that we should not review our decision in Travancore Titanium case, (1966)	Arguments of Respondent
+3 SCR 321 (AIR 1966 SC 1250 ).	Arguments of Respondent
+Gajendragadkar, C. J., speaking for the Court, had observed in that case that it is not possible or desirable, and in any case it would be inexpedient to lay down any principles which should govern the approach of the Court in dealing with the question of reviewing and revising its earlier decisions.	Arguments of Respondent
+He further observed It would always depend upon several relevant considerations What is the nature of the infirmity or error on which a plea for a review and revision of the earlier view is based?	Arguments of Respondent
+On the earlier occasion did some patent aspects of the question remain unnoticed or was the attention of the Court not drawn to any relevant and material statutory provision, or was any previous decision of this Court bearing on the point not noticed?	Arguments of Respondent
+Is the Court hearing such plea fairly unanimous that there is such an error in the earlier view?	Arguments of Respondent
+What would be the impact of the error on the General administration of law or on public good?	Arguments of Respondent
+Has the earlier decision been followed on subsequent occasions either by this Court or by the High Courts?	Arguments of Respondent
+And, would the reversal of the earlier decision lead to public inconvenience, hardship or mischief?	Arguments of Respondent
+We are inclined to review our earlier decision in Travancore Titanium case, (1966) 3	None
+SCR 321 (AIR 1966 SC 1250 ) because, as will presently appear certain aspects of the question were not brought to the attention of the Court and remained unnoticed, and our decision is not likely cause any public inconvenience, hardship or mischief.	Issue
+We are all of the opinion that the decision was erroneous.	Issue
+The decision will affect numerous assessees.	Issue
+In the circumstances we think we should review the decision.	Issue
+4. Section 10 (1) of the Indian IncomeTax Act, 1922, reads 10 (1)	None
+The tax shall be payable by an assessee under the head profits and gains of business, profession or vocation in respect of the profit or gains of any business, profession or vocation carried on by him.	None
+Section 10 (2) provides Such profits or gains shall be computed after making the following allowances, namely (xv) any expenditure not being an allowance of the nature described in any of the clauses (I) to (xiv) inclusive, and not being in the nature of capital expenditure or personal expenses of the assessee laid out or expended wholly and exclusively for the purpose of such business, profession or vocation.	None
+5.	None
+The language seems to be simple enough but it has engendered judicial conflict not only in India but also in England.	Reasoning
+Eminent Judges have striven to formulate correct tests to determine whether an expenditure has been laid out or expended wholly and exclusively for the purposes of business or not, but no one has been able to find a test in the application of which differences of opinion do not arise.	Reasoning
+It seems to us therefore essential that in each case, the Courts must always keep in mind the language of the section.	Reasoning
+6.	None
+One of the tests which have been laid down and applied by some of the Judges in England is whether the expenditure has been made in the capacity of a trader or an owner.	None
+One of the earlier cases in which this test was suggested was Strong and Co. of Romsay Ltd. v. Woodifield, (1906) 5 Tax Cas 215.	None
+In that case the Brewing Company, which also owned licensed house in which they carried on the business of innkeepers, incurred damages and costs on account of injuries caused to a visitor staying at one of their house by the falling in of a chimney.	None
+The House of Lords held that the damages and costs were not allowable as a deduction in computing the Companys profits for Income Tax purposes.	None
+The Lord Chancellor observed In my opinion, however, it does not follows that if a loss is in any sense connected with the trade, it must always be allowed as a deduction for it may be only remotely connected with the trade or it may be connected with something else quite as much as or even more than with the trade.	None
+I think only such losses can be deducted as are connected with it in the sense that they are really incidental to the trade itself.	None
+They cannot be deducted if they are mainly incidental to some other vocation, or fall on the trander in some character other than that of trader.	None
+The nature of the trade is to be considered.	None
+To give an illustration, losses sustained by a railway company in compensating passengers for accident in travelling might be deducted.	None
+On the other hand, if a man kept a grocers shop, for keeping which a house is necessary and one of the window shutters fell upon and injured a man walking in the street, the loss arising thereby to the grocer ought not to be deducted.	None
+7. Lord Davey did not apply this test and put the matter thus I think that the payment of these damages was not money expended for the purpose of the trade.	None
+These words are used in other rules, and appear to me to mean for the purpose of enabling a person to carry on and earn profits in the trade, and c. I think the disbursements permitted are such as are made for that purpose.	None
+It is not enough that the disbursement is made in the course of, or arises out of, or is connected with, the trade or is made out of the profits of the trade.	None
+It must be made for the purpose of earning the profits.	None
+8.	None
+Lord Chancellors observations in Woodifieldss case.	None
+(1906) 5 Tax Cas 215 were not accepted by Lord Atkinson in Smith v. Lion Brewary Co. Ltd.	None
+(1911) 5 Tax Cas 568.	None
+The Brewary Company were the owners or lessees of a number of licensed premises which they had acquired as part of their business as brewers an as a necessary incident of its profitable exploitation.	None
+The licensed premises were let to tenants, who were tied to purchase their beers from the company.	None
+Under the Licensing Act, 1904, Compensation Fund Charges were levied in respect of the excise on licences held by the tenants who paid the Charges and recouped themselves by deduction from the rents which they paid to the company.	None
+It was claimed by the company that in computing their profits for assessment to Income Tax they should be allowed to deduct the sum of the amounts ultimately borne by them in respect of the Compensation Fund Charges.	None
+The Court of Kings Bench held that the deduction claimed was inadmissible.	None
+This decision was reversed in the Court of Appeal (Kennedy, L. J., dissenting), and opinions in the House of Lords being equally divided the judgment of the Court of Appeal was sustained.	None
+Earl Halsbury, in holding in favour of the Brewery, observed that he (trader) must if he carries on that business or that trade pay this tax it is the act of the legislature which makes him pay it and it is not a thing that is open to his own will or option.	None
+Lord Atkinson observed Again, it is urged that the landlord pays his contribution as Landlord and because of his proprietary interest in the premises and not as trader, since he would be equally liable to it whether he traded or not.	None
+That, no doubt, is so, but in the present case the Company have become landlords and thus liable to pay the charge, for the purpose solely and exclusively of setting up the tiedhouse system of trading.	None
+If the Company took under lease a plot of land to enlarge their brewery or took similarly premises in which to establish a depot to sell their beer through an agent, the same criticism might be applied with equal force to the payment of the rent reserved by the lease.	None
+They would pay it as lessees, not as brewers.	None
+They would pay it whether they continued to brew or not.	None
+Yet under the provisions of the very rule relied upon in this case, they would be entitled to deduct the rent from the profits earned, and that too, utterly irrespective of whether the receiver of the rent used it to pay for his support or for his pleasure, or even to set up a rival brewery.	None
+Indeed, even in a contract made for the purchase of material such as hops or malt, the Company would have to pay for the commodity supplied, not because they are brewers, but because they were contracting parties, utterly irrespectively or whether they carried on their trade or had abandoned it.	None
+Yet it can hardly be suggested that the price paid for the hops or malt under the contract should not be deducted from the receipts.	None
+There is therefore in my opinion, nothing in this objection.	None
+9.	None
+In Ushers Wiltshire Brewery Ltd. v. Bruce, (1913) 6	None
+Tax Cas 399, a brewery company were the owners or lessees of a number of licensed premises which they had acquired solely in the course of and for the purpose of their business as brewers and as a necessary incident to the more profitably carrying on of their said business.	None
+The licensed premises were let to tenants who were tied to purchase their beers, etc. from the Company.	None
+The Company claimed that in the computation of their profits for assessment under Schedule D, the following expenses incurred in connection which these tied houses should be allowed (A) repairs to tied houses (B) differences between rents of leasehold houses or Schedule A assessment of freehold houses on the one hand and the rents received from the tied tenants on the other hand.	None
+(C) fire and licence insurance premiums (D) rates and taxes.	None
+(E) legal and other costs.	None
+It was held by the House of Lords that all the expenses claimed were admissible as being money wholly and exclusively laid out or expended for the purpose of the trade of the Brewery Company.	None
+10.	None
+In this case, Horridge, J. held that on the facts found the Fire and Licence insurance Premiums, the Rates and Taxes and the Gas and Water were all expenditure essential to the earning of the profits, and I think they also are governed by (1911) 5 Tax Cas 568 and are proper deductions.	None
+11.	None
+The Court of Appeal, regarding Rates and Taxes, said The next head is D, Rates and Taxes ?	None
+38 7s.	None
+6d.	None
+These are sums which the tenants were under a legal obligation to pay pursuant to their covenant in the tenancy agreement.	None
+The Company, however, did not, for the reasons stated under A in the Case enforce the tenants convenants to pay and consequently paid the rates and taxes themselves.	None
+The reasons have been stated and appear in the Case, and need not be repeated in brief they are commercial interest and expediency, and avoidance of inconvenience.	None
+I am of opinion that these rates and taxes so paid are in no sense deductions which are allowable from the Companys profits.	None
+12.	None
+The House of Lords, however, allowed these items.	None
+Lord Atkinson at page 422 of the report said Stated broadly, I think that doctrine amounts to this, that where a trader bona fide creates in himself or acquires a particular estate or interest in premises wholly and exclusively for the purposes of using that interest to secure a better market for the commodities which it is part of his trade to vend, the money devoted by him to discharge a liability imposed by Statute on that estate or interest, or upon him as the owner of it, should be taken to have been expended by him wholly and exclusively for the purposes of his trade.	None
+12A.	None
+Then regarding these items he observed The small items were not much contested in arguments.	None
+I concur, however, with Mr. Justice Horridge in thinking they ought to be allowed.	None
+13.	None
+Lord Parker observed My Lords, the Appellants claim deductions under three other heads (1) Fire and licence insurance premiums, (2) Rates and taxes, and (3) Legal and other costs.	None
+The AttorneyGeneral did not object to these deductions being allowed, and indeed having regard to what I have already said and to the facts admitted in the Supplementary Statement, p. 7, of the Appendix, it would be difficult to contend that they were not proper and necessary deductions in ascertaining the balance of profits and gains of the Appellants trade, or that they are within any of the prohibitions contained in the Rules.	None
+14.	None
+Lord Sumner observed The remaining items, rates and taxes, premiums and costs, call for no special observation.	None
+In may view, the case means to find them all to be disbursements and money wholly and exclusively expended for the purposes of the trade, and that being so in fact, I think there is no reason why they may not be so in law.	None
+They are accordingly covered by the decision on the rent and the repairs.	None
+15.	None
+It may be mentioned that there was no express statutory provision for deduction of rates and taxes in the English Income Tax Act and yet they were allowed as a necessary deduction for the purpose of carrying on trade.	Reasoning
+There is no doubt that in one sense when rates and taxes on property are paid by a trader he pays them as owner or occupier because taxes are either on possession of property or on its ownership.	Reasoning
+But when the assessee has a dual capacity, i.e., he is ownercumtrader, why should it be not deductible when according to ordinary commercial principles he would be treated as paying it as a trader.	Reasoning
+15A. Take the case of taxation on a motor vehicle.	None
+The tax is levied under the Motor Vehicles Act on the possession or ownership of a motor car.	Reasoning
+When a ownercumtrader pays the tax in respect of a vehicle used solely for the purpose of trade, nobody doubts, and the learned counsel for the Revenue did not contest the position, that the tax would be deductible as an expense.	Reasoning
+Now, why is it deductible?	Reasoning
+The only rational explanation seems to us to be that when a person has a dual capacity, of a tradercumowner, and he pays tax in respect of property which is used for the purpose of trade, the payment must be taken to be in the capacity of a trader according to ordinary commercial principles.	Reasoning
+16.	None
+This aspect is also clearly brought out in Moffatt v. Webb, (1913) 16 CLR 120 (AUS) which was not cited before this Court then.	Reasoning
+The taxpayer was a grazier, and during the year 1911, carried on business and was still carrying on business as such in Victoria upon lands of the fee simple of which he was during the said year and still was the owner.	Reasoning
+The said lands comprised 17,970 acres or thereabouts, and their unimproved value had for the purposes of the Land Tax Assessment Act 1910 of the Commonwealth of Australia been assessed at Rs. 44,924.	Reasoning
+He paid Commonwealth Land Tax amounting to Rs. 387 on the unimproved value of the said lands.	Reasoning
+The taxpayer claimed to deduct this Tax from his income as an outgoing incurred by him as a disbursement or expenditure being wholly and exclusively laid out or expended for the purpose of his trade.	Reasoning
+The High Court of Australia held that the tax was properly deductible either as an outgoing actually incurred by him in production of income or a disbursement of money wholly and exclusively laid out or expended for the purpose of trade.	Reasoning
+Griffith, C. J. summed up the argument as follows The possession of land is necessarily incident to carrying on the business of a grazier the payment of land tax is necessary consequence of the possession of land of taxable value whether the land is freehold or leasehold the payment of land tax is therefore a necessary incident of carrying on the business of grazing.	Reasoning
+The case therefore seems to me to come within the exact words of the first paragraph of Section 9.	Reasoning
+(Section 9 is substantially similar to Section 10 (2) (xv) of the Indian Income Tax Act, 1922).	Reasoning
+17.	None
+Barten, J., observed the sole use to which the appellant puts the land is for the purposes of his business as a grazier.	None
+He needs a large area of land for that purpose, and this area of about 18,000 acres is applied to his business needs.	None
+It seems too much altogether to say that he would have to pay the federal tax on this land if he did not carry on the grazing business, somebody would be taxed, no doubt, but would it be the appellant?	None
+It cannot be predicated that he would own the land at all if he carried on any other business.	None
+It is scarcely an inference from the case to say that he holds the land simply as an instrument essential to the proper conduct of his business I think it is the fair meaning of the first paragraph at which we can arrive without inserting anything not imported by the words.	None
+If I am right there then is the land tax payment a disbursement or expense wholly and exclusively laid out or expended for the purposes of the business?	None
+It may not be so if the criterion is whether the business could be carried on without payment of the tax.	None
+But I do not think that is the criterion.	None
+Is the payment wholly and exclusively incidental to the carrying on of the business?	None
+Well, it is only by reasons of the necessity of land for his business that he holds this land, and it is only because of his holding it for his business that he necessarily pays the tax, for without the business it cannot be said that he would hold the land at all.	None
+In view, then, of particular facts, I think the payment is incidental to the conduct of his business, and that it, is money wholly and exclusively expended for the purposes of his trade.	None
+18.	None
+Isaacs, J., was impressed by reasoning of Lord Halsbury and Lord Atkinson in (1911) 5 Tax Cas 568, He observed And Lord Atkinson reasons out the position and shows convincingly, to my mind that, though a tax may in one sense be paid as owner or lessee, in another it is paid as trader.	None
+The instances he puts as to licences are undeniable and I cannot distinguish them from this case.	None
+To carry the matter further Suppose the Federal Parliament were to lay a tax on the owners of motor cars, and carts, and guns, and dogs and sheep, so that the tax was payable whether these things were employed in trade or not, could it is be doubted that the tax would be a real outgoing necessary for the production of the income of a business in which they were all used?	None
+The land is as necessary to the business as the personal property And the fallacy of the contrary doctrine consists in this, it confuses, not so much the meaning, as the application of the word purpose The land tax is enacted by the Legislature for its own purpose, that is, to tax the owner and when he pays it to the Crown, he pays it as the owner, it is true, but so far, not for any purpose of his.	None
+He simply pays it because he is obliged to by law.	None
+But when he uses the property to produce an income, that is, for his business purposes, he pays the tax inseparably connected with the land also for his business purposes, namely, as an outlay necessary in the existing state of the law to obtain that income by means of that land.	None
+19.	None
+The unsoundness of the test of the capacity in which payment is made was commented upon in Harrods (Buenos Aires) Ltd.	Reasoning
+TaylorGooby 41 Tax Cas 450 by the Court of Appeal.	Reasoning
+The facts can be conveniently taken from the head note.	None
+The Appellant Company, which was incorporated and resident in the United Kingdom, carried on the business of a large retail store at Buenos Aires.	Reasoning
+In consequence the Company was liable in Argentine to a tax known as the substitute tax, which was levied on joint stock companies incorporated in Argentine, and on companies incorporated outside Argentina which carried on business there, as did the Appellant Company through an empresa estable.	Reasoning
+The tax was charged annualy at the rate one percent on the Companys capital and was payable whether or not there were profits liable to Argentine Incometax.	Reasoning
+Under Argentine law there were sanctions available to remedy nonpayment of the tax.	None
+On appeal against an assessment to Incometax under Schedule D for the year 195960 it was contended on behalf of the Company that it paid the substitute tax solely for the purpose of enabling it to carry on business in the Argentine since, if it had not paid it, it would have been unable to carry on its business there, and that the tax was therefore deductible as money wholly and exclusively laid out or expended for the purposes of (its) trade within the meaning of Section 137 (a) Incometax Act, 1952.	Reasoning
+For the Crown, it was contended (inter alia) that the Company paid the tax in the capacity of a taxpayer rather than trader.	Reasoning
+20.	None
+Willmer, L. J., referred to Commissioners of Inland Revenue v. Dowdall OMahoney and Co., (1952) 33 Tax Cas 259 and observed I can find no support whatever in this case for the proposition that the question depends on the capacity in which the taxpayer pays the taxes.	Reasoning
+After referring to (1911) 5 Tax Cas 568 case he observed It appears to me that these two decisions of the House of Lords are not only quite inconsistent with the principal submission put forward on behalf of the Crown in the present case but that the ratio decidendi of both cases as stated by Lord Atkinson, is really decisive in favour of the Company.	Reasoning
+Dancwerts, L. J., observed In Rushden Heel Co., Ltd. v. Keene, (1949) 30 Tax Cas 298, to which I have referred, Lord Greene, M. R., in 30 T. C. page 3167, introduced a test of a different kind from that to which I have referred.	Reasoning
+He seems to draw a distinction between payments made by a trader in the character of taxpayer and not, or not wholly, as trader.	Reasoning
+I find this idea difficult to follow and not very helpful in discussing the subject in issue.	Reasoning
+It seems to me very difficulty to say where to draw the line between the two capacities, and not as satisfactory as the test which has been adopted in the cases to which I have referred.	Reasoning
+Everyone who pays taxes pays because he is taxed and is a taxpayer.	None
+21.	None
+Diplock, L. J., also criticized the test in these words It is contended for the Crown that the Company paid the tax in its capacity as a taxpayer, not in its capacity as a trader.	Reasoning
+But with great respect to Lord Greenem, M. R.s judgment in the Rushden Heel	Reasoning
+Cos case, (1949) 30	Reasoning
+Tax Cas 298 on which this contention was mainly based, this is merely playing with words.	Reasoning
+As pointed out by Willmer, L. J., this ratio decidendi was not adopted by the House of Lords in the same case and cannot, in my view, survive Lord Atkinsons earlier criticism of a similar argument in the Lion Brewery case, (1911) 5 Tax Cas 568 which Willmer, L. J., has already cited.	Reasoning
+You can always find some label other than trader to describe the capacity in which a trader makes any disbursement for the purposes of his trade.	Reasoning
+He pays rent for his business premises in the capacity of tenant, rates in the capacity of Occupier wages in the capacity of employer, the price of goods in the capacity of buyer.	Reasoning
+But if he has become tenant or occupier of those particular premises, employer of those particular servants or buyer of those particular goods solely for the purposes of his trade, the money which he has expended in any of the capacities so labelled is a deductible expense in computing the profits of his trade.	Reasoning
+22.	None
+The learned counsel for the Revenue did not say that these cases had been wrongly decided.	Arguments of Respondent
+What he said was that if the real nature of wealth tax is appreciated, it is impossible to equate the net wealth with land used by grazier in (1913) 16 CLR 120 or with tied houses in (1911) 5 Tax Cas 568 or with the Companys Capital in 41 Tax Cas 450.	Arguments of Respondent
+He said that in all these cases the tax was being levied on the asset of the business which was being used for the purpose of business.	Arguments of Respondent
+In the present case, according to him, the net wealth could not be likened to an asset owned by the trading company.	Arguments of Respondent
+To this the learned counsel for the appellant retorted that in the case especially of a trading company all the assets are owned and liabilities incurred for the purposes of trading, as outlined in its memorandum of Association if, all the assets are owned and used for the purpose of the trade, the net wealth would also be owned and used for the purpose of trade.	Arguments of Petitioner
+He said that it would be possible for a company to mortgage its net assets to a bank and if a company did that, it could not be said that the net wealth or net assets had not been used for the purposes of business.	Arguments of Petitioner
+If tax was levied on the capital value of assets without allowing deduction of debts it is clear that the tax would be deductible.	Arguments of Petitioner
+What difference does it make if debts are deducted from the capital value of assets?	Arguments of Petitioner
+The net wealth is as much an instrument to trade as the capital value of assets.	Arguments of Petitioner
+We find it very difficult to distinguish the case of a trading Company like the assessee, on principle, from that of the grazier or the brewery company, in the cases referred to above.	Reasoning
+23.	None
+In our view, the test adopted by this Court in Travancore Titanium case, (1966) 3	Reasoning
+SCR 321 (AIR 1966 SC 1250 ) that to be a permissible deduction, there must be a direct and intimate connection between the expenditure and the business, i.e., between the expenditure and the character of the assessee as a trader, and not as owner of assets, even if they are assets of the business heeds to be qualified by stating that if the expenditure is laid out by the assessee as ownercumtrader, and the expenditure is really incidental to the carrying on of his business, it must be treated to have been laid out by him as a trader and as incidental to his business.	Reasoning
+24.	None
+It was pointed out by the learned counsel for the Revenue that it would be difficult to allow the deduction of wealth tax in respect of individuals who have both business assets and debts and nonbusiness assets and debts.	Arguments of Respondent
+But the Wealth Tax Return form itself requires the assessee to show what are the business assets and liabilities and what are nonbusiness assets and liabilities.	None
+25.	None
+At any rate it should not be difficult to evolve a principle or frame statutory rules to find out the proportion of the tax which is really incidental to the carrying on of the trade.	Reasoning
+On the facts of this case it is clear that payment of wealth tax was really incidental to the carrying on of the assessee companys trade.	Reasoning
+26.	None
+Accordingly, we hold that the appellant is entitled to succeed.	Decision
+The appeals are allowed, the Judgment of the High Court set aside and the question answered in favour of the assessee.	Decision
+Parties will bear their own costs throughout.	Decision
+27.BEG, J. My Lord the chief Justice has quoted certain tests laid down by Gajendragadkar, C. J. speaking for this Court, in (1965) 2	None
+SCR 908 (AIR 1965 SC 1636 ), which have to be satisfied before we could properly dissent from a previous decision of this Court.	None
+In such a case, I think I should indicate my reasons for reaching a concurring conclusion, with very great respect, that an earlier opinion of this Court, on the very question before us now, needs revision.	None
+28.	None
+The error which crept into the decision of (1966) 3 SCR 321 (AIR 1966 SC 1250 ) could be traced to an application of the rather speciously stated criterion laid down, in the House of Lords in (1906) 5 Tax cas 215 by the Lord Chancellor who said there that expenses cannot be deducted, in computing profits, if they are mainly incidental to some other vocation, or fall on the trader in some character other than that of trader.	None
+The nature of the trade is to be considered.	None
+But Lord Davey, looking at the case from a somewhat different angle, said it was not enough that the disbursement is made in the course of, or arises out of, or is connected with, the trade or is made out of the profits of the trade.	None
+It must be made for the purpose of earning profits.	None
+The two tests were not identical.	None
+29.	None
+The ratio decidendi of Strongs case, (1060 5 Tax Cas 215 would not have been open to criticism if the noble Lords could have held there and had made it clear that they were holding nothing beyond that a tradesman who has to pay damages for injury to his customer due to his personal neglect in maintaining his premises, even though these premises are used for trade, was not entitled to deduct them in computing his profits for the purposes of paying Incometax just as he could not claim a deduction for damages he will have to pay as a wrongdoer for assaulting or defaming a customer who comes into his shop.	None
+It is no part of normal business to commit such wrongs.	None
+Liabilities so incurred could very well be looked upon as outside the course of trading altogether even if they arise out of commercial activity or result from something connected with or meant to serve any commercial purpose.	None
+Their Lordships, however used language which could cover more than what could be attributed to the tradesmans one purely personal wrongs.	None
+The facts of that case show that the negligence which resulted in payment of damages, for which a deduction was claimed, was that of servants employed as an ordinary incident of trading so that the master was only vicariously liable as an innkeeper and an employer.	None
+And, this aspect of the case made Lord James, in Strongs case, (1906) 5 Tax Cas 215, doubt the correctness of the opinion which he, very hesitatingly, decided to accept.	None
+30.	None
+In (1911) 5 Tax Cas 568, compensation fund charges levied under statutory provisions were held, by the Court of Appeal, to be permissible deductions in computing profits on the ground that they were wholly or exclusively laid out for the purpose of earning profits.	None
+This decision had to be upheld by the House of Lords where opinion was evenly divided when the case was taken up there.	None
+Hence, the test laid down there by the Court of Appeal was held by Eari Loreburn to be binding upon him, in (1913) 6	None
+Tax Cas 399 although he had himself not accepted it in Lion Brewerys case, (1911) 5 Tax Cas 568. 31.	None
+In (1949) 30	None
+Tax Cas 298, Lord Greene, M. R. in disallowing deduction of expenses incurred in contesting claims for payment of Excess Profits Duty, from a computation of profits for purposes of paying Incometax, applied the test of character or capacity in which the expense was incurred.	None
+He held that the disbursement had to be disallowed on the ground that the expenditure was incurred by the Company primarily in its capacity as a taxpayer and for the purpose of regulating the position as between itself as a taxpayer and the Crown.	None
+The House of Lords upheld the decision, following its slightly earlier pronouncement by a majority, in Smiths Potato Estates Ltd,.	None
+v. Bolland, (1949) 30	None
+Tax Cas 267, but it did so on the ground that the expenses under consideration, incurred on litigation, related to a computation of Excess Profits Duty which had to take place after profits had been calculated.	None
+32.	None
+In Atherton v. British Insulated and Halsby Cables Ltd., (1926) 10 Tax Cas 155 however, the test in Ushers Wiltshire Brewery case, (1913) 6 Tax Cas 399 (supra) was applied to hold that even sums expended not of necessity with a view to a direct and immediate benefit to the trade, but voluntarily and on the grounds of commercial expediency and in order to directly facilitate the carrying on the business may yet be expended wholly and exclusively for the purposes of the trade.	None
+33.	None
+In Morgan v. Tate and Lyle Ltd., (1955) 35 Tax Cas 367, the House of Lords had used Lord Daveys test in Strongs case, (1906) 5 Tax Cas 215 (Supra) to justify deduction of sums spent on propaganda to oppose threatened nationalisation of the Sugar Refinery industry as money spent wholly and exclusively for the companys trade.	None
+34.	None
+The decision of the Court of Appeal, in 41 Tax Cas 450 fully exposed the fallacy involved in applying without close examination, the test of capacity, for the possession of which a tax may be imposed, to every levy of a tax, by extending the alluringly simple formula of the Lord Chancellor, in Strongs case, (1906) 5 Tax Cas 215 the cases for which it could not have been meant.	None
+In Harrods case, 41 Tax Cas 450 deduction was claimed, in computing annual profits of a Company, of a Substitute Tax which had to be paid on the companys capital in Argentina, irrespective of the profits made on it (just like the Wealth Tax before us.)	None
+The Court of Appeal quoted passages from the opinions of the Law Lords, in Bushden Heel	None
+Cos case, (1949) 30	Reasoning
+Tax Cas 298, (Supra) and Smiths Potato Estates case, (1949) 30	None
+Tax Cas 267 (Supra), to show that the ratio decidendi of these two decisions confined the principle applied there to cases where taxes, like the Income Tax and the Excess Profits Tax, had to be paid upon and after a calculation of profits and did not extend to other cases.	None
+In other words, where profits, the net gains of business determined after making all permissible deductions, are taxed, the disbursements to meet such taxes cannot be deducted.	None
+But, where the tax was levied, as it was in Harrods case, 41 Tax Cas 450 on capital or assets used for the purpose of earning these profits, it was a permissible deduction in calculating profits.	None
+35.	None
+In Harrods case, 41 Tax Cas 450 both Willmer, L.J., and Diplock.	None
+L. J. had made use of Lord Daveys test, set out above, from Strongs case, (1906) 5 Tax Cas 215 (supra), They held that ratio decidendi of the tied house cases and not Lord Loreburns test to be applicable to payment of taxes on assets used for trading exclusively.	None
+Willmer, L. J., quoted the following passage from Lord Halsburys opinion in (1911) 5 Tax Cas 568 Lion Brewery case (p. 466)	None
+Again, it is urged that the landlord pays his contribution as landlord and because of his proprietary interest in the premises and not as trader, since he would be equally liable to it whether he traded or not.	None
+That, no doubt, is so, but in the present case the Company have become landlords and thus liable to pay the charge, for the purpose solely and exclusively of setting up the tiedhouse system of trading.	None
+Lord Atkinsons view, expressed in the following words in the same case, was also relied upon by the learned Judge (P. 466) Stated broadly, I think that that doctrine amounts to this, that where a trader bona fide creates in himself or acquires a particular estate or interest in premises wholly and exclusively for the purposes of using that interest to secure a better market for the commodities which it is part of his trade to vend, the money devoted by him to discharge a liability imposed by Statute on that estate or interest, or upon him as the owner of it, should be taken to have been expended by him wholly and exclusively for the purposes of his trade.	None
+36.	None
+In Harrods case, 41 Tax Cas 450 the Court of Appeal, after a comprehensive survey of all the relevant English authorities, considered the proposition accepted by it, that the substitute tax levied on the companys capital, was a permissible deduction in calculating the profits of a company for paying income tax, to be so clear and free from doubt, on the authorities then existing and applied, that it refused even leave to appeal to the House of Lords.	None
+37.	None
+If there could be any doubt about the correct position of a tax like the one before us, a persual of the opinions given by Australian Judges, in (1913) 16 CLR 120 (AUS) where after a discussion of the relevant English authorities, landtax paid by a grazier on land used by him to earn income was held to be deductible in computing it for paying income tax, would lay to rest, if I may so put it, the disembodied ghost of a tradesmans nontrading character, a pure abstraction, which is sought to be used before us, by the learned Counsel for the Incometax Department, to prevent wealth tax paid on even the wholly commercial assets, constituting a part or whole of the taxable net wealth, used exclusively for purposes of trade, from being deducted as allowable expense, under Section 10 (2) (xv) of the Incometax Act, 1922.	None
+38.	None
+On the earlier occasion, when Travancore Titanium Co.s case, (1966) 3	None
+SCR 321 (AIR 1966 SC 1250 ) (Supra) was argued in this Court, (1913) 16 CLR 120 (AUS) (Supra) was not cited.	None
+Although, there are references in the judgment of this Court, in the earlier case, to the tiedhouse cases and to Harrods case, 41 Tax Cas 450 (Supra), these were held to be distinguishable on facts, but, the test propounded by Lord Chancellor Loreburn, in Strongs case, (1906) 5 Tax Cas 215 was applied to disallow deduction of wealth tax in computing profits.	None
+After going through all the relevant authorities, I have no doubt whatsoever left in my mind that it is the ratio decidendi of tiedhouse cases and Harrods case 41 Tax Cas 450 (Supra), which is the same as that of the Australian case, that applies here and not Lord Chancellor Loreburns test laid down in a very different context than that of payment of a tax as a necessary precondition of earning more profits.	None
+39.	None
+I do not think that the test of trading character, when incurring an expense for which a deduction is claimed, is without its uses.	None
+There are case where the question has arisen whether a payment was gratuitous or unnecessary or not made for a bona fide commercial purpose of connected more with some ulterior object really failing outside the normal sphere or regular course of commerce, such as the compounding of an offence even if committed while trading.	None
+In J. K. Cotton Spinning and Weaving Mills Co. Ltd. v Commr. of Income Tax AIR 1967 All 513 , I had occasion to consider a case where the test of trading character or capacity in which a payment is made as well of causal connection between the payment and a legitimately commercial purpose could, it seemed to me, be both simultaneously employed.	None
+But, in cases of payment of taxes, a concentration on the test of capacity for which payment becomes necessary is certainly liable to mislead us.	None
+40.	None
+A question which did trouble my mind was whether, in view of what this Court had held in Travancore Titanium case, (1966) 3	Issue
+SCR 321 (AIR 1966 SC 1250 ) (Supra), it could be said that any accepted commercial practice and trading principles could exclude wealth tax from the computation of profits with which Sec. 10 subss.	Issue
+(1) and (2) of Incometax Act are concerned.	Issue
+One of the grounds given by this Court, to support its view there, was that the nature of the expenditure of the outgoing must be adjudged in the light of accepted commercial practice and trading principles.	None
+Speaking for myself, I was inclined to take the view that, if the earlier decision of this Court could be justified by a reference to some commercial practice or trading principles which could be implied by , or, read into, the very process of computation of profits with which provisions of Section 10 (1) and (2) of the Incometax Act, 1922, are concerned, it must stand.	None
+I find, however, that no case, apart from the observations mentioned above, contained in the Travancore Titanium	None
+Cos case, (1966) 3	Reasoning
+SCR 321 (AIR 1966 SC 1250 ), was cited to support this line of reasoning.	None
+All the other cases brought to our notice, which are discussed above, indicate that commercial practice and trading principles also warrant such deductions of a tax on assets for capital used wholly and exclusively for carrying on trade or earning profits.	None
+They may preclude deductions of taxes on net profits but not those imposed on net assets or wealth used exclusively for making profits.	None
+41.	None
+Commercial practice and trading principles could vary.	None
+These terms appear to be rather vague and indefinite.	None
+The meanings of the relevant statutory provisions seem much more fixed and definite.	None
+All that the language of Section 10 (2) (xv) apparently requires, for claiming its benefit, is proof of a direct causal connection between an outgoing and the commercial purpose which necessitates it.	None
+Whatever commercial practice or trading principles may imply or import, they could not alter the meaning of statutory provisions or travel beyond it.	None
+42.	None
+Another question which engaged my attention was whether Wealth Tax could be excluded from the purview of Section 10 (2) (xv) simply because it was a tax on assets or netwealth paid by its owner so as to reduce his wealth.	Issue
+This line of thinking, however, seemed to me to bring in, through the backdoor, the misleading test of either the capacity as owner for the possession of which or the purpose for which the wealth tax may be demanded, instead of the inevitable need and the purpose of the trader in paying the tax, as relevant matters.	None
+In Lion Brewerys case, (1911) 5 Tax Cas 568 (supra), Lord Halsbury had declared the unavoidable need to satisfy a statutory demand for the purpose of making profits as the really relevant question for consideration in such cases.	None
+He said, about the purpose for which the Government have exacted the tax whatever that purpose may be it is immaterial.	None
+43.	None
+It may be that the purpose of the tax before us could be considered in order to determine whether its nature is such as to necessarily imply that it cannot be taken into account in calculating profits or gains of business under Section 10 subsections (1) and (2) of the Incometax Act.	None
+The nature of the Wealth Tax was examined by this Court in Union of India v. Harbhajan Singh Dhillon, (1971) 2 SCC 779 At p. 806	None
+(AIR 1972 SC 1061 ) where the following passage was quoted from Readings on Taxation in Developing Countries, by Bird and Oldman, dealing with the concept of wealthtax.	None
+The term net wealth tax is usually defined as a tax annually imposed on the net value of all assets less liabilities of particular taxpayers  especially individuals.	None
+This definition distinguished the net wealth tax from other types of taxation of net wealth, such as death duties and a capital levy, the former are imposed only at infrequent intervals once generation while the latter is a onetime charge, usually with the primary purpose of redeeming a wartime national debt.	None
+The net wealth tax is really intended to tax the annual yields of capital rather than the principal itself as do death duties or a capital levy, even though it is levied on the value of the principal.	None
+Since it taxed net wealth, it also differs from property taxes imposed on the gross value of propertyprimarily real property  in a number of countries.	None
+The net wealth tax gives consideration to the taxpayers taxable capacity through the deduction of all outstanding liabilities and personal exemptions as well as through other devices, while the property tax generally does not take these factors into account.	None
+The net wealth tax is therefore deemed to be imposed on the person of the taxpayer, while the property tax often deemed to be imposed on an objectthe property itself.	None
+44.	None
+It is true that wealth tax is imposed on metwealth of assessees, as defined by Sec.	None
+2 subsec.	None
+(c), who are all persons.	None
+These persons are both natural and artificial.	None
+In the case of an artificial or juristic person like the Company before us, it seems very difficult to separate the purpose of the juristic persona, which is certainly commercial, from the character of the persona itself.	None
+Even as regards other traders, that part of tax which falls on what is used exclusively of trade could be really ascribed only to a trading character.	None
+To the extent it is a tax on property used for earning profits, it must enter into a computation of profits from trading.	None
+45.	None
+On going through the provisions of WealthTax Act as well as the Incometax Act it was not possible for me to infer that the payment of wealthtax must be excluded from the computation of profits under Sec.	None
+10 subrecs.	None
+(1) and (2) of the Incometax Act.	Issue
+It appears to me that nothing less than express statutory provision would justify a denial of the right to a deduction which the language of Sec.	None
+10 subsec.	None
+(2) (xv) confers upon an assessee.	None
+46.	None
+On looking at the position of law in America on this subject, I find that there are statutory provisions which deny deductions of certain taxes only, such as incometax, and taxes on war profits and excess profits, gifts, inheritance, legacies, and succession (see U. S. Code 1958, ed Titles 2226 Internal Revenue Code, P. 4287 paragraph 164).	None
+A general statement of the law on this subject there is that it.	None
+does not prevent (a) a deduction therefor under Sec.	None
+23 (a) provided it represents an ordinary and necessary expense paid or incurred during the taxable year, by a corporation or an individual in carrying on any trade or business, or, in the case of an individual, for the production or collection of income, or for the management, conservation, or maintenance of property held for the production of income, or (b) the inclusion of such tax paid or incurred during the taxable year by a corporation or an individual as a part of the cost of acquisition or production in the trade or business, or, in the case of an individual, as a part of the cost of property held for the production of income with respect to which such tax is paid or incurred.	None
+(See Jacob Mertans Law of Federal Income Taxation Vol. 5, 1954 Cumulative Pocket supplement, Chapter 27, paragraph 27.01).	None
+47. Learned Counsel for the Department relied upon the difficulty in separating that part of the tax which is levied on any part of the net wealth, used wholly and exclusively for trade, from the rest of it.	Arguments of Respondent
+We are, strictly speaking, concerned only with the correct interpretation of Sec.	None
+10 subs.	None
+(2) (xv) of the Act and with the definition of netwealth given in Sec. 2 (m) of the Wealth Tax Act on which incidence of the tax levied under Sec.	None
+3 falls.	None
+In order to determine whether, as a matter of principle, a tax so defined and imposed would be covered by Sec. 10 sub. S. (2) (xv) of the relevant Incometax Act, the difficulty which may arise in actually computing the deductible amount does not seem to be a material consideration.	None
+Moreover, the fact that net wealth is an amount by which an aggregation of all the assets exceeds all the debts does not seem to impose any intractable difficulty in the way of calculating what part of the netwealth is used for trade or business of an assessee and what is not.	None
+An aggregation means a collection of items added up which can be separated and not a mixture the ingredients of which become inseparable.	None
+Assuming, however, that there is some difficulty in separating that part of the tax which is payable in respect of netwealth used only for trade from that part of it which is imposed on a portion of netwealth not so used, I fail to see how the principle involved or meaning of the relevant provisions, with which we are concerned here, will be affected.	None
+Mr. Chagla, appearing for an assessee, drew our attention to the division into two heads, one of business assets and another of the other assets, which is found in form A prescribed by the rules for the Wealth Tax return.	None
+This means that the Wealth Tax Act itself makes that part of the net wealth separable which can be utilised wholly and exclusively for trade from the remainder of it.	None
+If this can be done, it is difficult to see how that part of Wealth Tax could escape deduction, under Sec. 10 (2) (xv) of the Incometax Act, which is attributable to such portion of the net wealth as is used wholly and exclusively for earning profits.	None
+48.	None
+To lay down, as we are doing in this case, that it is the causal connection between payment of tax and that part of net wealth which is used wholly and exclusively for trade and not the mere character or capacity for the possession of which the tax is demanded, which determines whether it is an allowable deduction or not, under Sec. 10 (2) (xv) of the Act, seems to us to amount to nothing more than to give effect to the plain and literal meaning of a provision of a taxing statute.	None
+There seems no need, in such a clear case, to invoke the aid of the well.	None
+Established canon of construction that, where a taxing provision is reasonably capable of two equally possible constructions, the one which favours the assessee must be preferred.	None
+Of course, the burden of proving whether the whole or a part of the wealth tax paid by an assessee is attributable wholly and exclusively to the carrying on of a trade, and, therefore, is an allowable deduction, must rest upon the assessee in each case.	None
+The argument on behalf of the assessees, as I understand it, goes no further.	None
+49.	None
+One of the tests laid down in Keshav Mills Companys case (1965) 2	None
+SCR 908 (AIR 1965 SC 1636 ) (Supra) for deciding whether a previous erroneous view should be set right by this Court, was whether any possible advantage to the public resulting from doing so would be outweighed by the mischief or harm a revision may cause.	None
+Of course, the ultimate determination of what public good requires the law to be must take place elsewhere.	None
+But, in deciding whether a previous interpretation of the law, as it exists, by this Court, even if it be erroneous in some respect, needs revision by it, a consideration of what public good demands undoubtedly lies within the province of our powers.	None
+50.	None
+It seems to me that the Wealth Tax Act was not intended to strike at or check expansion of commercial activities by either individuals or companies.	None
+Its underlying purpose was the removal of disparities of individual or personal wealth and not injury to trade.	None
+It could be said to be a tax aimed at individuals whose wealth exceeds certain limits.	None
+In so far as the particular interpretation which we are abandoning, because of the infirmities found in it, seemed to penalise mere expansion of business and trade without serving the assumed underlying purpose of wealthtax, a revision of opinion does not appear to involve any such mischief or injury to the public as could stand in the way of correcting an erroneous view.	None
+51.	None
+I have, therefore, no hesitation left in my mind in holding that the view expressed by this Court in Travancore Titanium case, (1966) 3 SCR 321 (AIR 2966 SC 1250) (supra) must be modified as indicated by my lord the Chief Justice.	None
+52.	None
+Appeals allowed.	Decision

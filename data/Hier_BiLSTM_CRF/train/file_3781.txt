@@ -1,0 +1,144 @@
+ Raghubar Dayal, J. 1.	None
+The sole point urged in this appeal under certificate from High Court, is whether a moneylender, registered under the Bihar MoneyLenders Act, 1938 (Bihar Act III of 1938), hereinafter called the Act, can sue his debtor for a loan in excess of the amount mentioned as the maximum amount upto which he could transact business under the registration certificate issued to him.	Issue
+2.	None
+The facts of the case may be briefly stated.	Facts
+Sant Saranlal and Bhanuprakash Lal, plaintiffs Nos. 1 and 2 respectively, sued defendants Nos. 1 to (Sic) a registered moneylender under the Act and the registration certificate constituted a partnership business under the name and style of Banwarilal Kishanlal in 1947.	Facts
+Out of this amount, Rs. 3,500 had been lent prior to January 17, 1950 and the balance of Rs. 11,870 was lent between January 21, 1950 and May 14, 1951.	Facts
+The suit was contested on various grounds.	Facts
+3.	None
+The trial Court found that the various amounts were advanced for the purposes of the firm.	Facts
+It found that plaintiff No. 2, Bhanuprakash Lal, was a registered moneylender under the Act and the registration certificate dated January 17, 1950 stated that he had been registered as a moneylender on that day to transact moneylending business upto a maximum of Rs. 4,999 only.	Facts
+It further held that the fixing of this limit to the moneylending business did not debar plaintiff No. 2 from suing for amounts in excess of Rs. 4,999 in case he had really advanced that amount.	Facts
+The trial Court accordingly decreed the suit for Rs. 11,870 plus interest pendente lite at 6 per cent per annum.	Facts
+4. Defendant No. 1 alone filed an appeal against this decree.	Facts
+The High Court disagreed with the finding of the trial Court that the loans had been taken for the firm Banwarilal Kishanlal and held that they were taken by defendants Nos. 3 and 5 from plaintiff No. 2.	Facts
+It further held that out of the amount of Rs. 11,870 only Rs. 6,000 had been taken on loan by defendant No. 3 and the balance was taken on loan by defendant No. 5 against whom the plaintiffs had not sought a decree.	Facts
+It further held that in view of the various provisions of the Act and the rules framed thereunder the plaintiff could not get a decree for any sum over Rs. 4,999.	Facts
+The High Court accordingly allowed the appeal of defendant No. 1 and set aside the decree passed by the trial Court against defendants Nos. 1, 2 and 4 and passed a decree in favour of plaintiff No. 2 for Rs. 4,999 against defendant No. 3 alone.	Facts
+It also decreed simple interest at 6 per cent per annum from the date of the institution of the suit until realisation.	Facts
+It is against this decree of the High Court that the present appeal has been filed after obtaining certificate from the High Court.	Facts
+5. The only point urged by Mr. Chatterjee, for the appellants, is that the High Court erred in holding that a registered moneylender could not recover by suit loans advanced in excess of the maximum amount mentioned in the registration certificate.	Arguments of Petitioner
+6.	None
+To appreciate the contention, it will be helpful to refer to the various provisions of the Bihar Acts affecting the question under determination.	None
+7.	None
+The Act of 1938 was enacted to regulate moneylending transactions and to grant relief to debtors in the Province of Bihar.	None
+Loan, according to Cl.	None
+(f) of S. 2 means inter alia, an advance whether of money or in kind on interest made by a moneylender.	None
+Moneylender, according to Cl.	None
+(g) means a person who advances a loan.	None
+Registered moneylender according to Cl.	None
+(j) means, inter alia, a person to whom a registration certificate has been granted under S. 5.	None
+Section 3 empowers the State Government to exempt any moneylender or class of moneylenders or any class of loans from the provisions of the Act.	None
+Section 4 provides that every SubRegistrar shall maintain a register of moneylenders in such form and containing such particulars as may be prescribed, and such register would be deemed to be a public document within the meaning of the Indian Evidence Act.	None
+Section 5 deals with the registration of moneylenders and registration fee.	None
+An application for being registered as a moneylender is to be made by a person and is to contain the particulars mentioned in subsection (1).	None
+Clause (e) of subsection (1) of S. 5 mentions such other particulars as may be prescribed.	None
+The application is to be accompanied by the prescribed registration fee and an application which does not contain the particulars specified in subsection (1) is to be rejected summarily.	None
+Subsection (3) provides that the State Government may, by rules, prescribed for different classes of moneylenders and for different areas a registration fee not exceeding twentyfive rupees to be paid by an applicant for registration.	Arguments of Respondent
+Subsection (4) makes it incumbent on the SubRegistrar to whom an application is presented, to grant the registration certificate in the prescribed form to the applicant.	None
+The SubRegistrar is to refuse grant of a certificate only where a certificate previously granted to the applicant had been cancelled under S. 19 and the order of cancellation is in force.	None
+A registration certificate granted under S. 5 remains in force for five years from the date on which it is granted unless cancelled earlier under S. 19.	None
+8.	None
+Section 7 lays down the duties of the registered moneylenders to maintain accounts and to give receipts.	None
+Section 19 provides for the cancellation of the registration certificate in certain circumstances.	None
+Section 20 provides for penalty for the contravention of the provisions of S.7.	None
+Section 27 empowers the State Government to make rules prescribing the form of the registration certificate mentioned in subsection (4) of S. 5 and the particulars to be contained in an application made under subsection (1) of S. 5. 9.	None
+The Bihar MoneyLenders Rules, 1938, hereinafter referred to as the rules, defines in Cl.	None
+(c) of R. 1 maximum amount of loans to mean the highest total amount of loans which may remain outstanding on any day during the period of the validity of the registration certificate.	None
+Rule 2 prescribes the form in which the register of moneylenders is to be kept.	None
+Rule 3 prescribes the further particulars to be mentioned in the application for registration and one of these particulars is the amount of loans for which certificate is wanted.	Reasoning
+Rule 4 lays down the registration fee payable.	None
+It is according to the maximum amount of loans in respect of which an application for certificate is made.	None
+Rule 6 provides that the registration certificate would be in Form II.	None
+The relevant portion of Form II for the purposes of this appeal isI hereby certify thathas been registered as a moneylender under subsection (1) of S. 5 . . . . . . . . . . .	None
+to transact moneylending business upto the maximum amount of rupess on this. .	None
+. . .	None
+.	None
+day of. . . . . .	None
+.	None
+10.	None
+In 1939, the Bihar MoneyLenders (Regulation of Transactions) Act, 1939 (Bihar Act VII of 1939), hereinafter called the 1939 Act, was enacted to provide for the regulation of moneylending transactions in the province of Bihar and to remove doubts which had arisen regarding the validity of certain provisions of the 1938 Act.	None
+Section 4 of the 1939 Act is as followsSuit for recovery of loan only maintainable by registered moneylenders.	None
+No Court shall entertain a suit by a moneylender for the recovery of a loan advanced by him after the commencement of this Act unless such moneylender was registered under the Bihar MoneyLenders Act, 1938, at the time when such loan was advanced Provided that such a suit shall be entertainable if the loan to which the suit relates was advanced by the moneylender at any time before the expiration of six months after the date of commencement of this Act and if he is granted a certificate of registration under S. 5 of the Bihar MoneyLenders Act, 1938, at any time before the expiration of the said six months.	Issue
+11.	None
+Of the two plaintiffs, Bhanuprakash Lal, plaintiff No. 2, who is held to have lent the money, obtained registration certificate under S. 5 (4) and R. 5 on January 17, 1950.	None
+The certificate said that he had been registered as a moneylender under subs.	None
+(1) of S. 5 of the 1938 Act on that day to transact moneylending business upto a maximum of Rs. 4,999 only.	None
+The High Court accepted the contention for the respondent that in view of the terms of the registration certificate and R. 3 (3) of the rules, Bhanuprakash must be considered to have been registered as a moneylender under the Act for advancing loans whose total amounts outstanding on any day during the period of the validity of the registration certificate was not to exceed Rs. 4,999, that in case the amount of any loan on the date it was advanced exceeded the total of the loans outstanding that day, the moneylender would not be considered to be a registered moneylender for the amount lent in excess of Rs. 4,999 and therefore, in view of S. 4 of the 1939 Act, could not sue for such excess amount.	None
+The High Court accordingly granted a decree to plaintiff No. 2 for Rs. 4,999 only and did not decree his suit for the difference between Rs. 6,000, the amount actually lent, and the limit of the loan mentioned in the registration certificate.	None
+The High Court was of this view as it thought that allowing the moneylender to sue for the excess amount would defeat the purpose and object of the Act.	None
+12.	None
+The correctness of this view of the High Court is questioned for the appellant on the ground that there is no provision in the 1938 Act or even in the 1939 Act which provides that a moneylender who has been registered under S. 5 of the Act can lend money up to the limit mentioned in the registration certificate.	Reasoning
+In fact it is urged that the Act nowhere provides that an overall limit to the loan advanced by a registered moneylender can be fixed by the Government.	Reasoning
+When the Act does not provide so, the Government cannot, by rule, fix such a limit.	Reasoning
+Rule 3 requiring the moneylender to mention in his application the maximum amount of loan, i.e., the total amount of loans which may remain outstanding on any day during the period of the validity of the registration certificate and R. 3 (3) providing for an application for the registration certificate to mention the amount of loans for which the certificate is wanted, cannot, therefore, be said to be rules made for carrying out the purposes of the Act but were rules made for fiscal purposes.	Reasoning
+The registration fee payable under R. 4 is graded according to the maximum amount of loans for which the certificate was wanted.	Reasoning
+We consider the contention for the appellant sound.	Reasoning
+13.The mere ground that a certain construction of a rule or consideration of its effect will defeat the purpose or object of the Act is not a good ground for taking away the right of the moneylender to sue for the recovery of a debt due to him when the Act itself contains no provision authorising any limit to the loan which a moneylender may lend at a time or may not exceed by lending further loan if the amounts outstanding at the particular point of time had exceeded the limit laid down.	None
+Further, the preamble of the Act would not justify the inference that if the contention for the appellant is accepted, the object of the Act would be defeated.	None
+The preamble isWhereas it is expedient to regulate moneylending transactions and to grant relief to debtors in the Province of Bihar. . . . . .	None
+The moneylending transactions are to be regulated in order to grant relief to debtors.	None
+What reliefs were to be granted to debtors is apparent from the contends of the Act itself.	None
+The debtor is not granted relief by any provision with respect to the amount of loan he can borrow.	None
+He is to borrow an amount he actually requires.	None
+He is not given relief by statutorily curtailing his requirement for a loan but by enacting provisions which tend to protect him from being charged exorbitant interest, from any malpractice at the time of advancing money, from not accounting payments made by him and from other matters against his interests.	None
+Several sections of the Act indicate the measures for the relief of the judgment debtor which the legislature thought proper to enact.	None
+Section 7 lays down the duties of registered moneylenders to maintain accounts and give receipts.	None
+None of the duties mentioned in this section points to the registered moneylender not lending money in excess of any amount fixed for him as the maximum total amount of the loans he could advance at any time.	None
+The duties do not even require him to maintain any such register of account as would indicate to him at any point of time what the total outstanding amount of the loans is.	None
+Surely he cannot be expected to check up his accounts, find out the total amount of loans outstanding at any point of time and then to advance or not to advance a loan to a borrower.	None
+14.	None
+Chapter IV deals with penalty and procedure and consists of Ss. 19 to 21.	None
+Section 19 provides for cancellation of registration certificate on the report of the Court trying a suit to the Collector when the Court is of opinion that the registered moneylender has been guilty of fraud or of any contravention of the provisions of the Act or is otherwise unfit to carry on the business of moneylending.	None
+Section 20 provides penalty for the contravention of the provisions of S. 7, and S. 21 provides penalty for the moneylenders or his agents taking from a debtor at the time of advancing a loan or deducting out of the principal of such loan any salami, batta, gadiana or other executions of a similar nature by whatever name called or known.	None
+15.	None
+Section 23 makes any contract for the payment of the amount due on a loan at any place outside the State of Bihar void, and S. 24 provides for the deposit of money due on a loan in Court if the moneylender refuses to receive it or refuses to issue a receipt for the same.	None
+16.	None
+These various provisions of the Act amply indicate the kinds of relief which the legislature considered necessary to provide for the good of debtors and to achieve which the moneylending transactions were to be regulated.	None
+17. Subsection (4) of S. 5 of the Act provides that on receipt of an application for registration as a moneylender, the SubRegistrar must grant a registration certificate in the prescribed form to the applicant except when a certificate which had been previously granted to the applicant had been cancelled under S. 19 and the order of cancellation be in force at the time he applied for registration again.	None
+The absence of any discretion in the SubRegistrar who has authority to register persons as moneylenders to refuse registration in view of the applicants mentioning any fancy figure for the amount of loans for which he wants the certificate well indicates that the limit of the loans to be advanced do not figure as a factor of any significance in either regulating the moneylending transaction or in giving relief to a debtor 18.	Reasoning
+We are, therefore, of opinion that the High Court was in error in thinking that the object of the Act would be defeated if the registered moneylender could be held competent to lend money in excess of the maximum amount mentioned in the registration certificate.	Reasoning
+19.	None
+We have referred to the fact that the Act does not anywhere provide for the fixing of the upper limit for the loans remaining outstanding at any particular time.	Reasoning
+The rulemaking power of the Government does not extend to the fixing of such a limit.	Reasoning
+Section 27 empowers the State Government to prescribe inter alia the form of the registration certificate and the particulars to be contained in an application made for the purpose of being registered as a moneylender.	Reasoning
+It is significant to note that the rulemaking power given to the State Government is not expressed in the usual form, i.e., is not to the effect that the State Government may make rules for the purposes of the Act.	Reasoning
+The rulemaking power is limited to what is stated in Cls.	Reasoning
+(a) to (e) of S. 27 and these clauses do not empower the State Government to prescribe the limit upto which the loans advanced by a moneylender are to remain outstanding at any particular moment of time.	Reasoning
+20.	None
+It is contended for the respondents that S. 5 (1) (e) provides that every application for being registered as a moneylender is to state such other particulars as may be prescribed and that, therefore, an application had to mention the amount of the loan for which the certificate is wanted.	Reasoning
+The power to prescribe certain particulars for the purpose of an application cannot be deemed to include the power to fix the maximum amount of loans which a moneylender can have outstanding on any day.	Reasoning
+Rule 3 (iii) requires the application to mention the amount of loan for which the certificate is wanted.	Reasoning
+Strictly speaking, there is nothing in this expression to suggest to the applicant moneylender that he has to mention the maximum amount of loans which is to remain outstanding on any particular day.	Reasoning
+The rule do not even say that the registration of a moneylender for advancing loans upto a maximum amount mentioned in the certificate would make him a registered moneylender for loans upto the amount only.	Reasoning
+The facts that the rules require the amount of loans for which the certificate is wanted and that the form of the registration certificate provides for mentioning the limit of the moneylending business upto which the moneylender can transact business, do not necessarily amount to a provision that the moneylender would be deemed to be a nonregistered moneylender for the purposes of the amount of loan outstanding in excess of that limit.	Reasoning
+The moneylender when he advanced money in excess of the maximum limit may contravene the rule framed under the Act and if the Act provides any penalty for such contravention, may be liable for that penalty.	Reasoning
+In fact, Ss. 19 to 21 do not provide for penalty for contravening any rule.	Reasoning
+21.	None
+It is urged for the respondents that the State Government was competent to fix the maximum amount of loans to be advanced by a registered moneylender in view of subs.	Arguments of Respondent
+(3) of S. 5 which provides that the State Government may, by rules, prescribe for different clauses of moneylenders and for different areas a registration fee not exceeding Rs. 25 to be paid by an applicant for registration.	Arguments of Respondent
+It is said that the State Government could create different classes of moneylenders according to the amount of money they want to advance in loans.	Arguments of Respondent
+22.	None
+This provision does not empower the State Government to limit the maximum amount of loans to be given by moneylenders of any class.	Reasoning
+It could, however, as it actually did, prescribe different registration fees for different classes of moneylender according to the amount of money upto which they wanted to lend.	Reasoning
+The classification of moneylenders for the purposes of registration fee can be no justification for placing any limit on the maximum amount of loans they could have outstanding on a certain day, on penalty of being deprived of a right to sue for an amount lent in excess of such a maximum.	Reasoning
+23.	None
+We, therefore, hold that the State Government is not competent to make a rule fixing a maximum amount of outstanding loans on any day and that the rules framed do not provide that a moneylender properly registered as such under the Act will cease to be a moneylender so registered if he advances a loan in excess of the limit mentioned in the registration certificate.	Reasoning
+24.	None
+It has been urged for the respondent that the expression in S. 4 of the 1939 Act to the effect unless such moneylender was registered under the Bihar MoneyLenders Act, 1938 means unless such moneylender was properly registered under the Bihar MoneyLenders Act, 1938.	Reasoning
+There is nothing wrong in this view, but there is no impropriety in the registration of Bhanuprakash Lal a moneylender.	Reasoning
+His application must have been in accordance with the requirements of the Act and the rules.	Reasoning
+The registration certificate was issued to him in the ordinary course.	Reasoning
+Nothing has been shown why his registration as a moneylender be considered to be not proper registration or why it be held that he was not properly registered under the Act.	Reasoning
+The mere fact that he contravened any of the requirements of the licence or of any rule or even any provision of the Act does not mean that his registration as a moneylender under S. 5 of the Act was an improper registration.	Reasoning
+25.	None
+Lastly, it may be said that the view taken by the High Court necessitates the adding of the words and the loans advanced do not wholly or partly exceed the maximum amount upto which he was permitted by the registration certificate to transact moneylending business in S. 4 of the 1939 Act.	Reasoning
+There is no reason why such an addition be made to S. 4 and make the provision much more restricted in character.	Reasoning
+26.	None
+We, therefore, do not agree with the view expressed by the High Court and hold that a moneylender who has been registered under the Act can sue for the recovery of a loan advanced by him during the period his registration certificate is in force, even if at the time of advancing the loan he had exceeded the limit of the amount mentioned in the registration certificate as the amount upto which he could transact moneylending business.	Reasoning
+Under the provisions of the Act it is the de facto registration of the moneylender which entitles him to sue for the loan and not the contents of the registration certificate.	Reasoning
+27.	None
+We, therefore, allow the appeal and order that the decree of the Court below be modified to the effect that plaintiff No. 2 alone is entitled to a decree for Rs. 6,000 as against defendant No. 3 alone and that plaintiff No. 2 would be entitled to simple interest at 6 per cent per annum from the date of institution of the suit until realisation of the amount.	Decision
+We further order that plaintiff No. 2 will get his proportionate costs, from defendant No. 3 of the trial Court and full costs of the High Court and this Court.	Decision
+28.	None
+Appeal allowed.	None

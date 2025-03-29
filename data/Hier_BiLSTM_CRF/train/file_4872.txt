@@ -1,0 +1,284 @@
+ F. Nariman, J. 1.	None
+Leave granted.	None
+2.	None
+An interesting question arises as to whether an award delivered by an Arbitrator, which decides the issue of limitation, can be said to be an interim award, and whether such interim award can then be set aside under Section 34 of the Arbitration and Conciliation Act, 1996 (hereinafter referred to as the Act).	Issue
+The brief facts necessary to dispose of the present appeal are as follows.	None
+3.	None
+The appellant before us issued a tender enquiry to 19 parties, including the respondent, for supply of Defoamers.	Facts
+The respondent submitted its bid, pursuant to which a Letter of Intent dated 2nd November, 2006 was issued to the respondent for supply of 800 Metric Tonnes of Defoamers to be used for production of 3,08,880 Metric Tonnes of P2O5.	Facts
+By 11th April, 2007, the respondent had supplied 800 Metric Tonnes of Defoamers, however, they could not achieve the targeted production by the end of 1st November, 2007, which was the validity of the supply period.	Facts
+After considerable delay, on 6th June, 2011, the respondent issued a legal notice demanding payment of Rs.6,35,74,245/ on 27th September, 2012.	Facts
+The appellant made it clear that there was nothing due and payable to the respondent.	Facts
+Since disputes arose between the parties, on 1st October, 2014 the respondent invoked arbitration, and on 25th January, 2015, Justice Deepak Verma, a retired Judge of the Supreme Court, was appointed as the sole arbitrator.	Facts
+On 3rd March, 2015, issues were framed.	Facts
+On 23rd July, 2015, the learned Arbitrator thought it fit to take up the issue of limitation first, inasmuch as the counsel appearing for both the parties submitted that this issue could be decided on the basis of documentary evidence alone.	Facts
+This issue was then decided in favour of the claimant stating that their claims had not become time barred.	Facts
+A petition filed under Section 34 of the Act challenged the aforesaid award, styling it as the First Partial Award.	Facts
+On 8th October, 2015, the District Judge, Jagatsinghpur, dismissed the Section 34 Petition stating that the aforesaid award could not be said to be an interim award and that, therefore, the Court lacked jurisdiction to proceed further under Section 34 of the Act.	Facts
+The appeal to the High Court of Orissa was dismissed by the impugned order dated 30th June, 2017, reiterating the reasoning of the learned District Judge.	Facts
+4. Appearing on behalf of the appellant, Mr. K.K. Venugopal, learned Attorney General, has argued before us that the award made on 23rd July, 2015 is an interim award under the Act and would, therefore, be amenable to challenge under Section 34 of the Act as such.	Arguments of Petitioner
+He referred us to various provisions of the Act and buttressed his stand with reference to a number of judgments, including, in particular, the judgment of National Thermal Power Corpn.	Arguments of Petitioner
+Ltd. v. Siemens Atkeingesellschaft, (2007) 4 SCC 451.	Arguments of Petitioner
+He also referred us to various judgments on what constitutes an interim award and argued that, according to him, the point of limitation being one of the issues raised by the parties, was finally decided by the aforesaid award and would, therefore, be amenable to challenge.	Arguments of Petitioner
+5.	None
+Shri Ajit Kumar Sinha, learned senior advocate appearing on behalf of the respondent, also placed reliance on various sections of the Act, in particular Sections 16 and 37 thereof.	Arguments of Respondent
+According to the learned senior advocate, a ruling on the point of limitation is a ruling on jurisdiction and any finding thereon goes to the root of the case.	Arguments of Respondent
+This being the case, the drill of Section 16 has to be followed, and as the plea of limitation has been rejected by the learned Arbitrator, the arbitral proceedings have to continue further and the challenge has to be postponed only after all other issues have been decided.	Arguments of Respondent
+According to the learned senior advocate, the scheme of Section 37, in particular Section 37(2)(a), also makes it clear that appeals lie only from an order under Section 16 accepting the plea but not rejecting it.	Arguments of Respondent
+Also, according to the learned senior advocate, the present award cannot be said to be an interim award, but is merely an order passed under Section 16 of the Act.	Arguments of Respondent
+He also relied upon several judgments to buttress his point of view and relied heavily upon judgments which held that a decision on a point of limitation goes to jurisdiction in which case Section 16 of the Act would get attracted.	Arguments of Respondent
+6.	None
+Having heard learned counsel for both parties, it is important to first set out the relevant provisions of the Act, which are as under 2. Definitions.(1)	None
+In this Part, unless the context otherwise requires, (c) arbitral award includes an interim award	None
+xxx xxx	None
+xxx 16.	None
+Competence of arbitral tribunal to rule on its jurisdiction.	None
+(1) The arbitral tribunal may rule on its own jurisdiction, including ruling on any objections with respect to the existence or validity of the arbitration agreement, and for that purpose, (a) an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract and (b) a decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure the invalidity of the arbitration clause.	None
+(2) A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence however, a party shall not be precluded from raising such a plea merely because that he has appointed, or participated in the appointment of, an arbitrator.	None
+(3) A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings.	None
+(4) The arbitral tribunal may, in either of the cases referred to in subsection (2) or subsection (3), admit a later plea if it considers the delay justified.	None
+(5) The arbitral tribunal shall decide on a plea referred to in subsection (2) or subsection (3) and, where the arbitral tribunal takes a decision rejecting the plea, continue with the arbitral proceedings and make an arbitral award.	None
+(6) A party aggrieved by such an arbitral award may make an application for setting aside such an arbitral award in accordance with section 34.	None
+xxx	None
+xxx	None
+xxx 31.	None
+Form and contents of arbitral award.	None
+(6) The arbitral tribunal may, at any time during the arbitral proceedings, make an interim arbitral award on any matter with respect to which it may make a final arbitral award.	Reasoning
+xxx	None
+xxx	None
+xxx 32.	None
+Termination of proceedings.(1)	None
+The arbitral proceedings shall be terminated by the final arbitral award or by an order of the arbitral tribunal under subsection (2).	None
+xxx	None
+xxx xxx 37.	None
+Appealable orders.(1)	None
+An appeal shall lie from the following orders (and from no others) to the Court authorised by law to hear appeals from original decrees of the Court passing the order, namely (a) refusing to refer the parties to arbitration under section 8 (b) granting or refusing to grant any measure under section 9 (c) setting aside or refusing to set aside an arbitral award under section 34.	None
+(2) Appeal shall also lie to a court from an order of the arbitral tribunal (a) accepting the plea referred to in subsection (2) or subsection (3) of section 16 or (b) granting or refusing to grant an interim measure under section 17.	None
+(3) No second appeal shall lie from an order passed in appeal under this section, but nothing in this section shall affect or take away any right to appeal to the Supreme Court.	None
+7.	None
+The point at issue is a narrow one whether an award on the issue of limitation can first be said to be an interim award and, second, as to whether a decision on a point of limitation would go to jurisdiction and, therefore, be covered by Section 16 of the Act. 8.	Issue
+As can be seen from Section 2(c) and Section 31(6), except for stating that an arbitral award includes an interim award, the Act is silent and does not define what an interim award is.	Reasoning
+We are, therefore, left with Section 31(6) which delineates the scope of interim arbitral awards and states that the arbitral tribunal may make an interim arbitral award on any matter with respect to which it may make a final arbitral award.	Reasoning
+9.	None
+The language of Section 31(6) is advisedly wide in nature.	Reasoning
+A reading of the said subsection makes it clear that the jurisdiction to make an interim arbitral award is left to the good sense of the arbitral tribunal, and that it extends to any matter with respect to which it may make a final arbitral award.	Reasoning
+The expression matter is wide in nature, and subsumes issues at which the parties are in dispute.	Reasoning
+It is clear, therefore, that any point of dispute between the parties which has to be answered by the arbitral tribunal can be the subject matter of an interim arbitral award.	Reasoning
+However, it is important to add a note of caution.	Reasoning
+In an appropriate case, the issue of more than one award may be necessitated on the facts of that case.	Reasoning
+However, by dealing with the matter in a piecemeal fashion, what must be borne in mind is that the resolution of the dispute as a whole will be delayed and parties will be put to additional expense.	Reasoning
+The arbitral tribunal should, therefore, consider whether there is any real advantage in delivering interim awards or in proceeding with the matter as a whole and delivering one final award, bearing in mind the avoidance of delay and additional expense.	Reasoning
+Ultimately, a fair means for resolution of all disputes should be uppermost in the mind of the arbitral tribunal.	Reasoning
+10.	None
+To complete the scheme of the Act, Section 32(1) is also material.	None
+This section goes on to state that the arbitral proceedings would be terminated only by the final arbitral award, as opposed to an interim award, thus making it clear that there can be one or more interim awards, prior to a final award, which conclusively determine some of the issues between the parties, culminating in a final arbitral award which ultimately decides all remaining issues between the parties.	None
+11.	None
+The English Arbitration Act, 1996, throws some light on what is regarded as an interim award under English Law.	None
+Section 47 thereof states 47 Awards on different issues, c. (1) Unless otherwise agreed by the parties, the tribunal may make more than one award at different times on different aspects of the matters to be determined.	None
+(2) The tribunal may, in particular, make an award relating (a) to an issue affecting the whole claim, or (b) to a part only of the claims or crossclaims submitted to it for decision.	None
+(3) If the tribunal does so, it shall specify in its award the issue, or the claim or part of a claim, which is the subject matter of the award.	None
+12.	None
+By reading this section, it becomes clear that more than one award finally determining any particular issue before the arbitral tribunal can be made on different aspects of the matters to be determined.	None
+A preliminary issue affecting the whole claim would expressly be the subject matter of an interim award under the English Act.	None
+The English Act advisedly does not use the expression interim or partial, so as to make it clear that the award covered by Section 47 of the English Act would be a final determination of the particular issue that the arbitral tribunal has decided.	None
+13.	None
+In Exmar BV v National Iranian Tanker Co. 1992 1 Lloyds Rep. 169, an interim final award was made, which contained the decision that it would not issue any such award in the claimants favour pending determination of the respondents counter claims.	None
+Detailed reasons were given for this decision.	None
+The Judge, therefore, characterized the aforesaid award as an award finally deciding a particular issue between the parties, and concluded that as a result thereof, he had jurisdiction to review the tribunals decision.	None
+14.	None
+In Satwant Singh Sodhi v. State of Punjab (1999) 3 SCC 487 at 491 and 493, an interim award in respect of one particular item was made by the arbitrator in that case.	None
+The question before the Court was whether such award could be made the rule of the Court separately or could be said to have been superseded by a final award made on all the claims later.	None
+This Court held 6.	None
+The question whether interim award is final to the extent it goes or has effect till the final award is delivered will depend upon the form of the award.	None
+If the interim award is intended to have effect only so long as the final award is not delivered it will have the force of the interim award and it will cease to have effect after the final award is made.	None
+If, on the other hand, the interim award is intended to finally determine the rights of the parties it will have the force of a complete award and will have effect even after the final award is delivered.	None
+The terms of the award dated 26111992 do not indicate that the same is of interim nature.	None
+On the facts of the case, the Court then went on to hold 11.	None
+This Court in Rikhabdass v. Ballabhdas AIR 1962 SC 551 1962 Supp (1) SCR 475 held that once an award is made and signed by the arbitrator, the arbitrator becomes functus officio.	None
+In Juggilal Kamlapat v. General Fibre Dealers Ltd. AIR 1962 SC 1123 1962 Supp (2) SCR 101 this Court held that an arbitrator having signed his award becomes functus officio but that did not mean that in no circumstances could there be further arbitration proceedings where an award was set aside or that the same arbitrator could never have anything to do with the award with respect to the same dispute.	None
+Thus in the present case, it was not open to the arbitrator to redetermine the claim and make an award.	None
+Therefore, the view taken by the trial court that the earlier award made and written though signed was not pronounced but nevertheless had become complete and final, therefore, should be made the rule of the court appears to us to be correct with regard to Item 1 inasmuch as the claim in relation to Item 1 could not have been adjudicated by the arbitrator again and it has been rightly excluded from the second award made by the arbitrator on 2811994.	None
+Thus the view taken by the trial court on this aspect also appears to us to be correct.	None
+Therefore, the trial court has rightly ordered the award dated 2811994 to be the rule of the court except for Item 1 and in respect of which the award dated 26111992 was ordered to be the rule of the court.	None
+It is, thus, clear that the first award that was made that finally determined one issue between the parties, with respect to Item no.1 of the claim, was held to be an interim award inasmuch as it finally determined claim 1 between the parties and, therefore, could not be readjudicated all over again.	None
+15.	None
+In McDermott International Inc. v. Burn Standard Co. Ltd. (2006) 11 SCC 181 at page 211212, under the heading validity of the partial award, this Court held 68.	None
+The 1996 Act does not use the expression partial award.	None
+It uses interim award or final award.	None
+An award has been defined under Section 2(c) to include an interim award.	None
+Subsection (6) of Section 31 contemplates an interim award.	None
+An interim award in terms of the said provision is not one in respect of which a final award can be made, but it may be a final award on the matters covered thereby, but made at an interim stage.	None
+69.	None
+The learned arbitrator evolved the aforementioned procedure so as to enable the parties to address themselves as regards certain disputes at the first instance.	None
+As would appear from the partial award of the learned arbitrator, he deferred some claims.	None
+He further expressed his hope and trust that in relation to some claims, the parties would arrive at some sort of settlement having regard to the fact that ONGC directly or indirectly was involved therein.	None
+While in relation to some of the claims, a finality was attached to the award, certain claims were deferred so as to enable the learned arbitrator to advert thereto at a later stage.	None
+If the partial award answers the definition of the award, as envisaged under Section 2(c) of the 1996 Act, for all intent and purport, it would be a final award.	None
+In fact, the validity of the said award had also been questioned by BSCL by filing an objection in relation thereto.	None
+70.	None
+We cannot also lose sight of the fact that BSCL did not raise any objection before the arbitrator in relation to the jurisdiction of the arbitrator.	None
+A ground to that effect has also not been taken in its application under Section 34 of the Act.	None
+We, however, even otherwise do not agree with the contention of Mr Mitra that a partial award is akin to a preliminary decree.	None
+On the other hand, we are of the opinion that it is final in all respects with regard to disputes referred to the arbitrator which are subjectmatters of such award.	None
+We may add that some arbitrators instead and in place of using the expression interim award use the expression partial award.	None
+By reason thereof the nature and character of an award is not changed.	None
+As, for example, we may notice that in arbitral proceedings conducted under the Rules of Arbitration of the International Chamber of Commerce, the expression partial award is generally used by the arbitrators in place of interim award.	None
+In any view of the matter, BSCL is not in any way prejudiced.	None
+We may state that both the partial award and the final award are subjectmatter of challenge under Section 34 of the Act.	None
+The aforesaid judgment makes it clear that an interim award or partial award is a final award on matters covered therein made at an intermediate stage of the arbitral proceedings.	None
+16. Tested in the light of the statutory provisions and the case law cited above, it is clear that as the learned Arbitrator has disposed of one matter between the parties i.e. the issue of limitation finally, the award dated 23rd July, 2015 is an interim award within the meaning of Section 2(1)(c) of the Act and being subsumed within the expression arbitral award could, therefore, have been challenged under Section 34 of the Act.	Reasoning
+17.	None
+However, Shri Sinha has argued before us that the award dated 23rd July, 2015 being a ruling on the arbitral tribunals jurisdiction would fall within Section 16 of the Act, and inasmuch as the decision taken on the point of limitation was rejected, the drill of Section 16 must be followed in which case all other issues have to be decided first, and it is only after such issues are decided that such an award can be challenged under Section 34 of the Act.	Arguments of Respondent
+Section 16 of the Act lays down what, in arbitration law, is stated to be the Kompetenzkompetenz principle, viz.	None
+that an arbitral tribunal may rule on its own jurisdiction.	None
+At one time, the law was that the arbitrator, being a creature of the contract, could not rule on the existence or validity of the arbitration clause contained in the contract.	None
+This, however, gave way to the Kompetenz principle which was adopted by the UNCITRAL Model Law.	None
+Article 16 of the UNCITRAL Model Law, on which Section 16 of the Act is based, reads as follows Article 16.	None
+Competence of arbitral tribunal to rule on its jurisdiction (1) The arbitral tribunal may rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement.	None
+For that purpose, an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract.	None
+A decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure the invalidity of the arbitration clause.	None
+(2) A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence.	None
+A party is not precluded from raising such a plea by the fact that he has appointed, or participated in the appointment of, an arbitrator.	None
+A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings.	None
+The arbitral tribunal may, in either case, admit a later plea if it considers the delay justified.	None
+(3) The arbitral tribunal may rule on a plea referred to in paragraph (2) of this article either as a preliminary question or in an award on the merits.	None
+If the arbitral tribunal rules as a preliminary question that it has jurisdiction, any party may request, within thirty days after having received notice of that ruling, the court specified in article 6 to decide the matter, which decision shall be subject to no appeal while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.	None
+18.	None
+The Statement of Objects and Reasons of the Act expressly refers to the UNCITRAL Model Law in the following terms 3.	None
+Though the said UNCITRAL Model Law and Rules are intended to deal with international commercial arbitration and conciliation, they could, with appropriate modifications, serve as a model for legislation on domestic arbitration and conciliation.	None
+The present Bill seeks to consolidate and amend the law relating to domestic arbitration, international commercial arbitration, enforcement of foreign arbitral awards and to define the law relating to conciliation, taking into account the said UNCITRAL Model Law and Rules.	None
+19.	None
+It may be noticed that Section 16(1) to (4) are based on Article 16 of the UNCITRAL Model Law.	None
+The Kompetenz principle deals with the arbitral tribunals jurisdiction in the narrow sense of ruling on objections with respect to the existence or validity of the arbitration agreement.	None
+What is important to notice in the language of Section 16(1) is the fact that the arbitral tribunal may rule on its own jurisdiction, which makes it clear that it refers to whether the arbitral tribunal may embark upon an inquiry into the issues raised by parties to the dispute.	None
+20.	None
+Here again, the English Arbitration Act of 1996 throws some light on the problem before us.	None
+Sections 30 and 31 of the said Act read as under 30 Competence of tribunal to rule on its own jurisdiction.  	None
+(1) Unless otherwise agreed by the parties, the arbitral tribunal may rule on its own substantive jurisdiction, that is, as to (a) whether there is a valid arbitration agreement, (b) whether the tribunal is properly constituted, and (c) what matters have been submitted to arbitration in accordance with the arbitration agreement.	None
+(2) Any such ruling may be challenged by any available arbitral process of appeal or review or in accordance with the provisions of this Part.	None
+31 Objection to substantive jurisdiction of tribunal.  	None
+(1) An objection that the arbitral tribunal lacks substantive jurisdiction at the outset of the proceedings must be raised by a party not later than the time he takes the first step in the proceedings to contest the merits of any matter in relation to which he challenges the tribunals jurisdiction.	None
+A party is not precluded from raising such an objection by the fact that he has appointed or participated in the appointment of an arbitrator.	None
+(2) Any objection during the course of the arbitral proceedings that the arbitral tribunal is exceeding its substantive jurisdiction must be made as soon as possible after the matter alleged to be beyond its jurisdiction is raised.	None
+(3) The arbitral tribunal may admit an objection later than the time specified in subsection (1) or (2) if it considers the delay justified.	None
+(4) Where an objection is duly taken to the tribunals substantive jurisdiction and the tribunal has power to rule on its own jurisdiction, it may (a) rule on the matter in an award as to jurisdiction, or (b) deal with the objection in its award on the merits.	None
+If the parties agree which of these courses the tribunal should take, the tribunal shall proceed accordingly.	None
+(5) The tribunal may in any case, and shall if the parties so agree, stay proceedings whilst an application is made to the court under section 32 (determination of preliminary point of jurisdiction).	None
+These sections make it clear that the Kompetenz principle, which is also followed by the English Arbitration Act of 1996, is that the jurisdiction mentioned in Section 16 has reference to three things (1) as to whether there is the existence of a valid arbitration agreement (2) whether the arbitral tribunal is properly constituted and (3) matters submitted to arbitration should be in accordance with the arbitration agreement.	None
+21.	None
+That jurisdiction is a coat of many colours, and that the said word displays a certain colour depending upon the context in which it is mentioned, is wellsettled.	None
+In the classic sense, in Official Trustee v. Sachindra Nath Chatterjee, (1969) 3	None
+SCR 92 at 99, jurisdiction is stated to be In the order of Reference to a Full Bench in the case of Sukhlal v. Tara Chand (1905)	None
+ILR 33 Cal 68 it was stated that jurisdiction may be defined to be the power of a Court to hear and determine a cause, to adjudicate and exercise any judicial power in relation to it in other words, by jurisdiction is meant the authority which a Court has to decide matters that are litigated before it or to take cognizance of matters presented in a formal way for its decision.	None
+An examination of the cases in the books discloses numerous attempts to define the term jurisdiction, which has been stated to be the power to hear and determine issues of law and fact, the authority by which the judicial officer take cognizance of and decide causes the authority to hear and decide a legal controversy, the power to hear and determine the subjectmatter in controversy between parties to a suit and to adjudicate or exercise any judicial power over them the power to hear, determine and pronounce judgment on the issues before the Court the power or authority which is conferred upon a Court by the Legislature to hear and determine causes between parties and to carry the judgments into effect the power to enquire into the facts, to apply the law, to pronounce the judgment and to carry it into execution.	None
+(Mukherjee, Acting CJ, speaking for Full Bench of the Calcutta High Court in Hirday Nath Roy v. Ramachandra Barna Sarma ILR 68 Cal 138) 22.	None
+A Constitution Bench of this Court in Ittavira Mathai v. Varkey Varkey, (1964) 1	None
+SCR 495 at 501503, made a distinction between an erroneous decision on limitation being an error of law which is within the jurisdiction of the Court, and a decision where the Court acts without jurisdiction in the following terms The first point raised by Paikedy for the appellant is that the decree in OS No. 59 of 1093 obtained by Anantha Iyer and his brother in the suit on the hypothecation bond executed by Ittiyavira in favour of Ramalinga Iyer was a nullity because the suit was barred by time.	None
+In assuming that the suit was barred by time, it is difficult to appreciate the contention of learned counsel that the decree can be treated as a nullity and ignored in subsequent litigation.	None
+If the suit was barred by time and yet, the court decreed it, the court would be committing an illegality and therefore the aggrieved party would be entitled to have the decree set aside by preferring an appeal against it.	None
+But it is well settled that a court having jurisdiction over the subjectmatter of the suit and over the parties thereto, though bound to decide right may decide wrong and that even though it decided wrong it would not be doing something which it had no jurisdiction to do.	None
+It had the jurisdiction over the subjectmatter and it had the jurisdiction over the party and, therefore, merely because it made an error in deciding a vital issue in the suit, it cannot be said that it has acted beyond its jurisdiction.	None
+As has often been said, courts have jurisdiction to decide right or to decide wrong and even though they decide wrong, the decrees rendered by them cannot be treated as nullities.	None
+Learned counsel, however, referred us to the decision of the Privy Council in Maqbul Ahmad v. Onkar Pratap Narain Singh AIR (1935) PC 85 and contended that since the court is bound under the provisions of Section 3 of the Limitation Act to ascertain for itself whether the suit before it was within time, it would act without jurisdiction if it fails to do so.	None
+All that the decision relied upon says is that Section 3 of the Limitation Act is peremptory and that it is the duty of the court to take notice of this provision and give effect to it even though the point of limitation is not referred to in the pleadings.	None
+The Privy Council has not said that where the court fails to perform its duty, it acts without jurisdiction.	None
+If it fails to do its duty, it merely makes an error of law and an error of law can be corrected only in the manner laid down in the Civil Procedure Code.	None
+If the party aggrieved does not take appropriate steps to have that error corrected, the erroneous decree will hold good and will not be open to challenge on the basis of being a nullity.	None
+23.	None
+It is in this sense of the term that jurisdiction has been used in Section 16 of the Act.	None
+Indeed, in NTPC (supra) at 460461, a Division Bench of this Court, after setting out Sections 16 and 37 held 10.	None
+Now, the only question that remains to be decided in the present case is whether against the order of partial award an appeal is maintainable directly under Section 37 of the Act or not.	None
+We have considered the submissions of learned counsel for the appellant and after going through the counterclaim and the partial award, we are of the opinion that no question of jurisdiction arises in the matter so as to enable the appellant to file a direct appeal under Section 37 of the Act before the High Court.	None
+As already mentioned above, an appeal under subsection (2) of Section 37 only lies if there is an order passed under Sections 16(2) and (3) of the Act.	None
+Sections 16(2) and (3) deal with the exercise of jurisdiction.	None
+The plea of jurisdiction was not taken by the appellant.	None
+It was taken by the respondent in order to meet their counterclaim.	None
+But it was not in the context of the fact that the Tribunal had no jurisdiction, it was in the context that this question of counterclaim was no more open to be decided for the simple reason that all the issues which had been raised in Counterclaims 1 to 10 had already been settled in the minutes of meeting dated 642000/742000 and it was recorded that no other issues were to be resolved in first and third contracts.	None
+Therefore, we fail to understand how the question of jurisdiction was involved in the matter.	None
+In fact it was in the context of the fact that the entire counterclaims have already been satisfied and settled in the meeting that it was concluded that no further issues remained to be settled.	None
+In this context, the counterclaims filed by the appellant were opposed.	None
+If any grievance was there, that should have been (sic raised) by the respondent and not by the appellant.	None
+It is only the finding of fact recorded by the Tribunal after considering the counterclaim visvis the minutes of meeting dated 642000/742000.	None
+Therefore, there was no question of jurisdiction involved in the matter so as to enable the appellant to approach the High Court directly.	None
+Interestingly, in a separate concurring judgment, P.K. Balasubramanyan, J., held 17.	None
+In the larger sense, any refusal to go into the merits of a claim may be in the realm of jurisdiction.	None
+Even the dismissal of the claim as barred by limitation may in a sense touch on the jurisdiction of the court or tribunal.	None
+When a claim is dismissed on the ground of it being barred by limitation, it will be, in a sense, a case of the court or tribunal refusing to exercise jurisdiction to go into the merits of the claim.	None
+In Pandurang Dhoni Chougule v. Maruti Hari Jadhav AIR 1996 SC 153 (1996) 1	None
+SCR 102 this Court observed that (AIR p. 155, para 10)	None
+It is well settled that a plea of limitation or a plea of res judicata is a plea of law which concerns the jurisdiction of the court which tries the proceedings.	None
+A finding on these pleas in favour of the party raising them would oust the jurisdiction of the court, and so, an erroneous decision on these pleas can be said to be concerned with questions of jurisdiction which fall within the purview of Section 115 of the Code.	None
+In a particular sense, therefore, any declining to go into the merits of a claim could be said to be a case of refusal to exercise jurisdiction.	None
+18.	None
+The expression jurisdiction is a word of many hues.	None
+Its colour is to be discerned from the setting in which it is used.	None
+When we look at Section 16 of the Act, we find that the said provision is one, which deals with the competence of the Arbitral Tribunal to rule on its own jurisdiction.	None
+SBP Co. v. Patel Engg.	None
+Ltd.	None
+(2005) 8 SCC 618 in a sense confined the operation of Section 16 to cases where the Arbitral Tribunal was constituted at the instance of the parties to the contract without reference to the Chief Justice under Section 11(6) of the Act.	None
+In a case where the parties had thus constituted the Arbitral Tribunal without recourse to Section 11(6) of the Act, they still have the right to question the jurisdiction of the Arbitral Tribunal including the right to invite a ruling on any objection with respect to the existence or validity of the arbitration agreement.	None
+It could therefore rule that there existed no arbitration agreement, that the arbitration agreement was not valid, or that the arbitration agreement did not confer jurisdiction on the Tribunal to adjudicate upon the particular claim that is put forward before it.	None
+Under subsection (5), it has the obligation to decide the plea and where it rejects the plea, it could continue with the arbitral proceedings and make the award.	None
+Under subsection (6), a party aggrieved by such an arbitral award may make an application for setting aside such arbitral award in accordance with Section 34.	None
+In other words, in the challenge to the award, the party aggrieved could raise the contention that the Tribunal had no jurisdiction to pass it or that it had exceeded its authority, in passing it.	None
+This happens when the Tribunal proceeds to pass an award.	None
+It is in the context of the various subsections of Section 16 that one has to understand the content of the expression jurisdiction and the scope of the appeal provision.	None
+In a case where the Arbitral Tribunal proceeds to pass an award after overruling the objection relating to jurisdiction, it is clear from subsection (6) of Section 16 that the parties have to resort to Section 34 of the Act to get rid of that award, if possible.	None
+But, if the Tribunal declines jurisdiction or declines to pass an award and dismisses the arbitral proceedings, the party aggrieved is not without a remedy.	None
+Section 37(2) deals with such a situation.	None
+Where the plea of absence of jurisdiction or a claim being in excess of jurisdiction is accepted by the Arbitral Tribunal and it refuses to go into the merits of the claim by declining jurisdiction, a direct appeal is provided.	None
+In the context of Section 16 and the specific wording of Section 37(2)(a) of the Act, it would be appropriate to hold that what is made directly appealable by Section 37(2)(a) of the Act is only an acceptance of a plea of absence of jurisdiction, or of excessive exercise of jurisdiction and the refusal to proceed further either wholly or partly.	None
+19.	None
+In a case where a counterclaim is referred to and dealt with and a plea that the counterclaim does not survive in view of the settlement of disputes between the parties earlier arrived at is accepted, it could not be held to be a case of refusal to exercise jurisdiction by the Arbitral Tribunal.	None
+Same is the position when an Arbitral Tribunal finds that a claim was dead and was not available to be made at the relevant time or that the claim was not maintainable for other valid reasons or that the claim was barred by limitation.	None
+They are all adjudications by the Tribunal on the merits of the claim and in such a case the aggrieved party can have recourse only to Section 34 of the Act and will have to succeed on establishing any of the grounds available under that provision.	None
+It would not be open to that party to take up the position that by refusing to go into the merits of his claim, the Arbitral Tribunal had upheld a plea that it does not have jurisdiction to entertain the claim and hence the award or order made by it, comes within the purview of Section 16(2) of the Act and consequently is appealable under Section 37(2) (a) of the Act.	None
+(at pages 463464) 24.	None
+This judgment is determinative of the issue at hand and has our respectful concurrence.	None
+However, various judgments were referred to by learned senior advocate appearing on behalf of the respondent, in which jurisdiction in the wide sense was used.	None
+Thus, a jurisdictional error under Section 115 of the Code of Civil Procedure, 1908, dealing with revision petitions, was held to include questions which relate to res judicata and limitation.	None
+See Pandurang Dhoni Chougule v. Maruti Hari Jadhav (1966) 1	None
+SCR 102 at 107).	None
+25.	None
+This judgment was expressly referred to in the context of Anisminic v. Foreign Compensation Commission, (1969) 2 AC 147, delivered in England, which virtually made all errors of law errors of jurisdiction in the Administrative Law sphere and explained in M.L. Sethi v. R.P. Kapur, (1972) 2 SCC 427 at 435 as under The dicta of the majority of the House of Lords in the above case would show the extent to which lack and excess of jurisdiction have been assimilated or, in other words, the extent to which we have moved away from the traditional concept of jurisdiction.	None
+The effect of the dicta in that case is to reduce the difference between jurisdictional error and error of law within jurisdiction almost to vanishing point.	None
+The practical effect of the decision is that any error of law can be reckoned as jurisdictional.	None
+This comes perilously close to saying that there is jurisdiction if the decision is right in law but none if it is wrong.	None
+Almost any misconstruction of a statute can be represented as basing their decision on a matter with which they have no right to deal, imposing an unwarranted condition or addressing themselves to a wrong question.	None
+The majority opinion in the case leaves a Court or Tribunal with virtually no margin of legal error.	None
+Whether there is excess of jurisdiction or merely error within jurisdiction can be determined only by construing the empowering statute, which will give little guidance.	None
+It is really a question of how much latitude the court is prepared to allow.	None
+In the end it can only be a value judgment (see H.N.R. Wade, Constitutional and Administrative Aspects of the Anisminic case.	None
+Law Quarterly Review, Vol. 85,1969, p. 198).	None
+Why is it that a wrong decision on a question of limitation or res judicata was treated as a jurisdictional error and liable to be interfered with in revision?	None
+It is a bit difficult to understand how an erroneous decision on a question of limitation or res judicata would oust the jurisdiction of the court in the primitive sense of the term and render the decision or a decree embodying the decision a nullity liable to collateral attack.	None
+The reason can only be that the error of law was considered as vital by the court.	None
+And there is no yardstick to determine the magnitude of the error other than the opinion of the Court 26.	None
+Likewise, in Hari Prasad Mulshanker Trivedi v. V.B. Raju (1974) 3 SCC 415 at 423424, a Constitution Bench of this Court again referred to the blurring of lines between errors of law and errors of jurisdiction found in Anisminic (supra) as follows Though the dividing line between lack of jurisdiction or power and erroneous exercise of it has become thin with the decision of the House of Lords in the Anisminic case, (1967) 3 WLR 382 we do not think that the distinction between the two has been completely wiped out.	None
+We are aware of the difficulty in formulating an exhaustive rule to tell when there is lack of power and when there is an erroneous exercise of it.	None
+The difficulty has arisen because the word jurisdiction is an expression which is used in a variety of senses and takes its colour from its context, (see per Diplock, J., at p. 394 in the Anisminic case).	None
+Whereas the pure theory of jurisdiction would reduce jurisdictional control to a vanishing point, the adoption of a narrower meaning might result in a more useful legal concept even though the formal structure of law may lose something of its logical symmetry.	None
+At bottom the problem of defining the concept of jurisdiction for purpose of judicial review has been one of public policy rather than one of logic.	None
+S. A. Smith Judicial Review of Administrative Action, 2nd Edn., p. 98	None
+And viewed from the aspect of public policy as reflected in the provisions of the 1950 and 1951 Acts, we do not think that a wrong decision on a question of ordinary residence for the purpose of entering a persons name in the electoral roll should be treated as a jurisdictional error which can be judicially reviewed either in a civil court or before an election tribunal.	None
+27.	None
+In ITW Signode India Ltd. v. CCE (2004) 3 SCC 48 at 74, a case strongly relied upon by Shri Sinha, this Court held in the context of limitation qua recovery of duty under Section 11A of the Central Excise Act, 1944 as follows 69.	None
+The question of limitation involves a question of jurisdiction.	None
+The finding of fact on the question of jurisdiction would be a jurisdictional fact.	None
+Such a jurisdictional question is to be determined having regard to both fact and law involved therein.	None
+The Tribunal, in our opinion, committed a manifest error in not determining the said question, particularly, when in the absence of any finding of fact that such shortlevy of excise duty related to any positive act on the part of the appellant by way of fraud, collusion, wilful misstatement or suppression of facts, the extended period of limitation could not have been invoked and in that view of the matter no showcause notice in terms of Rule 10 could have been issued.	None
+28.	None
+Given the context of Section 11A of the Central Excise Act, 1944, obviously the expression jurisdiction would mean something more than merely being able to embark on the merits of a dispute.	Reasoning
+In a recent judgment under Section 9A of the Code of Civil Procedure, 1908 (as inserted by the State of Maharashtra), this Court in Foreshore Coop.	None
+Housing Society Ltd. v. Praveen D. Desai (2015) 6 SCC 412 , referred to the expression jurisdiction occurring in Section 9A and held an earlier judgment of this Court to be per incuriam.	None
+Though the Constitution Bench judgment in Ittavira (supra) was mentioned by the Bench, referring to the argument of one of the counsel for the parties, in the concluding portion, this judgment is not referred to at all.	None
+In any case, the reasoning of the Court in that case was in the context of Section 9A which, when contrasted with Order XIV of the Code of Civil Procedure, 1908, made the Court accept the wider concept of jurisdiction as laid down in Pandurang (supra).	None
+29.	None
+In our view, therefore, it is clear that the award dated 23rd July, 2015 is an interim award, which being an arbitral award, can be challenged separately and independently under Section 34 of the Act.	Reasoning
+We are of the view that such an award, which does not relate to the arbitral tribunals own jurisdiction under Section 16, does not have to follow the drill of Section 16(5) and (6) of the Act.	Reasoning
+Having said this, we are of the view that Parliament may consider amending Section 34 of the Act so as to consolidate all interim awards together with the final arbitral award, so that one challenge under Section 34 can be made after delivery of the final arbitral award.	Reasoning
+Piecemeal challenges like piecemeal awards lead to unnecessary delay and additional expense.	Reasoning
+30.	None
+The appeal is, accordingly, allowed and the impugned judgment is set aside.	Decision
+The Section 34 proceedings before the District Judge, Jagatsinghpur may now be decided.	Decision
+There shall, however, be no order as to costs.	Decision

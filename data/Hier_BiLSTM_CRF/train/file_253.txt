@@ -1,0 +1,126 @@
+ F. Nariman, J. This matter has come before us on a reference made by a Division Bench of this Court in Commissioner of Central Excise, Vadodara vs. Gujarat Narmada Valley Fertilizers Company Limited, (2013) 15 SCC 336 as follows ?	Issue
+15.	None
+There is an apparent conflict between GSFCL and Gujarat Narmada.	None
+In GSFCL a view has been taken that MODVAT credit can be taken on LSHS used in the manufacture of fertilizer exempt from duty.	Issue
+Although this decision was rendered in the context of availing MODVAT credit under the Central Excise Rules, 1944 as they existed prior to the promulgation of the CENVAT Credit Rules, 2002 the principle of law laid down is general and not specific to the Central Excise Rules, 1944.	Issue
+The decision rendered in Gujarat Narmada has been rendered in the context of the CENVAT Credit Rules, 2002 and is, therefore, more apposite.	Issue
+However, since GSFCL does lay down a general principle of law, we have no option but to refer the issue to a larger Bench to resolve the conflict between GSFCL and Gujarat Narmada.	Issue
+The conflict to be resolved is whether under the CENVAT Credit Rules, 2002 an assessee is entitled to claim CENVAT credit on dutypaid LSHS utilized as an input in the manufacture of fertilizer exempt from duty.?	Issue
+The facts that are necessary in order to appreciate the reference so made are set out in the reference order itself as follows The assessee utilizes CENVAT dutypaid Low Sulphur Heavy Stock (for short ?LSHS?) as fuel input for generating steam.	Facts
+The steam so generated is utilized to generate electricity for the manufacture of fertilizer which is exempt from excise duty.	Facts
+According to the assessee, it is entitled to claim CENVAT credit on the input, that is, LSHS even though fertilizer is exempt from excise duty.	Facts
+The correctness of this view was disputed by the Revenue.	Facts
+2.	None
+Consequently, the Commissioner, Central Excise Customs, VadodaraII (hereinafter referred to as ?	None
+the Commissioner?) issued two notices to the assessee to show cause why CENVAT credit wrongly availed by it should not be recovered under Rule 12 of the CENVAT Credit Rules, 2002 (hereinafter referred to as ?	None
+the Rules?) read with Section 11A of the Central Excise Act, 1944.	Facts
+The assessee was also required to show cause why interest be not recovered on the wrongly availed CENVAT credit and why penalty be not imposed on it.	Facts
+3.	None
+The first showcause notice issued to the assessee was dated 832004 and pertained to the period 3132003 to September 2003 while the second showcause notice was dated 2872004 and was for the period October 2003 to March 2004.	Facts
+The assessee replied to both the showcause notices and after giving the assessee an opportunity of hearing, the Commissioner adjudicated the first showcause notice by passing an order adverse to the assessee on 2462004.	Facts
+The second showcause notice was similarly adjudicated and an adverse order passed on 3082004.	Facts
+By these orders, the Commissioner confirmed the demand of CENVAT credit wrongly claimed by the assessee.	Facts
+The Commissioner also directed the assessee to pay interest on the demanded amount and also imposed personal penalty under Rule 13 of the Rules.	Facts
+Proceedings before the Tribunal 4.	None
+Feeling aggrieved, the assessee preferred two appeals before the Customs, Excise Service Tax Appellate Tribunal at Mumbai (hereinafter referred to as ?the Tribunal?).	Facts
+The appeals were numbered as Appeal Nos.	Facts
+E/2517 of 2004 and E/3672 of 2004.	None
+5.	None
+For reasons that are not apparent from the record, both appeals were referred to a larger Bench and heard by the VicePresident and two members of the Tribunal (hereinafter referred to for convenience as ?	Facts
+the larger Bench?).	Facts
+By an order dated 27122006/412007 (Gujarat Narmada Valley Fertilizers Co. Ltd. v. CCE, (2007) 208 ELT 342 (Tri), the larger Bench held that the assessee was entitled to claim CENVAT credit on LSHS used as input for producing steam and electricity for the manufacture of fertilizer.	Facts
+According to the larger Bench, the issue raised by the assessee was fully covered in its favour by a decision of the Tribunal in Gujarat Narmada Fertilizers Co. Ltd. v. CCE, (2004) 176 ELT 200 (Tri) against which the Revenue?s appeal before the Gujarat High Court was dismissed since no substantial question of law arose.	Facts
+The decision of the Gujarat High Court is CCE and Customs v. Gujarat Narmada Fertilizers Co. Ltd., (2006) 193 ELT 136 (Guj) .	Facts
+6.	None
+The Tribunal was, therefore, of the opinion that the issue was no longer res integra and the decision earlier rendered by the Tribunal was binding upon the parties.	Facts
+The reference made to the larger Bench was then answered in the following terms?The reference is thus answered by holding that the assessees are eligible to CENVAT credit of duty paid on that quantity of LSHS which was used for producing steam and electricity used in turn in relation to manufacture of exempted goods, namely fertilizers.?	Facts
+Pursuant to the decision of the larger Bench, the substantive appeals were placed before a Division Bench of the Tribunal.	Facts
+By an order dated 1042008 (Gujarat Narmada Valley Fertilizers Co. Ltd. v. CCE, Appeals Nos. E/2517 of 2004 3672 of 2004, order dated 1042008 (Tri) (impugned before us) the Division Bench of the Tribunal allowed the assessee?s appeals relying on the decision of the larger Bench.?	Facts
+The impugned order in the present case, which is dated 10.04.2008 only refers to and follows the larger Bench of the Customs, Excise Service Tax Appellate Tribunal judgment dated 27.12.2006 which, in turn, followed the judgment of a single Judge of the Gujarat High Court reported as CCE and Customs vs. Gujarat Narmada Fertilizers Co. Ltd., (2006) 193 ELT 136 (Guj) .	Facts
+We may indicate that both the larger Bench judgment, in appeal before this Court, as well as the said Gujarat High Court, have been overruled by the judgment of this Court in Commissioner of Central Excise vs. Gujarat Narmada Fertilizers Co. Ltd., (2009) 9 SCC 101.	Facts
+4.	None
+Mr. Dhruv Agarwal, learned Senior Advocate appearing on behalf of the Revenue, has placed before us the reference order i.e. the judgment reported as (2009) 9 SCC 101 CCE v. Gujarat Narmada Fertilizers Co. Ltd., (supra) together with the judgment reported in Commissioner of Central Excise, Vadodara vs. Gujarat State Fertilizers and Chemicals Ltd., (2008) 15 SCC 46 as also the two Appellate Tribunal?s judgments in Ballarpur Industries Ltd. vs. Collector of Central Excise (2000) 116 ELT 312 (Tri) and Raymond Ltd. vs. Commissioner of Central Excise (2000) 37 RLT 447 (CEGAT) which were expressly approved by this Court in Commissioner of Central Excise, Vadodara vs. Gujarat State Fertilizers and Chemicals Ltd., (2008) 15 SCC 46.	Arguments of Petitioner
+The learned Senior Advocate then placed the MODVAT Rules which existed prior to the coming into force of the CENVAT Credit Rules on which these judgments were based and argued that Rule 57A to 57D of the MODVAT Rules were different from Rule 6(1) and (2) of the CENVAT Credit Rules which need to be interpreted in the facts of this case, in that the scheme under the MODVAT Rules dealt with inputs which resulted in intermediate and final products, as opposed to the CENVAT Credit Rules which deals with inputs which finally end up as exempted products, perhaps together with dutiable goods.	Arguments of Petitioner
+According to him, the ratio of the two Appellate Tribunal judgments are completely different from the ratio of this Court?s judgment in (2009) 9 SCC 101 CCE vs. Gujarat Narmada Fertilizers Co. Ltd., (supra) and consequently the Division Bench which referred to the matter to us ought not to have referred the matter at all as there is, in fact, no conflict between the ratio of these two Appellate Tribunal?s judgments as approved in Commissioner of Central Excise, Vadodara vs. Gujarat State Fertilizers and Chemicals Ltd., (2008) 15 SCC 46 and this Court?s judgment in (2009) 9 SCC 101 CCE vs. Gujarat Narmada Fertilizers Co. Ltd., (supra).	Arguments of Petitioner
+Mr. Dushyant Dave, learned Senior Advocate appearing on behalf of the respondent has, however, placed a judgment of this Court in which it was stated that the MODVAT scheme and the CENVAT Credit Rules and the successor CENVAT Credit Rules were not different, as a general rule, and, therefore, differences should not be found between the earlier scheme and the scheme of Rule 6(1) (2) when, in fact, there is none.	Arguments of Respondent
+He relied on this Court?s judgment in Collector of Central Excise and Others vs. Solaris Chemtech Ltd. and Others (2007) 7 SCC 347 and also argued that quite apart from the reference made, the judgment of this Court in (2009) 9 SCC 101 CCE vs. Gujarat Narmada Fertilizers Co. Ltd., (supra) was incorrect in that it failed to notice the last part of Rule 6(1) which stated that the rule will not apply in cases covered by subrule (2) of Rule 6 of the CENVAT Credit Rules.	Arguments of Respondent
+He also argued that the exception so far as the input was fuel that is contained in Rule 6(2) was so inserted to make it clear that the moment an input is used as fuel, only the procedure of subrule (2) would not apply and, in point of fact, therefore, inputs which are fuels would be outside the ken of subrule (1) as well.	Arguments of Respondent
+He also exhorted us to accept the consistent view of the Tribunal in all these cases that where inputs are fuel inputs and they result in the manufacture of intermediate products which, in turn, result in the manufacture of excise free and dutiable goods, fuel as an input is kept outside the scheme of Rule 6 so that excise duty does not get attracted in such cases.	Arguments of Respondent
+Having heard learned counsel for both sides, it is important first to set out the MODVAT Rules as they obtained prior to the CENVAT Credit Rules of 2002.	None
+Rule 57B(1) of the MODVAT Rules reads as follows ?	None
+Rule 57B. Eligibility of credit of duty on certain inputs.	None
+Notwithstanding anything contained in rule 57A, the manufacturer of final products shall be allowed to take credit of the specified duty paid on the following inputs, used in or in relation to the manufacture of the final products, whether directly or indirectly and whether contained in the final products or not, namely inputs which are manufactured and used within the factory of production (ii) paints inputs used as fuel inputs used for generation of electricity or steam, used for manufacture of final products or for any other purpose, within the factory of production packing materials and materials from which such packing materials are made provided the cost of such packing materials is included in the value of the final product accessories of the final product cleared alongwith such final product, the value of which is included in the assessable value of the final product.	None
+Explanation.	None
+For the purposes of this subrule, it is hereby clarified that the term inputs?	None
+refers only to such inputs as may be specified in a notification issued under rule 57A.?	None
+As opposed to this, Rule 6 of the CENVAT Credit Rules, 2002 which is set out in (2009) 9 SCC 101 CCE vs. Gujarat Narmada Fertilizers Co. Ltd., (supra) reads as follows ?	None
+6.	None
+Obligation of manufacturer of dutiable and exempted goods.	None
+1.	None
+The CENVAT credit shall not be allowed on such quantity of inputs which is used in the manufacture of exempted goods, except in the circumstances mentioned in subrule (2).	None
+Provided the CENVAT credit on inputs shall not be denied to jobworker referred to in Rule 12B of the Central Excise Rules, 2002 on the ground that the said inputs are used in the manufacture of goods cleared without payment of duty under the provisions of that Rule.	None
+Where a manufacturer avails of CENVAT credit in respect of any inputs, except inputs intended to be used as fuel, and manufactures such final products which are chargeable to duty as well as exempted goods, then, the manufacturer shall maintain separate accounts for receipt, consumption and inventory of inputs meant for use in the manufacture of dutiable final products and the quantity of inputs meant for use in the manufacture of exempted goods and take CENVAT credit only on that quantity of inputs which is intended for use in the manufacture of dutiable goods.?	None
+This Court in (2009) 9 SCC 101 CCE vs. Gujarat Narmada Fertilizers Co. Ltd., (supra), after setting out the Central Excise MODVAT Rules as they stood in 2000, together with the CENVAT Credit Rules, then went on to hold ?	None
+15.	None
+As can be seen from the submissions, the contention of the assessee is that exclusion of fuel inputs from the purview of subrule (2) of Rule 6 would mean that such inputs are also automatically excluded from subrule (1) whereas according to the Department subrule (1) is a general rule which provides, that except for the circumstances mentioned in subrule (2), CENVAT credit shall not be allowed on such quantity of inputs used in the manufacture of exempted goods and even though fuelinputs are excluded from sub rule (2), such inputs would still fall under sub rule (1).	None
+In our view, subrule (1) is plenary.	None
+It restates a principle, namely, that CENVAT credit for duty paid on inputs used in the manufacture of exempted final products is not allowable.	Reasoning
+This principle is inbuilt in the very structure of the CENVAT scheme.	None
+Subrule (1), therefore, merely highlights that principle.	None
+Subrule (1) covers all inputs, including fuel, whereas subrule (2) refers to nonfuel inputs.	None
+Subrule (2) covers a situation where common cenvatted inputs are used in or in relation to manufacture of dutiable final product and exempted final product but the fuel input is excluded from that subrule.	None
+However, exclusion of fuel input visavis nonfuel input would still fall in subrule (1).	None
+As stated above, subrule (1) is plenary, hence, it cannot be said that because subrule (2) is inapplicable to fuelinput(s), CENVAT credit is automatically available to such inputs even if they are used in the manufacture of exempted goods.	None
+The cumulative reading of subrules (1) and (2) makes it abundantly clear that the circumstances specified in subrule (2), which inter alia requires separate accounting of inputs, are not applicable to the fuel input(s).	None
+However, the said subrule (2) nowhere says that the legal effect of subrule (1) will stand terminated in respect of fuel inputs which do not fall in sub rule (2).	None
+In other words, the legal effect of sub rule (1) has to be applied to all inputs including fuel inputs, only exception being nonfuel inputs, for which one has to maintain separate accounts or in its absence pay 8/10 of the total price of the exempted final products.	None
+Therefore, subrule (1) shall apply in respect of goods used as fuel and on such application, the credit will not be permissible on such quantity of fuel which is used in the manufacture of exempted goods.	None
+In our view, the above aspect has not been properly appreciated by the Gujarat High Court in Gujarat Narmada (2006) 9 SCC 193.	None
+For the above reasons, we find merit in the Departments civil appeals.?	None
+Thus, the finding of this Court restates an important principle under the CENVAT Credit Rules, and which is inbuilt in the structure of the CENVAT Credit scheme, which is that Cenvat credit for duty paid on inputs used in the manufacture of exempted final products cannot be allowed.	Reasoning
+It is only a reflection of this larger principle which is contained in Rule 6.	Reasoning
+When Rule 6(1) says that the CENVAT Credit shall not be allowed on such quantity of inputs which is used in the manufacture of exempted goods, it relies upon the definition of ?inputs? contained in these Rules which certainly include LSHS and steam and electricity that are produced in the manufacturing process utilizing LSHS.	Reasoning
+The exception that is contained in subrule (2) refers to all inputs except inputs intended to be used as fuel which then results in the manufacture of final products which are both chargeable to duty as well as exempted goods.	Reasoning
+What is clear is that the exception to subrule (1) which is contained in subrule (2) itself contains an exception, namely, inputs intended to be used as fuel.	Reasoning
+This being the case, the moment it is found that inputs are intended to be used as fuel, such inputs go outside the ken of subrule (2) of Rule 6.	Reasoning
+When this happens, the exception contained in subrule (2) does not come into effect at all as a result of which subrule (1) must be applied on its own terms.	Reasoning
+We have now to see the judgment of this Court in Commissioner of Central Excise, Vadodara vs. Gujarat State Fertilizers and Chemicals Ltd., (2008) 15 SCC 46.	None
+This judgment has only upheld two Tribunal judgments, one contained in Ballarpur Industries Ltd. (supra) and the other contained in Raymond Ltd. (supra).	None
+When we come to the judgment in Ballarpur Industries Ltd. (supra), the Tribunal was concerned with the interpretation of Rule 57AD of the Central Excise Rules as they stood prior to 16.03.1995.	Reasoning
+The bone of contention in this case was that electricity not being excisable goods at all cannot be considered to be an intermediate product for the purpose of exempting from duty final products in which electricity is an intermediate product.	Reasoning
+The Tribunal held that fuel oils for generation of electricity which is used for manufacture of final products by the assessee is eligible to MODVAT credit in terms of Rule 57A.	Reasoning
+It can thus be seen that the issue in Ballarpur Industries Ltd. (supra) was different from the issue in the present case, as was Rule 57AD of the MODVAT Rules being different from Rule 6 of the CENVAT Credit Rules.	Reasoning
+Equally, the judgment in Raymond Ltd. (supra) concerned itself with Rule 57A, C and D in which it construed the meaning of the expression ?	Reasoning
+for any other purpose? contained in Rule 57A in para 12.	Reasoning
+The ratio of this judgment is also therefore far removed from the facts of the present case as the present case does not deal with the expression ?	Reasoning
+for any other purpose?.	None
+We now come to the judgment of this Court in Vikram Cement vs. Commissioner of Central Excise, Indore, (2006) 2 SCC 351 , which was strongly relied upon by Mr. Dushyant Dave, learned Senior Advocate, in particular, para 24 of the judgment which reads as follows ?	None
+24.	None
+The schemes of MODVAT and CENVAT credit are not therefore different and we are unable to agree with the conclusion of the Court in J.K. Udaipur Udyog, (2004) 7 SCC 344.?	Reasoning
+Considering that the CENVAT Credit Rules are the successor rules to the MODVAT Rules, as a general statement, the scheme contained in both the MODVAT as well as the CENVAT scheme may well be similar.	Reasoning
+However, that does not answer the precise question before us.	Reasoning
+Mr. Dave relied upon Solaris Chemtech Ltd., (supra) in which Rule 57A of the MODVAT Rules came up for construction.	Reasoning
+This judgment again went into what was the correct interpretation of the expression ?	None
+in or in relation to the manufacturer of final products?	None
+and the definition of ?inputs?	Reasoning
+for the purpose of Rule 57A. Having gone into these two aspects of Rule 57A, para 15 then lays down the law as follows ?	None
+15.	None
+In the present case, LSHS is used to generate electricity which is captively consumed.	None
+Without continuous supply of such electricity generated in the plant it is not possible to manufacture cement, caustic soda, etc.	None
+Without such supply the process of electrolysis was not possible.	None
+Therefore, keeping in mind the expression ?	None
+used in relation to the manufacture?	None
+in Rule 57A we are of the view that the assessees were entitled to MODVAT credit on LSHS.	None
+In our opinion, the present case falls in Clause (c), therefore, the assessees were entitled to MODVAT credit under Explanation clause (c) even before 1631995.	None
+Inputs used for generation of electricity will qualify for MODVAT credit only if they are used in or in relation to the manufacture of the final product, such as cement, caustic soda, etc.	None
+Therefore, it is not correct to state that inputs used as fuel for generation of electricity captively consumed will not be covered as inputs under Rule 57A.?	None
+This judgment again does not take the respondent?s case any further.	None
+As we have seen, the issue in this case was entirely different, electricity not being an excisable item which is captively consumed and used to manufacture cement caustic soda was held nonetheless to be used in relation to the ?manufacturer?	Reasoning
+of the final product.	Reasoning
+The issue in the present case is whether, given the scheme of Rule 6 of the CENVAT Credit Rules, fuel used as inputs which are covered by Rule 6(1) can at all be said to be within the exception contained in Rule 6(2).	None
+This being the case, we are of the view that there is no conflict between the earlier judgment of Commissioner of Central Excise, Vadodara vs. Gujarat State Fertilizers and Chemicals Ltd., (2008) 15 SCC 46 and (2009) 9 SCC 101 CCE vs. Gujarat Narmada Fertilizers Co. Ltd., (supra).	None
+Also, we are of the view that even after independently applying our minds to Rule 6 as it stood, the interpretation of this Court contained in (2009) 9 SCC 101 CCE v. Gujarat Narmada Fertilizers Co. Ltd., (supra) is correct.	Reasoning
+As a result, the appeals are allowed and the order dated 10.04.2008 is set aside, except in respect of Appeal Nos.	Decision
+E 8788/2005 before the Tribunal, where matters have been remanded by the Tribunal on points other	Decision
+that what has been decided by this judgment.	Decision
+Accordingly, Special Leave Petition (C) No. 9101 of 2014 is disposed of in the light of this judgment.	Decision

@@ -1,0 +1,122 @@
+ Sarkaria, J.1.	None
+This appeal is directed against the Judgment, dated 2411969, of the High Court of Delhi answering in the affirmative the following question referred to it under Section 66 (1) of the Indian Incometax Act, 1922 (for short, the Act) by the Commissioner of IncometaxWhether on the facts and in the circumstances of the case the capital loss of Rs. 28,662/ could be determined and carried forward in accordance with the provisions of Section 24 of the Indian Incometax Act, 1922, when the provisions of Section 12B of the Incometax Act,1922 itself were not applicable in the assessment year 195556.2.	Issue
+The assessee respondent is a Private Limited Company.	Facts
+The assessment year under reference is 195556 and the relevant previous year is from 151953 to 3041954.	Facts
+On 1011952 the assessee purchased 1124 shares of M s. Intercontinent Travancore Pvt.	Facts
+Ltd. at a cost of Rs. 1,12,400/ from M s. Escorts (	Facts
+A and M) Ltd.	Facts
+In the relevant accounting year ending on 3041953 the assessee received 562 bonus shares from the same company.	Facts
+It thus acquired a total number of 1686 shares.	Facts
+On 3953, i.e. during the relevant previous year the assessee sold all these 1686 shares to M s. Escorts (Agents) Ltd. for Rs. 84,300 and claimed a loss of Rs. 84,862/ in the incometax return filed by it.	Facts
+The Incometax Officer disallowed the entire loss of Rupees 84,862 on the ground that it was a loss of a capital nature.3.	Facts
+The assessee carried an appeal to the Appellate Assistant Commissioner and contended that this loss of Rs. 84,862/ was a revenue loss arising out of dealing in shares.	Facts
+The Appellate Assistant Commissioner found that the assessees claim was exaggerated and that the actual loss was to the tune of Rs. 28,662/ only.	Facts
+He further held that this loss of Rs. 28,662/ was not a revenue loss but a capital loss arising out of change of investments.4.	Facts
+Against the decision of the Appellate Assistant Commissioner the assessee preferred an appeal before the Tribunal, challenging the findings of the Commissioner both in regard to the amount of loss and its nature.	Facts
+At the stage of arguments before the Tribunal, the assessees Counsel did not press these grounds of appeal but took up the plea that the amount of Rs. 28,662/ which had been held to be a capital loss by the authorities below, should be allowed to be carried forward and set off against profits and gains, if any, under the head capital gains earned in future, as laid down in subsections (2A) and (2B) of Section 24 of the Act.	Facts
+Despite objection from the Departmental Representative, the Tribunal allowed this new ground to be raised with the observation that it was a pure question of law and did not require investigation of any fresh fact.	Facts
+It further accepted the contention of the assessee and directed that the capital loss of Rs. 28,662/ should be carried forward and set off against capital gains if any, in future.5.	Facts
+At the instance of the Commissioner of Incometax, the Tribunal referred the above question (set out at the commencement of this judgment) to the High Court under Section 66 (1) of the 1922 Act.6.	Facts
+It was contended before the High Court on behalf of the Revenue that the expression capital gains in subsection (2A) of Section 24 has reference only to Section 12B so that the loss suffered in the year in which the profits under the head capital gains were not taxable, could not fall within subsec.	Facts
+(2A) of Section 24.	Facts
+S. K. Kapoor J., speaking for the Division Bench rejected this contention in these terms This argument overlooks the fact that the head of income chargeable to incometax are set out in Section 6.Section 12B deals only with the computation of capital gains and with their taxability if they arise during a particular period.	Facts
+As a matter of fact, Section 12B itself refers to Section 6 inasmuch as it says that the tax shall be payable by an assessee under the head capital gains .	Facts
+This obviously has reference to the VI th head in Section 6.	Facts
+The effect of subsections (2A) and (2B) of Section 24 read with Sections 6 and (2B), therefore, is that if a capital loss is incurred in a year in which a capital gain did not attract tax under Section 12B such loss would still be loss under the head capital gains and if in subsequent year the assessee has any profit under that head it can still be carried forward and set off against the taxable capital gain.	Facts
+The Tribunal, was in my opinion, right in coming to the conclusion that it did.	Facts
+Hence this appeal by the Commissioner of Incometax (Central) Delhi.7.	Facts
+Capital Gains Tax for the first time was introduced by the Incometax and Excess Profit Tax (Amendment) Act, 1947 (No. 22 of 1947) which inserted Section 12B in the Act.	None
+This section made taxable capital gains which arose after March 31, 1946.	None
+The same Act of l947 added as the VI to head capital gains in Section 6 of the Act.	None
+It also inserted Subsections (2A) and (2B) in Section 24 of the Act.8.	None
+The Indian Finance Act, 1949 virtually abolished the levy and restricted the operation of Sec.	None
+12B to capital gains arising before the l st April, 1948.	None
+But Section 12B in its restricted form, and the VI th head, capital gains in Section 6, and subsections (2A) and (2B) of Section 24 were not deleted and continued to form part of the Act.	None
+The Finance (No. 3) Act, 1956 reintroduced the capital gains tax with effect from the 31st March, 1956.	None
+It substantially altered the old Section 12B and brought it into its present form.	None
+As a result of Finance Act (3) of 1956 capital gains again became taxable in the assessment year 195758.	None
+The position that emerges is that capital gains arising between 141948 and 3131956, were not taxable.	None
+The capital loss in question relates to this period.9.	None
+Mr. V. S. Desai, learned Counsel for the appellant contends that according to the scheme of the Act a capital loss occurring in a previous year, could be allowed to be carried forward and set off against the capital gains of a subsequent year, only if the income under that head was taxable in the relevant previous and subsequent years.	Arguments of Petitioner
+Since during the period from 1 41948 to 3131956, capital gains (plus) or capital gains (minus) did not enter into computation of the total income of the assessee chargeable to tax under S. 3 read with Section 12B of the Act, the question of carrying forward of such loss did not arise, much less could such a loss be set off against the profits of any subsequent year.10.	Arguments of Petitioner
+As against this, Shri Ashok Sen, learned counsel for the assessee maintains that a right to carry forward a loss under any of the heads enumerated in Section 6 is not dependent upon the taxability of income under that head it is sufficient if at the relevant time capital gains is one of the heads of income recognized by the charging S. 6 and the loss is adjustable against capital gains if any, in future under Section 24.	Arguments of Respondent
+The argument proceeds, that S. 6 (vi) was not lying inert on the statute book but was operative, throughout, for the purpose of calculating the losses under that head.	Arguments of Respondent
+Shri Sen compared the nontaxability of capital gains during the period from 141948 to 3131956, to a tax holiday for those years.	Arguments of Respondent
+Another illustration given by the learned counsel is of a person whose total income falls entirely on the negative side on account of losses suffered by him under any of the heads of income given in section 6.	Arguments of Respondent
+Such a person notwithstanding the fact that he had no assessable income has a right to file a return and get his losses computed by the Incometax Officer merely for the purpose of carrying forward the loss.	Arguments of Respondent
+The Incometax Officer, it is added, cannot ignore the return filed by the assessee, voluntarily, showing losses even though such a return is filed beyond time.	Arguments of Respondent
+In this connection, Shri Sen has referred to Commr. of Incometax, Punjab v.	Arguments of Respondent
+Kulu Valley Transport Co.	Arguments of Respondent
+(P) Ltd.	Arguments of Respondent
+77 ITR 518 (AIR 1970 SC 1734 )	Arguments of Respondent
+Jaikishan Gopikishan and Sons v. Commr. of Income tax, M. P. (1972) 84 ITR 645 (1972 Tax LR 619 (Madh Pra) ) and Commr. of Incometax Madhya Pradesh v. Khushal Chand Daga, 42 ITR 177 (AIR 1961 SC 1259 ).11.	Arguments of Respondent
+Before dealing with the contentions canvassed, it will be appropriate to have a clear idea of the terms income, total income, computation of total income, carrying forward of a loss and its purpose, in the context of the scheme of the Act.12. Section 2 Cl.	None
+(15) defines total income to mean total amount of income, profits and gains referred to in subsection (1) of Section 4 computed in the manner laid down in this Act.	None
+Section 3, captioned as Charge of Incometax, emphasises that the incometax shall bechargedin respect of the total income of the previous year of every assessee.	None
+Section 4 defines the ambit of that total income.	None
+Section 6 enumerates six heads of income, profits and gains chargeable to incometax.	None
+They are(I) Salaries.(ii) Interest on securities.(iii)	None
+Income from property.(iv)	None
+Profits and gains of business, profession or vocation.(v) Income from other sources.(vi)	None
+Capital gains.13.	None
+Sections 7, 8, 9, 10, 12 and 12B relate to payability and computation of tax under the various heads of income.	None
+The material part of S. 12B at the relevant time was as follows12B. (1)	None
+The tax shall be payable by an assessee under the head capital gains in respect of any profits or gains arising from the sale, exchange or transfer of a capital asset effected after the 31st day of March 1946 and before the lst day of April, 1948 and such profits and gains shall be deemed to be income of the previous year in which the sale, exchange or transfer took place.14.	None
+Section 22 (1) requires a general notice to be published requiring every person whose total income during the previous year exceeds the maximum nontaxable limit to file a return.	None
+Subsection .	None
+(2) of this section enables the Incometax Officer to issue notice to any such person requiring him to furnish a return.	None
+Subsection (2A) which was inserted by the Incometax Amendment Act 25 of 1953 with effect from 141952 providesIf any person, who has not been served with a notice under subsection (2) has sustained a loss of profits or gains in any year under the head profits and gains of business, profession or vocation, and such loss or any part thereof would ordinarily have been carried forward under subsection (2) of S. 24, he shall, if he is to be entitled to the benefit of the carry forward of loss in any subsequent assessment, furnish within the time specified in the general notice given under subsection (1) .	None
+all the particulars required under the prescribed form of return.15.	None
+The material part of Section 24 runs thus24.	None
+(1) Where any assessee sustains a loss of profits or gains in any year under any of the heads mentioned in Section 6, he shall be entitled to have the amount of the loss set off against his income, profits or gains under any other head in that	None
+yearx x xProvided that in computing the profits and gains chargeable under the head profits and Gains of business, profession or vocation, any loss sustained in speculative transactions which are in the nature of a business shall not be taken into account except to the extent of the amount of profits and gains, if any, in any other business consisting of speculative transactionsx x x(2) Where any assessee sustains a loss of profits or gains in any year, being a previous year not earlier than the previous year for the assessment for the year ending on the 31st day of March 1940 in any business, profession or vocation, and the loss cannot be wholly set off under subsection (1), so much of the loss as is not so set off or the whole loss where the assessee had no other head of income shall be carried forward to the following year, and(i) where the loss was sustained by him in a business consisting of speculative transactions, it shall be set off only against the profits and gains, if any, of any business in speculative transactions carried on by him in that year(ii) where thy loss was sustained by him in any other business, profession or vocation, it shall be set off against the profits and gains, if any, of any business, profession or vocation carried on by him in that year provided that the business, profession or vocation in which the loss was originally sustained continued to be carried on by him in that year and(iii) if the loss in either case cannot be wholly so set off, the amount of loss not so set off shall be carried forward to the following year and so onx x x x2A. Notwithstanding anything contained in subsection (1), where the loss sustained is a loss falling under the head capital gains, such loss shall not be set off except against any profits and gains falling under that head.(2B) Where an assessee sustains a loss such as is referred to in subsection (2A) and the loss cannot be wholly set off in accordance with the provisions of that subsection, the portion not so set off shall be carried forward to the following year and set off against capital gains for that year, and if it cannot be so set off, the amount thereof not so set off shall be carried forward to the following year and so on, so however, that no such loss shall be so carried forward for more than six yearsProvided that where the loss sustained in any previous year does not exceed fifteen thousand rupees, it shall not be carried forward.(3)	None
+When, in the course of the assessment of the total income of any assessee, it is established that a loss of profits or gains has taken place which he is entitled to have set off under the provisions of this section, the Incometax Officer shall notify to the assessee by order in writing the amount of the loss as computed by him for the purposes of this section.16.	None
+Section 2 (6C) provides that income includes (among other things)(vi) any capital gainchargeable under Section 12B.17.	None
+From the charging provisions of the Act, it is discernible that the words income or profits and gains should be understood as including losses also, so that, in one sense profits and gains represent plus income whereas losses represent minus income Commr, of Income Tax, Ahmedabad v. Karam Chand Prem Chand, 40 ITR 106 (AIR 1960 SC l175) Commr. of I.T. v. Elphinstone Spg. and Wvg.	None
+Mills Co. Ltd., 40 ITR 142 (AIR 1960 SC 1016 ).	None
+In other words, loss is negative profit.	None
+Both positive and negative profits are of a revenue character.	None
+Both must enter into computation, wherever it becomes material, in the same mode of the taxable income of the assessee.	None
+Although Section 6 classifies income under six heads, the main charging provision is Section 3 which levies incometax, as only one tax, on the total income of the assessee as defined in Section 2 (15).	None
+An income in order to come within the purview of that definition must satisfy two conditions.	None
+Firstly, it must comprise the total amount of income, profits and gains referred to in Section 4 (1).	None
+Secondly, it must be computed in the manner laid down in the Act.	None
+If either of these conditions fails, the income will not be a part of the total income that can be brought to charge.18.	None
+Now, capital gains would be covered by the definition of income in subsection (6C) of S .2, only if they were chargeable under Section 12B.	None
+As noticed already, Section 12B as modified by the Finance Act, 1949, did not charge any capital gains arising between 141948 to 141957.	None
+Indeed Section 12B was not operative in these years (194857).During this period, capital gains, whether on the positive or the negative side, could not be computed and charged under Section 12B or any other provisions of the Act.	None
+In the instant case, the second condition, namely, the manner of computation, laid down in the Act which  to use the words of Stone C. J.	None
+In re Kamdar, (1946) 14 ITR 10 at p. 21 (AIR 1945 Bom 442 at p. 445) forms an integral part of the definition of  total income was not satisfied.	None
+Thus in the relevant previous year and the assessment year, or even in the subsequent year, capital gains or capital losses did not form part of the total income of the assessee which could be brought to charge and were, therefore, not required to be computed under the Act.19.	None
+Before the insertion of subsection (2A) in Section 22 by the amendment of 141952, an assessee was entitled to carry forward a loss even if he had submitted no return for the year in which the loss was sustained.	None
+After the enactment of subsection (2A), it is a condition precedent to the carry forward and set off of the loss, that the assessee must file a return either in response to a general notice under subsection (1) of Section 22 or voluntarily, without any individual notice under subsection (2) of that section.	None
+If he does not file the return for the year in which the loss was incurred and get the loss computed by the Incometax Officer, the right to carry forward the loss will also be lost.	None
+But if the loss is from a source or head of income not liable to tax or congenitally exempt from income tax, neither the assessee is required to show the same in the return nor is the Incometax Officer under any obligation to compute or assess it, much less for the purpose of carry forward.	None
+It is noteworthy that in the instant case, the assessee in his return had not shown any capital losses.	None
+He had claimed this loss as a revenue loss.	None
+The Incometax Officer could, therefore, reject the assessees claim to carry forward the loss merely on the ground that it was not a revenue loss.	None
+His further finding that it was a capital loss was only incidental and, in fact, was not necessary.20.From what has been said above it follows as a necessary corollary that during the period S. 12B did not make income under the head capital gains chargeable, an assessee was neither required to show income under that head in his return, nor entitled to file a return showing capital losses merely for the purpose of getting the same computed and carried forward.	None
+Subsection (2A) of Section 22 would not give him such a right because the operation of that subsection is, in terms, confined to (i) a loss which is sustained under the head profits and gains of business, profession or vocation and would ordinarily have been carried forward under subsection (2) of Section 24, and (ii) to income which falls within the definition of total income.	Reasoning
+Both these conditions necessary for the application of the subsection are lacking in the present case.21.	Reasoning
+Nor do we find any substance in the contention that under subsection (2) read with subsection (1) of Section 24, the assessee had an independent right to carry forward his capital loss, even if it could not be set off, owing to the nontaxability of capital gains, against future profits, if any, in the immediate subsequent years.	Reasoning
+Subsection (2) of Section 24 expressly refers to loss in any business, profession or vocation.	Reasoning
+It does not cover a capital loss or the minus income under the head capital gains which at the relevant time, were not chargeable and did not enter into computation of the total income of the assessee under the Act.22.	Reasoning
+It may be remembered that the concept of carry forward of loss does not stand in vacuo.	Reasoning
+It involves the notion of set off.	Reasoning
+Its sole purpose is to set off the loss against the profits of a subsequent year.	Reasoning
+It presupposes the permissibility and possibility of the carried forward loss being absorbed or set off against the profits and gains, if any, of the subsequent year.	Reasoning
+Set off implies that the tax is exigible and the assessee wants to adjust the loss against profit to reduce the tax demand.	Reasoning
+It follows that if such set off is not permissible or possible owing to the income or profits of the subsequent year being from a nontaxable source, there would be no point in allowing the loss to be carried forward.	Reasoning
+Conversely, if the loss arising in the previous year was under a head not chargeable to tax, it could not be allowed to be carried forward and absorbed against income in a subsequent year, from a taxable source.23.	Reasoning
+Now let us test the claim of the assessee in the light of the above principles.	Reasoning
+The capital loss of Rs.28,662/ in the present case, was sustained in September l953 that is, in the previous year 195354.	Reasoning
+Let us assume that in the subsequent years 195556 and 195657 when the capital gains were not taxable, he made huge capital gains far exceeding this loss, could he be obliged to show those capital gains in his return?	Reasoning
+Could the loss of the year 195354 be absorbed or set off against such capital gains of the subsequent years?	Reasoning
+The answer is emphatically in the negative.24.	Reasoning
+The cases cited by Shri Sen are not relevant.	Reasoning
+In all those cases, the heads of income under which the losses were sustained, were chargeable to tax.	Reasoning
+None of them was a case of capital loss pertaining to the period, 1948 to 1957.25.	Reasoning
+For the foregoing reasons, we are of the opinion that the High Court was in error in answering the question referred to it, in favour of the assessee.	Reasoning
+We would reverse that answer in favour of the Revenue.26.	None
+In the result, the appeal is accepted with costs.27.	None
+Appeal allowed.	None

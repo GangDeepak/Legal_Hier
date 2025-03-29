@@ -1,0 +1,103 @@
+ Vineet Saran, J. 1.
+The respondent is a small scale industry.
+For running its industry, it had a contract demand sanctioned load of electricity of 4000 KVA from the appellantsJharkhand State Electricity Board (for short the Board).
+The request of the respondent for reduction of such sanctioned load to 1325 KVA having been refused, the respondent filed a writ petition before the High Court of Jharkhand, which has been allowed.
+Aggrieved by the said judgment of the High Court, this appeal has been preferred by the Board.
+2.
+The brief facts, relevant for the present case, are that the respondent, which is a small scale industry, had entered into an agreement with the Board on 14.04.2004 for High Tension (H.T.) connection of 325 KVA load.
+The respondent thereafter applied for enhancement of load from 325 KVA to 1325 KVA, which was allowed by the General ManagercumChief Engineer of the Board on 14.03.2006.
+The respondent again applied for enhancement of load from 1325 KVA to 3500 KVA, which was sanctioned by the Board on 26.12.2006.
+On a further request of the respondent, the load was again enhanced by 500 KVA to 4000 KVA.
+For each enhancement of load, fresh agreements to that effect were entered into between the respondent and the Board, the last one being on 07.07.2007 for supply of 4000 KVA load.
+The respondent alleges that after the enhancement of load, it was facing major trippings as well as continuous load shedding which was affecting the costly machineries and, therefore, the respondent decided to reduce the load from 4000 KVA to 1325 KVA.
+Accordingly, the respondent filed an application, on 20.09.2007, before the authority of the appellants Board for such reduction.
+Vide its order dated 08.11.2007, the Electrical Superintending Engineer rejected the said application of the respondent for reduction of load from 4000 KVA to 1325 KVA informing the respondent that from the date of enhancement of supply of load, an agreement (dated 07.07.2007) would be enforced for a period of three years and treating it to be a case of determination of agreement, and quoting the Clause 9B of the agreement, it was provided that the agreement could not be permitted to be determined prior to the completion of initial period of three years from 07.07.2007 and that the respondent will have to pay the minimum guarantee charges and other charges, even if the respondent decides to terminate the agreement.
+3.
+Challenging the said order of the Board dated 08.11.2007, the respondent filed Writ Petition No.6651 of 2007, which has been allowed by the High Court vide its judgment dated 23.07.2008, primarily on the ground that the proviso contained in Regulation 9.2.1 of the Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations, 2005 (for short, the Regulations of 2005), providing for no reduction of load to be allowed by the Distribution Licensee before expiry of the initial period of agreement was discriminatory, arbitrary and against the public policy.
+Challenging the aforesaid judgment, this appeal has been filed.
+4.
+We have heard Shri Anup Kumar, learned counsel appearing for the appellants and Shri N.P. Singh, learned Senior Counsel appearing for the respondent, assisted by Shri Devashish Bharuka, AdvocateonRecord for the respondent.
+5.
+It is noteworthy that after the initial agreement dated 14.04.2004, which came into effect from 16.04.2004 whereby the contract demand of 325 KVA was allowed in favour of the respondent, the Jharkhand State Electricity Regulatory Commission (for short, the Commission) in exercise of power conferred by Section 181(2)(x) read with Section 50 of the Electricity Act, 2003, framed the Jharkhand State Electricity Regulatory Commission (Electricity Supply Code) Regulations, 2005, which came into effect from 28.07.2005.
+6.
+The submission of the learned counsel for the appellantsBoard, is that in terms of Regulation 9.2.1 of the Regulations of 2005, which relates to the reduction of contract demand sanctioned load, no reduction of load could be allowed before the expiry of the period of agreement which, according to the appellants, would be 07.07.2007 when a fresh agreement was executed for enhanced load of 4000 KVA.
+Learned counsel for the appellants has thus submitted that the application for reduction of load filed by the respondent on 20.09.2007, which was well within the period of three years from 07.07.2007, was rightly rejected by the Board vide its order dated 08.11.2007, as it was in conformity with the provisions of the Regulations of 2005.
+7. Per contra, learned Senior Counsel appearing for the respondent has submitted that the agreement was initially entered into on 14.04.2004 and thereafter even though technically fresh agreements may have been executed for enhancement of load of the respondent, but the same were only extension amendment of the initial agreement dated 14.04.2004, and the terms of each of these agreements were identical, with the only change being that of the increased contracted load.
+It has been contended by the learned Senior Counsel for the respondent that the Regulations do not permit execution of a fresh agreement in case of enhancement of load, and the enhancement agreements would merely be supplementary agreements in continuation of the initial agreement dated 14.04.2004 and cannot be treated as fresh agreement because it is the same electricity connection, which was granted by the agreement dated 14.04.2004, in which there have been amendments from time to time for increase of load, and merely executing a fresh agreement for enhancement of load cannot be termed as fresh agreement for the purpose of Regulations of 2005.
+It has, thus, been submitted that the application of the respondent for reduction of load dated 20.09.2007 has to be treated as after a period of three years from the date of initial agreement dated 14.04.2004 and thus, the application of the respondent ought to have been allowed and or should be deemed to be allowed in terms of the provisions of Regulations of 2005.
+In this regard, reliance has been placed on Regulations 2(l), 9.1 and 9.2 of the Regulations of 2005.
+8.
+For the ready reference, the relevant provisions of the Regulations of 2005 are reproduced below 2.
+Definitions.
+2.1
+In these regulations, unless the context otherwise requires (a) (b) (c) (l) Contract Demand means demand in Kilowatt (KW) or Kilo Volt amperes (KVA) or H.P (Horse Power) mutually agreed between the Distribution Licensee and the consumer as entered into agreement or agreed through other written communication.
+(m) (n) 9.
+Enhancement and Reduction of Contract Demand Sanctioned Load.
+9.1 Enhancement of Contract Demand Sanctioned Load 9.1.1
+The application for enhancement of Contract Demand Sanctioned Load shall be made in the prescribed form and in the manner as specified in new service connection in Clause 5 of these Regulations.
+9.1.2
+The application for enhancement of load shall be disposed of in the manner and within the time frame as prescribed for new service connection in Clause 6.2.11 of these Regulations.
+Provided that the application for enhancement of Contract Demand Sanctioned Load may be outright rejected by the distribution licensee if the consumer is in arrears of licensees dues and the same have not been stayed by a court of law or the Commission.
+9.2 Reduction of Contract Demand Sanctioned Load.  
+9.2.1 The application for reduction of Contract Demand Sanctioned Load shall made in the prescribed form specified for the new service connection.
+Provided that no reduction of load shall be allowed by the Distribution Licensee before expiry of the initial period of agreement.
+9.2.2
+The application for reduction of load shall be accompanied by (i) Details of modification, alteration and removal of electrical installation with completion certificate and test report of the Licensed Electrical contractor.
+(ii) Any other reason for reduction of load (iii) Details of generator if any installed by the consumer with safety clearance certificate from competent authority as applicable.
+9.2.3 The Distribution Licensee shall consider the application verify the same and communicate in writing its decision on reduction of Contract Demand Sanctioned Load in writing within 30 days of the application.
+Provided that if the distribution licensee rejects or refuses the reduction of Contract Demand Sanctioned Load it shall do so after affording the consumer reasonable opportunity of being heard in the matter and after communicating in writing the reasons for such refusal.
+9.2.4 If the decision of the application for reduction of Contract Demand Sanctioned Load is not communicated by the licensee within 30 days of the application, the consumer shall send a notice to the licensee requesting for disposal in the matter and if the decision is still not communicated within 15 days of the notice.
+The reductions of Contract Demand Sanctioned Load shall be deemed to have been sanctioned, from the 16th day after the issue of notice to the licensee by the consumer.
+9.2.5
+The reduction of Contract Demand Sanctioned Load shall come into effect from the first day of the month following the month in which the reduction of load has been sanctioned or have been deemed to be sanctioned.
+9.2.6 After the sanction of the reduction of Contract Demand Sanctioned Load the consumer shall execute a supplementary agreement and the licensee shall recalculate the Security Deposit excess Security Deposit if any shall be refunded by way of adjustment in the minimum number of succeeding bills of the consumer.
+(emphasis supplied) 9.
+The communication dated 08.11.2007 of the Electrical Superintending Engineer of the Board, refusing the prayer of the respondent for reduction of load, is reproduced below Sub Regarding the reduction of load from 4000 KVA to 1325 KVA in respect of M s R.K. Forging Ltd. Conn.
+No. HJAP185 Ref Your letter No. R.K.F.L III and IV 182/0708 dated 05.10.2007.
+With respect to the above, you have applied for reduction of C.D from 4000KVA to 1325KVA.
+It is to inform you that C/9B of agreement may kindly be seen.
+C/9B
+The consumer shall not be at liberty to determine this agreement before the expiration of three years from the date of commencement of the supply of energy (4000KVA w.e.f.
+12.07.2007).
+The consumer may determine this agreement with effect from any date after the said period on giving to the Board not less than twelve calendar months previous notice (this has charged not less than 6 Month Notice vide Secretary, Jharkhand State Electricity Board Notification No.5058 dated 20.08.2002) in writing in that behalf and upon the expiration of the period of such notice.
+This agreement shall cease and determine without prejudice to any right which then have accrued to the Board herewith provided always that the consumers may at any time with the previous consent of the Board transfer and assign this agreement to any other person and upon subscription of such transfer, this agreement shall be binding on the transferee and Board and take effect in all respects as if transferee had originally been party in place of the consumer who shall henceforth be discharged from all liabilities under or in respect thereof.
+Hence your request for reduction cannot be done as per agreement.
+10.
+Heard learned Counsel for the parties and have carefully gone through the record.
+11.
+From perusal of the communication dated 08.11.2007, it is clear that the application of the respondent for reduction of load has been rejected in terms of Clause 9(B) of the agreement, treating the date of commencement of the agreement to be 7/12.07.2007 and only by considering the provision of determination of the agreement, which could not have been without giving notice of less than 12 calendar months.
+It is clear that the said communication order does not consider the provisions of the Regulations of 2005 with regard to reduction of load, but only treats the application for reduction of load to be an application for determination of the agreement.
+12.
+Chapter 9 of the Regulations of 2005 deals with the enhancement and reduction of contract demand sanctioned load.
+Regulation 9.1 deals with enhancement of contract demand sanctioned load, whereas Regulation 9.2 deals with the reduction of contract demand sanctioned load.
+13.
+Just as the consumer has the liberty of getting its load enhanced under Regulation 9.1, the reduction of contract demand sanctioned load can also be prayed for and decided in terms of Regulation 9.2.
+The proviso to Regulation 9.2.1, no doubt, provides that no reduction of load shall be allowed before expiry of the initial period of agreement, which is three years in the present case.
+The question would be whether the initial agreement is to be considered for such purpose, or the subsequent agreements.
+14.
+Regulation 9.2.6 of the Regulations of 2005 provides for execution of a supplementary agreement for reduction of contract demand sanctioned load of the consumer.
+Similarly, for enhancement of load also, even if a fresh agreement may have been executed between the parties, the same could be treated as nothing but a supplementary agreement of the initial agreement by which the electricity connection was granted for a particular load.
+Clause 2(l) of the Regulations also defines contract demand to be demand mutually agreed in the agreement or agreed through other written communication, meaning thereby that for variation of the contract demand execution of a fresh agreement is not essential and the same can be done otherwise also by mere written communication.
+15.
+It is noteworthy that the Jharkhand State Electricity Board (the Board) is a monopoly supplier of electricity which has laid down its own terms and conditions, regarding which the consumer has no say or choice but to sign on the dotted lines, if it wants of get electricity load varied for running its industry.
+The Board is an instrumentality of the State.
+It has to be fair and reasonable.
+If the Regulations provide for contract load to be varied even through a written communication, then in our considered view, in all fairness, though fresh agreements may have been executed at the stage of enhancement of load of the same electricity connection, the same cannot be treated as anything but an extension amendment or modification of the initial agreement granting the electricity connection, which in the present case would be the agreement dated 14.04.2004.
+On the dictates of the Board, the consumer may have been required to sign fresh agreements for each enhancement of load, but the enhancement being for the same electricity connection which still continues, it would merely be amendment of the initial agreement.
+This would also be in consonance with the provisions of the Regulations of 2005, which have to be liberally interpreted in favour of the consumer.
+16.
+Reverting to the order dated 08.11.2007, which was impugned in the writ petition, we are of the opinion that the Board has gone wrong in treating the application dated 20.09.2007 of the respondent for reduction of load to be that for determination of the agreement under Clause 9B of the agreement, which application, in fact, ought to have been considered under Regulation 9.2 of the Regulations of 2005.
+Further, we are unable to accept the submission of the learned Counsel for the appellant that the application of the respondent for reduction of load was within the period of three years, because as we have discussed hereinabove, the agreement to be considered in the present case is the initial agreement dated 14.04.2004 and not the subsequent agreement dated 07.07.2007.
+17.
+The judgments of this Court rendered in Bihar State Electricity Board, Patna and Others v. M s. Green Rubber Industries and Others, (1990) 1 SCC 731 , Orissa State Electricity Board v. Orissa Tiles Limited, (1993)
+Supp.
+3 SCC 481, Andhra Steel Corporation Ltd. and Others v. Andhra Pradesh State Electricity Board and Others, (1991) 3 SCC 263 and Jharkhand State Electricity Board Others v Laxmi Business and Cement Company Private Limited and Another, (2014) 5 SCC 236 as have been relied upon by learned counsel for the parties, are distinguishable on facts, in as much as they all relate to minimum guarantee charge, and that too under the old Electricity Act of 1910, as is so in the first three cases.
+18.
+In view of the aforesaid, we are of the opinion that the application of the respondent dated 08.11.2007 ought to have been allowed by the Board in terms of Regulation 9.2 of the Regulations of 2005, treating the application to be beyond the period of three years from the date of the execution of the initial agreement dated 14.04.2004, by which the electricity connection of the respondent had been initially granted.
+19.
+While dismissing the appeal, we are not going into the question as to whether the provisions of Regulation 9.2.1 are discriminatory, arbitrary and against the public policy, as has been held by the Jharkhand High Court vide its judgment dated 23.07.2008.
+20.
+The appeal is, accordingly, dismissed.
+No order as to costs.
+21.
+The application of the respondent dated 20.09.2007 for reduction of contract load sanctioned load from 4000 KVA to 1325 KVA would be deemed to have been allowed under the provisions of Regulation 9.2 of the Regulations of 2005, and the respondent shall be entitled to all consequential benefits.

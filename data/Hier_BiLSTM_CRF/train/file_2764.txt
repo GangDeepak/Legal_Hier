@@ -1,0 +1,38 @@
+ P. Bharucha and S.C. Sen, JJ.	None
+The appellant Addison Company Ltd. manufactures cutting tools which fall under Tariff Item 51A.	Issue
+The cutting tools manufactured by Addison Company were not exigible to duty before 13l974.	Facts
+There is no dispute that they were manufacturing cutting tools even before this date.	Issue
+A Notification was issued by Finance (Revenue) Department of Government of India, No. 198/76C.E., dated 1661976 by which exemption was granted to the extent of 25 of the excise duty on excess clearance of certain specified excisable goods.	Issue
+The excess clearances had to be calculated with reference to the base clearance to be determined in respect of each manufacturer in the manner prescribed in the Notification.	Issue
+The relevant portion of the Notification is as under After comparing the clearances of specified goods under subparagraph (1), the base period and base clearances, in relation to a factory, shall be determined as under Where the specified goods were or are cleared from a factory for the first time on or after the 1st day of April 1976, the base period shall be the year 197576, and the base clearances shall be nil (b) where the specified goods were cleared from a factory for the first time on or after the 31st day of April 1973, but not later than the 31st day of March 1976, the base period shall be the three financial years, namely, 197374, 197475 and 197576 and the base clearances shall be the onethird of the aggregate of the clearances of such goods during such base period (c) where the specified goods were cleared from the factory for the first time earlier than 1st day of April 1973, the base period shall be the year in which the aggregate of the clearances of such goods during any of the financial years 197374, 197475 and 197576 was the highest and the clearance during such base period shall be the base clearances.	Facts
+Initially the excise authority was of the view that the base clearances will be calculated on the basis of Clause (b) of Paragraph (2) of the Notification.	Facts
+The appellant was informed accordingly.	Facts
+But later on the excise authorities changed their view and a show cause notice was issued to the assessee and after hearing him it was decided to calculate the base clearances in terms of Clause (c) of Paragraph (2).	Facts
+Mr. Shanker Ghosh, learned Senior Counsel appearing on behalf of the appellant, has contended that the excise authority has fallen into an error in treating Clause (c) as the appropriate clause for the purpose of determining base clearance of the goods manufactured by the appellants in this case.	Arguments of Petitioner
+5. Clause (b) deals with cases where specified goods were cleared from a factory for the first time on or after 1st day of April, 1973.	Reasoning
+Clause (c) deals with cases where goods were cleared for the first time earlier than 1st day of April, 1973.	Reasoning
+The finding of fact is that the goods of the appellant were manufactured and cleared even earlier than 1st day of April, 1973.	Reasoning
+That being the position the case of the appellant will squarely come within Clause (c) of Paragraph (2).	Reasoning
+Mr. Ghosh has, however, contended that the question of clearance of goods could only arise if the excise duty became leviable.	Arguments of Respondent
+The goods manufactured by the assessee were not dutiable before 131974.	Arguments of Respondent
+Therefore, no question of clearance of the goods manufactured by the appellant could arise before that date.	Arguments of Respondent
+We are unable to uphold this contention.	Reasoning
+In the first place, excise duty becomes leviable on the goods manufactured by the appellant on and from 1st March, 1973.	Reasoning
+That means, the assessee was producing excisable goods even before 1st April, 1973.	Reasoning
+That apart, merely because Clauses (b) and (c) speak of clearance of the goods and the base period has to be determined on the basis of aggregate of the clearances of such goods during the financial years 197374, 197475 and 197576, it does not follow that clearances must be of dutiable goods and the base year must be determined with effect from the date when the duty was imposed and not earlier.	Reasoning
+Section 3 of the Central Excise Act imposes a duty on manufacturers of excisable goods.	Reasoning
+Rule 9 of the Central Excise Rules provided for calculation of duty and value of the goods at the time of removal of the goods from the factory or a warehouse.	Reasoning
+The notification deals with clearances of specified goods, not removal of excisable goods.	Reasoning
+The goods which have been specified in the Notification will qualify for the relief given in the Notification.	Reasoning
+The goods of the appellant have been specified in the Notification and as such qualified for the exemption.	Reasoning
+Therefore, clearances in the context of this Notification cannot have any special meaning.	Reasoning
+It does not signify any special sense nor can it be equated with removal of dutiable goods from a factory under the Central Excise Act.	Reasoning
+Our attention was also drawn to the various wordings of the Notification dealing with calculation of excess clearance with reference to value of the goods and also on the basis of the accounts maintained under the excise rules.	Reasoning
+The manner of calculation cannot take away anything from what has been specifically provided in Clauses (b) and (c) of the Notification in very clear terms.	Reasoning
+The object is to give relief and encouragement to the manufacturers to produce goods in larger quantities than what were produced in the base year.	Reasoning
+There is no reason to assume that production before the levy of excise duty has to be ignored for this purpose.	Reasoning
+The base year has to be determined according to the principle laid down in clear and unambiguous words in Clauses (b) and (c) of Paragraph (2) of the Notification.	Reasoning
+The appellants goods were cleared from his factory even before 1st April, 1973.	Reasoning
+As such his case clearly fell within Clause (c).	Reasoning
+We uphold the order of the Tribunal.	Decision
+The appeals are dismissed with costs.	Decision

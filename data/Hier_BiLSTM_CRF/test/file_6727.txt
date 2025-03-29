@@ -1,0 +1,130 @@
+ Oral Judgment (Ferdino I. Rebello, J.) Rule.
+Heard forthwith.
+2. The question for determination in this petition is, what is the date for an application for registration as dealer under Rule (7)(1)(al) of the Bombay Sales Tax Rules, 1959, where a company court passes an order of amalgamation 3.
+A few facts may be set out The Petitioner is a public company incorporated under the Companies Act, 1956 and its head office is at New Delhi and the Branch Office is at Bandara (East), Mumbai.
+The Petitioner was not having any business activity in the State of Maharashtra till 31.3.2002 and hence it was not registered under the Bombay Sales Tax Act, 1959 (hereinafter referred as BST Act) and under Central Sales Tax Act, 1956 (hereinafter referred to as CST Act) in Maharashtra.
+M s. Floatglass India Limited was another company incorporated under the Companies Act and had its office at Bandra (East) Mumbai and business activities in Maharashtra and was registered under BST and CST Acts.
+The Petitioner and M s. Floatglass India Limited (amalgamating company) entered into scheme of amalgamation and according to the scheme of amalgamation Floatglass India Limited was to merge into Petitioner company.
+The scheme was approved by a Judge of this court exercising jurisdiction under the Company Act by judgment and order dated 24.7.2003.
+In terms of the order of amalgamation, the date of amalgamation was with effect from 1.4.2002.
+The Petitioner the transferee company as it was not holding registration under BST Act, 1959 applied for registration on 19.8.2003, after the order of amalgamation passed by this court.
+The date of merger as per the amalgamation scheme was from 1.4.2002.
+The application for cancellation of registration certificate of the amalgamating company was accordingly filed to cancel the registration certificate of the said company from 1.4.2002.
+The registration certificate of amalgamating company was accordingly cancelled by the competent authority from 1.4.2002.
+Under the rules, when there is change in constitution, an application for fresh registration of the transferee is required to be made within 60 days.
+In terms of Rule 8, if an application is filed within 60 days, the registration is to be granted from the relevant date of change in constitution.
+If the application is filed beyond 60 days, the registration will have effect from the date of application.
+4.
+The registration authority accepted the case of the petitioner for the date of change in constitution as on 1.4.2002.
+However, as the application for registration in Form 1 was filed on 19.8.2003, it was considered to be beyond 60 days from the date of change in constitution and the registration authority granted registration certificate dated 29.8.2003 effective from 19.8.2003.
+The consequence is that from 1.4.2002 to 18.8.2003 the Petitioner remains an unregistered dealer (hereinafter referred to as URD).
+5.
+As per Section 9(2) of the CST Act the registration provisions applicable under BST Act are equally applicable under the CST Act.
+Accordingly under CST Act also registration is granted effective from 19.8.2003.
+Therefore, also under the CST Act the period from 1.4.2002 to 18.8.2003 the petitioner remains as URD.
+As a URD there are various disabilities.
+The Petitioner in Para 10 of the Petition has set out various disabilities that are incurred by a URD.
+It is not necessary to set out the same in extenso.
+One of the consequences is that the sales transaction effected earlier gets converted into Branch transfers.
+This legal position according to Petitioner, is established by the judgment of the Supreme Court in the case of
+Marshall Sons Co. (India) Ltd.
+Versus Income Tax Officer, (223 ITR 809) .
+Once the transaction becomes branch transaction, the transferor Branch has to receive F form declarations under CST Act, 1956 from the transferee branch, If transferor branch fails to receive the same, as per section 6A of CST Act, such transfers will be treated as sale transactions in hands of transferor and the tax can be levied on the same accordingly.
+It is not necessary to set out various other disabilities incurred.
+It is submitted on behalf of the Petitioners that the Petitioners could not have applied for the registration untill the court sanctioned the scheme of amalgamation.
+Though in the scheme of amalgamation, the date of amalgamation may he set out.
+It is for the court ultimately to decide the date of amalgamation.
+In these circumstances, an application for registration can only be made after an order sanctioning the scheme of amalgamation.
+Like in the instant case, if the company court accepts the date given by the amalgamating companies, then it is not possible to adhere to the time frame under the rules for making an application for registration within the time limit specified so as to make it effective from the date of application.
+It is submitted that in these circumstances, the procedural rules must be so read to give effect to the order of the company court and in these circumstances, for the purpose of Rule (7)(1)(a1), the date of application for registration can only be counted from the date of sanctioning the scheme of amalgamation.
+6.
+On the other hand on behalf of the Respondents it is submitted that Rule (7) (1)(a1) is clear.
+If this is read with section 19(6) of the BST Act, 1959, the date of application would be beyond 60 days from the date of succession of business and consequently in terms of Rule 8(3) would be effective from the date of application and not from the date of sanction of the scheme of amalgamation by the court.
+7.
+For the purpose of understanding the controversy, we have to consider certain provisions of the C.S.T. Act and the rules framed thereunder.
+We may gainfully reproduce section 19(4) and 19(6) of the Act which reads as under 19.
+Special provision regarding liability to pay tax in certain cases(4)
+Where a dealer, liable to pay tax under this Act, transfer or otherwise disposes of his business in whole or in part, or effects any change in the ownership thereof, in consequence of which he is succeeded in the business or part thereof by any other person, the dealer and the person succeeding shall jointly and severally be liable to pay the tax (including any penalty and interest) due from the dealer under the Act or under any earlier law, upto the time of such transfer, disposal or changes, whether such tax including any penalty and interest has been assessed before such transfer disposal or change but has remained unpaid, or is assessed thereafter.
+(6) Where a dealer, liable to pay tax under this Act, is succeeded in the business by any person in the manner described in clause (a) of sub section (1) or in sub section (4), then such person shall, notwithstanding anything contained in section 3, be liable to pay tax on the sales or purchases of goods made by him on and after the date of such succession, and shall (unless he already holds a certificate of registration) (within sixty days) thereof apply for registration.
+Provided that, where such person resells any goods purchased by the dealer while carrying on business before such succession, he shall be entitled to such deductions in respect thereof as are permissible under (Sections 7, 8 and 9) as the case may be, had the resale been effected by the dealer himself.
+8.
+The following C.S.T. Rules are relevant.
+R.7.
+Application for registration of dealers liable to tax under the Act (1) In case of a dealer who becomes liable to pay tax under section 3, an application for registration under section 22 shall be made (a) within ten days from the appointed day if his turnover either of all sales or of all purchases during the year ending on the 31st March, 1959, or during he year commencing on the 1st April, 1959 has exceeded the relevant limit specified in sub section (4) of section 3 before the appointed day, and (ai) within 60 days from the date of succession to the business as provided in sub section (6) of section 19 and (b) in any other case, within 30 days from the day on which his turnover either of all sales or of all purchases during he year commencing on the 1st April, 1959 or as the case may be, during, any subsequent year, first exceeds the relevant limit specified in sub section (4) of section 3.
+(2) An application for registration under section 22 shall be made in Form 1 to the registering authority and shall be accompanied with a fee as prescribed under rule 65.(3) Where a dealer has more than one place of business within the State, he shall make a single application in respect of all such places except any place for which he has obtained a Certificate of Entitlement under the Package Scheme of Incentives, specifying therein one of such places as the principal place of business and submit it to the registering authority within whose jurisdiction such principal place of business is situated.
+Provided that, where such dealer has obtained a Certificate of Entitlement under the Package Scheme of Incentives, (except the 1998 Power Generation Promotion Policy) in respect of any of his places of business he shall make a separate application to the registering authority within whose jurisdiction such place of business is situated.
+Provided further, that such dealer may, at his option make separate application in respect of any of his other places of business, not being the principal place of business, to the registering authority having jurisdiction over such other place of business.
+R8.
+Grant of Certificate of Registration (1) the certificate of registration under section 22 or, as th case may be, under section 22A shall be issued in Forms 2.
+(2) Where a dealer applying for registration is a firm, Hindu undivided family, body corporate or association of individuals or Government the certificate of registration shall be issued in the name of such firm, family, body corporate, associate of Government, as the case may be (3) Where a certificate of registration is issued to a dealer on an application made therefor, then(a)(i) if it was made within the period specified in clause (a) of sub rule (1) of rule 7 it shall take effect from the appointed day (ii) if it was made within the period specified in clause (b) of sub rule (1) of rule 7, it shall take effect from the time on which the dealers turn over first exceeded the relevant limit specified in sub section (4) of section 3 (iii) if it was made within the time specified in sub section (6) of section 19, it shall take effect from the date on which the dealer become liable to pay tax under the said sub section and (iv) if it was made by or before the dates notified under sub rule (1) of rule 7A, it shall take effect from such date as may be notified for the purpose of sub section (5) of section 22A. (b) if such application was made after the expiry of the aforesaid period, it shall take effect from the date on which the application was made.
+9.
+On behalf of the Respondents, the learned counsel had also sought to place reliance on section 33C of the Act.
+In our opinion, reliance placed in the said section for the purpose of considering the issue in question is wholly irrelevant.
+Under section 33C when two or more companies are to be amalgamated by the Order of a Court or of the Central Government and the Order is to take effect from a date anterior to the date of the said Order and any two or more of such companies have sold or purchased any goods to or from each other during the period commencing on the date from which the Order is to take effect and ending on the date of the Order, then notwithstanding anything contained in the said amalgamation Order, such transactions of sale and purchase shall be included in the turnover of sales or, as the case may be, purchase of the respective companies and shall be assessed to tax accordingly, and for the purposes of this Act, the said two or more companies shall be treated as distinct companies and shall be treated as such for the entire period upto the date of the said Order, and the registration certificates of the said companies shall be canceled, or amended, where necessary, with effect from the date of the said amalgamation order.
+In other words it would be clear that section 33C was introduced with a view to avoid escapement of sales tax of transactions between the two or more companies seeking to amalgamate.
+Irrespective of the date of order of the company court, the two companies should be treated as distinct in respect of the transaction which they had done amongst themselves.
+In other words they cannot escape payment of tax on the ground that there is no sale tax imposable.
+10.
+Having so said, let us now consider the position in law as to the date of amalgamation.
+Law has been succinctly set out in the case of Marshall Sons and Co. (India) Ltd. (supra).
+The Supreme Court after considering the provisions pertaining to amalgamation was pleased to hold that every scheme of amalgamation of companies has necessarily to provide a date with effect from which the amalgamation transfer shall take place.
+While sanctioning the scheme, it is open to the company court to modify the said date and prescribe such date of amalgamation transfer as it thinks appropriate on the facts and circumstances of the case.
+If the court specifies the date, such date will be the date of application date of transfer.
+But where the court does not specify any specific date, but merely sanctions the scheme presented to it, the date of amalgamation and or the date of transfer is the date specified in the scheme as the transfer date.
+The law thus concluded is that irrespective of the date when the court passes the order sanctioning the scheme of amalgamation, it the date fixed by the court or if the court does not fix the date, the date fixed in the scheme of amalgamation transfer, which would be the date of amalgamation date of transfer.
+On behalf of the Revenue, the learned counsel has placed reliance in the case of Dr. (Mrs) Sushma Sharma etc.
+Versus State of Rajasthan and Others, AIR 1985 Supreme Court 1367 to contend that while interpreting a statute, the court must bear in mind that the wisdom or lack of wisdom in the action of the Government or legislature is not justiciable by court.
+The Supreme Court quoted with approval the observations of Mr. Justice Kc Kenna in Metropolis Theater Company Vs.
+City of Chicago and Ernest J. Magerstadt (1912) 57 Led.730 as under It may seem unjust and oppressive, yet be free from judicial interference.
+The problems of government are practical ones and may justify, if they do not require, rough accommodations, illogical, it may be, and unscientific.
+But even such critism should not be hastily expressed.
+What is best is not always discernible, the wisdom of any choice may be disputed or condemned.
+Mere errors of government are not subject to our judicial review.
+It is only its palpably arbitrary exercises which can be declared void Next reliance was placed in the judgment in Union of India and another Versus Deoki Nandan Aggarwal, AIR 1992 Supreme Court 96.
+The Supreme Court observed as under The Court cannot add words to a statute or read words into it which are not there.
+Assuming there is a defect or an omission in the words used by the legislature the Court could not go to its aid to correct or make up the deficiency.
+Courts shall decide what the law is and not what it should be.
+The Court of course adopts a construction which will carry out the obvious intention of the legislature but could not legislate itself.
+But to invoke judicial activism to get at naught legislative judgment is subversive of the constitutional harmony and comity of instrumentalities.
+11.
+We may consider the true scope of Rule 7 and 8.
+Rule 7 deals with the application for registration of dealers.
+Rule (a1) sets out that the application for registration under section 22 shall be made within sixty days from the date of succession to the business as provided under sub section 6 of section 19.
+What would be the date of succession in business for the applicant to make the application.
+Section 19(6) sets out that an application shall be made within sixty days from the date of such succession.
+An ordinary reading therefore, after the scheme of amalgamation, if the order is made with an anterior date then on the literal construction, the application for registration must be made within sixty days from such anterior date.
+We can take judicial notice of the fact that a scheme for amalgamation in the company court is not normally disposed of within sixty days of it being filed in the company court on account of mandatory procedural provisions which have to be complied with and as such the order is normally beyond the period of sixty days set out in section 19(6) of the C.S.T. Act.
+In such circumstances, no company applying for scheme of amalgamation to the company court would be in a position to comply with the requirement of Rule 7(1)(a1) if the date fixed by the company court is an anterior date from the date of the order.
+As such between the period of the anterior date and the date of the order and the date of the application, the company will have to be treated as URD.
+The date of succession to the business will be ordinarily the date of the order sanctioning the scheme of amalgamation.
+If however, the date is an anterior date, then it will normally not be possible to comply with rule 7(1)(a1).
+A company following the provisions of the Companies Act, cannot be disadvantaged because of procedural ambiguity or lacunae.
+Rule 8 speaks of grant of certificate of registration.
+Rule 8(2) is inapplicable, similarly Rule 3(a) refers to an application under Clause (a) of Sub Rule (1) of Rule 7.
+Similarly Rule 3(a2) refers to an application under clause (b) of sub rule (1) of rule (7).
+In so far as Rule 8(a)(1) and (2) are concerned, it only takes note of applications made under rule (7)(1)(a) and rule l7(1)(b).
+No rule for grant of certificate of registration is made in so far as rule 7(1)(a1) is concerned.
+Rule 7(1) (a1) was introduced by an amendment and it appears that the delegate has made no provisions to cover that eventuality under rule 8(3).
+Rule 8(3)(a)(3) and (4) will also not be applicable.
+Thus though section 19(6) and Rule 7(1)(a1) provides for the date of succession, it does not cover the eventualities of transfer of business under a scheme of amalgamation.
+12.
+It is in these circumstances that this court must consider the date for the purpose of moving an application and the starting point of limitation under rule 7(1) (a1).
+As earlier noted in so far as amalgamating company Floatglass India Limited, is concerned, considering the provisions, its certificate of registration was cancelled from 1.4.2002.
+In other words, M s. Floatglass India Limited ceases to be company from that date and that must be date to give effect to section 19(6) and rule 7(1) (a1).
+There is therefore, an omission on account of the failure by the delegates to provide a corresponding rule to rule 7(1)(a1).
+In the absence of legislature providing and taking note of the fact that in such cases, the amalgamating company is not at fault.
+It will have to be construed that the time for making an application for registration will be 60 days from the date of the court passing the order.
+On such application being made, certificate of registration will have to be made effective from the anterior date given by the company court.
+This is only a procedural requirement.
+This would avoid hardship and give true effect to the mandate of the legislature both under BST and CST Act.
+No order of a court should visit a party with liabilities and or undesirable consequences in the matter of tax.
+The rule must be so read to give effect to the legislative mandate.
+The date for applying for registration under Section 19(6) for a company, can only be the date of the company courts under.
+If within 60 days of such order an application is made, then the expression succession to business in rule 7(1)(1a) will also be so read.
+Under Rule 8(8)(a)(iii)
+then it will be the date the company court has ordered or the date provided in the scheme which will be the date of succession to business.
+This would obviate any difficulty to a party till such time the delegate makes a specific provision in Rule 8.13.
+In the light of the above, in our opinion, this petition must succeed and accordingly rule is made absolute in terms of Prayer Clause (c) which reads as under This Honorable High Court may be pleased to issue a Writ of mandamus or a writ in the nature of mandamus or any other appropriate writ order or direction under article 226 of the Constitution of India directing and ordering the Respondent to forthwith issue afresh registration certificate effective from 1.4.2002 as approved by this court in company application No. 80 of 2003 by its order dated 24.7.2003.
+Registration w.e.f.
+1.4.2002 will be subject to provisions of S. 33C of the B.S.T. Act.
+In the circumstances of the case, there shall be no order as to costs.

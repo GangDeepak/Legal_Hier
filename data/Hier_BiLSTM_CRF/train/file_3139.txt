@@ -1,0 +1,107 @@
+ Mahajan, J.(1)	None
+This is an appeal against a judgment of the High Court of Judicature at Bombay in an incometax matter and it raised the question whether municipal property tax and urban immovable property tax payable under the relevant Bombay Acts are allowable deductions under S. 9(1) (iv), Income tax Act.(2)	Issue
+The assessee company is an investment company deriving its income from properties in the city of Bombay.	Facts
+For the assessment year 194041, the net income of the assessee under the head property was computed by the Incometax Officer in the sum of Rs. 6,21,764 after deducting from gross rents certain payments.	Facts
+The company had paid during the relevant year Rs.122,675 as municipal property tax and Rs. 32,760 as urban property tax.	Facts
+Deduction of these two sums was claimed under the provisions of S. 9 of the Act.	Facts
+Out of the first item, a deduction in the sum of Rs. 48,572 was allowed on the ground that this item represented tenants burdens paid by the assessee, otherwise the claim was disallowed.	Facts
+The appeals of the asseseee to the Appellate Assistant Commissioner and to the Incometax Appellate Tribunal were unsuccessful.	Facts
+The Tribunal, however, agreed to refer two questions of law to the High Court of Judicature at Bombay, namely,  (1) Whether the municipal taxes paid by the applicant company are an allowable deduction under the provisions of S. 9 (1) (iv), Incometax Act (2) Whether the urban immovable property taxes paid by the applicantcompany are an allowable deduction under S. 9 (1) (iv) or under S. 9 (1) (v), Income tax Act.(3)	Facts
+A supplementary reference was made covering a third question which was not raised before us and it is not therefore necessary to refer to it.	Facts
+The High Court answered all the three questions in the negative and hence this appeal.(4)	Facts
+The question for our determination is whether the municipal property tax and urban immovable property tax can be deducted as an allowance under cl.	None
+(iv) of subs.	Issue
+(1) of S. 9 of the Act.	Issue
+The decision of the point depends firstly on the Construction of the language employed in sub cl (iv) of sub S. (1) of S. 9 of the Act, and secondly, on a finding as to the true nature and character of the liability of the owner under the relevant Bombay Acts for the payment of these taxes.(5) Section 9 along with the relevant clauses runs thus 9 (1)	Issue
+The tax shall be payable by an assessee under the head income from property in respect of the bona fide annual value of property consisting of any buildings of lands appurtenant thereto of which he is the owner, subject to the following allowances, namely (iv) where the properly is subject to a mortgage or other capital charge the amount of any interest on such mortgage or charge where the property is subject to an annual charge not being a capital charge, the amount of such charge where the property is subject to a ground rent, the amount of such ground rent and, where the property has been acquired constructed, repaired, renewed or reconstructed with borrowed capital, the amount of any interest payable on such capital. . . .	None
+.(6)	None
+It will be seen that cl.	None
+4 consists of four subclause corresponding to the four deductions allowed under the clause.	None
+Before the amending Act of l939 Cl. 4 contained only subcls.	None
+(1).	None
+(3) and (4) Under subcl (1), interest is deductible whether the amount borrowed on the security of the property was spent on the property or not.	None
+There is not question of any capital or other expenditure on the property.	None
+The expression capital charge in the subclause cannot connote a charge on the capital, that is, the property assessed.	None
+That would be a redundancy as the opening words themselves clearly indicate that the charge is on the property.	None
+We are therefore of opinion that capital charge here could only mean a charge created for a capital sum, i. e., a charge to secure the discharge of a liability of a capital nature.(7)	None
+In 1938, the Privy Council decided the case of Bijoy Singh v. Commissioner of Income tax, Calcutta, It was not an assessment under S.9 but an assessment on the general income of an assessee who was liable to pay maintenance for his stepmother which had been charged on all his assets by a decree of Court.	None
+It was not a liability voluntarily incurred by him but one cast on him by law.	None
+The Privy Council held that the amount paid by him in discharge of that liability formed no part of his real income and so should not be included in his assessment.	None
+Though the decision proceeded on the principle that the outgoing were not part of the assessees income at all, the framers of the amending Act of 1939 wanted, apparently, to extend the principle, so far as the assessment of property was concerned, even to cases were obligatory payments had to be made out of the assessees income from the property charged with such payments and subcl.	None
+(2), namely, where the property is subject to an annual charge not being a capital charge, the amount of such charge was added.	None
+It is this subclause which the appellant invokes in support of its claim to deduction of the municipal and urban property taxes in the present case.	None
+In view of the opening words of the newly added sub clause, the expression capital charge also used therein cannot have reference to charge on the property, and we think it must be understood in the same sense as in subcl.	None
+(1) that is to say, subcl.(1) having provided for deduction of interest where a capital sum is charged on the property, this subclause provides for a deduction of annual sums so charged, such sums not being capital sums, the limiting words being intended to exclude cases where capital raised on the security of the property is made repayable in instalments.(8)	None
+In Commissioner of Income tax, Bombay v. Mahomedbhoy I. A. Rowji a Bench of the Bombay High Court consideration the meaning of these words.	None
+As regards annual charge, Beaumont C. J. observed as follows The words, I think, would cover a charge to secure an annual liability.	None
+Kania J., as be then was, said as follows I do not see how a charge can be unless it means a charge in respect of a payment to be made annually.	None
+This construction of the words has been followed in the judgment under appeal.(9)	None
+In Gappumal Kanhaya Lal v. Commissioner of Incometax, (the Connected appeal before us), the Bench of the Allahabad High Court agreed with the construction placed on these words in the Bombay case, i. e., the words annual charge mean charge to secure an annual liability.	None
+It is therefore clear that there is no conflict of judicial decisions, as to the meaning of the phrase annual charge occurring in S. 9(1) (iv) and the meaning given is the natural meaning of these words.(10)	None
+As to the phrase capital charge, Beaumont C. J. in the case above referred to took the view that the words mean a charge on capital.	None
+Kania J., however.	None
+took a difference view and observed that he was not prepared to accept the suggestion that a document which provides for a certain payment to be made monthly or annually and charged on immovable property the estate of an individual becomes a capital charge.	None
+In the Allahabad judgment under appeal, these words were considered as not meaning a charge on capital.	None
+It was said that if an annual charge means a charge to secure the discharge of an annual liability, then capital charge means a charge to secure the discharge of a liability of a capital nature.	None
+We think this construction is a natural construction of the section and is right.(11)	None
+The determination of the point whether the taxes in dispute fall within the ambit of the phrase annual charge not being a capital charge depends on the provisions of the statues under which they are levied.	None
+S. 148, City of Bombay Municipal Act, 1838, authorises the levy of a general tax on all buildings and lands in the city The primary responsibility to pay this property tax is on the lessor (vide S. 146 of the Act).	None
+In order to assess the tax provision has been made for the determination of the annual ratable value of the building in S. 154 S. 156 provides for the maintenance of an assessment book in which entries have to be made every official year of all buildings in the city, their rateable value, the names of persons primarily liable for payment of the property tax on such buildings and of the amount for which each building has been assessed.	None
+S. 167 lays down that the assessment book need not be prepared every official year but public notices shall be given in accordance with Ss.160 to 162 every year and the provisions of the said sections and of Ss. 163 and 167 shall be applicable each year.	None
+These sections lay down a procedure for bearing objections and complaints against entries in the assessment book.	None
+From these provisions it is clear that the liability for the tax is determined at the beginning of each official year and the tax is an annual one.	None
+It recurs from year to year.	None
+Sections 143 to 168 concern the themselves with the imposition, liability and assessment of the tax for the year.	None
+The amount of the tax for the year and the liability for its payment having been determined, the Act then prescribes for its collection in the chapter the collection of taxes.	None
+S. 197 provides that each of the property taxes shall be payable in advance in half yearly instalments on each first day of April and each first day of October.	None
+The provision as to half yearly instalment necessarily connotes an annual liability.	None
+In other words, it means that the annual liability can be discharged by half yearly payments.	None
+Procedure has also been prescribed for recovery of the institutions by presentment of a bill, a notice demand and then distress, and safe.	None
+Finally S.212 provides as follows Property taxes due under this Act in respect of any, building or land shall, subject to the prior payment of the land revenue, if any, due to the Provincial Government thereupon, be a first charge, .	None
+upon the said building or land It creates a statutory charge on the building(12) Urban immovable property tax is leviable under S.23 of Part VI, Bombay Finance Act, 1932, on the annual letting value of the property.	None
+The duty to collect the tax is laid on the municipality and it does so in the same manner as in the case of the municipal property tax.	None
+S. 24 (2) (b) is in terms similar to S.212 Bombay Municipal Act.	None
+It makes the land or the building security for the payments of this tax also.	None
+For the purpose of S.9 Incometax Act, both these taxes, namely, the municipal property tax as well as the urban immovable property tax are of the same character and stand on the same footing.(13)	None
+Mr. Munshi, the learned counsel for the appellant, contended that both the taxes are assessed on the annual value of the land or the building and are annual taxes, although it may be that they are collected at intervals of six months for the sake of convenience, that the incometax itself is assessed on an annual basis, that in allowing deductions all payments made or all liabilities incurred during the previous year of assessment should be allowed and that the taxes in question fell clearly within the language of S. 9 (1) (iv).	Arguments of Petitioner
+The learned AttorneyGeneral on the other hand, argued that although the taxes are assessed for the year the liability to pay them arises at the beginning of each half year and unless notice of demand is issued and a bill presented there is no liability to pay them and that till then no charge under S.212 of the Act could possibly arise and that the liability to pay being half yearly in advance, the charge is not an annual charge.	Arguments of Respondent
+It was also suggested that the taxes were a capital charge in the sense of the property being security for the payment.	Arguments of Respondent
+We are satisfied that the contentions raised by the learned AttorneyGeneral are not sound.	None
+It is apparent from the whole tenor of the two Bombay Acts that the taxes are in the nature of an annual levy on the property and are assessed on the annual value of the property each year.	None
+The annual liability can be discharged by half yearly instalments.	None
+The liability being an annual one and the property having been subjected to it, the provisions of cl.	None
+(iv) of subs.	Issue
+(1) of S.9 are immediately attracted.	None
+Great emphasis was laid on the word due used in S. 212, Municipal Act and it was said that as the taxes do not become due under the Act unless the time for the payment arrives, no charges comes into existence till then and that the charge is not an annual charge.	None
+We do not think that this is a correct construction of S. 212.	None
+The words property taxes due under this Act mean properly taxes for which a person is liable under the Act Taxes payable during the year have been made a charge on the property.	None
+The liability and the charge both coexist and are coextensive.	None
+The provisions of the Act affecting facilities for the discharge of the liability do not in any way affect their true nature and character.	None
+If the annual liability is not discharged in the manner laid down by S. 197, can it be said that the property, cannot be sold for recovery of the whole amount due for the year ?	None
+The answer to this query only be in the affirmative i.e., that the property is liable to sale.(14)	None
+In Commissioner of Incometax Bombay v. Mohomdbhoy I. A. Rowji, Beuumont C. J., while rejecting the claim for the deduction of the taxes, placed reliance on S.9 (1) (v) which allows a deduction in respect of any sums paid on account of land revenue.	Reasoning
+It was observed that land revenue stands on the same footing as municipal taxes and that as the Legislature made a special provision for deduction of sums payable in regards to land revenue but not in respect of sums paid on account of municipal taxes that circumstances indicated that the deduction was not allowable.	Reasoning
+For the same purpose reference was also made to the provisions of S. 10 which deal with business allowances and wherein deduction of any sum paid on account of land revenue, local rates or municipal taxes has been allowed.	Reasoning
+In the concluding part of his judgment the learned Chief Justice said that it was not necessary for him to consider what the exact meaning of that words was and that it was sufficient for him to say that, it did not cover municipal taxes, which are made a charge on the property under S.2, Bombay Municipal Act.	Reasoning
+Without determining the exact meaning of the words used by the statute, it seems to us it was not possible to arrive at the conclusion that the taxes were not within the ambit of the clause.	Reasoning
+It is elementary that the primary duty of a Court is to give effect to the intention of the Legislature as expressed in the words used by it and to outside consideration can be called in aid to find that intention.	Reasoning
+Again reference to cl.	Reasoning
+(v) of the section is not very helpful because land revenue is a charge of a paramount nature on all buildings and lands and that being so a deduction in respect of the amount was mentioned in express terms.	Reasoning
+Municipal taxes on the other hand do not stand on the same footing as land revenue.	Reasoning
+The law as to them various from provided to province and they may not be necessarily a charge on property in all cases.	Reasoning
+The Legislature seems to have thought that so far as municipal taxes no property are concerned.	Reasoning
+If they fall within the ambit of cl.	Reasoning
+(iv),deduction will be claimable in respect of them but not otherwise.	Reasoning
+The deductions allowed in S. 10 under the head income from business proceed on a different footing and a construction of S. 9 was the aid of S. 10 is apt to mislead.(15)	Reasoning
+Kania J. in the above case in arriving at his conclusions on was influence by the consideration that these taxes were of a variable character i.e. liable to be increased or reduced under the various provisions of the Municipal Act and that the charge was in the nature of a contingent charge.	Reasoning
+With great respect it may be pointed out that all charge in a way may be or are of a variable and contingent nature.	Reasoning
+If no default as made no charge is ever enforceable and whenever there is a charge, it can be increased or reduced during the year either by payment or by additional borrowing.(16)	Reasoning
+In Moss Empires Ltd. v. Inland Revenue Commissioners it was held by the House of Lords that the fact that certain payments were contigent and variable in amount did not affect their character of being annual payments and that the word annual must be taken to have the quality of being recurrent or being capable of recurrence.(17)	Reasoning
+In Cunards Trustees v. Inland Revenue Commissioners, it was held that the payments were capable of being recurrent and were therefore annual payments within the meaning of Sch.	Reasoning
+D, case III, R. 1 (i), even though they were not necessarily recurrent year by year and the fact that they varied in amount was immaterial.	Reasoning
+The learned AttorneyGeneral in view of these decisions did not support the view expressed by Kania, J.(18) Reliance was placed on a decision of the High Court of Madras in Mamad Keyi v. Commissioner of Incometax, Madras, in which moneys paid as urban immovable property tax under the Bombay Finance Act were disallowed as inadmissible under S. 9(1)(iv) or 9(1)(v), Incometax Act.	Reasoning
+This decision merely followed the view expressed in Commissioner of Incometax, Bombay v. Mahomedbhoy, I. A. Rowji, and was not arrived at on any independent or fresh reasoning and is not of much assistance in the decision of the case.	Reasoning
+The Allahabad High Court in Gappumal Kanhaiya Lal v. Commissioner of Incometax, (the connected appeal) took a correct view of this matter and the reasoning given therein has our approval.(19)	None
+The result is that this appeal is allowed and the two questions which were referred to the High Court by the Incometax Tribunal and cited above are answered in the affirmative.	Decision
+The appellants will have their costs in the appeal.(20)	None
+Appeal allowed.	None

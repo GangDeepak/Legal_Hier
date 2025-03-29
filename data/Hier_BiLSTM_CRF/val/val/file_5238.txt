@@ -1,0 +1,410 @@
+ SANJIV KHANNA, J. 1.
+Leave is granted in the above captioned Special Leave Petitions which emanate from the judgment dated 24th October, 2020 by a Division Bench of the Karnataka High Court, deciding three writ petitions and a writ appeal, wherein the challenge in substance was to the winding up, as well as the procedure for winding up, of six schemes of the Franklin Templeton Mutual Fund, namely (i) Franklin India Low Duration Fund (Number of Segregated portfolios 2), (ii) Franklin India Ultra Short Bond Fund (Number of Segregated portfolios 1), (iii) Franklin India Short Term Income Plan (Number of Segregated portfolios 3), (iv) Franklin India Credit Risk Fund (Number of Segregated portfolios 3), (v) Franklin India Dynamic Accrual Fund (Number of Segregated portfolios 3), and (vi) Franklin India Income Opportunities Fund (Number of Segregated portfolios 2).
+2.
+The judgment under challenge inter alia interprets the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 (Mutual Fund Regulations Regulations) framed by the Securities and Exchange Board of India (SEBI) to hold that clause (c) to sub regulation (15) of Regulation 18 mandates consent of the unitholders for winding up of mutual fund schemes even when the trustees form an opinion that the scheme is required to be wound up in terms of clause (a) to subregulation (2) of Regulation 39 of the Mutual Fund Regulations.
+To this extent, the judgment under challenge substantially agrees with the unitholders, albeit SEBI in its appeal before this Court contests this interpretation as erroneous.
+In other words, SEBI propounds that clause (a) of subregulation (2) to Regulation 39 is a standalone provision and the unitholders consent is not required when the trustees upon happening of an event form an opinion that the mutual fund scheme is to be wound up.
+3.
+The objecting unitholders (also referred to as objectors) primary grievance relates to allegations of gross mismanagement, failure and dereliction of duty by the Asset Management Company (AMC) and Franklin Templeton Trustee Services Private Limited (trustees or board of trustees) violation of the Securities and Exchange Board of India Act, 1992 (SEBI Act) Mutual Fund Regulations SEBI harmonization norms investment horizon profiles manipulation of Net Asset Value (NAV) disgorgement of wrongful payments etc.
+In particular, it is alleged that more than Rs. 15,000 crores were withdrawn from the six schemes two weeks prior to the decision for winding up.
+Objecting unitholders submit that a finding of fraud, on the part of the trustees and AMC, would entitle them to restitution etc.
+Other issues raised include the question of privilege regarding the forensic audit report.
+4.
+While the objecting unitholders submit that the trustees decision to wind up the six schemes is a smokescreen to conceal misfeasance and malfeasance, which issues along with the question of liability of the trustees AMC should be decided first or together we have deliberately decided to segregate and examine these issues subsequently.
+Pertinently, after receipt of the forensic audit report, SEBI has issued show cause notice which is pending adjudication.
+Common people invest in mutual funds driven by factors such as simplicity in purchase and redemption of units, flexibility of holding and tenure, and liquidity by conversion into money.
+In the light of this, immediate directions are required as embargo prohibiting redemption of the units, effected by Regulation 40 from the date of publication of notice under Regulation 39(3)(b) on 23rd April 2020, for over ten months.
+Thereby the unitholders have suffered privation and harassment.
+This, in same manner, also undermines public sentiments and confidence vital for investments in mutual funds.
+Hence, in view of larger public interest, presently we are only deciding the limited aspect of unitholders consent to winding up assuming that Regulation 18(15)(c) would apply even where the trustees form an opinion that a scheme should be wound up under Regulation 39(2)(c), and are persuaded to direct winding up of the six schemes to ensure disbursement of funds and liquidation of assets securities.
+5.
+We have further taken note of the trustees submissions that (i) as on 15th January, 2021, NAV of five of the six schemes was higher than their respective NAVs on 23rd April, 2020 and in one scheme it was marginally lower (ii) five of the six schemes have turned cash positive (iii) accumulated distributable cash proceeds of Rs.9,122 crores (as on 15th January 2021) and (subject only to provision for expenses in ordinary course) is immediately available for disbursement to unitholders and (iv) Assets Under Management (AUM) of the six schemes has increased from Rs.25,648 crores as on 23rd April, 2020 to Rs.26,343 crores as on 15th January, 2021.
+Lastly and importantly, during the course of hearing on 2nd February, 2021, counsels for the objecting unitholders have agreed to disbursal of Rs.9,122 crores amongst the unitholders, which, it has been directed would be in proportion to the unitholders respective interest in the assets of the scheme, as suggested by SEBI.
+It is obvious that this disbursal to unitholders is possible only when we accept that the six schemes should be wound up.
+6.
+Before we advert to the order passed by this Court for eliciting consent approval from the unitholders, we deem it appropriate to first reproduce subregulation (15) to Regulation 18 of the Mutual Fund Regulations, which reads as under Regulation 18 Rights and obligations of the trustees xx xx
+xx
+(15) The trustees shall obtain the consent of the unitholders a) whenever required to do so by the Board in the interest of the unitholders or b) whenever required to do so on the requisition made by threefourths of the unitholders of any scheme or c) when the majority of the trustees decide to wind up or prematurely redeem the units.
+7. Interpreting the term consent with reference to clause (c) of sub regulation (15) to Regulation 18, the judgment under challenge holds 221.
+Obviously, there can be a consent of the unit holders to a proposed of winding up of a Scheme only if the majority of the unitholders give consent to do so.
+Subclause (c) of clause (15) of Regulation 18 is silent on the nature of majority.
+Obviously, it is not a specific majority like threefourth majority.
+Wherever threefourth majority of the unitholders was intended, the Mutual Funds Regulations say so.
+For example, subclause (b) of clause (15) of Regulation 18 and subclause (b) of clause (2) of Regulation 39.
+Therefore, it has to be a simple majority.
+For this purpose, we must make a reference to a decision of a Full Bench of the Allahabad High Court in the case of Wahid Ullah Khan v. District Magistrate, Nanital.
+In paragraph 32, the Allahabad High Court held thus 32.
+The word majority speaks, of greater number out of the total number which cannot be a fixed number.
+In fact, the starting point of majority is more than half, but any number more than half still continues to be majority.
+Majority cannot be said only confining to more than half.
+Majority of threefourths of the total number, twothirds of the total number would all come within the sphere of the word majority.
+A person is said to have won by a majority of fifty thousand votes or thirty thousand votes.
+All speak about the extent of majority.
+A majority may start from a number which is more than half and would continue till the balance of the number excluding one number.
+In the matter of votes if a resolution is carried either in favour or against by all it is said to be unanimous.
+Majority is used in contradiction to minority.
+Thus, there must exist a minority vote.
+So, even where one vote is cast in favour or against resolution the balance of the total number of votes cast would all be a number of majority vote.
+222.
+The meaning assigned by the Allahabad High court to the word majority appears to be most correct meaning.
+The Blacks Law Dictionary provides that a majority means a number that is more than half of a total.
+Therefore, consent, as contemplated by sub clause (c) of clause (15) of Regulation 18 will have to be by a simple majority of the unitholders of a particular Scheme which is decided to be wound up.
+While we partly agree with the aforesaid observations, we would like to emend the meaning given to the expression the consent of the unitholders for the purpose of clause (c) to sub regulation (15) of Regulation 18.
+8.
+However, we begin by rejecting the argument raised by some of the objecting unitholders that consent would be binding only on those who have consented to winding up of the mutual fund schemes and cannot be imposed on others.
+The word consent, in the context of the clause, clearly refers to consent of the majority of the unitholders, and not consent given by individual unitholders who alone would be bound by their consent, that is, it excludes unitholders who are not agreeable.
+To accept the second or contra view, as pleaded by some of the objecting unitholders, would be to negate the very object and purpose of clause (c) to subregulation (15) of Regulation 18.
+In fact, the submission, if accepted, will make the Mutual Fund schemes and the winding up provisions in the Mutual Fund Regulations unworkable as there would be two different classes of unitholders one bound by the consent, and others who are not bound by consent.
+Consequently, the scheme would not wind up.
+The intent behind the provision is to bind even those who do not consent.
+9.
+Blacks Law Dictionary (10th Edition) defines the word consent as a voluntary yielding to what another proposes or desires agreement, approval, or permission regarding some act or purpose, esp.
+given voluntarily by a competent person legally effective assent.
+The dictionary also defines general consent to mean adoption without objection, regardless of whether every voter affirmatively approves.
+Shackleton on the Law and Practice of Meetings, 14th Edn., while defining majority, and the binding effect of majority, has opined Definition 730.
+Majority is a term signifying the greater number.
+In legislative and deliberative assemblies, it is usual to decide questions by a majority of those present and voting.
+This is sometimes expressed as a simple majority, which means that a motion is carried by the mere fact that more votes are cast for than against, as distinct from a special majority where the size of the majority is critical.
+The principle has long been established that the will of a corporation or body can only be expressed by the whole or a majority of its members, and the act of a majority is regarded as the act of the whole.
+A majority vote binds the minority 731.
+Unless there is some provision to the contrary in the instrument by which a corporation is formed, the resolution of the majority, upon any question, is binding on the majority and the corporation, but the rules must be followed.
+(See State of Madhya Pradesh and Another v. Mahendra Gupta and Others, (2018) 3 SCC 635.)
+The word expression consent in subregulation (15) to Regulation 18 refers to affirmative consent to winding up by the majority of the unitholders.
+Conversely, consent is denied when majority of the unitholders do not approve the proposal to wind up the scheme.
+10.
+However, the question which still remains to be answered is whether consent would mean majority of the unitholders who exercise their right in the poll, or majority of all the unitholders of the scheme.
+Connected with the question is the concern of quorum, which means the minimum number of members of the entire body of members required to be present to legally transact business.
+11.
+Shackleton in the above quotation has referred to distinction between simple and special majority.
+More appropriate for our discussion is William Paul Whites thesis History and Philosophy of the Quorum as a Device of Parliamentary Procedure published in 1967, in which he elucidates Much of the controversy that has been historically associated with the quorum can be traced to the problem of simply determining just what is meant by a quorum.
+From the very earliest times it has been recognised as a general rule that a majority of a group is necessary to act for the entire group.
+In the case of a public body, the power or authority which establishes the body may also determine what constitutes a quorum.
+Sturgis states that common parliamentary law fixes the quorum as a majority of the members.
+The constitution of the United States sets the quorum requirement in the House of Representatives at a majority of the membership.
+But to state that a quorum is a majority of the membership opens the way to potential conflict which is precisely what has happened on numerous occasions.
+After examining the various definitions of the term quorum, the author observes that the definitions by themselves give no key as to how to determine what is minimum number or what constitutes majority.
+The expression majority can mean  (i) majority of total membership list (ii) exclude or include delinquent members (iii) members present and voting or (iv) those present, voting and not voting.
+Different meanings, he observed, have added to the confusion around the concept of the quorum.
+Albeit referring to the position in 1967, the author observed As we have emerged into the modern era, it is not surprising that by now the method, which has been legally agreed upon by the courts, to determine minimum and majority, is well established.
+12.
+Clause (c) to subregulation (15) of Regulation 18 per se does not prescribe any quorum or specify the criterion for computing majority or ratio of unitholders required for valid consent for winding up.
+Clause (b) of Regulation 39(2), on the other hand, specifies that seventyfive per cent of the unitholders of a scheme can pass a resolution that the scheme be wound up.
+Similarly, Regulation 41(1) requires the trustees to call a meeting to approve, by simple majority of the unitholders present and voting, a resolution for authorising the trustees or any other person to take steps for winding up of the scheme.
+Section 48 of the Companies Act, 2013 states that where share capital of a company is divided into different classes of shares, the rights attached to the shares of any class may be varied with the consent in writing of the shareholders of not less than threefourths of the issued shares of that class.
+Subsection (3) to Section 55 of the Companies Act, 2013 in case of failure to redeem or pay dividend refers to consent of holders of threefourths in value of the preference shares.
+Section 103 of the Companies Act, 2013 prescribes minimum quorum for shareholder meetings.
+13.
+In Shri Ishwar Chandra v. Shri Satyanarain Sinha and Others,(1972) 3 SCC 383 this Court on the question of quorum has held If for one reason or the other one of them could not attend, that does not make the meeting of others illegal.
+In such circumstances, where there is no rule or regulation or any other provision for fixing the quorum, the presence of the majority of the members would constitute it a valid meeting and matters considered there at cannot be held to be invalid.
+This decision had also relied on the exposition on the subject of quorum in the Halsburys Laws of England, Third Edition (Vol. IX, page 48, para 95), which reads 95.
+Presence of quorum necessary.
+The acts of a corporation, other than a trading corporation, are those of the major part of the corporators, corporately assembled.
+In other words, in the absence of special custom or of special provision of the constitution, the major part must be present at the meeting, and of that major part there must be a majority in favour of the act or resolution contemplated.
+Where, therefore, a corporation consists of thirteen members, there ought to be at least seven present to form a valid meeting, and the act of the majority of these seven or greater number will bind the corporation.
+In considering whether the requisite number is present, only those members must be included who are competent to take part in the particular business before the meeting.
+The power of doing a corporate act may , however, be specially delegated to a particular number of members, in which case, in the absence of any other provision, the method of procedure applicable to the body at large will be applied to the select body.
+If a corporate act is to be done by a definite body along, or by definite body coupled with an indefinite body, a majority of the definite body must be present.
+Where a corporation is composed of several select bodies, the general rule is that a majority of each select body must be present at a corporate meeting but this rule will not be applied in the absence of express direction in the constitution, if its application would lead to an absurdity or an impossibility.
+(emphasis supplied) 14.
+The concept of absurdity in the context of interpretation of statutes is construed to include any result which is unworkable, impracticable, illogical, futile or pointless, artificial, or productive of a disproportionate counter mischief (See Bennion on Statutory Interpretation, 5th Edition, at 969.).
+Logic referred to herein is not formal or syllogistic logic, but acceptance that enacted law would not set a standard which is palpably unjust, unfair, unreasonable or does not make any sense.(Ibid at 986.)
+When an interpretation is beset with practical difficulties, the courts have not shied from turning sides to accept an interpretation that offers a pragmatic solution that will serve the needs of society( Ibid at 971, quoting Griffiths LJ.).
+Therefore, when there is choice between two interpretations, we would avoid a construction which would reduce the legislation to futility, and should rather accept the construction based on the view that draftsmen would legislate only for the purpose of bringing about an effective result.
+We must strive as far as possible to give meaningful life to enactment or rule and avoid cadaveric consequences(See Principles of Statutory Interpretation by Justice G.P. Singh, 14th Edition, at 50.).
+15.
+We would neither hesitate in stating the obvious, that modern regulatory enactments bear heavily on commercial matters and, therefore, must be precisely and clearly legislated as to avoid inconvenience, friction and confusion, which may, in addition, have adverse economic consequences(See Bennion on Statutory Interpretation, 5th Edition, at 980.).
+The legislator in the present case must, therefore, reflect and take remedial steps to bring about clarity and certainty in the Mutual Fund Regulations.
+16.
+Reading prescription of a quorum as majority of the unitholders or consent as implying consent by the majority of all unitholders in Regulation 18(15)(c) of the Mutual Fund Regulations will not only lead to an absurdity but also an impossibility given the fact that mutual funds have thousands or lakhs of unitholders.
+Many unitholders due to lack of expertise, commercial understanding, relatively small holding etc. may not like to participate.
+Consent of majority of all unitholders of the scheme with further prescription that fifty percent of all unitholders shall constitute a quorum is clearly a practical impossibility and therefore would be a futile and foreclosed exercise.
+17.
+Conscious of the problem of quorum and majority in indefinite electorate, 1st Edition of Halsburys Laws of England on the question of quorum and meetings, had referred to the following principles 791.
+Where a corporation consists of a definite number of corporate electors, a majority of that number must be present in order to constitute a valid election.
+But where a corporation consists of an indefinite number of corporate electors, a majority only of those existing at the time of the election need be present.
+When an election is to be made by a definite body only, or the electoral assembly is to consist of a definite and an indefinite body, the majority of the definite body must, as a general rule, be present in order to render the election legal.
+It is not necessary that a majority of the indefinite body should be present so long as there is majority of the definite body.
+If a constituent part of a corporation refuses to be present at an election, it cannot be held, and an election by the remaining parts will be void.
+But electors present at an election and abstaining from voting are deemed to acquiesce in the election made by those who vote.
+The aforesaid exposition, for the purpose of majority and quorum, draws distinction between an electorate consisting of definite number and an electorate composed of indefinite number.
+Justice Seshagiri Ayyar of the Madras High Court in his concurring judgment in Syed Hasan Raza Sahib Shamsul Ulama and two others v. Mir Hasan Ali Sahib and two others(AIR 1918 Mad 1131) had drawn distinction between definite and indefinite numbers in the following manner In the first class of cases, the number of the select body is fixed.
+In the second class of cases, the number is subject to variation every year or at stated periods.
+For example, the number of electors of a Temple Committee or the number for a Municipality is liable to fluctuation.
+Residence for a particular period, or the attaining of age of minors can bring in new electors.
+Whereas in the case of a Select Committee, the number is fixed In the case of unitholders, the number is fluctuating and ever changing and, therefore, indefinite.
+Numbers of unitholders can increase, decrease and change with purchase or redemption.
+Therefore, in the context of clause (c) of Regulation 18(15), we would not, in the absence of any express stipulation, prescribe a minimum quorum and read the requirement of consent by the majority of the unitholders as consent by majority of all the unitholders.
+On the other hand, it would mean majority of unitholders who exercise their right and vote in support or to reject the proposal to wind up the mutual fund scheme.
+The unitholders who did not exercise their choice option cannot be counted as either negative or positive votes as either denying or giving consent to the proposal for winding up.
+18.
+Investment in share market, though beneficial and attractive, requires expertise in portfolio construction, stock selection and market timing.
+In view of attendant risks, diversification of portfolio is preferred but this consequentially requires a larger investment.
+Mutual funds managed by professional fund managers with advantages of pooling of funds and operational efficiency are the preferred mode of investment for ordinary and common persons.
+It would be wrong to expect that many amongst these unitholders would have definitive opinion required and necessary voting in a poll on winding up of a mutual fund scheme.
+Such unitholders, for varied reasons, like lack of understanding and expertise, small holding etc., would prefer to abstain, leaving it to others to decide.
+Such abstention or refusal to express opinion cannot be construed as either accepting or rejecting the proposals.
+Keeping in view the object and purpose of the Regulation with the language used therein, we would not accept a construction which would lead to commercial chaos and deadlock.
+Therefore, silence on the part of absentee unitholders can neither be taken as an acceptance nor rejection of the proposal.
+Regulation 18(15)(c),
+upon application in ground reality, must not be interpreted in a manner to frustrate the very law and objective purpose for which it was enacted.
+We would rather accept a reasonable and pragmatic construction which furthers the legislative purpose and objective.
+The underlying thrust behind Regulation 18(15)(c) is to inform the unitholders of the reason and cause for the winding up of the scheme and to give them an opportunity to accept and give their consent or reject the proposal.
+It is not to frustrate and make winding up an impossibility.
+Way back in 1943, Sutherland in Statutes and Statutory Construction, Volume 2, Third Edition at page no. 523, in Note 5109, had stated Where a statue has received a contemporaneous and practical interpretation and the statute as interpreted is reenacted, the practical interpretation is accorded greater weight than it ordinarily receives, and is regarded presumptively the correct interpretation of the law.
+The rule is based upon the theory that the legislature is acquainted with the contemporaneous interpretation of a statue, especially, when made by an administrative body or executive officers charged with the duty of administering or enforcing the law, and therefore impliedly adopts the interpretation upon re enactment.
+With some modifications, the principle can be applied in the present case.
+Practical interpretation should be accorded greater weight than it ordinarily receives, and can be regarded as presumptively correct interpretation as the draftsmen legislate to bring about a functional and working result.
+19.
+We would not read into Regulation 18(15)(c) a need to have affirmative consent of majority of all or entire pool of unitholders.
+The words all or entire are not incorporated and found in the said Regulation.
+Thus, consent of the unitholders for the purpose of clause (c) to subregulation (15) of Regulation 18 would mean simple majority of the unitholders present and voting.
+20.
+In the first hearing before this Court on 3rd December, 2020, we had, without prejudice to the rights and contentions of the parties, permitted the trustees to call a meeting of the unitholders to seek their approval consent for winding up.
+Steps in this regard were to be taken within a period of one week from the date of the order.
+Pursuant to the order, the trustees in their meeting held on 5th December, 2020 had approved the notices to be sent to the unitholders of the six schemes.
+It was decided that the unitholders were to be provided evoting facility from 0900 a.m. on 26th December, 2020 till 0600 p.m. on 28th December, 2020.
+Meeting by way of video conferencing would be held on 29th December, 2020 to seek approval of the unitholders, for or against the winding up of the six schemes.
+The unitholders participating in the meeting could opt to vote on 29th December, 2020, in the duration starting with the commencement of the meeting till the conclusion of fifteen minutes after the closure of the meeting.
+21.
+By order dated 9th December, 2020, this Court had directed SEBI to appoint an Observer for the evoting by the unitholders scheduled between 26th and 29th December, 2020.
+However, it was clarified that the trustees were undertaking the exercise of evoting and that SEBI would appoint an Observer in terms of our directions.
+The results of the evoting, it was directed, would not be declared and would be produced before this Court in a sealed cover along with the report of the Observer appointed by SEBI.
+22.
+SEBI, vide its letter dated 18th December, 2020, had appointed Mr. T.S. Krishnamurthy, former Chief Election Commissioner of India, to act as the Observer regarding evoting of the unitholders of the six schemes.
+A Technical Assistance Team was also constituted by SEBI to assist Mr. T.S. Krishnamurthy.
+The Technical Assistance Team comprised the following persons (i) Mr. B.N. Sahoo, Chief General Manager, SEBI, Mumbai (ii) Ms. Nayana Ovalekar, Chief Operating Officer, Central Depository Services (India) Limited (CDSL), Mumbai (iii) Mr. K. Sriram, Practising Company Secretary and Scrutiniser, Chennai (iv) Mr. M. Krishna, Assistant Director, Central Forensic Science Laboratory (CFSL), Hyderabad and (v) Mr. Ch E Sai Prasad, Assistant Director, CFSL, Hyderabad.
+23.
+Order of this Court dated 18th January, 2021 records that Mr. T.S. Krishnamurthy had submitted his report, and the evoting results recorded therein were read out in the Court.
+The Registry was directed to scan the report and make ecopies of the Observers report available to the counsels for the parties, including Advocates onRecord who had filed applications for intervention impleadment.
+Parties were given liberty to file objections to the Observers report e voting results, with right to others to file response reply to the objections.
+It was also directed that the Court would first decide the objections, the procedure to be followed and the question whether the procedure under Regulation 41(1) in the facts of the present case is mandated.
+24.
+Order of this Court dated 25th January, 2021, clarified that the Court would first examine the objections to the evoting results and the issue question whether or not disbursal payment to the unitholders should be made.
+Interpretation of Mutual Fund Regulations and other aspects would be examined and decided thereafter.
+This order also granted liberty to the objectors to file an application to place on record new facts, which had statedly come to their knowledge on 25th January, 2021.
+Option to file response reply to the application disclosing new facts was given to the opposite parties.
+25.
+The Observers report states that the six schemes put together as on 3rd December, 2020 had 3,15,600 unitholders.
+The figure was computed by consolidating folios on PAN basis.
+Out of this, 3,09,360 unitholders, amounting to 98 of the total, had either given their e mail ID or mobile number.
+In respect of 6,754 unitholders, neither e mail ID nor mobile numbers were available.
+On 11th December, 2020, notices via email were sent to 2,98,704 unitholders.
+On 17th December, 2020, information by way of SMS was sent to 5,872 unitholders on their mobile numbers.
+On 17th December, 2020 information through SMS was sent to 10,548 unitholders where no e mail addresses were available.
+However, delivery of 1,766 SMSs failed.
+Accordingly, the report observes that login IDs and passwords were communicated to 3,09,052 unitholders amounting to 97.92 of the total number of unitholders.
+26.
+M s. J. Sagar Associates, a law firm, was appointed as the Scrutiniser for the evoting process, its role being to oversee the conduct of evoting for all the six schemes in a fair and transparent manner.
+On 9th January, 2021, the Scrutiniser had submitted its report to the Observer setting out the final results.
+The Observer in paragraph 36 of his report has reproduced the results as set out in the Scrutinisers report, in a tabular form, which is as under Table 27.
+The aforesaid results have been computed tabulated on unitholders vote on one vote per unitholder basis.
+The trustees have also filed computation before us on the basis of one vote per unit held, i.e. proportionate or value basis.
+If calculated on proportionate value basis, the percentage of votes cast in favour of winding up would increase as per the table given below Table 28.
+Three other aspects may be noted (i) Regulation 18(15)(c) mandates and requires consent of the unitholders for winding up, but does not prescribe any mode or manner for taking consent.
+Therefore, by implication, the Regulation gives option of holding a physical meeting, postal poll or epoll.
+In physical meetings, voting may be by show of hands or by holding a poll.
+Show of hands is quick and an easy way to administer option but would not reflect and take into account the relative number of units held by the unitholders.
+Unitholders with fewer units have the same say as those with a greater number of units.
+It is not a good option when the proposal is contested.
+Poll, whether in a physical meeting, by way of a postal ballot or epoll, has an advantage as each unitholder has one vote for every unit share held.
+Therefore, in cases where there is huge disparity between the units held, or possibility of contest dispute, poll is the preferred method for ascertaining preference of the unitholders.
+The value of poll lies in the fact that the weighted voting strength based upon the number of units gives more accurate and precise results.
+Majority consent of the investors unitholders should depend upon the number of units held by them(Sections 107 to 110 of Companies Act, 2013 are express provisions and will accordingly apply in case of meeting of shareholders.).
+(ii) Polls are akin to election.
+Poll results like the election results are not to be lightly interfered with.
+More so, when it is fault of a third party and not of the proposer successful candidate.
+Poll results like election results are not to be regarded as vitiated by breach of rules or mistake, until and unless the breach or mistake, it is proved has materially affected the result of the poll.
+This general principle may be deviated from only when poll election is conducted so badly that it is not substantially in accordance with law as to elections, in which case it would not matter whether the result was affected or not.(See Morgan v. Simpson 1975 QB 151.).
+(iii) When the poll or voting is on issues or choices of commercial nature, normally it is not a part of the judicial process for the court to ferret out flaws by examining merits or wisdom of the unitholders who have voted.
+The court is not equipped and should refrain from entering into such oversights as doctrine of internal management, institutional sovereignty and right to opt and decide come into play.(See Fertilizer Corpn.
+Kamgar Union (Regd.) v. Union of India, (1981)
+1 SCC 568.)
+The unitholders are the best judge and are more conversant with their own interests.
+All that is to be seen is that broad parameters of fairness in the administration, bona fide poll election, and that fundamental rules of reasonable management of public business have not been breached.
+29.
+The objectors to the evoting results are sixteen in number and, as per details, they hold 20,02,114.041 units in the six schemes of value of Rs. 8,69,28,507.62.
+In percentage terms, the share of objectors in the total units is merely 0.024 and their share in the total AUM is 0.033.
+(Chennai Financial Markets and Accountability, one of the parties and an objector, does not hold any unit in the six schemes.
+Trustees AMC have questioned the locus and the role of CFMA.
+We are not presently examining the said aspect which is left open to be examined and decided, if required, later.)
+30.
+Faced with the aforesaid position, the objectors have submitted that only 38 of the unitholders had voted.
+On the other hand, the trustees AMC have submitted that the votes cast represent approximately 54 of the total number of units outstanding, i.e. nearly 54 of the unitholders on proportionate value basis.
+Though we have not been provided with schemewise breakup of the votes which should have been given, it does not matter in view of the overwhelming consent for winding up of the schemes.
+The trustees also state that a large number of corporate votes were rejected by the Scrutiniser on technical grounds of absence of corporate formalities for authorisation of the concerned representatives.
+The rejected votes represent 1,997 unitholders holding approximately 68.10 crore units valued at Rs. 2,464 crores.
+Further, an overwhelming majority of the rejected votes Rs. 2,420 crores by value, 98.6 by units and 97.5 by number of unitholders were in favour of the scheme.
+Accordingly, if these rejected votes are taken into consideration, the total votes being polled in proportionate terms would increase from approximately 54 to approximately 62. 31.
+We do not think we are required to go into the said aspect in great detail.
+As already held above, the unitholders were given a chance and option to vote and about 38 of the unitholders in numerical terms and 54 in value terms had exercised their right to give or reject consent to the proposal for winding up.
+In the absence or need for minimum quorum, which is not provided or stipulated in the Regulations nor mandated under law, the evoting result cannot be rejected on the ground that 38 of the unitholders in numerical terms and 54 in value terms, even if we do not account for the rejected votes, had participated.
+This cannot be a ground to reject and ignore the affirmative result consenting to the proposal for winding up of the six mutual fund schemes.
+32.
+Primary objection raised relates to appointment of M s. KFin Technologies Pvt. Ltd. (KFin Technologies) for providing evoting platform services.
+The submission being that KFin Technologies is an associate sister of M s. Karvy Stock Broking Limited.
+This company, M s. Karvy Stock Broking Limited, indicted by an adverse order dated 24th November, 2020 under Sections 11(1), 11(4) and 11B of the SEBI Act read with Regulation 35 of SEBI (Intermediary) Regulations, 2008, is barred from accepting new clients on grounds of investor fraud, falsification of records of investors clients and misuse of client funds.
+33.
+This argument does not impress us and cannot be a ground to reject the results.
+KFin Technologies, it has been pointed out, has been providing evoting platform services to listed public limited companies ever since the Ministry of Corporate Affairs mandated them to secure approval of the resolutions by the shareholders through electronic voting.
+The evoting platform of KFin Technologies is certified by the Ministry of Corporate Affairs approved certification agency, viz.
+STQC Website Quality Certification Services.
+KFin Technologies has conducted more than 4,500 evoting events since 2013.
+To reject the voting results on this rather specious submission would cast doubts with serious repercussions on evoting results of several reputed companies.
+The objectors are unable to point out even a single instance where KFin Technologies has been indicted.
+In the present case, the evoting exercise was also supervised by a team of technical experts, including Mr. M. Krishna and Mr. Ch E. Sai Prasad, Assistant Directors, CFSL, Hyderabad.
+34.
+Faced with the aforesaid situation, learned counsel for the objectors have drawn our attention to the report of the Assistant Directors, CFSL, Hyderabad which has been enclosed as Annexure11 to the Observers report.
+The relevant portion of the analysis in the report of the forensic experts is as under C.
+The Website https evoting.kfintech.com fulfills the requirement of the eVoting Website Quality Certification Scheme Quality Level II as per the STQC Website Quality Certification Services, MeitY, Govt. of India, New Delhi.
+The certificate bears the approval Number CQW/198 and valid up to 4th Feb, 2022.
+OBSERVATIONS OF THE ANALYSIS 1) The EVoting took place during the period 26th December 2020 to 28th December 2020.
+A. Analysis of the EVotes cast has been performed on the basis of EVoting Logs, EVoting Transaction Logs and the EVoting related data taken from the Master Data Base.
+The below table provides the details of the EVotes cast against each Scheme.
+Table B. 0.5 of the above votes have been selected randomly scheme wise and the same have been verified in the Master Database.
+The screen captures of the same are provided at Annexure I (Page Nos. 01 to 16).
+On verification the E Voting Logs match with the Master Database.
+2) Analysis of the Instapoll Votes during the AGM VCs conducted on 29th December 2020 indicate A. On 29th December 2020, AGM through video conferencing for the SIX Schemes took place at scheduled time intervals.
+The details are given below.
+B. It was informed by KFin Tech.
+that the customers who had voted already during the EVoting on 26th December 2020 to 28th December 2020 are not allowed to vote again during the Insta Voting process.
+C.
+The below table shows the details of Instapoll Votes Cast against the each Scheme Table In particular, our attention was drawn to paragraphs 4 and 5 of the report which records that complete database activity monitoring logs were not provided and that, for many votes, the IP address captured was the IP address of the Load Balancing Server of KFin Technologies.
+It was submitted by some of the objectors that the report given by KFin Technologies should be sent to the forensic experts for their comments.
+Paragraphs 3 to 5 of the analysis report of the forensic experts, reads 3)
+The event logs of the two Web Servers (P1WB1WV 1122 and P1WB1WV1146) and the database servers (P1DBWV1707) have been provided by the KFin Tech Pvt.
+Ltd.
+The analysis of these event logs reveals no abnormal events indicating the normal functionality of the systems.
+4) The analysis of the EVotes, Instapoll Votes cast on the basis of the IP Addresses indicate that there are instances of casting multiple votes from the same IP Address.
+The details are provided at Annexure I (Page Nos. 17 to 104).
+The customer details (scheme wise) wherein the same IP address has been logged for multiple EVotes have been provided at Annexure I (Page Nos. 105 to 1988).
+On analysis it is observed that for many of the votes the IP Address captured is 10.41.3.252, which is the IP Address of the Load Balancing Server of KFin Tech.
+KFin Tech informed that the capturing of the public IP Addresses of the incoming requests for EVotes was effective only after 26th December 2020 at 1231 Hrs.
+due to issues in implementing the configuration.
+The details of these EVotes are provided at Annexure I (Page Nos. 1989 to 2928).
+5) The complete Database Activity Monitoring Logs could not be provided by the KFin Tech Pvt.
+Ltd. 35.
+The trustees AMC and KFin Technologies have disputed paragraph 5 of the report stating that database monitoring logs were provided to the forensic experts.
+However, we need not go into the said aspect, for, in our opinion, paragraph 4 of the report is being misread and misunderstood by the objectors.
+It is correct that for some of the votes, the IP address 10.41.3.252 as captured was that of the Load Balancing Server of KFin Technologies.
+However, the report also records that KFin Technologies has explained that due to technical or implementation issues it was able to capture public IP address of e votes after 1231 hours on 26th December, 2020.
+Paragraph 4 states that details of the customers, schemewise, where the same IP address has been logged for multiple evotes, had been provided to the forensic experts.
+Clearly, the details of each customer unitholder where one or same IP address was used for casting multiple votes was furnished.
+It is not the case of the objectors that any of the unitholders voters have complained of impersonation or misuse of their identity.
+KFin Technologies has explained that in total 1,17,416 votes were registered in the system.
+The source IP address was captured in 88,293 cases.
+In 29,123 cases, votes with Load Balancing Server IP was captured in the IIS logs for which enduser IP report in the firewall between 26th December 2020 (0900 a.m. till 1231 p.m.) was available.
+They have, by way of data flow diagram, elucidated and explained the evoting platform.
+The evoting platform on valid login would issue a onetime password which would be sent via email or SMS to the unitholder.
+This onetime password was randomly and automatically generated without human intervention.
+The unitholder was required to enter the onetime password and thereupon cast their vote.
+After the vote was cast, acknowledgement confirmation email SMS was sent to the registered voters ID mobile number.
+Further, the data stored in the database was oneway encrypted.
+Evoting window was not open and the application would not allow the user or the unitholder to enter any details.
+Importantly, the Observers report mentions that before the evoting, a thorough examination of the system was done by the experts.
+The report (Annexure11) records that to check, 0.5 of the votes were selected randomly and on verification, elogs were matched with the master database.
+Further on examination and analysis of the event logs of the two web servers no abnormal events were witnessed, indicating normal functionality of the system.
+We are satisfied with the explanation given by the trustees AMC and KFin Technologies with reference to the observations in the report of the forensic experts from CFSL.
+36.
+The third objection to the evoting results emanates from the notice to the unitholders, which, it is inter alia submitted, misguides and effectively prompts and canvasses the unitholders to give their consent for winding up.
+Our attention was specifically drawn to the following paragraphs of the notice for evoting and the meeting of the unitholders to highlight the aforesaid submission The Trustee has given due consideration to the judgment of the Honble High Court and preferred an appeal to the Honble Supreme Court of India on certain aspects of the judgement.
+However, with a view to proceed with orderly realization of value form Scheme assets and distribution to Unitholders at the earliest, the Trustee had sought permission of the Honble Supreme Court to seek the approval of Unitholders for winding up the Schemes, which permission was granted by the Honble Supreme Court on December 3, 2020 without prejudice to the rights and contentions of all parties.
+xx xx
+xx
+As disclosed in the Scheme Portfolio published on the website (www.franklintempletonindia.com), Unitholders may note that a significant portion of the scheme assets is held insecurities and the liquidity position of each security, and consequently the value realized may vary depending on the time available to generate liquidity.
+An orderly liquidation would obtain better value for Unitholders.
+xx xx
+xx
+For all the reasons explained above, the Trustee believes that it will be beneficial for Unitholders to vote YES to the proposed resolution.
+37.
+At the first blush there does appear to be merit in the contention, albeit the notice for evoting and meeting of the unitholders has to be read in entirety.
+We must also account for the history leading to the evoting process.
+It is but obvious that the trustees had already taken a decision to wind up the six schemes.
+Regulation 39(3) requires the trustees to disclose the circumstances leading to winding up of the schemes.
+The trustees accordingly, in the notice for evoting and meeting of the unitholders, had furnished their explanation and reason for winding up of the six schemes and had also stated as under The Trustee is providing the following explanation to help Unitholders assess the pros and cons of the voting options available to them.
+There can be no guarantee that the outcomes will be exactly as the Trustee expects.
+We urge Unitholders to carefully consider the following and seek appropriate advice and guidance in making this important decision.
+Table
+The controversy relating to winding up of the six mutual fund schemes has been in the public domain for a long time.
+The court would also take judicial notice that the unitholders were aware and conscious of the litigation against the winding up, including the procedure.
+At the same time, many in the general public may not be fully aware of the commercial considerations and niceties relating to mutual funds and debt securities market.
+This is the precise reason why most people do not make direct investment in the securities market and prefer mutual funds.
+Further, the trustees had earlier vide document No. 16 (enclosed at pages 1253 to 1255 in the appeal arising out of Special Leave Petition (C) No. 14288 of 2020) communicated the reasons for their decision to wind up the six schemes.
+The relevant portions this notice read as under The unprecedented lockdown of the Indian economy in the wake of Covid19 has impacted livelihoods and businesses across the country.
+Despite several measures by the Reserve Bank of India (RBI), the liquidity in certain segments of the corporate bond markets has fallenoff dramatically and has remained low for an extended period.
+In this scenario, mutual funds are facing unprecedented liquidity challenges due to a variety of factors rising redemption pressures due to heightened risk aversion, mark to market losses following a spike in yields and lower trading volumes in the bond markets.
+These factors have together caused a significant and worsening liquidity crunch for openend mutual fund schemes investing in corporate credits across the credit rating spectrum.
+Important Announcement
+In this situation, we find that the ability to liquidate assets at a reasonable price to fund redemptions for the schemes identified below is under severe stress and it is no longer possible for certain schemes of Franklin Templeton to generate adequate liquidity to fund daily redemptions.
+Accordingly, we wish to inform you, that the Trustees of Franklin Templeton Mutual Fund in India have, after careful analysis and review of the recommendations submitted by Franklin Templeton AMC, and in close consultation with the investment team, voluntarily decided to wind up its suite of six yieldoriented fixed income funds, post cutoff time from April 23, 2020 (refer to Annexure
+I Notice to Investors) as they are of the considered opinion that an event has occurred, which requires these schemes to be wound up.
+This decision has been taken in light of the severe market dislocation illiquidity caused by the Coid19 pandemic, and in order to protect value for investors via managed sale of the portfolio.
+The list of schemes being wound up is as follows 1.
+Franklin India Ultra Short Bond Fund (FIUBF) 2.
+Franklin India Short Term Income Fund (FISTIP) 3.
+Franklin India Credit Risk Fund (FICRF) 4.
+Franklin India Low Duration Fund (FILDF) 5.
+Franklin India Dynamic Accrual Fund (FIDA) 6.
+Franklin India Income Opportunities Fund (FIIOF) Factors leading to WindingUp
+The impact schemes of Franklin Templeton were able to meet their redemption obligationacross all market conditions and even during the initial phase of the Covid19 pandemic lockdown despite redemption pressures and increased market illiquidity.
+However, the extension of the lockdown has heightened redemption volumes and reduced inflows to unsustainable levels.
+The schemes even resorted to borrowings within permissible limits in line with market practice to fund redemptions during this time but given the situation, we felt that it would not be prudent to leverage the schemes further.
+While the respective valuations of these schemes have been marked promptly and conservatively thus far, continuous redemption pressures in the backdrop of a severe dislocation in the corporate bond markets would place great strain on our ability to ensure equitable treatment of all investors.
+Further, given the current unprecedented situation even the committed borrowing lines maintained by the funds are inadequate to meet the demand for sustained narrowing across the schemes.
+We explored the possibility of suspending redemptions until market conditions stabilize without winding up the schemes.
+However, conditions for such a suspension under the current regulatory framework, such as a maximum suspension period of 10 working days (in 90 days) and the requirement to honour redemptions up to INR 2 lakh per day per investor, rendered this approach unviable to meet the severe sustained impact of the current crisis (refer Annexure IIIFAQ for options considered besides winding up).
+The Trustees were hence left with no option except to initiate the winding up of the schemes with a view to protect the interests of unitholders, Winding up the schemes was determined to be the best way to ensure a fair and equitable distribution of monies to unitholders while minimizing erosion in value for investors.
+It is also the contention of the trustees that they were required to justify and explain the reasons for winding up of the six schemes and hence the notice was worded in this manner.
+The notice had also informed the investors that there would be suspension of subscription and redemption post the cutoff time from 23rd April, 2020.
+All Systematic Investment Plans, Systematic Transfer Plans and Systematic Withdrawal Plans into and from the above mentioned funds stood cancelled post the cut off time from 23rd April, 2020.
+The notice had also furnished information and clarification regarding distribution of monies from the Fund Assets, inter alia stating that following the decision to wind up the six schemes, the trustees would proceed for orderly realization and liquidation of the underlying assets with the objective of preserving value for unitholders.
+Their endeavour would be to liquidate the portfolio holdings at the earliest opportunity, to enable an equitable exit for all investors in the unprecedented circumstances.
+We do not think, in the facts of the present case, the notice for evoting and the contents would justify annulling the consent given by the unitholders for the winding up of the six schemes.
+38.
+We will now refer to and deal with some of the other objections to the consent evoting results which, in our opinion, are merely assertions, or at best minor irregularities, which do not have any substance.
+These contentions are (i) Mr. T.S. Krishnamurthys appointment as the Observer by SEBI vide its letter dated 18th December, 2020 was made public belatedly on 26th December, 2020 (ii) Notice for emeeting dated 6th December, 2020 issued under the name of Mr. Alok Sethi, Director of the Trustees, was not digitally signed by him.
+However, Mr. Alok Sethi had digitally signed the notice subsequently on 28th December, 2020 (iii)
+M s. J. Sagar and Associates should not have been appointed as the Scrutiniser to oversee the conduct of the evoting and the Observer Mr. T.S. Krishnamurthy should have acted as the Scrutinser (iv) KFin Technologies was appointed for providing electronic platform for evoting vide meeting of the Board of Directors of the trustees dated 29thApril, 2020 and thereafter the agreement dated 8th June, 2020 was entered into, but this agreement was digitally signed on 30th June, 2020.
+Similarly, M s. J. Sagar and Associates, the law firm, was appointed as the Scrutiniser by letter of engagement dated 13th May, 2020 and the law firm had conveyed its willingness to act as the Scrutiniser.
+However, the resolution by the Board of Directors of the trustees was approved by circulation on 21st May, 2020.
+Further addendum to their letter of engagement was issued on 22nd December, 2020 and (v) Notices for evoting did not specify with clarity whether evoting was possible on any technology platform, viz.
+laptop desktop or smartphone, etc., though such facility was available.
+39.
+These contentions are mere nitpicks and would hardly justify rejection of the consent to winding up which has been expressed by more than 95 of the unitholders who had voted.
+Mr. T.S. Krishnamurthy was appointed as the Observer by SEBI in view of the directions given by this Court to ensure fairness and transparency.
+He was not to conduct the meeting or the process, but only to oversee and give his report on the entire process.
+Being an independent observer, his observations and comments vide the report would help resolve any debate, doubt or questions.
+The observer is the eyes and ears, which the Court could rely.
+Mr. T.S. Krishnamurthy in his report has mentioned that many calls, messages and emails were received by him expressing difficulty in voting, nonreceipt of passwords and difficulty in reaching the helplines.
+He had, therefore, conveyed these messages to the trustees and KFin Technologies.
+Based on the response, the number of helplines were increased.
+Missed calls were returned and answered.
+The Observers report vide Annexure10 refers to the complaints calls made to Mr. T.S. Krishnamurthy and also records that these were redressed.
+No unitholder has expressed or stated that they could not vote or their queries were not answered.
+Absence or lack of digital signatures on the notice is a technical and not a substantive objection.
+Moreover, the trustees have explained that in view of the objection raised by the Technical Assistance Team, Mr. Alok Sethi had digitally signed a copy of the notice for the purpose of the record.
+This digitally signed notice was made available to the Technical Assistance Team.
+M s. J. Sagar and Associates and KFin Technologies had been earlier appointed by the trustees possibly for compliance of clause (c) to Regulation 18(15) of the Regulations.
+Agreements earlier in point of time with KFin Technologies and M s. J. Sagar and Associates would not, in any manner, be an irregularity.
+Further, Mr. T.S. Krishnamurthy was not to himself count the votes as this exercise had to be undertaken essentially by the Scrutiniser, M s. J. Sagar and Associates.
+To conduct the evoting, for the purpose of consent, the trustees had engaged services of KFin Technologies and M s. J. Sagar and Associates.
+M s J. Sagar and Associates being a law firm, it is obvious, are not experts in information technology.
+Necessarily, they would rely on the data and details made available by KFin Technologies.
+We have already dealt with the question of integrity and authenticity of the evoting data and that it was checked by two technical experts who are Assistant Directors at CFSL, Hyderabad.
+The comments of the forensic experts have been examined and considered in detail.
+40.
+In the present case, we do not think the procedure prescribed by Regulation 4117 is required to be followed as the trustees themselves have stated that the process of winding up, which would include liquidation of the securities and distribution payment to the unitholders, should be undertaken by a third party.
+The objectors had also made similar submissions.
+Accordingly, with the consent of the parties, we have appointed M s. SBI Funds Management Private Limited to undertake the exercise of winding up, which would include liquidation of the holdings assets portfolio and distribution payment to the unitholders.
+41.
+As per the consolidated affidavit filed by the trustees and AMC, securities equivalent to more than Rs.17,000 crores are yet to be realised.
+This is a substantial amount.
+The trustees and SEBI were not at ad idem and have given different time frames within which they felt the securities can be liquidated.
+However, both the trustees and SEBI, have stated in unison that the liquidation realisation has to be proceeded with caution, as an attempt to offload the securities in haste can result in losses which would be detrimental and cause reduction in realisable value.
+We would not like to enter into this debate or give any specific directions but would observe that M s. SBI Funds Management Pvt.
+Ltd. shall follow the best effort principle so as to ensure expeditious and timely payment to the unitholders and assure the best possible liquidation value of the assets securities to the unitholders.
+However, we have no hesitation in directing that distribution disbursement of funds to the unitholders can be made in tranches without waiting for liquidation of all the securities assets.
+42.
+In view of the aforesaid discussion, we hold that for the purpose of clause (c) to Regulation 18(15), consent of the unitholders would mean consent by majority of the unitholders who have participated in the poll, and not consent of majority of all the unitholders of the scheme.
+In view of the findings and reasons stated above, we reject the objections to poll results and hold that the unitholders of the six schemes have given their consent by majority to windup the six schemes.
+Winding up and disbursements would be in terms of our directions in earlier orders dated 2nd February, 2021 and 9th February, 2021 and paragraph 41 above.
+We, however, clarify that this order does not examine and decide other aspects and issues including the questions whether Regulation 18(15)(c) would apply when the trustees form an opinion that the scheme should be wound up in accordance with Regulation 39(2)(a) and the contention of the objecting unitholders regarding misfeasance, malfeasances, fraud and the effect thereof.

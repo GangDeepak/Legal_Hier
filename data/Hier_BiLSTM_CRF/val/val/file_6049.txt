@@ -1,0 +1,184 @@
+ Rohinton Fali Nariman, J. 1.
+Leave granted.
+2.
+The present appeal arises out of a dispute between the Appellant, who is a registered broker with the National Stock Exchange, and the Respondent, its client, regarding certain transactions in securities and shares.
+The Respondent had initiated an arbitration proceeding against the Appellant, claiming an amount of Rs. 7,36,620/, which was rejected by the Sole Arbitrator vide an Arbitration Award dated 08.12.2009.
+3.
+The appeal arises out of an agreement dated 03.07.2008, which Contains the following clauses General Clause 1.
+The parties hereto agree to abide by the provisions of the Depositories Act, 1996, SEBI (Depositories and Participants)
+Regulation, 1996 ByeLaws and Operating Instructions issued by CDSL from time to time in the same manner and to the same extent as if the same were set out herein and formed part of this Agreement.
+xxx
+xxx xxx Arbitration 11.
+The parties hereto shall, in respect of all disputes and differences that may arise between them, abide by the provisions relating to arbitration and conciliation specified under the ByeLaws.
+xxx
+xxx xxx Jurisdiction 12.
+The parties hereto agree to submit to the exclusive jurisdiction of the courts in Mumbai in Maharashtra (India).
+4.
+Though the byelaws referred to in the agreement are under the provisions of the Depositories Act, 1996, it is common ground that the arbitration proceeding took place under the National Stock Exchange byelaws.
+Under these byelaws, Chapter VII speaks of dealings by trading members and grants exclusive jurisdiction to the civil courts in Mumbai in relation to disputes that arise under the byelaws as follows Chapter VIIDealings by Trading Members.
+Jurisdiction.
+(1) (a) Any deal entered into through automated trading system of the Exchange or any proposal for buying or selling or any acceptance of any such proposal for buying and selling shall be deemed to have been entered at the computerised processing unit of the Exchange at Mumbai and the place of contracting as between the trading members shall be at Mumbai.
+The trading members of the Exchange shall expressly record on their contract note that they have excluded the jurisdiction of all other Courts save and except, Civil Courts in Mumbai in relation to any dispute arising out of or in connection with or in relation to the contract notes, and that only the Civil Courts at Mumbai have exclusive jurisdiction in claims arising out of such dispute.
+The provisions of this Byelaw shall not object the jurisdiction of any court deciding any dispute as between trading members and their constituents to which the Exchange is not a party.
+5.
+The byelaws go on to describe the relevant authority prescribing Regulations for creation of seats of arbitration for different regions, or prescribing geographical locations for conducting arbitrations, and prescribing the courts which shall have jurisdiction for the purpose of the Actsee Chapter XI dealing with Arbitrationclause 4(a)(iv).
+Equally, under Subclause (xiv), the place of arbitration for each reference and the places where the Arbitrator can hold meetings have also to be designated.
+It is common ground that the National Stock Exchange referred the dispute to one Shri Mahmood Ali Khan, who held sittings in Delhi, and delivered an award dated 08.12.2009, whereby the Respondents claim was rejected.
+The Respondent then filed a Section 34 application under the Arbitration and Conciliation Act, 1996 on 17.03.2010 before the District Court, Karkardooma, Delhi.
+By a judgment dated 22.09.2016, the learned Additional District Judge referred to the exclusive jurisdiction Clause contained in the agreement, and stated that he would have no jurisdiction to proceed further in the matter and, therefore, rejected the Section 34 application filed in Delhi.
+In an appeal filed before the High Court, a learned Single Judge of the Delhi High Court held as follows 4.
+Accordingly, since the impugned judgment decides the disputed question of fact without allowing parties to lead evidence i.e. depositions supported by documentary evidence, and without opportunity to the other side to crossexamine the witnesses who give depositions, it is necessary that the disputed questions of fact as regards existence of territorial jurisdiction of the courts at Delhi be decided by the court below after framing an issue to this effect and permitting the parties thereafter to lead evidence on the same.
+5.
+I may hasten to add that I have not made any observations one way or the other, for or against any of the parties herein, on the aspect of territorial jurisdiction, and this issue of territorial jurisdiction will be decided by the courts below after parties have led evidence keeping in mind that if part of cause of action is proved to have arisen in Mumbai and there is an exclusivity Clause conferring territorial jurisdiction of the Mumbai courts, then even if Delhi courts otherwise have jurisdiction, possibly the courts at Delhi would not exercise territorial jurisdiction.
+6.
+Parties to appear before the District and Sessions Judge, East Karkardooma Courts, Delhi on 7th November, 2017 and the District and Sessions Judge will now mark the objections Under Section 34 of the Arbitration and Conciliation Act to a competent court for disposal in accordance with law and the observations made in the present order.
+6. Learned Counsel appearing on behalf of the Appellant has relied upon the exclusive jurisdiction Clause contained both in the agreement as well as the byelaws of the National Stock Exchange.
+According to him, this case is squarely covered by a recent judgment of this Court in Indus Mobile Distribution Pvt. Ltd. v. Datawind Innovations Pvt. Ltd. and Ors., (2017) 7 SCC 678.
+He also referred to Section 34 and stated that, given the conspectus of judgments of the High Courts and one judgment of this Court, when Section 34(2)(a) speaks of a party making an application who furnishes proof of one of the grounds in the Subsection, such proof should only be by way of affidavit of facts not already contained in the record of proceedings before the Arbitrator.
+Further, a minitrial at this stage is not contemplated, as otherwise, the whole object of speedy resolution of arbitral disputes would be stultified.
+Consequently, the learned Single Judge was incorrect in referring back the parties to the District Judge to first frame an issue, and then decide on evidence, including the opportunity to crossexamine witnesses who give depositions.
+7. Learned Counsel for the Respondent, on the other hand, supported the impugned judgment, and argued that as the seat of arbitration was at Delhi, the courts at Delhi would have jurisdiction, even though there is an exclusive jurisdiction Clause vesting such jurisdiction only in the courts at Mumbai.
+8. Section 34(2)(a) states as follows 34.
+Application for setting aside arbitral award.(1) Recourse to a Court against an arbitral award may be made only by an application for setting aside such award in accordance with Subsection (2) and Subsection (3).
+(2) An arbitral award may be set aside by the Court only if (a) the party making the application furnishes proof that (i) a party was under some incapacity or (ii) the arbitration agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law for the time being in force or (iii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case or (iv) the arbitral award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration Provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the arbitral award which contains decisions on matters not submitted to arbitration may be set aside or (v) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Part from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Part or xxx xxx
+xxx 9.
+The effect of an exclusive jurisdiction Clause was dealt with by this Court in several judgments, the most recent of which is the judgment contained in Indus Mobile Distribution Pvt. Ltd. (supra).
+In this case, the arbitration was to be conducted at Mumbai and was subject to the exclusive jurisdiction of courts of Mumbai only.
+After referring to the definition of Court contained in Section 2(1)(e) of the Act, and Section 20 and 31(4) of the Act, this Court referred to the judgment of five learned Judges in Bharat Aluminium Co. v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 , in which, the concept of juridical seat which has been evolved by the courts in England, has now taken root in our jurisdiction.
+After referring to several judgments and a Law Commission Report, this Court held 19.
+A conspectus of all the aforesaid provisions shows that the moment the seat is designated, it is akin to an exclusive jurisdiction clause.
+On the facts of the present case, it is clear that the seat of arbitration is Mumbai and Clause 19 further makes it clear that jurisdiction exclusively vests in the Mumbai courts.
+Under the Law of Arbitration, unlike the Code of Civil Procedure which applies to suits filed in courts, a reference to seat is a concept by which a neutral venue can be chosen by the parties to an arbitration clause.
+The neutral venue may not in the classical sense have jurisdictionthat is, no part of the cause of action may have arisen at the neutral venue and neither would any of the provisions of Sections 16 to 21 of Code of Civil Procedure be attracted.
+In arbitration law however, as has been held above, the moment seat is determined, the fact that the seat is at Mumbai would vest Mumbai courts with exclusive jurisdiction for purposes of regulating arbitral proceedings arising out of the agreement between the parties.
+20.
+It is well settled that where more than one court has jurisdiction, it is open for the parties to exclude all other courts.
+For an exhaustive analysis of the case law, see Swastik Gases (P) Ltd. v.
+Indian Oil Corporation Ltd.
+Swastik Gases (P) Ltd. v. Indian Oil Corporation Ltd., (2013) 9 SCC 32 (2013) 4 SCC (Civ) 157.
+This was followed in a recent judgment in B.E. Simoese Von Staraburg Niedenthal v. Chhattisgarh Investment Ltd. B.E. Simoese Von Staraburg Niedenthal v. Chhattisgarh Investment Ltd., (2015) 12 SCC 225 (2016) 1 SCC (Civ) 427.
+Having regard to the above, it is clear that Mumbai courts alone have jurisdiction to the exclusion of all other courts in the country, as the juridical seat of arbitration is at Mumbai.
+This being the case, the impugned judgment Datawind Innovations (P) Ltd. v. Indus Mobile Distribution (P) Ltd., is set aside.
+The injunction confirmed by the impugned judgment will continue for a period of four weeks from the date of pronouncement of this judgment, so that the Respondents may take necessary steps Under Section 9 in the Mumbai Court.
+The appeals are disposed of accordingly.
+10.
+Following this judgment, it is clear that once courts in Mumbai have exclusive jurisdiction thanks to the agreement dated 03.07.2008, read with the National Stock Exchange byelaws, it is clear that it is the Mumbai courts and the Mumbai courts alone, before which a Section 34 application can be filed.
+The arbitration that was conducted at Delhi was only at a convenient venue earmarked by the National Stock Exchange, which is evident on a reading of byelaw 4(a)(iv) read with (xiv) contained in Chapter XI. 11.
+However, the matter does not rest here.
+The learned Single Judge went on to remand the matter for a fulldressed hearing on what he referred to as a disputed question of fact relating to jurisdiction.
+12.
+What is meant by the expression furnishes proof in Section 34?
+In an early Delhi High Court judgment, Sandeep Kumar v. Dr. Ashok Hans, (2004) 3
+Arb LR 306 a learned Single Judge of the Delhi High Court specifically held that there is no requirement under the provisions of Section 34 for parties to lead evidence.
+The record of the Arbitrator was held to be sufficient in order to furnish proof of whether the grounds Under Section 34 had been made out.
+13.
+Again, a learned single Judge of the Delhi High Court in Sial Bioenergie v. SBEC Systems, AIR 2005 Del 95 stated 5.
+In my view the whole purpose of the 1996 Act would be completely defeated by granting permission to the applicant JD to lead oral evidence at the stage of objections raised against an arbitral award.
+The 1996 Act requires expeditious disposal of the objections and the minimal interference by the Court as is evident from the Statement of Objects and Reasons of the Act which reads as follows 4.
+The main objectives of the Bill are as under (ii) To make provision for an arbitral procedure which is fair, efficient and capable of meeting the needs of the specific arbitration.
+xxx
+xxx
+xxx
+xxx xxx xxx
+(
+v) to minimize the supervisory role of courts in the arbitral process.
+6.
+At the stage of the objections which are any way limited in scope due to the provisions of the Act to permit oral evidence would completely defeat the objects underlying the 1996 Act.
+The process of oral evidence would prolong the process of hearing objections and cannot be countenanced.
+7.
+Furthermore the Supreme Court in FCI v. Indian Council for Arbitration, 2003 (6) SCC 564 had summarized the ethos underlying the Act as follows The legislative intent underlying the 1996 Act is to minimize the supervisory role of the Courts in the arbitral process and nominate appoint the arbitrator without wasting time leaving all contentious issues to be urged and agitated before the arbitral tribunal itself.
+8.
+Accordingly, I see no merit in these applications and the prayer made therein is rejected.
+14.
+We now come to a judgment of this Court in Fiza Developers InterTrade Pvt. Ltd. v. AMCI (India) Pvt. Ltd. and Anr., (2009) 17 SCC 796.
+In this case, the question that was posed by the Court was whether issues as contemplated Under Order XIV Rule 1 of the Code of Civil Procedure, 1908 should be framed in applications Under Section 34 of the Arbitration and Conciliation Act, 1996.
+This Court held 14.
+In a summary proceeding, the Respondent is given an opportunity to file his objections or written statement.
+Thereafter, the court will permit the parties to file affidavits in proof of their respective stands, and if necessary permit crossexamination by the other side, before hearing arguments.
+Framing of issues in such proceedings is not necessary.
+We hasten to add that when it is said issues are not necessary, it does not mean that evidence is not necessary.
+xxx
+xxx
+xxx 17.
+The scheme and provisions of the Act disclose two significant aspects relating to courts visvis arbitration.
+The first is that there should be minimal interference by courts in matters relating to arbitration.
+Second is the sense of urgency shown with reference to arbitration matters brought to court, requiring promptness in disposal.
+18.
+Section 5 of the Act provides that notwithstanding anything contained in any other law for the time being in force, in matters governed by Part I of the Act, no judicial authority shall intervene except where so provided in the Act.
+xxx xxx xxx 21.
+We may therefore examine the question for consideration by bearing three factors in mind.
+The first is that the Act is a special enactment and Section 34 provides for a special remedy.
+The second is that an arbitration award can be set aside only upon one of the grounds mentioned in Subsection (2) of Section 34 exists.
+The third is that proceedings Under Section 34 requires to be dealt with expeditiously.
+xxx
+xxx xxx 24.
+In other words, an application Under Section 34 of the Act is a single issue proceeding, where the very fact that the application has been instituted under that particular provision declares the issue involved.
+Any further exercise to frame issues will only delay the proceedings.
+It is thus clear that issues need not be framed in applications Under Section 34 of the Act.
+xxx xxx xxx 31.
+Applications Under Section 34 of the Act are summary proceedings with provision for objections by the RespondentDefendant, followed by an opportunity to the applicant to prove the existence of any ground Under Section 34.
+The applicant is permitted to file affidavits of his witnesses in proof.
+A corresponding opportunity is given to the RespondentDefendant to place his evidence by affidavit.
+Where the case so warrants, the court permits crossexamination of the persons swearing to the affidavit.
+Thereafter, the court hears arguments and or receives written submissions and decides the matter.
+This is of course the routine procedure.
+The court may vary the said procedure, depending upon the facts of any particular case or the local rules.
+What is however clear is that framing of issues as contemplated Under Rule 1 of Order 14 of the Code is not an integral part of the process of a proceedings Under Section 34 of the Act.
+15.
+A Punjab and Haryana High Court judgment in M s. Punjab State Industrial Development Corporation v. Mr. Sunil K. Kansal, CR No. 4216 of 2011 (decided on 11.10.2012) after referring to our judgment in Fiza Developers (supra) held 30.
+In view of the above, we answer the question of law framed as follows (i) The issues, as required Under Order XIV Rule 1 of the Code as in the regular suit, are not required to be mandatorily framed by the Court.
+However, it is open to the Court to frame questions which may arise for adjudication.
+(ii) The Court while dealing with the objections Under Section 34 of the Act is not bound to grant opportunities to the parties to lead evidence as in the regular civil suit.
+The jurisdiction of the Court being more akin to the appellate jurisdiction (iii) The proceedings before the Court Under Section 34 of the Act are summary in nature.
+Even if some questions of fact or mixed questions of law and or facts are to be decided, the court while permitting the parties to furnish affidavits in evidence, can summon the witness for crossexamination, if desired by the other party.
+Such procedure is keeping in view the principles of natural justice, fair play and equity.
+16.
+The Calcutta High Court in WEB Techniques and Net Solutions Pvt.
+Ltd. v. M s. Gati Ltd. and Anr., 2012 SCC OnLine Cal 4271
+C.O. No. 1532 of 2010 (decided on 02.05.2012) after referring to Fiza Developers (supra), held that oral evidence is not required under a Section 34 application when the record before the Arbitrator would show whether the Petitioners had received notice relating to his appointment.
+17.
+In Cochin Shipyard Ltd. v. Apeejay Shipping Ltd., (2015) 15 SCC 522 , this Court, in a case arising out of the Arbitration Act, 1940, did not follow the decision in Fiza Developers (supra), as objections to be filed Under Sections 30 and 33 of the 1940 Act did not require any kind of oral evidence to be led.
+18.
+A recent report of the Justice B.N. Srikrishna Committee to review the institutionalization of the arbitration mechanism in India has found 5.
+Amendment to Section 34(2)(a) of the ACA Subsection (2)(a) of Section 34 of the ACA provides for the setting aside of arbitral awards by the court in certain circumstances.
+The party applying for setting aside the arbitral award has to furnish proof to the court.
+This requirement to furnish proof has led to inconsistent practices in some High Courts, where they have insisted on Section 34 proceedings being conducted in the manner as a regular civil suit.
+This is despite the Supreme Court ruling in Fiza Developers InterTrade P. Ltd. v. AMCI (I) Pvt. Ltd. and Anr.
+that proceedings Under Section 34 should not be conducted in the same manner as civil suits, with framing of issues Under Rule 1 of Order 14 of the Code of Civil Procedure.
+In light of this, the Committee is of the view that a suitable amendment may be made to Section 34(2)(a) to ensure that proceedings Under Section 34 are conducted expeditiously.
+Recommendation An amendment may be made to Section 34(2)(a) of the Arbitration and Conciliation Act, 1996, substituting the words furnishes proof that with the words establishes on the basis of the arbitral tribunals record that.
+19.
+We have been informed that the Arbitration and Conciliation (Amendment) Bill of 2018, being Bill No. 100 of 2018, contains an amendment to Section 34(2)(a) of the principal Act, which reads as follows In Section 34 of the principal Act, in Subsection (2), in Clause (a), for the words furnishes proof that, the words establishes on the basis of the record of the arbitral tribunal that shall be substituted.
+20.
+One more recent development in the law of arbitration needs to be adverted to.
+After the decision in Fiza Developers (supra), Section 34 was amended by Act 3 of 2016, by which Subsections (5) and (6) were added to the principal Act with effect from 23.10.2015.
+Section 34(5) and 34 reads as under 34.
+Application for setting aside arbitral award.
+xxx xxx xxx
+(5) An application under this Section shall be filed by a party only after issuing a prior notice to the other party and such application shall be accompanied by an affidavit by the applicant endorsing compliance with the said requirement.
+(6) An application under this Section shall be disposed of expeditiously, and in any event, within a period of one year from the date on which the notice referred to in Subsection (5) is served upon the other party.
+21.
+In a recent judgment of this Bench in The State of Bihar and Ors.
+v. Bihar Rajya Bhumi Vikas Bank Samiti, SLP (Civil)
+No. 4475 of 2017 (decided on 30.07.2018), this Court, after holding that the period of one year mentioned in the aforesaid Subsection is directory, went on to hold 27.
+We are of the opinion that the view propounded by the High Courts of Bombay and Calcutta represents the correct state of the law.
+However, we may add that it shall be the endeavour of every Court in which a Section 34 application is filed, to stick to the time limit of one year from the date of service of notice to the opposite party by the applicant, or by the Court, as the case may be.
+In case the Court issues notice after the period mentioned in Section 34(3) has elapsed, every Court shall endeavour to dispose of the Section 34 application within a period of one year from the date of filing of the said application, similar to what has been provided in Section 14 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.
+This will give effect to the object sought to be achieved by adding Section 13(6) by the 2015 Amendment Act.
+28.
+We may also add that in cases covered by Section 10 read with Section 14 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, the Commercial Appellate Division shall endeavour to dispose of appeals filed before it within six months, as stipulated.
+Appeals which are not so covered will also be disposed of as expeditiously as possible, preferably within one year from the date on which the appeal is filed 22.
+It will thus be seen that speedy resolution of arbitral disputes has been the reason for enacting the 1996 Act, and continues to be the reason for adding amendments to the said Act to strengthen the aforesaid object.
+Quite obviously, if issues are to be framed and oral evidence taken in a summary proceeding Under Section 34, this object will be defeated.
+It is also on the cards that if Bill No. 100 of 2018 is passed, then evidence at the stage of a Section 34 application will be dispensed with altogether.
+Given the current state of the law, we are of the view that the two early Delhi High Court judgments, cited by us hereinabove, correctly reflect the position in law as to furnishing proof Under Section 34(2)(a).
+So does the Calcutta High Court judgment (supra).
+We may hasten to add that if the procedure followed by the Punjab and Haryana High Court judgment (supra) is to be adhered to, the time limit of one year would only be observed in most cases in the breach.
+We therefore overrule the said decision.
+We are constrained to observe that Fiza Developers (supra) was a step in the right direction as its ultimate ratio is that issues need not be struck at the stage of hearing a Section 34 application, which is a summary procedure.
+However, this judgment must now be read in the light of the amendment made in Section 34(5) and 34(6).
+So read, we clarify the legal position by stating that an application for setting aside an arbitral award will not ordinarily require anything beyond the record that was before the Arbitrator.
+However, if there are matters not contained in such record, and are relevant to the determination of issues arising Under Section 34, they may be brought to the notice of the Court by way of affidavits filed by both parties.
+Crossexamination of persons swearing to the affidavits should not be allowed unless absolutely necessary, as the truth will emerge on a reading of the affidavits filed by both parties.
+We, therefore, set aside the judgment of the Delhi High Court and reinstate that of the learned Additional District Judge dated 22.09.2016.
+The appeal is accordingly allowed with no order as to costs.

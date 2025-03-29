@@ -1,0 +1,63 @@
+ Dr Dhananjaya Y Chandrachud, J 1.
+Leave granted.
+2.
+This appeal arises from a judgment and order of the High Court of Judicature at Bombay dated 8 November 2019 (WP No. 8834 of 2018).
+3.
+The issue, which arises in the appeal, is whether amounts which have been deposited under protest prior to an order of assessment can be adjusted against the mandatory predeposit required for filing an appeal under Section 26(6A) of the Maharashtra Value Added Tax Act 2002 (MVAT Act) .
+4.
+The appellant is a public limited company which engages in the manufacture and sale of oleochemicals and personal care products.
+Between 15 November 2016 and 22 November 2016, an investigation was carried out by the officers of the Sales Tax Department at the premises of the appellant.
+A notice to show cause was issued on 22 November 2016, to which the appellant filed a reply contesting the proposed tax liabilities.
+On 8 December 2016 and 11 January 2017, the appellant made a protest payment of Rs 3,64,24,388, comprising an amount of Rs 2,32,37,249 towards tax and Rs 1,31,87,139 towards interest for Assessment Year (AY) 201314.
+On 30 October 2017, a notice to show cause was issued to the appellant in relation to the imposition of penalty, to which the appellant submitted its reply.
+5.
+On 15 April 2017, Sections 26(6A), 26(6B) and 26(6C) were introduced into the MVAT Act by Maharashtra Act XXXI of 2017 mandating a predeposit for the filing of appeals.
+For AY 201314, an order of assessment was passed on 26 December 2017 under the Maharashtra Tax on the Entry of Goods into Local Areas Act 2002, imposing a tax demand of Rs 10,44,54,708, together with the penalty in an equivalent amount, besides a demand for interest of Rs 7,09,06,928.
+The total dues under the assessment order were, thus, in the amount of Rs 27,98,36,344.
+After adjustment of the amounts paid, under protest, by the appellant, the amount held to be payable was Rs 24,34,11,956.
+6.
+An appeal was filed against the order of assessment, which was rejected by the appellate authority.
+The appellant was informed by the Joint Commissioner of Sales Tax (HQ) 1 by a letter dated 4 June 2018 that the payments which were made under protest could not be considered towards predeposit for the purpose of Section 26(6A).
+A petition under Article 226 of the Constitution was instituted to challenge the letter dated 4 June 2018.
+7.
+Arguments were heard and the petition was reserved for judgment on 14 February 2019.
+By a judgment delivered nearly seven months thereafter, on 8 November 2019, the Division Bench of the High Court has dismissed the petition.
+The High Court has held that once an order of assessment has been passed, any amounts which have been paid albeit under protest, would have to be adjusted against the total tax liability and the demand to follow.
+Hence, the view of the High Court was that the appellant was duty bound to deposit 10 per cent of the total tax demand after adjusting the amount which had already been paid under protest, prior to the order of assessment.
+8.
+The correctness of the view of the High Court turns upon the interpretation of Section 26(6A) of the MVAT Act, which reads as follows 6A)
+No appeal against an order, passed on or after the commencement of the Maharashtra Tax Laws (Levy, Amendment and Validation) Act, 2017 (Mah XXXI of 2017), shall be filed before the appellate authority in first appeal, unless it is accompanied by the proof of payment of an aggregate of the following amounts, as applicable, (a) in case of an appeal against an order, in which claim against declaration or certificate, has been disallowed on the ground of nonproduction of such declaration or, as the case may be, certificate then, amount of tax, as provided in the proviso to subsection (6), (b) in case of an appeal against an order, which involves disallowance of claims as stated in clause (a) above and also tax liability on other grounds, then, an amount equal to 10 per cent of the amount of tax, disputed by the appellant so far as such tax liability pertains to tax, on grounds, other than those mentioned in clause (a), (c) in case of an appeal against an order, other than an order, described in clauses (a) and (b) above, an amount equal to 10 per cent.
+of the amount of tax disputed by the appellant, (d) in case of an appeal against a separate order imposing only penalty, deposit of an amount, as directed by the appellate authority, which shall not in any case, exceed 10 per cent of the amount of penalty, disputed by appellant.
+9.
+Mr V Sridharan, Senior Counsel appearing on behalf of the appellant, submits that (i) clauses (b) and (c) of Section 26(6A) stipulate that the appeal has to be filed, together with proof of payment of an amount equal to 10 per cent of the amount of tax disputed by the appellant (ii) The statutory provision does not stipulate that 10 per cent of the tax in arrears has to be deposited, but requires that 10 per cent of the tax disputed by the appellant has to accompany the filing of the appeal, together with the full amount of the undisputed tax and (iii) Since the entirety of the tax, as assessed and demanded, has been disputed, 10 per cent of that amount was required to be deposited, together with the appeal and the amount which was paid under protest, cannot be excluded from consideration.
+10.
+On the other hand, Mr Rahul Chitnis, Chief Standing Counsel for the State of Maharashtra, submitted that the dispute arises after the order of assessment, which was made under the provisions of Section 23 of the MVAT Act.
+Consequently, 10 per cent of the amount of tax, as demanded in pursuance of the order of assessment, has to be paid as a condition precedent for filing the appeal.
+11.
+While analyzing the rival submissions, it is necessary to note, at the outset, that, under the provisions of Section 26(6A), the aggregate of the amounts stipulated in the subclauses of the provision has to be deposited and proof of payment is required to be produced together with the filing of the appeal.
+Both clauses (b) and (c) employ the expression an amount equal to ten per cent of the amount of tax disputed by the appellant.
+The entirety of the undisputed amount has to be deposited and 10 per cent of the disputed amount of tax is required to be deposited by the appellant.
+In the present case, the appellant disputes the entirety of the tax demand.
+Consequently, on the plain language of the statute, 10 per cent of the entire disputed tax liability would have to be deposited in pursuance of Section 26(6A).
+The amount which has been deposited by the appellant anterior to the order of assessment cannot be excluded from consideration, in the absence of statutory language to that effect.
+A taxing statute must be construed strictly and literally.
+There is no room for intendment.
+If the legislature intended that the protest payment should not be set off as the deposit amount, then a provision would have to be made to the effect that 10 per cent of the amount of tax in arrears is required to be deposited which is not the case.
+Justice Bhagwati in A.V Fernandez v. State of Kerala AIR 1957 SC 657 , writing for a Constitution Bench, elucidated the principle of strict interpretation in construing a taxing statue as follows 29.
+In construing fiscal statutes and in determining the liability of a subject to tax one must have regard to the strict letter of the law.
+If the revenue satisfies the court that the case falls strictly within the provisions of the law, the subject can be taxed.
+If, on the other hand, the case of not covered within the four corners of the provisions of the taxing statue, no tax can be imposed by inference or by analogy or by trying to probe into the intentions of the Legislature and by considering what was the substance of the matter.
+12.
+The High Court, while rejecting the petition, placed reliance on the fact that there has to be a proof of payment of the aggregate of the amounts, as set out in clauses (a) to (d) of Section 26(6A).
+The second reason which weighed with the High Court, is that any payment, which has been made albeit under protest, will be adjusted against the total liability and demand to follow.
+Neither of these considerations can affect the interpretation of the plain language of the words which have been used by the legislature in Section 26(6A).
+The provisions of a taxing statute have to be construed as they stand, adopting the plain and grammatical meaning of the words used.
+Consequently, the appellant was liable to pay, in terms of Section 26(6A), 10 per cent of the tax disputed together with the filing of the appeal.
+There is no reason why the amount which was paid under protest, should not be taken into consideration.
+It is common ground that if that amount is taken into account, the provisions of the statute were duly complied with.
+Hence, the rejection of the appeal was not in order and the appeal would have to be restored to the file of the appellate authority, subject to due verification that 10 per cent of the amount of tax disputed, as interpreted by the terms of this judgment, has been duly deposited by the appellant.
+13.
+Subject to the aforesaid verification, we allow the appeal and set aside the impugned judgment and order of the High Court of Judicature at Bombay dated 8 November 2019 in Writ Petition No 8834 of 2018.
+The appeal shall stand restored to the file of the appellate authority.
+14.
+Pending application, if any, stands disposed of.

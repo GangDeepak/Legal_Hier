@@ -1,0 +1,74 @@
+ Hegde, J.1.	None
+This appeal by certificate arises from the decision of the Calcutta High Court in a case stated by the Incometax Appellate Tribunal B Bench, Calcutta.	Issue
+After setting out the relevant facts, the Tribunal solicited the opinion of the High Court on the following question of law Whether on the facts and in the circumstances of the case, the Tribunal was right in holding that in calculating the penalty leviable under Section 271 (1) (a) (i) of the Incometax Act, 1961 the amount paid by the assessee under the provisional assessment under Section 23B of the Indian Incometax Act, 1922, was to be deducted from the amount of tax determined under Section 23 (2) of that Act in order to determine the amount of tax on which the computation of the penalty was to be based and in reducing the amount of the penalty imposed on the assessee to Rupeees 2,737/.2.	Issue
+The High Court answered that question in the affirmative and in favour of the assessee.	None
+Aggrieved by that decision, the Commissioner has brought this appeal.3.	Issue
+Let us now proceed to state the facts relevant for deciding the point in issue, as could be gathered from the statement of the case.4.	None
+In this case we are concerned with the assessees assessment for the assessment year 196061, the relevant account year ending on December 31, 1959.	Facts
+In that regard the Incometax Officer issued a notice under Section 22 (2) of the Indian Incometax Act, 1922 (to be hereinafter referred to as the 1922 Act) on June 1, 1960.	Facts
+The same was served on the assessee on June 13, 1960.	Facts
+That notice required the assessee to submit its return on or before July 18, 1960.	Facts
+On July 18, 1960, the assessee moved for extension of time for submitting its return.	Facts
+The Incometax Officer extended the time by two months and at the same time he informed the assessee that no further time would be allowed.	Facts
+The assessee failed to furnish its return within the extended time.	Facts
+Thereafter a notice under Section 28 (3) of the 1922 Act was served on the assessee on January 16, 1961.	Facts
+On the very next day, viz., January 17, 1961, the assessee filed its return for the assessment year in question.	Facts
+The assessment was completed by the Incometax Officer only on October 31, 1962.	Facts
+Meanwhile on April 1, 1961 the Incometax Act, 1961 (to be hereinafter referred to as the Act) came into force.	Facts
+As under the provisions of Section 297 (2) (g) of the Act, the proceedings for the imposition of the penalty had to be initiated and completed under the Act, a fresh notice under Section 274 (1) of the Act was served on the assesee.	Facts
+The assessee objected to the validity of the notice but that objection was overruled.	Facts
+At present we are not concerned with that objection.	Facts
+We are also not concerned with the other objections taken by the assessee which were negatived by the Tribunal.	Facts
+The Incometax Officer determined the tax due from the assessee for the assessment year at Rs. 1,25,512/10 P. and on that basis, the penalty payable by the assessee was fixed at Rupees 12,734/10 P.	Facts
+At this stage it may be mentioned that on February 2, 1961, a provisional assessment was made by the Incometax Officer under Section 23B of the 1922 Act.	Facts
+Immediately thereafter the assessee deposited Rupees 92,294/55	Facts
+P.	Facts
+In determining the penalty due from the assessee, the Incometax Officer took into consideration not the amount demanded under S. 156 of the Act but the amount assessed under S. 143 of the Act.	Facts
+In appeal, the Appellate Assistant Commissioner confirmed the order of the Incometax Officer.	Facts
+On a further appeal, the Tribunal came to the conclusion that the penalty under Section 271 (1) (a) (i) is to be levied on the tax assessed minus the amount paid under the provisional assessment order namely Rupees 92,294/55 P.	Facts
+On the basis of that finding, it determined the penalty payable by the assessee at Rupees 2,737/44 P.	Facts
+The conclusion of the Tribunal was accepted as correct by the High Court.5.	Facts
+Learned Counsel for the Revenue, Mr. Manchanda contended that on a proper construction of Section 271 (1) (a) (i), it would be seen that the penalty had to be determined on the basis of the tax assessed under Section 143 of the Act.	Arguments of Petitioner
+Counsel urged that, if that is not the true construction then the effectiveness of the section may be taken away by the assessee paying the tax due by him a day before the demand notice is served on him.	Arguments of Petitioner
+In support of the interpretation placed by him, Mr. Manchanda relied on the decisions of the Lahore High Court in Vir Bhan Bansi Lal v. Commr. of Incometax, Punjab, 6 ITR 616 (AIR 1938 Lah 749) and the decision of the Delhi High Court in Commr. of Incometax v. Hindustan Industrial Corporation, 86 ITR 657 (1972 Tax LR 947 (Delhi)).	Arguments of Petitioner
+The Delhi High Court followed the decision of the Lahore High Court.	Arguments of Petitioner
+On the other hand, it was urged by Mr. B. Sen, learned Counsel for the assessee and Mr. S. V. Gupte, learned Counsel for the interveners that on a proper interpretation of the provision mentioned earlier, it would be clear that the penalty can be only imposed on the amount payable under S. 156.	Arguments of Respondent
+In support of their contention, they relied on the decision of the Mysore High Court in M. M. Annaiah v. Commr. of Incometax, Mysore, (1970)	Arguments of Respondent
+76 ITR 582 (Mys).	Arguments of Respondent
+They further urged that if the interpretation placed by the Revenue on S. 271 (1) (a) (i) is accepted as correct, the result would be that the advance tax paid or taxes deducted at the source cannot be taken into consideration in determining the penalty payable.	Arguments of Respondent
+If that be true, the Counsel urged that even if the assessee had paid more tax than he need have paid, but had not submitted his return within the time fixed, he would be liable to pay penalty on the entire amount assessed.	Arguments of Respondent
+According to them the law cannot be presumed to be so harsh as that.6.	Arguments of Respondent
+There is no doubt that the acceptance of one or the other interpretation sought to be placed on Section 271 (1) (a) (i) by the parties would lead to some inconvenient result, but the duty of the Court is to read the section, understand its language and give effect to the same.	None
+If the language is plain, the fact that the consequence of giving effect to it may lead to some absurd result is not a factor to be taken into account in interpreting a provision.	None
+It is for the legislature to step in and removel the absurdity.	None
+On the other hand, if two reasonable constructions of a taxing provision are possible that construction which favours the assessee must be adopted.	None
+This is a wellaccepted rule of construction recognised by this Court in several of its decisions.	None
+Hence all that we have to see is what is the true effect of the language employed in S. 271 (1) (a) (i).	None
+If we find that language to be ambiguous or capable of more meanings than one, then we have to adopt that interpretation which favours the assessee, more particularly so because the provision relates to imposition of penalty.7.	None
+Let us now read Section 271 (1) (a) (i).	None
+The section to the extent material for our present purpose reads If the Incometax Officer or the Appellate Assistant Commissioner in the course of any proceedings under this Act, is satisfied that any person (a) has without reasonable cause failed to furnish the return of total income which he was required to furnishby notice given under subsection (2) of Section 139or has without reasonable cause failed to furnish it within the time allowed and in the manner requiredby such notice he may direct that such person shall pay by way of penalty,(i) in the cases referred to in clause (a),in addition to the amount of the tax, if any, payable by hima sum equal to two per cent,of the taxfor every month during which the default continued, but not exceeding in the aggregate fifty per cent, of the tax.(emphasis supplied)8.	None
+Section 271 (1) (a) (i) stipulates that the Incometax Officer may direct that the assessee shall pay by way of penalty, in cases similar to the one that we are considering in addition to the amount of the tax, if any, payable by him a sum equal to 2 per cent of the tax for every month during which the default continued but not exceeding in the aggregate 50 per cent of the tax.9.	None
+We must first determine what is the meaning of the expression the amount of the tax, if any, payable by him in S. 271 (1) (a) (i).	Reasoning
+Does it mean the amount of tax assessed under S. 143 or the amount of tax payable under S. 156?	None
+The word assessed is a term often used in taxation laws.	Reasoning
+It is used in several provisions in the Act.	Reasoning
+Quantification of the tax payable is always referred to in the Act as a tax assessed.	Reasoning
+A tax payable is not the same thing as tax assessed.	Reasoning
+The tax payable is that amount for which a demand notice is issued under S. 156.	Reasoning
+In determining the tax payable, the tax already paid has to be deducted.	Reasoning
+Hence there can be no doubt that the expression the amount of the tax, if any, payable by him referred to in the first part of S. 271 (1) (a) (i) refers to the tax payable under a demand notice.	Reasoning
+We next come to the question what is the meaning to be attached to the words the tax found in the latter part of the provision.	None
+It may be noted that the expression used is not tax but the tax.	Reasoning
+The definite article the must have reference to something said earlier.	Reasoning
+It can only refer to the tax, if any, payable by the assessee mentioned in the first part of Section 271 (1) (a) (i).	Reasoning
+It is true the expression tax is defined in S. 2 (43) thus tax in relation to the assessment year commencing on the 1st day of April, 1965 and any subsequent assessment year means incometax chargeable under the provisions of this Act, and in relation to any other assessment year incometax and supertax chargeable under the provisions of this Act prior to the aforesaid date.10.	Reasoning
+But the difficulty in this case is, as mentioned earlier the expression used is not tax but the tax.	Reasoning
+That expression can be reasonably understood as referring to the expression earlier used in the provision namely the amount of the tax, if any payable by the assessee.	Reasoning
+At any rate, the provision in question is capable of more than one reasonable interpretation.	Reasoning
+Two High Courts namely Calcutta and Mysore have taken the view that the expression the tax in Section 271 (1) (a) (i) refers to the tax, if any, payable (by the assessee) mentioned in the earlier part of the section.	Reasoning
+It is true that Lahore and Delhi High Courts have taken a different view.	Reasoning
+But the view taken by the Calcutta and Mysore High Courts cannot be said to be untenable view.	Reasoning
+Hence, particularly in view of the fact that we are interpreting, not merely a taxing provision but a penalty provision as well, the interpretation placed by the Calcutta and Mysore High Courts cannot be rejected.	Reasoning
+Further as seen earlier, the consequences of accepting the interpretation placed by the Revenue may lead to harsh results.11.	Reasoning
+For the reasons mentioned above, this appeal is dismissed with costs.12.	Decision
+Appeal dismissed.	None

@@ -1,0 +1,70 @@
+ RA VINDRA BHAT, J. Leave granted.	None
+With the consent of the learned counsel for the parties, the appeal was heard finally.	None
+The appellant Union of India (hereafter referred to as the Union) is aggrieved by a direction of the Telecom Disputes Settlement and Appellate Tribunal (hereafter referred to as TDSAT or the Tribunal) to return 104.34 crores lying unadjusted, to the respondents (collectively hereafter referred to as RCL RTL).	Issue
+The facts necessary for this judgment are that the Union had, on 30.01.2013, published a notice inviting bids (hereafter referred to as NIA 2013), for the auction of spectrum.	None
+Sistema Shyam Teleservices Ltd. (hereafter referred to as Sistema) was the successful applicant in respect of the 800 MHz band spectrum for eight circles regions.	None
+By orders of the court, a Scheme for Amalgamation under the erstwhile Companies Act, 1956 was approved, by virtue of which Sistema merged with RCL.	None
+Resultantly, its assets and liabilities, including the spectrum license it had successfully bid for to NIA 2013 devolved on RCL.	None
+The Union approved this transfer on 20.10.2017.	None
+The Union invited bids for auction of further spectrum bandwidth in 2015 the bids of RCL and the second appellant (hereafter RTL) were successful in respect of three kinds of spectrum in several regions circles licenses were issued to them.	Facts
+In terms of NIA 2013, the third instalment of deferred spectrum charges of 281.45 crores fell due from RCL, which could not be paid by it.	Facts
+This led to the encashment on 11.05.2018, of bank guarantees furnished, to the extent of 281.45 crores.	Facts
+The total extent of bank guarantee furnished was 390.41 crores.	Facts
+Contemporaneously, the deferred spectrum liability under the NIA 2015 492.79 crores became payable on 09.04.2018.	Facts
+The respondents (RCL and RTL) could not pay these charges.	Facts
+Consequently, the Union en cashed 492.79 crores out of the bank guarantees furnished.	None
+RCL and RTL apparently along with several other telecom service providers faced acute economic problems which led to the Union revisiting certain issues and modifying the payment periods terms towards deferred spectrum charges, in regard to subsisting spectrum licenses.	None
+Accordingly, letters containing such modified terms were issued on 19.03.2018.	Facts
+These facts, coupled with the other financial problems faced by the respondents, leading to their adopting a strategic debt restructuring scheme with their lender banks in accordance with the guidelines issued by the RBI were mentioned by them Formation of a jointlenders forum (JLFs) with the objective of realizing dues payable by RCL and RTL, (to the tune of 45,000 crores) are cited by the respondent as reasons for default in fulfilling the commitments under the licenses.	Facts
+It is also stated that these two respondents eventually decided to exit from the strategic debt restructuring framework and monetize their assets, including the spectrum licenses.	Facts
+These circumstances led the respondents (RCL and RTL) to approach TDSAT complaining of acute financial crunch as well as interim orders made in the course of litigation with lenders, to seek relief by way of extension of time towards payment of deferred spectrum charges, (under the licenses acquired under the NIA 2013 and NIA 2015).	Facts
+The reliefs claimed in TP 56/2018 and TP 58/2018 were declined by TDSAT.	Facts
+Consequently, Civil Appeal No.44324433/2018 was preferred to this court which was disposed of by granting time to the respondent licensees till 12.05.2018 for making payments towards deferred spectrum instalment charges.	Facts
+As narrated previously, these deferred instalment charges could not be made within the time granted consequently, the Union encashed bank guarantees to the tune of 908.91 crores as against the actual amount of 774.25 crores due and payable by the respondent licensees.	Facts
+On 13.08.2018, the respondent licensees submitted fresh bank guarantees for the sum of 774.25 crores towards the next instalments of deferred spectrum liability.	Facts
+They also urged to release the excess of 134.66 crores encashment (i.e. the difference between the amount of 908.91 crores against admitted dues of 774.25 crores).	Facts
+The Union had accepted fresh bank guarantees towards the subsequent spectrum liability ( 774.25 crores).	Facts
+The Union however, did not refund the excess sums.	Facts
+As a consequence, the respondents approached the TDSAT in execution proceedings and sought a direction for the return of 134.66 crores, i.e. the excess amounts and also the release of the bank guarantee amounting to 108.95 crores.	Facts
+The Union disputed its liability before the TDSAT and relied upon Para 4.5b(x) of the NIA 2015 and also alleged that default interest was payable and furthermore, that RCL had defaulted in payment of spectrum instalment to the tune of 795.77 crores in MarchApril 2019.	Facts
+The TDSAT, by its impugned order, partly allowed the respondents application after noting the Unions reservations and objections.	Facts
+The TDSAT observed as follows In our considered view the request of the respondent would amount to a demand for enhanced bank guarantee for other purposes.	Facts
+This cannot be achieved through the method of encashment of bank guarantees furnished for deferred Spectrum Charges.	None
+The existing charges against the petitioner have already been taken note of and an amount of Rs.30.33 crores approx.	None
+has been adjusted out of the encashed amount of Rs.908 crores.	Facts
+The remaining amount of Rs.104.34 crores is lying and unadjusted amount should be returned to the petitioner without prejudice to the rights of either of the parties for any other charges which the petitioner may be found to be liable to pay.	Facts
+Since the petitioner has reservations against the adjusted amount of Rs.30.33 crores, it may file its reply by way of rejoinder within three weeks.	Facts
+Post the matter under the same head on 29.1.2019.	None
+The Union contends that TDSATs impugned order is contrary to clause 4.5b(ix) of NIA 2013 under the corresponding provision, i.e. Clause 4.5b(x) of NIA 2015 as well as other conditions such as clauses 13.1 and 13.2 of the license agreement.	Arguments of Petitioner
+It further contends that the respondents could not have been granted relief given the fact that they went into liquidation and were continuously defaulting in spectrum deferred payments the Union also cites the default to the extent of 21.53 crores with overdue interest amount working out to 27.63 crores as on 03.03.2019.	Arguments of Petitioner
+It, therefore, contended that the question of refund of excess amounts retained could not arise.	Arguments of Petitioner
+It was lastly contended that in any case, these issues could not have been gone in execution proceedings but were properly the subject matter of substantive proceedings.	Arguments of Petitioner
+The respondents argue that the Unions refusal to refund the money amounts to its unjust enrichment at their cost.	Arguments of Respondent
+The Union has no right over the excess money directed to be refunded by the Tribunal.	Arguments of Respondent
+It is submitted that despite the directions of the TDSAT, the Union has refused to refund the money.	Arguments of Respondent
+It is further submitted that encashment of the bank guarantees in respect of the subsequent default of the deferred spectrum instalments for the year 2019 was stayed by the NCLAT (National Company Law Appellate Tribunal).	Arguments of Respondent
+Thereafter, the moratorium was revived qua the Respondents and therefore, the appropriate remedy available to the Union was under the IBC (Insolvency and Bankruptcy Code).	Arguments of Respondent
+The Union, it is stated, has already filed its claim before the resolution professional for the said deferred spectrum instalments for the year 2019.	Arguments of Respondent
+Therefore, it cannot be permitted to claim adjustment of the unlawfully encashed amount towards subsequent deferred spectrum liabilities.	Arguments of Respondent
+The respondents also urge that a subsequent default of the deferred spectrum instalment for the year 2019, is a separate cause of action and the Union has remedies in law to recover those so called dues.	Arguments of Respondent
+It cannot arbitrarily and illegally withhold return of excess amount, despite there being a judicial order to the effect.	Arguments of Respondent
+The facts narrated above show that the respondentlicencees faced financial constraints apparently telecom service providers as a class also faced some financial stress, which triggered the Union to revisit its policy and ultimately modify the terms of payment of deferred payment charges and consequently, the letter of 19.03.2018.	Reasoning
+Despite these, the respondent licensees could not fulfil the conditions of the licenses held by them (i.e. NIA 2013 and NIA 2015)	Reasoning
+visvis payment of deferred spectrum charges they approached the TDSAT, but without success.	Reasoning
+Their appeals to this court fared better the time for making payment was extended somewhat.	Reasoning
+Upon default (in payment of the charges), the Union invoked guarantees under the sets of licenses.	Reasoning
+The respondent licencees pointed out to the Union repeatedly, that despite the furnishing of requisite guarantees (to the extent of 774.25 crores) later (on 19 th August, 2018)	Reasoning
+the excess amounts i.e. amount after adjusting the invoked guarantees towards the deferred charges had to be refunded.	Reasoning
+The Union did not do so consequently RCL RTL approached TDSAT for a direction in execution proceedings.	Reasoning
+Their claim was accepted inasmuch as the impugned direction was issued.	Reasoning
+On a recapitulation of all circumstances, and the various terms of NIA 2013 and NIA 2015, this court is of the opinion that the order of the TDSAT does not call for any interference.	Reasoning
+The Union nowhere disputes that the respondent licensees liability toward payment of deferred spectrum charges, in May, 2018, was to the tune of 774.25 crores.	Reasoning
+The total amount realized upon encashment of the bank guarantees furnished by the respondents, however, was to the extent of 908.91 crores.	Reasoning
+It is also a matter of record that the respondents furnished another bank guarantee to the tune of 774.25 crores.	Reasoning
+There is consequently logic and merit in the contention of RCL RTL that the Union unreasonably refused to refund the excess amounts.	Reasoning
+The Unions argument that there were subsequent defaults or short payments in respect of liability towards later periods, or its objection that the impugned directions could not have been issued in execution proceedings, are insubstantial.	Reasoning
+As noticed earlier, the bank guarantees for the later periods were furnished by the respondents (to the extent of 774.25 crores).	Reasoning
+In these circumstances, there is no rationale for the Union to resist the demand for refund of excess amounts.	Reasoning
+The TDSAT, in the opinion of this court, exercised its discretion, with respect, circumspectly, because the entire amount of 134.66 crores claimed in the application was not allowed rather the direction issued was in respect of 104.	Reasoning
+34 crores.	Reasoning
+In view of the foregoing discussion, it is held that there is no merit in the present appeal, which is dismissed without costs. .	Decision

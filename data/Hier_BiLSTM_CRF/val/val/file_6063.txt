@@ -1,0 +1,298 @@
+ Rohinton Fali Nariman, J.1.
+The present appeals relate to questions which arise qua the preference and pendente lite interest under the Arbitration Act, 1940.
+The ONGC floated a notice inviting tender for the supply of 1200 Metric Tons (hereinafter referred to as MT) of Sodium Carboxyl Methyl Cellulose (hereinafter referred to as CMC).
+Reliance Cellulose Products Ltd. (hereinafter referred to as Reliance) submitted its tender quoting a price of Rs. 14,999/ per MT for quantities above 900 MT.
+It is not disputed that the offer of Reliance was accepted for the supply of 1200 MT of CMC, and accordingly, a supply order dated 01.12.1988 was placed on Reliance.
+Since Reliance agreed to supply 1200 MT only if the price is higher than Rs. 14,999/ per MT, the parties ultimately went to arbitration in order to decide what should be the contract price for supply of 1200 MT of CMC.
+A separate order, referred to as the repeat order, was also placed for supply of 600 MT of CMC.
+It is undisputed that the supply was made on time and payments were received for both contracts at the rate of Rs. 14,999/ per MT.2.
+In October 1990, the Petitioner filed a Special Civil Application before the Gujarat High Court in the course of which, by an order dated 11.10.1990, the disputes between the parties were referred to arbitration, which were with regard to the price for the supply of 1200 MT and 600 MT of CMC respectively.
+The original Arbitral Tribunal consisted of Justice V.S. Deshpande and Mr. S. Tibrewal.
+Shri Deshpande having died, Justice B.J. Divan was appointed in his place.3.
+By an award dated 29.12.1993, the Arbitrators fixed the price of 1200 MT at Rs. 18,500/ per MT, and Rs. 20,500/ per MT insofar as 600 MT of CMC was concerned.
+The Arbitrators awarded prereference, pendente lite and future interest all at the rate of 18 per annum.
+Objections were filed to the award by the ONGC.
+The learned Civil Judge, by his judgment dated 30.07.1998, rejected these objections, but ultimately reduced the interest for all three periods to 10 per annum.
+Needless to state, this interest was payable on the difference between Rs. 14,999/ and Rs.
+18,500/ and Rs. 20,500/ respectively.
+The appeals that were filed to the High Court yielded the same result vide the impugned judgment dated 23.08.2006.
+Both parties are in appeal before us.4.
+Shri K.V. Viswanathan, who argued Civil Appeal No. 1110/2010, has argued before us that no good reason is given for reducing interest from 18 to 10.
+Indeed, the only reason that is forthcoming from the impugned judgment is that interest has been reduced because ONGC is a Public Sector Undertaking.
+According to him, therefore, prereference, pendente lite and future interest at 18 all become payable from the date of the cause of action till 21.01.1999, when the ONGC had deposited an amount of Rs. 1,09,34,323/, and an amount of Rs.
+46,86,138/ on 30.04.2003, on account of principal and interest at the rate of 10 per annum, and differential interest till date.5.
+In the ONGC appeal, the learned Additional Solicitor General, Shri Sandeep Sethi, has argued that though the plea that no prereference or pendente lite interest was payable, there is an express bar to the grant of such interest between the parties, which was noted by both the learned Civil Judge and the High Court, but no finding has been given thereon.
+According to the learned ASG, Clause 16 of the General Conditions of Contract clearly bars payment of interest for any delay and is set out hereinbelow16.
+Our standard terms of payment are within 30 days of receipt of stores and inspection at site.
+But any delay in payment will not make the Commission liable for any interest.
+6.
+He has cited a number of judgments to buttress his submission that Clause 16 would amount to a contractual bar to the payment of any interest on the facts of this case.
+On the other hand, Shri Viswanathan has also referred to various judgments.
+His argument is that Clause 16 does not apply at all on the facts of this case as there was no delay in payment, but only the difference between the sum of Rs. 14,999/ per MT and the higher figures mentioned above were payable on account of the disputes between the parties being resolved through arbitration.
+In any case, he submitted that a holistic reading of the various decisions cited by both the learned ASG as well as by him would show that so far as the 1940 Act is concerned, interest would be payable only if there is no express bar in the agreement, and agreements between the parties have to be construed strictly as interest is the grant of compensation for value of money lost, as has been held in some of the judgments.
+This being so, though there may be a bar interse the parties, yet the Arbitrator is not barred from awarding either prereference or pendente lite interest.
+It may be added that there is no dispute that future interest is to be granted, except as to the rate of interest awarded.7.
+Two important fiveJudge Bench judgments have laid down that, under the 1940 Act, in the absence of an express bar under the agreement, the Arbitrator has jurisdiction to award interest for all three periods, i.e., prereference, pendente lite as well as future interest.
+The judgment of this Court in Irrigation Department, State of Orissa v. G.C. Roy, (1992) 1 SCC 508 , overruled Jenas case Executive Engineer (Irrigation), Balimela v. Abhaduta Jena, (1988) 1 SCC 418 and held that arbitrators under the 1940 Act would be clothed with the jurisdiction to award pendente lite interest.
+Insofar as prereference interest is concerned, another fiveJudge Bench in Executive Engineer, Dhenkanal Minor Irrigation Division, Orissa and Ors.
+v. N.C.
+Budharaj, (2001) 2 SCC 721 , held that arbitrators under the 1940 Act were clothed with the power to award prereference interest even before the 1978 Interest Act came into force.
+We are concerned in the present case only with the 1940 Act.
+The 1996 Act has made a major departure from the position under the 1940 Act qua prereference and pendente lite interest which will emerge from the conspectus of case law laid down by this Court.8.
+In Board of Trustees for the Port of Calcutta v. EngineersDeSpaceAge, (1996) 1 SCC 516 , a twoJudge Bench of this Court had to consider whether Clause 13(g) of the contract barred the award of interest pendente lite.
+Clause 13(g) of the contract in that case is set out hereunderNo claim for interest will be entertained by the Commissioners with respect to any money or balance which may be in their hands owing to any dispute between themselves and the Contractor or with respect to any delay on the part of the Commissioners in making interim or final payment or otherwise.at paragraph 2After setting out the judgment in G.C. Roy (supra), this Court held4.
+We are not dealing with a case in regard to award of interest for the period prior to the reference.
+We are dealing with a case in regard to award of interest by the arbitrator post reference.
+The short question, therefore, is whether in view of Subclause (g) of Clause 13 of the contract extracted earlier the arbitrator was prohibited from granting interest under the contract.
+Now the term in Subclause (g) merely prohibits the Commissioner from entertaining any claim for interest and does not prohibit the arbitrator from awarding interest.
+The opening words no claim for interest will be entertained by the Commissioner clearly establishes that the intention was to prohibit the Commissioner from granting interest on account of delayed payment to the contractor.
+Clause has to be strictly construed for the simple reason that as pointed out by the Constitution Bench, ordinarily, a person who has a legitimate claim is entitled to payment within a reasonable time and if the payment has been delayed beyond reasonable time he can legitimately claim to be compensated for that delay whatever nomenclature one may give to his claim in that behalf.
+If that be so, we would be justified in placing a strict construction on the term of the contract on which reliance has been placed.
+Strictly construed the term of the contract merely prohibits the Commissioner from paying interest to the contractor for delayed payment but once the matter goes to arbitration the discretion of the arbitrator is not, in any manner, stifled by this term of the contract and the arbitrator would be entitled to consider the question of grant of interest pendente lite and award interest if he finds the claim to be justified.
+We are, therefore, of the opinion that under the Clause of the contract the arbitrator was in no manner prohibited from awarding interest pendente lite.
+9.
+In Bhagwati Oxygen Ltd. v. Hindustan Copper Ltd., (2005) 6 SCC 462 , a judgment of two learned judges arising out of the 1940 Act, this Court was concerned with all the three periods relating to interest, and held that it was open for the Arbitrator acting under the 1940 Act to award interest for each of these periods provided there is no contractual bar.10.
+In M.B. Patel and Co. v. ONGC, (2008) 8 SCC 251 , the Clause which was said to interdict interest was Clause 18 of the Agreement which provided as follows18.
+Interest on amounts.
+No interest will be payable on the security deposit or any other amount payable to the contractor under the contract.at paragraph 4The Court held that interest had been awarded in violation of Clause 14 of the Agreement as the Arbitrator did not take into account this Clause at all.
+On this and other grounds, the Award as a whole was set aside, and remanded to the Arbitrator to consider the matter afresh.
+11.
+In State of Rajasthan and Anr.
+v. M s. Ferro Concrete Construction (P) Ltd., (2009) 12 SCC 1 , a twoJudge Bench decision of this Court was concerned with prereference interest given by an award under the 1940 Act.
+This Court restated the position qua prereference interest by referring to the fiveJudge Bench referred to hereinabove and Bhagwati Oxygen (supra).
+What was highlighted was the importance of the Interest Act, 1978, Under Section 3 of which it is clear that prereference interest can be allowed by an arbitrator unless there is a bar by virtue of an express provision between the parties (see paragraphs 63 and 64).12.
+In Union of India v. Saraswat Trading Agency, (2009) 16 SCC 504 , the question of pendente lite interest arose under the Arbitration and Conciliation Act, 1996.
+The Clause which was said to bar interest in the aforesaid case was Clause 31 of the Agreement which provided as follows31.
+No interest or damage for delay in payment.
+No interest or damage shall be paid to the contractor for delay in payment of the bill or any other amount due to the contractor for any reason whatsoever.
+The Railway Administration will, however, make every endeavour for payment of the bills or other amount due to the contractor within a reasonable time.
+The judgment in EngineersDeSpaceAge (supra) was distinguished by stating that Clause 31 of the Agreement was materially different as no interest or damage was payable for any reason whatsoever, as a result of which it was held33.
+In the case in hand Clause 31 of the agreement is materially different.
+It bars payment of any interest or damage to the contractor for any reason whatsoever.
+We are, therefore, clearly of the view that no prereference or pendente lite interest was payable to the Respondent on the amount under Item 3 and the arbitrators award allowing prereference and pendente lite interest on that amount was plainly in breach of the express terms of the agreement.
+The order of the High Court insofar as prereference and pendente lite interest on the amount under Item 3 is concerned is, therefore, unsustainable.
+This case has later been distinguished as having arisen under the 1996 Act, under which the position qua both prereference and pendente lite interest is materially different.
+13.
+In Madnani Construction Corporation (P) Ltd. v. Union of India and Ors., (2010) 1 SCC 549 , two judges of this Court had to deal with the grant of prereference interest under the Interest Act in an award passed under the 1940 Act.
+Paragraphs 22 and 23 of the judgment set out the clauses which interdict payment of interest as follows22.
+Clause 16(2) of GCC is set out below16.
+(2) No interest will be payable upon the earnest money or the security deposit or amounts payable to the contractor under the contract but government securities deposited in terms of such Clause (1) of this Clause will be repayable with interest accrued thereto.23.
+The relevant portion of Clause 30 relating to interest is set out below That the contractor will have no claim for interest and damage whatsoever on any account in respect of such withholding or retention under the lien referred to supra and duly notified as such to the contractor.
+After referring to the Interest Act and Section 29 of the Arbitration Act, 1940, the Court referred to a threeJudge Bench decision in State of U.P. v. Harish Chandra and Co., (1999) 1 SCC 63 , as follows34.
+In a subsequent decision of a threeJudge Bench in State of U.P. v. Harish Chandra and Co. (1999) 1 SCC 63 there was stipulation in the arbitration agreement against grant of interest.
+The relevant clause, namely, Clause 1.9 to the aforesaid effect is set out below (SCC p. 67, para 9)9.
+1.9.
+No claim for delayed payment due to dispute, etc.
+No claim for interest or damages will be entertained by the Government with respect to any moneys or balances which may be lying with the Government owing to any dispute, difference or misunderstanding between the EngineerinCharge in marking periodical or final payments or in any other respect whatsoever.
+Considering the said clause, the Court held that the prohibition in the said Clause does not prevent the contractor from raising the claim of interest by way of damages before the arbitrator on the relevant items placed for adjudication.
+(See SCC p. 67, para 10.)
+In saying so, the learned Judges relied on the ratio in B.N. Agarwalla (1997) 2 SCC 469 and G.C. Roy (1992)
+1 SCC 508 .It
+then referred to EngineersDeSpaceAge (supra) in paragraph 35 and Saraswat Trading Agency (supra) in paragraphs 37 and 38.
+Finally, however, the twoJudge Bench held39.
+In the instant case also the relevant clauses, which have been quoted above, namely, Clause 16(2) of GCC and Clause 30 of SCC do not contain any prohibition on the arbitrator to grant interest.
+Therefore, the High Court was not right in interfering with the arbitrators award on the matter of interest on the basis of the aforesaid clauses.
+We therefore, on a strict construction of those clauses and relying on the ratio in Engineers (1996) 1 SCC 516 find that the said clauses do not impose any bar on the arbitrator in granting interest.
+14.
+In Sree Kamatchi Amman Constructions v. The Divisional Railway Manager (Works), Palghat and Ors., (2010) 8 SCC 767 , a twoJudge Bench of this Court, after referring to some of the earlier judgments of this Court, held18.
+At the outset it should be noticed that EngineersDeSpaceAge (1996) 1 SCC 516 and Madnani (2010) 1 SCC 549 arose under the old Arbitration Act, 1940 which did not contain a provision similar to Section 31(7) of the new Act.
+This Court, in Sayeed Ahmed (2009) 12 SCC 26 held that the decisions rendered under the old Act may not be of assistance to decide the validity of grant of interest under the new Act.
+The logic in EngineersDeSpaceAge (1996) 1 SCC 516 was that while the contract governed the interest from the date of cause of action to date of reference, the arbitrator had the discretion to decide the rate of interest from the date of reference to date of award and he was not bound by any prohibition regarding interest contained in the contract, insofar as pendente lite period is concerned.
+This Court in Sayeed Ahmed (2009) 12 SCC 26 held that the decision in EngineersDeSpaceAge (1996) 1 SCC 516 would not apply to cases arising under the new Act.
+We extract below, the relevant portion from Sayeed Ahmed (2009) 12 SCC 26 (SCC p. 36, paras 2324)23.
+The observation in EngineersDeSpaceAge 1996) 1 SCC 516 that the term of the contract merely prohibits the department employer from paying interest to the contractor for delayed payment but once the matter goes to the arbitrator, the discretion of the arbitrator is not in any manner stifled by the terms of the contract and the arbitrator will be entitled to consider and grant the interest pendente lite, cannot be used to support an outlandish argument that bar on the Government or department paying interest is not a bar on the arbitrator awarding interest.
+Whether the provision in the contract bars the employer from entertaining any claim for interest or bars the contractor from making any claim for interest, it amounts to a clear prohibition regarding interest.
+The provision need not contain another bar prohibiting the arbitrator from awarding interest.
+The observations made in the context of interest pendente lite cannot be used out of contract.24.
+The learned Counsel for the Appellant next contended on the basis of the above observations in EngineersDeSpaceAge (1996) 1 SCC 516 , that even if Clause G 1.09 is held to bar interest in the prereference period, it should be held not to apply to the pendente lite period, that is, from 1431997 to 3172001.
+He contended that the award of interest during the pendency of the reference was within the discretion of the arbitrator and therefore, the award of interest for that period could not have been interfered with by the High Court.
+In view of the Constitution Bench decisions in G.C. Roy (1992) 1 SCC 508 and N.C.
+Budharaj (2001) 2 SCC 721 rendered before and after the decision in EngineersDeSpaceAge (1996) 1 SCC 16, it is doubtful whether the observation in EngineersDeSpaceAge (1996) 1 SCC 516 in a case arising under the Arbitration Act, 1940 that the arbitrator could award interest pendente lite, ignoring the express bar in the contract, is good law.
+But that need not be considered further as this is a case under the new Act where there is a specific provision regarding award of interest by the arbitrator.
+The same reasoning applies to the decision in Madnani (2010) 1 SCC 549 also as that also relates to a case under the old Act and did not independently consider the issue but merely relied upon the decision in EngineersDeSpaceAge (1996) 1 SCC 516 .19.
+Section 37(1)
+Sic Section 31(7) of the new Act by using the words unless otherwise agreed by the parties categorically clarifies that the arbitrator is bound by the terms of the contract insofar as the award of interest from the date of cause of action to the date of award.
+Therefore, where the parties had agreed that no interest shall be payable, the Arbitral Tribunal cannot award interest between the date when the cause of action arose to the date of award.
+15.
+In Union of India v. Krafters Engineering and Leasing (P) Ltd. (2011) 7 SCC 279 , a twoJudge Bench considered as to whether Clause 1.15 of the contract in that case would bar pendente lite interest.
+Clause 1.15 reads as follows1.15.
+Interest on amounts.
+No interest will be payable upon the earnest money or the security deposit or amounts payable to the contractor under the contract but government securities deposited in terms of Clause 1.14.4 will be repayable with interest accrued thereon.
+This Court, after referring to EngineersDeSpaceAge (supra) and Sayeed Ahmed Sayeed Ahmed and Co. v. State of U.P.,(2009) 12 SCC 26 , then held that they were of the view that Sayeed Ahmed (supra) having held to the contrary, EngineersDeSpaceAge (supra) could not possibly be followed.
+Same was the position with Madnani Construction (supra) which was dismissed by saying that it did not independently consider the issue but merely relied upon the decision in EngineersDeSpaceAge (supra).
+The Court then went on to state20.
+In the light of the above discussion, the following conclusion emerges reliance based on the ratio in EngineersDeSpaceAge (1996) 1 SCC 516 is unacceptable since the said view has been overruled in Sayeed Ahmed and Co. (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629 and insofar as the ratio in Madnani Construction Corpn.
+(P) Ltd.
+(2010) 1 SCC 549 (2010) 1 SCC (Civ) 168 which is also unacceptable for the reasons mentioned in the earlier paras, we reject the stand taken by the counsel for the Respondent.
+On the other hand, we fully accept the stand of the Union of India as rightly projected by Mr. A.S. Chandhiok, learned ASG.
+We reiterate that where the parties had agreed that no interest shall be payable, the arbitrator cannot award interest for the amounts payable to the contractor under the contract.
+Where the agreement between the parties does not prohibit grant of interest and where a party claims interest and the said dispute is referred to the arbitrator, he shall have the power to award interest pendente lite.
+As observed by the Constitution Bench in G.C. Roy case (1992) 1 SCC 508 , in such a case, it must be presumed that interest was an implied term of the agreement between the parties.
+However, this does not mean that in every case, the arbitrator should necessarily award interest pendente lite.
+In the subsequent decision of the Constitution Bench i.e. N.C.
+Budharaj case (2001) 2 SCC 721 , it has been reiterated that in the absence of any specific stipulation or prohibition in the contract to claim or grant any such interest, the arbitrator is free to award interest.21.
+In the light of the above principle and in view of the specific prohibition of contract contained in Clause 1.15, the arbitrator ceases to have the power to grant interest.
+We also clarify that the Arbitration Act, 1940 does not contain any specific provision relating to the power of arbitrator to award interest.
+However, in the Arbitration and Conciliation Act, 1996, there is a specific provision with regard to award of interest by the arbitrator.
+The bar under Clause 1.15 is absolute and interest cannot be awarded without rewriting the contract.
+16.
+Clearly, the conclusion of the Court that EngineersDeSpaceAge (supra) had been overruled by Sayeed Ahmed (supra) is incorrect for two reasons first, a Bench of two learned Judges cannot overrule a coordinate Bench of two learned Judges and second, the Court in Sayeed Ahmed (supra) was not deciding a case arising under the 1940 Act, but was deciding a case arising under the 1996 Act.17.
+In Tehri Hydro Development Corporation Ltd. v. Jai Prakash Associates Ltd., (2012) 12 SCC 10 , a threeJudge Bench of this Court dealt with an award passed under the 1940 Act.
+The relevant clauses barring interest under the agreement in that case are set out herein below14.
+Clauses 1.2.14 and 1.2.15 on which much arguments have been advanced by the learned Counsel for both sides may now be extracted belowPart IIconditions of contract1.2.14.
+No claim for delayed payment due to dispute, etc.
+The contractor agrees that no claim for interest of damages will be entertained or payable by the Government in respect of any money or balances which may be lying with the Government owing to any disputes, differences or misunderstandings between the parties or in respect of any delay or omission on the part of the engineerincharge in making immediate or final payments or in any other respect whatsoever.1.2.15.
+Interest on money due to the contractor.
+No omission on the part of the engineerincharge to pay the amount due upon measurement or otherwise shall vitiate or make void the contract, nor shall the contractor be entitled to interest upon any guarantee or payments in arrears nor upon any balance which may on the final settlement of his accounts be due to him.
+After referring to Krafters Engineering (supra) and some of the earlier judgments, it was held16.
+In Krafters Engg. case (2011) 7 SCC 279 (2011) 3 SCC (Civ) 533 the somewhat discordant note struck by the decisions of this Court in Port of Calcutta v. EngineersDeSpaceAge (1996) 1 SCC 516 and Madnani Construction Corporation (P) Ltd. v. Union of India (2010) 1 SCC 549 (2010) 1 SCC (Civ) 168 were also taken note of.
+Thereafter, it was also noticed that the decision in EngineersDeSpaceAge case (1996) 1 SCC 516 was considered in Sayeed Ahmed Co. v. State of U.P. (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629 and the decision in Madnani Construction case (2010) 1 SCC 549 (2010) 1 SCC (Civ) 168 was considered in Sree Kamatchi Amman Constructions v. Railways (2010) 8 SCC 767 (2010) 3 SCC (Civ) 575.
+In Sayeed Ahmed case (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629 (SCC para 24) it was held that in the light of the decisions of the Constitution Bench in G.C. Roy case(1992) 1 SCC 508 and N.C.
+Budharaj case (2001) 2 SCC 721 it is doubtful whether the observations in EngineersDeSpaceAge case (1996) 1 SCC 516 to the effect that the arbitrator could award interest pendente lite, ignoring the express bar in the contract, is good law.
+In Sree Kamatchi Amman Constructions case (2010) 8 SCC 767 (2010) 3 SCC (Civ) 575 while considering Madnani case (2010) 1 SCC 549 (2010) 1 SCC (Civ) 168 this Court noted that the decision in Madnani case (2010) 1 SCC 549 (2010) 1 SCC (Civ) 168 follows the decision in EngineersDeSpaceAge case (1996) 1 SCC 516
+.In
+this view of the matter, the Court held19.
+Clauses 1.2.14 and 1.2.15, already extracted and analysed, imposed a clear bar on either entertainment or payment of interest in any situation of nonpayment or delayed payment of either the amounts due for work done or lying in security deposit.
+On the basis of the discussions that have preceded we, therefore, take the view that the grant of pendente lite interest on the claim of Rs.
+10,17,461 lakhs is not justified.
+The award as well as the orders of the courts below are accordingly modified to the aforesaid extent.
+20.
+However, the grant of interest for the postaward period would stand on a somewhat different footing.
+This very issue has been elaborately considered by this Court in B.N. Agarwalla (1997) 2 SCC 469 in the light of the provisions of Section 29 of the Arbitration Act, 1940.
+Eventually this Court took the view that in a situation where the award passed by the arbitrator granting interest from the date of the award till the date of payment is not modified by the Court the effect would be as if the Court itself had granted interest from the date of the decree till the date of payment In view of the above, the grant of interest on the amount of Rs.
+10,17,461 lakhs from the date of the award till the date of the decree or date of payment, whichever is earlier, is upheld.
+In the facts of the case we are of the view that the rate of interest should be 12 per annum as determined in the arbitration proceeding between the parties.
+18.
+In Union of India v. Bright Power Projects (India) (P) Ltd., (2015) 9 SCC 695 , a threeJudge Bench of this Court had to deal with interest awarded by an arbitral award under the 1996 Act.
+This judgment, like Sree Kamatchi Amman Constructions (supra), sets out how Section 31(7)(a) is a complete departure from the position under the 1940 Act.
+This Court held12.
+Section 31(7) of the Arbitration and Conciliation Act, 1996 (hereinafter referred to as the Act) is clear to the effect that unless otherwise agreed by the parties, the Arbitral Tribunal can award interest at reasonable rate for a period commencing from that date when the cause of action arises till the date of the award.
+Section 31(7) of the Act, reads as under31.
+(7)(a) Unless otherwise agreed by the parties, where and insofar as an arbitral award is for the payment of money, the Arbitral Tribunal may include in the sum for which the award is made interest, at such rate as it deems reasonable, on the whole or any part of the money, for the whole or any part of the period between the date on which the cause of action arose and the date on which the award is made.13.
+Section 31(7) of the Act, by using the words unless otherwise agreed by the parties, categorically specifies that the arbitrator is bound by the terms of the contract so far as award of interest from the date of cause of action to date of the award is concerned.
+Therefore, where the parties had agreed that no interest shall be payable, the Arbitral Tribunal cannot award interest.14.
+We may also refer to the decision of this Court in Union of India v. Saraswat Trading Agency (2009) 16 SCC 504 (2011) 3 SCC (Civ) 499.
+This Court has observed in the said case that if there is a bar against payment of interest in the contract, the arbitrator cannot award any interest for such period.
+In view of the specific bar under Clause 13(3) of the contract entered into between the parties, we are of the view that the Arbitral Tribunal was not justified in awarding interest from the date of entering upon the reference to the Arbitral Tribunal till the date of the award.xxxxxx16.
+Relying upon the aforestated judgment delivered by this Court, the Arbitral Tribunal thought it proper to award interest on the amount payable to the contractor for the period commencing from the date on which the reference was entered upon till the date of the award.
+The Tribunal, however, failed to consider the provisions of Section 31(7) of the Act and Clause 13(3) of the contract before awarding interest in the present case.17.
+It is also pertinent to note that G.C. Roy case (1992) 1 SCC 508 had been decided on 12121991 on the basis of the provisions of the Arbitration Act, 1940, which was not operative at the time when the dispute on hand was decided by the Arbitral Tribunal.18.
+Section 31(7)(a) of the Act ought to have been read and interpreted by the Arbitral Tribunal before taking any decision with regard to awarding interest.
+The said section, which has been reproduced hereinabove, gives more respect to the agreement entered into between the parties.
+If the parties to the agreement agree not to pay interest to each other, the Arbitral Tribunal has no right to award interest pendente lite.
+19.
+Given the labyrinth of case law referred to hereinabove, and the perception that some of the judgments were pulling in different directions, a reference was made to a threeJudge Bench.
+In Union of India v. Ambica Construction (First Ambica Construction Case), (2016) 6 SCC 36 , paragraph 1 reflects how the matter had been referred to a larger Bench for decision.
+After referring to the labyrinth of case law that has been referred to in this case, this Court held21.
+This Court in Sayeed Ahmed Sayeed Ahmed Co. v. State of U.P., (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629 has also distinguished the decision in Harish Chandra State of U.P. v. Harish Chandra Co.,(1999) 1 SCC 63 in which Clause 1.09 came up for consideration thus (Sayeed Ahmed case Sayeed Ahmed Co. v. State of U.P., (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629, SCC pp. 3334, paras 1719)17.
+This Court held that the said Clause did not bar award of interest on any claim for damages or for claim for payment for work done.
+We extract below the reasoning for such decision (SCC p. 67, para 10)10.
+A mere look at the Clause shows that the claim for interest by way of damages was not to be entertained against the Government with respect to only a specified type of amount, namely, any monies or balances which may be lying with the Government owing to any dispute, difference between the EngineerinCharge and the contractor or misunderstanding between the EngineerinCharge and the contractor in making periodical or final payments or in any other respect whatsoever.
+The words or in any other respect whatsoever also referred to the dispute pertaining to the monies or balances which may be lying with the Government pursuant to the agreement meaning thereby security deposit or retention money or any other amount which might have been with the Government and refund of which might have been withheld by the Government.
+The claim for damages or claim for payment for the work done and which was not paid for would not obviously cover any money which may be said to be lying with the Government.
+Consequently, on the express language of this clause, there is no prohibition which could be culled out against the Respondent contractor that he could not raise the claim for interest by way of damages before the arbitrator on the relevant items placed for adjudication.18.
+In Harish Chandra State of U.P. v. Harish Chandra Co.,(1999) 1 SCC 63 a different version of Clause 1.09 was considered.
+Having regard to the restrictive wording of that clause, this Court held that it did not bar award of interest on a claim for damages or a claim for payments for work done and which was not paid.
+This Court held that the said Clause barred award of interest only on amounts which may be lying with the Government by way of security deposit retention money or any other amount, refund of which was withheld by the Government.19.
+But in the present case, Clause G1.09 is significantly different.
+It specifically provides that no interest shall be payable in respect of any money that may become due owing to any dispute, difference or misunderstanding between the EngineerinCharge and contractor or with respect to any delay on the part of the EngineerinCharge in making periodical or final payment or in respect of any other respect whatsoever.
+The bar under Clause G1.09 in this case being absolute, the decision in Harish Chandra State of U.P. v. Harish Chandra Co., (1999) 1 SCC 63 will not assist the Appellant in any manner.
+In Harish Chandra State of U.P. v. Harish Chandra Co., (1999) 1 SCC 63 , this Court has laid down that Clause 1.09 did not bar award of interest for claim of damages for payment for work done and which was not paid for would not obviously cover any money which may be said to be lying with the Government.22.
+In our opinion, it would depend upon the nature of the ouster Clause in each case.
+In case there is express stipulation which debars pendente lite interest, obviously, it cannot be granted by the arbitrator.
+The award of pendente lite interest inter alia must depend upon the overall intention of the agreement and what is expressly excluded.
+After referring to the earlier judgments, this Court held28.
+It is apparent from various decisions referred to above that in G.C. Roy Irrigation Deptt., State of Orissa v. G.C. Roy, (1992) 1 SCC 508 the Constitution Bench of this Court has laid down that where the agreement expressly provides that no interest pendente lite shall be payable on amount due, the arbitrator has no power to award interest.
+In N.C.
+Budharaj Dhenkanal Minor Irrigation Division v. N.C.
+Budharaj, (2001) 2 SCC 721 a Constitution Bench has observed that in case there is nothing in the arbitration agreement to exclude jurisdiction of the arbitrator to entertaining claim for interest, the jurisdiction of the arbitrator to consider and award interest in respect to all periods is subject to Section 29 of the Act.
+In Hindustan Construction Co. Ltd.
+Hindustan Construction Co. Ltd. v. State of JK, (1992)
+4 SCC 217 this Court has followed the decision in G.C. Roy Irrigation Deptt., State of Orissa v. G.C. Roy, (1992) 1 SCC 508 and laid down that on the basis of principles of Section 34 the arbitrator would have the power to award pendente lite interest also.
+In B.N. Agarwalla State of Orissa v. B.N. Agarwalla, (1997) 2 SCC 469 , this Court has again followed G.C. Roy Irrigation Deptt.
+, State of Orissa v. G.C. Roy, (1992) 1 SCC 508 and
+Hindustan Construction Co. Ltd. Hindustan Construction Co. Ltd. v. State of JK, (1992) 4 SCC 217 with respect to the power of the arbitrator to award pendente lite interest and it was held that the arbitrator has the power to award interest.
+In Harish Chandra State of U.P. v. Harish Chandra Co., (1999) 1 SCC 63 this Court interpreted Clause 1.9 which provided that no claim for interest or damages will be entertained by the Government in respect to any monies or balances which may be lying with the Government.
+It was held that there was no provision which could be culled out against the contractor not to claim interest by way of damages before the arbitrator on the relevant items placed for adjudication.
+In Ferro Concrete Construction (P) Ltd.
+State of Rajasthan v. Ferro Concrete Construction (P) Ltd., (2009) 12 SCC 1 (2009) 4 SCC (Civ) 604
+this Court considered Clause 4 containing a stipulation that no interest was payable on amount withheld under the agreement.
+It was held that Clause 4, which dealt with rates, material and workmanship, did not bar award of interest by the arbitrator on claims of the contractor made in the said case.
+In Sayeed Ahmed Sayeed Ahmed Co. v. State of U.P., (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629 this Court has emphasised that award of interest would depend upon nature of the Clause in the agreement.
+In Bright Power Projects (India) (P) Ltd. Union of India v. Bright Power Projects (India) (P) Ltd., (2015) 9 SCC 695 (2015) 4 SCC (Civ) 702 this Court has considered the expression unless otherwise agreed by parties employed in Section 31(7)(a) of the 1996 Act and laid down that in case contract bars claim of interest the contractor could not have claimed interest.
+The provision of Section 31(7)(a) of the 1996 Act is binding upon the arbitrator.
+In Sree Kamatchi Amman Constructions Sree Kamatchi Amman Constructions v. Railways, (2010) 8 SCC 767 (2010) 3 SCC (Civ) 575 similar view has been taken.29.
+Now we come to the question of correctness of decision of this Court rendered by a Bench of two Judges in EngineersDeSpaceAge Port of Calcutta v. EngineersDeSpaceAge, (1996) 1 SCC 516 which has been referred for our consideration in which this Court after consideration of G.C. Roy case Irrigation Deptt., State of Orissa v. G.C. Roy, (1992) 1 SCC 508 has observed thus (EngineersDeSpaceAge case Port of Calcutta v. EngineersDeSpaceAge, (1996) 1 SCC 516 , SCC pp.
+51920, paras 34).3.
+It will appear from what the Constitution Bench stated to be the legal position, that ordinarily a person who is deprived of his money to which he is legitimately entitled as of right is entitled to be compensated in deprivation thereof, call it by whatever name.
+This would be in terms of the principle laid down in Section 34 of the Code of Civil Procedure.
+Their Lordships pointed out that there was no reason or principle to hold otherwise in the case of an arbitrator.
+Pointing out that arbitrator is an alternative forum for resolution of disputes arising between the parties, it said that he must have the power to decide all disputes and differences arising between the parties and if he were to be denied the power to award interest pendente lite, the party entitled thereto would be required to go to a court which would result in multiplicity of proceedings, a situation which the court should endeavour to avoid.
+Reliance was, however, placed on the observation in subpara (iii) wherein it is pointed out that an arbitrator is a creature of an agreement and if the agreement between the parties prohibits the payment of interest pendente lite the arbitrator must act in accordance therewith.
+In other words, according to Their Lordships the arbitrator is expected to act and make his award in accordance with the general law of the land but subject to an agreement, provided, the agreement is valid and legal.
+Lastly, it was pointed out that interest pendente lite is not a matter of substantive law, like interest for the period anterior to reference.
+Their Lordships concluded that where the agreement between the parties does not prohibit grant of interest and where a party claims interest and that dispute is referred to the arbitrator, he shall have the power to award interest pendente lite for the simple reason that in such a case it is presumed that interest was an implied term of the agreement between the parties it is then a matter of exercise of discretion by the arbitrator.
+The position in law has, therefore, been clearly stated in the aforesaid decision of the Constitution Bench.4.
+We are not dealing with a case in regard to award of interest for the period prior to the reference.
+We are dealing with a case in regard to award of interest by the arbitrator post reference.
+The short question, therefore, is whether in view of Subclause (g) of Clause 13 of the contract extracted earlier the arbitrator was prohibited from granting interest under the contract.
+Now the term in Subclause (g) merely prohibits the Commissioner from entertaining any claim for interest and does not prohibit the arbitrator from awarding interest.
+The opening words no claim for interest will be entertained by the Commissioner clearly establishes that the intention was to prohibit the Commissioner from granting interest on account of delayed payment to the contractor.
+Clause 13 has to be strictly construed for the simple reason that as pointed out by the Constitution Bench, ordinarily, a person who has a legitimate claim is entitled to payment within a reasonable time and if the payment has been delayed beyond reasonable time he can legitimately claim to be compensated for that delay whatever nomenclature one may give to his claim in that behalf.30.
+In Sayeed Ahmed Sayeed Ahmed Co. v. State of U.P., (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629 the decision in EngineersDeSpaceAgePort of Calcutta v. EngineersDeSpaceAge, (1996) 1 SCC 516 has been considered and it was observed that it cannot be used to support an outlandish argument that bar on the Government or department paying interest is not a bar on the arbitrator awarding interest.
+This Court expressed doubt as to the correctness of certain observations made in EngineersDeSpaceAge Port of Calcutta v. EngineersDeSpaceAge, (1996) 1 SCC 516 to the extent that the arbitrator could award interest pendente lite ignoring the express bar in the contract.
+But this Court did not consider the question further as the case in Sayeed Ahmed Sayeed Ahmed Co. v. State of U.P., (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629 arose under the Arbitration and Conciliation Act, 1996, and there was a specific provision under the new Act regarding the award of interest by the arbitrator.
+From the discussion made in Sayeed Ahmed Sayeed Ahmed Co. v. State of U.P., (2009) 12 SCC 26 (2009) 4 SCC (Civ) 629 it is apparent that this Court has emphasised that it would depend upon the nature of Clause and claim, etc.
+and it is required to be found on consideration of stipulation whether interest is barred, if yes, on what amounts interest is barred under the contract.
+The Court then referred to the threeJudge Bench judgment in Tehri Hydro Development Corporation Ltd. (supra) and finally answered the reference as follows32.
+In para 4 in EngineersDeSpaceAge Port of Calcutta v. EngineersDeSpaceAge, (1996) 1 SCC 516 this Court has observed that bar under the contract will not be applicable to the arbitrator cannot be said to be observation of general application.
+In our opinion, it would depend upon the stipulation in the contract in each case whether the power of the arbitrator to grant pendente lite interest is expressly taken away.
+If answer is yes then the arbitrator would have no power to award pendente lite interest.33.
+The decision in Madnani Construction Corpn.
+Madnani Construction Corporation (P) Ltd. v. Union of India, (2010) 1 SCC 549 (2010) 1 SCC (Civ) 168 has followed the decision in EngineersDeSpaceAge Port of Calcutta v. EngineersDeSpaceAge, (1996) 1 SCC 516 .
+The same is also required to be diluted to the extent that express stipulation under contract may debar the arbitrator from awarding interest pendente lite.
+Grant of pendente lite interest may depend upon several factors such as phraseology used in the agreement, clauses conferring power relating to arbitration, nature of claim and dispute referred to arbitrator and on what items power to award interest has been taken away and for which period.34.
+Thus, our answer to the reference is that if the contract expressly bars the award of interest pendente lite, the same cannot be awarded by the arbitrator.
+We also make it clear that the bar to award interest on delayed payment by itself will not be readily inferred as express bar to award interest pendente lite by the Arbitral Tribunal, as ouster of power of the arbitrator has to be considered on various relevant aspects referred to in the decisions of this Court, it would be for the Division Bench to consider the case on merits.
+20.
+The aforesaid judgment was applied by another threeJudge Bench soon thereafter in Ambica Construction v. Union of India (Second Ambica Construction Case), (2017) 14 SCC 323.
+In this case, the concerned clause, which is Clause 2 of the Agreement, reads as follows(2)
+Interest on amounts.
+No interest will be payable upon the earnest money or the security deposit or amounts payable to the contractor under the contract, but government securities deposited in terms of Subclause (1) of this Clause will be repayable with interest accrued thereon.at paragraph 5This Court found that the aforesaid Clause was no bar, after referring to paragraph 34 of the First Ambica Construction Case (supra)6.
+The only contention advanced at the hands of the learned Counsel for the Appellant, was based on the judgment of this Court in Union of India v. Ambica Construction Union of India v. Ambica Construction, (2016) 6 SCC 36 (2016) 3 SCC (Civ) 36, wherein, having examined the legal position declared by this Court by a Constitution Bench in Irrigation Deptt., State of Orissa v. G.C. Roy Irrigation Deptt., State of Orissa v. G.C. Roy, (1992) 1 SCC 508 , it was held as under (Ambica Construction case Union of India v. Ambica Construction, (2016) 6 SCC 36 (2016) 3 SCC (Civ) 36, SCC p. 59, para 34).34.
+Thus, our answer to the reference is that if the contract expressly bars the award of interest pendente lite, the same cannot be awarded by the arbitrator.
+We also make it clear that the bar to award interest on delayed payment by itself will not be readily inferred as express bar to award interest pendente lite by the Arbitral Tribunal, as ouster of power of the arbitrator has to be considered on various relevant aspects referred to in the decisions of this Court, it would be for the Division Bench to consider the case on merits.
+A perusal of the conclusions drawn by this Court in the above judgment, rendered by a threeJudge Division Bench, leaves no room for any doubt, that the bar to award interest on the amounts payable under the contract, would not be sufficient to deny payment of pendente lite interest.
+In the above view of the matter, we are satisfied, that the Clause relied upon by the learned Counsel for the Union of India, to substantiate his contention, that pendente lite interest could not be awarded to the Appellant, was not a valid consideration, for the proposition being canvassed.
+We are therefore satisfied, that the arbitrator, while passing his award dated 2861999, was fully justified in granting interest pendente lite to the Appellant.21.
+To complete the litany of case law, we must now refer to a recent judgment delivered on 03.07.2018 by yet another Division Bench of this Court in M s. Raveechee v. Union of India (Civil Appeal Nos. 59645965 of 2018).
+Clause 16.3, with which this judgment was concerned, was identical in terms with the Clause which barred interest in the Second Ambica Construction Case (supra).
+This judgment referred to and followed judgments in EngineersDeSpaceAge (supra), Madnani Construction (supra) and the threeJudge Bench in the Second Ambica Construction Case (supra) to hold that such a Clause would not be considered to be a bar to the payment of pendente lite interest.22.
+A conspectus of the decisions that have been referred to above would show that under the 1940 Act, an arbitrator has power to grant prereference interest under the Interest Act, 1978 as well as pendente lite and future interest.
+However, he is constricted only by the fact that an agreement between the parties may contain an express bar to the award of prereference and or pendente lite interest.
+Since interest is compensatory in nature and is parasitic upon a principal sum not having been paid in time, this Court has frowned upon clauses that bar the payment of interest.
+It has therefore evolved the test of strict construction of such clauses, and has gone on to state that unless there is a clear and express bar to the payment of interest that can be awarded by an arbitrator, clauses which do not refer to claims before the Arbitrators or disputes between parties and clearly bar payment of interest, cannot stand in the way of an arbitrator awarding prereference or pendente lite interest.
+Thus, when one contrasts a Clause such as the Clause in the Second Ambica Construction Case (supra) with the Clause in Tehri Hydro Development Corporation Ltd. (supra), it becomes clear that unless a contractor agrees that no claim for interest will either be entertained or payable by the other party owing to dispute, difference, or misunderstandings between the parties or in respect of delay on the part of the engineer or in any other respect whatsoever, leading the Court to find an express bar against payment of interest, a Clause which merely states that no interest will be payable upon amounts payable to the contractor under the contract would not be sufficient to bar an arbitrator from awarding pendente lite interest under the 1940 Act.
+As has been held in the First Ambica Construction Case (supra), the grant of pendente lite interest depends upon the phraseology used in the agreement, clauses conferring power relating to arbitration, the nature of claim and dispute referred to the Arbitrator, and on what items the power to award interest has been taken away and for which period.
+We hasten to add that the position as has been explained in some of the judgments above Under Section 31(7) of the 1996 Act, is wholly different, inasmuch as Section 31(7) of the 1996 Act sanctifies agreements between the parties and states that the moment the agreement says otherwise, no interest becomes payable right from the date of the cause of action until the award is delivered.23.
+In the present case, Clause 16 of the General Conditions of Contract only speaks of any delay in payment not making ONGC liable for interest.
+There is nothing in this Clause which refers even obliquely to the Arbitrators power to grant interest.
+This Court finds that the aforesaid Clause is narrower than the Clause considered by the threeJudge Bench in the Second Ambica Construction Case (supra) which states that no interest will be payable on amounts payable to the contractor under the contract.
+Clause 16 in the present case confines itself only to delay in payment and not to any other amounts payable to the contractor under the contract.
+Also, unlike the Clause in Tehri Hydro Development Corporation Ltd. (supra), Clause 16 does not contain language which is so wide in nature that it would interdict an arbitrator from granting pendente lite interest.
+It will be remembered that the Clause in Tehri Hydro Development Corporation Ltd. (supra) spoke of no claim for interest being entertained or payable in respect of any money which may be lying with the Government owing to disputes, difference or misunderstanding between the parties and not merely in respect of delay or omission Further, the Clause in Tehri Hydro Development Corporation Ltd. (supra) goes much further and makes it clear that no claim for interest is payable in any other respect whatsoever.
+It is, thus, clear that Clause 16 cannot possibly interdict the payment of pendente lite interest on the facts of the present case.
+24.
+We now come to Shri Viswanathans argument that, in any case, on the facts of the present case, Clause 16 is not at all attracted inasmuch as factually there was no delay in payment as a sum of Rs. 14,999/ per MT had, in fact, been paid for both 1200 MT and 600 MT, but that the balance only became payable on and from the date of the award.
+Shri Viswanathan is right, as it is nobodys case that there was delay in payment on the facts of this case.
+It is only after Reliance went in a Writ Petition before the High Court that it became clear that a higher price would be payable, which was left to the Arbitrator to determine vide the High Courts judgment referring the issue of price to an arbitrator, which was accepted by ONGC.
+In this view of the matter, it is clear that no delay on account of the higher price ever took place as it became payable only on and from the date of the award, Rs. 14,999/ per MT having been paid on time earlier.
+This being the case, it is clear that even if Clause 16 were to have application, both prereference and pendente lite interest are not barred.25.
+Coming to Shri Viswanathans appeal, we think that the only reason given for reducing interest from 18 to 10 being that ONGC is a Public Sector Undertaking, would not suffice to set aside what was within the Arbitrators discretion.
+There is no finding that this discretion has been exercised perversely, given the interest rates at the time of the award.
+We thus uphold the grant of interest at the rate of 18 as prereference and pendente lite interest.
+Considering the fact that ONGC has deposited the difference in the principal sums payable, and prereference, pendent lite and future interest, all at the rate of 10 being a sum of Rs. 1,09,34,323/ till 21.01.1999, and a sum of Rs.
+46,86,138/ on 30.04.2003, we make it clear that recovery of interest till the two aforementioned dates will be at the rate of 18.
+Thus, for prereference, pendent lite and future interest, ONGC is to pay the differential amount of interest of 8 till 21.01.1999 and 30.04.2003 within a period of eight weeks from today.
+In the interest of justice, we clarify that on and from 21.01.1999, till payment, future interest is to be paid at 6 per annum on the balance differential sum of interest, being the difference between 10 and 18, and similarly, on the balance differential sum of interest between 10 and 18 on and from 30.04.2003 till payment.
+Accordingly, the appeal of ONGC is dismissed and the appeal of Reliance is allowed in terms of this judgment.

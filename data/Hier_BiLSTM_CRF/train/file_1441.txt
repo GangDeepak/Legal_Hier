@@ -1,0 +1,252 @@
+ L. Gokhale, J. This appeal is directed against the judgment and order dated 19th December 2001 rendered by a Division Bench of the Bombay High Court in Appeal No. 126 of 2000 confirming the decision of a single Judge of that Court dated 29th November, 1999, in Arbitration Petition No. 104 of 1998 whereby the High Court has set aside the Award dated 27th June, 1995 made by the umpire in an Arbitration claim of the appellant against the respondent.	Issue
+The question involved in this appeal is as to whether as held by the Division Bench, the umpire had failed to apply his mind to the material on record and the clauses of the contract between the parties thereby rendering a perverse award, or whether his decision was a possible one and the High Court had erred in interfering therein.	None
+The appellant had entered into a contract with the first respondent for installing and commissioning of WellcumProduction Platform Deck and connected system including submarine pipelines on a turnkey basis at its Bombay High (South) Offshore Site for extraction of oil.	None
+The appellant had appointed M s. Mc Dermott International Inc (in short MII) as the SubContractor in execution of this work by a back to back contract to the full knowledge of the respondent.	None
+The appellant had sought from the respondent the reimbursement of the Incometax amount which MII was required to pay to the Union of India under newly added Clause 44BB of the Income Tax Act 1961 (concerning the profits and gains in connection with the business of exploration of minerals) and which amount was paid by the appellant to MII.	None
+The respondent had declined to reimburse the tax amount.	None
+The appellant, therefore, invoked the Arbitration clause in the agreement between the appellant and the respondent.	None
+The appellant contended that their liability had arisen due to change of law and that under Clause 17.3 of the General Conditions of Contract forming part of the contract between the parties, the respondent was required to reimburse this amount since it was in the nature of necessary and reasonable extra cost arising out of change of law.	Facts
+(In the General Conditions of contract its clauses are referred to as sections.)	None
+As against this, the submission of the respondent was that they were responsible only for the appellants tax liability under Clause 23 of the General Conditions, and if at all, it was the responsibility of the appellant under Clause 13.2.7 thereof to take care of the obligations of the SubContractor.	Facts
+The two arbitrators appointed by the appellant and the respondent differed while deciding this claim of the appellant for reimbursement.	None
+This led to Sir Micheal Kerr entering the reference as the Umpire who has accepted appellants claim, by award dated 27.6.1995.	None
+By the said award, the umpire directed the respondent to pay the appellant the sum of Japanese Yen 129,764,463/ with interest at 4.5 per annum from 15.5.1991 to date of award.	None
+He declared that in the event of appellant becoming liable to pay further sums to MII thereafter, due to any assessment of income tax on MII under the present Subcontract pursuant to Section 44BB of Income Tax Act, then Respondent shall indemnify the appellant against any such payment on demand.	None
+He awarded costs also.	None
+The respondent sought setting aside of the award of the umpire by invoking the jurisdiction of a learned single Judge of Bombay High Court under Clause  30 of the Arbitration Act, 1940.	None
+The learned single Judge took the view that the said reimbursement by appellant to MII was a voluntary act on the part of the appellant and the terms of the contract did not require the respondent to reimburse the said incometax amount to the appellant.	None
+The learned single Judge held that the construction placed by the umpire on Clause 17.3 of the agreement was clearly an impossible one, and therefore, the Court would be justified in interfering with the findings and the award.	None
+The learned single Judge, therefore, allowed the Arbitration Petition and set aside the Award.	None
+Being aggrieved by this judgment and order, the appellant preferred an appeal, which came to be dismissed by the Division Bench of the Bombay High Court by its above referred to judgment and order dated 19th December, 2001.	None
+The Division Bench held that the only possible view of all the clauses of the contract was that the respondent could not be held to be liable to the appellant for the incometax liability of the Subcontractor and that the umpire exceeded his jurisdiction in allowing appellants claim under Clause 17.3 of the General Conditions.	None
+The Division Bench, therefore, dismissed the appeal by its judgment and order dated 19th December, 2001.	None
+Being aggrieved by this judgment and order the present appeal has been filed by Special Leave.	None
+It may be mentioned at this stage that it was submitted on behalf of the respondent before the single judge that the revised assessment of the Subcontractor was not referable to Clause 44 BB of Income Tax Act, and that the conclusion of the umpire be interfered on that ground also.	None
+The submission did not find favour with the learned single judge.	None
+The respondent challenged that finding by filing a crossappeal and submitted that, if the crossappeal was not maintainable, the respondent be permitted to challenge that finding while defending the judgment.	None
+The Division Bench overruled this challenge of the respondent to that finding.	None
+The short facts leading to this appeal are as follows On 22nd July, 1982 the respondent invited tenders for installation and commissioning on turnkey basis of a Platform Complex on its Bombay High (South) Offshore Site.	Facts
+The closing date for the bid was 11.10.1982.	Facts
+On the date of closing of the bid, the fiscal limit of Indian Incometax Laws was 12 Nautical Miles in the territorial waters of India.	Facts
+The work to be done under the above mentioned tender was about 100 miles off the coast, and hence, the income arising therefrom was not subject to incometax in India.	Facts
+The appellant had submitted its tender offer on 11th October 1982, which was accepted by the respondent and an agreement between the two came to be signed on 7th September, 1983 for executing the above work for the contract price of J.Y.10,823,237,000/. Clause  13.1 of the General Conditions of Contract which provides for this contract price laid down that the contract price is the firm price without escalation subject to the provisions of the contract.	Facts
+The contract clearly stipulated that the remuneration provided to the appellant under the contract would be tax protected and would be net of all taxes.	Facts
+Consequent upon signing of the contract the appellant entered into a Subcontract with MII on 28th December, 1983 for execution of a part of a work under the above mentioned contract.	Facts
+The work was ultimately completed as per the contract and the respondent certified that the appellant had successfully completed the contract and a Certificate of Completion and Acceptance was issued on 11th April, 1984.	Facts
+A Discharge Certificate was also issued by the respondent on 18th May, 1984.	None
+The Government of India, Ministry of Finance, Department of Revenue issued a notification on 31st March, 1983 under Clauses 6(6) and 7(7) of the Territorial Waters, Continental Shelf, Exclusive Economic Zone and other Maritime Zones Act, 1976, extending Income Tax Act, 1961 to the Continental Shelf of India and the Exclusive Economic Zone with effect from 1.4.1983.	Facts
+Hence, under the amended law, the work done under the above mentioned tender and the income arising therefrom, became subject to the Income Tax Act, 1961.	Facts
+By Finance Act, 1987 Clause 44BB was introduced in the Income Tax Act, 1961 with retrospective effect from 1.4.1983.	Facts
+This clause is a special provision for computing profits and gains in connection with the business of exploration etc. of minerals.	Facts
+It is obvious that all these changes in law took place after the closing date of the bid i.e. after 11th October, 1982.	None
+In July, 1987 the Foreign Tax Division of the Department of Revenue, Ministry of Finance issued a circular in respect of turnkey projects of foreign contractors engaged in the business of exploration of oil and natural gas in India.	None
+This circular contained guidelines for computing the tax liability under the above referred to Clause 44BB of the Income Tax Act, 1961 and instructions were given to all Commissioners of Income Tax to assess the tax liability accordingly.	Facts
+In the year 1988 the above referred to MII was served with income tax notices to reopen and revise the assessments already made for the assessment years 198485 and 8586.	Facts
+MII was informed that it was required to pay the tax on the income from the respondent for the work executed by them at Bombay High (South) Offshore Site.	Facts
+MII pointed out that it had already filed tax returns for these two years stating that it had incurred loss, and it was no more liable to pay incometax.	None
+The authorities rejected the objections of MII and a tax liability was imposed to the tune of US 1,12,447.84 (Rupees 1,85,23,780/).	None
+MII paid that amount and claimed it from the appellant.	None
+The appellant reimbursed the same, and claimed it from the respondent under Clause 17.3 of the General Conditions of Contract, which provided for situations arising out of change of law.	Facts
+The respondent did not accept this claim.	Facts
+As pointed out earlier, respondent contended that they were responsible for the tax liability of the appellant alone under Clause 23 of the General Conditions of Contract, and under Clause 13.2.7 thereof it was the responsibility of the appellant to meet all the obligations of the SubContractor.	Facts
+On 6th March, 1991 the appellant served on the respondent a notice of arbitration under Clause 17.2 of the agreement between the parties and filed their statement of claim on 13th October, 1992.	Facts
+Both the parties appointed their respective arbitrators as per the agreement.	Facts
+The two arbitrators differed in their determination, vide Reasons for conclusions dated 4.7.1994 and 18.7.1994.	Facts
+Hence, the matter was referred to Sir Micheal Kerr as Umpire, who gave his award as aforesaid.	Facts
+The Relevant Terms of the Agreement entered into between the Parties.	Facts
+To understand the scope of the controversy it will be necessary to refer to the relevant clauses of the agreement dated 7.9.1983 between the parties.	Facts
+Clause B of the agreement specifically states that the following documents including the annexures listed thereunder shall be deemed to form, and will be read and construed as integral parts of the contract, and in case of any discrepancy, conflict or dispute, they shall be referred to in the order of priority as stated hereunder Order of Priority Agreement 2.	Facts
+Annex.	Facts
+A General Conditions of the Contract 3.	None
+Annex.	Facts
+B Scope of Work (as briefly outlined) 4.	None
+Annex.	Facts
+C Contract Price Schedule 5.	None
+Annex.	Facts
+D Project Schedule 6.	None
+Annex.	Facts
+E Minutes of Meeting 7.	None
+Annex.	Facts
+F Contract Specifications Drawings In the present matter we are concerned with the provisions of the General Conditions of Contract and the claim of the appellant for reimbursement of the amounts paid by the appellant to its Subcontractor.	None
+Clause 3.1 deals with Assignment and Clause 3.2 deals with Conditions of Subcontracting.	None
+Clauses 3.1 and 3.2(i) read as follows 3.0  ASSIGNMENT AND SUBCONTRACTING 3.1  	None
+Assignment The Contractor shall not, except with the previous consent in writing of the Company, transfer or assign their obligations or interests in the Contract or any part thereof in any manner whatsoever.3.2  Conditions for Subcontracting Concerning the works and facilities covered by the Contract having to be executed and commissioned on turnkey basis by the Contractor, the following conditions shall apply as regards subcontracting of any portion of the work entrusted to the Contractor.	None
+(i)	None
+In case of plant, equipment and allied requirement to be procured, installed and commissioned on the platform structure for the purpose of receiving, processing, pumping, compressing, etc., and also any other facilities to be provided thereon, the Contractor shall, subject to the limitations imposed on him with regard to the makes manufacturer of certain plant and equipment specifically stipulated to be procured against this Contract, be free to sublet the work to the manufacturers authorized agents of the respective plant and equipment for procurement of the necessary supplies.	None
+In respect of those stipulated items referred to above, the Contractor shall not arrange alternative makes other than those agreed already for procurement without the prior written consent of the Company.	None
+Clause 5.10.5 lays down that the Contractor shall protect, indemnify and hold the Company (ONGC) harmless against all losses and claims, including such claims arising out of the negligence of the Contractor or its subcontractors, and the particulars of this indemnity are specified in this clause.	None
+Clause 5.11.3. lays down that the Contractor shall observe and comply with and shall ensure that all his subcontractors also observe and comply with the laws, regulations or requirements of any states which are littoral states with respect to any sea areas comprised at site, and of any international authority or international convention or other rule of international law or custom applicable thereto.	None
+This is subject to the exception in Clause 5.11.2 which provides as follows The Contractor shall conform in all respects, and shall ensure that all his subcontractors also conform in all respects with the provisions of any statute, ordinance or laws as aforesaid except where such laws, statutes or ordinances conflict with any laws, statutes or ordinances of United States of America and Japan, Contractor confirms that there is presently no law or regulation which should preclude its performance of the works under the Contract.	None
+Clause  13 provides for Contract Price and Payment Discharge Certificate.	None
+Clause 13.1 lays down the Contract Price, which is mentioned earlier.	None
+Clause 13.2 lays down the Payment Procedure and Subclause 13.2.7 provides as follows 13.2.7  	None
+The Company shall not be responsible obliged for making any payments or any other related obligations under this Contract to the Contractors Subcontractor Vendors.	None
+The Contractor shall be fully liable and responsible for meeting all such obligations and all payments to be made to its Subcontractors Vendors and any other third party engaged by the Contractor in any way connected with the discharge of the Contractors obligation under the Contract and in any manner whatsoever.	None
+Next relevant Clause 17 relates to Laws Arbitration.	None
+Clause  17.1 is on applicable laws, which lays down that all questions, disputes or differences arising under, out of or in connection with this Contract shall be subject to the laws of India.	None
+Clause 17.2 provides for arbitration in the event of any dispute and for appointment of one Arbitrator each by the parties, that the arbitration will be held at London, and further that the decision of the arbitrators and in the event of their failing to arrive at an agreed decision, the decision of the umpire shall be final and binding on the parties.	None
+Clause 17.3 makes the provision in the event of a Change in Law.	None
+This clause reads as follows Should there be, after the date of bid closing a change in any legal provision of the Republic of India or any political Subdivision thereof or should there be a change in the interpretation of said legal provision by the Supreme Court of India and or enforcement of any such legal provision by the Republic of India or any political subdivision thereof which affects economically the position of the Contractor then the Company shall compensate Contractor for all necessary and reasonable extra cost caused by such a change.	None
+The last clause relevant for our purpose is clause  23 which is on Duties and Taxes, and in that Clause the respondent has taken care of the Customs Duties and Incometax which would be payable by the appellant.	None
+It reads as follows 23.0  DUTIES AND TAXES Indian Customs Duties, if any, levied upon fabricated structures, Subassemblies and equipment and all components which are to be incorporated in the Works under the Contract shall be borne by the Company.	None
+The Company shall bear all Indian income taxes levied or imposed on the Contractor under the Contract, on account of its or their offshore personnel while working at offshore or on account of payments received by Contractor from the Company for Work done under the Contract.	None
+Not with standing the foregoing, the Company shall have no obligation whatsoever in respect of the Contractors onshore employees whether they may be expatriate or nationals.	None
+Question arising for consideration As stated above, the submission of the appellant was that the tax liability of MII arose out of change of law and the appellant had to reimburse that amount to MII.	Arguments of Petitioner
+This affected the position of the appellant economically.	Arguments of Petitioner
+The reimbursement of the tax liability of MII by the appellant was merely the necessary and reasonable extra cost arising due to the change of law.	Arguments of Petitioner
+There is no dispute that this liability of MII arose out of the change of law after the date of bid closing.	Arguments of Petitioner
+This being the position, according to the appellant the respondent was liable to compensate the appellant to that extent.	Arguments of Petitioner
+As against this submission of the appellant, the submission of the respondent was that under Clause 23 of the General Conditions of Contract, referred to above, the respondent was liable to bear all Indian taxes levied or imposed on the appellant under the contract on account of the payment received by the appellant from the respondent for work done under the contract or on account of its offshore personnel while working at offshore.	None
+This Clause states that the respondent had no obligation whatsoever in respect of appellants onshore employees whether they were expatriate or nationals.	None
+Accordingly to the respondent they had not taken over the liability to pay any taxes which may be due to be paid by the Sub contractors of the appellant which, according to them was also clear from Clause 13.2.7 of the General Conditions of Contract which laid down the Payment Procedure and which stated that the respondent shall not be responsible or obliged for making any payment in any other related obligations under the contract to the appellants Sub contractors.	None
+As stated earlier, the umpire has taken the view that the tax liability of MII reimbursed by the appellant was the necessary and reasonable extra cost arising out of change of law and that the respondent was required to compensate the appellant to that extent in view of the provision contained in Clause 17.3 of the General Conditions of Contract.	Arguments of Petitioner
+The question for decision is whether the umpire exceeded his jurisdiction in making the award or whether there is an error apparent on the face of the award.	None
+This necessitates consideration of the question whether the view taken by the umpire on the construction of Clause 17.3 was a possible one and in which case whether it was open to the High Court to interfere with the Award.	None
+Alternatively, the question is whether the view taken by the umpire was an impossible one and in which case whether there was no error in the High Court interfering with the Award rendered by the umpire.	None
+The approach of the Umpire To find an answer to the question we have to see as to what was the approach adopted by the umpire.	None
+To decide as to whether the respondent was liable under the above referred Clause 17.3, the umpire framed three questions.	None
+They are reflected in Para 6.2 of the award which reads as follows 6.2 ONGC liability on the true construction of Clause 17.3 effectively depends on the answers to three questions in the circumstances of this case, of which the first can be divided into two parts.	None
+These are the following (1) Since 11 October 1982, the date of the bid closing, has there been (a) any (relevant) change in any legal provision of the Republic of India or (b) any (relevant) change in the enforcement of any such legal provision by the Republic of India (2) If the answer to (1) (a) or (b) be yes, has this affected economically the position of SHI?	None
+(1) and (2) are of course interdependent, and the insertion of (relevant is designed to provide the necessary connection).	None
+(3) If the answer to (2) is also yes have SHI incurred any necessary and reasonable extra cost caused by any changes as referred to in (1) above?	None
+If the answer to (3) is also yes then ONGC are liable.	None
+If any of the answers are different, then ONGC are not liable.	None
+It is seen from the award that before answering these three questions the learned umpire went into the issue as to what approach should be adopted while examining the scope and application of Clause 17.3.	None
+The respondent submitted that this clause was in the nature of an indemnity and that it must be construed strictly and narrowly.	None
+This view is also accepted by the Division Bench.	None
+The Division Bench observed as follows The Umpire further erred in law by refusing to put a narrow interpretation on the indemnity Clause 17.3.	None
+Clause 17.3 being indemnity clause should not have been given wider interpretation.	None
+The indemnity clause should be construed strictly analogously to an exemption clause.	None
+The Umpire overlooked the commercial principle that every business venture carried its own risk.	None
+The umpire on the other hand observed in Para 6.3.3 as follows It is selfevident that Clause 17.3 is couched in wide terms.	None
+This is commercially understable, since it was designed to cover a wide and potentially unforeseeable spectrum the possible impact of possible changes in Indian law in the future.	None
+I can therefore see no reason for giving to it any particularly strict or narrow interpretation.	None
+From the point of view of its commercial purpose, the contrary approach would be more justifiable.	None
+However, in relation to the present facts, it seems to me that this question has no practical significance.	None
+The proper approach is to construe the Clause on the basis of the ordinary and natural meaning of the words used, in the usual way, and of course in its context, as already mentioned.	None
+The umpire has noted this context in Para 2.2.4 of the award.	None
+He noted that the bid made it clear that a large part of the contract works were to be fabricated, positioned and installed by MII as the named and approved principal Subcontractor of the appellant for this purpose.	None
+In para 2.2.4 he referred to the evidence of the Project Manager of the respondent, the Subcontract between the appellant and MII, and the fact of the terms of the proposed Sub contract having been set out in the bid document.	None
+The umpire recorded in Para 2.2.4 as follows The evidence of Mr. B.L. Goel, ONGCs Project Manager, was that MII had participated in the Bid Clarification meetings between ONGC and SHI, and had been approved by ONGC as Subcontractors of SHI because ONGC were familiar with their work and relied on their expertise.	None
+In this connection SHI placed some reliance on the fact that under the heading of MIIs Schedule of Hourly Rates, a number of the terms of the proposed Subcontract between SHI and MII were out set in the Bid, including a provision which made it clear that, in the same way as in the Head Contract between SHI and ONGC, the Subcontract was to be tax protected, with the consequence that SHI would be liable for all Indian tax that might become payable by MII.	None
+This provision, which referred to MII as Contractor and SHI as Customer was in the following terms Any foreign (i.e nonU.S.A.) taxes incurred by Contractor and Contractors employees and which are imposed by or payable to any foreign governmental authority, whether by way of withholding, assessment or otherwise, for work performed hereunder shall be borne by Customer.	None
+Any such taxes which are paid directly by Contractor, shall be reimbursed by Customer.	None
+As will be seen hereafter, what became Clause 23 in the Head Contract and thus subsequently also in the Subcontract, was in different terms, but the substance was the same.	None
+In this background, the umpire answered the three questions and held that there was a relevant change in view of the enactment of Clause 44 BB in the Income Tax Act with retrospective effect.	None
+The enactment of this clause caused MII to become liable to pay the tax which they paid.	None
+Since the appellant had to pay this amount of tax to MII, it did affect economically the position of the appellant.	None
+Then the umpire posed a question whether the payments made by appellant to MII can properly be described as cost to the appellant.	None
+The umpire took the view that the word cost is a very wide word and that obviously the payments were an extra cost.	None
+He held that when the payment arises under a contractual obligation to pay or refund some other partys tax, then such a payment is obviously a cost under the contract in question.	None
+The cost was therefore necessary cost and it was also reasonable since it was only the added tax amount.	None
+He accordingly held that the appellant was legally obliged to make this payment to MII in view of the back to back contract between the appellant and MII and that the respondent was required to reimburse the same to the appellant.	None
+Consideration of the rival submissions The Division Bench has found fault with the umpire in not placing a narrow and strict interpretation on Clause 17.3.	None
+Mr. Dushyant Dave learned Senior Advocate appearing for the appellant submitted that it would not be right to apply strict rules of construction ordinarily applicable to conveyances and other formal documents to a commercial contract like the present one and referred to and relied upon the judgment of this Court in Union of India v. D.N. Revri Co. reported in (1976) 4 SCC 147.	None
+As held in that judgment, he submitted that the meaning of a contract, and particularly a commercial one, must be gathered by adopting a common sense approach and not by a narrow pedantic and legalistic interpretation.	None
+The present case relates to an international commercial contract and as noted earlier the appellant and MII had agreed to subject themselves to the domestic laws of India as well as the International law and conventions.	None
+On this background the appellant wanted to safeguard itself in the event of change of law in India to which the respondent had agreed.	None
+It was submitted that any narrow interpretation of Clause 17.3 to exclude the reimbursement of the income tax liability of the Subcontractor will defeat the purpose in providing this safeguard under Clause 17.3 and will make it otiose.	None
+On the other hand Mr. Vivek Tankha, learned Additional Solicitor General appearing for the respondent pressed for the acceptance of the approach of the Division Bench viz.	Arguments of Respondent
+that Clause 17.3 must be construed as an indemnity clause and that it must be read strictly and narrowly.	Arguments of Respondent
+As far as this submission is concerned, one has to note that as per Section 124 of the Indian Contract Act, a Contract of Indemnity is one under which one party promises to save the other from loss caused to him by the conduct of the promisor or any other person.	Arguments of Respondent
+Thus in the present case, under Clause 5.10.5 of the General Conditions of contract, the appellant has given the indemnity to the respondent against all losses that the respondent may suffer out of the negligence of appellant or their subcontractor.	Arguments of Respondent
+Clause 17.3 thereof does not deal with any such losses.	None
+It makes a provision for compensation in the event of the appellant being subjected to extra cost arising on account of change of law.	Arguments of Respondent
+It cannot be compared with indemnity for loss due to conduct of the promisor or of a third party.	Arguments of Respondent
+Mr. Tankha submitted that clauses in the contract have to be given a literal interpretation.	Arguments of Respondent
+He relied upon the judgments of this Court in Central Bank of India Ltd.,	Arguments of Respondent
+Amritsar v. Hartford Fire Insurance Co. Ltd.	None
+AIR 1965 SC 1288 and Polymat India (P) ltd. v. National Insurance Co. Ltd. (2005) 9 SCC 174 in support.	None
+He contended that under the terms of the present contract respondent has taken up the income tax liability of the contractor alone, and Clause 17.3 would not have the effect of passing on the burden of the income tax liability of the sub contractor as well on to the respondent.	Arguments of Respondent
+In this connection we must notice that both these judgments are concerning clauses in insurance policies.	Arguments of Respondent
+In the case of Central Bank of India (supra) the concerned clause in the insurance policy was This Insurance may be terminated at any time at the request of the Insured.	Arguments of Respondent
+This Court held that the words at any time can only mean at any time the party concerned likes.	Arguments of Respondent
+It was in this context that this Court held that the intention of the parties is to be looked for in the words used.	Arguments of Respondent
+In Polymat India (P) Ltd. (supra) the question for the consideration was whether as per the terms of the insurance policy the goods lying outside the shed were covered thereunder.	Arguments of Respondent
+The terms used in the policy were factorycumgodowncumoffice.	None
+Obviously the goods lying outside the factory and godown could not be held to be covered under the policy.	Arguments of Respondent
+This Court held that the interpretation could not be given dehors the context.	Arguments of Respondent
+There is no difficulty in accepting that the clauses of an insurance policy have to be read as they are.	None
+In an insurance policy the party which is insured makes a proportionate advance payment to the Insurance Company and gets an assurance to protect itself against the loss or the damage which it might suffer in certain eventuality.	None
+Consequently the terms of the insurance policy fixing the responsibility of the Insurance Company are read strictly.	None
+Such is not the situation in the present case.	None
+Here we are not concerned with a clause in an insurance policy.	None
+We are dealing with an International Commercial Contract under which the appellant has reimbursed the tax liability of their Subcontractor which arose out of change in the law after the date of bid closing.	None
+This is stated to have affected the position of the appellant economically for which the appellant is seeking equivalent compensation from the respondent as per its construction of Clause 17.3.	None
+When Clause 17.3 provides that the respondent company shall compensate the contractor for all necessary and reasonable extra cost caused by such a change in law, affecting the contractor economically, could the claim for reimbursement made by the appellant from the respondent be held as not covered under this clause?	None
+The respondents had contended in the High Court and also before us that it was not necessary for the appellant to reimburse this tax amount to MII and that it was only a voluntary payment on their part.	None
+It was also submitted that this payment arose out of the contract between the appellant and MII and not because of change of law as such.	None
+Now, as can be seen from the evidence as narrated above, MII became liable to pay this tax amount to the Union of India only because of the retrospective change in the Income Tax Law, brought in subsequent to the date of bid closing.	None
+The liability of the appellant to reimburse that amount to MII arose in view of the commitment made by the appellant in their Subcontract to MII.	None
+It cannot be ignored that if there was no change of law, this situation would not have arisen at all.	None
+It is therefore not possible to treat this payment as voluntary, that is, in the absence of any liability.	None
+It was canvassed on behalf of the respondent that there is no nexus between that payment to MII and the responsibility of the respondent.	Arguments of Respondent
+However, as can be seen from Clause 3 of the General condition quoted above, the Subcontracting was clearly contemplated by the parties and was provided for in their agreement.	Arguments of Respondent
+The relevant material and evidence placed before the arbitrator clearly shows that MII was the principal Subcontractor and has all throughout been in picture in the contract between the appellant and the respondent.	Arguments of Respondent
+In fact it is because of the expertise of MII that it was given a pivotal role in the execution of the entire contract.	Arguments of Respondent
+The appellant had entered into a back to back contract with MII to the knowledge of the respondent.	Arguments of Respondent
+The performance of their obligation under the Sub contract by MII, formed part and parcel of appellants obligations under the Headcontract.	None
+The respondent had taken up the responsibility for the income tax liabilities of the appellant.	None
+So had the appellant taken up the responsibility for the tax liabilities of MII and the respondent cannot be said to be ignorant there of.	None
+In any case Clause 17.3 will have to be given a meaningful interpretation.	None
+It is confined only to the necessary and reasonable extra cost, caused by change in law occurring after the date of bid closing.	None
+The claim of appellant was restricted only to that extent.	None
+It is necessary to note that the contract was otherwise completely executed, payments were made and the discharge certificate was issued long back.	None
+MII had already filed its returns for the two relevant assessment years 1984 85 and 198586.	None
+In 1988 its assessment has been reopened in view of the change in law, for which appellant had made the payment and had sought reimbursement from the respondent.	None
+In the circumstances the submission of absence of nexus can not be accepted.	None
+In the present matter the Division Bench has observed, that the umpire exceeded his jurisdiction in awarding Appellants claim under Clause 17.3 of the agreement and that he has failed to apply his mind to the pleadings, documents and the evidence as well as particular clause of the contract to declare that the award was perverse.	Reasoning
+In fact as seen above, the umpire has entertained appellants claim only after giving a meaningful interpretation to Clause 17.3 after considering all the material on record as well as the context.	Reasoning
+Respondent had contended in their arbitration petition before the High Court that it was not permissible to refer to the pre contractual negotiations and the documents arising therein.	Reasoning
+What the umpire has however done is to look into the context with a view to understand the text.	Reasoning
+As we have noted above the umpire has looked into the evidence before him including that of the respondents officer as to how MII had participated in the bid clarification meetings.	Reasoning
+He considered the submission of the appellant as to how the Subcontract was also tax protected, which was their main plea.	Reasoning
+It is true that if there is an error apparent on the face of the award or where the umpire had exceeded his jurisdiction or travelled beyond the reference, the court can interfere.	Reasoning
+However in view of what is noted above it is not possible to say that the award suffers from any of the above defects so as to call for interference .	Reasoning
+The view canvassed on behalf of the respondent was that Clause 17.3 ought to be read narrowly like an indemnity clause or given a literal interpretation as in the case of an insurance policy.	Reasoning
+The umpire on the other hand has observed that this clause is couched in wide terms and it was commercially understandable and sensible, since it was designed to cover a wide and potentially unforeseeable spectrum viz.	Reasoning
+the likely impact of a possible change in Indian law in future.	Reasoning
+In the circumstances the approach adopted by the umpire being a plausible interpretation, is not open to interfere.	Reasoning
+The Division bench was clearly in error when it observed that the view of the umpire on Clause 17.3 is by no stretch of imagination a plausible or a possible view.	Reasoning
+Perhaps, it can be said to be a situation where two views are possible, out of which the umpire has legitimately taken one.	Reasoning
+As recently reiterated by this Court in Steel Authority of India Limited v. Gupta Brothers Steel Tubes Limited reported in (2009) 10 SCC 63 if the conclusion of the arbitrator is based on a possible view of the matter, the court is not expected to interfere with the award.	Reasoning
+The High Court has erred in so interfering.	Reasoning
+Can the findings and the award in the present case be described as perverse?	None
+This Court has already laid down as to which finding would be called perverse.	None
+It is a finding which is not only against the weight of evidence but altogether against the evidence.	None
+This Court has held in Triveni Rubber Plastics v. CCE AIR 1994 SC 1341 that a perverse finding is one which is based on no evidence or one that no reasonable person would have arrived at.	None
+Unless it is found that some relevant evidence has not been considered or that certain inadmissible material has been taken into consideration the finding cannot be said to be perverse.	None
+The legal position in this behalf has been recently reiterated in Arulvelu and Anr.	None
+v. State Represented by the Public Prosecutor and Anr.	None
+(2009) 10 SCC 206.	None
+In the present case, the findings and award of the umpire are rendered after considering the material on record and giving due weightage to all the terms of the contract.	Reasoning
+Calling the same to be perverse is highly unfair to the umpire.	Reasoning
+The umpire has considered the fact situation and placed a construction on the clauses of the agreement which according to him was the correct one.	Reasoning
+One may at the highest say that one would have preferred another construction of Clause 17.3 but that cannot make the award in any way perverse.	None
+Nor can one substitute ones own view in such a situation, in place of the one taken by the umpire, which would amount to sitting in appeal.	Reasoning
+As held by this Court in Kwality Manufacturing Corporation v. Central Warehousing Corporation reported in (2009) 5 SCC 142 the court while considering challenge to arbitral award does not sit in appeal over the findings and decision of the arbitrator, which is what the High Court has practically done in this matter.	Reasoning
+The umpire is legitimately entitled to take the view which he holds to be the correct one after considering the material before him and after interpreting the provisions of the agreement.	Reasoning
+If he does so, the decision of the umpire has to be accepted as final and binding.	Reasoning
+It is an obligation of the parties to a contract that they must perform their respective promises, and if a party does not so perform, the arbitrator or the umpire has to give the necessary direction if sought.	None
+In that process, they have to give a meaningful interpretation to all the relevant clauses of the contract to make them effective and not redundant.	None
+The intention of the parties in providing a clause like Clause 17.3 could not be ignored.	None
+It had to be given a due weightage.	None
+This is what the umpire has done and has given the direction to the respondent to compensate the appellant for the amount of the necessary and reasonable extra cost caused by change in law.	None
+We have no hesitation in holding that the award of the umpire is a well reasoned award and one within his jurisdiction, and which gives a meaningful interpretation to all the clauses of the contract including Clause 17.3.	None
+In the circumstances in our view the High Court has clearly erred in interfering with the award rendered by the umpire.	None
+There is one more submission which has to be referred to.	None
+It was canvassed on behalf of the appellant in the High Court and before us also that the award rendered by the umpire was one on a question of law and on that ground also the Court was not expected to interfere with the award.	None
+Mr. Dave took us through the notice of intention to appoint the arbitrator, the request for arbitration, the summary of issues submitted by the appellant and the draft issues submitted by the respondent.	None
+He then contended that appellants claim essentially depended on the interpretation of the clauses of contract which plea was specifically raised through these draft issues and this stood on the same footing, as a reference of an issue of law for arbitration.	None
+Amongst others, the judgment in Kapoor Nilokheri Coop Diary Farm Society Ltd. v. Union of India and Ors.	None
+in (1973) 1 SCC 708 was relied upon in support of this proposition.	None
+As against that, Mr. Tankha submitted that in paragraph 23 of Tarapore Co. v. Cochin Shipyard Ltd. AIR 1984 SC 1072 the judgment in Kapoor Nilokheri has been read as one in the facts of that case.	None
+He further relied upon the judgment in Rajasthan State Mines Minerals Ltd. v. Eastern Engineering Enterprises and Anr.	None
+JT 1999 (7) SC 379 to submit that the award of the arbitrator on a question of law is immune from a challenge in a Court only when it is rendered on a specific question of law referred to him and that the same was not the situation in the present matter.	None
+The Division Bench has accepted this submission of the respondent and held that in the present case there was no specific question of law referred to the arbitrators or the umpire.	None
+It held that what was referred for arbitration was the determination of the claim of the appellant against the respondent, and that an incidental question involving interpretation cannot be said to be a specific question of law.	None
+However, we are not required to go into that issue since we are otherwise holding that the award was not only a plausible one but a wellreasoned award.	Reasoning
+In the circumstance the interference by the High Court was not called for.	Reasoning
+In that view of the matter we allow this appeal and set aside the judgment of the learned single Judge, as well as that of the Division Bench.	Reasoning
+The award made by the Umpire is upheld and there shall be a decree in terms of the award.	Reasoning
+The arbitration petition filed by the respondent for setting aside the award shall stand dismissed with cost.	Decision

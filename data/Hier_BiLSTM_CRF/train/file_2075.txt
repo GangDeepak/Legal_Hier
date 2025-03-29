@@ -1,0 +1,423 @@
+ H. Kapadia, J.	None
+By order dated 26.9.2003, the Referring Bench of Hon?ble Ruma Pal, J. and P. Venkatarama Reddy, J. doubted the correctness of the view taken in M s. Bhagatram Rajeevkumar v. Commissioner of Sales Tax, M.P. Ors., 1995 Suppl.	Facts
+(1) SCC 673, relied on in the subsequent decision of this Court in the case of State of Bihar Ors.	Facts
+v. Bihar Chamber of Commerce Ors., (1996) 9 SCC 136.	Facts
+Accordingly, all the matters were ordered to be placed before the Hon?ble the Chief Justice for appropriate directions and accordingly, the matter has come to the Constitution Bench to decide with certitude the parameters of the judicially evolved concept of ?compensatory tax?	Facts
+visavis Article 301.	Facts
+The referral order is in the case of Jindal Strips Ltd. Anr.	Facts
+(now know as Jindal Stainless Ltd.) v. State of Haryana	Facts
+Ors., VI (2003) SLT 457(2003) 8 SCC 60 , under Article 145(3).	Facts
+For this purpose, we are required to examine the source from which the concept of compensatory tax is judicially derived, the nature and character of compensatory tax and its parameters in the context of Article 301.	Facts
+In a batch of appeals, the constitutional validity of the Haryana Local Area Development Tax Act, 2000 has been challenged on two grounds (1) that, the Act is violative of Article 301 and is not saved by Article 304 and (2) that, the Act in fact seeks to levy sales tax on interState sales, which is outside the competence of the State Legislature.	Facts
+However, the referral order is confined to the abovementioned first question.	Facts
+Jindal Strips Ltd. is an industry manufacturing products within the State of Haryana.	Facts
+The rawmaterial is purchased from outside the State.	Facts
+The finished products are sent to other States on consignment basis or stock transfer basis.	Facts
+No sales tax is paid on the input of the raw material.	Facts
+Similarly, no sales tax is paid on the export of finished products.	Facts
+The impugned Act came into force w.e.f.	Facts
+5th May, 2000 to provide for levy and collection of tax on the entry of goods into the local areas of the State for consumption or use therein.	Facts
+The Act is enacted to provide for levy and collection of tax on the entry into a local area of the State, of a motor vehicle for use or sale, and of other goods for use or consumption therein.	Facts
+The Act seeks to impose entry tax on all goods brought into a ?local area?.	Facts
+The entire State is divided into local areas.	Facts
+The Act covers not only vehicles bringing goods into the State but also vehicles carrying goods from one local area to another.	Facts
+However, those who pay sales tax to the State are exempt from payment of entry tax.	Facts
+Ultimately, the entry tax only falls on concerns, like Jindal Strips, which, by virtue of the provisions of the Central Sales Tax Act, 1956, pay sales tax on purchase of rawmaterial and sale of finished goods to other States and do not pay sales tax to the State of Haryana.	Facts
+This is the context in which the challenge to the Act under Article 301 has been made.	Facts
+At this stage, we may point out that prior to September 30, 2003, Section 22 stated that the tax collected under the Act shall be distributed by the State Government amongst the local bodies to be utilised for the development of local areas.	Facts
+However, on 30th September, 2003, Section 22 was amended clarifying that the tax levied and collected shall be utilised for facilitating free flow of trade and commerce.	Arguments of Respondent
+Reasons for the Referral Order In Atiabari Tea Co. Ltd. etc. v. State of Assam Ors., AIR 1961 SC 232 , it was held that taxing laws are not excluded from the operation of Article 301, which means that tax laws can and do amount to restrictions on the freedoms guaranteed to trade under Part XIII of the Constitution.	Facts
+However, the prohibition of restrictions on free trade is not an absolute one.	Facts
+Statutes restrictive of trade can avoid invalidation if they comply with Article 304(a) or (b) ?	Facts
+304.	None
+Restrictions on trade, commerce and intercourse among States.	None
+Notwithstanding anything in Article 301 or Article 303, the Legislature of a State may by law (a) impose on goods imported from other States or the Union Territories any tax to which similar goods manufactured or produced in that State are subject, so, however, as not to discriminate between goods so imported and goods so manufactured or produced and (b) impose such reasonable restrictions on the freedom of trade, commerce or intercourse with or within that State as may be required in the public interest Provided that no Bill or amendment for the purposes of Clause (b) shall be introduced or moved in the Legislature of a State without the previous sanction of the President.?	Facts
+In Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan, AIR 1962 SC 1406 , it was held that only such taxes as directly and immediately restrict trade would fall within the purview of Article 301 and that any restriction in the form of taxes imposed on the carriage of goods or their movement by the State Legislature can only be done after satisfying the requirements of Article 304(b).	Facts
+The statute which was challenged in Atiabari Tea Co. (supra) was the Assam Taxation (on goods carried by Roads and Inland Waterways) Act, 1954.	Facts
+It was held that the Act had put a direct restriction on the freedom of trade and since the State Legislature had not complied with the provisions of Article 304(b), the Act was declared void.	Facts
+According to M s. Jindal Strips and similarly situated other appellants, the impugned Haryana Local Area Development Tax Act, 2000 imposes a restriction on trade and is violative of Article 301, particularly, when the provisions of Article 304(b) have not been complied with.	Facts
+The judgment of this Court in Atiabari Tea Co. (supra) was delivered by a Constitution Bench of five Judges.	Facts
+However, an exception to Article 301 and its operation was judicially crafted in Automobile Transport (supra).	Facts
+In that case, the challenge was to the Rajasthan Motor Vehicles Taxation Act, 1951.	Facts
+The challenge under Article 301 was rejected by the Constitution Bench of seven Judges of this Court by holding vide para 19 that ?	Facts
+the taxes are compensatory taxes which instead of hindering trade, commerce and intercourse facilitate them by providing roads and maintaining the roads?.	Facts
+Vide para 21 of the report, it was observed that ?	Facts
+if a statute fixes a charge for a convenience or service provided by the State or an agency of the State, and imposes it upon those who choose to avail themselves of the service or convenience, the freedom of trade and commerce may well be considered unimpaired.?	Facts
+Thus, the concept of ?compensatory taxes? was propounded.	Facts
+Therefore, taxes which would otherwise interfere with the unfettered freedom under Article 301 will be protected from the vice of unconstitutionality if they are compensatory.	Facts
+In Automobile Transport (supra), it was said, vide para 19, that ?	Facts
+a working test for deciding whether a tax is a compensatory or not is to enquire whether the trade is having the use of certain facilities for the better conduct of its business and paying not patently much more than what is required for providing the facilities?.	Facts
+Right from 1962 upto 1995, this working test was applied by this Court in relation to motor vehicles taxes for deciding whether the impugned levy was compensatory or not.	Facts
+The decisions proceeded on the principle adumbrated in Automobile Transport (supra), which was paraphrased by Mathew, J. speaking for a Bench of three Judges in G.K. Krishnan Ors.	Facts
+v. State of T.N. Ors., (1975) 1 SCC 375 , in which it was observed that ?	Facts
+the very idea of a compensatory tax is service more or less commensurate with the tax levied?.	Facts
+See para 29 page 386 According to the referral order, after 1995, some of the principles set out stood deviated from when the principle of compensatory tax was applied to the entry tax in Bhagatram?s case (supra), which was decided by a Bench of three Judges.	Facts
+In Bhagatram?s case (supra), the challenge was to M.P. Sthaniya Kshetra	Facts
+Me Mal Ke Pravesh Par Kar Adhiniyam, 1976.	Facts
+In that case, although it was demonstrated by the State and not disputed by the assessee that the levy was compensatory, nevertheless, the Court went on to say, vide para 8, that ?	Facts
+the concept of compensatory nature of tax has been widened and if there is substantial or even some link between the tax and the facilities extended to dealers directly or indirectly the levy cannot be impugned as invalid?.	Facts
+In this connection, reliance was placed on the judgment of this Court in the case of State of Karnataka Anr.	Facts
+v. M s. Hansa Corporation, (1980) 4 SCC 697.	Facts
+At this stage, it may be noted that although there was a challenge to the levy of entry tax in the case of Hansa Corporation (supra), the issue whether the tax was compensatory in nature was expressly left open, particularly, because Article 304(b) stood complied with.	Facts
+In fact, the impugned Act was saved because Article 304 was complied with.	Facts
+It was for that reason alone that the Act could not be struck down in Hansa Corporation?s case (supra).	Facts
+The dictum in Bhagatram?s case (supra), was relied on by a Bench of two Judges in the case of Bihar Chamber of Commerce (supra), which reiterated the position that ?	Facts
+some connection?	Decision
+between the tax and the trading facilities extended to dealers directly or indirectly is sufficient to characterise it as compensatory tax.	Facts
+The Court went further to hold that the State provides several facilities to the trade, such as, laying and maintenance of roads, waterways, markets etc.	Facts
+and on this premise, it was held that the entry tax was compensatory in nature.	Facts
+The learned Judges did not consider it necessary to put the burden on the State to furnish the details of facilities provided to the traders and the expenditure incurred or incurrable thereafter.	Facts
+To sum up the pre1995 decisions held that an exaction to reimburse recompense the State the cost of an existing facility made available to the traders or the cost of a specific facility planned to be provided to the traders is compensatory tax and that it is implicit in such a levy that it must, more or less, be commensurate with the cost of the service or facility.	Facts
+Those decisions emphasised that the imposition of tax must be with the definite purpose of meeting the expenses on account of providing or adding to the trading facilities either immediately or in future provided the quantum of tax is based on a reasonable relation to the actual or projected expenditure on the cost of the service or facility.	Facts
+However, the post1995 decisions in Bhagatram?s case (supra), and in the case of Bihar Chamber of Commerce (supra), now say that even if the purpose of imposition of the tax is not merely to confer a special advantage on the traders but to benefit the public in general including the traders, that levy can still be considered to be compensatory.	Facts
+According to this view, an indirect or incidental benefit to traders by reason of stepping up the developmental activities in various local areas of the State can be brought within the concept of compensatory tax, the nexus between the tax known as compensatory tax and the trading facilities not being necessarily either direct or specific.	Facts
+According to the referral order, since the concept of compensatory tax has been judicially evolved as an exception to the provisions of Article 301 and as the parameters of this judicially evolved concept are blurred, particularly, by reason of the decisions in Bhagatram?s case (supra), and Bihar Chamber of Commerce (supra), the Court felt that the interpretation of Article 301 visavis compensatory tax should be authoritatively laid down with certitude by the Constitution Bench under Article 145(3).	Facts
+Arguments Mr. Shanti Bhushan, learned Senior Counsel appearing on behalf of the Jindal Stainless Ltd. submitted that in Atiabari Tea Co. (supra), this Court held that even a tax legislation would have to bear the scrutiny of PartXIII of the Constitution and such legislation could infringe Article 301 to 304 of the Constitution that the tax laws were within the ambit of PartXIII of the Constitution that sevenJudge Constitution Bench of this Court in Automobile Transport (supra) for the first time judicially evolved the principle of compensatory taxes which would be outside the purview of PartXIII and which could not be said to impede free flow of trade and commerce majority view.	Arguments of Petitioner
+Such compensatory taxes were no hindrance to freedom of trade so long as they remained reasonable.	Arguments of Petitioner
+Such compensatory taxes, in essence and reality, facilitated trade and commerce and they were not restrictions, it was held that the substance of the matter has to be determiend in each case.	Arguments of Petitioner
+Learned Counsel placed reliance on the judgment of Justice Das from pages 522 to 523, in this regard.	Arguments of Petitioner
+Learned Counsel submitted that the working test laid down in the Automobile Transport (supra) is good even today.	Arguments of Petitioner
+Under the test, although the precise amount collected may not be actually used to provide any facility, the tax collected should be by and large commensurate with the cost of the facilities provided for the trade.	Arguments of Petitioner
+Learned Counsel, therefore, submitted that the working test laid down in Automobile Transport (supra), is the only test which would differentiate the tax imposed for augmenting general revenue from the compensatory tax.	Arguments of Petitioner
+Learned Counsel submitted that there is a basic difference between the law infringing freedom of trade and the law which imposes regulations which in effect facilitates or promotes trade.	Arguments of Petitioner
+According to the learned Counsel, regulations provide for necessary services to enable free movement of traffic and, therefore, they cannot be described as restrictions impeding the freedom under Article 301 that in the case of regulations the tax imposed is incidental in order to compensate for the facilities provided.	Arguments of Petitioner
+On the other hand, it was urged, that, a tax law is in essence an exercise to augment the general revenue of the State and not for providing facilities and services for the trade.	Arguments of Petitioner
+A tax law which does not in return provide services and facilities for the free movement of trade, can never be compensatory.	Arguments of Petitioner
+Learned Counsel further submitted that in Bhagatram?s case (supra), vide para 8, the Division Bench of this Court held that ?	Arguments of Petitioner
+the concept of compensatory nature of tax has been widened and if there is substantial or even some link between the tax and the facilities extended to such dealers directly or indirectly the levy cannot be impugned as invalid?.	Arguments of Petitioner
+In that case the Division Bench of this Court relied upon the judgment of this Court in the case of Hansa Corporation (supra).	Arguments of Petitioner
+Mr. Shanti Bhushan, learned Counsel for the assessees, submitted that the judgment of this Court in the case of Bhagatram (supra) was erroneous on two counts.	Arguments of Petitioner
+Firstly, the reliance on Hansa Corporation (supra) was totally misplaced because Hansa Corporation (supra) did not deal with the issue of what is compensatory tax.	Arguments of Petitioner
+In fact, that question was expressly not gone into.	Arguments of Petitioner
+Secondly, learned Counsel submitted that to the extent of Bhagatram (supra), holding that the concept of compensatory tax has been widened as stated above, the said judgment was contrary to the law laid down by the sevenJudge Bench decision of this Court in the case of Automobile Transport (supra) and, therefore, needs to be overruled.	Arguments of Petitioner
+Mr. Shanti Bhushan further contended that the Division Bench of this Court in the case of Bihar Chamber of Commerce (supra) has followed the judgment of this Court in the case of Bhagatram (supra) and has held that even though the tax was for augmenting the general revenue of the State, judicial notice could be taken of the fact that the State provides several facilities to the trade including laying and maintenance of roads, waterways, markets etc.	Arguments of Petitioner
+and on that basis it was held that the State had established the impugned tax to be compensatory in nature.	Arguments of Petitioner
+In short, Mr. Shanti Bhushan?s submission was that the aforestated two judgments in Bhagatram (supra) and in Bihar Chamber of Commerce (supra) were erroneous to the extent indicated above that they were contrary to the judgment of sevenJudge Bench of this Court in the case of Automobile Transport (supra).	Arguments of Petitioner
+Learned Counsel urged that if the test, laid down in the case of Bhagatram (supra) and in the case of Bihar Chamber of Commerce (supra), was held to be applicable then as a consequence there would be no difference between a tax and a compensatory tax.	Arguments of Petitioner
+It was urged that therefore this Court should evolve parameters of compensatory tax for future guidance.	Arguments of Petitioner
+Learned Counsel submitted that to be compensatory, tax must be levied to augment facilities for trade and that is how a tax was held not to impede but to facilitate trade in Automobile Transport (supra).	Arguments of Petitioner
+It was submitted that the essence of compensatory tax is that the services rendered or facilities provided should be more or less commensurate with the tax levied and the tax should not be patently more than what was required to provide the trading fracility.	Arguments of Petitioner
+It was submitted that the tax imposed for augmenting general revenue of the State is not compensatory that any tax law which is designed or which has the effect of disrupting trade movement in interState trade and commerce between States is contrary to the concept of freedom of trade embodied in Article 301.	Arguments of Petitioner
+It was submitted that the compensatory character of tax should be selfevident from the taxing law itself and it cannot be judged from the manner in which the tax revenue is utilised in course of time.	Arguments of Petitioner
+It was urged that in the case of ambiguity, the burden would fall on the State to show that in essence the levy was imposed as a recompense for the facilities services provided by the State.	Arguments of Petitioner
+It was urged that in the case of Sanjay Trading Company v. Commissioner of Sales Tax Ors., (1994) 93	Arguments of Petitioner
+STC 589, the tax was held to be compensatory based on the figures furnished by the State and it was found that the levy was imposed to offset the loss caused by the abolition of octroi which according to the learned Counsel is totally missing in the case of Haryana Local Area Development Tax Act, 2000.	Arguments of Petitioner
+18.	Arguments of Petitioner
+Mr. A.K. Ganguli, learned Senior Counsel appearing on behalf of one of the appellants, submitted that the legislative power of the State to make any law under Article 246 read with the entries in list II, though plenary in nature, is subject to two limitations (i) Fundamental Rights Part III of the Constitution (ii) Trade, Commerce and Intercourse within the Territory of India Part XIII of the Constitution Therefore, the State cannot exercise its legislative power in a manner which would transgress the above constitutional limitations.	Arguments of Petitioner
+In this connection, learned Counsel placed reliance on the judgment in Atiabari Tea Co. (supra).	Arguments of Petitioner
+Learned Counsel further urged that keeping in mind the impact of globalization since mid1990s the international trade barriers stand removed in view of multilateral trade agreements between the committee of nations.	Arguments of Petitioner
+He submitted that the framers of the Constitution engrafted Part XIII in the Constitution with the object of securing economic unity of the country as a whole and, therefore, the State?s power of imposing taxes and duties on goods, freedom of which throughout India is guaranteed by Article 301, would be subject to the said limitation.	Arguments of Petitioner
+Learned Counsel urged that taxing statutes imposing duties on goods do attract Article 301 that the intrinsic evidence furnished by the Articles in Part XIII shows that the taxing laws are not excluded from the operation of Article 301 which means that tax law do amount to restrictions, freedom from which is guaranteed to trade under Part XIII.	Arguments of Petitioner
+It is, therefore, idle to contend as sought to be argued on behalf of the State that a tax under Entry 52 list II falls outside Article 301.	Arguments of Petitioner
+Learned Counsel submitted further that in Atiabari Tea Co. (supra) a workable test has been evolved under which restrictions which already directly and immediately impede free flow of trade, would violate Article 301.	Arguments of Petitioner
+According to learned Counsel one needs to enquire whether the trade is provided with facilities for the better conduct of their business.	Arguments of Petitioner
+According to learned Counsel once the said working test is satisfied then the levy is regulatory in nature provided it is not disproportionate to the value of the facility service provided.	Arguments of Petitioner
+Learned Counsel urged that a tax imposed for raising general revenue of the State, is not a compensatory levy.	Arguments of Petitioner
+It was submitted that for the purpose of securing freedom of movement by road, it was essential that no pecuniary burden is placed upon it which burden goes beyond a proper recompense to the State for the actual use made of the facilities provided by the State.	Arguments of Petitioner
+Therefore, there has to be a direct relation between the levy and the facility and the users must derive a special direct benefit of that facility.	Arguments of Petitioner
+It was submitted that Part XIII imposes constitutional limitations on the legislative powers of the State, the onus would lie on the State to demonstrate that the provisions of the impugned enactment facilitate the free flow of trade by providing a regulatory measure.	Arguments of Petitioner
+Similarly, in respect of taxing statutes, the burden would lie heavily on the State administration that the taxes proposed to be levied and collected under the impugned enactment are for the use of trading facilities and only then that such levy would come within the purview of compensatory tax as laid down in the judgment of this Court in the case of Automobile Transport (supra).	Arguments of Petitioner
+According to the learned Counsel mere declaration in law that the levy is compensatory in nature is not enough.	Arguments of Petitioner
+Whether a tax is compensatory or not, cannot depend on the preamble of the statute imposing it.	Arguments of Petitioner
+A tax cannot be said not to be compensatory merely because the precise or specific amount collected is not actually used to provide facilities.	Arguments of Petitioner
+In this connection, reliance is placed on the judgment of this Court in the case of Sharma Transport v. Government of Andhra Pradesh Ors., VIII (2001) SLT 234I (2002) ACC 85 (SC)(2002) 2 SCC 188.	Arguments of Petitioner
+However, learned Counsel submitted that the Act must spell out the nature of the trading facilities intended to be provided to the trading community and also the cost of providing such facilities.	Arguments of Petitioner
+Learned Counsel submitted that the Act must indicate a direct corelation between the two.	Arguments of Petitioner
+At this stage, we may clarify that we are not required to go into the question as to whether the impugned tax based on ad valorem basis cannot be termed as a compensatory tax.	Reasoning
+As stated above, we are confining this judgment only to the question as to whether the observations of this Court in the case of Bhagatram (supra) followed by the judgment of this Court in the case of Bihar Chamber of Commerce (supra) needs to be overruled in the light of the judgment of sevenJudge Constitution Bench in the case of Automobile Transport (supra).	Reasoning
+In the present matter, we are required to lay down the parameters of the concept of compensatory tax visavis Article 301.	Reasoning
+All other questions will have to be gone into at the relevant stage before the Division Bench of this Court with regard to the constitutional validity of 2000 Act.	Reasoning
+Learned Counsel next submitted that the question as to whether a levy is compensatory or not has to be decided with reference to the nature of the levy itself.	Arguments of Petitioner
+In this connection reliance was placed on Entry 57 List II.	Arguments of Petitioner
+It was urged that taxes on motor vehicles are levied Statewise.	Arguments of Petitioner
+Such levies are annual levies.	Arguments of Petitioner
+Such levy, if claimed to be compensatory, must bear a definite nexus with the facilities which the State seeks to extend to the trading community using their transports on the roads and bridges maintained by the State.	Arguments of Petitioner
+Similarly, it was argued that levy of entry tax under Entry 52 List II indicates that the levy contemplated is on the entry of goods into a local area for consumption, use or sale therein.	Arguments of Petitioner
+It was submitted that the levy contemplated is on entry into a local area and not when the goods cross the State barrier.	Arguments of Petitioner
+Therefore, if a levy of entry tax is claimed to be compensatory in nature such levy would have to be, in the first instance, confined to a local area and secondly the trading facilities sought to be provided also should be confined to such local area.	Arguments of Petitioner
+Further the expenses for such facilities and the levy by which such expenses are to be met must bear a reasonable and rational relationship.	Arguments of Petitioner
+21.	Arguments of Petitioner
+Mr. R.F. Nariman, learned Senior Counsel appearing for one of the appellants, submitted that the ingredients of a compensatory tax broadly fall into two categories, namely, positive ingredients which ought to be there to constitute a compensatory tax and negative ingredients which if present, the tax in question cannot be called a compensatory tax.	Arguments of Petitioner
+In this connection, learned Counsel submitted that if the purpose of levy is to raise resources for abovestated facilities or if the resources are raised as regulatory measures to facilitate trade then such an ingredient is a positive ingredient.	Arguments of Petitioner
+Similarly, the quantum of such compensatory tax must corelate with the funds required for such facilities regulatory measures.	Arguments of Petitioner
+According to learned Counsel these are two positive ingredients.	Arguments of Petitioner
+The negative ingredients, which if present, would make the tax labelled as compensatory, attract the vice of interference with freedom of trade, are twofold firstly, if the tax is for general augmentation of revenue, and secondly, the said compensatory tax must not be discriminatory.	Arguments of Petitioner
+According to learned Counsel, the purported compensatory tax must also not be for trade facilities and purposes for which there is already a levy of other compensatory tax.	Arguments of Petitioner
+Learned Counsel next urged that in the case of Bhagatram (supra) a threeJudge Bench of this Court noted that ?	Arguments of Petitioner
+the levy was in fact demonstrated to be compensatory?	Arguments of Petitioner
+and, therefore, the latter observation by the Court saying that ?	Arguments of Petitioner
+the concept of compensatory nature of tax has been widened and if there is some link between the tax and the facility the levy cannot be impugned as invalid?	Arguments of Petitioner
+is obiter dicta and such observation is not supported by any of the previously decided cases.	Arguments of Petitioner
+It was urged that under 2000 Act the entry tax lacks the positive ingredients enumerated above for a valid compensatory tax.	Arguments of Petitioner
+As there is no facility even mentioned with relation to entry of goods into local area for use, consumption or sale and, therefore, the link between local area and levy is absent and consequently collection of levy not by the local authority but by the State on entry of goods from outside State is unconstutional.	Arguments of Petitioner
+Further, according to the learned Counsel, negative ingredients indicated above also exist in the impugned levy inasmuch as the justification pleaded is augmentation of general revenue of State in lieu of octroi in name of facilities for which provisions are made by way of other compensatory taxes such as motor vehicle tax, property tax, etc.	Arguments of Petitioner
+Learned Counsel submitted that there is also an element of discrimination between goods entering local areas from outside State and goods entering local area from within the State, i.e., from one local area to another local area.	Arguments of Petitioner
+The latter class of goods are not subjected to levy though all the facilities, if at all provided, are there in course of intraState movement and entry of goods in local areas.	Arguments of Petitioner
+Learned Counsel, therefore, submitted that this discrimination per se militates against the impugned levy being termed as compensatory.	Arguments of Petitioner
+22.	Arguments of Petitioner
+M s. A.M. Singhvi, learned Senior Counsel, A.T.M. Sampath, H.K. Puri and Ms. K.S. Mehlwal also made their respective submissions on behalf of the assessees and substantially adopted the submissions made by M s. Shanti Bhushan, R.F. Nariman and A.K. Ganguli, learned Senior Counsel.	None
+Mr. P.P. Rao, learned Senior Counsel appearing on behalf of the State of Haryana, submitted that the impugned 2000 Act does not suffer from want of levy competence that the State Legislature has the competence under Entry 52 List II to enact the impugned law that the State Legislature is competent to levy such tax becasue the incidence of tax is on the entry of goods into a local area for consumption, use or sale therein and, therefore, it is not a tax on the import of goods from outside India, nor a tax on the manufacture of goods, nor a tax on the export of the goods to places outside the State.	Arguments of Respondent
+Finally, it is not a sales tax.	Arguments of Respondent
+Learned Counsel further contended that under Entry 52 List II it is not obligatory for the State to enact a law for the levy of entry tax on goods which are brought for use, consumption or sale it is within the power of the State to make a law for levy of such tax on goods brought for use, consumption or sale.	Arguments of Respondent
+Learned Counsel submitted that the Legislature has selected goods brought for use or consumption in a local area for the purposes of the levy that it is within the power of the State to make a law for levy of tax on goods for any of the three purpsoes or for one of them or two of them.	Arguments of Respondent
+Learned Counsel submitted that Article 286 read with Entry 41, Entry 83, Entry 92A and Entry 92B does not have any bearing on the constitutional validity of the impugned 2000 Act because the above entries deal with different subjects that the entry tax is not a tax on sale of goods affected by branch transfer or export outofState.	Arguments of Respondent
+Learned Counsel urged that the entry tax is compensatory in character and, therefore, the impugned levy which is compensatory in nature, as can be seen from Section 22 of the said Act, does not attract Article 301 and Article 304(a) of the Constitution.	Arguments of Respondent
+Learned Counsel submitted that Section 22 of the Act was amended on September 30, 2003 clarifying that the tax levied and collected shall be utilised for facilitating free flow of trade and commerce.	Arguments of Respondent
+Learned Counsel, therefore, submitted that the levy is compensatory in nature.	Arguments of Respondent
+Learned Counsel next contended that the compensatory levy need not satisfy the rule of quid pro quo strictly that it is sufficient that there is some relation or nexus between facilities provided and the tax imposed.	Arguments of Respondent
+Even the concept of fee has undergone significant change over the years as a result of a catena of decisions of this Court and, therefore, this reference under Article 145(3) of the Constitution was uncalled for.	Arguments of Respondent
+As a matter of preliminary submission, Mr. P.P. Rao, learned Senior Counsel for the State, contended that in view of the amendment made by Act 18 of 2003 adding an explanation to Section 22 of the impugned 2000 Act clarifying that the tax collected shall be utilised for developing and maintaining infrastructure facilities useful for free flow of trade, the question involved in this matter has become academic.	Arguments of Respondent
+Learned Counsel submitted that in view of various decisions of the Constitution Bench the case should have been first placed before a Bench of three Judges and not before a Constitution Bench straightaway.	Arguments of Respondent
+It is only when that Bench refers it to five Judges that the case should have been placed before a Constitution Bench because it has been a settled law that a Bench of two Judges is bound by the principles of law laid down by a Bench of three Judges which alone has the jurisdiction to interpret the law declared by a Constitution Bench.	Arguments of Respondent
+In this connection reliance was placed on two judgments of this Court, in the case of Pradip Chandra Parija Ors.	Arguments of Respondent
+v. Pramod Chandra Patnaik Ors., VIII (2001)	Arguments of Respondent
+SLT 282(2002) 1 SCC 1 , and in the case of Central Board of Dawoodi Bohra Community Anr.	Arguments of Respondent
+v. State of Maharashtra Anr.	Arguments of Respondent
+, I (2005) SLT 45(2005) 2 SCC 673.	Arguments of Respondent
+On merits learned Counsel urged that the Constitution contemplates levy of taxes and levy of fees.	Arguments of Respondent
+He urged that in the case of fees, quid pro quo is an essential element though not in taxes.	Arguments of Respondent
+However, compensatory taxes are an exception they contain an element of quid pro quo but not to the extent as in the case of ?fees?.	Arguments of Respondent
+Learned Counsel placed reliance in this connection on the judgment of this Court in the case of M s. International Tourist Corporation etc. etc. v. State of Haryana Ors. etc. etc., AIR 1981 SC 774 (para 8).	Arguments of Respondent
+Learned Counsel submitted that the extent of quid pro quo required in a fee has undergone a seachange and it would be irrational to insist on such a test in the case of compensatory tax.	Arguments of Respondent
+Learned Counsel next submitted that the element of compensation in compensatory taxes needs to be interpreted taking note of constitutional developments, the changed perception of the entire relationship of fundamental rights and directive principles as well as the seachange in the concept of fee particularly with reference to the element of quid pro quo.	Arguments of Respondent
+Learned Counsel submitted that the principles of law declared in Bhagatram (supra) are consistent with contemporary thinking about the basic concepts of tax, fee and compensatory tax with due regard to the developments subsequent to Automobile Transport (supra).	Arguments of Respondent
+Mr. Rakesh Dwivedi, learned Senior Counsel appearing for the State of U.P., submitted that while laying down parameters of compensatory tax for purposes of Part XIII it is necessary to note that under the scheme of our Constitution, States have certain powers including the power to raise revenue by taxation and further Article 301 has to be applied for the working of an orderly society.	Arguments of Respondent
+Learned Counsel submitted that the States must have revenue to carry out their administration that there are several items relating to the imposition of taxes in list II, therefore, according to learned Counsel the Constitution framers intended that under such items the States are entitled to raise revenue for their own purposes.	Arguments of Respondent
+Learned Counsel submitted that any wide view of the word ?freedom?	Arguments of Respondent
+under Article 301 or even a restricted view of the term ?	Arguments of Respondent
+compensatory tax?	Arguments of Respondent
+would put an end to the State autonomy and its plenary powers within the fields allotted to them.	Arguments of Respondent
+In this connection reliance was placed on the judgment of this Court in the case of Automobile Transport (supra).	Arguments of Respondent
+It was urged that the State Legislature may impose different kinds of taxes and duties such as property tax, sales tax, excise duty, etc. and legislation in respect of any one of these items, may have an indirect effect on trade and commerce.	Arguments of Respondent
+Learned Counsel submitted that if every law made by the State Legislature which has an indirect effect on free flow of trade is required to have prior sanction of the President then the Constitution insofar as it gives plenary power to the States and the State Legislatures in the fields allocated to them would be rendered meaningless and, therefore, it cannot be laid down as a general proposition that the power to tax is outside the purview of constitutional limitation of Part XIII.	Arguments of Respondent
+Learned Counsel submitted that in any event regulatory measures and compensatory taxes are not hit by Article 301.	Arguments of Respondent
+Learned Counsel urged that in every case the Court will have to ascertain whether an impugned law directly and immediately affects the movement of trade or whether it indirectly or remotely affects such movement.	Arguments of Respondent
+Learned Counsel submitted that while Parliament cannot trench upon the exclusive domain preserved for the State Legislature under List II, the central executive nevertheless would oversee and sanction most of the taxing measures under Article 304 and, therefore, the wider concept of compensatory tax should be accepted.	Arguments of Respondent
+Learned Counsel next submitted that all taxing power is for raising revenue.	Arguments of Respondent
+However, it cannot be argued that while imposing a compensatory tax the States cannot raise general revenue.	Arguments of Respondent
+Learned Counsel submitted that this Court has drawn consistently a distinction between a ?tax?	Arguments of Respondent
+and a ?fee?, and the power of taxation has always been understood as a power to raise revenue.	Arguments of Respondent
+It was urged that even in Automobile Transport (supra), while discussing the concept of compensatory tax, this Court never intended to lay down that such compensatory taxes are not revenue measures but are fees.	Arguments of Respondent
+Any such view would be contrary to the scheme of distribution of powers and also the structure of the seventh schedule and, therefore, a tax which is levied to facilitate trade and commerce would remain compensatory even if some extra revenue is generated.	Arguments of Respondent
+Learned Counsel next submitted that even with respect to fee for licence and fee for service this Court has adopted a broad test of corelation between money raised and expenditure incurred in this connection reliance was placed on the judgment of this Court in the case of Ram Chandra Kailash Kumar Co.	Arguments of Respondent
+Ors.	Arguments of Respondent
+v. State of U.P. Anr., 1980 Suppl.	Arguments of Respondent
+SCC 27 .	Arguments of Respondent
+In the above case it was held that the amount of fee realised must be earmarked for rendering services to the licensees in the notified market and a substantial portion of it must be shown to be spent for the requisite purpose.	Arguments of Respondent
+That the services rendered to the licensees must be in relation to the transaction of purchase or sale of the goods that while rendering services in the market area for the purposes of facilitating the transactions of produce and sale, it is not necesary to confer the whole of the benefit on the licensee but some special benefit must be conferred on the licensee which must have a direct, close and reasonable corelation between the transaction and the licensee.	Arguments of Respondent
+That the spending of the amount of market fees for augmenting agriculture produce, for augmenting the facility of transport in villages with a view that such services in the long run would increase the volume of transactions in the market, was not permissible on the ground that such a benefit was an indirect and remote benefit to the traders that the element of quid pro quo may not be possible but even broadly and reasonably, it must be established by the authorities who charge the fees that the amount was being spent for rendering services to traders on whom the burden falls.	Arguments of Respondent
+Learned Counsel submitted that the tests laid down with regard to quid pro quo under principles 2, 3 and 5 in the case of Ram Chandra Kailash Kumar (supra) have no application to the compensatory tax because the concept of compensatory tax is only to judge the effect on trade, commerce and intercourse and, therefore, according to learned Counsel the test of direct and close relation link between the levy and the service rendered, cannot be applied to the concept of compensatory tax.	Arguments of Respondent
+Learned Counsel submitted that the only test which is applicable to the concept of compensatory tax is whether ?trade and commerce?	Arguments of Respondent
+is benefitted generally by such levy that, it should be sufficient if the facilities provided in the local area ultimately lead to better trading and commerce and even indirect benefit to traders in future on the ground that such services would increase the volume of trade in the market, can constitute an important element of compensatory tax.	Arguments of Respondent
+Learned Counsel next urged that the parameters for adjudging a tax as compensatory or regulatory would depend upon the nature of tax or in other words, the particular entry in list II with respect to which the tax is imposed.	Arguments of Respondent
+In this connection, it was urged that the scope of Entry 52, Entry 56, Entry 57 and Entry 59 in List II cannot be identical and, therefore, the parameters for those entries cannot be identical, they have to be different.	Arguments of Respondent
+That, the very nature of tax indicates the nature of facility with which the tax has a link.	Arguments of Respondent
+While Entries 56, 57 and 59 indicate a nexus with road, waterways, bridges, etc. entry tax under Entry 52 does not have such limited range of facility.	Arguments of Respondent
+It has a nexus with local area which is equivalent to local authority as held in the case of Diamond Sugar Mills Ltd. Anr.	Arguments of Respondent
+v. State of U.P. Anr., 1961 (3) SCR 242.	Arguments of Respondent
+According to learned Counsel entry tax, therefore, is for the purposes of enabling the local bodies to discharge their several functions.	Arguments of Respondent
+Learned Counsel next urged that there is one more aspect of entry tax, it has a corelation to bring in goods for consumption, use or sale in a local area.	Arguments of Respondent
+The consumption, use or sale not only require roads but also a proper hygiene, lighting, drinking water, health, sanitation, etc. that, it is not possible to have trade without such facilities, therefore, the compensatory character of the entry tax has to be adjudged with reference to the revenue collected and with reference to the various functions of the local body.	Arguments of Respondent
+Learned Counsel contended that a tax can also be collected by the State and then assigned to the local body that such collection avoids duplication of levy.	Arguments of Respondent
+Learned Counsel contended that uneven economic development of various States in India hampers and hinders free flow of trade throughout India and, therefore, it is in the interest of trade and commerce that backward areas should be developed and, therefore, merely because the States assigned proportionately more money to backward local areas should not be objected to, so long as good and substantial portion assigned to the specified local area from which tax is collected.	Arguments of Respondent
+Learned Counsel, therefore, contended in conclusion that a broad corelation of the levy with the facility was enough.	Arguments of Respondent
+Learned Counsel contended that in the cae of Bolani Ores Ltd. etc. v. State of Orissa etc., AIR 1975 SC 17 , the Taxation Act envisaged imposition of tax on motor vehicles actually using the roads saying that if the facility is not used then no tax can be collected and if collected it will not be compensatory.	Arguments of Respondent
+Learned Counsel contended, however, that the judgment of this Cort in Bolani Ores (supra) was in the context of Entry 52 List II which restricts the imposition of tax by actual use of roads by vehicles.	Arguments of Respondent
+A tax upon vehicles need not be contingent upon actual user.	Arguments of Respondent
+In this connection reliance was placed on Entry 57.	Arguments of Respondent
+Therefore, it was submitted that a compensatory character of tax would not be lost merely because some vehicles pay tax even though they may not use the roads.	Arguments of Respondent
+Learned Counsel urged that under Entry 57 List II once the vehicle is suitable for use on road, the tax can be imposed.	Arguments of Respondent
+Learned Counsel, therefore, submitted that if a statute fixes a charge for convenience or service provided by the State and imposes the tax upon those who avail themselves of such service or convenience the freedom of trade and commerce will not be impeded.	Arguments of Respondent
+As long as the dealer trader has a choice to use the goods brought into the local area the levy on such entry is compensatory.	Arguments of Respondent
+Learned Counsel submitted that Article 304(a) coupled with the test of reasonableness as applied to fiscal measures shows that a tax which is nondiscriminatory would be presumed to be compensatory if it has some relation to the facilities provided.	Arguments of Respondent
+Similarly, on the converse side a tax which is discriminatory would be hit by Article 301.	Arguments of Respondent
+Mr. Dwivedi lastly submitted that in the case of Bihar Chamber of Commerce (supra) two principles were propounded.	Arguments of Respondent
+It was reiterated that there should be some connection between a tax and the facilities.	Arguments of Respondent
+To that extent learned Counsel submitted that there is no discord with the judgment of this Court in the case of Automobile Transport (supra).	Arguments of Respondent
+The second principle propounded was that it would be permissible to consider in the context of entry tax that the whole of the State is divided into local areas and, therefore, the Court held that it would be permissible to consider various facilities provided by the State in all the local areas.	Arguments of Respondent
+Learned Counsel submitted that this second principle proposition should be followed by a caveat or a rider to the effect that the traders who pay the tax in a local area should be shown to have been provided with substantial facilities as a class.	Arguments of Respondent
+Learned Counsel submitted that subject to above caveat rider there was no need to overrule the judgments of this Court in the case of Bhagatram (supra) and in the case of Bihar Chamber of Commerce (supra).	Arguments of Respondent
+Mr. Dinesh Dwivedi, learned Senior Counsel appearing for the State of Uttar Pradesh and Mr. B. Sen, learned Senior Counsel appearing for the State of Rajasthan substantially adopted the submissions made by Mr. P.P. Rao and Mr. Rakesh Dwivedi, learned Senior Counsel.	Arguments of Respondent
+Analysis of the Relevant Provisions of Part XIII The relevant provisions are as follows ?	None
+301.	None
+Freedom of trade, commerce and intercourse.	None
+Subject to the other provisions of this part, trade, commerce and intercourse throughout the territorry of India shall be free.	None
+Power of Parliament to impose restrictions on trade, commerce and intercourse.	None
+Parliament may by law impose such restrictions on the freedom of trade, commerce or intercourse between one State and another or within any part of the territory of India as may be required in the public interest.	None
+Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce.	None
+Notwithstanding anything in Article 302, neither Parliament nor the Legislature of a State shall have power to make any law giving, or authorising the giving of, any preference to one State over another, or making, or authorising the making of, any discrimination between one State and another, by virtue of any entry relating to trade and commerce in any of the lists in the Seventh Schedule.	None
+Nothing in Clause (a) shall prevent Parliament from making any law giving, or authorising the giving of, any preference or making, or authorising the making of, any discrimination if it is declared by such law that it is necessary to do so for the purpose of dealing with a situation arising from scarcity of goods in any part of the territory of India.	None
+Restrictions on trade, commerce and intercourse among States.	None
+Notwithstanding anything in Article 301 or Article 303, the Legislature of a State may be law (a) impose on goods imported from other States or the Union territories any tax to which similar goods manufactured or produced in that State are subject, so, however, as not to discriminate between goods so imported and goods so manufactured or produced and (b) impose such reasonable restrictions on the freedom of trade, commerce or intercourse with or within that State as may be required in the public interest Provided that no bill or amendment for the purposes of Clause (b) shall be introduced or moved in the Legislature of a State without the previous sanction of the President.?	Facts
+Introduction Section 8 of Article 1 of the U.S. Constitution contains what is called ?Commerce Clause?, which regulates trade and commerce.	None
+Keeping in mind the dual form of Government in USA and the concept of ?	None
+Police Power?	None
+visavis the ?	None
+Taxing Power?, the U.S. Supreme Court has held that the commerce power embodied in the commerce clause implies the power to regulate that is the power to prescribe the rule by which commerce is to be governed (See Constitutional Law by Stone).	None
+Section 8 of Article 1 is an authorisation in favour of the Congress to enact laws for the protection and encouragement of commerce among the States.	None
+By its own force, it creates an area of trade free from interference by the States.	None
+Therefore, the commerce clause is per se a limitation upon the power of the States and is not dependent upon the law being enacted.	None
+It prohibits the States from enacting a law which impedes free flow of trade between the States.	None
+On the other hand, Section 92 of the Australian Constitution provides for freedom of trade and commerce.	None
+It does not seek to regulate as in case of commerce clause.	None
+However, it has been held in numerous decisions of the Privy Council and the Australian High Courts that Section 92 leaves open the regulation of trade and commerce at all events until the regulation is enacted provided it does not impede the true freedom of interState commerce.	None
+This reasoning is based on the principle that all trade and commerce must be conducted subject to law.	None
+Thus, we have the difference between taxing and regulatory laws.	None
+This is how the concept of ?regulatory charges?	None
+came about.	None
+Article 301 is inspired by Section 92 of the Australian Constitution when it refers to freedom of trade and commerce, however Article 301 is subject to limitations and conditions in Articles 302, 303 and 304 which are borrowed from the commerce clause under Article 1 of the US Constitution.	None
+Therefore, Part XIII is an amalgam of the United States and Australian Constitutions which brings out the difference between regulatory and taxing powers.	None
+This is how the concept of Payment for Revenue and concept of Payment for Regulation arose.	None
+This is how the regulatory power stood excluded from the taxing power and on that reasoning in Automobile Transport (supra) case, this Court took the view that compensatory taxes constitute an exception to Article 301.	None
+It is a judicially evolved concept.	None
+However, the basis of that concept was not discussed by this Court in that case which we have done in this case.	None
+Suffice it to state at this stage that the basis of special assessments, betterment charges, fees, regulatory charges is ?recompense reimbursement?	None
+of the cost or expenses incurred or incurrable for providing services facilities based on the principle of equivalence unlike taxes whose basis is the concept of ?burden?	None
+based on the principle of ability to pay.	None
+At this stage, we may clarify that in the above case of Automobile Transport (supra), this Court has equated regulatory charges with compensatory taxes and since it is the view expressed by a Bench of seven Judges, we have to proceed on that basis.	None
+The fallout is that compensatory tax becomes a subclass of fees.	None
+Scope of Articles 301, 302 and 304 Article 301 states that subject to the other provisions of Part XIII, trade, commerce and intercourse throughout India shall be free.	None
+It is not freedom from all laws but freedom from such laws which restrict or affect activities of trade and commerce amongst the States.	None
+Although Article 301 is positively worded, in effect, it is negative as freedom correspondingly creates general limitation on all legislative power to ensure that trade, commerce and intercourse throughout India shall be free.	None
+Article 301, therefore, refers to freedom from laws which go beyond regulations which burdens, restricts or prevents the trade movement between States and also within the State.	None
+Since ?freedom?	None
+correspondingly imposes ?limitation?, we have the doctrine of ?direct and immediate effect?	None
+of the operation of the impugned law on the freedom of trade and commerce in Article 301 as enunciated in Atiabari Tea Co. (supra).	None
+Article 301 is, therefore, not only an authorisation to enact laws for the protection and encouragement of trade and commerce amongst the States but by its own force creates an area of trade free from interference by the State and, therefore, Article 301 per se constitutes limitation on the power of the State.	None
+Article 301 is, however, subject to the other provisions of Articles 302, 303 and 304.	None
+It states that subject to other provisions of Part XIII, trade, commerce and intercourse throughout India shall be free.	None
+Article 301 is binding upon the Union Legislature and the State Legislatures, but Parliament can get rid of the limitation imposed by Article 301 by enacting a law under Article 302.	None
+Similarly, a law made by the State Legislature in compliance with the conditions imposed by Article 304 shall not be hit by Article 301.	None
+Article 301 thus provides for freedom of interState as well as intraState trade and commerce subject to other provisions of Part XIII and correspondingly it imposes a general limitation on the legislative powers which limitation is relaxed under the following circumstances Limitation is relaxed in favour of the Parliament under Article 302, in which case Parliament can impose restrictions in public interest.	None
+Although the fetter is limited enabling the Parliament to impose by law restrictions on the freedom of trade in public interest under Article 302, nonetheless, it is clarified in Clause (1) of Article 303 that notwithstanding anything contained in Article 302, the Parliament is not authorised even in public interest, in the making of any law, to give preference to one State over another.	None
+However, the said clarification is subject to one exception and that too only in favour of the Parliament, where discrimination or preference is admissible to the Parliament in making of laws in case of scarcity.	None
+This is provided in Clause (2) of Article 303.	None
+As regards the State Legislatures, apart from the limitation imposed by Article 301, Clause (1) of Article 303 imposes additional limitation, namely, that it must not give preference or make discrimination between one State, or another in exercise of its powers relating to trade and commerce under Entry 26 of List II or List III.	None
+However, this limitation on the State Legislatures is lifted in two cases, namely, it may impose on goods imported from sister States or Union Territories any tax to which similar goods manufactured in its own State are subjected but not so as to discriminate between the imported goods and the goods manufactured in the State See Clause (a) of Article 304.	None
+In other words, Clause (a) of Article 304 authorises a State Legislature to impose a nondiscriminatory tax on goods imported from sister States, even though it interferes with the freedom of trade and commerce guaranteed by Article 301.	None
+Secondly, the ban under Article 303(1) shall stand lifted even if discriminatory restrictions are imposed by the State Legislature provided they fulfil the following three conditions, namely, that such restrictions shall be in public interest they shall be reasonable and lastly, they shall be subject to the procurement of prior sanction of the President before introduction of the Bill.	None
+Broadly, the above analysis of the scheme of Articles 301 to 304 shows that Article 304 relates to the State Legislature while Article 302 relates to the Parliament in the matter of lifting of limitation, which, as stated above, flows from the freedom of trade and commerce guaranted under Article 301.	None
+Article 304 also confers upon the State Legislature power to lift the limitations imposed on it by Article 301 and Clause (1) of Article 303.	None
+This aspect is important because the doctrine of ?direct and immediate effect?	Decision
+which is mentioned in Atiabari Tea Co. (supra) emerges from the concept of ?limitation?	None
+embodied in Article 301.	None
+It is this doctrine of direct and immediate effect which constitutes the basis of the working test propounded vide para 19 in Automobile Transport (supra).	None
+Therefore, whenever the law is impugned as violative of Article 301, the Courts will have to examine the effect of the operation of the impugned law on the interState and the intraState movement of goods, which movement constitutes an integral part of trade.	None
+We have examined and analysed the relevant provisions of Part XIII and particularly Article 301 as we are required to lay down the parameters of compensatory tax visavis Article 301, as indicated vide para 27 of the referral order.	Reasoning
+Generic Concept of Compensatory Tax Introduction The concept of compensatory tax is not there in the Constitution but is judicially evolved in Automobile Transport (supra) as a part of regulatory charge.	Reasoning
+Consequently, we have to go into concepts and doctrines of taxing powers visavis regulatory powers, particularly when the concept of compensatory tax was judicially crafted as an exception to Article 301 in Automobile Transport (supra).	Reasoning
+Difference between Exercise of Taxing and Regulatory Power In the generic sense, tax, toll, subsidies, etc. are manifestations of the exercise of the taxing power.	None
+The primary purpose of a taxing statute is the collection of revenue.	None
+On the other hand, regulation extends to administrative acts which produces regulative effects on trade and commerce.	None
+The difficulty arises because taxation is also used as a measure of regulation.	None
+There is a working test to decide whether the law impugned is the result of the exercise of regulatory power or whether it is the product of the exercise of the taxing power.	None
+If the impugned law seeks to control the conditions under which an activity like trade is to take place when such law is regulatory.	None
+Payment for regulation is different from payment for revenue.	None
+If the impugned taxing or nontaxing law chooses an activity, say, movement of trade and commerce as the criterion of its operation and if the effect of the operation of such a law is to impede the activity, then the law is a restriction under Article 301.	None
+However, if the law enacted is to enforce discipline or conduct under which the trade had to perform or if the payment is for regulation of conditions or incidents of trade or manufacture then the levy is regulatory.	None
+This is the way of reconciling the concept of compensatory tax with the scheme of Articles 301, 302 and 304.	None
+For example, for installation of pipeline carrying gas from Gujarat to Rajasthan, which passes through M.P., a fee charged to provide security to the pipeline will come in the category of manifestation of regulatory power.	None
+However, a tax levied on sale or purchase of gas which flows from that very pipe is a manifestation of exercise of the taxing power.	None
+This example indicates the difference between taxing and regulatory powers See Essays in Taxation by Seligman.	None
+Difference between ?	None
+A Tax?, ?	None
+A Fee? and ?	Reasoning
+A Compensatory Tax?	Arguments of Respondent
+Parameters of Compensatory Tax As stated above, in order to lay down the parameters of a compensatory tax, we must know the concept of taking power.	None
+Tax is levied as a part of common burden.	None
+The basis of a tax is the ability or the capacity of the taxpayer to pay.	None
+The principle behind the levy of a tax is the principle of ability or capacity.	None
+In the case of a tax, there is no identification of a specific benefit and even if such identification is there, it is not capable of direct measurement.	None
+In the case of a tax, a particular advantage, if it exists at all, is incidental to the States?	None
+action.	None
+It is assessed on certain elements of business, such as, manufacture, purchase, sale, consumption, use, capital etc.	None
+but its payment is not a condition precedent.	None
+It is not a term or condition of a licence.	None
+A fee is generally a term of a licence.	None
+A tax is a payment where the special benefit, if any, is converted into common burden.	None
+On the other hand, a fee is based on the ?principle of equivalence?.	None
+This principle is the converse of the ?principle of ability?	None
+to pay.	None
+In the case of a fee or compensatory tax, the ?principle of equivalence?	Reasoning
+applies.	None
+The basis of a fee or a compensatory tax is the same.	None
+The main basis of a fee or a compensatory tax is the quantifiable and measurable benefit.	None
+In the case of a tax, even if there is any benefit, the same is incidental to the Government action and even if such benefit results from the Government action, the same is not measurable.	None
+Under the principle of equivalence, as applicable to a fee or a compensatory tax, there is an indication of a quantifiable data, namely, a benefit which is measurable.	None
+A tax can be progressive.	Reasoning
+However, a fee or a compensatory tax has to be broadly proportional and not progressive.	Reasoning
+In the principle of equivalence, which is the foundation of a compensatory tax as well as a fee, the value of the quantifiable benefit is represented by the costs incurred in procuring the facility services which costs in turn become the basis of reimbursement recompense for the provider of the services facilities.	Reasoning
+Compensatory tax is based on the principle of ?pay for the value?.	Reasoning
+It is a subclass of ?	Reasoning
+a fee?.	Reasoning
+From the point of view of the Government, a compensatory tax is a charge for offering trading facilities.	Reasoning
+It adds to the value of trade and commerce which does not happen in the case of tax as such.	Reasoning
+A tax may be progressive or proportional to income, property, expenditure or any other test of ability or capacity (principle of ability).	Reasoning
+Taxes may be progressive rather than proportional.	Reasoning
+Compensatory taxes, like fees, are always proportional to benefits.	Reasoning
+They are based on the principle of equivalence.	Reasoning
+However, a compensatory tax is levied on an individual as a member of a class, whereas a fee is levied on an individual as such.	Reasoning
+If one keeps in mind the ?principle of ability?	Reasoning
+visavis the ?principle of equivalence?, then the difference between a tax on one hand and a fee or a compensatory tax on the other hand can be easily spelt out.	Reasoning
+Ability or capacity to pay is measurable by property or rental value.	Reasoning
+Local rates are often charged according to ability to pay.	Reasoning
+Reimbursement or recompense are the closest equivalence to the cost incurred by the provider of the services facilities.	Reasoning
+The theory of compensatory tax is that it rests upon the principle that if the Government by some positive action confers upon individual(s), a particular measurable advantage, it is only fair to the community at large that the beneficiary shall pay for it.	Reasoning
+The basic difference between a tax on one hand and a fee compensatory tax on the other hand is that the former is based on the concept of burden whereas compensatory tax fee is based on the concept of recompense reimbursement.	Reasoning
+For a tax to be compensatory, there must be some link between the quantum of tax and the facility services.	Reasoning
+Every benefit is measured in terms of cost which has to be reimbursed by compensatory tax or in the form of compensatory tax.	Reasoning
+In other words, compensatory tax is a recompense reimbursement.	Reasoning
+In the context of Article 301, therefore, compensatory tax is a compulsory contribution levied broadly in proportion to the special benefits derived to defray the costs of regulation or to meet the outlay incurred for some special advantage to trade, commerce and intercourse.	Reasoning
+It may incidentally bring in netrevenue to the Government but that circumstance is not an essential ingredient of compensatory tax.	Reasoning
+Since compensatory tax is a judicially evolved concept, understanding of the concept, as discussed above, indicates its parameters.	Reasoning
+To sum up, the basis of every levy is the controlling factor.	Reasoning
+In the case of ?	Reasoning
+a tax?, the levy is a part of common burden based on the principle of ability or capacity to pay.	Reasoning
+In the case of ?	Reasoning
+a fee?, the basis is the special benefit to the payer (individual as such) based on the principle of equivalence.	Reasoning
+When the tax is imposed as a part of regulation or as a part of regulatory measure, its basis shifts from the concept of ?burden?	Reasoning
+to the concept of measurable quantifiable benefit and then it becomes ?a compensatory tax?	Reasoning
+and its payment is then not for revenue but as reimbursement recompense to the service facility provider.	Reasoning
+It is then a tax on recompense.	Reasoning
+Compensatory tax is by nature hybrid	Reasoning
+but it is more closer to fees than to tax as both fees and compensatory taxes are based on the principle of equivalence and on the basis of reimbursement recompense.	Reasoning
+If the impugned law chooses an activity like trade and commerce as the criterion of its operation and if the effect of the operation of the enactment is to impede trade and commerce then Article 301 is violated.	Reasoning
+Burden on the State Applying the above tests parameters, whenever a law is impugned as violative of Article 301 of the Constitution, the Court has to see whether the impugned enactment facially or patently indicates quantifiable data on the basis of which the compensatory tax is sought to be levied.	Reasoning
+The Act must facially indicate the benefit which is quantifiable or measurable.	Reasoning
+It must broadly indicate proportionality to the quantifiable benefit.	Reasoning
+If the provisions are ambiguous or even if the Act does not indicate facially the quantifiable benefit, the burden will be on the State as a service facility provider to show by placing the material before the Court, that the payment of compensatory tax is a reimbursement recompense for the quantifiable measurable benefit provided or to be provided to its payer(s).	Reasoning
+As soon as it is shown that the Act invades freedom of trade it is necessary to enquire whether the State has proved that the restrictions imposed by it by way of taxation are reasonable and in public interest within the meaning of Article 304(b) See para 35 of the decision in the case of Khyerbari Tea Co. Ltd. v. State of Assam, reported in AIR 1964 SC 925 .	Reasoning
+Scope of Articles 301, 302 304 visavis Compensatory Tax As stated above, taxing laws are not excluded from the operation of Article 301, which means that tax laws can and do amount to restriction on the freedom guaranteed to trade under Part XIII of the Constitution.	None
+This principle is well settled in the case of Atiabari Tea Co. (supra).	None
+It is equally important to note that in Atiabari Tea Co. (supra), the Supreme Court propounded the doctrine of ?direct and immediate effect?.	None
+Therefore, whenever a law is challenged on the ground of violation of Article 301, the Court has not only to examine the pith and substance of the levy but in addition thereto, the Court has to see the effect and the operation of the impugned law on interState trade and commerce as well as intraState trade and commerce.	None
+When any legislation, whether it would be a taxation law or a nontaxation law, is challenged before the Court as violating Article 301, the first question to be asked is what is the scope of the operation of the law?	Reasoning
+Whether it has chosen an activity like movement of trade, commerce and intercourse throughout India, as the criterion of its operation?	Reasoning
+If yes, the next question is what is the effect of operation of the law on the freedom guaranteed under Article 301?	Reasoning
+If the effect is to facilitate free flow of trade and commerce then it is regulation and if it is to impede or burden the activity, then the law is a restraint.	Reasoning
+After finding the law to be a restraint restriction one has to see whether the impugned law is enacted by the Parliament or the State Legislature.	Reasoning
+Clause (b) of Article 304 confers a power upon the State Legislature similar to that conferred upon Parliament by Article 302 subject to the following differences While the power of Parliament under Article 302 is subject to the prohibition of preference and discrimination decreed by Article 303(1) unless Parliament makes the declaration under Article 303(2), the State power contained in Article 304(b) is made expressly free from the prohibition contained in Article 303(1) because the opening words of Article 304 contains a nonobstante clause both to Article 301 and Article 303.	Reasoning
+While the Parliament?s power to impose restrictions under Article 302 is not subject to the requirement of reasonableness, the power of the State to impose restrictions under Article 304 is subject to the condition that they are reasonable.	Reasoning
+An additional requisite for the exercise of the power under Article 304(b) by the State Legislature is that previous Presidential sanction is required for such legislation.	None
+Why was the matter placed before A Bench of Five Judges The concept of compensatory taxes was propounded in the case of Automobile Transport (supra) in which compensatory taxes were equated with regulatory taxes.	None
+In that case, a working test for deciding whether a tax is compensatory or not was laid down.	None
+In that judgment, it was observed that one has to enquire whether the trade as a class is having the use of certain facilities for the better conduct of the trade business.	None
+This working test remains unaltered even today.	None
+As stated above, in the post1995 era, the said working test propounded in the Automobile Transport (supra), stood disrupted when in Bhagatram?s case (supra), a Bench of three Judges enunciated the test of ?	None
+some connection?	Decision
+saying that even if there is some link between the tax and the facilities extended to the trade directly or indirectly, the levy cannot be impugned as invalid.	None
+In our view, this test of ?	None
+some connection? enunciated in Bhagatram?s case (supra), is not only contrary to the working test propounded in Automobile Transport?s case (supra) but it obliterates the very basis of compensatory tax.	None
+We may reiterate that when a tax is imposed in the regulation or as a part of regulatory measure the controlling factor of the levy shifts from burden to reimbursement recompense.	None
+The working test propounded by a Bench of seven Judges in the case of Automobile Transport (supra) and the test of ?	None
+some connection? enunciated by a Bench of three Judges in Bhagatram?s case (supra) cannot stand together.	None
+Therefore, in our view, the test of ?	None
+some connection?	Decision
+as propounded in Bhagatram?s case (supra) is not applicable to the concept of compensatory tax and accordingly to that extent, the judgments of this Court in Bhagatram Rajeevkumar v. Commissioner of Sales Tax, M.P. (supra) and State of Bihar v. Bihar Chamber of Commerce (supra) stand overruled.	Arguments of Petitioner
+Before concluding, we may point out that parties before us have taken more or less extreme positions and, therefore, we have not examined the arguments in seriatim.	None
+Conclusion In our opinion, the doubt expressed by the Referring Bench about the correctness of the decision in Bhagatram?s case (supra) followed by the judgment in the case of Bihar Chamber of Commerce (supra) was wellfounded.	Decision
+We reiterate that the doctrine of ?direct and immediate effect?	Decision
+of the impugned law on trade and commerce under Article 301 as propounded in Atiabari Tea Co. Ltd. v. State of Assam (supra), and the working test enunciated in Automobile Transport (Rajasthan) Ltd. v. State of Rajasthan (supra) for deciding whether a tax is compensatory or not vide para 19 of the report, will continue to apply and the test of ?	Decision
+some connection?	Decision
+indicated in para 8 of the judgment in Bhagatram Rajeevkumar v. Commissioner of Sales Tax, M.P. (supra) and followed in the case of State of Bihar v. Bihar Chamber of Commerce (supra), is, in our opinion, not good law.	Decision
+Accordingly, the constitutional validity of various local enactments which are the subject matters of pending appeals, special leave petitions and writ petitions will now be listed for being disposed of in the light of this judgment.	Decision

@@ -1,0 +1,77 @@
+ Grover, J.1.	None
+These appeals from a judgment of the Calcutta High Court have been brought by certificate under Section 66A (2) of the Indian Incometax Act, 1922, hereinafter called the Act and involve a common question, namely, whether the law charges incurred in connection with the proceedings before the Investigation Commission were an allowable deduction in computation of the profits of the business of the assessee.2.	Issue
+The facts in the first batch of appeals i.e. C. As.	Facts
+13511353/68 may be stated.	Facts
+During the assessment years 195253, 195354 and 195455 the assessee, which is a public limited company, spent Rs. 3810/, Rs. 1,42,377/ and Rupees 2,42,688/ for representing its case before the Investigation Commission relating to the past assessment years 194142 to 194748.	Facts
+These expenses which were termed as general expenses were claimed by the assessee as deduction under Section 10 (2) (xv) or in the alternative under Section 10 (1) of the Incometax Act 1922, hereinafter called the Act.	Facts
+The Incometax Officer disallowed the claim.	Facts
+His order was upheld by the Appellate Assistant Commissioner and the Appellate Tribunal.	Facts
+Thereupon the assessee moved the Tribunal under Section 66 (1) of the Act to state the case and refer the question of law arising out of its order.	Facts
+The Tribunal submitted a common statement of the case and referred the following question to the High CourtWhether on the facts and in the circumstances of the case the Tribunal was right in holding that the law charges incurred in connection with the proceedings before the Investigation Commission were not allowable deductions in computation of the profits of the business either under Section 10 (1) or under Section 10 (20 (xv) of the Incometax Act, 1922?The High Court held that the expenditure incurred by the assessee in opposing an illegal and coercive Government action with the object of saving taxation and safeguarding the business was justified by commercial expediency and was an allowable expenditure.3.	Facts
+It is necessary at this stage to notice the purpose of the Taxation of Income (Investigation Commission) Act 1947, hereinafter called the Investigation Commission Act as also some of its relevant provisions.	Facts
+That Act was enacted for the purpose of ascertaining whether the actual incidence of taxation on income was and had been in recent years in accordance with the provisions of law and the extent to which the existing law and procedure for the assessment and recovery of such taxation was adequate to prevent the evasion thereof and to make provisions for investigation into such matters.	Facts
+Sections 5 (1) conferred power on the Central Government to refer particular cases or points to the Commission for investigation and report if the Government was of the opinion that there had been substantial evasion of payment of IncomeTax in such cases.	Facts
+If in the course of investigation the Commission had reasons to believe that some person other than the one whose case was being investigated had avoided payment of IncomeTax the Commission was authorised under subsection (4) of Section 5 to report to the Central Government.	Facts
+The ultimate object of invstigation was collection of material showing evasion of tax so that the avoided income could be subjected to taxation and penalties imposed for evasion.	Facts
+Section 5 (1) of the Investigation Commission Act was struck down by this Court as unconstitutional in Shree Meenakshi Mills Ltd., Madurai v. A. V. Viswanatha	Facts
+Sastri 26 ITR 713 (AIR 1955 SC 13 ).	Facts
+Similarly Section 5 (4) was declared to be void and unconstitutional in Surajmal Mohta and Co. v. A. V. Viswanatha Sastri, 26 ITR 1 (AIR 1954 SC 545 )4.	Facts
+As a result of investigation into the affairs of Birla group of concerns the case of the assessee was referred to the Commission while it was functioning for investigation.	Facts
+The assessee engaged eminent lawyers and incurred the expenses in question in conducting appropriate proceedings before the Commission as also in courts where the vires of the aforesaid Investigation Commission Act were challenged.5.	Facts
+Subsection (1) of S. 10 of the Act provides that tax shall be payable by the assessee under the head profits and gains of business, profession or vocation in respect of the profits and gains of any business, profession or vocation carried on by him.	None
+Among the allowances which are not to be included in the computation of such profits and gains it is provided by subsection (2) (xv) of Section 10 as followsSection 10 (2) (xv).	None
+Any expenditure not being an allowance of the nature described in any of the clauses (I) to (xiv) inclusive, and not being the nature of capital expenditure or personal expenses of the assessee laid out or expended wholly and exclusively for the purpose of such business, profession or vocation.6.	None
+The expression for the purpose of the business is essentially wider than the expression for the purpose of earning profits.	Reasoning
+It covers not only the running of the business or its administration but also measures for the preservation of the business and protection of its assets and property.	Reasoning
+It may legitimately comprehend many other acts incidental to the carrying on of the business.	Reasoning
+In Travancore Titanium Product Ltd. V. Commr. of Incometax, Kerala, 60 ITR 277 at p. 282 (AIR 1966 SC 1250 )	None
+the position relating to expenditure which can be deducted under S. 10 (2) (xv) of the Act was summarised thusThe nature of the expenditure or outgoing must be adjudged in the light of accepted commercial practice and trading principles.	Reasoning
+The expenditure must be incidental to the business and must be necessitated or justified by commercial expediency.	Reasoning
+It must be directly and intimately connected with the business and be laid out by the taxpayer in his character as a trader.	Reasoning
+To be a permissible deduction there must be a direct and intimate connection between the expenditure and the business, i.e. between the expenditure and the character of the assessee as a trader, and not as owner of assets, even if they are assets of the business.	None
+It is well settled by now that the deductibility of expenditure incurred in prosecuting the civil proceedings to resist the enforcement of a measure, legislative or executive, which means restriction on the carrying on of a business or to obtain a declaration that the measure is invalid, would, if other conditions are satisfied, be admissible as a deduction under section 10 (2) (xv).	Reasoning
+Deductibility of such expenditure does not depend on the final outcome of those proceedings.	Reasoning
+However, wrongheaded, illadvised, unduly optimistic or over confident in his conviction the assessee might appear in the light of the ultimate decision, expenditure in prosecuting a civil proceeding cannot be denied as a permissible deduction if it is reasonably and honestly incurred to promote the interest of the business.	Reasoning
+(See Sree Meenakshi Mills Ltd. V. Commissioner of Incometax Madras 63 ITR 207 (AIR 1967 SC 444).7.	None
+The point which has presented some difficulty at least in the English Courts is whether the expenditure incurred by the trader in fighting the Revenues assessment can be regarded an allowable expenditure.	None
+In Smiths Potato Estate Ltd. V. Bolland, (1948) 30	None
+Tax Cas 267 expenses had been incurred in filing an appeal against the decision of the Commissioners of Inland Revenue to the Board of Referees in the matter of certain expenditure which had been claimed by the assessee as an allowable deduction.	None
+It was held by the majority (Viscount Simon and Lord Oaksey dissenting) that the expenditure was not an allowable deduction for Incometax and excess profits tax purposes.	None
+The basis of the view of the majority was that the expenses on the litigation undertaken for the purpose of reducing the amount of tax payable was not incurred by a trader for the purpose of his trade but partly at least for the purpose of his relationship to the crown as a taxpayer.	None
+Therefore the expenditure was not wholly and exclusively for the purpose of the trade.	None
+Viscount Simon and Lord Oaksey, who took the contrary view, considered that attention should be concentrated on the statutory words that litigation undertaken for the purpose of reducing the amount of tax payable was undertaken wholly and exclusively for the purpose of the trade in that the reduction in the amount of tax increased the traders monetary resources and so promoted the carrying on of the trade and the earning of the trading profits.	None
+(See also Simons Incometax, Second Edition, Vol. 2, pages 216217).	None
+In Commissioner of IncomeTax, Calcutta v. Calcutta Landing and shipping Co. Ltd, 77 ITR 575 (AIR 1969 Cal 171 )	None
+the Calcutta High Court has sought to distinguish the language of Section 10 (2) (xv) from that of the provisions in the English Incometax law and has given weighty reasons for accepting the opinion of Viscount Simon and Lord Oaksey, particularly, because of the observations of this Court in the decisions which we have already noticed.	None
+The above case was followed by a full Bench of the Bombay High Court in R. B. Bansilal Abirchan Spinning and Weaving Mills v. Commr.	None
+of Incometax Poona, 81 ITR 34 (1971 Tax L. R. 827)	None
+(Bom).8.	None
+Learned counsel for the Revenue has relied upon the observations extracted at an earlier stage from the case of Travancore Titanium Product Ltd., 60 ITR 277 (AIR 1966 SC 1250 ) and has argued that there must be a direct and intimate connection between the expenditure of the business i.e. between the expenditure and the character of the assessee as a trader and not as an owner of assets.	Arguments of Respondent
+We are unable to appreciate how these observations which were made in the light of different facts in any way militate against the view of Viscount Simon and Lord Oaksey in Smith Potato Estate case, (1948) 30 Tax Case 267 as also the decision of the Calcutta High Court in Calcutta Landing and Shipping Co. case, 77 ITR 575 (AIR 1969 Cal 171 ).	Reasoning
+It may be pointed out that in the decision relied upon by the Revenue the question was whether the tax imposed under the Wealth Tax Act on the owner of assets was a permissible deduction under Section 10 (2) (xv) of the Act.	Reasoning
+It was emphasised by this Court that the charge of the tax was the same whether the assets were part of or used in the trading organisation of the owner or were merely owned by him.	Reasoning
+The assets of the taxpayer whether incorporated or not become chargeable to tax because they were owned by him and not because they were used by him in the business.	Reasoning
+The position is quite different when it has to be decided whether an allowance contemplated in Section 10 (2) (xv).	Reasoning
+deductible.9.	Reasoning
+The essential test which has to be applied is whether the expenses were incurred for the preservation and protection of the assessees business from any such process or proceedings which might have resulted in the reduction of its income and profits and whether the same were actually and honestly incurred.	Reasoning
+It is not possible to understand how the expenditure on the proceedings in respect of the Investigation Commission by the assessee will not fall within the above rule.	Reasoning
+Even otherwise the expenditure was incidental to the business and was necessitated or justified by commercial expediency.	Reasoning
+It must be remembered that the earning of profits and the payment of taxes are not isolated and independent activities of a business.	Reasoning
+These activities are continuous and take place from year to year during the whole period for which the business continues.	Reasoning
+If the assessee takes any steps for reducing its liability to tax which result in more funds being left for the purpose of carrying on the business there is always a possibility of higher profits.	Reasoning
+To give an illustration, if an assessee can, by an appropriate proceedings succeed in getting its tax liability for gains and profits reduced by a sum of Rs. 1,00,000/ that amount will essentially become available for the purpose of business with a reasonable expectation of more profits.	Reasoning
+As was observed by Viscount Simon in Smith Potato Estate case, (1948) 30 Tax Cas 267 if the trader considers that the Revenue seeks to take too large a share and to leave him with too little the expenditure which the trader incurs in endeavouring to correct this mistake is a disbursement laid out for the purposes of his trade.	Reasoning
+If he succeeds he will have more money with which to earn profits next year.10.	Reasoning
+The High Court in the judgment under appeal, after a discussion of the relevant case law, approached the matter in this way.	Reasoning
+The proceeding before the Investigation Commission is not a civil proceeding but it is a statutory proceedings with a view to collecting materials for more taxation.	Reasoning
+Therefore if the proceeding touched the business of assessee the expenditure incurred by the assessee in safeguarding its interest before the Commission would be an allowable deduction.	Reasoning
+It was pointed out  and this was based on the material on the record that the Commission was holding an investigation on a suspected escapement of income to the tune of about Rupees 4 crores.	Reasoning
+Taxes levied on that income and the penalties imposed would naturally have been very heavy for the business of the assessee and might have either crippled or annihilated it.	Reasoning
+To preserve the business from an investigation which, according to the assessee, was unlawful the assessee was justified in taking proper steps and spending monies therefor.	Reasoning
+Such an expenditure was no doubt for earning profits but was aimed at preservation of business from the inroads of piece of legislation which, it was maintained, was unconstitutional and was so held by this Court later in certain decisions that have already been mentioned.	Reasoning
+The expenditure which was incurred by the assessee in opposing a coercive governmental action with the object of saving taxation and safeguarding business was justified by commercial expediency and was, therefore, allowable under Section 10 (2) (xv) of the Act.	Reasoning
+We have no doubt that the above approach of the High Court and its ultimate decision were fully justified on principle and authority.11.	Reasoning
+In the result all these appeals fail and are dismissed.	Decision
+But the respondent will be entitled to costs only in C. As.	Decision
+13511353/68, One hearing fee.12.	None
+Appeals dismissed.	None

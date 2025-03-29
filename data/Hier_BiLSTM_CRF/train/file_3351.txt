@@ -1,0 +1,160 @@
+ K. Sarkar J. 1.	None
+These two appeals arise out of two suits and have been heard together.	Issue
+The suits had been filed against owners of motor cars for recovery of damages suffered by the plaintiffs as a result of the negligent driving of the cars.	Issue
+The owners of the cars were insured against third party risks and the insurers were subsequently added as defendants to the suits under the provisions of subs.	Facts
+(2) of s. 96 of the Motor Vehicles Act, 1939.	Facts
+The terms of that subsection will have to be set out later, but it may now be stated that it provided that an insurer added as a party to an action under it was entitled to defend on the grounds enumerated in it.	Facts
+2.	None
+On being added as defendants, the insurers filed written statements taking defences other than those mentioned in that subsection.	Facts
+The plaintiffs contended that the written statements should be taken off the records as the insurers could defend the action only on the grounds mentioned in the subsection and on no others.	Facts
+A question thereupon arose in the suits as to what defences were available to the insurers.	Facts
+In one of the suits it was held that the insurer could take only the defences specified in that subsection and in the other suit the view taken was that the insurers were not confined to those defences.	Facts
+Appeals were preferred from these decisions to the High Court of Punjab.	Facts
+The High Court held that the insurers could defend the actions only on the grounds mentioned in the subsection and on no others.	Facts
+Hence these appeals by the insurers.	Facts
+3.	None
+The question is whether the defences available to an insurer added as a party under s. 96(2) are only those mentioned there.	Issue
+A few of the provisions of the Motor Vehicles Act have now to be referred to.	None
+Section 94 of the Act makes insurance against third party risk compulsory.	None
+Section 95 deals with the requirements of the policies of such insurance and the limits of the liability to be covered thereby.	None
+Subsection (1) of this section provides a policy of insurance must be a policy which  (a) (b) insures the person or classes of person specified in the policy to the extent specified in subsection (2) against any liability which may be incurred by him or them in respect of the death or bodily injury to any person caused by or arising out of the use of the vehicle in a public place.	None
+Subsection (2) of s. 95 specifies the limits of the liability for which insurance has to be effected, and it is enough to say that it provides that in respect of private cars, which the vehicles with which these appeals are concerned were, the insurance has to be for the entire amount of the liability incurred.	None
+Then comes s. 96 round which the arguments advanced in this case have turned and some of its provisions have to be set out.	None
+Section 96.	None
+(1) If, after a certificate of insurance has been issued under subsection (4) of section 95 in favour of the person by whom a policy has been effected, judgment in respect of any such liability as is required to be covered by a policy under clause (b) of subsection (1) of section 95 (being a liability covered by the terms of the policy) is obtained against any person insured by the policy, then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the insurer shall, subject to the provisions of this section, pay to the person entitled to the benefit of the decree any sum not exceeding the sum assured payable thereunder as if he were the judgment debtor, in respect of the liability, together with any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any enactment relating to interest on judgments.	None
+(2) No sum shall be payable by an insurer under subsection (1) in respect of any judgment unless before or after the commencement of the proceedings in which the judgment is given the insurer had notice through the Court of the bringing of the proceedings, or in respect of any judgment so long as execution is stayed thereon pending an appeal and an insurer to whom notice of the bringing of any such proceeding is so given shall be entitled to be made a party thereto and to defend the action on any of the following grounds, namely  (a) that the policy was cancelled by mutual consent or by virtue of any provision contained therein before the accident giving rise to the liability, and that either the certificate of insurance was surrendered to the insurer or that the person to whom the certificate was issued has made an affidavit stating that the certificate has been lost or destroyed, or that either before or not later than fourteen days after the happening of the accident the insurer has commenced proceedings for cancellation of the certificate after compliance with the provisions of section 105 or (b) that there has been a breach of a specified condition of the policy, being one of the following conditions, namely  (i) a condition excluding the use of the vehicle  (a) for hire or reward, where the vehicle is on the date of the contract of insurance a vehicle not covered by a permit to ply for hire on reward, or (b) for organised racing and speed testing, or (c) for a purpose not allowed by the permit under which the vehicle is used, where the vehicle is a public service vehicle or a goods vehicle, or (d) without sidecar being attached, where the vehicle in a motor cycle or (ii) a condition excluding driving by a named person or persons or by any person who is not duly licensed, or by any person who has been disqualified for holding or obtaining a driving licence during the period of disqualification or (iii) a condition excluding liability for injury caused or contributed to by conditions of war, civil war, riot or civil commotion or (e) that the policy is void on the ground that it was obtained by the nondisclosure of a material fact or by a representation of fact which was false in some material particular.	None
+(2A) (3) Where a certificate of insurance has been issued under subsection (4) of section 95 to the person by whom a policy has been effected, so much of the policy as purports to restrict the insurance of the persons insured thereby by reference to any conditions other than those in clause (b) of subsection (2) shall, as respects such liabilities as are required to be covered by a policy under clause (b) of subsection (1) of section 95, be of no effect Provided that any sum paid by the insurer in or towards the discharge of any liability or any person which is covered by the policy by virtue only of this subsection shall be recoverable by the insurer from that person.	None
+(4) If the amount which an insurer becomes liable under this section to pay in respect of a liability incurred by a person insured by a policy exceeds the amount for which the insurer would apart from the provisions of this section be liable under the policy in respect of that liability, the insurer shall be entitled to recover the excess from that person.	None
+(5) (6) No insurer to whom the notice referred to in subsection (2) has been given shall be entitled to avoid his liability to any person entitled to the benefit of any such judgment as is referred to in subsection (1) otherwise than in the manner provided for in subsection (2).	None
+It may be stated that the policies that were effected in these cases were in terms of the Act and the certificate of insurance mentioned in s. 96 had been duly issued.	None
+It will have been noticed that subs.	None
+(1) of s. 96 makes an insurer liable on the judgment obtained by the injured person against the assured.	None
+Subsection (2) provides that no sum shall be payable by the insurer under subs.	None
+(1) unless he has been given notice of the proceedings resulting in that judgment, and that an insurer who has been given such a notice shall be entitled to be made a party to the action and to defend it on the grounds enumerated.	None
+The contention of the appellants is that when an insurer becomes a party to an action under subs.	Arguments of Petitioner
+(2), he is entitled to defend it on all grounds available at law including the grounds on which the assured himself could have relied for his defence and that the only restriction on the insurers right of defence is that he cannot rely on the conditions of the policy which subs.	Arguments of Petitioner
+(3) makes as of no effect.	Arguments of Petitioner
+This is the contention which we have to examine in these appeals.	None
+4. To start with it is necessary to remember that apart from the statute an insurer has no right to be made a party to the action by the injured person against the insured causing the injury.	None
+Subsection (2) of s. 96 however gives him the right to be made a party to the suit and to defend it.	None
+The right therefore is created by statute and its content necessarily depends on the provisions of the statute.	None
+The question then really is, what are the defences that subs.	None
+(2) makes available to an insurer ?	Issue
+That clearly is a question of interpretation of the subsection.	None
+5.	None
+Now the language of subs.	Reasoning
+(2) seems to us to be perfectly plain and to admit of no doubt or confusion.	Reasoning
+It is that an insurer to whom the requisite notice of the action has been given shall be entitled to be made a party thereto and to defend the action on any of the following grounds, namely, after which comes an enumeration of the grounds.	Reasoning
+It would follow that an insurer is entitled to defend on any of the grounds enumerated and no others.	Reasoning
+If it were not so, then of course no grounds need have been enumerated.	Reasoning
+When the grounds of defence have been specified, they cannot be added to.	Reasoning
+To do that would be adding words to the statute.	Reasoning
+6. Subsection (6) also indicates clearly how subs.	Reasoning
+(2) should be read.	Reasoning
+It says that no insurer to whom the notice of the action has been given shall be entitled to avoid his liability under subs.	Reasoning
+(1) otherwise than in the manner provided for in subsection.	Reasoning
+(2).	Reasoning
+Now the only manner of avoiding liability provided for in subs.	Reasoning
+(2) is by successfully raising any of the defences therein mentioned.	Reasoning
+It comes then to this that the insurer cannot avoid his liability except by establishing such defences.	Reasoning
+Therefore subs.	Reasoning
+(6) clearly contemplates that he cannot take any defence not mentioned in subs.	Reasoning
+(2).	Reasoning
+If he could, then he would have been in a position to avoid his liability in a manner other than that provided for in subs.	Reasoning
+(2).	Reasoning
+That is prohibited by subs.	Reasoning
+(6).	None
+7.	None
+We therefore think that subs.	Reasoning
+(2) clearly provides that an insurer made a defendant to the action is not entitled to take any defence which is not specified in it.	Reasoning
+8.	None
+Three reported decisions were cited at the bar and all of them proceeded on the basis that an insurer had no right to defend the action except on the grounds mentioned in subs.	Arguments of Petitioner
+(2).	Reasoning
+These are Sarup Singh v. Nilkant Bhaskar AIR1953Bom109 , Royal Insurance Co. Ltd. v. Abdul Mahomed AIR1955Bom39 and The Proprietor, Andhra Trading Co. v. K. Muthuswamy A.I.R. 1956 Mad. 464 .	Arguments of Petitioner
+It does not appear however to have been seriously contended in any of these cases that the insurer could defend the action on a ground other than one of those mentioned in subs.	None
+(2).	Reasoning
+9.	None
+The learned counsel for the respondents, the plaintiffs in the action, referred us to the analogous English statute.	Arguments of Respondent
+The Road Traffic Act, 1934, in support of the view that the insurer is restricted in his defence to the grounds set out in subs.	Arguments of Respondent
+(2).	Reasoning
+But we do not think it necessary to refer to the English statute for guidance in the interpretation of the section that we have to construe.	Reasoning
+10.	None
+We proceed now to consider the arguments advanced by the learned SolicitorGeneral who appeared for the appellants.	Arguments of Petitioner
+He contended that there was nothing in subs.	Arguments of Petitioner
+(2) to restrict the defence of an insurer to the grounds therein enumerated.	Arguments of Petitioner
+To support his contention, he first referred to subs.	Arguments of Petitioner
+(3) of s. 96 and said that it indicated that the defences that were being dealt with in subs.	Arguments of Petitioner
+(2) were only those based on the conditions of the policy.	Arguments of Petitioner
+His point was that subs.	Arguments of Petitioner
+(2) permitted defences on some of those conditions and and subs.	Arguments of Petitioner
+(3) made the rest of the conditions of no effect, thereby preventing a defence being based on any of them.	Arguments of Petitioner
+He said that these two subsections read together show that subs.	Arguments of Petitioner
+(2) was not intended to deal with any defence other than those arising out of the conditions of the policy, and as to other defences therefore subs.	Arguments of Petitioner
+(2) contained no prohibition.	Arguments of Petitioner
+He further said that as under subs.	Arguments of Petitioner
+(2) an insurer was entitled to be made a defendant to the action it followed that he had the right to take all legal defences excepting those expressly prohibited.11.	Arguments of Petitioner
+We think that this contention is without foundation.	Reasoning
+Subsection (2) in fact deals with defences other than those based on the conditions of a policy.	Reasoning
+Thus clause (a) of that subsection permits an insurer to defend an action on the ground that the policy has been duly cancelled provided the conditions set out in that clause have been satisfied.	Reasoning
+Clause (c) gives him the right to defend the action on the ground that the policy is void as having been obtained by nondisclosure of a material fact or a material false representation of fact.	Reasoning
+Therefore it cannot be said that in enacting subs.	Reasoning
+(2) the legislature was contemplating only those defences which were based on the conditions of the policy.	Reasoning
+12.	None
+It also seems to us that even if subs.	Reasoning
+(2) and subs.	Reasoning
+(3) were confined only to defences based on the conditions of the policy that would not have led to the conclusion that the legislature thought that other defences not based on such conditions, would be open to an insurer.	Reasoning
+If that was what the legislature intended, then there was nothing to prevent it from expressing its intention.	Reasoning
+What the legislature has done is to enumerate in subs.	Reasoning
+(2) the defences available to an insurer and to provide by subs.	Reasoning
+(6) that he cannot avoid his liability excepting by means of such defences.	Reasoning
+In order that subs.	Reasoning
+(2) may be interpreted in the way the learned SolicitorGeneral suggests we have to add words to it.	Reasoning
+The learned SolicitorGeneral concedes this and says that the only word that has to be added is the word also after the word grounds.	None
+But even this the rules of interpretation do not permit us to do unless the section as it stands is meaningless or of doubtful meaning, neither of which we think it is.	Reasoning
+The addition suggested will, in our view, make the language used unhappy and further effect a complete change in the meaning of the words used in the subsection.	Reasoning
+13.	None
+As to subs.	Arguments of Petitioner
+(6) the learned SolicitorGeneral contended that the proper reading of it was that an insurer could not avoid his liability except by way of a defence upon being made a party to the action under subs.	Arguments of Petitioner
+(2).	Reasoning
+He contended that the word manner in subs.	Arguments of Petitioner
+(6) did not refer to the defences specified in subs.	Arguments of Petitioner
+(2) but only meant, by way of defending the suit the right to do which is given by subs.	Arguments of Petitioner
+(2).	Reasoning
+We think that this is a very forced construction of subs.	None
+(6) and we are unable to adopt it.	None
+The only manner of avoiding liability provided for in subs.	Reasoning
+(2) is through the defences therein mentioned.	None
+Therefore when subs.	None
+(6) talks of avoiding liability in the manner provided in subs.	None
+(2), it necessarily refers to these defences.	None
+If the contention of the learned SolicitorGeneral was right, subs.	None
+(6) would have provided that the insurer would not be entitled to avoid his liability except by defending the action on being made a party thereto.	None
+14.	None
+There is another ground on which the learned SolicitorGeneral supported the contention that all defences are open to an insurer excepting those taken away by subs.	Arguments of Petitioner
+(3).	Arguments of Petitioner
+He said that before the Act came into force, an injured person had no right of recourse to the insurer and that it was s. 96(1) that made the judgment obtained by the injured person against the assured binding on the insurer and gave him a right against the insurer.	Arguments of Petitioner
+He then said that that being so, it is only fair that a person sought to be made bound by a judgment should be entitled to resist his liability under it by all defences which he can in law advance against the passing of it.	Arguments of Petitioner
+15.	None
+Again, we find the contention wholly unacceptable.	Reasoning
+The Statute has no doubt created a liability in the insurer to the injured person but the statute has also expressly confined the right to avoid that liability to certain grounds specified in it.	Reasoning
+It is not for us to add to those grounds and therefore to the statute for reasons of hardship.	Reasoning
+We are furthermore not convinced that the statute causes any hardship.	Reasoning
+First, the insurer has the right, provided he has reserved it by the policy, to defend the action in the name of the assured and if he does so, all defences open to the assured can then be urged by him and there is no other defence that he claims to be entitled to urge.	Reasoning
+He can thus avoid all hardship if any, by providing for a right to defend the action in the name of the assured and this he has full liberty to do.	Reasoning
+Secondly, if he has been made to pay something which on the contract of the policy he was not bound to pay, he can under the proviso to subs.	Reasoning
+(3) and under subs.	Reasoning
+(4) recover it from the assured.	Reasoning
+It was said that the assured might be a man of straw and the insurer might not be able to recover anything from him.	Reasoning
+But the answer to that is that it is the insurers bad luck.	Reasoning
+In such circumstances the injured person also would not have been able to recover the damages suffered by him from the assured, the person causing the injuries.	Reasoning
+The loss had to fall on some one and the statute has thought fit that it shall be borne by the insurer.	Reasoning
+That also seems to us to be equitable for the loss falls on the insurer in the course of his carrying on his business, a business out of which he makes profit, and he could so arrange his business that in the net result he would never suffer a loss.	Reasoning
+On the other hand, if the loss fell on the injured person, it would be due to no fault of his it would have been a loss suffered by him arising out of an incident in the happening of which he had no hand at all.	Reasoning
+16.	None
+We therefore feel that the plain words of subs.	Reasoning
+(2) should prevail and that no ground exists to lead us to adopt the extraordinary course of adding anything to it.	Reasoning
+We think that the High Court was right in the view that it took.	Reasoning
+17.	None
+In the result these appeals are dismissed with costs.	Decision
+18.	None
+Appeals dismissed.	None

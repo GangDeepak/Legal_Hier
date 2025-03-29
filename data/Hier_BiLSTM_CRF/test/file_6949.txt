@@ -1,0 +1,326 @@
+ C.1.
+By this petition under Article 226 of the Constitution of India, the petitioner seeks a writ of certiorari or any other appropriate writ, order or direction in the nature thereof calling for the records pertaining to the impugned orders dated 26th September, 2017, 7th November, 2017 and 11th April, 2018 and after scrutinising the legality and validity thereof, to quash and set aside the same.
+The petitioner is also challenging another order dated 29th March, 2017 as well.2.
+The facts and circumstances in which these orders are challenged, are briefly set out hereinbelow3.
+By the Deed of Trust dated 27.06.2009 made by and between Axis Bank Limited, a settlor, and Axis Mutual Fund Trustee Company Limited, trustee, an irrevocable trust trusts called Axis Mutual Fund was created.4.
+Axis Mutual Fund Trustee Company Limited (Trustee Company), incorporated under the provisions of the Companies Act, 1956, was approved by Securities and Exchange Board of India (SEBI) to act as a Trustee of the various scheme(s) of the Axis Mutual Fund.5.
+Axis Asset Management Company Limited (Axis AMC), incorporated under the provisions of the Companies Act, 1956, was approved by SEBI to act as the Asset Management Company for the scheme(s) of the Axis Mutual Fund.6.
+By the Deed of Trust dated 27th June, 2009, the settlor, interalia, declared and agreed that the Trustee Company shall manage the mutual fund in accordance with the applicable regulations.
+Further, as per para 6.1.1 of the Deed of Trust dated 27th June, 2009, the Trustee Company is allowed to float one or more schemes for the issue of units to be subscribed by the public.7.
+The responsibility for the daily operations of the scheme(s) of Axis Mutual Fund has been delegated to the Axis AMC through an investment Management Agreement dated 27th June, 2009 executed between the Trustee Company and Axis AMC.
+As enumerated in Clause 3 of this Agreement dated 27th June, 2009, the delegated responsibilities, inter alia, include the maintenance of accounts and records, evaluation of investment operations, carrying out credit assessments in relation to proposes investments.8.
+It is the contention of the Petitioner that by the Deed of Trust dated 27th June, 2009, multiple trust(s), i.e. scheme(s), were created as and when floated.
+The various clauses of the Deed of Trust indicating independent existence of each scheme is provided in the table belowParaText4.3.1Entrustment of property The liabilities of a particular Scheme shall be met out of assets of the same scheme and shall in no way attach to or become a liability of any other scheme.4.3.2Entrustment of property The Trustee Company shall ensure that proper and separate accounting records are maintained for each scheme.6.1.14Functions of Trustee Company Distribute dividend and income of the relevant Scheme, as and when the same may become due and payable.
+9.
+A trust is an obligation annexed to the ownership of property.
+As clearly evident from Deed of Trust, such obligations are towards the beneficiaries of each scheme and not towards the beneficiaries of all the schemes put together.10.
+The relevant portion of the SEBI (Mutual Fund) Regulations, 1996, reads as underDefinition of mutual fund(a) mutual fund means a fund established in the form of a trust to raise monies through the sale of units to the public or section of the public under one or more schemes for investing in securities including money market instruments or gold or gold related instruments or real estate assets.
+Provided that infrastructure debt fund schemes may raise monies through private placement of units, subject to conditions specified in these regulations.
+Regulation No.5050.
+(1) Every asset management company for each scheme shall keep and maintain proper books of account, records and documents for each scheme so as to explain its transactions and to disclose at any point of time the financial position of each scheme and Page 53 of 118 in particular gives a true and fair view of the state of affairs of the fund and intimate to the Board the place where such books of account, records and documents are maintained(3)
+The asset management company shall follow the accounting policies and standards as specified in Ninth Schedule so as to provide appropriate details of the scheme wise disposition of the assets of the fund at the relevant accounting date and the performance during that period together with information regarding distribution of accumulation of income accruing to the withholder in a fair and true manner.
+Regulation NO.52Limitation on fees and expenses on issue of schemes52 (1) All expenses should be clearly identified and appropriated in the individual schemes11.
+It is undisputed fact that the Petitioner has maintained separate books of accounts and bank accounts for each fund in compliance of aforesaid regulations of SEBI.12.
+The Gold ETF Scheme is an openended mutual fund scheme that invests money collected from investors in gold.
+These are passively managed funds and are designed to provide returns that would closely track the returns from physical gold in the spot market.
+The units of these ETFs can be bought or sold on a realtime basis at the stock exchange in which it is listed.13.
+The scheme entails investment in physical gold with a view to track the domestic spot price of gold as closely as possible.
+This provides the investor with an option to invest in gold without taking physical delivery of the gold.
+The investor can choose to redeem the value of his investment either in cash or in the form of gold.14.
+Axis AMC has, in terms of the Deed of Trust dated 27the June, 2009, floated the Axis Gold ETF scheme.
+As per the terms of the scheme, Axis AMC has to purchase and sell gold based on subscription redemption requests received from investors.
+As the purchase and sale of gold is a taxable event under the MVAT Act, 2002, the petitioner is registered as a dealer under the MVAT Act, 2002.15.
+It is clarified that no other scheme(s) fund(s) floated by Axis AMC in terms of the Deed of Trust dated 27th June, 2009 involves the sale or purchase of goods liable to be taxed under MVAT Act, 2002.
+There is no dispute between the parties in this regard.16.
+As per terms of the Scheme Information Document, the investment objective of the Gold ETF Scheme is to generate returns that are in line with the performance of gold.
+The corpus of the Scheme is to be invested in Gold Bullion of fineness (for purity) of 995 parts per 1,000 (99.5) or higher.
+The value of one unit of the Scheme is termed as Net Asset Value (i.e. NAV per unit Value AssetsLiabilities number of units).
+The NAV of gold ETFs is closely related to the value of gold held by the scheme.
+The value (price) of gold may fluctuate for several reasons and all such fluctuations will result in changes in the NAV of gold ETFs.17.
+As the Axis Gold ETF scheme is a passively managed scheme, transactions undertaken in the scheme can broadly be classified as follows(a) Creation of units against Cash(b)
+Creation of units against Gold(c)
+Redemption of units against Cash(d)
+Redemption of units against Gold18.
+A copy of the process flow for each of the above listed transactions is annexed to the petition as Exhibit D. Sample copies of the documents for the creation of units against cash is annexed to the petition as Exhibit E. Sample copies of the documents for creation of units against gold is also annexed to the petition as Exhbit F. Sample copies of the documents for redemption of units against cash is annexed to the petition as Exhibit G and the sample copies of the documents for redemption of units against gold is also annexed as Exhibit H.19.
+The petitioner submits that the Axis AMC purchases gold based on requests received from the investors for creation of a unit against cash.
+Such purchases are made in the name of the petitioner.
+This purchased gold is stored with an independent custodian.
+Based on requests received from the unit holder investor for redemption, this underlying gold is sold by the petitioner after levying appropriate VAT on the same.
+There is no dispute between parties in this regard.20.
+It is clarified that the petitioner does not purchase sell any gold when units are traded on the stock exchange.
+It is submitted that, the petitioner purchases gold from the registered dealer based on subscription requests received from investors.
+In the assessment year 201213, the petitioner purchased gold worth Rs.522,48,59,036/ from a registered dealer located in the State of Maharashtra.
+On purchase of the gold, the petitioner has claimed setoff of the tax amount of Rs.5,17,31,276/ under the provisions of section 48 of the MVAT Act read with Rule 52 of the MVAT Rules.
+The petitioner duly adjusted the setoff claimed of Rs.3,10,79,343/ against its output VAT liabilities in accordance with the provisions of Rule 55 of the MVAT Rules.
+Consequently, the petitioner applied for refund of excess input tax credit amounting to Rs.2,06,51,993/ through an application in Form 501.21.
+It is submitted by the petitioner that the gold held in stock as on 31st March, 2013 has been sold in the subsequent year after discharging applicable VAT liability on the same.
+The said fact is evident from the audit reports in Form 704 filed by the petitioner for subsequent financial years.
+The said fact has not been disputed by the respondents.22.
+In order to verify correctness of the claim of refund, notice dated 1st June, 2015 was issued by the Deputy Commissioner of Sales Tax (assessing authority).
+During the course of assessment proceedings, the petitioner has submitted the following details documentsSr.
+No.SubmissionExhibits1Annual Report, trustee Report, Independent Auditors Report and Financial Statement for all 35 individual funds scheme before Assessing Authority.
+These reports are for each of the 35 individual funds scheme.
+When filed as a single compilation document, it is called as an annual report in the mutual fund industry.2Independent Auditors report and Financial statement for Axis Gold ETF SchemeK3Consolidated document integrating containing summation of receipts for each of the 26 individual funds schemesL4Various documents viz.
+Sale purchase statement, proof of receipt of Gold when purchased, Inventory details, bank book, fixed assets details, Misc.
+Income detailsM 23.
+During the course of assessment, the assessing authority has alleged that the petitioner is not eligible to claim any input tax credit as the goods purchased by the petitioner on which input tax credit is claimed are not resold within a period of six months from the date of purchase.
+Such allegation was raised based on the special provision contained in Rule 53(6)(b) of the MVAT Rules, 2005.24.
+Despite all the facts being narrated and the records placed before the assessing officer, he passed an assessment order dated 31st July, 2015 rejecting the entire claim of input tax credit under Rule 53(6)(b) of the MVAT Rules, 2005.
+Consequently, the tax demand of Rs.3,10,79,343/ along with interest of Rs.1,08,77,770/ and penalty of Rs.3,10,79,343/ was levied on the petitioner.
+A copy of the assessment order dated 31st July, 2015 is marked as Exhibit N. Aggrieved thereby, an appeal was filed, but the first appellate authority allowed the appeal partially by confirming the disallowance of input tax credit under Rule 53(6)(b) of the MVAT Rules, 2005 and interest under section 30(3) of the MVAT Rules, 2002.
+However, he dropped the penalty.
+Copy of this order dated 29th March, 2017 is annexed to the petition as Exhibit R. Thereafter, an appeal was preferred to the tribunal and an application for stay was made and an order of part payment was passed on 26th September, 2017.
+A rectification application was filed, which too has been dismissed by the order dated 7th November, 2017.
+Now, even the pending appeal before the tribunal is decided on 11th April, 2018.
+Then, it is claimed that an appeal has been filed by the UTI Mutual Fund being MVAT Appeal No. 18 of 2016, which is admitted.
+Placing reliance upon the same, it is urged that even this writ petition deserves to be allowed.25.
+We have heard Mr.Sridharan learned counsel appearing for the petitioner and Mr. V. A. Sonpal learned Special Counsel appearing for respondent nos.
+1, 3 and 4.26.
+Mr. Sridharan emphasised that in the impugned orders, the tribunal has completely lost sight of the fact that a private Trust under the Indian Trust Act, 1882 postulates that it is an obligation annexed to the ownership of property and arising out of a confidence reposed in and accepted by the owner or declared and accepted by him for the benefit of another or the owner.
+Mr.Sridharan submits that a Trust is a legal concept or relationship.
+Thus, it is not a legal or juristic person, but an obligation annexed to the ownership of property.
+A Trust is formed by a legal document termed as a Deed of Trust.
+It is typically entered into between the author of the Trust and the trustees.
+From the perspective of mutual fund, though a Trust cannot be formed without a Trust Deed in writing, it is pertinent to note that there is no bar on creating multiple Trusts through a single Trust Deed.
+As such, different Trusts can be identified by different groups of beneficiaries for each such Trust or different classes of properties vested with each Trust.
+Mr.Sridharan then invites our attention to section 54 of the MVAT Act, 2002 and particularly subsection (5) thereof to submit that if a Trust is terminated, the beneficiaries shall be liable to pay tax due from the Trust up to the time of the termination of the Trust and accordingly, till the time the Trust is not terminated, a trustee is only a representative assessee of the beneficiary of the Trust.27.
+Mr.Sridharan submits that by a Deed of Trust dated 27th June, 2009, an irrevocable Trust is created.
+That is called Axis Mutual Fund made between the Axis Bank Limited and Axis Mutual Fund Trust Limited, a trustee.
+Our attention is invited to para 6.1.1 of the Deed of Trust.
+Mr. Sridharan submits that the authorities under the MVAT Act, 2002 have missed the point, which is very vital in this case.
+The petitioner is not engaged in the business of sale or purchase of goods liable to be taxed under the MVAT Act in any scheme except the Axis Gold ETF Scheme.
+The trustee company shall be treated as a representative assessee dealer for the tax payable only under this scheme and no other scheme.28.
+Mr. Sridharan invites our attention to Rule 53(6) of the MVAT Rules, 2005 to urge that each scheme floated by the trustee company is a separate Trust in itself.
+Accordingly, while assessing the liability of a trustee company, which is acting for and on behalf of the Axis Gold ETF Scheme, only receipts from this Trust scheme are to be considered.
+Mr.Sridharan submits that every single document in relation to the mutual fund and the scheme is in public domain.
+A set of documents was also submitted before the assessing authority during the course of the assessment proceedings.
+Our attention is also invited to a consolidated document to urge that the above noted crucial points and the legal position are overlooked by the tribunal as well.29.
+Mr. Sridharan then submits that even if all funds are to be considered, receipts on account of sales for the purpose of Rule 53(6)(b) of the MVAT Rules, 2005 should include receipts from the sale of securities.
+He would, therefore, submit that coupled with the definition of the term goods, as appearing in section 2(12) of the MVAT Act, 2002, a non taxable element such as goods consigned is also comprehended within the expression receipts on account of sale.
+Mr. Sridharan then criticises the finding in para 14 of the order of the tribunal to urge that the tribunal erroneously distinguished the orders passed in the case of CIT vs. India Magnum Fund decided on 22nd January, 2001.
+Finally, Mr. Sridharan would submit that the tribunal has erred in holding that out of the gross receipts of the petitioner in a year, the receipts on account of sale are less than 50 of the gross receipts.
+Therefore, it is entitled to claim setoff only on those purchases effected in that year where the corresponding goods are sold within six months.
+Hence, the tribunal further erred in upholding the view of the first appellate authority that setoff on the goods not sold within six months should be denied.
+Thus, Mr.Sridharan submits that all of these have misread Rule 53(6) (b) of the Rules.30.
+Mr. Sridharan, in support of his contentions, relied upon the works of imminent authors on the Indian Trust Act and a judgment of the Honble Supreme Court in the case of Commissioner of Income Tax, Andhra Pradesh and Anr.
+vs. Trustees of H. E. H. the Nizams Family Trust (1986) 4 SCC 352 ).31.
+On the other hand, Mr. Sonpal would submit that the writ petition has no merit.
+Further, he would submit that though parties on par with the petitioner have filed a Maharashtra VAT Appeal and that appeal is pending, still, in this case, the tribunals view is correct and should not, therefore, be reversed.
+He would submit that the view taken by the tribunal together with that of the first appellate authority is correct both, on law and facts.
+Mr. Sonpal submits that the Deed of Trust in this case clearly says that Axis Bank Limited is a banking company and is referred to as a settlor, whereas, Axis Mutual Fund Trust Limited is a trustee company.
+However, the arrangement that is incorporated therein would clearly denote that in the scheme of the MVAT Act, the petitioner was liable to pay the VAT.
+Mr. Sonpal submits that when the VAT assessment of Axis Mutual Fund was made, the petitioners Chartered Accountant submitted certain documents.
+He would rely upon the communication, copy of which is at Exhibit M at page 98 of the paper book, to submit that in the order of assessment, all the necessary materials are referred.
+After verification of record and balancesheet, the assessing officer observed that the petitionerdealer is engaged mainly in investment scheme as per the Securities and Exchange Board of India (SEBI) Rules.
+There are 26 investment schemes operated by dealer like Mutual Fund.
+Out of them, one scheme is Axis Gold ETF Scheme, in which, the dealer purchases gold bars as per the request of the investors and stores it for long time and when the investors are interested in redeeming it, that is in the form of sale of gold bars.
+The purchased gold bars of specific investors are sold after a long period of investment and onwards.
+It is, therefore, rightly concluded that though there are many schemes operating, the goods are not involved in all of them except this scheme of God ETF Scheme.
+This is fetching more income and that is how the benefit of Rule 53(6)(b) was not granted.
+That has been disallowed by assigning cogent reasons.
+This reasoning is consistent with Rule 53(6) of the Rules.
+It is this view, which has been upheld by the first appellate authority.
+Mr. Sonpal would submit that there is no error of law apparent on the face of the record or perversity in the findings and conclusions concurrently rendered.
+Hence, the writ petition be dismissed.32.
+For properly appreciating the rival contentions, we must note the basic issue, which has been raised by the petitioner throughout and particularly before the tribunal.
+It categorically stated that Axis Mutual Fund Trust is a Trust set up under the Indian Trust Act, 1882.
+It is a registered mutual fund with SEBI and regulated under the SEBI (Mutual Fund) Regulations, 1996.
+Each scheme managed by the petitioner is only after seeking an appropriate approval from the SEBI.
+Each scheme is distinct from other scheme and has different set of investors.
+Each scheme has a specific investment objective and investment rules and within the set of investors.
+Each scheme bears separate balancesheet and account and on 31st March every year as per the Accounting Standards and Policies specified in the 9th and 11th Schedule of the SEBI (Mutual Fund) Regulations, 1996 as amended and the accounting guidelines suggested by the Institute of Chartered Accountant of India.
+The statutory auditors have to provide separate audit report.33.
+The petitionerappellant has one scheme Axis Gold ETF, which is a exchange traded fund.
+As per the objective of the scheme, it is mandatory on the part of the petitioner to invest in gold, for and on behalf of the investors.
+The security is in the form of gold, and it is held by the scheme as investment and not as stock in trade.
+Under this scheme, there are both, sales and purchases of gold.
+The petitioner is registered under the MVAT Act and the CST Act.
+The gold is purchased from open market after paying necessary VAT and other settlement charges as applicable.
+Similarly, when the gold is sold in open market, corresponding VAT payable on sale of gold is paid.
+Under this scheme, there is purchase and sale of gold in the State of Maharashtra.
+Hence, the petitioner is registered as a reseller of gold under the MVAT Act and the CST Act.
+Thereafter, the VAT and CST returns were filed.
+Based on the computation, the petitioner applied for refund of Rs.2,06,51,993/ for the year 201213.
+The petitioner claimed input tax credit in the said year of Rs.5,17,31,276/ and output tax liability of Rs.3,10,79,343/. To verify the correctness of the claim of refund, notice of 1st June, 2015 was issued by the assessing authority i.e. the Deputy Commissioner of Sales Tax.
+In the assessment proceedings, the assessing authority rejected the input tax claim by making a reference to Rule 53(6)(b) of the Rules.
+Further, a differential tax liability as shown in the foregoing paragraphs is confirmed in the assessment order.
+The total demand is thus 7,30,36,456.36.
+Being aggrieved by this assessment order, an appeal was preferred before the first appellate authority and that appeal was partly allowed on 24th March, 2017.
+The penalty levied under section 29(3) was deleted, however, the Joint Commissioner (first appellate authority) held that input tax credit cannot be allowed for sales beyond six months of purchase.
+He confirmed the interest under section 30(3).
+Thus, the tax payment of Rs.3,10,79,343/ and interest under section 30(2) of Rs.1,08,77,770/ was confirmed.34.
+In the appeal before the tribunal, various grounds were raised, but what we essentially find is that in the stay application and at the final arguments, an attempt was made to point out that independent balancesheet is maintained by the petitioner in respect of each scheme.
+The exemption from payment of income tax as per section 10(23(d) of the Income Tax Act, 1961 was pointed out.
+The tribunal held that in the case of M s. Religare Mutual Fund vs. The State of Maharashtra (VAT Second Appeal No. 138 of 2013), decided on 27th April, 2016 it has already taken a view that an assessee of this nature is not entitled to claim input tax credit in respect of gold, which is not sold within six months from the date of purchase.
+Hence, there is no reason to take a different view.
+That is how it directed payment of basic tax amount of Rs.3,10,79,343/ as part payment.35.
+A rectification application was also rejected on 7th November, 2017.
+The view taken in Religare (supra), therefore, needs to be noticed.
+In that case appellant Religare Mutual Fund was a private trust.
+It was dealing in precious metals, namely, gold bars.
+It purchased gold bars in the quantity of 1 Kg.
+and its multiples from dealers registered under the MVAT Act.
+M s.Religare Mutual Fund urged that it is entitled to setoff of the tax paid by its vendors as prescribed by section 48 of the MVAT Act.
+It was further argued that when the gold bars were sold by it, it collects 1 Vat from its customers.
+There are periodical returns submitted in the prescribed form under the Act.
+The Religare dealer desired setoff on its purchases as per the provisions of section 48 of the Act.
+It filed refund application invoking section 51 of the MVAT Act for the period 200910 and claimed refund of Rs.19,21,808/. As far as the refund was concerned, the claim came to be considered and the Deputy Commissioner of Sales Tax, on perusal of the documents and record, passed an assessment order for the period 27th January, 2010 to 31st March, 2010.
+He rejected major portion of the claim of setoff of input tax credit as per the provisions contained in Rule 53(6)(b) of the Rules on the ground that receipts on account of sales of M s. Religare are less than 50 of its total receipts in that financial year.
+The appeal preferred before the Joint Commissioner of Sales Tax was dismissed and then, the matter was carried to the tribunal.
+It was, inter alia, submitted that Rule 53(6)(b) is not applicable in the instant case.36.
+In noting several contentions and perusing the record, the tribunal came to the conclusion that the plea that M s. Religare is not a dealer cannot be accepted, merely because it had not registered itself under the MVAT Act and in that regard subsection (5) of section 16 was relied upon.
+Thus, M s. Religare did not obtain any cancellation of its registration and that is subsisting.
+Therefore, it is apparent that it is a dealer.
+Secondly, it is regularly buying and selling gold and therefore also it is a dealer under the MVAT Act.
+Then, we are concerned with the tribunals finding and conclusion on the point that M s. Religare is primarily doing the business of mutual fund and selling units of investment.
+Hence, it must be considered as to whether it is entitled to setoff on input tax credit.
+There, the gold bars worth Rs.19,32,26,876/ was purchased as per the returns.
+This amount must have been received from the sale of units.
+The returns filed are nothing but documents of evidence and receipts.
+Thus, there are receipts during the financial year.
+Since heavy reliance is placed on Rule 53, we deem it proper to reproduce it53.
+Reduction in setoff The setoff available under any rule shall be reduced and shall accordingly be disallowed in part or full in the event of any of the contingencies specified below and to the extent specified.(1)
+If the claimant dealer has used any taxable goods as fuel, then an amount equal to three per cent of the corresponding purchase price shall be reduced from the amount of setoff otherwise available in respect of the said purchase.(1A)
+On the purchases of natural gas to which subrule (1) does not apply, unless the natural gas purchased is resold or sold in the course of interState trade or commerce or in the course of export out of the territory of India or dispatched outside the State, to any place within India, not by reason of sale, to his own place of business or of his agent or where the claimant dealer is a commission agent, to the place of business of his principal, an amount equal to three per cent of the purchase price shall be reduced from the amount of setoff otherwise available in respect of the said purchases.
+Explanation For the purpose of this subrule, natural gas will be deemed to have been sold or resold if the sale is after conversion from one form of natural gas to another form.(2) (a) If the claimant dealer manufactures any tax free goods then an amount equal to the amount calculated at the rate notified from time to time, by the Central Government for the purposes of subsection (1) of section 8 of the Central Sales Tax Act, 1956 of the purchase price of the corresponding taxable goods purchased by him not being goods treated as capital assets or used as fuel and natural gas shall be reduced from the amount of setoff otherwise available in respect of the said purchases.
+Explanation For the purpose of this clause manufactured tax free goods will not include,(a) sarki pend, deoiled cakes, and (b) any other goods covered by SCHEDULE A, if they are sold in the course of export out of the territory of India covered by section 5 of the Central Sales Tax Act, 1956.
+(b) If the claimant dealer resells any tax free goods and the taxfree goods are packed in any material, then an amount equal to the amount calculated at the rate notified from time to time, by the Central Government for the purposes of subsection (1) of section 8 of the Central Sales Tax Act, 1956 of the purchase price of the corresponding purchases of packing materials, if any, shall be reduced from the amount of setoff otherwise available in respect of the said purchases of packing materials.
+Provided that no reduction under this clause shall be made if the goods packed are sold in the course of export out of territory of India and the export is covered by section 5 of the Central Sales Tax Act, 1956.(3) (a) If the claimant dealer dispatches any taxable goods outside the State, to any place within India, not by reason of sale, to his own place of business or of his agent or where the claimant dealer is a commission agent, to the place of business of his principal, then an amount equal to four per cent of the purchase price of the corresponding taxable goods not being goods treated as capital assets or used as fuel and natural gas shall be deducted from the amount of setoff otherwise available in respect of the said purchases.
+Provided that, if the taxable goods are despatched outside the State and the rate of tax specified in the SCHEDULE against the corresponding taxable goods purchases, is less than four per cent., then the reduction from setoff under this clause shall be calculated at such lower rate of tax specified in the SCHEDULE against the corresponding goods.
+Provided further that, the deduction provided in this subrule shall not apply if the goods dispatched are brought back to the State within six months of the date of dispatch whether after processing or otherwiseProvided also that, the provision of this clause shall not be applicable in respect of the contingencies specified in clause (b).(b)
+If the claimant dealer manufactures the goods covered under entries 5, 6, 7, 8, 9 and 10 of Schedule D appended to the Act and dispatches the said goods not by reason of sale, outside the State to any place within India to his own place of business, or the place of business of his agent or where the claimant dealer is a commission agent, to the place of business of his principal, then an amount equal to four per cent.
+of the value of the goods so dispatched shall be reduced from the amount of the setoff otherwise available in respect of the aforesaid manufactured goods.(4)
+If the claimant dealer has made a sale by way of transfer of property in goods (whether as goods or in some other form) involved in the execution of works contract then, if the claimant dealer has opted for composition of tax under subsection (3) of section 42, the corresponding amount of setoff other than the setoff pertaining to purchases of capital assets and setoff pertaining to goods in which property is not transferred shall be reduced and the setoff shall be allowed and calculated, (a) by multiplying the said amount of setoff by the fraction 16/25 where the dealer has opted to pay tax 8 on the total contract value, and(b) in respect of periods starting on or after 20th June 2006 by reducing from the amount of setoff a sum equal to 4 of the purchase price on which such setoff is calculated where the dealer has opted to pay tax 5 on the total contract value in the case of construction contracts.
+Explanation.
+For the purpose of this subrule, the expression Claimant dealer shall also include a subcontractor if the principal contractor has awarded the contract or part of contract to a subcontractor and the principal contractor has opted in respect of the said contract for the composition of tax under subsection (3) of section 42.(5)
+If the business in which the dealer is engaged is discontinued and is not transferred or otherwise disposed of and is not continued by any other person, then the setoff on purchases not being purchases treated as capital assets, corresponding to the goods held in stock at the time of discontinuance shall be disallowed and accordingly be reduced fully.(6)
+If out of the gross receipts of a dealer in any year, receipts on account of sale are less than fifty per cent.
+of the total receipts, (a) then to the extent that dealer is a hotel or club, but being covered under composition scheme, the dealer shall be entitled to claim setoff only, (i) on the purchases corresponding to the food and drinks (whether alcoholic or not) which are served, supplied or, as the case may be, resold or sold, and(ii) on the purchases of capital assets and consumables pertaining to the kitchens and sale, service or supply of the said food or drinks, and (b) in so far as the dealer is not hotel or restaurant, the dealer shall be entitled to claim setoff only on those purchases effected in that year where the corresponding goods are sold or resold within six months of the date of purchase or are consigned within the said period, not by way of sale to another State, to oneself or ones agent or purchases of packing materials used for packing of such goods sold, resold or consignedProvided that for the purposes of clause (b), the dealer who is a manufacturer of goods not being a dealer principally engaged in doing job work or labour work shall be entitled to claim setoff on his purchases of plant and machinery which are treated as capital assets and purchases of parts, components and accessories of the said capital assets, and on purchases of consumables, stores and packing materials in respect of a period of three years from the date of effect of the certificate of registration.
+Explanation.
+For the purposes of this subrule, the receipts means the receipts pertaining to all activities including business activities carried out in the State but does not include the amount representing the value of the goods consigned not by way of sales to another State to oneself or ones agent.(7) deleted(7A)
+If the claimant dealer has purchased office equipment, furniture or fixtures and has treated them as capital assets and he is not engaged in the business of transferring the right to use these goods (whether or not for a specified period) for any purpose, then the corresponding amount of setoff to which he is otherwise entitled shall be reduced by an amount equal to three per cent.
+of the purchase price on which such setoff is calculated and the balance shall be allowed.(7B)
+If the claimant dealer is holding a licence for transmission or as the case may be, distribution of electricity under the Electricity Act, 2003 or is a generating company as defined in the said Act, then in respect of the periods starting on or after the 1st April, 2005, save as otherwise provided under subrule (1) and (1A), an amount equal to the amount calculated at the rate notified from time to time, by the Central Government for the purposes of subsection (1) of section 8 of the Central Sales Tax Act, 1956 of the purchase price of the goods purchased including goods treated as capital assets by him for use in the generation, transmission, or, as the case may be, distribution of electricity shall be reduced from the amount of setoff otherwise available in respect of the said purchases of goods including goods treated as capital assets.(8)
+The claimant dealer shall deduct the amount required to be reduced under this rule from the amount of setoff available in respect of the period in which the contingencies specified in this rule occur and claim only the balance amount as setoff and when the amount so required to be deducted exceeds the said amount of setoff available in respect of that period, he shall pay an amount equal to the excess at the time when he is required to pay the tax in respect of the said period.(9) (a)
+For the purposes of subrule (1), subrule (1A) clause (a) of subrule (2) and subrule (3), any reference to the corresponding goods on the purchase of which setoff is claimed, shall be construed in relation to any period starting on or after the 1st April 2005, as a reference to the corresponding goods (not being consumable, stores, or goods treated as capital assets, parts, components and accessories of capital assets which are resold or are so dispatched outside the State or are used in relation to the manufacture of goods so sold or dispatched and are contained in the goods so sold, resold or dispatched and the packing material used along with the goods so sold, resold or dispatched.
+Any reference to the corresponding purchase price, corresponding taxable goods or corresponding purchases of packing material shall be construed accordingly.(b) while reducing setoff under, (i) subrule (2), for the purpose of determining the purchase price of the corresponding taxable goods, where it is not possible to ascertain the purchase price by reference to the books of account, the ratio of the sale price of the taxable goods and tax free goods or where there is no sale price, the value of the taxable goods and tax free goods shall be applied and(ii) subrule (3), the ratio of the value of the goods inclusive of any duty of Excise as it appears in the books of accounts of the goods dispatched as aforesaid and the sale price of other goods shall be applied for deciding the corresponding purchase price.(10)
+If the dealer has executed a contract, at any time after the 1st April 2005, of processing of textiles, then setoff on the goods purchased on or after the said date, shall be allowed to the extent of tax paid on purchases in excess of the amount calculated at the rate notified from time to time, by the Central Government for the purposes of subsection (1) of section 8 of the Central Sales Tax Act, 1956 on the purchase price, (a) as regards the goods in respect of which property is transferred during the said processing, and(b) as regards packing materials used for packing of the said textiles, and(c) as regards other purchases including purchases of capital assets shall be calculated as permissible under other rules.(11) (a) If the claimant dealer is engaged in the business of transferring the right to use (whether or not for a specified period) for any purpose, of passenger motor vehicles, then he shall be entitled to claim setoff of tax paid on the purchase of such motor vehicles only to the extent of tax payable on such transfer of right to use(b) the setoff as determined under clause (a) in respect of such vehicles shall be claimed in the period in which such right to use has been transferred by the claimant dealer.37.
+A bare perusal of Rule 53 would reveal that it is titled as Reduction in setoff.
+The Rule opens with the words that the setoff available under any rule shall be reduced and shall accordingly be disallowed in part or full in the event of any of the contingencies specified and to the extent specified.
+As far as subrule (6) is concerned, that pertains to gross receipts of a dealer in any year.
+Out of such gross receipts of a dealer in any year, receipts on account of sale, if less than 50 of the total receipts, then, to the extent that if the dealer is a hotel or club not being covered under composition scheme, the dealer shall be entitled to claim setoff only in terms of Rule 53(6) clause (a) subclauses (i) and (ii).
+A case of a dealer, who is not a hotel or restaurant is dealt with by clause (b) of subrule (6) of Rule 53.
+There, it is stated that the dealer shall be entitled to claim setoff only on those purchases effected in that year where the corresponding goods are sold or resold within six months of the date of purchase or are consigned within the said period, but by way of sale to another State, to oneself or ones agent or purchases of packing materials used for packing of such goods sold, resold or consigned.
+Thus, the setoff is restricted to those purchases effected in that year where the corresponding goods are sold or resold within six months of the date of purchase.
+The proviso deals with a case of a manufacturer and the explanation says that for the purposes of this subrule, the receipts means the receipts pertaining to all activities including business activities carried out in the State but does not include the amount representing the value of the goods consigned not by way of sales to another State to oneself or ones agent.38.
+In this regard, M s. Religare argued that it is entitled to claim setoff input tax credit.
+However, the tribunal held that it is not entitled to for, firstly, the evidence does not indicate with exactitude which goods were sold by M s. Religare.
+Whether the goods purchased by it were sold within a period of six months or not is not established by M s. Religare by adducing cogent, reliable and acceptable so also convincing evidence.
+Unless these basic facts are provided, it cannot be allowed to claim setoff or input tax credit.
+Therefore, this setoff was rightly disallowed and the tribunal did not find any error in that.
+Then, the tribunal rendered another finding and in para 13 of the order in the case of Religare (supra), the tribunal held thus13.
+Appellant submitted that his activities are multiState therefore, receipts are not only in relation to the business activities in Maharashtra State.
+The term gross receipts appearing in Rule 53, is not defined in the Act or the Rules therefore it should be construed to mean Gross receipts in relation to sale of goods or activities such as labour job in relation to goods and not in relation to receipts out of investment business like that of the Appellant of sale of units to investors.
+He further submitted that the term gross receipts should also be construed to mean receipts from business carried out in the State of Maharashtra only.
+We are afraid we are unable to accept this submission of the appellant.
+It is not necessary for the purpose of Rule 53 that the term gross receipts should be restricted only to the receipts from a particular kind of business or to the business activities within a particular State only.
+The fact that the appellant holds single PAN for all its business activities, itself shows that all the business activities are of single business entity, and hence, receipts from all business activities, are gross receipts of the appellant for the purpose of Rule 53(6) (b) of the MVAT Rules.39.
+Thus, in para 13, the finding is that the business of M s.Religare is multiState.
+The term gross receipts appearing in Rule 53 may not be defined, but that comprises of receipts, but not restricted only to investment business was the contention.
+That contention was rejected by holding that there is no scope for this argument and that receipts from a particular kind of business or business activities within a particular State only are gross receipts for the purpose of Rule 53.40.
+The next finding was in mutual fund business, receipts in the form of money received from investors for investment is a receipt within the meaning of Rule 53.
+However, for the purpose of Rule 53(6), the source of receipts or from where they are received is not relevant.
+Thus, the receipts from investors are excluded.
+Further, M s. Religare is in the business of selling units to the investors as well as selling gold as a policy of investment.
+The amounts received are receipts and the final argument was dealt with by distinguishing certain orders of the tribunal.
+The conclusion reached is that because the requirement of Rule 53(6) (b) is not satisfied, the setoff has to be restricted to only those purchases effected in the subject year where the corresponding goods are sold or resold within six months.41.
+The petitioner before us would try to distinguish its case from M s. Religare and in that process, it would rely upon the principle of multiple schemes under a single Trust Deed.
+We are only concerned with Axis Gold ETF Scheme.
+The petitioner has said that it is not engaged in the business of sale or purchase of goods liable to be taxed under the MVAT Act in any scheme except the Axis Gold ETF Scheme.
+It submitted that each scheme floated is a separate trust and therefore, while assessing the liability of a trustee company, which is acting for and on behalf of Axis Gold ETF Scheme, only receipts from this scheme are to be considered.42.
+We are afraid, we cannot accept this argument and for more than one reason.
+A careful perusal of the Deed of Trust would denote that the settlor is desirous of establishing a mutual fund to be called as Axis Mutual Fund as part of mutual fund business for investment in a scheme, as may be permitted under the applicable laws and for providing facilities for participation by subscribers and holders of units as beneficiaries in the schemes.
+The trustee company Axis Mutual Fund Trust Limited has entrusted the sum of Rs.1 lakh as initial contribution towards the corpus of the mutual fund and then it is stated that the trustee company, namely, Axis Mutual Fund Trust Limited shall offer to the public the units in the schemes for making group or collective investments in accordance with and as permitted under the regulations and subject to the terms and conditions set out.
+It then says that at the request of the settlor, the trustee company has agreed to act as the trustee of the Mutual Fund in accordance with the terms and conditions specifically set out, as is testified by the execution by them of these presents and in accordance with the regulations and in accordance with the provisions of the Indian Trust Act, 1882.
+It is also intended that this Trust Deed be binding on the unit holders of the relevant schemes to the extent permissible under applicable laws.
+Thereafter, there are various clauses and which include investment limitations, responsibilities, obligations and rights of the trustee company, internal control of the trustee company and authority to the trustee company to enter into investment management agreement.
+The liability of mutual fund and other aspects are also covered by this deed.
+All these details were forwarded to the assessing authority and it was stated that there are letters addressed to banks and other stake holders.
+Before us, reliance is placed on this to urge that the petitioner purchased gold from registered dealers based on subscription request received from customers, but it does not purchase sell any gold when units are traded on the stock exchange.
+Sample invoices are annexed to the petition to show that gold worth Rs.522,48,59,036/ was purchased from a registered dealer for the assessing year 201213 by the petitioner.
+It claimed a setoff of the tax amount of Rs.5,17,31,276/ on purchase of gold under the provisions of section 48 of the MVAT Act read with Rule 52 of the MVAT Rules.
+It duly adjusted the setoff claimed of Rs.3,10,79,343/ against its output VAT liabilities in accordance with the provisions of Rule 55 of the MVAT Rules.
+Consequently, the petitioner applied for refund of excess input tax credit amounting to Rs.2,06,51,993/ and relied upon sample copies of the invoices for sale of gold.
+It also relied upon the tax liability discharged on the sale of gold by referring to the audit reports.
+It submitted its details, but the assessing officer was not satisfied on the ground that the goods purchased by the petitioner, on which input tax credit is claimed, are sold within a period of six months from the date of purchase.
+The argument was that this Rule 53(6)(b) is not applicable.43.
+We do not see any merit in this argument either.
+The entire foundation of the argument is that each trust floated by the company is a separate trust in itself and while assessing the liability of the trustee company, which is acting for and on behalf of Axis Gold ETF Scheme, only receipts from this trust scheme are to be considered and merely because the same person acts as a trustee for different schemes will not affect the legal position that there is a separate trust for each of the schemes.
+The internal report for the 35 schemes has been relied upon and a consolidated document Exhibit L is referred in that regard.
+It is urged that the assessing authority has considered receipts on account of sale of gold in the numerator (receipts on account of sale) from these financial statements of Axis Mutual ETF.
+However, the assessing authority has considered total receipts of schemes in the denominator from this consolidated printout of schemes.
+Hence, all the authorities have considered receipts from the activities of all schemes instead of considering the receipts of Axis Mutual ETF Scheme alone.
+This is taken to be an erroneous approach.44.
+We find no merit in the argument of Mr. Sridharan in this behalf.
+The sheet anchor of this argument is the judgment in the case of Nizams Family Trust (supra).
+Nizams Family Trust was a case arising under the Income Tax Act.
+The Revenue preferred appeal against the common judgment of the High Court of Andhra Pradesh, because it answered the questions framed by the Honble Supreme Court in favour of the assessee.
+One of the questions was, whether the income arising from the Reserve Fund and the Expenses Account of the Nizams Family Trust Deed dated 10th May, 1950 can be aggregated in a single assessment for each of the assessment years 196061 to 196566.
+There, the facts were that Deed of Trust dated 10th May, 1950 created a Family Trust.
+A corpus of nine crores in Government securities was transferred to the trustees under that deed.
+The corpus was notionally divided into 175 equal units.
+Five units were to constitute a fund called the Reserve Fund and 3.5 units were to constitute the Family Trust Expenses Account.
+The remaining 166.5 units were alloted to the relatives mentioned in the Schedule in the manner provided therein, the number of units allocated to each individual relative being specified there.
+Clause 6 of the Trust Deed creates a Reserve Fund comprising five equal units of the corpus of the Trust Fund.
+The trustees hold the Reserve Fund upon trust to apply the income or corpus thereof for any special, unusual unforeseen or emergency expenses for the benefit of the member of the settlors family specified in the Schedule.
+Additionally, if the income of the Family Trust Expenses Account is insufficient to meet the charges of collection of the income of the trust fund and the remuneration of the trustees and of the committee of management and the other costs, charges, expenses and outgoing relating to the trust, the trustees are enjoined to make good such deficit out of the income or corpus of the Reserve Fund and for that purpose, they may transfer to the Family Trust Expenses Account such sums as may be required.
+Then clause 7 was referred, which is in relation to 3.5 equal units of corpus of the Trust Fund granted to the Family Trust Expenses Account.
+For the assessment year 195960 and the assessment years prior thereto, the incomes accruing to the Reserve Fund and the Family Trust Expenses Account were aggregated in a single assessment made on the trustee of the Nizams Family Trust.
+But, thereafter, the assessees appeals were allowed by the Appellate Assistant Commissioner against assessment for the years 195556 to 195960 and the incomes of the two funds were separately assessed for the assessment years 196061 and 196162.
+Thus, the assessee was described in the one case as the trustee of the Nizams Family Trust Reserve Fund and in the other as the trustee of the Nizams Family Trust Expenses Account.
+However, the Income Tax Officer being of the opinion that there was only one settlement under the Trust Deed, reopened the assessments for the assessment years 196061 and 196162 under clause (a) of section 147 of the Income Tax Act, 1961 in order to assess the trustees on the combined income of the Reserve Fund and the Family Trust Expenses Account.
+He made separate original assessments for the assessment years 196263 to 196566.
+The assessee appealed and the first appellate authority cancelled the assessment for all the years.
+The Revenue appealed to the Income Tax Appellate Tribunal, but the view taken by the first appellate authority was upheld by the tribunal and the appeals were dismissed.
+Then, the questions were referred for opinion of the High Court of Andhra Pradesh and they were answered in the negative.
+Hence, the Revenue appealed.
+That is how the primary question in the appeals before the Honble Supreme Court was whether the incomes arising from the Reserve Fund and the Family Trust Expenses Account can be assessed separately or not.45.
+Mr. Sridharans reliance on paragraphs 7, 8, 9 and 11 must be seen in this context.
+The tax was not identical to the one before us.
+It was a distinct tax legislation, namely, the Income Tax Act, 1961.
+The issue was, whether the incomes arising from the Reserve Fund and the Family Trust Expenses Account of the Nizams Family Trust can be assessed separately or must be aggregated in a single assessment.
+It is in this backdrop that the Trust Deed was referred and the Honble Supreme Court concluded that there may be separate funds created, but there was a notional division of the original trust fund.
+It is not, therefore, a case where separate trusts were created or separate heads were to constitute separate incomes.
+The objects of the two funds were also demarcated clearly.
+There is no intermingling of the funds.
+With all this, the settlor intended to create separate trust, is the conclusion of the High Court, which the Revenue assailed.
+However, bearing in mind the nature of the tax, the typical nature of the Deed of Trust, the appeals were dismissed.
+The court, in the context of the incomes, concluded that they cannot be aggregated in one single assessment, but must be assessed separately.46.
+Such is not the case before us.
+There is a single Deed of Trust.
+There may be separate schemes, but there was never any intent as is now sought to be culled out and to create separate Trust.
+This is not a case where separate Trusts were created and hence, the principle relied upon by Mr. Sridharan from several works on Law of Trust and to the effect that receipts from Axis Mutual Fund ETF alone have to be considered for there is formation of more than one trust by the Deed of Trust and that is permissible, has no application.
+This has no application here because the earlier principle and based on the case of Commissioner of Income Tax, Bombay City 1, Bombay vs. Manilal Dhanji, Bombay (1962)
+44 ITR 876 ) is inapplicable.
+This is not a case where the settlor has created more trusts under a single Trust Deed.
+This is a clear case where the Deed of Trust permits floating one or more schemes.
+That is not equivalent to creation of separate Trusts.
+It is in these circumstances that the assessing officer, the first appellate authority and the tribunal all rightly concluded that the setoff available under Rule 53 has to be reduced.
+It shall be accordingly in part or full in the event of any of the contingencies specified and to the extent specified in subrule (6) of Rule 53.
+Pertinently, the setoff has not been disallowed in full.
+It is hold that in the case clearly specified of gross receipts of a dealer in any year and if from that, receipts on account of sale are less than 50 of the total receipts, then, insofar as the dealer, who is not a hotel or restaurant, the setoff is permissible only on those purchases effected in that year where the corresponding goods are sold or resold within six months from the date of purchase.
+There is no creation of separate Trusts, but separate schemes under a single Trust Deed are floated.47.
+To our mind, therefore, none of the authorities were in any error nor their view can be termed as perverse while granting partial relief to the petitioner.
+We do not see how the view taken by the first appellate authority in the facts and circumstances peculiar to the petitioners case is perverse.
+We are of the view that the conclusion reached by the first appellate authority is imminently possible.
+It is evident from the same that the petitioner obtained registration under the MVAT Act.
+It invested in the gold and disposed it of, may be on behalf of the customers.
+However, it paid VAT on it and was held liable to pay interest if the payment of VAT is delayed.
+Hence, the first appellate authority has rightly concluded that the tax amount, together with interest is payable.
+He confirmed the demand to that extent.
+The tribunal also confirmed this view.
+It concurred with the assessing officer and the first appellate authority as both took a view on facts and on law, which is not perverse or vitiated by error of law apparent on the face of the record.
+In these circumstances, the dis allowance of input tax credit under Rule 53(6)(b) was also confirmed and in our opinion, rightly.48.
+We do not see any merit in the writ petition.
+It is accordingly dismissed.
+Rule is discharged, but without any order as to costs.

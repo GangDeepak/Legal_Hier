@@ -1,0 +1,269 @@
+ M. AHMADI, J. These appeals by special leave are directed against certain assessment orders made by the CTO relating to the asst.	Issue
+yrs.	None
+197576, 197677 and 197778 under the Rajasthan Salestax Act, 1954 (hereinafter called the Act) and the Central Salestax Act, 1956 (hereinafter called the Central Act).	None
+The question relates to payment of interest on tax on the amount of freight charged in respect of sale of cement under the relevant Cement Control Order.	Facts
+The returns were filed by the appellant on the premises that the amount of freight charged in respect of sale of cement under the said Control Order did not form part of the sale price for the payment of salestax.	Facts
+The appellant contends that it had raised the contention bona fide but the same was rejected by this Court by its judgment and order dt.	None
+22nd Aug., 1978 in the case of Hindustan Sugar Mills Ltd. vs. State of Rajasthan and J.K. Synthetics Ltd. vs. CTO, Kota.	Facts
+By the said decision this Court held that the freight element formed part of the price of cement and salestax was leviable on the sale price inclusive of the freight amount.	Facts
+The appellant was, therefore, required to pay salestax on the sale price inclusive of the freight.	None
+There is now no dispute on the question of computation of the sale price for calculating the sales tax.	None
+The dispute now is limited to whether the appellant is required to pay interest on the additional salestax which had to be paid on the inclusion of the freight amount in calculating the sale price.	None
+According to the appellant interest under s. 11B of the Act can only be charged for the period subsequent to the determination of salestax under the final assessment and that too after the expiry of the period allowed under the notice of demand issued on finalisation of the assessment.	None
+This contention of the assessee is countered by the Revenue.	Arguments of Respondent
+According to the latter, interest becomes payable from the date on which the original return was filed under s. 7(2) or 7(2A) of the Act, as the case may be.	Arguments of Respondent
+The assessee supports its contention on the decision of this Court in State of Rajasthan vs. V. Ghasi Lal whereas the Revenue places reliance on the decision rendered by this Court in Associated Cement Co. vs. CTO Ors.	None
+wherein it was held that where a return is filed under s. 7(2) of the Act, interest runs from the date of filing of the return.	Arguments of Petitioner
+The assessee, however, seeks to distinguish it on the ground that the case related to deposit of differential tax under s. 7(2A) of the Act.	Arguments of Petitioner
+We will, therefore, be required to interpret ss. 7(2), 7(2A) r w s. 11B of the Act and s. 9(2) of the Central Act and the ratio of the decisions on which reliance has been placed.	None
+Under the Act by virtue of the charging s. 3 the liability to pay tax arises.	None
+Sec.	Reasoning
+5 prescribes the rate of tax.	None
+Sec.	Reasoning
+7(1) provides that every dealer liable to pay tax shall furnish returns of his turnover for the prescribed periods in the prescribed form and in the prescribed manner within the prescribed time, to the assessing authority.	Reasoning
+Sec.	Reasoning
+7(2) says that every such return shall be accompanied by a treasury receipt or receipt of any authorised bank showing the deposit of the full amount of tax due on the basis of the return in the Government Treasury or bank concerned.	None
+Subs.	None
+(2A) added to s. 7 by Rajasthan Act 13 of 1963 w.e.f.	None
+29th April, 1963, empowers the State Govt.	None
+notwithstanding subs.	None
+(2) to require any dealer or class of specified dealers to pay tax at intervals shorter than those prescribed under subs.	None
+(1) in which case the dealer will deposit the tax at such shorter intervals.	None
+Such deposit of tax shall, under s. 7(4), be deemed to be provisional, subject to necessary adjustments in pursuance of the final assessment of tax.	Reasoning
+Sec.	Reasoning
+7A enjoins the making of a provisional assessment on best judgment basis if the dealer fails to submit a return or fails to deposit tax as required by s. 7(2A).	None
+Sec.	Reasoning
+7AA prescribes the penalty for failure to furnish the returns.	None
+According to s. 10 the assessment and determination of tax due for any year, shall be made after the returns for all the periods of that year have become due.	None
+Sec.	Reasoning
+11B makes provision for charging interest on failure to pay tax, fee or penalty.	None
+Clauses (a) and (b) of the said s. 11B before its substitution by Act 4 of 1979 w.e.f. 7th April, 1979, read as under 11B. Interest on failure to pay tax, fee or penalty(a) If the amount of any tax payable under subss.	None
+(2) and (2A) of the s. 7 is not paid within the period allowed, or(b) If the amount specified in any notice of demand, whether for tax, fee, or penalty, is not paid within the period specified in such notice, or in the absence of such specification, within 30 days from the date of service of such notice, the dealer shall be liable to pay simple interest on such amount at 1 per cent per month from the day commencing after the end of the said period for a period of three months and at one and a half per cent per month thereafter during the time he continues to make default in the payments.	None
+(The two provisos are not material for our purpose).	None
+The Rajasthan Salestax Rules, 1955, hereinafter called the Rules, provide in Chapter VII for the filing of returns, etc.	None
+Rule 25 provides that the return referred to in s. 7(1) shall be in Form ST 5 and shall be signed by the dealer or his agent.	None
+The said return has to be filed for such quarters ending with the last day of the month of June, September, December and March of every assessment year if the previous year of the dealer ends on 31st March of any year, and in other cases for each of the quarters of the year of accounts of the dealer.	None
+The rule further provides that if the return is not accompanied by a receipt showing deposit of tax as required by s. 7(2), the assessing authority shall not be bound to take cognizance of the return.	None
+If we turn to Form ST 5 we find that column 11 thereof requires the dealer to indicate the turnover for the concerned quarter and permits certain deductions enumerated therein.	None
+The return has to be verified in the manner indicated at the foot of the form.	None
+It was, therefore, contended on behalf of the Revenue that a conjoint reading of s. 7 and r. 25 clearly brings out that the dealer or his agent is under an obligation to file a true and complete return and, hence, the failure to deposit the tax due on the turnover as determined on final assessment would entail liability to pay interest.	Arguments of Respondent
+It may be noted that s. 26(5) of the Act makes all rules made under the said provision and duly published in the Gazette to form part of the Act itself on such publication.	None
+The assessee contends that since the present case related to the deposit of differential tax under subs.	None
+(2A) of s. 7 and not under s. 7(2), the differential tax required to be paid would be on the full amount of tax due shown in the return.	None
+Since in the present case the full amount of tax shown in the return was deposited no such demand for interest as has been made could be entertained.	Arguments of Petitioner
+The Revenue on the other hand contends that when the law enjoins on the assessee to file a return, it can only mean a true and correct return, that is, a return which reflects the tax due on final assessment.	None
+Therefore, contends the Revenue, as the whole amount found due on final assessment was not included in the return and the full amount of tax due on that basis was not deposited as required by law, interest became payable under s. 11B of the Act.	Arguments of Respondent
+The assessee on the contrary relies on the difference in language between subss.	None
+(2) and (2A) of s. 7 and emphasising on the words amount of tax due shown in the return found in subs.	None
+(2A) of s. 7, which phraseology is not to be found in subs.	None
+(2) of that section, contends that no interest can be charged under s. 11B. Subss.	None
+(2) and (2A) of s. 7 as they stood before their amendment by Rajasthan Act 4 of 1979, read as under Every such return shall be accompanied by a Treasury receipt or receipt of any bank authorised to receive money on behalf of the State Govt., showing the deposit of the full amount of tax due on the basis of return in the Government Treasury or bank concerned.	None
+(2A) Notwithstanding anything contained in subs.	None
+(2), the State Govt., may by notification in the Official Gazette require any dealer or class of dealers specified therein, to pay tax at intervals shorter than those prescribed under subs.	None
+(1).	None
+In such cases, the proportionate tax on the basis of the last return shall be deposited at the intervals specified in the said notification in advance of the return.	None
+The difference, if any, of the tax payable according to the return and the advance tax paid shall be deposited with the return and the return shall be accompanied by the treasury receipt or receipts of any bank authorised to receive money on behalf of the State Govt., for the full amount of tax due shown in the return.	None
+In subs.	None
+(2A), by Amending Act 4 of 1979, the words tax according to his accounts were substituted for the words proportionate tax on the basis of the last return and the latter part of the subsection was restructured by deleting the words The difference if any, of the tax payable according to the return and the advance tax paid shall be deposited with the return and making the sentence a running one.	None
+Sub s. (3) permits a dealer who discovers any error or omission in his return to submit a revised return in the prescribed manner before the time prescribed for the submission of the next return but not later.	None
+Now s. 7(2) says that every such return, meaning thereby the return referred to in s. 7(1), shall be accompanied by a receipt showing the deposit of the full amount of tax due on the basis of the return.	None
+In other words the dealer is required to pay the full amount of tax that becomes due on the basis of the particulars in regard to the turnover and taxable turnover disclosed in the return.	None
+Subs.	None
+(2A) begins with a non obstante clause, namely, notwithstanding anything contained in subs.	None
+(2), and provides that any dealer or class of dealers specified in the notification may pay the tax at intervals shorter than those prescribed under subs.	None
+(1), in which case the tax shall be deposited at the intervals specified in the notification in advance of the return and the return shall be accompanied by the receipt for the full amount of tax due shown in the return.	None
+Although the phraseology used in subss.	None
+(2) and (2A) of s. 7 is not the same, the content and purport of the two subsections is more or less identical, namely, both the subsections require that the return shall be accompanied by a receipt evidencing the deposit of the full amount of tax due on the basis of the return or on the basis of the information shown in the return.	None
+The full amount of tax due and payable prior to the submission of the return is clearly relatable to the information furnished in the return.	None
+Undoubtedly, the information to be furnished in the return must be correct and complete, that is, true and complete to the best of knowledge and belief without the dealer being guilty of wilful omission.	None
+This is the essence of the verification clause found at the foot of Form ST 5.	None
+Rule 15 expects the verification of the return to be in the manner indicated in Form ST 5.	None
+Therefore, on a conjoint reading of ss.	None
+7(1), (2) and (2A), r. 25, the information to be furnished under Form ST 5 and the form of verification, it becomes clear that the dealer must deposit the full amount of tax due on the basis of information furnished, which information must be correct and complete to the best of the dealers knowledge and belief without he being guilty of wilful omission.	Reasoning
+If the dealer has furnished full particulars in respect of his business, without wilfully omitting or withholding any particular information which has a bearing on the assessment of tax, which he honestly believes to be correct and complete, it would be difficult to hold that the dealer had not acted bona fide in depositing the tax due on that information before the submission of the return.	Reasoning
+Ofcourse the tax so deposited is to be deemed to be provisional and subject to necessary adjustments in pursuance of the final assessment.	Reasoning
+Sec.	Reasoning
+7AA empowers levy of penalty if the assessing authority is satisfied that any dealer has without reasonable cause failed to furnish the return under s. 7(1) within the time allowed.	Reasoning
+The use of the words without reasonable cause clearly implies that if the dealer can show reasonable cause for his lapse he cannot be visited with the penalty prescribed by s. 7AA.	Reasoning
+To put it differently if reasonable cause is shown by the dealer for the lapse, he cannot be visited with penalty under this provision.	Reasoning
+This is also suggestive of the fact that the legislature desired to be harsh with wilful defaulters or those guilty of wilful omission of material information and not with dealers who failed to supply some information under the bona fide belief that the same was not necessary or those who had failed to pay the full tax due not with a view to evading or avoiding the liability to pay the tax but because they bona fide believed that they were liable to pay the tax assessed by them on the basis of the return and no more.	Reasoning
+If at a later date on the basis of a different interpretation put on the language of the relevant provisions of the law, the dealer becomes liable to pay tax in excess of that already paid, he may be called upon to make good the difference but he cannot be visited with penalty under s. 7AA unless it is shown that the dealer had withheld payment of the differential tax by wilfully withholding material information or had acted without reasonable cause in committing the default.	Reasoning
+The assessee, therefore, contends that there was no wilful omission in not including the freight charges in the price of the commodity on the basis whereof the tax was assessed before filing of the returns on the contrary, contends the assessee, it had acted bona fide having regard to the ratio of this Courts decision in Hyderabad Asbestos Cement Products Ltd. vs. State of Andhra Pradesh.	None
+for the Revenue, however, points out that considerations for the levy of penalty under s. 7AA are different from those which guide the recovery of interest under s. 11B and while in a given case levy of penalty may not be permissible, recovery of interest on unpaid tax amount may still be justified.	None
+As the relevant assessment years in question are from 197576 to 197778 we are concerned with s. 11B as it stood before its substitution by Act 4 of 1979 w.e.f. 7th April, 1979.	None
+Sec.	Reasoning
+11B then provided that if the amount of any tax payable under subss.	None
+(2) and (2A) of s. 7 is not paid within the time allowed or if the tax amount specified in any notice of demand is not paid within the period specified, the dealer shall be liable to pay simple interest on such amount at one per cent per month for a period of three months and thereafter at one and a half per cent per month during the time he continues to make default in the payments.	Reasoning
+However, according to s. 11B substituted by Act 4 of 1979 w.e.f. 7th April, 1979, the liability to pay interest accrues (a) where the dealer has furnished returns but has failed to pay the tax as per the said returns or within the time allowed (b) where a dealer has furnished a revised return under s. 7(3) whereunder the amount of tax payable is large than that already paid (c) where a dealer has filed his return after expiry of the prescribed period but has not paid the tax as per return or within the time allowed (d) where a dealer is required to pay tax without furnishing a return for any period and such tax is not paid in full by the due date (e) where a dealer required to furnish returns pays tax for any period without furnishing returns and (f) where the liability to pay tax is quantified in respect of a dealer who had submitted returns for the period for which the tax is quantified.	Reasoning
+It will thus be seen that under s. 11B before the 1979 amendment the liability to pay interest on unpaid tax amount accrued on the dealer in two situations only, viz., (i) failure to pay the tax due under subss.	None
+(2) and (2A) of s. 7 and (ii) failure to pay the tax within the time allowed by the notice of demand or thirty days from the receipt of the notice by the dealer.	None
+Sec.	Reasoning
+11B before its amendment nowhere provided for payment of interest on the unpaid tax amount as found on final assessment from the date of the filing of the return under s. 7 of the Act.	None
+If the amount of tax payable under subs.	None
+(2) is paid on the basis of return, not on the basis of final assessment, there can be no question of payment of interest under cl.	None
+(a) of s. 11B.	Reasoning
+Similarly, if the tax is paid according to the return as required by subs.	None
+(2A), in other words, if the full amount of tax due shown in the return is paid, there can be no question of charging interest under cl.	Reasoning
+(a) of s. 11B. So far as cl.	Reasoning
+(b) is concerned it is a postassessment situation.	None
+Where tax is found due on final assessment and the dealer is required to make good the difference, a notice of demand will issue.	Reasoning
+If the dealer fails to pay the tax within the time specified in the notice and if no time is specified within 30 days from the receipt of notice, he is required to pay interest at the rates prescribed by the subsection.	Reasoning
+But if he pays the difference of tax within the prescribed time, there is no question of charging interest.	None
+If such an interpretation is not placed and if the Revenues plea is accepted serious anomalies would surface.	None
+Firstly, if the liability to pay interest on the balance tax amount accrues from the date of submission of returns under s. 7, cl.	None
+(b) of s. 11B r w s. 11(2) would be rendered nugatory.	Reasoning
+Otherwise one would be required to hold that interest would be payable from the date of submission of the return till the date of issuance of notice of demand and thereafter no interest would have to be paid till the expiry of the specified period or thirty days, as the case may be, and thereafter interest would have to be paid at a given rate for the first three months and thereafter at a higher rate.	Reasoning
+Such could not be the legislative intent.	Reasoning
+Secondly, take the case of a dealer who has failed to submit a return and is subjected to assessment of tax on the basis of best judgment.	Reasoning
+Pursuant to the said assessment he deposits the tax.	Reasoning
+Such a dealer would not be liable to pay interest on the balance tax if the tax assessed under s. 10 is higher than what was provisionally assessed.	Reasoning
+He can always claim that he cannot be made liable to pay interest for the error of the authority in making the provisional assessment under s. 7A.	Reasoning
+The defaulter would be in a better position than a dealer who complies with the requirement of s. 7(1).	Reasoning
+And if he can show reasonable cause, he would also escape the penalty clause in ss.	Reasoning
+7AA and 16(1).	Reasoning
+More or less a similar situation may arise in the matter of payment of interest where provisional assessment is made under s. 7B. Of course such a dealer may become liable to penalty but that is a different matter altogether.	Reasoning
+Take also the case of a dealer who submits a return without depositing the tax on the basis thereof.	Reasoning
+Under s. 25(4)	Reasoning
+the authority may or may not take cognizance of the return.	Reasoning
+If cognizance is not taken the dealer would be treated on par with one who has not submitted a return but if cognizance is taken he must be treated as one who is liable to pay interest under cl.	Reasoning
+(a) of s. 11B of the Act.	Reasoning
+Therefore, the view canvassed by the Revenue leads to incongruous situation which can never be the legislative intent.	Reasoning
+This is how the situation emerges on a plain reading of the provisions of the Act as they stood before Act 4 of 1979 came into force.	Reasoning
+After the substitution of s. 11B by Act 4 of 1979 the situation has changed altogether.	Reasoning
+What we have said earlier has nothing to do with s. 11B as introduced by Act 4 of 1979.	Reasoning
+We may now examine the case law on which reliance was placed.	Reasoning
+The decision rendered by the Constitution Bench of this Court in the case of Ghasi Lal (supra) turned on the following facts.	None
+The Act had come into force on 1st April, 1955 while the rules framed thereunder were published in the Rajasthan Govt.	None
+Gazette on 28th March, 1955.	None
+Ghasi Lal challenged the making of assessments on his turnover for the year 195556 on the ground that the rules were invalid.	None
+The High Court in the writ petition filed by Ghasi Lal made an interim order on 9th Jan., 1958 that Ghasi Lal will maintain proper account and file the prescribed returns and the Revenue will not assess him till further orders.	None
+During the pendency of the writ petition the rules were validated by Ordinance No. 5 of 1959 (which later became an Act).	None
+Thereupon Ghasi Lal withdrew his writ petition.	None
+Thereafter on 4th Dec., 1959, the STO, Kota City Circle, sent him a show cause notice asking him to deposit the tax due upto date within a week, failing which he threatened to take necessary action permissible in law.	None
+On receipt of the notice Ghasi Lal filed a return in respect of the 4th quarter ending 22nd Oct., 1957 and deposited the tax of Rs. 11, 808.37.	None
+On 25th April, 1960, the STO made an assessment in respect of the accounting period from 3rd Nov., 1956 to 22nd Oct., 1957 and imposed a penalty under s. 16(1)(b) of the Act on the ground that the assessee had not deposited the tax for the earlier quarters on the due dates and the tax for the 4th quarter was deposited after a lapse of two years.	None
+His appeal was dismissed by the Dy. Commr. of Salestax who endorsed the view that the interim order of the High Court had not precluded the assessee from paying the tax and filing the returns.	None
+On the same line of reasoning penalty was also levied for the subsequent periods.	None
+Ghasi Lal challenged the levy of penalty by a writ petition and the High Court allowed the same.	None
+It may be noted that s. 7AA was not on the statute book then and the penalty was levied under s. 16(1)(b) as it then stood which, inter alia, provided for imposition of penalty if the tax due was not paid within the time allowed.	None
+The submission made on behalf of Ghasi Lal was that there was no breach of s. 16(1)(b), inasmuch as, no tax was due till the assessee filed his returns under s. 7(1) of the Act because the tax to be deposited as required by s. 7(2) was to be calculated on the basis of the return.	None
+There cannot be noncompliance of s. 7(2) unless a return is filed without depositing the tax due on the basis of the return.	None
+Hence, counsel contended, there was no violation of s. 7(2) and so long as the tax was not assessed and determined as required under s. 10, the liability for payment of penalty did not arise.	None
+On the other hand the Revenue contended that the liability to pay tax had arisen under ss. 3 and 5 of the Act and the delay in complying with the demand notice entailed imposition of penalty.	None
+This Court held According to the terms of s. 16(1)(b), there must be tax due and there must be a failure to pay the tax due within the time allowed.	None
+Sec. 3, the charging section, r w s. 5, makes tax payable, i.e., creates a liability to pay tax.	None
+That is the normal function of a charging section in a taxing statute.	None
+But till the tax payable is ascertained by the assessing authority under s. 10, or by the assessee under s. 7(2), no tax can be said to be due within s. 16(1)(b) of the Act, for till then there is only a liability to be assessed to tax.	None
+The situation may be different after the introduction of s. 7A.	None
+The contention based on the show cause notice was brushed aside as one without substance as the learned counsel for the Revenue was unable to show any rule or section under which it was issued.	None
+On this line of reasoning this Court upheld the High Court decision and dismissed the appeal.	None
+Before we proceed further we must emphasise that penalty provisions in a statute have to be strictly construed and that is why we have pointed out earlier that the considerations which may weigh with the authority as well as the Court in construing penal provisions would be different from those which would weigh in construing a provision providing for payment of interest on unpaid amount of tax which ought to have been paid.	None
+Sec. 3, r w s. 5 of the Act, is the charging provision whereas the rest of the provisions provide the machinery for the levy and collection of the tax.	None
+In order to ensure prompt collection of the tax due certain penal provisions are made to deal with erring dealers and defaulters and these provisions being penal in nature would have to be construed strictly.	None
+But the machinery provisions need not be strictly construed.	None
+The machinery provisions must be so construed as would enable smooth and effective collection of the tax from the dealers liable to pay tax under the statute.	None
+Sec.	Reasoning
+11B provides for levy of interest on failure of the dealer to pay tax due under the Act and within the time allowed.	None
+Should this provision be strictly construed or should it receive a broad and liberal construction, is a question which we will have to consider in determining the sweep of the said provision.	None
+We will do so at the appropriate stage but for the present we may notice the thrust of this Courts decision in the case of Associated Cement Co. Ltd. (supra).That was a case in which the company had submitted its returns under the Act as well as the Central Act for the period between 1st Aug., 1973 and 31st July, 1974 accompanied by receipts evidencing the payment of tax on the basis of the said returns.	None
+The freight charges were, however, not included in the taxable turnover on the plea that the said charges were not liable to be so included.	None
+However, after the decision of this Court in Hindustan Sugar Mills Ltd. (supra), revised returns including the freight charges were filed alongwith receipts evidencing the deposit of the balance tax amount under both the statutes.	None
+In the assessment order made under the Act the authority imposed penalty under s. 7AA and levied interest under s. 11B of the Act for the delay in depositing the tax amount relatable to the freight charges.	None
+A similar order was made under s. 9(2) of the Central Act.	None
+The company pleaded that it had acted bona fide in omitting to include the freight charges in its turnover as the view expressed by this Court in Hyderabad Asbestos Co. Ltd. (supra) held the field till it came to be explained and distinguished in the subsequent cases of Birla Jute Manufcturing Co. Ltd. vs. CST and Hindustan Sugar Mills Ltd. (supra).	None
+The company also pointed out that within two months after the judgment of this Court in the latter case it had filed revised returns including the freight charges in its taxable turnover and paid the tax due thereon even before the assessment orders were made.	None
+The threeJudge Bench which decided the case was unanimous in its view that the company had acted bona fide in omitting to include the freight charges in its taxable turnover and, therefore, the levy of penalty under s. 7AA of the Act was not sustainable.	None
+However, the Bench was divided on the question of liability to pay interest under s. 11B of the Act Sen and Venkataramiah, JJ.	None
+taking the view that the levy of interest was legal and proper while Bhagwati, J. holding that the demand was not legally sustainable.	None
+It is, therefore, necessary to place into sharp focus the two points of view to appreciate the rationale in support thereof.	None
+The majority view was expressed by Venkataramiah, J. on behalf of himself and Sen, J. with which Bhagwati, J. dissented.	None
+Venkataramiah, J. speaking for the majority points out that interest claimed on unpaid tax dues has been described as compensatory in character and not penal.	None
+Dealing with the assessees contention that as it had deposited the full amount of tax due on the basis of the returns filed under s. 7(1), and had thereby complied with s. 7(2), and had subsequently deposited the additional tax on the basis that freight charges were includible in the taxable turnover while submitting the revised return under s. 7(3), the question of charging interest could not arise, Venkataramiah, J. observes In the present case if we construe the words on the basis of return occurring in subs.	None
+(2) of s. 7 of the Act as on the basis of a true and proper return which ought to have been filed under subs.	None
+(1) of s. 7	None
+then all the three classes of persons, viz., (i) those who have not filed any return at all and who are later on found to be liable to be assessed, (ii) those who have filed a true return but have not deposited the full amount of tax which they are liable to pay, and (iii) those who have filed a return making a wrong claim that either the whole or any part of the turnover is not taxable and who are subsequently found to have made a wrong claim, would be placed in the same position and they would all be liable to pay interest on the amount of tax which they are liable to pay but have not paid as required by subs.	None
+(2) of s. 7 of the Act.	Reasoning
+We are of opinion that this view is in conformity with the legislative intention in enacting s. 11B of the Act.	None
+Referring to the Constitution Bench judgment in the case of Ghasi Lal (supra), the learned Judge observes that the said decision was distinguishable because it related to the sustainability of the penalties imposed under s. 16(1) of the Act and not interest levied under s. 11B of the Act and secondly because s. 16(1)(b) was attracted when there was a failure to pay the tax due, an expression not employed by s. 11B of the Act.	None
+The learned Judge also points out that if ss. 7 and 11B are not interpreted in the manner indicated in the above quoted passage, (i) a registered dealer who does not file a return and pays no tax (ii) a registered dealer who files a true return but does not pay the full amount of tax and (iii) a registered dealer who files a return but wrongly claims either the whole or any part of the turnover as not taxable and pays under s. 7(2) only that much amount of tax as he considers payable on the basis of the return, will escape the net of s. 11B and render the provision either unworkable or meaningless and, therefore, it is essential, on a fair reading of s. 11B, to hold that the law expects that all those liable to pay tax should file a true return within the time allowed.	None
+The learned Judge concludes by saying we do not thinkwe have in any way disregarded the decision in Ghasi Lals case and emphasises we have to state that we depend upon Ghasi Lals case itself to hold that for the purpose of s. 11B(a) the tax becomes payable before assessment is made by virtue of s. 3 r w s. 5 and subss.	None
+(2) and (2A) of s. 7 of the Act and the rules framed thereunder, even though, it becomes due when return is filed under s. 7(2) or ascertained under s. 10.	None
+On this line of reasoning the majority upheld the demand made under s. 11B of the Act.	None
+Bhagwati, J. after referring to ss. 3, 7, 10, 11 and 11B of the Act, points out that s. 7(2) speaks of full amount of tax due on the basis of the return and adds We must look at the return actually filed by the assessee in order to see what is the full amount of tax due on the basis of such return.	None
+It is not the assessed tax nor is it the tax due on the basis of a return which ought to have been filed by the assessee but it is the tax due according to the return actually filed that is payable under subs.	None
+(2) of s. 7.	None
+This provision is really in the nature of selfassessment and what it requires is that whatever be the amount of tax due on the basis of self assessment must be paid up alongwith the filing of the return which constitutes selfassessment.	None
+I fail to see how the plain words of subs.	None
+(2) of s. 7 can be tortured to mean full amount of tax due on the basis of return which ought to have been filed but which has not been filed.	None
+Pointing out that the construction pressed by the Revenue leads to a serious anomaly, the learned Judge proceeds to observe If this construction were accepted, the tax payable under subs.	None
+(2) of s. 7 would be the full amount of tax due on the basis of a correct and proper return and that would necessarily be the same as the tax assessed by the assessing authority, because what is the correct and proper return would be determinable only with reference to the assessment ultimately made.	None
+The assessment when made would show whether the return filed was correct and proper it would be correct and proper if it accords with the assessment made if it does not accord with the assessment, then to the extent to which it differs it would obviously have to be regarded as incorrect and improper.	None
+The consequence of the construction suggested on behalf of the Revenue would thus be that the tax payable under subs.	None
+(2) of s. 7 would be the full amount of the tax as assessed, because that would represent the tax due on the basis of a correct and proper return and the assessee would have to deposit at the time of filing the return an amount equivalent to the amount of the tax as assessed.	None
+If the assessee failed to do so, then apart from the liability to pay interest under s. 11B, cl.	None
+(a), the assessee would expose himself to penalty under s. 16, subs.	None
+(1), cl.	None
+(n)The Legislature could never have intended that the assessee should be liable, on pain of imposition of penalty, to deposit an amount which is yet to be ascertained through assessment.	None
+The learned Judge then proceeds to state that if the construction canvassed by the Revenue is accepted it would lead to a conflict between two sections, in that, the assessee would be liable to pay interest on the completion of the assessment from the date of filing of the return till payment of the tax amount, while under s. 11B(b) the assessee would be liable to pay interest on the amount of the tax assessed after the expiry of the period specified in the notice of demand or thirty days from the date of service of the notice if no period is specified in the notice.	None
+Invoking the well settled rule of interpretation that a statute must be so construed as to avoid a conflict or repugnance between its different provisions, the learned Judge observes The only way in which cls.	None
+(a) and (b) of s. 11B can be read harmoniously and full meaning and effect can be given to them is by construing them as dealing with distinct matters or situations.	None
+The tax payable under subs.	None
+(2) of s. 7 dealt with in cl.	None
+(a) of s. 11B cannot, therefore, be equated with the amount of the tax assessed forming the subjectmatter of cl.	None
+(b) of s. 11B	Reasoning
+and, hence, it must be held to be tax due on the basis of the return actually filed by the assessee and not on the basis of a correct and proper return which ought to have been filed by him.	None
+Next, the learned Judge finds it difficult to understand how the tax which is yet to be ascertained through the process of assessment can be made payable by the assessee from the date of submission of the return.	None
+If it is so payable it is equally difficult to understand why it should bear interest from the date of filing of the return upto the date of assessment only and thereafter be free from the liability to bear interest upto the period specified in the notice of demand and if no such period is specified till the expiry of thirty days from the date of service of the notice.	None
+The learned Judge, therefore, concludes that the scheme of taxation under the Act clearly envisages that it is only when the assessment is made and the period specified in the notice of demand or thirty days, as the case may be, expires that the amount of tax as assessed becomes payable and if the same is not paid within the time allowed, the liability to pay interest thereon accrues.	None
+What becomes payable under s. 7(2) is only the tax due on the basis of the return actually filed, i.e., on the basis of self assessment and thereafter the difference in tax on assessment, if the tax assessed is more than the tax deposited on selfassessment.	None
+Lastly, the learned Judge holds that the decision rendered in the case of Ghasi Lal (supra) applies on all fours and in the face of the ratio laid down in that case it is impossible to accept the view point of the Revenue.	None
+With regard to the three instances mentioned by Venkataramiah, J. the learned Judge points out that in such cases penalty can be imposed under s. 16 of the Act.	None
+On this line of reasoning the learned Judge disagreed with the majority view.	None
+It is well known that when a statute levies a tax it does so by inserting a charging section by which a liability is created or fixed and then proceeds to provide the machinery to make the liability effective.	Reasoning
+It, therefore, provides the machinery for the assessment of the liability already fixed by the charging section, and then provides the mode for the recovery and collection of tax, including penal provisions meant to deal with defaulters.	Reasoning
+Provision is also made for charging interest on delayed payments, etc.	Reasoning
+Ordinarily the charging section which fixes the liability is strictly construed but that rule of strict construction is not extended to the machinery provisions which are construed like any other statute.	Reasoning
+The machinery provisions must, no doubt, be so construed as would effectuate the object and purpose of the statute and not defeat the same.	Reasoning
+See Whitney vs. IRC 1926 AC 37, CIT vs. Mahaliram Ramjidas Indian United Mills Ltd. vs. CEPT and Gursahai Saigal vs. CIT 1963 (3) SCR 893 .	Reasoning
+But it must also be realised that provision by which the authority is empowered to levy and collect interest, even if construed as forming part of the machinery provisions, is substantive law for the simple reason that in the absence of contract or usage interest can be levied under law and it cannot be recovered by way of damages for wrongful detention of the amount.	Reasoning
+See Bengal Nagpur Railway Co. Ltd. vs. Ruttanji Ramji and Union of India vs. A.L. Rallia Ram Our attention was, however, drawn by Mr. Sen to two cases.	Reasoning
+Even in those cases, CIT vs. M. Chandra Sekhar and Central Provinces Manganese Ore Co. Ltd. vs. CIT, all that the Court pointed out was that provision for charging interest was, it seems, introduced in order to compensate for the loss occasioned to the Revenue due to delay.	Reasoning
+But then interest was charged on the strength of a statutory provision, may be its objective was to compensate the Revenue for delay in payment of tax.	Reasoning
+But regardless of the reason which impelled the legislature to provide for charging interest, the Court must give that meaning to it as is conveyed by the language used and the purpose to be achieved.	Reasoning
+Therefore, any provision made in a statute for charging or levying interest on delayed payment of tax must be construed as a substantive law and not adjectival law.	Reasoning
+So construed and applying the normal rule of interpretation of statutes, we find, as pointed out by us earlier and by Bhagwati, J. in the Associated Cement	Reasoning
+Cos case, that if the Revenues contention is accepted it leads to conflicts and creates certain anomalies which could never have been intended by the legislature.8.	Reasoning
+Let us look at the question from a slightly different angle.	Reasoning
+Sec.	Reasoning
+7(1) enjoins on every dealer that he shall furnish prescribed returns for the prescribed period within the prescribed time to the assessing authority.	Reasoning
+By the proviso the time can be extended by not more than fifteen days.	Reasoning
+The requirement of s. 7(1) is undoubtedly a statutory requirement.	Reasoning
+The prescribed return must be accompanied by a receipt evidencing the deposit of full amount of tax due in the State Government on the basis of the return.	Reasoning
+That is the requirement of s. 7(2).	Reasoning
+Sec. 7(2A), no doubt, permits payment of tax at shorter intervals but the ultimate requirement is deposit of the full amount of tax due shown in the return.	Reasoning
+When s. 11B(a) uses the expression tax payable under subss.	None
+(2) and (2A) of s. 7, that must be understood in the context of the aforesaid expressions employed in the two subsections.	None
+Therefore, the expression tax payable under the said two subsections is the full amount of tax due and tax due is that amount which becomes due ex hypothesi on the turnover and taxable turnover shown in or based on the return.	None
+The word payable is a descriptive word, which ordinarily means that which must be paid or is due, or may be paid but its correct meaning can only be determined if the context in which it is used is kept in view.	Reasoning
+The word has been frequently understood to mean that which may, can or should be paid and is held equivalent to due.	Reasoning
+Therefore, the conjoint reading of ss. 7(1), (2) and (2A) and 11B of the Act leaves no room for doubt that the expression tax payable in s. 11B can only mean the full amount of tax which becomes due under subss.	Reasoning
+(2) and (2A) of the Act when assessed on the basis of the information regarding turnover and taxable turnover furnished or shown in the return.	None
+Therefore, so long as the assessee pays the tax which according to him is due on the basis of information supplied in the return filed by him, there would be no default on his part to meet his statutory obligation under s. 7 of the Act and, therefore, it would be difficult to hold that the tax payable by him is not paid to visit him with the liability to pay interest under cl.	Reasoning
+(a) of s.	Reasoning
+11B. It would be a different matter if the return is not approved by the authority but that is not the case here.	Reasoning
+It is difficult on the plain language of the section to hold that the law envisages the assessee to predicate the final assessment and expect him to pay the tax on that basis to avoid the liability to pay interest.	Reasoning
+That would be asking him to do the near impossible.	Reasoning
+The learned counsel for the Revenue placed strong reliance on the decision of this Court in Kesoram Industries Cotton Mills Ltd. vs. CWT.	Arguments of Respondent
+Reference was to the discussion on the third question, namely, whether the assessee owed a debt on the valuation day within the meaning of s. 2(m) to be deductible in computing the net wealth of the assessee.	Arguments of Respondent
+In that case the assessee had in the accounts for the year ending 31st March, 1957, shown a certain amount as provision for payment of incometax and super tax.	Reasoning
+The majority answered the question in the affirmative whereas the third learned Judge disagreed.	Reasoning
+In the view we are taking on the relevant provisions of the Act it is unnecessary for us to examine the merit or demerit of the rival views.10.	Reasoning
+In the result we are of the view	Reasoning
+that the majority opinion expressed by Venkataramiah, J. in the Associated Cement	Reasoning
+Cos case (supra) does not, with respect, state the law correctly and in our view the legal position was correctly stated by Bhagwati, J. in his minority judgment.	Reasoning
+We, therefore, overrule the majority view in that decision and affirm the minority view as laying down the correct law.	Decision
+We must make it clear to avoid any possibility of doubt in future that our view is based on the law as it stood before the amendments effected by Act 4 of 1979.	Decision
+Reference to the provisions of law after the amendments by Act 4 of 1979 are if at all for the limited purpose of comparison and we should not be understood to have expressed any view in regard to them.11.	Decision
+The appeals writ petitions are allowed and the amount of interest levied and collected from the appellants petitioners by virtue of s. 11B of the Act as well as Central Act shall be refunded to the appellants petitioners within three months from today with interest at 12 per annum from the date of actual recovery from the appellants till payment.	Decision
+There will, however, be no order as to costs in the facts and circumstances of the case.	Decision
+CMP No. 10857 of 1977 is disposed of.	Decision

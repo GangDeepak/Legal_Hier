@@ -1,0 +1,115 @@
+ Subba Rao, J. 1.	None
+The Incometax Appellate Tribunal Calcutta Bench, referred the following question under S. 66 (1) of the Indian Incometax Act, 1922, hereinafter called the Act, for the decision of the High Court of Calcutta Whether on the facts and in the circumstances of this case the sum of Rupees 27,06,593 was assessable as a profit of the assessee company of the previous year relevant to the assessment year 194950 in accordance with the fourth proviso to Section 10 (2)(vii) of the Indiantax Act.	Issue
+2.	None
+The facts leading up to the said reference may briefly be stated.	Facts
+Messrs Moon Mills Ltd., the respondent herein, hereafter referred to as the Company, is a joint stock limited company and it owns a factory at Bombay.	Facts
+On August 6, 1948, a fire broke out in the factory premises of the assessee resulting in the destruction of the stockintrade, machinery and buildings.	Facts
+The assets of the Company were covered by several insurance policies, issued by the General Assurance Society Ltd. in respect of (i) general specification policies, (ii) specific stock policies, and (iii) consequential loss policies, for an aggregate sum of Rs. 1,48,92,390.	Facts
+The Company received Rs. 65 lakhs from the insurance company in full settlement of its claim under the said policies.	Facts
+The said amount was received by the Company only on March 27, 1950.	Facts
+Out of the said amount the sum of Rs. 27,06,593 represented the loss in respect of the building and machinery  Rs. 4,24,205 in respect of the buildings and Rs. 22,82,388 in respect of the machinery.	Facts
+For the assessment year 194950, the Company did not include the said amount in its return as it was received by it only on March 27, 1950.	Facts
+The Incometax Officer, on the ground that the said amount became receivable by the Company on December 13, 1948 included the same in the taxable income of the assessee Company for the assessment year 194950.	Facts
+On appeal, the Appellate Assistant Commissioner came to the conclusion that the said amount could only be assessed to tax under the fourth proviso to Cl.(vii) of sub s. (2) of S. 10 of the Act when the Company actually received it.	Facts
+On appeal preferred by the Revenue against the said Order, the Incometax Appellate Tribunal agreed with that view.	Facts
+Thereafter, the Appellate Tribunal referred the aforesaid question to the High Court for its decision and the said Court upheld the view of the Appellate Tribunal.	Facts
+The Revenue on a certificate issued by the High Court has preferred the present appeal.	Facts
+3. Learned SolicitorGeneral, on behalf of the Revenue, contended that the Company maintained its accounts on mercantile basis and, therefore, the profits and gains of its business should, under S. 13 of the Act, be computed in accordance with the said method of accounting.	Arguments of Petitioner
+If so computed, the argument proceeded, the claim made by the Company for the said compensation amount having been finally accepted by the Insurance Company in its meeting held on December 13,1948, the Company acquired a right to receive the same on that date, with the result that it became a part of the taxable income of the Company during the accounting year.	Arguments of Petitioner
+4. Mr. A. V. Viswanatha Sastri, learned counsel for the Company, contended that there was a real distinction between the computation of profits on the principles of commercial accounting and the working out of the statutory allowances under S. 10 (2) of the Act while under the former when an assessee maintained the accounts on mercantile basis, irrespective of receipt or realization, profits must be computed on the accrual basis, under the third proviso to S. 10 (2) (vii) of the Act the compensation amount could be brought to tax only when it was actually received in terms of the said proviso.	Arguments of Respondent
+5.	None
+The solution to those two conflicting contentions depends upon a clear appreciation of the scope of S.13 and S. 10 (2) (vii) of the Act.	None
+They read Section 13.	None
+Income, profits and gains shall be computed, for the purposes of Ss. 10 and 12, in accordance with the method of accounting regularly employed by the assessee.	None
+Section 10.	None
+(1) The tax shall be payable by an assessee under the head Profits and gains of business, profession or vocation in respect of the profits or gains of any business, profession or vocation carried on by him.	None
+(2) Such profits or gains shall be computed after making the following allowances Section 13 ex facie is only concerned with the computation of the profits of the business on the principles of accountancy adopted by the assessee.	None
+It deals with commercial profits and not with assessable income.	None
+Though the commercial profit is the basis for ascertaining the taxable income, the latter can be arrived at only after making the statutory allowances provided under Section 10 (2) of the Act.	None
+In Gresham Life Assurance Society v. Styles (Surveyor of Taxes), (1892) 3 Tax Cas 185 at pp. 188, 194, the expression profits has been succinctly defined.	None
+Halsbury, L. C., said therein that the word profits, I think, is to be understood in its natural proper sense  in a sense which no commercial man would misunderstand.	None
+Lord Herschell observed When we speak of the profits and gains of a trader we mean that which he had made by his trading.	None
+This Court in Calcutta Co. Ltd. v. Commissioner of Incometax, West Bengal, (1959) 37 ITR 1 (AIR 1959 SC 1165 ), said much to the same effect when it said that the expression profits and gains is to be understood in its commercial sense.	None
+This Court in Keshao Mills Ltd. v. Commissioner of Incometax, Bombay, (1953) 23 ITR 230 at p. 239 (AIR 1953 SC 187 at p. 190), explained how in a commercial sense the profits and loss are ascertained.	None
+Dealing with two main systems of accounting, it observed The mercantile system of accounting or what is otherwise known as the double entry system is opposed to the cash system of book keeping under which a record is kept of actual cash receipts and actual cash payments, entries being made only when money is actually collected or disbursed.	None
+That system brings into credit what is due, immediately it becomes legally due and before it is actually received and it brings into debit expenditure the amount for which a legal liability has been incurred before it is actually disbursed.	None
+The profits or gains of the business which are thus credited are not realised but having been earned are treated as received though in fact there is nothing more than an accrual or arising of the profits at that stage.	None
+They are book profits Receipt being not the sole test of chargeability and profits and gains that have accrued or arisen being also liable to be charged for incometax the assessability of these profits which are thus credited in the books of account arises not because they are received but because they have accrued or arisen.	None
+It is, therefore, clear that profits have to be ascertained within the meaning of S. 13 of the Act on the basis of the system maintained by an assessee, whether mercantile, cash or any other system.	None
+6.	None
+In either system of accountancy, compensation paid by an insurance company in respect of loss of capital assets is not brought into account for ascertaining the profit and loss of the company.	None
+In Batlibois book on Advanced Accounting, 21st Edn., at p. 1062, an illustration is given to explain how the necessary entries will have to be made in the accounts in respect of claims under insurance arising from destruction of stock, fixtures, plant, building etc., as also claims relating to loss resulting from fire.	None
+It will be seen from illustration 207 that while the item of compensation received for stock destroyed or damaged is carried to profit and loss account the item relating to compensation received for loss by fire in respect of building and machinery is to be entered into building account and plant and machinery account.	None
+It is stated therein, being the loss of fixed assets represented by buildings and plant and machinery destroyed by fire, it is transferred to a special account.	None
+This example indicates that in commercial accountancy, while the compensation for loss incurred in respect of stock is an item of profit and loss account, that incurred in respect of building and machinery is outside it.	None
+It is so because what is destroyed is a capital asset.	None
+7. Section 10 (2) of the Act deals with statutory allowances as distinguished from deductions that will be made in commercial practice for ascertaining the profits of a business.	None
+The relevant part of Cl.	None
+(vii) of Section 10 (2) of the Act reads in respect of any such building, machinery or plant which has been sold or discarded or demolished or destroyed, the amount by which the written down value thereof exceeds the amount for which the building, machinery or plant, as the case may be is actually sold or its scrap value Provided further that where any insurance, salvage or compensation moneys are received in respect of any such building, machinery or plant which has been discarded or demolished or destroyed, and the amount of such moneys does not exceed the written down value, the amount allowable under this clause shall be the amount if any.	None
+by which the difference between the written down value and the scrap value exceeds the amount of such moneys Provided further that where any insurance, salvage or compensation moneys are received in respect of any such building, machinery or plant as aforesaid, and the amount of such moneys exceeds the difference between the written down value and the scrap value no amount shall be allowable under this clause and so much of the excess as does not exceed the difference between the original cost and the written down value less the scrap value shall be deemed to be profits of the previous year in which such moneys were received.	None
+8.	None
+Under this clause where any building, machinery or plant is discarded, demolished or destroyed, an allowance is given in respect of the amount by which the written down value of the said building, machinery or plant exceeds the amount for which it is sold or its scrap value, but the 4th proviso introduces a fiction that in case any insurance, salvage or compensation money received in respect of the said property exceeds the difference between the written down value and the scrap value, so much of the excess as mentioned therein will be deemed to the profits of the previous year in which such money is received.	None
+Though in fact the said compensation represents a capital asset, to the extent mentioned in the proviso the compensation is deemed to be the profits of the previous year in which such money is received.	None
+The proviso, therefore, introduces a fiction.	None
+What is not a profit in the previsous year is deemed to be a profit in that year.	None
+The previous year is that year in which such moneys were received.	None
+The fiction is an indivisible one.	None
+It cannot be enlarged by importing another fiction, namely, that if an amount was receivable during the previous year it must be deemed to have been received during that year.	None
+In dealing with the scope of the fiction in S. 10 (2) (vii), proviso 2, this Court in Commissioner of Incometax, Madras v. Ajax Products Ltd., 196555 ITR 741 at pp. 748,751 (AIR 1965 SC 1358 at pp. 13621363), observed Though the surplus contemplated by the proviso is not in the technical sense of the term profits of the previous year, it is deemed to be the profits of the previous year.	None
+9.	None
+The same idea is developed thus The fiction in the second proviso is limited one.	None
+The surplus is deemed to be the profits of the previous year.	None
+As we have pointed out earlier, it adequately serves the purpose of the section . . . . . . . . . .	None
+To sustain the argument of the revenue, it has to be enlarged in its scope.	None
+Many words have to be read into it which are not there.	None
+We cannot accept this argument.	None
+So too, in the instant case the fiction serves the purpose, if the said compensation was deemed to be the profits of previous year or of the year in which it was received.	None
+This fiction cannot be enlarged by giving the expression received a technical meaning which it may bear in the mercantile system of accountancy.	None
+10.	None
+Further, the various clauses in Section 10 (2) of the Act use different words for fixing the date of the realization of the income, such as, paid, sold, received etc.	None
+While the Legislature gave an extended meaning to the expression.	None
+paid in S 10 (5) of the Act, no definitions of the other expressions are given in the Act.	None
+Section 10 (5) of the Act says that in subs.	None
+(2) paid means actually paid or incurred according to the method of accounting upon the basis of which the profits or gains are computed under this section.	None
+If the concepts of mercantile system of accountancy were incorporated by implication in the various clauses of S. 10 (2), the definition of paid in Section 10 (5) would be redundant.	None
+We cannot attribute redundancy to the Legislature unless for compelling reasons.	None
+On the other hand, the definition of the expression paid is a clear indication that in the case of the other terms the Legislature intended to give those expressions their natural meanings.	None
+11.	None
+The distinction between the scope of commercial accountancy for the purpose of ascertaining the trading profits and that of the statutory allowances is brought out by this Court in Commissioner of Incometax, Bombay City v. Bipinchandra Maganlal and Co. Ltd., 196141 LTR 290 (AIR 1961 SC 1040 ).	None
+Shah, J., speaking for the Court, made the following observations There is no definable relation between the assessable income and the profits of a business concern in a commercial sense.	None
+Computation of income for purposes of assessment of incometax is based on a variety of artificial rules and takes into account several fictional receipts, deductions and allowances.	None
+If the contention advanced on behalf of the Revenue is accepted, this distinction is effaced.	None
+The decision of the House of Lords in Green (H. M. Inspector of Taxes) v. J. Gliksten and Son, Ltd., (1929) 14 Tax Cas 364 at p. 384, which is relied upon by the learned counsel for the Revenue, does not support his contention.	None
+There, the Companys timber, its stockintrade, was destroyed by fire.	None
+It received from the insurers a large sum of money as compensation towards the said loans.	None
+A part of the said amount was not entered in the profit and loss account but was shown as a reserve in the balance sheet.	None
+The House of Lords held that the whole sum recovered was a trading receipt to be taken into account in computing the profits assessable to incometax under Case 1 of Schedule D and to Corporation Profits Tax.	None
+In the context of those facts, Lord Buckmaster observed What has happened has been this, that the timber which the Appellants held has been converted into cash.	None
+It is quite true it has been converted into cash through the operation of the fire, which is no part of their trade, but loss due to it is protected through the usual trade insurance, and the timber has thus been realised.	None
+It is now represented by money, whereas formerly it was represented by wood.	None
+If this results in a gain, as it has done, it appears to me to be an ordinary gaina gain which has taken place in the course of their trade . . . .	None
+Viscount Dunedin puts the same idea in different words thus The whole point is that the business of the Company is to buy timber and to sell timber, and when they sell timber they turn it into money.	None
+This particular timber was turned into money, not because it was sold, but because it was burned and they had an insurance policy over it.	None
+The whole question comes to be whether that is a turnover in the ordinary course of their business.	None
+I think it was . . . . . . . .	None
+the result of this fire was that they got rid of so much timber and got the insurance money at that figure, and that seems to me precisely in the same position as if they got rid of it by giving it to a customer.	None
+Lord Warrington of Clyffe stated much to the same effect, though he emphasized the commercial method.	None
+He said . . . . .	None
+the normal commercial method of dealing with moneys recovered by a trader under a policy of insurance, in respect of stock destroyed by fire, was to include the actual amount received in the accounts as an ordinary trading receipt in the same way as the proceeds of an ordinary sale of stock.	None
+These observations were made in the context of destruction by fire of stockintrade.	None
+The House of Lords unanimously held that the compensation received was only a trading receipt, for it represented the timber which was part of the stockintrade lost by fire.	None
+Far from helping the Revenue, this decision brings out with clarity the distinction between loss by fire of stockintrade and of a capital asset.	None
+The compensation received from an insurance company towards the loss of capital asset does not represent profit in a commercial sense it was made a profit by fiction under the Act. 12.	None
+The legal position may be stated thus The profit and loss of a business concern is ascertained on commercial principles Section 13 of the Act, subject to the proviso, imposes a duty on the Revenue to compute the profits of a business in accordance with the methods of accounting adopted by an assessee under the said principles.	Reasoning
+But the concept of assessable income under the Act is different from profit and loss in a commercial sense.	Reasoning
+Though profit and loss ascertained under the system adopted by an assessee is the basis, the assessable income is arrived at by adopting rules, some artificial, incorporated in S. 10 (2) of the Act.	Reasoning
+Prima facie, the allowances, deductions and deemed profits shall be ascertained in terms of the statutory provisions, unless the statute itself accepts the principles of commercial accountancy in a particular case.	Reasoning
+13.	None
+In the present case, the compensation to the extent mentioned in the proviso received only in the accounting year was by fiction treated as profit.	Reasoning
+There is, therefore, no scope for holding that the expression received means receivable.	Reasoning
+14.	None
+For the aforesaid reasons, we hold that, as the compensation for the loss of machinery and buildings by fire was not actually received by the Company during the accounting year, the said amount could not be assessed during the assessment year.	Reasoning
+15.	None
+In the result, the appeal fails and is dismissed with costs.	Decision
+16.	None
+Appeal dismissed.	None

@@ -1,0 +1,59 @@
+ Imam,J.1.	None
+These petitions under Art. 32 of the Constitution of India question the validity of the notifications issued under S. 52A of the insurance Act of 1938 (hereinafter referred to as the Act) and the appointment of an Administrator.	Facts
+In the case of the Tropical Insurance Company Ltd. an Administrator was appointed under notification dated the 14th of July, 1951 and in the case of the Jupiter General Insurance Company Ltd., another Administrator was appointed under notification dated the 10th of July, 1951.These two insurance companies do insurance business of life insurance and general insurance.	Facts
+Admittedly previous to the appointment of the Administrators the Controller issued notices under S. 52A to the petitioners and the Finance Ministry of the Central Government sent letters to them pointing out the allegations in the report of the Controller to which they replied.2.	Facts
+The learned Counsel for the petitioners has candidly stated that he could not raise any constitutional point after the fourth amendment to the Constitution of India.	Arguments of Petitioner
+He assumed, therefore, that the provisions of Ss. 52A to 52G of the Act were constitutional but he urged that the notifications under S. 52A and the taking over of the management of the affairs of the companies were invalid inasmuch as they were in excess of the powers conferred by S. 52A of the Act and that the notifications appointing the Administrators do not fix the period of management as required by law.	Arguments of Petitioner
+He further urged that the provisions of the S. 52B of the Act had not been complied with and in consequence the management by the Administrator had been expressively prolonged and thus had become unlawful.	Arguments of Petitioner
+There has, therefore, been a violation of the fundamental rights of the petitioners.	Arguments of Petitioner
+Finally it was urged, that there was no authority either under the provisions of the Act or of any other law by which the Government was empowered to take over management of the affairs of the company with respect to its general insurance business.	Arguments of Petitioner
+The power of, the Government under S. 52A was restricted exclusively to life insurance business.3.	Arguments of Petitioner
+As to the first two contentions, they were urged in Petitions Nos. 94 of 1934 and 183 of 1954, but were not allowed to be put forward by this Court as these questions had not been specifically raised in the petitions under Article 32 of the Constitution and they were accordingly dismissed.	Arguments of Petitioner
+The position is similar in this respect so far as the present applications are concerned and consequentlyit must be held that the petitioners cannot be allowed now to urge grounds which they had not taken in their petitions.4.	Arguments of Petitioner
+There remains, however, to consider the last contention urged on behalf of the petitioners.	Arguments of Respondent
+It was pointed out by Mr. Isaacs that the petitioners are insurance companies doing both life insurance business and general insurance business.	Arguments of Respondent
+He contends that S. 32A of the Act, on a true interpretation of its provisions, applies only to life insurance business carried on by an insurer and not to the general insurance business done by him.	Arguments of Respondent
+The Administrator appointed under S. 52A of the Act could therefore take over management only of the life insurance business done by the insurer.	Arguments of Respondent
+The notifications authorising him to take over the management of the insurance business of the insurer including his general insurance business were thus beyond the powers conferred on Government under S. 32A of the Act and such taking over of the management of the general insurance business of the petitioners by the Administrator was, therefore, without lawful authority.5.	Arguments of Respondent
+In view of the submission made by the learned Counsel, it is necessary to set out the relevant provisions of the S. 32A. Subs.	None
+(1).	None
+of that section statesIf at any time the Controller has reason to believe that an insurer carrying on life insurance business is acting in a manner likely to be prejudicial to the interests of holders of life policies, he may, after giving such opportunity to the insurer to be heard as he thinks fit, make a report thereon to the Central Government.	Reasoning
+Subsection (2) states ,The Central Government, if it is of opinion after considering the report that it is necessary or proper to do so, may appoint an Administrator to manage the affairs of the insurer under the direction and control of the controller.	Reasoning
+Subsection (4) states The management of the business of the insurer shall as on and after the date of appointment of the Administrator vest in such Administrator, but except with the leave of the Controller the Administrator shall not issue any further policies.	None
+Section 52B of the Act is concerned with the powers and duties of the Administrator Under this section, the Administrator shall conduct the management of the business of the insurer with the greatest economy compatible with efficiency and shall, as soon as may be possible, fire with the controller a report staring what specified courses under the section should be taken which would be most advantageous to the general interest of the holders of life policies.	None
+One of the courses specified is the winding up of the business of the insurer.	None
+Section 52D of the Act is concerned with termination of the appointment of the Administrator.	None
+S. 53 of the Act is concerned with the winding up by the Court and it enables the Controller to apply to the court for winding up of an insurance company on certain grounds, one of them being that the continuance of the company would be prejudicial to the interests of the policy holders.6.	Reasoning
+Mr. Isaacs urged that the Act made a clear distinction between life insurance business and general insurance business of an insurer.	Arguments of Respondent
+He referred to various sections of the Act with reference to Registration, Separation of Accounts and Funds and Balance Sheets.	Arguments of Respondent
+It was also pointed out by him that the Act defines general insurance business and life insurance business and these two kinds of businesses are quite distinct.	Arguments of Respondent
+There could be little doubt that the Act does regard life insurance business as something distinct from general insurance business.	Arguments of Respondent
+It seems to us, however, that while keeping this distinction in mind, we have to give to the words used in S. 52A (1) their ordinary and natural meaning.	Reasoning
+Insurer has been defined in S. 2 of the Act.	Reasoning
+The definition speaks of an insurer carrying on an insurance business.	Reasoning
+This business may be either a life insurance business or a general insurance business or both.	Reasoning
+Under S. 7 of the Act deposits have to be made by every insurer other than an insurer specified in subcl.	Reasoning
+(c) of Cl.	Reasoning
+(9) of section2.	Reasoning
+The section specifies the amount of deposit to be made where the business done is life insurance only.	Reasoning
+Similarly it specifies the deposit to be made in the case of business done which comes within the description of general insurance business only.	Reasoning
+It also contemplates a combination of life insurance business and general insurance business and specifies the deposit to be made in such event.	Reasoning
+It is clear that S. 52A (1) does not apply to an insurer doing only general insurance business.	Reasoning
+The question for decision is does it apply to him when he also does along with such business life insurance business?	Reasoning
+S. 52A (1) speaks of an insurer carrying on life insurance business.	Reasoning
+It does not speak of only life insurance business.	Reasoning
+It is permissible for an insurer to combine in his insurance business both life and general insurance business.	Reasoning
+If he acts in a manner which is likely to be prejudicial to the interests of the holders of the life insurance policies with him, he makes himself amenable to the provisions of the S. 52A of the Act and the Controller is authorised to make a report to the Central Government.	Reasoning
+The Central Government, after considering the report, may appoint an Administrator to manage the affairs of the insurer and the management of the business of the insurer shall vest in the Administrator.	Reasoning
+The words the affairs and the business of the insurer are wide enough to empower the Central Government to take over the management of the entire business of the insurer including his general insurance business.	Reasoning
+To hold otherwise would be to give an unnatural meaning to the words used in S. 52A of the Act.	Reasoning
+In the present case the insurers are public limited companies and it is difficult to conceive that the Act intended to vest in the Administrator the management of only the life insurance business while the insurers would be free to manage the general insurance business, because under S. 52B the Administrator may suggest to the Controller for the winding up of the company after managing its insurance business economically and efficiently.	Reasoning
+Under S. 53 a Court may order a winding up of an insurance company if on an application by the Controller, it is satisfied that the continuance of the company is prejudicial to the interests of the policy holders.	Reasoning
+The winding up of the company would be concerned with its entire insurance business including life and general insurance business, because there could be no partial winding up of a company.	Reasoning
+It is not difficult to imagine that the affairs of the company with reference to its general insurance business may be in such a hopeless state that winding up may be the only course to be taken to protect the interests of the life policy holders.	Reasoning
+When the provisions of the Act are closely examined, it will be noticed that its main policy has been to safeguard the interests of life policy holders, who are deeply affected by the manner in which the insurance business of an insurer is carried on.	Reasoning
+We have no difficulty in interpreting S. 52A (1) to mean that where an insurer is carrying on insurance business of various kinds which includes life insurance business, he becomes amenable to the provisions of section 52A, if he is acting in a manner prejudicial to the interests of the holders of life policies and he would have to suffer the consequences following the report made by the Controller and the appointment of an Administrator by the Government.	Reasoning
+The provisions in the Act making a distinction between life insurance business and general insurance business, the keeping of separate accounts and balancesheets have been enacted for the safeguard of the holders of life insurance policies and they provide an overall picture of the business done by the insurer showing the exact state of affairs concerning the life insurance business of the insurer.	Reasoning
+These provisions cannot and do not affect the provisions of S. 52A of the Act.7.	Reasoning
+These petitions are accordingly dismissed with costs to be paid by Petitioners 2, 3 and 4 in Petition No. 186 of 1954 and Petitioners 2 and 3 in Petition No. 195 of 1954.8.	Decision
+Petitions dismissed.	None

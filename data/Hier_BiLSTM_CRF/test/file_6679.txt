@@ -1,0 +1,137 @@
+ S. Patel, J. 1.
+In a period of only four weeks, this is the third case in which the mandatory efiling protocol at the Registrar of Companies (RoC) has been illegally used to effect what is nothing less than a complete corporate hijacking.
+In DDPL Global Infrastructure Private Limited V Alok Mishra Ors.
+,1 I had set out the modus operandi being used by certain fraudsters to obtain false digital signatures and to then use these digital signatures to access the RoCs database in respect of selected companies, and thus effect illicit share transfers, purport to record minutes of bogus and illegal general meetings, reconstitute the entire board of the victim company, and, in sum and substance, to effect a clandestine and illicit takeover of an entire company.
+I said then that what I had before me was perhaps the tip of the iceberg, but I did not then imagine that within a month I should have before me yet another instance of this criminality, one that potentially threatens the entire corporate sector.
+As the facts that follow show, not a single corporate entity in any sector is today safe from these marauders.
+Prescience is a dismal thing.
+All of this is entirely because of slipshod, illconceived, illinformed and indifferent approaches to digital security.
+2.
+The 1st Plaintiff is a very old company.
+It was incorporated on 27th February 1923.
+The initial subscribers to its Memorandum of Articles and first shareholders were one Maneklal and his wife SaubhagyaLuxmi.
+Their children, the Sheth family, have always held shares in this company.
+3.
+On 10th December 1934, Maneklal acquired a substantial property in Bandra admeasuring about 13,233 sq.mts.
+for and on behalf of the 1st Plaintiff.
+4.
+Over time, as the previous generation passed on, other members of the Sheth family were appointed to the 1st Plaintiffs board.
+By 1954, the father of Plaintiffs Nos. 2 and 3, and a son of Maneklal, was a director of the 1st Plaintiff.
+5.
+There seems to be a little doubt that for a long period of time, the 1st Plaintiffs affairs appear to have been somewhat neglected.
+In 1961, the 1st Plaintiffs name was struck off by the RoC, and this was restored only several years later in 1976.
+In the meantime, the Bandra property was developed and shares in the 1st Plaintiff held internally in the Sheth family were transferred within that family.
+6.
+In 1977, the 2nd Plaintiff was appointed a director of the company.
+The 3rd Plaintiffs appointment followed in April 1982.
+The property in Bandra was, by that time, partly tenanted.
+The company entered into some arrangements in respect of part of this property for its redevelopment and also filed proceedings against others who claimed some rights or interest in parts of it.
+At different times public notices were issued in which the 1st Plaintiff asserted its right to this property.
+These notices met with no opposition.
+7.
+By 1995, the situation was that one RajendrakumarManeklalSheth along with Plaintiffs Nos. 2 and 3 were the existing directors of the 1st Plaintiff.
+Between them, the three held the entire equity share capital of the 1st Plaintiff.
+8.
+Between 1996 and 2003, there were various litigations in respect of the portions of the property, as also applications, amended periodically, for its development.
+9.
+From 2006 onwards, an amendment to the Companies Act, 1956 required all filings with the RoC to be in electronic form.
+Companies were required to obtain a CIN or Corporate Identity Number, and Directors were required to obtain a corresponding Directors Identification Number (DIN).
+For the purpose of this efiling, digital signatures were required to be obtained in the manner prescribed by the Information Technology Act, 2000 and the Rules made under it.
+10.
+On 9th February 2007, Rajendrakumar (then one of the 1st Plaintiffs directors) was issued a unique DIN.
+In 2007, the 1st Plaintiff received notices that it had not filed returns from 19961997 till 20052006 and these notices were addressed to the company and its directors, i.e., Rajendrakumar and Plaintiffs Nos. 2 and 3. 11.
+Rajendrakumar passed away on 9th April 2010.
+Plaintiffs Nos. 2 and 3 acquired his entire shareholding and thus became the only two directors and shareholders of the 1st Plaintiff company.
+From 2009 till date, they have been operating the companys bank accounts, receiving rents from the tenants of the Bandra property and paying all the property taxes.
+12.
+Early this year in January 2015, Plaintiff No. 3 was informed that the 1st Defendant, a complete stranger to the entire enterprise, had been spreading the word in the market that he had acquired the 1st Plaintiffs Bandra property.
+The 1st Defendant apparently had a draft agreement with him allegedly with the 1st Plaintiff company.
+This draft agreement showed the address of the 1st Plaintiff at Sakinaka, Andheri (East) instead of Dahanukar Building, Kalbadevi, Mumbai400 003 where the 1st Plaintiff has had its registered office for decades.
+Understandably concerned by this, the Plaintiffs through the Company Secretary had the RoC records and website checked.
+It was then that they found that since December 2014, records had been uploaded to the RoCs website by which the Defendants Nos. 4, 5 and 7 claimed to have acquired the entire equity shareholding in Plaintiff No. 1 from Plaintiffs Nos. 2 and 3.
+This fraudulent record also purported to show Defendants Nos. 1, 4, 5 and 6 as directors of the company and a shift in the registered office of the company from Kalbadevi first to Kandivli (West) and thereafter to Andheri (East).
+All of these documents appear to have been uploaded at more or less the same time in December 2014.
+These uploads, the Plaintiffs found, were accompanied by several false and fraudulent affidavits including, astonishingly, an affidavit supposedly affirmed by RajendrakumarSheth on 5th December 2014, despite him having passed away four years earlier on 9th April 2010.
+The records also showed a fraudulent digital signature certificate having been issued to the deceased RajendrakumarSheth and showed him as a present director.
+13.
+The Plaintiffs immediately lodged complaints to various investigative authorities and the RO.
+They themselves conducted further investigations.
+These show that Defendants Nos. 1 to 7 have filed several forged and fabricated documents digitally with the RoC. Particulars of these forgeries are set out in paragraphs 36 and 42 of the Plaint.
+In the latter, paragraph 42, the Plaintiffs have set out the four categories in which these fabricated documents appear to fall.
+These forgeries are exfacie apparent misspelled names and addresses, no attestations, the inclusion of fictitious names, forged signatures, and more.
+These documents include forms purporting to appoint Defendants Nos. 1 to 6 as the 1st Plaintiffs directors, six fraudulent annual reports for the period from 20062007 to 20132014 along with their annexures, purported changes in the 1st Plaintiffs registered address, fake share certificates, and so forth.
+14.
+Defendants Nos. 2 and 3 are themselves limited companies.
+It emerges that the police and law enforcement agencies have raided the premises of the group to which Defendants Nos. 2 and 3 belong to arrest Defendant No. 1, a person who is, not surprisingly, absconding.
+There have been several other complaints in this regard as well in the media.
+The Plaintiffs have initiated criminal proceedings and the RoC itself has taken steps.
+15.
+Mr. Doctor, learned Senior Counsel on behalf of the Plaintiffs, tenders an affidavit proving service of the plaint and the Notice of Motion on Defendants Nos. 1, 2, 3, 6, 9, 10, 12, 13, 14 and 15.
+Other than Defendants Nos. 14 and 15, namely, eMudhra Consumer Services Limited and the Registrar of Companies, none of the other Defendants have appeared in Court.
+Even had they been here, it is difficult to comprehend what they could possibly have to say in a matter like this.
+16.
+The fact that this is the third such case in less than a month in itself should alert the Ministry of Corporate Affairs and the Registrar of Companies to the clear and present danger posed by the present efiling practices, requirements and protocols to the entire corporate sector.
+I do not think that it is too extreme a suggestion that no company in India today is safe from these hijacking and piracy attempts.
+17.
+I do not think that going after the perpetrators in case after case is any kind of a solution at all.
+Learned Advocate on behalf of Defendant No. 14, eMudhra Consumer Services Limited, a subsidiary of 3I Infotech Limited, connected with ICICI Bank Limited, submits that eMudhra is only one of various agencies authorised to issue digital signatures.
+It does so in accordance with the norms stipulated by the Controlling Authority under the Information Technology Act, 2000.
+He is at some pains to point out that on the one hand eMudhra is required to issue digital signatures, and on the other hand it is required to follow protocols that may in themselves be inadequate.
+Service providers such as eMudhra are not given the latitude to insist on further or additional security measures.
+It is, he submits, not possible to do more than ask for photo identity and proof of address.
+This is the requirement for Applicants in ClassII, i.e., for individuals.
+There are separate requirements for corporates.
+He states that eMudhra will readily welcome a new set of protocols to ensure accuracy and safety in issuance of digital signatures.
+This is clearly something for the Ministry of Corporate Affairs and the Ministry of Information Technology to take up on a priority basis.
+18.
+While I am for a moment requesting that a copy of this order and my previous order in DDPL Global Infrastructures Private Limited be sent to the Secretaries of both Ministries, I am doing so as a matter of courtesy.
+This should not be assumed to mean that the Court will not take any follow up action, or that it will accept continued inaction for either or both ministries.
+I do not think that it is unreasonable to expect both Ministries to respond in both these matters within a period of twelve weeks from today with the steps that they intend to take to address this problem.
+19.
+To my mind, the RoC is as much a victim as the Plaintiffs.
+It is required to accept and accept only efiling.
+At the same time, necessary additional layers of security that should apply to a sensitive and important portal and interface such as the RoCs have not been mandated by the Ministry.
+The reasons are unclear.
+I do not think that it is possible any longer to persist with these delusions that because certain matters are digital they are, by definition, secure, or that those who use digital technology are all necessarily honest.
+All the evidence before me is to the contrary.
+Emphasising digital technologies for their speed and convenience is one thing.
+Certainly these technologies have their benefits.
+But to not put in sufficient safeguards, checks and balances against their abuse is a reckless endangerment of the public interest.
+Digitization is not an end in itself.
+Digital signatures are being used even in Courts, including our own Supreme Court.
+The need for security in these matters cannot be overemphasized.
+20.
+As I said, there have been before me in just one month three cases of corporate hijackings related to misuse of digital signatures.
+It seems that obtaining a fake digital signature is utterly trivial and the existing protocols are unable to prevent this.
+They are also unable to prevent the use of these fake digital signatures on the RoC portal, given the ease with which all this has been done.
+But for the sheerest serendipity, all three of these frauds would have gone undetected.
+At a minimum, the RoC and the Ministries must immediately issue an advisory to all corporates to check their uploaded data and confirm correctness by a specified date.
+These three cases tell us one thing there is a storm coming, and unless the Ministries of Corporate Affairs and of Information Technology batten these digital security hatches immediately, there will be a catastrophe.
+Every effort must be made to avert that scenario.
+It will not do to retrofit necessary security protocols after the event.
+21.
+In the present matter, the following directions are passed (a) There will be an adinterim order in terms of prayer clause (a)(i) and (a)(ii) of this Notice of Motion.
+(b) All documents uploaded to the RoC website by Defendants Nos. 1 to 13, irrespective of the nature of these documents, the matters to which they relate and when they were uploaded are to be taken down immediately.
+(c) On or before 7th May 2015, the Plaintiffs will furnish to the Registrar of Companies a list of the names of persons authorised to act with digital signatures on the ROC portal for and on behalf of the 1st Plaintiff Company along with their residential addresses, photocopies of their passports attested by the Advocates for the Plaintiffs showing residential proof, their registered mobile numbers and corporate email addresses.
+It is clarified that this list may include not only the Plaintiffs Nos. 2 and 3 but one or more employees or consultants engaged by the 1st Plaintiff.
+That list will also be placed on affidavit by the Plaintiffs in this Court.
+(d) On receipt of these particulars, the RoC will ensure that it is only these persons who will be allowed to access the RoC website for the records of Plaintiff No. 1 company.
+(e) Till further orders, the RoC will not, without leave of the Court, register a charge on any of the assets of the 1st Plaintiff company, permit any change in the registered office of the Company, any change in the shareholding of Plaintiffs Nos. 2 and 3 or any change in the Board of Directors of the 1st Plaintiff Company except after physical verification of physical hard copy records and after personal confirmation (not by email or on the telephone) by at least two of the persons whose names are in the list mentioned in clause (c) above.
+For that purpose, the Plaintiffs are at liberty to make an application to the Court by way of a fresh Notice of Motion, if necessary.
+(f) Further in order to establish not only of their credentials but also to ensure that ongoing investigations proceed smoothly, the Plaintiffs will, on or before 7th May 2015, deposit with the Prothonotary Senior Master the original register of members and original physical share certificates in respect of the entire equity holding of the 1st Plaintiff company.
+These documents will be retained by the Prothonotary Senior Master in safe custody and will not be accessed by any person or Advocate without leave of the Court.
+As and when these documents are required either for filing purpose or for use in any other proceedings, the Plaintiffs are at liberty to apply to Court.
+22.
+All Affidavits in Reply to be filed and served on or before 12th June 2015.
+The RoC and eMudhra will by that date set out on affidavit the specific protocols currently being used by them.
+The RoC will, in consultation with the Ministries of Corporate Affairs and Information Technology, also set out on affidavit the proposed additional layers of security proposed to be instituted for the RoC portal and for the issuance of digital signatures.
+23.
+Affidavits in Rejoinder, if any, to be filed and served on or before 26th June 2015.
+24. List the Notice of Motion for hearing and final disposal on 30th June 2015.
+25.
+An authenticated copy of this order is to be forwarded by the Company Registrar to the Honble the Chief Justice for his consideration as to whether this matter should be taken up as a suomotu PIL.
+A copy is also to be placed for information before the Honble Judge taking company matters.
+Authenticated copies are to be forwarded by the Company Registrar to the Learned Additional Solicitor General and to the Secretaries of the Union Ministries of Corporate Affairs and Information Technology, as also to the Secretaries of the corresponding State Ministries.
+26.
+Liberty to the parties to apply.
+1 Notice of Motion (L) No. 8087 of 2015 in Suit (L) No. 255 of 2015, decided on 20th March 2015

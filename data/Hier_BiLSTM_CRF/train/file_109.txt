@@ -1,0 +1,480 @@
+ 	Facts
+This Court passed judgment and order in C.A. Nos.63286399 of 2015 Union of India v. Association of Unified Telecom Service Providers of India and other civil appeals decided by a common judgment and order dated 24.10.2019.	Facts
+The Court decided regarding the definition of the AGR and dues to be paid thereunder.	Facts
+The concept of AGR arose in the light of the provisions contained in the policy framed by the Government of India and the provisions of the Indian Telegraph Act.	Facts
+Under section 4(1) of the Telegraph Act, the Central Government has the exclusive privilege of establishing, maintaining, and working telegraphs.	Facts
+Section 4 of the Telegraph Act enables the Central Government to part with the exclusive privilege in favour of any other person by granting a licence on such conditions and considering such terms as it thinks fit.	Facts
+The licence issued under section 4(1) becomes a contract between a licensor and a licensee.	Facts
+This Court considered the provisions of the Telegraph Act in AUSPI (I) matter (2011) 10 SCC 543 in this very case, thus A bare perusal of subsection (1) of Section 4 of the Telegraph Act shows that the Central Government has the exclusive privilege of establishing, maintaining and working telegraphs.	None
+This would mean that only the Central Government, and no other person, has the right to carry on telecommunication activities.	Facts
+x x x The proviso to subsection (1) of Section 4 of the Telegraph Act, however, enables the Central Government to part with this exclusive privilege in favour of any other person by granting a licence in his favour on such conditions and in consideration of such payments as it thinks fit.	Facts
+As the Central Government owns the exclusive privilege of carrying on telecommunication activities and as the Central Government alone has the right to part with this privilege in favour of any person by granting a licence in his favour on such conditions and in consideration of such terms as it thinks fit, a licence granted under the proviso to subsection (1) of Section 4 of the Telegraph Act is in the nature of a contract between the Central Government and the licensee.	Facts
+A Constitution Bench of this Court in State of Punjab v. Devans Modern Breweries Ltd., (2004) 11 SCC 26 , relying on Har Shankar case, (1975) 1 SCC 737 and Panna Lal v. State of Rajasthan, (1975) 2 SCC 633 , has held in para 121 at p. 106 that issuance of liquor licence constitutes a contract between the parties.	Facts
+Thus, once a licence is issued under the proviso to subsection (1) of Section 4 of the Telegraph Act, the licence becomes a contract between the licensor and the licensee.	Facts
+Consequently, the terms and conditions of the licence including the definition of adjusted gross revenue in the licence agreement are part of a contract between the licensor and the licensee.	Facts
+We have to, however, consider whether the enactment of the TRAI Act in 1997 has in any way affected the exclusive privilege of the Central Government in respect of the telecommunication activities and altered the contractual nature of the licence granted to the licensee under the proviso to subsection (1) of Section 4 of the Telegraph Act.	Facts
+Section 2(e) of the TRAI Act quoted above defines licensee to mean any person licensed under subsection (1) of Section 4 of the Telegraph Act for providing specified public telecommunication services and Section 2(ea) defines licensor to mean the Central Government or the telegraph authority who grants a licence under Section 4 of the Telegraph Act.	Facts
+Subsection 2(k) defines telecommunication service very widely so as to include all kinds of telecommunication activities.	Facts
+These provisions under the TRAI Act do not affect the exclusive privilege of the Central Government to carry on telecommunication activities nor do they alter the contractual nature of the licence granted under the proviso to subsection (1) of Section 4 of the Telegraph Act.	Facts
+(emphasis supplied) During consideration of the matter, concerning the M.A. filed by the Union of India for extension of time to make the payment, it was pointed out that several telecom service providers were under insolvency proceedings under The Insolvency and Bankruptcy Code, 2016 (for short the Code).	Facts
+This Court passed an order on 20.7.2020, and the same is extracted hereunder We have heard the learned counsel appearing for the parties at length with respect to the prayer made by the Central Government and the time frame for making the payment as per the order passed by this Court.	Facts
+During course of hearing, again an attempt was made to wriggle out of our judgment and orders, which were passed by this Court under the guise of reassessment and recalculation.	Facts
+That is not at all permissible.	Facts
+In view of decision, there is no scope of raising any further dispute with respect to any item or to raise fresh dispute.	Facts
+No dispute can be raised with respect to dues and they have to be paid.	Facts
+New round of litigation is prohibited.	Facts
+In the second inning, we have heard the same after remand of the issues to the TDSAT.	Facts
+Thereafter, there is no question of entertaining any kind of dispute with respect to the payment and dues worked out.	Facts
+No dispute shall be entertained.	Facts
+The calculations which have been given and the amount to be recovered at pages 180181 of M.A.D. No. 9887 of 2020 (application for modification) in C.A. No. 63286399 of 2015 are taken to be as final amount and there can be no dispute raised about it.	Facts
+No recalculation and selfassessment can be undertaken.	Facts
+The calculations are as under  AMOUNTS RECOVERABLE FROM MAJOR TSPs AS PER PRILIMINARY ASSESSMENTS Table TSPs under	Facts
+Insolvency Table Note Total Demands are inclusive of Principal, Interest, Penalty and Interest on Penalty.	None
+Total Demands have been calculated generally up to FY 201617.	Facts
+On these outstanding amounts, Interest Penalty Interest on Penalty is calculated up to October, 2019.	Facts
+All dues are subject to further revisions due to departmental assessments, CAG audits, Special Audits, Court Cases etc.	Facts
+However, when we consider the dues of Telecom Service Providers under insolvency, we find that there are several companies which have dues to the extent of Rs.	Facts
+38,964.27 crores, which have gone under liquidation.	Facts
+Since the dues are huge, we propose to examine the bonafides of the initiation of the proceedings under the IBC.	Facts
+Let all the documents of the companies viz.	Facts
+Aircel Group of Companies, Reliance Communication Reliance Telecom Limited, Sistema Shyam Teleservices Ltd. and Videocon Telecommunications Ltd. relating to liquidation and orders passed in proceedings be placed on record within 10 days from today.	Facts
+We have closed the matter with respect to the prayer made for making the payment in installments and the offer made by the Government, the time frame thereto and how to secure the amount.	Facts
+The order is reserved on that aspect.	Facts
+However, we will hear the matter separately with respect to the companies under liquidation and test the bonafides of their action and how to ensure that the amount is recovered.	Facts
+Let all the documents be placed on record within 10 days from today and the matter be listed for hearing about these companies on the above aspect on 10.08.2020.	None
+Written submissions and the reply, if any, be filed on or before 07.08.2020.	None
+This Court wanted to examine the bona fides of the telecom service providers who have resorted to the process of insolvency, hence, invited them to file their response.	None
+Before the initiation of insolvency proceedings, most of the telecom service providers who are under the insolvency proceedings had applied to the Department of Telecommunications to grant permission for trading of licence.	Facts
+The Central Government objected on the ground that it would not be possible for it to grant permission.	Facts
+It declined the permission.	Facts
+There were huge arrears concerning the spectrum licence, which were required to be paid, as a precondition to such permission.	Facts
+Various sharing arrangements made inter se telecom service providers with respect to the spectrum also came to the fore.	Facts
+The Union of India, Department of Telecommunications stand is that the spectrum cannot be the subjectmatter of the IBC proceedings in view of the provisions in sections 14 and 18.	Arguments of Petitioner
+The dues under the licence towards the spectrums use cannot be put in the category of operational dues.	Arguments of Petitioner
+In contrast, the Department of Commerce holds the opinion that the dues under the licence are operational dues, and the provisions of the IBC are applicable.	Arguments of Respondent
+The Department of Telecommunications also pointed out that as per guideline Nos.10, 11, and 12 of the Guidelines relating to the trading of 2015, it is a pre condition of trading licence that the seller pays dues of licence arrears.	Arguments of Respondent
+After that, the purchaser has to pay arrears as provided in paras 10, 11, and 12 of the guidelines.	Arguments of Respondent
+The telecom service providers stand is that the proceedings of insolvency under the Code have been triggered bona fide.	Arguments of Respondent
+This Court can examine the limited question in these proceedings whether the proceedings are resorted to as a subterfuge to avoid payment of AGR dues, and it is for the NCLT to decide whether the licence spectrum can be transferred and be a part of the resolution process initiated under the provisions of the Code.	Reasoning
+Whether spectrum licence can be subjected to resolution process as an asset belonging to the telecom service providers, and whether the AGR dues are operational dues and have to be dealt with under the provisions of the IBC by NCLT.	Reasoning
+With respect to the trading and sharing arrangement to the extent of spectrum traded or shared by different service providers under the sharing arrangement, the liability as per the guidelines, has to be borne by the respective telecom service providers.	Reasoning
+As per the statutory guidelines issued by the Department of Telecommunications in 2015, spectrum sharing allows the operators to pool their respective spectrum for usage in a specific geographical area.	Reasoning
+The Central Government framed spectrum sharing guidelines on 24.9.2015.	Reasoning
+The details of sharing arrangement between different telecom service providers have been given.	None
+The spectrum trading allows parties to transfer their rights and obligations to another party.	Reasoning
+In the case of spectrum sharing, the right to use spectrum remains with the respective telecom service providers, whereas in the case of spectrum trading, the right to use gets transferred from the buyer to the seller.	Reasoning
+Under spectrum trading guidelines, details of transactions which have taken place, are given.	Reasoning
+Another aspect is that how much time is to be provided to the telecom service providers to pay AGR dues.	Issue
+The Union of India on the representation made by the telecom service providers and Indian Banks Association, has decided to provide the facility of making payment in instalments within 20 years.	Facts
+The following three questions arise for consideration Whether spectrum can be subjected to proceedings under the Code?	Issue
+In the case of sharing, how the payment is to be made by the Telecom Service Provider (for short, TSP)?	Issue
+and In the case of trading, how the liability of the seller and buyer is to be determined?	Issue
+In Re.	None
+Whether spectrum can be subjected to proceedings under the Code?	Issue
+11.	Arguments of Petitioner
+Shri Tushar Mehta, learned Solicitor General of India on behalf of Government of India, argued as under (i) Section 4 of the Indian Telegraph Act, 1885, provides that the Central Government has the exclusive privilege of establishing, maintaining, and working telegraphs.	Arguments of Petitioner
+The DoT grants licences which are in the form of contractual arrangements.	Arguments of Petitioner
+The TSPs are bound by the terms and conditions contained therein.	Arguments of Petitioner
+As per the contractual terms, the licence is strictly contingent upon fulfilment of the terms and conditions, the payment being first and foremost.	Arguments of Petitioner
+On failure of payment, the licensor is entitled to take action under the Licence Agreement, including revocation and termination.	Arguments of Petitioner
+(ii) The spectrum is a scarce recognised natural resource, and this Court in 2G judgment C.A.No.423 of 2010 held that the natural resources belong to the people and cannot be subjected to proceedings under the Code.	Arguments of Petitioner
+The State acts as a guardian and trustee of the natural resources.	Arguments of Petitioner
+(iii) The licensee does not own the spectrum and has merely been granted a right to use, which is based on fulfilment of the conditions of the contract in the form of a Licence Agreement.	Arguments of Petitioner
+Thus, the spectrum cannot be subjected to transfer in proceedings under the Code as the licensee is not the owner.	Arguments of Petitioner
+Section 18(f), along with its Explanation (a), mandates that only the corporate debtors assets can be taken into control and custody by the resolution professionals, which is in the ownership of the corporate debtor.	Arguments of Petitioner
+Explanation to Section 18 provides that assets owned by a third party in possession of the corporate debtor or held under contractual arrangements are not included in the term assets for the purpose of Section 18.	Arguments of Petitioner
+It is not an asset for Section 18.	Arguments of Petitioner
+The spectrum held under a contractual arrangement is not an asset of the corporate debtor.	Arguments of Petitioner
+The spectrum cannot be a subject matter of proceedings under the Code.	Arguments of Petitioner
+The resolution professional has no jurisdiction to prepare a resolution plan as per Guidelines for Trading of Access Spectrum by Access Services Providers (for short, the Guidelines of 2015) issued on 12.10.2015.	Arguments of Petitioner
+(iv) Guideline No.10 provides that for trading of right to use the spectrum, both the licensees shall give an undertaking that they are in compliance with the terms and conditions of the Guidelines for spectrum trading that is seller and buyer both.	Arguments of Petitioner
+In case terms and conditions for spectrum trading are not fulfilled, the Government will have the right to take appropriate action including annulment of trading arrangement.	Arguments of Petitioner
+(v) As per Guideline Nos. 11 and 12 of the Guidelines of 2015, the seller has to clear the dues.	Arguments of Petitioner
+After the trading date, the Government has the discretion to recover the amount from the seller or buyer, jointly or severally.	Arguments of Petitioner
+(vi)	Arguments of Petitioner
+The permission was sought to trade the licence however, the Government of India, DoT, declined it because arrears have to be paid, and other conditions were not fulfilled.	Arguments of Petitioner
+After that, insolvency proceedings were initiated, which were not permissible concerning the spectrum given provisions contained in Section 18 of the Code.	Arguments of Petitioner
+(vii) National Company Law Tribunal (for short, the NCLT), Mumbai vide order dated 27.11.2019, held that licence is an asset of State over which the corporate debtor has no right of ownership.	Arguments of Petitioner
+The above argument of the State Government was accepted however, in view of the provisions contained in Section 14 on moratorium being created, the licence could not be revoked.	Arguments of Petitioner
+An appeal was filed before the National Company Law Appellate Tribunal (for short, the NCLAT) against the order mentioned above, which was dismissed on the ground of limitation.	Arguments of Petitioner
+An appeal has been filed in relation to the revocation of licence, which is pending in this Court registered as Diary No.15564 of 2020.	Arguments of Petitioner
+(viii)	Arguments of Petitioner
+The licence under Section 4 of the Indian Telegraph Act, 1885, was granted on certain terms and conditions.	Arguments of Petitioner
+The spectrum did not construe property as defined in Section 3(27) of the Code.	Arguments of Petitioner
+(ix) Concerning public trust doctrine, reliance has been placed on Centre for Public Interest Litigation and Ors.	Arguments of Petitioner
+v. Union of India and Ors.	Arguments of Petitioner
+(2012) 3 SCC 1 , in which it was held that natural resources must always be used in the countrys interests, not private interests.	Arguments of Petitioner
+The corporate debtor can never be said to be in occupation of either the licence or spectrum as per Section 14(1)(d) of the Code.	Arguments of Petitioner
+Any dispute is to be settled under the provisions of Telecom Regulatory Authority of India Act, 1997 by the Telecom Disputes Settlement and Appellant Tribunal.	Arguments of Petitioner
+(x) Reliance has been placed on M s. Embassy Property Development Pvt. Ltd. v. State of Karnataka C.A.No.9170 of 2019, in which this Court held that the Code would not apply to right to mine as exclusive possession had not been granted to the corporate debtor and grant was limited to right to mine, excavate and recover iron ore and red oxide for a specified period.	Arguments of Petitioner
+It was further held that the right not to be dispossessed found in Section 14(1)(d) of the Code would have nothing to do with the rights conferred by a mining lease, especially on a Government land.	Arguments of Petitioner
+(xi) In Ram Dass v. Davinder, (2004) 3 SCC 684 , it was held that possession amounts to holding property as an owner, while occupy is to keep possession by being present in it.	Arguments of Petitioner
+Spectrum is not capable of being in possession of licensee neither in the eye of law they can be said to be in possession.	Arguments of Petitioner
+(xii)	Arguments of Petitioner
+As per Regulation 32 of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016, the spectrum agreement cannot be held to be essential goods or services under Section 14(2) of the Code.	Arguments of Petitioner
+Similarly, it cannot be subjected to proceedings under Section 18 of the Code.	Arguments of Petitioner
+In the resolution plan, selling the right to use the spectrum to some other company could not have been made.	Arguments of Petitioner
+A corporate debtor cannot create any third party right in any manner whatsoever.	Arguments of Petitioner
+Against the order dated 9.6.2020 passed by the NCLT approving the resolution plan of UVARC, DoT has filed a petition before the NCLAT relating to Aircel Group.	Arguments of Petitioner
+Guidelines are statutory and binding.	Arguments of Petitioner
+Aircel Licensee has defaulted in making payment of Deferred Spectrum Auction.	Arguments of Petitioner
+(xiii)	Arguments of Petitioner
+In the case of RCOM, W.P. (C) No.845 of 2018 was filed under Article 32 of the Constitution of India for closure quashing of the CIRP initiated against it.	Arguments of Petitioner
+After that, payment was made to M s. Ericsson India Pvt. Ltd, who initiated the proceedings under the Code.	Arguments of Petitioner
+RCOM has sought NOC to trade Reliance Jio Infocomm Limited (for short, RJIL).	Arguments of Petitioner
+DoT informed it on 14.12.2018 that the Government couldnt give the NOC for trading.	Arguments of Petitioner
+This Court decided the proceedings on 24.4.2019.	Arguments of Petitioner
+Thereafter, the Board of Directors of RCOM decided to continue with the proceeding under the Code and, decided to withdraw the appeal from NCLAT.	Arguments of Petitioner
+RCL RTL defaulted in payment of various deferred spectrum auction instalments.	Arguments of Petitioner
+(xiv)	Arguments of Petitioner
+The matters of AGR being C.A. Nos.63286399 of 2015 were sub judice before the commencement of CIRP.	Arguments of Petitioner
+A demand was raised to RCL RTL.	Arguments of Petitioner
+AGR dues amount of RCL RTL is Rs.25,199.27 crores.	Arguments of Petitioner
+(xv)	Arguments of Petitioner
+In the case of Videocon, DoT was not the party.	Arguments of Petitioner
+DoT was not invited to the Committee of Creditors meetings, in complete violation of the provisions of the Code.	Arguments of Petitioner
+The resolution professional applied before NCLT to restrain DoT from encashing certain bank guarantees submitted by Videocon, in which interim injunction has been granted.	Arguments of Petitioner
+12.	None
+Shri Harish Salve, learned senior counsel argued as under (i) The NCLT should decide the question of whether the spectrum can be sold or not.	Arguments of Petitioner
+After that, there is a provision for an appeal to NCLAT, and then this Court can look into the matter.	Arguments of Petitioner
+(ii) Under Section 18, the spectrum can be subjected to insolvency proceedings.	Arguments of Petitioner
+This Court examined the question of recoverability of AGR dues in preference to the dues of secured creditors on the basis that the use of spectrum would rank in priority higher than that of secured creditors.	Arguments of Petitioner
+Leasing of the spectrum is not permissible as per the Guidelines.	Arguments of Petitioner
+The RJIL is also not proposing to buy any spectrum from the resolution applicant of RCOM or any other company.	Arguments of Petitioner
+Only sharing and trading is permissible subject to the conditions specified in the Guidelines.	Arguments of Petitioner
+The assets of RCOM are comprised primarily of the spectrum, real estate, and active assets.	Arguments of Petitioner
+Even if this Court permitted the sale of such a spectrum, RJIL is not intending to acquire the same.	Arguments of Petitioner
+(iii) RJIL has paid Rs.195 crores on a selfassessment basis and shall pay a further sum demanded by DoT. 13.	Arguments of Petitioner
+Shri Shyam Divan and Shri Ravi Kadam, learned senior counsel on behalf of Committee of Creditors of RCOM, Aircel Limited, and Dishnet Wireless Limited, argued the spectrum and telecom licences are assets of the telecom company.	Arguments of Respondent
+Section 18(f) of the Code mandates that resolution professional would take control and custody of any asset over which the corporate debtor has ownership rights as recorded in the balance sheet of the corporate debtor.	Arguments of Respondent
+Section18(f)(iv) includes intangible assets.	Arguments of Respondent
+The telecom licence and right to use the spectrum form a part of the intangible assets.	Arguments of Respondent
+The right to use is a valuable right.	Arguments of Respondent
+In the financial statement, telecom licence and the right to use the spectrum had been shown as an intangible asset.	Arguments of Respondent
+Without telecom licences and spectrum, there would be no hope of reviving Aircel entities.	Arguments of Respondent
+Clause 6 of the Licence Agreement deals with the restrictions of transfer of licence by either directly or indirectly without the prior written consent of the licensor.	Arguments of Respondent
+It can be transferred on fulfilment of certain conditions.	Arguments of Respondent
+Reliance has been placed on Consultation Paper dated 7.3.2012.	Arguments of Respondent
+Its licence spectrum is considered an intangible asset, and in the Guidelines for the Reporting System on Accounting Separation Regulations, 2016, the right to use spectrum is again shown as an intangible asset.	Arguments of Respondent
+The Indian Accounting Standards38 has also been referred to indicate that an asset is a resource controlled by the entity for further economic benefits.	Arguments of Respondent
+The spectrum and licence being assets of the telecom company are not assets owned by a third party under a trust.	Arguments of Respondent
+The licence and spectrum of Aircel Entities are held in security by the lenders in terms of the TPAs to which the DoT is also a party.	Arguments of Respondent
+In the resolution plans, DoT acted as an operational creditor.	Arguments of Respondent
+The NCLT asked to take the approval of the DoT for the transacting spectrum.	Arguments of Respondent
+Thus, it is for the DoT to give permission.	Arguments of Respondent
+Dot has to approve the implementation of the resolution plan.	Arguments of Respondent
+The Code provides that the resolution plan is to be approved by the Committee of Creditors, and the adjudicating authority of the NCLT in terms of Section 31 of the Code and liquidation is to be made in terms of the priority set out in Section 53 of the Code.	Arguments of Respondent
+Section 5(20) defines operational creditor.	Arguments of Respondent
+Section 5(21) defines operational debt to include dues payable to the Government.	Arguments of Respondent
+Thus, claims of DoT for unpaid dues are operational debts, and DoT is an operational creditor.	Arguments of Respondent
+Reliance has been placed upon Section 31 of the Code.	Arguments of Respondent
+The resolution plan shall be binding on the corporate debtors, including the Central Government, any State Government to whom a debt in respect of the payment of dues arising under any law for the time being in force.	Arguments of Respondent
+Reliance has also been placed on Committee of Creditors of Essar Steel India Limited v. Satish Kumar Gupta and Ors., (2019) SCC OnLine SC 1478.	Arguments of Respondent
+The proceedings under the Code cannot be nullified to realise AGR and other dues of DoT.	Arguments of Respondent
+Shri Ranjit Kumar, learned senior counsel, on behalf of Committee of Creditors of Aircel Limited, Aircel Cellular Limited and Dishnet Wireless Limited argued that under the Code, UV Asset Reconstruction Company Limited has submitted a resolution plan, which has been approved by the NCLT on 9.6.2020.	Arguments of Respondent
+Aircel Entities are holders of telecom licences.	Arguments of Respondent
+The licences issued by DoT contain the format for the execution of the Tripartite Agreement between the licensor, licensee, and the lenders.	Arguments of Respondent
+He has relied upon the following paragraph With a view to help and facilitate the financing of the Project to be set up by the LICENSEE pursuant to the LICENCE referred to above, the parties hereto are desirous of recording the terms and conditions to provide transfer assignment of LICENCE as hereinafter provided in this AGREEMENT to protect and secure the Lenders interest arising out of grant of financial assistance to the LICENSEE.	Arguments of Respondent
+Aircel Entities have offered lenders spectrum as a security against the loans advanced by the lenders to Aircel Entities.	Arguments of Respondent
+Thus, the DoT claim over the spectrum will be subservient to the claims of the lenders as per the Code, and DoT has to be treated as an operational creditor.	Arguments of Respondent
+The Banks are in the business of lending money for the betterment of the national economy, in the same manner, the Government is in the business of spectrum.	Arguments of Respondent
+As per Clause 6.3 of the Licence Agreement, licence can be transferred subject to fulfilment of the conditions agreed between the licensor, licensee, and the lenders.	Arguments of Respondent
+The right to use spectrum is an asset of the corporate debtor.	Arguments of Respondent
+Paras 8.4 and 8.5 of the Insolvency Law Committee Report have been referred to.	Arguments of Respondent
+Revocation of Licences, permissionbased on past dues, is prohibited under Section 14 after the moratorium is created.	Arguments of Respondent
+Current dues have to be paid during the moratorium period.	Arguments of Respondent
+He has referred to Sections 3(27) and 14(1).	Arguments of Respondent
+The provisions of the Code have to prevail.	Arguments of Respondent
+The Government has entered into a pure business transaction by granting a licence and taking fees against the grant.	Arguments of Respondent
+The spectrum is a raw material for telecom companies.	Arguments of Respondent
+If the spectrums licence is terminated, the resolution professional will find it difficult to run the company as a going concern.	Arguments of Respondent
+DoT is an operational creditor.	Arguments of Respondent
+AGR dues are contractual dues and cannot have precedence over the dues of secured creditors.	Arguments of Respondent
+He has referred to Section 53 to contend that the operational creditor is protected in a manner provided in the Code.	Arguments of Respondent
+Section 238 of the Code contains a nonobstante clause to the effect that anything inconsistent therewith contained in any other law for the time being in force, the Code shall prevail.	Arguments of Respondent
+As such, the Code overrides the provisions of the Indian Telegraph Act, 1885, Indian Wireless Telegraphy Act, 1933, and Telecom Regulatory Authority of India Act, 1997.	None
+In the case of RCOM, the resolution plan is pending consideration of the adjudicating authority under Section 31 of the Code.	None
+Whether spectrum can be subjected to proceedings under the Code is a significant question and is required to be gone into.	Issue
+It is a natural resource, and under Section 4 of the Indian Telegraph Act, 1885, the Government has the sovereign right.	Reasoning
+Section 4 of the Indian Telegraph Act, 1885 is extracted hereunder Exclusive privilege in respect of telegraphs, and power to grant licences.	Arguments of Petitioner
+(1) Within India, the Central Government shall have the exclusive privilege of establishing, maintaining and working telegraphs Provided that the Central Government may grant a license, on such conditions and in consideration of such payments as it thinks fit, to any person to establish, maintain, or work a telegraph within any part of India Provided further that the Central Government may, by rules made under this Act and published in the Official Gazette, permit, subject to such restrictions and conditions as it thinks fit, the establishment, maintenance and working (a) of wireless telegraphs on ships within Indian territorial waters and on aircrafts within or above India, or Indian territorial waters, and (b) of telegraphs other than wireless telegraphs within any part of India.	None
+Explanation.	None
+The payments made for the grant of a licence under this subsection shall include such sum attributable to the Universal Service Obligation as may be determined by the Central Government after considering the recommendation made in this behalf by the Telecom Regulatory Authority of India established under subsection (1) of Section 3 of the Telecom Regulatory Authority of India Act, 1997 (24 of 1997).	None
+The Central Government may, by notification in the Official Gazette, delegate to the telegraph authority all or any of its powers under the first proviso to subsection (1).	None
+The exercise by the telegraph authority of any power so delegated shall be subject to such restrictions and conditions as the Central Government may, by the notification, think fit to impose.	None
+Any person who is granted a license under the first proviso to subsection (1) to establish, maintain or work a telegraph within any part of India, shall identify any person to whom it provides its services by (a) authentication under the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016) or (b) offline verification under the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016) or (c) use of passport issued under Section 4 of the Passports Act, 1967 (15 of 1967) or (d) use of any other officially valid document or modes of identification as may be notified by the Central Government in this behalf.	None
+If any person who is granted a license under the first proviso to subsection (1) to establish, maintain or work a telegraph within any part of India is using authentication under clause (a) of subsection (3) to identify any person to whom it provides its services, it shall make the other modes of identification under clauses (b) to (d) of subsection (3) also available to such person.	None
+The use of modes of identification under subsection (3) shall be a voluntary choice of the person who is sought to be identified and no person shall be denied any service for not having an Aadhaar number.	None
+If, for identification of a person, authentication under clause (a) of subsection (3) is used, neither his core biometric information nor the Aadhaar number of the person shall be stored.	None
+Nothing contained in subsections (3), (4) and (5) shall prevent the Central Government from specifying further safeguards and conditions for compliance by any person who is granted a license under the first proviso to subsection (1) in respect of identification of person to whom it provides its services.	None
+Explanation.	None
+The expressions Aadhaar number and core biometric information shall have the same meanings as are respectively assigned to them in clauses (a) and (j) of Section 2 of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016).	None
+Section 3(10) defines creditor.	None
+The term debt is defined in Section 3(11).	None
+The expression property is defined in Section 3(27).	None
+Operational creditor is defined in Section 5(20) in Part II under the head Insolvency Resolution and Liquidation for Corporate Persons.	Arguments of Respondent
+Section 5(21) defines operational debt.	Arguments of Respondent
+A question has been raised concerning ownership.	Reasoning
+Whether TSPs can be said to be the owner based on the right to use the spectrum under licence granted to them?	Reasoning
+Whether a licence is a contractual arrangement?	Reasoning
+Whether ownership belongs to the Government of India?	Reasoning
+Whether spectrum being under contract can be subjected to proceedings under Section 18 of the Code?	Reasoning
+The question also arises whether the spectrum can be said to be in possession, which arises from ownership.	Reasoning
+What is the distinction between possession and occupation?	Reasoning
+Whether possession correlates with the ownership right?	Reasoning
+A question also arises concerning the difference between trading and insolvency proceedings.	Reasoning
+Whether a licence can be transferred under the insolvency proceedings, particularly when the trading is subjected to clearance of dues by seller or buyer, as the case may be, as provided in Guideline Nos.10 and 11 whereas in insolvency proceedings dues are wiped off.	Reasoning
+Guideline No.12 is also assumed to be of significance in case spectrum is subjected to insolvency proceedings, which must be considered.	Reasoning
+It is also required to be examined that when Government has declined the permission to trade and has not issued NOC for trading on the ground of nonfulfilment of the conditions as stipulated in the Licence Agreement, the spectrum can be subjected to resolution proceedings which will have the effect of wiping off the dues of the Government, which are more than Rs.40,000 crores.	Reasoning
+Whereas the dues of the Banks are much less.	Reasoning
+Whether obtaining the DoTs permission and its approval to the resolution plan would be a substitute for Trading Guideline Nos.10, 11, and 12 ?	Reasoning
+A question also arises of bona fide nature of the proceedings under the Code.	Reasoning
+In the backdrop facts of the cases, question also arises whether spectrum licence subjected to proceedings under the Code, and it overrides the provisions contained in the Indian Telegraph Act, 1885, Indian Wireless Telegraphy Act, 1933, and Telecom Regulatory Authority of India Act, 1997.	Reasoning
+In view of the fact that the licence contained an agreement between the licensor, licensee, and the lenders, whether on the basis of that, spectrum can be treated as a security interest and what is the mode of its enforcement.	Reasoning
+Whether the Banks can enforce it in the proceedings under the Code or by the procedure as per the law of enforcement of security interest under the Securitisation and Reconstruction of Financial Assets and Enforcement of Securities Interest Act, 2002 (SARFAESI Act) or under any other law.	Reasoning
+A question of seminal significance also arises whether the spectrum is a natural resource, the Government is holding the same as cestui que trust.	Reasoning
+In view of the nature of the resource, it can be subjected to insolvency liquidation proceedings.	Reasoning
+Earlier licence was obtained on the payment of fees in advance that was not beneficial to the TSPs, as such a new revenue sharing regime was devised in 1999, and the Central Government has an exclusive right under section 4 of the Telegraph Act, 1885 in use of spectrum, it can part with on certain statutory guidelines, its use is not permissible without the payment of requisite fee.	Reasoning
+Whether dues under the licence can be said to be operational dues?	Reasoning
+It is also to be examined whether deferred default payment instalment s of spectrum acquisition cost can be termed to be operational dues besides AGR dues.	Reasoning
+Whether as per the revenue sharing regime and the provisions of the Indian Telegraph Act, 1885, the dues can be said to be operational dues?	Reasoning
+Whether natural resource would be available to use without payment of requisite dues, whether such dues can be wiped off by resorting to the proceedings under the Code and comparative dues of Government, and secured creditors and bona fides of proceedings are also the questions to be considered.	Reasoning
+We consider it appropriate that the aforesaid various questions should first be considered by the NCLT.	None
+Let the NCLT consider the aforesaid aspects and pass a reasoned order after hearing all the parties.	Decision
+We make it clear that it being a jurisdictional question, it requires to be gone into at this stage itself.	Decision
+Let the question be decided within the outer limits of two months.	Decision
+We also make it clear that we have not observed on the merits of the case, and we have kept all the questions open to be examined by the NCLT.	None
+In Re.	None
+Sharing Coming to the question as to the liability of sharing operator, who is sharing the spectrum of the original licensee of the past AGR dues of the original licensee is concerned, that spectrum sharing is permitted and approved by the Sharing Guidelines dated 24.09.2015.	Issue
+The Parliament has approved spectrum sharing as part of National Telecom Policy, 2012.	None
+However, DOT issued and approved the final guidelines in the year 2015.	Reasoning
+Spectrum sharing is a policy that permits the sharing of radio access network equipment of operators.	Reasoning
+Single radio network equipment is used to provide services by two operators using both the entities spectrum.	Reasoning
+As per Spectrum Sharing Guidelines of DoT, (i) it is a prerequisite that both operators sharing spectrum need to have spectrum in the same band and the same licenced area (ii) it is also necessary that both operators have a network in the same geographical area and (iii) leasing of the spectrum is not permitted under the policy.	Reasoning
+By sharing the radio network equipment, two operators use their spectrum and create their respective businesses capacity.	Reasoning
+Liability to pay necessary AGR and licence fee remains with the respective companies.	Reasoning
+Even the DoT in its affidavit and compliance of the order dated 14.08.2020, stated as under so far as the spectrum sharing is concerned It is respectfully submitted that as per the Guidelines issued by DoT in 2015, Spectrum sharing allows operators to pool their respective spectrum for usage in a specific geographical area (LSA) thus complementing each others spectrum needs and facilitating more efficient utilization of the spectrum.	None
+The rationale is to facilitate optimization of resources and to create a conducive environment for telecom growth.	None
+During the past period of 20 years or more, some operators have been able to acquire subscribers and grow at a faster rate as compared to other operators.	None
+This results in the spectrum lying unutilized with some of the players while other operators face spectrum crunch as spectrum is a scare resource.	None
+Thus, on the one hand spectrum, which is a limited natural resource, may remain unutilized for some Telecom Service Providers (TSPs), while on the other hand, consumers suffer due to poor quality of services on account of spectrum crunch with other TSPs.	None
+Moreover, spectrum is allocated to a service provider for a service area which is a large geographical area, normally coterminus with the state boundaries.	None
+In different cities and rural areas, the TSPs may have varying spectrum needs depending upon their customer profile.	None
+Spectrum sharing allows operators to pool their respective spectrum for usage in a specific geographical area within an LSA.	Reasoning
+The pooling of the spectrum increases the capacity of Telecom Service Providers to carry telecom traffic and may help in enhancing the quality of service.	None
+It is submitted that the objective of spectrum sharing was to provide an opportunity to the Telecom Service Providers to pool their spectrum holdings and thereby improve spectral efficiency.	None
+It is submitted that sharing can also provide additional network capacities in places where there is network congestion due to shortage of spectrum.	None
+It is submitted that these aspects were considered by the Central Government while approving the Guidelines for Spectrum Sharing.	None
+It is submitted that Telecom Regulatory Authority of India (TRAI) made recommendations on Guidelines on Spectrum Sharing on July 21, 2014, which was considered and approved by the Telecom Commission (TC) in its meeting held on 11.06.1025 and subsequently approved by the Central Government.	None
+A copy of Spectrum Sharing Guidelines dated 24.09.2015 is attached herewith and marked as ANNEXURE T2.	None
+In case of sharing of spectrum both the service providers sharers must be in the same band and in the same service area.	Reasoning
+To illustrate it may be pointed out that if there are two service providers holding 100 units of spectrum each in the same band and in the same service area they can share spectrum of each other mutually.	None
+The Spectrum Usage Charges SUC will be considered for 100 units for each of the TSPs and both will have to pay SUC for their entire spectrum holding (100 units each) in that band and in that service area.	None
+With regard to AGR dues for two TSPs sharing spectrum, the following scenario emerges In case of sharing, the Spectrum does not change hands.	None
+Both TSPs simultaneously use and have access to the spectrum held by each.	None
+ii.	None
+As per the sharing arrangement, each of the TSPs will continue to make payment of AGR dues arising for the spectrum that each holds.	None
+iii.	None
+However, due to the additional spectrum which each TSP gets to use, the AGR based dues (SUC) are assessed at a higher rate for each of the TSPs.	None
+There is an addition increase by 0.5 in the Spectrum Usage Charge rate, applied separately on both TSPs.	None
+Thus if SUC rate of each TSP prior to sharing was 3, then this will increase to 3.5 for both of them.	None
+iv.	None
+The use of each others spectrum by means of sharing should normally lead to increase in AGR for both TSPs.	None
+This would lead to increased licensed fee and SUC to the Government as these are based on share of AGR.	None
+TSPs who share spectrum, continue to pay and are duty bound to pay, their AGR based dues arising from the use of spectrum.	None
+So far as the present case is concerned, in accordance with the spectrum sharing guidelines dated 24.09.2015, the requests of the following TSPs for sharing of access spectrum have been taken on record For Reliance Jio Infocomm Limited (RJIL) and Reliance Communications Limited (RCL), spectrum in 800 MHz band in 21 LSAs (all except Jammu and Kashmir LSA) as per the quantum mentioned in the annexure ii.	None
+For Bharti Airtel Limited and Tata Teleservices Limited Tata Teleservices (Maharashtra) Limited, spectrum in 1800 MHz band in 3 LSAs (Andhra Pradesh, Maharashtra and Mumbai LSAs) as per the quantum mentioned in the annexure.	None
+iii.	None
+For, Bharti Airtel Limited and Tata Teleservices Limited Tata Teleservices (Maharashtra) Limited, spectrum in 2100 MHz band in 2 LSAs (Gujarat, Haryana, Karnataka, Kerala, Madhya Pradesh, Maharashtra and Uttar Pradesh (West) LSAs) as per the quantum mentioned in the annexure.	None
+iv.	None
+For Bharti Hexacom Limited and Tata Teleservices Limited, spectrum in Rajasthan LSA as per the quantum mentioned in the annexure.	None
+It is respectfully submitted that the difference between Spectrum Sharing and Spectrum Trading, can therefore be culled out as under Spectrum sharing allows operators to pool their respective spectrum for usage in a specific geographical area and thus complementing each others needs for more efficient utilization of the spectrum.	None
+This facilitates optimization of resources as also creates conducive environment for the telecom growth.	None
+ii.	None
+Spectrum trading allows parties to transfer their spectrum rights and obligations to another party.	Reasoning
+This allows better spectrum usages as the idle spectrum from the hands of one service provider gets transferred to the other service provider who may be facing spectrum crunch.	None
+iii.	None
+In the case of spectrum sharing, the right to use spectrum as granted by the DoT remains with the respective TSPs, whereas in the case of spectrum trading, the right to use gets transferred from the buyer to the seller.	Reasoning
+On going through the entire Sharing Guidelines, it does not stipulate anything about the past dues of the sharing operators.	Reasoning
+In the case of sharing spectrum usage charges, the rate of each of the licensees post sharing shall increase by 0.5 of adjusted gross revenue.	Reasoning
+Sharing Guidelines dated 24.09.2015 read as under No. L14006/04/2015NTG Government of India Ministry of Communications IT Department of Telecommunications WPC Wing, 6th floor, Sanchar Bhawan, New Delhi Dated the 24 th September, 2015 Subject Guidelines for sharing of Access Spectrum by Access Service Providers.	None
+National Telecom Policy, 2012 envisage to move at the earliest towards liberalization of spectrum to enable use of spectrum in any band to provide any service in any technology as well as to permit spectrum pooling, sharing and later, trading to enable optimal utilization of spectrum through appropriate regulatory framework.	None
+After considering the recommendations of TRAI on spectrum sharing, the Government has decided to allow sharing of access spectrum as per guidelines given below (1).	None
+Spectrum sharing shall be allowed only for the access service providers holding Cellular Mobile Telephone Service (CMTS) Unified Access Service License (UASL) Unified License (Access Services)(UL(AS) Unified License (UL) with authorization of Access Service in a Licensed Service Area (LSA), where both the licensees are having spectrum in the same band.	None
+(2).	None
+Spectrum sharing is permitted between two Telecom Service Providers utilizing the spectrum in the same band.	Reasoning
+(3).	None
+Spectrum sharing is not permitted when both the licensees are having spectrum in different bands.	Reasoning
+Leasing of spectrum is not permitted.	Arguments of Petitioner
+(4).	None
+All access spectrum including traded spectrum shall be shareable provided that both the licensees are having spectrum in the same band.	None
+Further, if more bands such as 700 MHz are added for allocation of spectrum to Access Service Providers through auction process, the sharing of spectrum shall also be permitted in that band.	None
+(5).	None
+The right to share the spectrum shall be subject to the fulfillment of the relevant license conditions and nay other conditions that may be specified by the licensor Government from time to time.	None
+Both the licensees shall ensure that they fulfil the specified rollout obligations and specified QoS norms.	None
+A licensee shall not be eligible to share its spectrum if it has been established that it is in breach of terms and conditions of the licence and the licensor has ordered for revocation termination of its licence.	None
+Sharing is permitted in the following scenarios (i).	None
+For the spectrum where both the Licensees who plan to share, possess the spectrum for which market price has been paid.	None
+Further, in respect of spectrum in 800 MHz acquired in the auction held in March 2013, sharing of spectrum shall be permitted only if the differential of the latest auction price and the March 2013 auction price on prorate basis on the balance period of right to use the spectrum is paid.	None
+In case both the Licensees who plan to share spectrum are having the administratively allotted spectrum in that band, the sharing of spectrum is permitted only when both the licensees have paid One time Spectrum Charges (OTSC) for their respective spectrum holdings, above 4.4 MHz (GSM) 2.5 MHz (CDMA) based on reserve price auction determined price.	None
+However if the said amount is not paid due to judicial intervention in judicial forums barring any coercive action, in the interim, sharing of spectrum in such cases will also be permitted subject to submission of a bank guarantee for an amount equal to the demand raised by the department for one time spectrum charge pending final outcome of the court case.	None
+In case of proposed sharing where one Licensee has spectrum acquired through auction trading or liberalized spectrum and the other has spectrum allotted administratively, sharing is permitted only after the spectrum charges for liberalizing the administratively allocated spectrum are paid.	None
+Further, in case of spectrum acquired in auction held in March 2013, differential amount as indicated in para 7(i) above shall be payable in respect of 800 MHz band.	None
+The use of technology shall be governed by the terms and conditions of respective Notice Inviting Application (NIA) license.	None
+(10).	None
+Both the licensees will be individually and collectively responsible for complying with the sharing guidelines, including interference norms.	None
+(11).	None
+Spectrum sharing will be restricted to sharing by only two licensees subject to the condition that there will be at least two independent networks provided in the same band.	None
+(12).	None
+For the purpose of charging Spectrum Usage Charges (SUC), it shall be considered that the licensees are sharing their entire spectrum holding in the particular band in the entire LSA.	None
+(13).	None
+Spectrum Usage Charges (SUC) rate of each of the licensees postsharing shall increase 0.5 of Adjusted Gross Revenue (AGR).	Reasoning
+The sharing of spectrum for part of a month, full one month period shall be counted for the purpose of levying SUC.	None
+(14).	None
+The prescribed limits for spectrum cap shall be applicable for both the licensees individually.	None
+Further, the spectrum holding of any licensee postsharing shall be counted after adding 50 of the spectrum held by the other licensee in the band being shared being added as the additional spectrum to the original spectrum held by the licensee in the band.	None
+(15).	None
+Spectrum sharing shall be available for upto the balance period of the licence or upto the period of right to use spectrum, whichever is earlier.	None
+(16).	None
+Both the licensees sharing the spectrum shall jointly give a prior intimation for sharing the right to use the spectrum at least 45 days before the proposed effective date of the sharing.	None
+Application format is attached along with these guidelines as AnnexureI. (17).	None
+Both the licensees shall also give an undertaking that they are in compliance with all the terms and conditions of guidelines for spectrum sharing and the licence conditions and will agree that in the event, it is established at any stage in future that either of the licensee was not in conformance with the terms and conditions of the guidelines for spectrum sharing or and of the licence at the time of giving intimation for sharing of right to use the spectrum, the Government will have the right to take appropriate action which interalia may include annulment of sharing arrangement.	None
+Appropriate modifications will be made in their respective Service License and Wireless Operating License (WOL) to facilitate the spectrum sharing.	None
+(18).	None
+A non refundable processing fee, as prescribed from time to time, shall be payable individually by each licensee for each service area at the time of intimation to WPC Wing.	None
+At present, processing fee of Rs.50,000/ is to be paid.	None
+The payment is to be made by draft in favor of Pay Accounts Officer (HQ), DOT payable at New Delhi.	None
+(19).	None
+Licensor Government reserves the right to modify the guidelines from time to time as it may deem fit.	None
+Sd  (P S M Tripathi) Assistant Wireless Adviser for and on behalf of President of India.	None
+According to the DoT and so stated in the affidavit in compliance of order directions dated 21.08.2020, AGR is not calculated bandwise, but from the total revenue earned by the TSP using the entire spectrum (both shared and not shared).	Arguments of Petitioner
+According to DoT, in case of sharing of spectrum, there is an increment of 0.5 in SUC rate, and both TSPs pay this incremental SUC on their respective AGRs if they are sharing spectrum.	Arguments of Petitioner
+Both the TSPs (sharers) are required to pay this SUC on their respective AGRs.	Arguments of Petitioner
+Even in the case of sharing spectrum, the liability of the said operator would be to the extent of using the said spectrum only, and the liability of the sharing operator would be to the extent of the remaining spectrum used by it.	Arguments of Petitioner
+Therefore, there shall not be any liability of the said operator with respect to payment of the past dues (post shared) of the sharing operator licensee.	Arguments of Petitioner
+Even according to DoT also, both the TSPs (sharers) are required to pay the SUC on their respective AGRs.	Arguments of Petitioner
+Learned counsel appearing on behalf of the Reliance Jio (shared operator), which has entered into the sharing between RCom RTL has stated at the Bar that Reliance Jio has paid the AGR post sharing including the difference of AGR as per the decision of this Court on their own and based on selfassessment.	None
+It is stated at the Bar that still anything is further held to be due and payable and AGR for the period post sharing of the said spectrum originally allotted to RCom on the assessment being done, they will make the said payment.	Arguments of Respondent
+Similar is the ground of counsel for other TSPs.	Arguments of Respondent
+as to sharing arrangement.	None
+That in the present case, only part of the spectrum of the licensee has been shared with the case of some of TSPs., which has been approved by the DoT under the Sharing Guidelines, 2015, and there is no provision for the liability of the past dues on the shared operator.	Reasoning
+Even otherwise, the past dues of sharing operator licensee covers AGR for the spectrum used by holder of licence, certain TSPs.	Reasoning
+such as Reliance came into existence later on, and as observed hereinabove, the liability of such operator of the AGR, would only be to the extent it has used the said spectrum.	Reasoning
+Shared operator TSPs.	Reasoning
+cannot be saddled with the liability to pay the past dues of AGR of licensee, that have shared the spectrum with the original licensees.	Reasoning
+In Re.	None
+Trading Coming to the question of liability of the telecom companies which are using spectrum under the Trading Guidelines with respect to the AGR dues of the telecom company, Spectrum trading is governed by the Spectrum Trading Guidelines dated 12.10.2015 and under the said Trading Guidelines, part of the spectrum of the telecom company facing insolvency the other telecom company is using original licensee.	Reasoning
+The purchaser and buyers liability shall be as per para 11 of the Spectrum Trading Guidelines dated 12.10.2015, which reads as under (10).	Reasoning
+Both the licensees shall also give an undertaking that they are in compliance with all the terms and conditions of the guidelines for spectrum trading and the license conditions and will agree that in the event, it is established at any stage in future that either of the licensee was not in conformance with the terms and conditions of the guidelines for spectrum trading or and of the license at the time of giving intimation for trading of right to use the spectrum, the Government will have the right to take appropriate action which interalia may include annulment of trading arrangement.	Arguments of Petitioner
+(11).	None
+The seller shall clear all its dues prior to concluding any agreement for spectrum trading.	None
+Thereafter, any dues recoverable up to the effective date of trade shall be the liability of the buyer.	None
+The Government shall, at its discretion, be entitled to recover the amount, if any, found recoverable subsequent to the effective date of the trade, which was not known to the parties at the time of the effective date of trade, from the buyer or seller, jointly or severally.	None
+The demands, if any, relating to licenses of seller, stayed by the Court of Law, shall be subject to outcome of decision of such litigation.	None
+(12).	None
+Where an issue, pertaining to the spectrum proposed to be transferred is pending adjudication before any court of law, the seller shall ensure that its rights and liabilities are transferred to the buyer as per the procedure prescribed under the law and any such transfer of spectrum will be permitted only after the interest of the Licensor has been secured.	None
+Para 11 of the Spectrum Trading Guidelines was further clarified vide O.M. dated 12.05.2016.	None
+Certain telecom operators raised specific questions on the Trading Guidelines dated 12.10.2015.	None
+Question No.2 in respect of para 11, seeks a clarification as to whether the transfer of spectrum is for a specific area and reference to the dues relate to only the spectrum being traded in the concerned area, and seeks clarification whether the buyer will be jointly or severally liable for only those dues if found recoverable after the effective date of trading, which were not known to the seller at the time of the effective trade date.	None
+To the aforesaid questions, vide O.M. dated 12.05.2016, there was a clarification or the answer relating to para 11 of the Guidelines, which reads as under The Clarification or the answer relating to para 11 of the Guidelines states as follows As per para 11 of the Guidelines, the seller must clear all its dues pertaining to the LSA where trading is intended including OTSC dues for that band.	None
+In case where entire spectrum holding of the TSP in all LSAs is intended to be traded, the seller will have to clear all its pending dues including past dues.	None
+DoT will indicate status of Dues.	None
+However, the Buyer may perform due diligence.	None
+Further, the Government shall, as its own discretion, be entitled to recover the amount, if any, found recoverable subsequent to the effective date of the trade, which was not known to the parties at the time of the effective date of trade, from the buyer or seller, jointly or severally.	None
+Thus, as per para 11 of the Spectrum Trading Guidelines dated 12.10.2015, read with the clarification vide O.M. dated 12.05.2016, in case of a part of the spectrum is under sale, the liability of the purchaser buyer with respect to past dues of the seller shall not arise.	Reasoning
+In a case where the entire spectrum is under sale, in that case, the past dues of the seller shall be the liability of the buyer except the amount dues, if any, found recoverable after the effective date of the trade, which was not known to the parties at the time of the effective date of trade and in such a situation the liability of such dues of the buyer and seller would be jointly or severally and the government at its discretion is entitled to recover such amount.	Reasoning
+In the present case, it is not in dispute that in some cases only part spectrum was traded, and the remaining spectrum continued with the seller.	Reasoning
+At the time of agreement for spectrum trading, the AGR dues of the seller were also known.	Reasoning
+Therefore, on a joint reading of para 11 of the Spectrum Trading Guidelines dated 12.10.2015 read with O.M. dated 12.05.2016, the sellers dues prior to the concluding of the agreement spectrum trading shall not be upon the buyer.	Reasoning
+It is clear that in the case, which was decided by this Court relating to AGR dues, respondents were the parties, and they were litigating with respect to the definition of AGR in the second round of appeal filed in 215 before this Court.	Reasoning
+Each of them was aware that the dispute as to the definition of AGR was pending in this Court.	Reasoning
+Thus, it is apparent that it was known to the parties that AGR dues to be finalised as per the decision of this Court in a pending matter, and lis was pending for the last 20 years.	Reasoning
+The liability cannot be escaped as specified in the Trading Guidelines to the extent that the seller or buyer is liable.	Reasoning
+They have to pay the AGR as per the judgment rendered by this Court.	Reasoning
+The purchasers who are not seller or buyer, shall have to pay the dues to the extent they are liable under the Guidelines, as discussed above.	Reasoning
+It was stated that they have paid dues as per the selfassessment or, in some cases, demands have not been raised.	Reasoning
+We direct DoT to complete the assessment in such cases of trade and raise demand if it has not been raised and to examine the correctness of selfassessment and raise demand, if necessary, after due verification.	None
+In case demand notice has not been issued, let DoT raise the demand within six weeks from today.	Decision
+Payment of dues of AGR The Union of India has filed an application through the Department of Telecommunications (DoT) to modify the order dated 24.10.2019 passed in C.A. Nos.63286399/2015 and a separate order of even date passed in the abovesaid civil appeals.	None
+M.A. No.266/2020 was filed by the TSPs.	Arguments of Petitioner
+licensees in which order dated 14.2.2020 was passed, and the contempt proceedings against the Desk Officer were drawn.	Arguments of Petitioner
+In view of the communication dated 23.1.2020, it was withdrawn on 14.2.2020.	None
+31.	Arguments of Petitioner
+It is averred in the application that the sector of TSPs.	Arguments of Respondent
+has its varied features.	Arguments of Respondent
+The TSPs. who are required to make payment, are catering to the services of crores of consumers throughout India, and Indias Government has examined the issue in great detail.	Arguments of Respondent
+It has shown prompt alacrity to the sectors market economy.	Arguments of Respondent
+The definition of AGR has been settled after about 20 years, as such, there are huge arrears.	Arguments of Respondent
+In the event, it is found that any major service provider is impacted resulting into drastic consequences of such service providers facing proceedings under the Code.	Arguments of Respondent
+The following would be the inevitable adverse impact (a) Impact on telecom services for a large proportion of customers.	Arguments of Respondent
+Mobile Number Portability (MNP) process has capacity limitations this may lead to delays in porting numbers from nonoperational to operational TSP, and consequent disruption of services for customers.	Arguments of Petitioner
+(ii) TSPs.	Arguments of Petitioner
+porting in customers from TSPs not able to provide services will also need additional access (and backhaul) spectrum to maintain Quality of Service (QoS), Access spectrum is acquired through auction.	Arguments of Petitioner
+Adverse impact on competition in the Telecom Sector with adverse consequences for the consumers (c) Adverse impact on Quality of Service in the telecom sector.	Arguments of Respondent
+The closure of one or more TSPs and the gap being filled in by other remaining TSPs will not be seamless.	Arguments of Petitioner
+(d) Implications for the banking sector  	None
+A letter dated 15.2.2020 was received from the Indian Banks Association on the subject of distress in the Telecom Sector and Ease of Business.	Arguments of Respondent
+The letter highlighted the issues affecting the Telecom Sector and resultant implications on the banks lending to the Telecom Sector along with suggestions for consideration.	Arguments of Petitioner
+Disruption of tax and nontax revenue on account of licence fee (LF), spectrum usage charges (SUC) and Goods and Services Tax (GST) and loss of revenue on account of spectrum deferred instalments (f) Locking up of valuable spectrum in Corporate Insolvency Resolution Process (CIRP) (g) Major loss of direct and indirect employment (h) Cascading negative impact on other sectors of the economy (i) Foreign Direct Investment (FDI) sentiment will be adversely affected (j)	Arguments of Petitioner
+The closure of one or more TSPs also adversely impacts the digital connectivity in the country.	Arguments of Petitioner
+Ecommerce, ebanking, ehealth, etc., all part of egovernance are affected (k)	Arguments of Respondent
+This will have an adverse impact in rural areas, particularly Aspirational Districts, and the spread of digitization in backward regions of India.	Arguments of Petitioner
+32.	Arguments of Petitioner
+In this regard, a letter dated 15.2.2020 had been written by the Indian Banks Association, adumbrating the aforesaid aspects of the distressed telecom sector.	Arguments of Petitioner
+The issues affecting the telecom industry and companies and the resultant stress on bank lending in this sector were pointed out, culminating into a high incidence of tax and heavy burden, subdued operating matrix due to a steep fall in average revenue per customer.	Arguments of Petitioner
+The telecom services remained subdued due to the price war triggered by a new entrant.	Arguments of Petitioner
+There was a decline in revenue.	Arguments of Petitioner
+The drastic cut in data tariffs has led to a spike in data usage for the last one year, primarily on the 4G network.	Arguments of Petitioner
+The vicious circle would adversely affect the capex spending of the service providers and, in turn, impact the revenue earning capabilities.	Arguments of Petitioner
+Banks approach to 5G financing was also mentioned for which significant additional investment is required for 5G related infrastructure with the current leveraged financial position.	Arguments of Petitioner
+The total outstanding exposure to the telecom industry from the Indian Banks is huge.	Arguments of Petitioner
+The modification in the bank guarantee mechanism pertaining to onerous clauses was also pointed out.	Arguments of Petitioner
+Various other difficulties of the telecom sector were also highlighted.	Arguments of Petitioner
+33.	Arguments of Petitioner
+The Union of India, after envisaging the larger interest, economic consequences on the nation and to ensure that the order of this Court is complied with in its letter and spirit, has taken a conscious decision and sought approval of this Court to a formula for recovery of past dues from the telecom service providers.	Reasoning
+The formula is placed for approval of this Court, which is arrived at after detailed and long drawn deliberations at various levels in the administrative hierarchy, including the Cabinet, and keeping in view the vital issues related to financial health and viability of the telecom sector, need for ensuring competition and a levelplaying field in the interest of consumers.	Reasoning
+The following decision has been taken with respect to the mode of recovery THE MODE OF RECOVERY FOR CONSIDERATION OF THIS HONBLE COURT 1.1 All licensees impacted by the judgment of the Honble Supreme Court be allowed to pay the unpaid or remaining to be paid amount of past DoT assessed calculated dues in annual instalments over 20 years (or less if they so opt), duly protecting the net present value of the said dues using a discount rate of 8 (based on One Year Marginal Cost of Lending Rate of SBI which is currently 7.75).	Reasoning
+Interest on the unpaid amount, penalty, and interest on penalty in relation to the past dues as on the date of the judgment of the Honble Supreme Court (arising due to the said judgment of the Supreme Court) will not be levied beyond the date of the said judgment, and the NPV will be protected using the discount rate.	Reasoning
+However, the TSPs shall continue to be liable for interest, penalty, and interest on penalty for unpaid dues of LF and SUC which arise prospectively after the date of judgment of the Honble Supreme Court (24.10.2019).	Reasoning
+1.2 Change in amount of past dues arising from the AGR judgment (24.10.2019), if any, determined after reconciliation between TSPs selfassessment and DoTs assessment calculation, be added to adjusted against the payable instalment amounts of the TSP on the same basis as given in paragraph 1.1 above.	Reasoning
+A prayer has also been made to pay the remaining dues through annual installments spanning over 20 years.	Reasoning
+For any lapse, a provision has been made to protect the net present value as per the order passed by this Court up to the date of judgment and the dues thereafter, to be realised using the discounted rate of 8, which is based on one marginal MCLR rate of SBI which is currently at 7.75.	Reasoning
+The interest, penalty, and interest on penalty on the arrears as per agreement not to be levied beyond the date of judgment, and the NPV will be protected.	Reasoning
+However, for prospective arrears, if any, the TSPs.	Reasoning
+shall be liable to interest, penalty, and interest on penalty for unpaid dues as per agreement after the date of judgment of this Court.	Reasoning
+Considering the various factors taken into account and the letters written by the Indian Banks Association, we are of the opinion that the decision of the Cabinet is based on the various factors, and in the interest of the economy and the consumers.	Reasoning
+The decision is taken after extensive deliberations and consultations, and till the date of judgment, the dues have been worked out as per the decision rendered by this Court.	Reasoning
+Only for the subsequent period, some relaxation has been given as to the rate of interest, penalty, and interest on penalty, which is permissible.	Reasoning
+The arrears have accumulated for the last 20 years.	Reasoning
+It is also to be noted that some of the companies are under insolvency proceedings, validity of which is to be examined, and they were having huge arrears of AGR dues against them.	Reasoning
+For protecting the telecom sector, a decision has been taken on various considerations mentioned above, which cannot be objected to.	Reasoning
+However, we consider that the period of 20 years fixed for payment is excessive.	Reasoning
+We feel that it is a revenue sharing regime, and it is grant of sovereign right to the TSPs.	Reasoning
+under the Telecom Policy.	Reasoning
+We feel that some reasonable time is to be granted, considering the financial stress and the banking sectors involvement.	Reasoning
+We deem it appropriate to grant facility of time to make payment of dues in equal yearly instalments.	Reasoning
+Rest of the decision quoted above, taken by the Cabinet, shall stand except the modifications concerning the time schedule for making payment of arrears.	Reasoning
+But, at the same time, it is to be ensured that the dues are paid in toto.	Reasoning
+The concession is granted only on the condition that the dues shall be paid punctually within the time stipulated by this Court.	Reasoning
+Even a single default will attract the dues along with interest, penalty and interest on penalty at the rate specified in the agreement.	Reasoning
+We also place on record that the demand of AGR was raised as against nontelecom PSUs.	Reasoning
+on the strength of the judgment passed by this Court.	Reasoning
+Pursuant to the Courts directions, the matter has been re examined and considering the representations filed by PSUs.	Reasoning
+It is stated in the affidavit dated 18.6.2020 that non telecom public sector undertakings are nontelecom entities involved in providing services such as power transmission, oil and gas exploration, and refining, Metrorail service, etc., and that they are not into the business of providing mobile services to the general public.	Reasoning
+They are not holding Access Service Licence (ASL).	Reasoning
+The revenue received by nontelecom public sector undertakings under the head of telecom services forms a very negligible and a small portion and does not form part of the total revenue, e.g., 0.0002 for GAIL, 0.00028 for DMRC and 0.001 for Oil India, etc. DoT has decided to withdraw the demands raised for licence fee based on nontelecom revenue from the non telecom public sector undertakings, which are M s. Powergrid, GAIL, Oil India Ltd., DMRC, which constitutes about 96 of the demand regarding nontelecom PSUs.	None
+In this regard orders have been issued on 13.7.2020 and 14.7.2020.	Decision
+Resultantly, we issue following directions That for the demand raised by the Department of Telecom in respect of the AGR dues based on the judgment of this Court, there shall not be any dispute raised by any of the Telecom Operators and that there shall not be any reassessment.	Decision
+That, at the first instance, the respective Telecom Operators shall make the payment of 10 of the total dues as demanded by DoT by 31.3.2021. TSPs.	None
+have to make payment in yearly instalments commencing from 1.4.2021 up to 31.3.2031 payable by 31 st March of every succeeding financial year.	Decision
+Various companies through Managing Director Chairman or other authorised officer, to furnish an undertaking within four weeks, to make payment of arrears as per the order.	Decision
+The existing bank guarantees that have been submitted regarding the spectrum shall be kept alive by TSPs.	Decision
+until the payment is made.	Decision
+In the event of any default in making payment of annual instalments, interest would become payable as per the agreement along with penalty and interest on penalty automatically without reference to Court.	Decision
+Besides, it would be punishable for contempt of Court.	None
+Let compliance of order be reported by all TSPs.	None
+and DoT every year by 7 th April of each succeeding year.	Decision
+In the Suo Motu Contempt Petition, in view of the reply filed and compliance reported, and an unconditional apology tendered, which we accept, we discharge notice issued to Shri Mandar Deshpande and drop the proceedings.	Decision
+Before parting with the proceedings, we place on record our appreciation for the fair and able assistance provided by Shri Tushar Mehta, Solicitor General, and the respective senior counsel appearing on behalf of respective parties.	Decision
+Accordingly, the pending interlocutory applications are disposed of in terms of the aforesaid order directions.	Decision
+All the previous orders stand modified accordingly.	Decision

@@ -1,0 +1,89 @@
+ Sikri, J.1.	None
+This is an appeal by special leave directed against the judgment of the Madras High Court answering the question whether the reassessment under S. 34 (of the Indian Incometax Act, 1922) completed on 30th June, 1953 for the year 194445 is valid in the negative.	Issue
+The relevant facts are as follows.2.	Issue
+The respondent, hereinafter referred to as the assessee, is a Hindu undivided family.	Facts
+For the assessment years 194445 and 194546, the assessee filed no returns under S. 22 of the Indian Income Tax Act, hereinafter referred to as the Act, nor were any notices issued under S. 22(2) of the Act.	Facts
+On April 3, 1948, the Incometax Officer issued notices under S. 34 for both the assessment years.	Facts
+At that time it was not necessary to obtain sanction of the Commissioner of Incometax and none was obtained.	Facts
+The assessee filed a return for the assessment year 194445 on September 4, 1948, showing an income of Rs. 4,053  which was below the HUF taxable limit of Rs.	Facts
+7200/.	Facts
+The assessee also filed a return for the assessment year 194546.	Facts
+It appears that the Incometax Officer dropped proceedings for 194445 as infructuous, but for the assessment year 194546, he passed an order on October 27, 1950, determining the net taxable income as Rs. 1,20,603/.	Facts
+The assessee appealed to the Appellate Assistant Commissioner and then appealed to the Appellate Tribunal.	Facts
+On November 19, 1952, the Appellate Tribunal allowed the appeal in part.	Facts
+It held that out of a total profits of Rs. 79,760  arising from the sale of certain properties, only Rs. 33,000 was assessable in the assessment year 194546 and Rs.	Facts
+46,760/ was assessable in the assessment year 194445.	Facts
+The Appellate Tribunal observed thus in the order The Income Tax Officer is at liberty to take such action as he may be advised about the assessees liability for the earlier year 194445.3.	Facts
+On February 27, 1953, after having obtained the sanction of the Commissioner, the Incometax Officer issued a notice purporting to be under S. 34 of the Act in respect of the assessment year 194445.	None
+It is the validity of this notice that is now in question.	Facts
+The Income Tax Officer passed an order on June 30, 1953, assessing the total income as Rs. 51, 523/.	Facts
+The Appellate Assistant Commissioner affirmed the order.	Facts
+He held that the action of the Income Tax Officer in starting proceedings under S. 34(1)(a) was valid.	Facts
+He further held that in view of the finding of the Appellate Tribunal that the Income Tax Officer would be at liberty to take action about the assessees liability to tax for 194445 assessment, the second proviso to subs.	Facts
+(3) of S. 34, as amended by Amendment Act of 1953, was applicable and consequently the time limit specified in S. 34 would not be applicable.	Facts
+The Appellate Tribunal, without going into the question whether S. 34 (1)(a) could be invoked by the Revenue, affirmed the assessment on the ground that the second proviso to S. 34 (3) of the Act, as amended, applied.4.	Facts
+At the instance of the assessee, the Appellate Tribunal referred the question set out in the beginning of the judgment.	Facts
+The High Court, as already stated, answered the question in the negative.	Facts
+It held that notwithstanding that the return filed by the assessee on September 4, 1948, was the result of an invalid notice, the return itself could not be ignored or disregarded by the Department, and the Department cannot issue a further notice under S. 34(1)(a) of the Act on the assumption that there had been an omission or failure on the part of the assessee to make a return of his income under S. 22.	Facts
+It further held that the ratio of the decision of this Court in Commissioner of Incometax v. Ranchhoddas Karsondas, 195936 ITR 569 (AIR 1959 SC 1154 ) governed the present case.5.	Facts
+Mr. Rajagopala Sastri, the learned counsel for the appellant, submits that the return was not voluntary and as it was made in pursuance of an invalid notice, must also be treated as invalid.	Arguments of Petitioner
+He says that no assessment could be made on its basis.	Arguments of Petitioner
+He further says that the case of Ranchhoddas Karsondas, 195936 ITR 569 (AIR 1959 SC l154) is distinguishable.6.	Arguments of Petitioner
+The learned counsel for the assessee raises an objection to this new point being urged at this stage.	Arguments of Respondent
+He points out that in the statement of the case filed in this Court on behalf of the appellant, one proposition of law is put thus The notice issued on 3rd April, 1948 and return filed on 4th September, 1948 being valid the proceedings thus initiated came to an end on 27th October, 1950, and there were no proceedings pending when the second notice was issued on 27th February, 1953.This proposition, he says, admits that the return was valid.	Arguments of Respondent
+On the merits he has supported the reasoning of the High Court and added that in this case assessment could have been made by the Income Tax Officer till March 31, 1949, under S. 23, treating the return as one made under S. 22.7.	Arguments of Respondent
+In our opinion the appellant is not raising any new point.	Reasoning
+It is true that in the above cited proposition the appellant says that the return is valid but this follows the assertion that the notice issued on April 3, 1948 is valid.	Reasoning
+In another part of the statement of the case, however, the appellant states thatthe return was not a voluntary return and, therefore, could not be regarded as a return on which valid assessment could be made, the case was one where no return had been filed and was also one where income had escaped assessment.	None
+Clause (a) of Section 34(1) was therefore applicable and the second notice under Section 34 was given within the period allowed by law.	None
+8.	None
+The short question which arises in this case is whether the return dated September 4, 1948, can be treated as a valid return under S.22(3) of the Act.	Issue
+Section 22(3) is in the following terms22 (3).	None
+If any person has not furnished a return within the time allowed by or under subsection (1) or subsection (2) or having furnished, a return under either of those subsections, discovers any omission or wrong statement therein, he may furnish a return or a revised return, as the case may be, at any time before the assessment is made.	None
+Section 22(3) permits an assessee to furnish a return at any time before the assessment is made.	None
+By virtue of S. 34(3), as it stood in 1949, assessment could have been made at least up to March 31, 1949, if the return was valid.	Reasoning
+Therefore, it may be implied, as laid down in Santosha Nadar v. First Additional Incometax Officer Tuticorin, 196142 ITR 715 (Mad) and Commissioner of Incometax Bombay City II v. Bagwandas Amersey, 196350 ITR 239 (Bom) that the return must be filed before the time mentioned in S. 34(3).	Reasoning
+This condition is, however, satisfied in this case.	Reasoning
+Mr. Sastri says that it is further implicit in S. 22(3) that the return must be voluntary we are unable to appreciate that every return made under S. 22(3) must be a voluntary return, in the sense that it must be suo motu.	Reasoning
+If a return is made in pursuance to a general notice under S. 22(1) or a special notice under S. 22 (2), it is a return made voluntarily but not suo motu.	Reasoning
+It is a return made in response to a public notice or a special notice.	Reasoning
+If no return is made in response to notices under S. 22(1), and S. 22(2), the Act attaches certain penalties.	Reasoning
+In our view, it is not correct first to describe a return made under S. 22(3) in response to a notice under S. 22(1) or S. 22(2) as voluntary, and then say that a return made in response to a notice under S. 34 is not voluntary just because it warns the assessee that some income has escaped assessment.	Reasoning
+In our opinion, both types of returns are under S. 22(3) of the Act.	Reasoning
+In the first type of cases it is directly under S. 22(3).	Reasoning
+In case of a notice under S. 34, it is deemed to be notice under S. 22(2) and the return deemed to be a return under S. 22(3).	Reasoning
+From the language of S. 22(3), we are unable to say that the return dated September 4, 1948, was not a return within S. 22(3).9.	Reasoning
+Mr. Sastri, however, says that this Court proceeded on a contrary view in Commissioner of Incometax Bihar and Orissa v. Pratap Singh Bahadur,196141 ITR 421 (AIR 1961 SC 1026 ).	Arguments of Petitioner
+Let us then see what was decided by this Court.	None
+Shortly stated, the facts in that case were that the Maharaja had agricultural income and interest received by him on arrears of rent for the four assessment years 194445 to 194748.	None
+The Incometax authorities did not include in his assessable income interest received by him on arrears of rent on the ground that it was agricultural income.	None
+This view was held to be wrong by the Privy Council.	None
+The Income Tax Officer issued notices under S. 34 on August 8, 1948, without obtaining the approval of the Commissioner.	None
+Section 34 was amended by the Incometax Business Profits Tax (Amendment) Act, 1948 (XLVIII of 1948).	None
+Assessments were made on the basis of the above notices dated August, 8, 1948.	None
+The question referred to the High Court was Whether in the circumstances of the case assessment proceedings were validly initiated under S. 34 of the Indian Income Tax Act.	None
+This Court held thatAs the Amending Act repealed the original Section 34 not from the day it was promulgated but from an earlier date, March 30, 1948, and substituted in its place the reenacted Section containing the proviso, and provided that the reenacted Section shall be deemed to have come into force with retrospective effect on March 30, 1948, the application of Section 6 of the General Clauses act was excluded.	None
+As the notices were all issued on August 8, 1948, at a time when on the statute book must be deemed to be existing a provision enjoining a duty upon the Incometax Officer to record his reasons and submit then for the approval of the Commissioner before issuing notice under Section 34, unless that approval was obtained the notices could not be issued.	None
+The notices issued by the Incometax Officer without complying with the conditions laid down in the proviso to Section 34(1) as reenacted were invalid, and the entire proceedings for reassessment were illegal.	None
+In view of the question referred to the High Court, this Court was not really concerned with the validity of the returns made, but Mr. Sastri relies on certain observations made by the High Court and this Court.	None
+When the reference was before the Patna High Court in Commissioner of Incometax, Bihar and Orissa v. Partap Singh Bahadur, 195630 ITR 484 (AIR 1957 Pat 61 ) the learned counsel had contended that it was physically impossible for the Income Tax Officer to comply with the requirements of the amended S. 34 on August 8, 1948.	None
+The High Court, regarding this contention, observed thatthe argument is correct, but the Income Tax Department was not prejudiced because notices under S. 34 could be reissued after the 8th of September, the date of the Amending Act, and after complying with the requirements of the amended Section 34.This Court, in the appeal from the above decision, after holding that the notices were invalid, observedIndeed, there was time enough for fresh notices to have been issued, and we fail to see why the old notices were not recalled and fresh ones issued.	None
+These observations certainly show that this Court assumed that fresh notices could have been issued in that case.	Reasoning
+Mr. Sastri says that the Department has done exactly what the Supreme Court indicated in that case should be done.	Reasoning
+But, apart from the fact that there is no discussion on the question of the validity of the return, it is possible to say that on the facts in that case fresh notices could have been issued.	Reasoning
+In Maharajah Partap Singhs case, 196141 ITR 421 (AIR 1961 SC 1026 )	None
+the Maharajah had filed return for four assessment years 194445 to 194748 under S. 22, and assessments had been made but the income of the assessee with regard to interest on arrears of rent was not included.	None
+His returns in pursuance to a notice under S. 34 could not be treated as a return under S. 22(3) because he had already filed returns and was not purporting to revise his previous returns.	None
+But in the present case the assessee had never filed a return under S. 22.	None
+The first return he filed was in response to a notice under S. 34, but he could have filed this return even without a notice under S. 34, for the four years prescribed by S. 34(3) had not expired.10.	None
+This Court in 195936 ITR 569 (AIR 1959 SC 1154 ) held that a return showing income below taxable limit was a good return and the Incometax Officer could not choose to ignore the return and issue a notice under S. 34, Hidayatullah J., speaking for the Court, observed that it is a little difficult to understand how the existence of a return can be ignored once it is filed.	None
+But this case is not of much help in determining whether the return in this case is a good return within S. 22(3) of the Act.11.	None
+Mr. Sastri further contends that if the notice under S. 34 is held to be bad, it must follow that the return made in pursuance of it must also be treated as bad.	Arguments of Petitioner
+We are satisfied that there is no substance in this contention.	None
+The decision of the Calcutta High Court in R. K. Das and Co. v. Commissioner of Incometax West Bengal, 195630 ITR 439 (AIR 1956 Cal 161 ) certainly supports Mr. Sastris contention but, with respect, we are unable to agree with the reasoning of the High Court.	Reasoning
+Apart from fact that this Court did not approve of this decision in AIR 1959 SC 1 154, we are unable to appreciate that if the Incometax Officer had based his assessment on the return treating it to be a return under S. 22(3), the assessment would not stand a moments scrutiny.12.	Reasoning
+We think that some confusion has crept into this branch of the Income Tax Law by the use of the words voluntary return and a nonvoluntary return.	Reasoning
+Section 22 (3) does not use this expression and whatever the impelling cause or motive if a return otherwise valid is filed by an assessee before the receipt of a valid notice under S. 34, it is to be treated as a return within S. 22(3) for it falls within the language of the subsection.13.	Reasoning
+In the result we agree with the High Court that the question referred to the High Court must be answered in the negative.	Decision
+Accordingly we dismiss the appeal with costs.14.	None
+Appeal dismissed.	None

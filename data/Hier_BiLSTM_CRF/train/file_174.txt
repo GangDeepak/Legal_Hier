@@ -1,0 +1,119 @@
+ NAGESWARA RAO, J. The question that arises for our consideration in these Appeals is whether Tata Power Company Limited Distribution (hereinafter, TPCD) is entitled to levy wheeling charges for the power supplied to Hindustan Petroleum Corporation Limited (hereinafter, HPCL) and wheeling charges for the power sourced from Sai Wardha Power Generation Limited (hereinafter, SWPGL) through open access.	Issue
+The Maharashtra Electricity Regulation Commission (hereinafter, the Commission) allowed the petition filed by HPCL and held that TPCD is not entitled to levy wheeling charges.	None
+Consequently, the Commission directed TPCD to refund the amounts collected from HPCL, in the form of wheeling charges.	Issue
+The Appellate Tribunal for Electricity allowed the appeal filed by TPCD and set aside the order of the Commission.	Issue
+Aggrieved thereby, the SWPGL and HPCL have filed the above Appeals.	Issue
+Tata Power Company Limited (TPC) was granted an integrated licence for supply of electricity under the provisions of the Indian Electricity Act, 1910.	Facts
+HPCL has been receiving electricity from TPC on its 22 kV distribution network since 1955.	Facts
+In 2005, HPCL augmented its oil refining facility by installing additional units.	Facts
+HPCL requested TPC to supply additional power to feed its load requirement of 70 MW on 100 per cent redundancy basis.	Facts
+The supply was required to be enhanced to extra high voltage (EHV) level.	Facts
+A power supply agreement was executed between TPC and HPCL on 20 th October, 2005 for providing power supply of 110 kV to HPCLs expansion project at Chembur.	Facts
+The actual supply of 70 MW power started in the year 2008 after the construction of 2x110 kV facility and the requisite regulatory approvals.	Facts
+In the meanwhile, as per the directions of the Commission, TPC trifurcated its assets and segregated them into different entities for generation, transmission and distribution for the purpose of accounting and tariff determination in the year 2006.	Facts
+The Commission determined separate tariffs for Tata Power Company LimitedGeneration, Tata Power Company Limited Transmission and Tata Power Company LimitedDistribution businesses for the first time on 03.10.2006.	Facts
+Thereafter, separate tariffs were determined by the Commission for Tata Power Company LimitedGeneration, Tata Power Company LimitedTransmission and Tata Power Company LimitedDistribution.	Facts
+While approving the request for construction of 2x110 kV lines for power supply of 70 MW to HPCL on 16.10.2007, the Commission directed TPC that the other consumers in the vicinity may also be supplied power from the 2x110 kV distribution lines.	Facts
+By the tariff order dated 04.06.2008, the Commission permitted the capitalization of the 2x110 kV distribution lines in the books of accounts of TPCD.	Facts
+Undisputedly, HPCL has been paying wheeling charges i.e. charges for the right to use of the distribution network since 2008.	Facts
+In the year 2014, TPC filed applications before the Commission for grant of transmission licence and distribution licence under the Electricity Act, 2003.	Facts
+On 17.04.2014, a representation was made by TPC classifying 2x110 kV lines as part of the transmission system and 33 kV and lower lines as part of the distribution system.	Facts
+The Commission granted Transmission Licence No. 1 of 2014 to Tata Power CompanyTransmission (TPCT) on 14.08.2014.	Facts
+HPCL applied to TPCD on 04.11.2015 for availing 21.02 MW short term open access for getting power as a group active user from SWPGL which was approved by TPCD.	Facts
+HPCL executed a power purchase agreement with SWPGL on 08.07.2016 with partial supply of electricity on open access.	Facts
+HPCL sought approval of TPCD for the use of its distribution network.	Facts
+On 10.10.2016, TPCT filed an application before the Commission for amendment of the transmission licence No.1 of 2014.	Facts
+TPCT stated in the said application that inclusion of the 2x110 kV lines in its network is an inadvertent error as the lines were always part of the distribution system.	Facts
+Thereafter, HPCL filed a petition on 13.04.2017 before the Commission for a declaration that TPCD was not entitled to levy and collect wheeling charges and wheeling losses on the supply of electricity through open access on the 110 kV Trombay  HPCL lines 1 and 2 including the feeder lines.	Facts
+The Commission passed an order on 12.03.2018 allowing the petition filed by HPCL holding that TPCD is not entitled to levy wheeling charges.	Facts
+The said order was set aside by the Tribunal on 22.03.2018.	Facts
+In the meanwhile, the Commission disallowed the application filed by the TPC Transmission for modification of Transmission Licence No. 1 of 2014 by an order dated 01.08.2018.	Facts
+The Appellate Tribunal set aside the order of the Commission dated 01.08.2018, disallowing the application for modification of the transmission license, and remanded the matter back for fresh consideration.	Facts
+The petition filed by HPCL was allowed by the Commission by holding that 2x110 kV Trombay  HPCL lines are part of the transmission system of TPCT as per the transmission licence issued on 14 th August, 2014.	Facts
+As long as the lines remained part of the transmission licence, the TPCD cannot claim wheeling charges as a distribution licensee.	Facts
+The submission on behalf of the TPCD that 2x110 kV lines should be considered as its distribution assets was rejected by the Commission on the ground that extra high voltage network of 66 kV and above have to be treated as part of the transmission network.	Facts
+The Commission held that the wheeling charges of TPCD was determined only for 11/22/33 kV lines.	Facts
+On the basis of the principle of segregation between HT and EHT levels in Maharashtra, the Commission held that EHV feeders emanating from the Trombay generating station squarely fall within the definition of transmission lines under Section 2 (72) of the Electricity Act, 2003.	Facts
+The Commission relied upon the Central Electricity Authority (T echnical Standards for Construction of Electrical Plants and Electric Lines) Regulations, 2010 (hereafter referred to as the CEA Regulations, 2010) which demarcate distribution and transmission boundaries on the basis of voltage levels.	Facts
+As per the CEA Regulations 2010, voltage levels from 0.415 kV to 33 kV are included under the distribution head and 66 kV to 765 kV AC and 500 kV DC voltage levels are included under transmission head.	Facts
+On the basis of the above findings, the Commission allowed the petition filed by HPCL and directed TPCD to refund the amounts collected from HPCL on the said count.	Facts
+The Appellate Tribunal framed two principal issues for consideration which are as follows Issue No.1 Whether the 110 kV HPCL feeders are part of the Distribution system of TPCD or can qualify as transmission lines in terms of the statutory framework and in the facts of the present case?	Facts
+Issue No.2	None
+Whether the erroneous submission of TPCT regarding 110 kV HPCL feeders in the transmission licence No.1 exempt HPCL from payment of wheeling charges?	Facts
+By placing reliance on an earlier judgment of the Tribunal dated 14.12.2012 in Orissa Power Transmission Corporation Limited vs. Orissa Electricity Regulatory Commission in Appeal No.30 of 2012, the Tribunal held that the 110 kV HPCL feeders from Trombay Generation Station BusBar to HPCL installation at its premises for use of electricity are an essential part of the TPC Distribution system.	Facts
+The Tribunal observed that these feeders from their inception were being used for supplying electricity to HPCL.	Facts
+The Tribunal was also of the view that an arrangement for stepping down electricity at consumers installation cannot be treated as a substation as defined in Section 2 (69) of the Electricity Act.	Facts
+Following the judgment in OPTCL, the Tribunal observed that there is no embargo that the distribution network of a distribution licensee cannot include a line of 110 kV voltage level.	Facts
+Issue No.2 was also answered in favour of TPCD.	Facts
+The Tribunal declared that 110 kV feeders are integral part of the distribution network of TPCD and that on the basis of voltage defined in the CEA Regulations 2010, the status of the licence cannot be changed from distribution to transmission.	Facts
+The Tribunal directed the Commission to re determine the wheeling charges at EHT level 110 kV by accepting the submission of HPCL that it was made to pay higher wheeling charges.	Facts
+We have heard Mr. Anand K. Ganesan, learned counsel for SWPGL, Mr. Varun Pathak, learned counsel for HPCL and Mr. Maninder Singh, learned Senior Counsel for TPCD.	None
+TPCD raised a preliminary objection relating to the maintainability of the appeal filed by SWPGL on the ground that it lacks locus standi.	Arguments of Respondent
+According to TPCD, the dispute essentially is between HPCL and TPCD.	Arguments of Respondent
+SWPGL which has stopped supplying power to HPCL on 30.09.2017 cannot be permitted to challenge the order passed by the Commission.	Arguments of Respondent
+HPCL has filed an appeal against the judgment of the Tribunal which has to be adjudicated on merits.	None
+Therefore, we have heard the learned counsel for SWPGL as well.	None
+11.	None
+It was contended on behalf of HPCL that 110 kV HPCL line is a transmission line.	Arguments of Petitioner
+The metering for HPCL is done at TPCD substation which is admittedly a transmission asset.	Arguments of Petitioner
+As a matter of fact, the sale of electricity is completed at the TPCD substation.	Arguments of Petitioner
+It was argued that on behalf of HPCL that a consumer can be connected directly to a transmission network.	Arguments of Petitioner
+HPCL submitted that the judgment of the Tribunal in OPTCL is erroneous.	Arguments of Petitioner
+Inclusion of 2x110 kV lines in the transmission assets by TPCD is a factor that cannot be ignored while deciding the entitlement of TPCD to impose wheeling charges by treating the 2x110 kV lines as part of the distribution system.	Arguments of Petitioner
+12.	Arguments of Petitioner
+It was submitted on behalf of the SWPGL that there is no prohibition or bar in the Electricity Act preventing a consumer from being directly connected to the network of a transmission licensee.	Arguments of Petitioner
+Undisputedly, 2x110 kV Trombay  HPCL lines have been declared to be part of transmission assets by TPCT.	Arguments of Petitioner
+The plea of inadvertence taken by TPCD has to be rejected in view of availability of abundant material.	Arguments of Petitioner
+SWPGL referred to the roll out plan of the distribution network made by TPC which deals only with lines upto 33 kV. According to SWPGL, the capital investment plans of distribution network also include only 11 kV and 33 kV voltage level lines.	Arguments of Petitioner
+The learned counsel appearing for SWPGL submitted that the order of the APTEL is liable to be set aside.	Arguments of Petitioner
+On behalf of the TPCD, it was argued that trifurcation took place in the year 2005 and since then, tariff was being determined separately for transmission and distribution.	Arguments of Respondent
+HPCL has been paying wheeling charges till 2018.	Arguments of Respondent
+There is no doubt that HPCL was receiving electricity from TPCDs distribution network since 1955.	Arguments of Respondent
+Reliance was placed on the tariff order dated 04.06.2008, wherein the Commission permitted capitalization of 2x110 kV distribution lines in books of accounts of TPCD.	Arguments of Respondent
+It was argued on behalf of TPCD that no transmission charges have ever been demanded or recovered for 110 kV assets.	Arguments of Respondent
+It was contended that the application filed for amendment of the transmission licence ought to have been decided by the Commission before taking up the instant dispute.	Arguments of Respondent
+A detailed submission was made on the network roll out plan to submit that the plan was qua a broad basis of consumers who are connected at 11kV/22kV/33kV and lower voltage levels.	Arguments of Respondent
+It was submitted that the network rolls out plan was only towards development of network backbone which is generally at levels below 33 kV. It was further urged on behalf of the TPCD that the 110 kV lines were always treated as a distribution asset and it was only due to inadvertence that they were included in the transmission license in 2014.	Arguments of Respondent
+The basis for the order of the Commission dated 12.03.2018, allowing the petition filed by the HPCL is two fold.	None
+Firstly, the Commission held that transmission licence was granted to TPCT on 14.08.2014, in which the two110 kV Trombay  HPCL lines were shown as a part of TPCT.	Facts
+The Commission observed that as long as the lines remained part of the transmission licence, TPCD cannot claim wheeling charges.	Facts
+The Commission further observed that HPCL is directly connected to 110 kV transmission system in terms of TPCTs transmission licence and not to the distribution network of TPCD.	None
+The Commission remarked that mere filing of a petition by TPCT for amendment of its transmission licence does not entitle TPCD to levy wheeling charges.	None
+The Commission further referred to the submission of TPCD in case No.47 of 2016 that the assets of TPCD do not include any part of TPCs transmission network.	None
+The submission of TPCD relating to the inadvertent error in showing 2x110 kV lines in the transmission network was rejected.	None
+Secondly, the Commission relied upon an Email of the Maharashtra State Load Despatch Centre (MSLDC) dated 11.12.2015 addressed to SWPGL in which it was stated that no wheeling charges can be levied on HPCL as it was connected at 110 kV level.	None
+The Commission referred to the CEA Regulations, 2010 and Central Electricity Authoritys Manual on Transmission Planning Criteria) 2013 and Maharashtra Electricity Regulatory Commission (Transmission Open Access) Regulations, 2016 to hold that all lines up to 33 kV shall be part of the distribution system and those above 33 kV form part of transmission lines.	None
+The order of the Commission was set aside by the Tribunal.	None
+The Tribunal observed that 2x110 kV HPCL feeder was being used for supplying electricity since inception and hence it is an integral part of TPCD system.	None
+By placing reliance on a judgment in OPTCL, the Tribunal held that HPCL cannot receive power supply directly from TPCT.	None
+The Tribunal further held that there is no embargo on the inclusion of the 2x110 kV lines in the distribution network and distribution can be undertaken at high voltage levels forming high voltage distribution system.	None
+While answering the second point, the Tribunal held that a consumer can directly be connected to the works of a transmission licensee.	None
+However, in the instant case, HPCL was paying wheeling charges from a long time to TPCD.	None
+Hence, the 2x110 kV lines are part of the distribution system of TPCD.	None
+Further, the T echnical Regulations framed by the CEA defining level of voltage for distribution and transmission heads were held to be generic in nature by the Tribunal.	None
+Admittedly, separate licenses for transmission and distribution to TPCT and TPCD respectively were granted in 2014.	Reasoning
+There is no dispute that TPCT included the 2x110 kV lines in its transmission assets.	Reasoning
+The network roll out plan submitted by TPCD included lines upto 33 kV in its distribution network.	Reasoning
+An application was filed by TPCT for amendment of the licence which is pending before the Commission, following the remand by the Tribunal.	Reasoning
+The Tribunal did not advert to the application filed by TPCT for amendment of the transmission licence.	Reasoning
+The Tribunal also did not refer to its order by which it set aside the order of the Commission disallowing the application for amendment of the transmission license and remanded the matter back to the Commission.	Reasoning
+The Tribunal committed an error in ignoring the existing transmission licence of TPCT before coming to a conclusion that 2x110 kV lines are part of the distribution network.	Reasoning
+The Tribunal ought to have directed the Commission to adjudicate the application filed by TPCT for amendment of the transmission licence.	Reasoning
+Thereafter, the Tribunal should have decided an appeal, if any, filed against the decision of the Commission on the application for amendment before taking up the appeal filed by TPCT against the order of Commission dated 12.03.2018.	Reasoning
+The Tribunal stressed on the fact that HPCL was receiving power from TPCD from a very long time for which reason, the 2x110 kV lines should form part of the distribution system of the TPCD.	Reasoning
+The Tribunal was wrong in not taking note of the application filed by TPCT for amendment of its transmission licence in which the 2x110 kV lines were included in the transmission network.	Reasoning
+Till the transmission licence of TPCT is not modified, the 2x110 kV lines form part of the transmission network of TPCT.	Reasoning
+The Tribunal could not have held that 2x110 kV lines should be included in the distribution system of TPCD.	Reasoning
+The CEA Regulations 2010, the Maharashtra Electricity Regulatory Commission (Transmission Open Access) Regulations, 2016 and the Maharashtra Electricity Regulatory Commission (Distribution Open Access) Regulations, 2016 provide for demarcation between the transmission and distribution boundaries on the basis of voltage.	Reasoning
+The Tribunal erred in ignoring the said Regulations while holding that 2x110 kV lines are part of the distribution system.	Reasoning
+We are of the opinion that the judgment of the Tribunal is required to be set aside and that the matter should be remanded back for fresh consideration.	Reasoning
+Therefore, we are not expressing any opinion on the findings recorded by the Tribunal on interpretation of the provisions of the Electricity Act, 2003.	Reasoning
+As a matter of fact, the transmission licence issued to TPCT includes 2x110 kV lines as part of the transmission system.	Reasoning
+Therefore, it is not open to TPCT to contend that 2x110 kV line is a part of the distribution system of TPCD till the transmission licence is modified.	Reasoning
+It is essential that the application filed by TPCT for amendment of its transmission licence is decided first.	Reasoning
+If the application filed for amendment by TPCT is allowed and reaches finality, the 2x110 kV lines will not form part of the transmission network.	Reasoning
+On the other hand, if the application of TPCT for amendment of its licence is rejected, TPCD cannot have a case for seeking inclusion of 2x110 kV lines in its distribution system for imposing wheeling charges on HPCL.	Reasoning
+Therefore, we direct the Commission to decide the application filed by TPCT for amendment of the transmission licence issued in the year 2014 expeditiously and not later than a period of two months from the date of resumption of work after the lockdown due to Corona Virus is lifted.	Decision
+The appeal, if any, filed by the aggrieved party shall be decided by the Tribunal within a period of three months from the date of filing.	Decision
+Thereafter, the Tribunal shall take up Appeal No.84 of 2018.	Decision
+For the aforementioned reasons, we set aside the judgment of the Tribunal and remit Appeal No.84 of 2018 to the Tribunal for fresh adjudication.	Decision

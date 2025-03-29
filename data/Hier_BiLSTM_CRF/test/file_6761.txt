@@ -1,0 +1,83 @@
+ Smt.
+Ranjana Desai, J.1.
+Respondent 1 is a banking corporation incorporated under the laws of Germany having its Head Office at Kaizerplatz, Frankfurt, Germany.
+The petitionercompany had taken certain credit facilities from respondent 1.
+The petitioners did not clear the outstanding dues and, therefore, respondent bank filed Original Application No. 153 of 2001 for recovery of the said amount in the Debts Recovery Tribunal II, Mumbai (for short, the DRT).2.
+It is the petitioners case that after they filed their written statement in January, 2002, they came to know from the newspaper reports that respondent 1 had surrendered its banking licence in India and had stopped its banking operation in India.
+The petitioners therefore filed a miscellaneous application and called upon respondent 1 to produce the banking licence.
+Respondent 1 in its reply admitted that it had surrendered its banking licence.
+The petitioners, therefore, filed a miscellaneous application seeking dismissal of the original application on the ground that respondent 1 was no longer a bank as defined under the Recovery of Debts Due to Banks and Financial Institution Act, 1993 (for short, the RDDB Act).3.
+Respondent 1 opposed the said application.
+It contended that it was a bank at the time of filing of the original application and, therefore, the DRT had jurisdiction to entertain and decide the application.
+The Presiding Officer by his order dated 13/3/2003 dismissed the said application.
+Being aggrieved by the said order, the petitioners preferred an appeal before the Debts Recovery Appellate Tribunal (for short, the DRAT).
+By order dated 30/5/2003, the DRAT dismissed the said appeal.
+Hence, this writ petition.4.
+We have heard, at some length, Mr. Sen, learned counsel appearing for the petitioners.
+Counsel submitted that respondent 1 having surrendered its licence, it was no longer a bank for the purpose of RDDB Act.
+Counsel pointed out that under Section 2(d)(i) of the RDDB Act, bank means a banking company.
+Section 2(e) thereof, defines banking company.
+It says that banking company shall have the meaning assigned to it in clause (c) of Section 5 of the Banking Regulation Act, 1949 and clause (c) of Section 5 of the Banking Regulation Act, 1949 says that banking company means any company which transacts the business of banking in India.
+Counsel submitted that by surrendering its licence, respondent 1 gave up its status as a bank and consequently, DRTs jurisdiction was ousted.
+Counsel submitted that under Section 17 of the RDDB Act, the DRT has to entertain and decide the application.
+No doubt, when the application was filed by respondent 1, the DRT could have entertained it because at that time, respondent 1 was a bank.
+But, since due to the subsequent event, respondent 1 was robbed of its character as a bank, the DRT cannot decide the application.
+The words entertain and decide are important.
+The DRT must not merely have jurisdiction to entertain the application but it must have jurisdiction to decide it.
+Counsel submitted that therefore, the DRT and DRAT erred in rejecting the petitioners application.5.
+Mr. Chinoy, learned senior counsel for respondent 1bank, on the other hand, submitted that the impugned orders calls for no interference.
+In support of his submissions, counsel relied on Smt.
+Ujjam Bai v. State of Uttar Pradesh Anr.
+AIR 1962 SC 1621 and Carona Ltd. v. Parvathy Swaminathan Sons.
+(2007) 8 SCC 559.
+6.
+There is no dispute about the fact that when respondent 1 filed the application, it had banking licence.
+While accepting the surrender of the banking licence, the Reserve Bank of India had allowed respondent 1 to open Special Rupee Account with a bank inter alia for crediting the recovered loan amounts.
+The affidavit of Mr. C.G. Pradeep Kumar, Head Credit Administration of respondent 1 discloses that the petitioners have admitted in the Restructuring Agreement dated 22/9/1999 that as on 16/8/1999, a sum of Rs.12,31,45,872/ towards principal amount and an amount of Rs.2,04,19,983/ towards interest is due and payable by the petitioners to respondent 1.7.
+Having ascertained the facts, we shall now go to the law point raised by the petitioners which, in our opinion, is clearly covered by the Supreme Courts judgment in Carona Ltd.8.
+In Carona Ltd., the respondentlandlord had filed a suit against the appellantcompany, who was the tenant for eviction in the Small Causes Court at Mumbai on the ground, inter alia, that the appellant company was in arrears of rent.
+By notice dated 23/2/2001, the tenancy was terminated with effect from 31/3/2001 and the suit was filed on 2/4/2001.
+The Maharashtra Rent Control Act (for short, the Rent Act) came into force with effect from 31/3/2000.
+It repealed the Bombay, Rents, Hotel and Lodging House Rates Control Act, 1947.
+Section 3 of the Rent Act states that the Rent Act would not apply to certain premises.
+It states that the Rent Act would not apply to any premises let or sublet to banks, or any public sector undertakings or any corporation established by or under any Central or State Act, or foreign missions, international agencies, multinational companies, and private limited companies and public limited companies having a paid up share capital of rupees one crore or more.
+The appellantcompany had paid up share capital of more than rupees one crore, not only when the notice was issued and tenancy was determined but also when the suit for possession was instituted.
+However, after the suit was filed, a resolution was passed by the Board of Directors to reduce its paid up share capital from Rs.8.20 crores to Rs.41 lakhs (less than Rs.1 crore).
+Thus, upon reduction of share capital, it lost the exemption granted by Section 3 of the Rent Act.
+The trial court held that the appellantcompany was a tenant that the Rent Act was not applicable and that the tenancy was legally and validly terminated and the defendant is liable to be evicted.
+The appellate court of the Small Causes Court confirmed the said decree.
+A writ petition carried from the said order was dismissed by the High Court.
+It was, inter alia, urged before the Supreme Court that the fact as to paid up share capital of rupees one crore or more of a company is a jurisdictional fact and in absence of such fact, the trial court had no jurisdiction to proceed on the basis that Rent Act is not applicable.9.
+The Supreme Court agreed with the submission of learned counsel that the fact as to paid up share capital of a company can be said to be a preliminary or jurisdictional fact and the said fact would confer jurisdiction on the court to consider the question whether the provisions of the Rent Act were applicable and proceeded to consider whether on account of reduction of paid up share capital, jurisdictional fact did not exist and, therefore, the Rent Act was applicable.
+On the basis of judgment of the Supreme Court in Pasupuleti Venkates Work v. Motor General Traders (1975) 1 SCC 770 , it was argued that it was obligatory on the courts below including the High Court to take into consideration subsequent events.
+In Pasupuleti, the Supreme Court was dealing with a suit for possession on the ground of personal requirement for starting business.
+A decree for possession was passed in favour of the plaintifflandlord which was confirmed by the appellate court.
+At the stage of revision, due to subsequent event of acquisition of nonresidential building by the plaintifflandlord, an application for amendment was made by the defendanttenant which was allowed by the High Court.
+It was contended before the Supreme Court that the High Court committed an error in taking cognizance of subsequent event.
+The Supreme Court held that the right to relief must be judged to exist as on the date a suitor institutes the legal proceeding, but if a fact arising after the lis has come to court has a fundamental impact on the right to relief or the manner of moulding it, the court cannot blink at it because equity justified bending the rules of procedure where no specific provisions or fairplay is violated with a view to promoting substantial justice subject to the absence of other disentitling circumstances.
+The Supreme Court affirmed the proposition that for making the right or remedy claimed by the party just and meaningful the court can, and in many cases, must take cautious cognizance of events and developments subsequent to the institution of the proceedings provided the rules of fairness to both sides are scrupulously obeyed.10.
+After noting these observations made in Pasupuleti on which reliance was placed by the appellant therein, in Carona Ltd., the Supreme Court observed that the law is fairly settled, that the basic rule is that the rights of the parties should be determined on the basis of the date of institution of the suit.
+Thus, if the plaintiff has no cause of action on the date of the filing of the suit, ordinarily, he will not be allowed to take advantage of the cause of action arising subsequent to the filing of the suit.
+The Supreme Court further observed that conversely, no relief will normally be denied to the plaintiff by reason of any subsequent event if at the date of the institution of the suit, he has a substantive right to claim such relief.
+Insofar as the facts before it were concerned, the Supreme Court held that the courts below were right in holding that the date on which tenancy was determined, the right in favour of the landlord got accrued.
+Such right could not have been set at naught by the tenant by unilateral act by passing a resolution to reduce paid up share capital of the company.11.
+In our opinion, the above observations of the Supreme Court are clearly attracted to the present case.
+No doubt, the court can take into account subsequent events.
+But in Pasupuleti, the Supreme Court has clarified that that has to be done on equitable considerations with a view to promoting substantial justice.
+In this case, the outstanding dues payable by the petitioners to respondent 1 as on 16/8/1999 are stated to be Rs.12,31,45,872/ towards principal amount and Rs.
+2,04,19,983/ towards interest.
+There is no dispute about the fact that when respondent 1 filed the original application, the DRT had jurisdiction to entertain it.
+Respondent 1 had substantive right to claim the amount.
+It cannot be denied to it because it has surrendered its licence during the pendency of the original application.
+Surrender of the banking licence does not extinguish the petitioners liability.
+Respondent 1 cannot be denied relief because of the subsequent event since at the date of the institution of the suit, it had a substantive right to claim the relief.
+In any case, as observed by the Supreme Court, subsequent events may be taken into account to promote substantive justice and on equitable considerations.
+Surely, by ousting DRTs jurisdiction, there would be no promotion of substantial justice nor would that be equitable.12.
+We may also usefully refer to the judgment of the Supreme Court in Ujjam Bai where, while considering the concept of jurisdiction, the Supreme Court observed as underJurisdiction means authority to decide.
+Whenever a judicial or quasi judicial tribunal is empowered or required to enquire into a question of law or fact for the purpose of giving a decision on it, its findings thereon cannot be impeached collaterally or on an application for certiorari but are binding until reversed on appeal.
+Where a quasijudicial authority has jurisdiction to decide a matter, it does not lose its jurisdiction by coming to a wrong conclusion, whether it is wrong in law or in fact.
+The question whether a tribunal has jurisdiction depends not on the truth or falsehood of the facts into which it has to enquire, or upon the correctness of its findings on these facts, but upon their nature, and it is determinable at the commencement, not at the conclusion, of the inquiry.
+(emphasis supplied.)13.
+In view of the above, we find no substance in the petition.
+The petition is, therefore, dismissed.
+Rule is discharged with no order as to costs.

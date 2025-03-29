@@ -1,0 +1,175 @@
+ ORAL JUDGMENT (DR. D.Y. CHANDRACHUD, J.)The question of law1.
+This appeal arises out of an order of the Income Tax Appellate Tribunal dated 21 October 2009 for Assessment Year 200304.
+The Revenue which is in appeal under Section 260A of the Income Tax Act, 1961 has raised the following substantial question of law A. Whether on the facts and in the circumstances of the case and in law the Tribunal was justified in holding that the deduction admissible vide Explanation (iv) to section 115JB(2) of the Income Tax Act towards profit exempt u s. 80HHC has to be quantified with reference to the profits as per accounts duly adjusted under various clauses to the Explanation of Section 115JB and not with reference to the normal computation under the chapter Profits and Gains of Business or Profession 2.
+The appeal is admitted.
+With the consent of counsel appearing on behalf of the Revenue and the assessee and on their request the Appeal has been taken up for hearing and final disposal.
+The facts3.
+The assessee engages in the manufacture and processing of meat and meat products and has an abattoir at Hyderabad.
+The assessee is both a manufacturer and an exporter.
+For Assessment Year 200304, the assessee filed its return of income on 28 November 2003 declaring a nil income, after setting off unabsorbed depreciation of the earlier years.
+The assessee computed its book profits for the purposes of Section 115JB at Rs. 55.41 lacs.
+While computing the profits eligible for deduction under Section 80HHC, in order to compute book profits, the assessee disclosed a total turnover of Rs.141.35 Crores and a total export turnover of Rs.118.21 Crores.
+The adjusted turnover and adjusted export turnover was at Rs. 112.61 Crores and Rs.89.47 Crores.
+The eligible deduction under Section 80HHC was computed at Rs.2.14 Crores as follows Adjusted profit of the business X Adjusted Export TurnoverAdjusted Total Turnover 2,69,71,336 X 89,47,87,484 2,14,29,4331,12,61,90,011The assessee deducted from the book profits, the profits eligible for deduction under Section 80HHC of Rs.2.14 Crores.4.
+The Assessing Officer, in applying the formula prescribed under sub section (3) of Section 80HHC, for the purpose of computing the eligible profits for deduction from the book profits, adopted a figure of Rs. 4,00,75,199/as the adjusted profit of business as opposed to the aforesaid figure of Rs.2,69,71,336/adopted by the assessee.
+After applying the restriction of 50 as contained in sub section (1B) of Section 80HHC, the Assessing Officer computed the eligible deduction under Section 80HHC at Rs.90,46,441/.5.
+The Commissioner (Appeals) noted that the Assessing Officer had while determining the profits eligible for deduction under Section 80HHC computed the deduction under the normal provisions of the Act.
+The Commissioner accepted the contention of the assessee that while computing the profits eligible for deduction under Section 80HHC the computation had to be made with reference to the net profits in the Profit and Loss Account of the assessee and not in accordance with the profits as computed under the head of profits and gains of business or profession.
+Hence, for the purpose of computing profits eligible for deduction under clause (iv) of the Explanation to Section 115JB, the Commissioner took the view that the deduction had to be made on the basis of the net profits as disclosed in the Profit and Loss Account of the assessee and not as computed with reference to the provisions of the Act.
+In doing so, the Commissioner followed the decision in the case of the earlier assessment years.
+The Tribunal confirmed the order of the Commissioner, following its own decision in the case of the assessee for Assessment Years 199899 and 19992000.The statutory context6.
+Before we set out the rival submissions that have been urged by the parties, a reference to the statutory context in which those submissions have been urged would need some elaboration.
+7. Section 115JB provides inter alia that notwithstanding anything contained in any other provision of the Act, where an assessee is a company and the income tax payable on the total income as computed under the Act in respect of any previous year relevant to an assessment year commencing on or after 1 April 2001 is less than ten percent of its book profits, such book profits shall be deemed to be the total income of the assessee and the tax payable by the assessee on such total income shall be the amount of income tax at the rate of ten percent.
+Sub section (2) of Section 115JB requires an assessee which is a company to prepare for the purpose of the Section its profit and loss account for the relevant previous year in accordance with the provisions of Parts II and III of Schedule VI to the Companies Act 1956.
+The expression book profit for the purposes of the Section is defined by Explanation 1 to mean the net profit as shown in the profit and loss account for the relevant previous year, prepared under sub section (2), as increased by the amounts more particularly detailed in clauses (a) to (i) and as reduced by the amounts specified in clauses (i) to (viii).8.
+The controversy in the present case revolves around clause (iv) of the Explanation.
+Under clause (iv) the net profits as shown in the profit and loss account have to be reduced by (iv) the amount of profits eligible for deduction under Section 80HHC, computed under clause (a) or clause (b) or clause (c) of subsection (3) or subsection (3A), as the case may be, of that section, and subject to the conditions specified in that section9.
+Now Section 80HHC provides for a deduction in the case of an assessee engaged in the business of export out of India of goods or merchandise to the extent of profits derived from export.
+Subsection (3) of Section 80HHC provides a formula for the determination of profits derived from the export.
+In the case of a manufacturer exporter clause (a) of subsection (3) stipulates that the proportion of the export turnover to the total turnover of the business is to be applied to the profits of the business in deducing the profits derived from export.
+Explanation (baa) defines the expression profits of the business to mean the profits of the business as computed under the head Profits and gains of business or profession as reduced by certain specified sums to the extent provided.
+Broadly speaking those sums, ninety percent of which are to be excluded consist of incentive incomes and independent incomes which are considered by the legislature as not bearing a nexus with exports.
+10.
+In essence, the issue before the Court in the present case is about how the reduction factor in clause (iv) of the Explanation to Section 115JB is to be applied.
+The reduction is of the amount of profits eligible for deduction under Section 80HHC computed under clauses (a), (b) or (c) of subsection (3) or sub section 3A and subject to the conditions as specified therein.
+The stand point of the assessee is that the expression amount of profits eligible for deduction under Section 80HHC must be based on the net profits of the assessee as reflected in the Profit and Loss account.
+According to the Revenue, in computing the deduction under Section 80HHC, which is to be reduced from the net profits for arriving at the book profits of the assessee, both the quantum and the manner of the deduction must be taken as prescribed by Section 80HHC.
+Consequently, consistent with the contention of the Revenue the Assessing Officer adopted the figure of Rs.4,00,75,199/as the adjusted profits of the business while applying the formula under sub section 3(a) of Section 80HHC.
+This figure was arrived at by the Assessing Officer by computing the profits of the business in accordance with the provisions of Section 80HHC.
+The assessee on the other hand adopted a figure of Rs.2,69,71,336/since according to it, in applying clause (iv) of the Explanation to Section 115JB the deduction of eligible profits must be computed with reference to the net profits of the assessee as shown in its Profit and Loss Account and not on the basis of the provisions of Section 80HHC.
+Submissions11.
+Counsel appearing on behalf of the Revenue submitted that (i) In interpreting the provisions of clause (iv) of the Explanation to Section 115JB the emphasis is on the expression computed.
+What the provision requires is that while computing the amount of profits eligible for deduction under Section 80HHC the computation has to be made under subsection (3) (ii) The deeming fiction under subsection (1) of Section 115JB applies in a situation where the income tax payable on the total income as computed under the Act in the case of a company is less than ten percent of its book profits.
+The consequence under the deeming fiction is that the book profit shall be deemed to be the total income and the tax payable thereon shall be at the rate of ten percent (iii) Different criteria cannot be applied to a company in whose case the income tax payable is in excess of ten percent of its book profits and a company in whose case the income tax payable is less than ten percent of the book profits.
+In both cases Section 80HHC(3) has to be applied (iv) The circulars dated 4 May 1990 and 21 February 1994 upon which reliance is placed by the assessee were issued in the context of Section 115J and will not apply to the interpretation of Section 115JA or Section 115JB in which there is a material change of language (v) By the provisions of clause (iv) of Explanation 1 to Section 115JB
+no additional benefit has been sought to be conferred on companies governed by the Minimum Alternate Tax (MAT).
+All that Parliament envisaged was that the benefit of Section 80HHC should be made available to such companies in the same manner and to the same extent to which the benefit would be made available to other companies which carry on export.
+Hence, in computing the amount of profits which have to be reduced from the book profits under clause (iv) of the Explanation to Section 115JB the computation must be arrived at in accordance with the provisions of Section 80HHC.
+12.
+On the other hand, it was urged on behalf of the assessee that (i) Section 115JB is a selfcontained provision which creates a deeming fiction in which the book profits constitute the total income of an assessee.
+The reference point is the net profit which is shown in the Profit and Loss account (ii) In the net profits of the assessee in the Profit and Loss Account, there are profits from export and those profits are eligible for deduction under Section 80HHC (iii)
+The assessee satisfies the first part of clause (iv) of the Explanation since it has profits in its books from exports and which are eligible for deduction (iv) The expression amount of profits eligible for deduction under Section 80HHC would mean profits of the business of the assessee of export, which qualify for deduction.
+Embedded in the net profits are profits from export which have to be reduced from the net profit by applying the computation in subsection (3) of Section 80HHC (v) The normal method of computation is bypassed under Section 115JB.
+The plain consequence is that the expression profits of business in the formula prescribed by subsection (3) of Section 80HHC would have to be substituted by the expression book profits.
+The extent of the deduction from book profits would, it is submitted, increase as a result, but this is a consequence which ensues from the statutory provision.
+In applying clause (iv) of the Explanation only the method of computation which is prescribed by subsection (3) of Section 80HHC has to be adopted.
+But a deduction is to be worked out not with reference to the profits of the business as stated therein, but with reference to the book profits.
+Legislative history13.
+Parliament initially introduced the provisions of Section 115J by the Finance Act of 1987 with effect from 1 April 1988.
+Section 115J, forms a part of Chapter XIIB.
+Section 115J was brought on the statute book specifically with a view to deal with zero tax but highly profitable companies.
+These companies could not be brought within the net of income tax prior to the introduction of the provision because their accounts were being adjusted in such a manner as to attract no tax or negligible tax.
+A provision was therefore introduced whereby every company would have to pay a minimum corporate tax on the profits declared by it in its own accounts.
+Under Section 115J the income reflected in the books of account of a company became the deemed income for the purpose of assessing tax.
+As we have noted earlier, the Explanation to Section 115J provided that for the purposes of the Section book profit would mean the net profit as shown in the profit and loss account prepared under subsection (1A) as increased by amounts specifically stipulated in the Explanation and as reduced by stipulated amounts.
+Under subsection (1A) every company was, for the purposes of the Section, required to prepare its profit and loss account in accordance with the provisions of Parts II and III of Schedule VI to the Companies Act 1956.The Apollo Tyres judgment14.
+In its decision in Apollo Types Ltd. v. Commissioner of Income Tax (2002) 255
+ITR 273 the Supreme Court held that the Assessing Officer while.
+Computing the income under Section 115J will only have the power to examine whether the books of account are certified by the authorities under the Companies Act 1956 as having been properly maintained in accordance with that Act.
+Thereafter the Assessing Officer would have a limited power of making increases and deductions as provided for in the Explanation.
+The Assessing Officer would not have the jurisdiction to go behind the net profits shown in the profit and loss account except to the extent provided in the Explanation to Section 115J. Consequently, the Supreme Court made it clear that while the net profit as shown in the profit and loss account duly certified could not be reopened, the Assessing Officer did have the jurisdiction to effect the increases and the reductions as provided in the Explanation.
+Section 115J15.
+In Section 115J as it originally stood, Parliament had not provided for a reduction from the book profits, of the deduction which was made available under Section 80HHC to exporting companies covered by Chapter XII B. Such a provision was brought into force by the Direct Tax Laws (Amendment) Act with effect from 1 April 1989.
+By the amendment, clause (iii) came to be inserted as a result of which the following reduction was envisaged from the net profits as shown in the profit and loss account (iii) the amounts as arrived at after increasing the net profit by the amounts referred to in clauses (a) to (f) and reducing the net profit by the amounts referred to in clauses (i) and (ii) attributable to the business, the profits from which are eligible for deduction under Section 80HHC or section 80HHD so, however, that such amounts are computed in the manner specified in subsection (3) or subsection (3A) of section 80HHC or subsection (3) of section 80HHD, as the case may be 16.
+Section 115J held the field for previous years commencing from 1 April 1989 and ending on 31 March 1991.
+Section 115JA17.
+Subsequently with effect from 1 April 1997 the provisions of Section 115JA were introduced by the Finance (No.2) Act, of 1996.
+When Section 115JA was introduced, there was no provision for reducing the profits eligible for deduction under Section 80HHC from the net profits.
+Such a provision was brought into effect by the Finance Act of 1997 with effect from 1 April 1998.
+As a result of the amendment, clause (viii) was inserted into the Explanation so as to provide for a reduction of the profits eligible for deduction under Section 80HHC in the following terms (viii) the amount of profits eligible for deduction under section 80HHC, computed under clause (a), (b) or (c) of subsection (3) or subsection (3A), as the case may be, of that section, and subject to the conditions specified in subsections (4) and (4A) of that section18.
+Section 115JA applied in relation to previous years relevant to Assessment Years commencing from 1 April 1997 and until 31 March 2001.
+Eventually, Parliament enacted Section 115JB by the Finance Act of 2000 with effect from 1 April 2001.Section 115JB19.
+Subsection (1) of Section 115JB creates a deeming fiction whereby the book profits shall be deemed to be the total income of the assessee and the tax payable by the assessee on the total income shall be the amount of income tax at the rate specified therein.
+The deeming fiction is brought into existence where in the case of a company which is an assessee, the income tax payable on the total income as computed under the Act is less than ten percent (at the relevant time) of its book profit.
+Sub section (1) of Section 115JB commences with a nonobstante clause which gives to the provision overriding force and effect over the other provisions of the Act.
+Subsection (1) of Section 115JB essentially provides for two stages (i) first the computation of the income of the assessee under the Act in respect of any previous year relevant to the assessment year commencing on or after the date stipulated in subsection (1) and (ii) If the income as computed under the Act in respect of the relevant previous year is less than the stipulated percentage of its book profit (ten percent at the relevant time) then the book profit is to be the total income of the assessee and the tax payable by the assessee on such total income shall be income tax computed at the rate prescribed in subsection (1).
+Explanation 1 to Section 115JB provides that for the purposes of the Section book profit shall mean the net profit as shown in the profit and loss account for the relevant previous year as increased by the amounts referred to in clauses (a) to (i) and as reduced by the amounts reflected in clauses (i) to (viii).
+Clause (iv) refers to the amount of profits eligible for deduction under Section 80HHC computed under clause (a) or clause (b) or clause (c) of subsection (3) or subsection (3A), as the case may be, of that section and subject to the conditions specified in that section.
+Interpretation of Section 115JB20.
+Now in interpreting the provisions of Clause (iv) of the Explanation the legislative intent underlying the introduction of Section 115JB and its precursors, Sections 115J and 115JA must be borne in mind.
+While introducing these provisions, Parliament intended to deal with a situation where highly profitable companies were subjected to zero tax or negligible tax by virtue of the deductions and exemptions which were provided in the Act.
+It was in view of this regime that a change was brought about by Parliament by subjecting such companies to a Minimum Alternate Tax (MAT) under which the book profits would be deemed to be the total income of the assessee.
+Explanation 1 to Section 115JB stipulates that the net profits as contained in the profit and loss account would constitute the book profits, but that those profits would have to be increased and reduced in the manner provided in the Section.
+21.
+The underlying object of Section 115JB is not to confer an additional benefit on companies which are governed by the MAT regime.
+As we have noted, when Sections 115J and 115JA were initially introduced, no provision was made for reducing from the net profits the deduction which is made available under Section 80HHC to exporters.
+Consequently, the provisions of Sections 115J and 115JA were amended subsequently so as to provide for a reduction from the net profits of the deduction available under Section 80HHC.
+Clause (iii) of the Explanation to Section 115J was not artistically worded.
+Under clause (iii) the reduction was of the amounts attributable to the business, the profits from which are eligible for deduction under Section 80HHC or 80HHD so however, that such amounts are computed in the manner specified in subsection (3) or subsection (3A) of Section 80HHC or subsection (3) of Section 80HHD, as the case may be.
+When the provisions of Section 115JA were amended with effect from 1 April 1998, the extent of the reduction from net profits with reference to the deduction available under Section 80HHC was provided for by Parliament in language which was specific and which would clarify the intention of Parliament.
+Clause (viii) of the Explanation to Section 115JA refers to the amount of profits eligible for deduction under Section 80HHC, computed under clause (a), (b) or (c) of subsection (3) or subsection (3A), as the case may be, of that section, and subject to the conditions specified in sub sections (4) and (4A) of that section.
+22.
+When Parliament enacted Section 115JB with effect from 1 April 2001, a similar provision was made in clause (iv) of Explanation 1.
+Clause (iv), however, makes it clear that the amount of profits eligible for deduction under Section 80HHC would have to be computed under subsections (3) or (3A), as the case may be, and would be subject to all the conditions specified in that section.
+The amount of profits eligible for deduction under Section 80HHC has to be computed in accordance with subsection (3), or as the case may be, (3A) of that section.
+For the purposes of arriving at that amount, the provisions of Section 80HHC have to be followed and the computation has to be arrived at in accordance with the provisions of subsection (3) or subsection (3A).
+Now as we have noted earlier, clause (a) of subsection (3) of Section 80HHC postulates that the export profits shall be deduced by applying the proportion of the export turnover to the total turnover to the profits of the business.
+The profits of the business have to be determined under Explanation (baa) and are defined to mean the profits of the business as computed under the head of profits and gains of business or profession and as reduced under clauses (i) and (ii) thereto.
+23.
+The submission of the assessee is that in applying the formula which is prescribed by subsection (3) of Section 80HHC, it is not the profits of the business as computed under the head of the profits and gains of business or profession under the Act, but the net profits as reflected in the profit and loss account of the assessee that must be adopted.
+To accept the submission of the assessee, would be to rewrite the provisions of subsection (3) of Section 80HHC which is plainly impermissible for the Court to do.
+That it would be impermissible for the Court to carry out such an exercise is fortified by the fundamental principle that the object of Section 115JB was not to confer an additional benefit upon assessees governed by the MAT regime.
+What clause (iv) of the Explanation to Section 115JB provides is that the profits which would be eligible for deduction under Section 80HHC would be reduced from the net profits as part of the exercise of computing the book profits for the purposes of the section.
+The entirety of the profits which are eligible for deduction under Section 80HHC have to be computed and then reduced from the net profits as reflected in the books of account of the assessee.
+CBDT Circulars of 4 May 1990 and 21 February 199424.
+Counsel appearing on behalf of the assessee placed reliance on two circulars of the Central Board of Direct Taxes, the first of them being of 4 May 1990 and the second of 21 February 1994.
+Now when both these circulars were issued by the Board, the provisions of Section 115J held the field.
+As we have noted earlier, the language of clause (iii) of the Explanation to Section 115J was different from the provision which Parliament subsequently made in clause (viii) of the Explanation to Section 115JA and now in clause (iv) of the Explanation to Section 115JB.
+Clause (iii) of the Explanation to Section 115J made a reference to the amounts attributable to the business, the profits from which are eligible for deduction under Section 80HHC.
+This was, however, made subject to the condition (the condition being evident by the use of the words so, however) that such amounts would be computed in the manner specified inter alia in subsections (3) and (3A) of Section 80HHC.
+It was in the context of Section 115J as it then stood, that the circular dated 4 May 1990 provided that Section 115J as originally drafted had taken away the 100 percent exemption which was to be allowed in respect of export profits and watered down the encouragement which was to be provided to such foreign exchange earning activities.
+The circular states that since the intention was that 100 percent of such profits should be exempt, it was decided that the profits which are exempt under Sections 80HHC and 80HHD, should be excluded from the purview of Section 115J.
+While construing the provisions of clause (iii) of the Explanation, the circular provided that the net profit to be excluded shall be computed in the same manner as provided for in subsections (3) and (3A) of Section 80HHC.
+The circular states that the profits exempt under Sections 80HHC and 80HHD have been excluded from the purview of section 115J. 25.
+The subsequent circular dated 21 February 1994 notes that a doubt had been expressed as to whether the amount quantified under Section 80HHC(3) or 3(A) itself should be deducted under Explanation (iii) to Section 115J or whether only the manner of computation specified in those sections should be followed to quantify the amount of deduction.
+According to the circular, it is only the manner of computation specified in Section 80HHC (3) or (3A) and not the amounts themselves that should be imported into Explanation (iii) under Section 115J. The circular then provided for the method by which the deduction was to be effected.
+26.
+Both these circulars were in the context of Section 115J, the provisions of which were materially altered by Parliament while enacting clause (viii) of the Explanation to Section 115JA and subsequently clause (iv) of Explanation 1 to Section 115JB.
+In these circumstances, the provisions made in these two circulars cannot control the meaning to be ascribed to clause (iv) of the Explanation to Section 115JB.
+The judgments of the Kerala and Madras High Courts27.
+At this stage, it would be necessary to advert to the judgment of the Kerala High Court in Commissioner of Income Tax v. G.T.N. Textiles Ltd. (2001) 248 ITR 372.
+The question before the Kerala High Court was whether the manner and method of computing the deduction under Section 80HHC for the purposes of Section 115J, as urged by the assessee, was correct and whether the Tribunal was right in holding that the computation of net profits for the purpose of estimating the export profits under Section 80HHC, for allowing a deduction under Section 115J should not be made in the ordinary manner of computing the income from business or profession by applying the normal provisions of the Income Tax Act 1961.
+The Kerala High Court adverted to the circulars dated 4 May 1990 and 21 February 1994 and held that under clause (iii) of the Explanation to Section 115J, it was not Section 80HHC which was applicable as such.
+According to the judgment, it is only that the profit was to be determined in the manner provided in Section 115J and Section 80HHC was made applicable only to the extent of calculating the deduction.
+As we have already noted earlier, the circulars upon which reliance was placed by the Kerala High Court were issued by the Central Board in the context of the provisions of Section 115J as they then stood.
+That apart, it is now evident from the provision made in clause (iv) to Explanation 1 to Section 115JB that the provisions of Section 80HHC are made applicable not only for the purposes of computation, but it is the amount of profits eligible for deduction under Section 80HHC and as computed under subsections (3) or (3A), as the case may be, that have to be reduced from the net profits of the assessee.
+A subsequent judgment of the Madras High Court in Commissioner of Income Tax v. Rajanikant Schnelder and Associates Pvt. Ltd. (2008) 302 ITR 22 (Mad) similarly construed the provisions of clause (iii) of the Explanation to Section 115J. The question before the Madras High Court was whether the Tribunal was right in holding that an assessee having no profit from export was eligible for deduction under Section 80HHC on its book profits under Section 115J. The Division Bench of the Madras High Court held that the Assessing Officer was not entitled to touch the profit and loss account prepared by the assessee and the book profits so arrived at should be the basis for taxation.
+Since the case before the Madras High Court related to the construction of Section 115J, it is not necessary to dwell on this aspect of the case any further.
+Though the Madras High Court has observed that the provisions of Section 115J and 115JA are similar, that is in the context of the applicability of the principles laid down in Apollo Tyres (supra) as regards the account prepared by the assessee under Parts II and III of Schedule VI to the Companies Act 1956.
+From the judgment of the Madras High Court it appears that though the question that was framed referred to Section 115J, there is some discussion in the judgment of the provision of Section 115JA.
+28.
+In Karnataka Small Scale Industries Development Corporation Ltd. v. Commissioner of Income Tax (2002)
+258 ITR 770 the Supreme Court held that Section 115J does not create any right nor does it serve to allow all the deductions taken into consideration for determining whether the total income should be quantified under Section 115J (1), to be carried forward under subsection (2) of Section 115J. The provision, held the Supreme Court, allowed only the unabsorbed losses, depreciation, investment allowance etc., which otherwise could have been carried forward, to be carried forward.
+29.
+A Division Bench of this Court in Commissioner of Income Tax v. Ajanta Pharma Ltd. (2009) 23 DTR (Bom) 1 held that a company governed by the MAT regime is entitled to the same deduction of export profits under Section 80HHC as any other company involved in export and that consequently an assessee governed by the MAT regime would be subject to the restriction contained in subsection (1B) of Section 80HHC.
+The Division Bench held as follows Sec.
+115JB also uses the expression profits eligible for deduction.
+There really can be no difficulty in understanding what this means.
+Only those profits which are eligible and computed in terms of subs.
+(3) or (3A) and quantified in terms of subs.
+(1B).
+The computation whether under subs.
+(3) or (3A) is for the purpose of subs.
+(1) or (1A).
+Sec.80HHC (1) permits a deduction to the extent of profits referred to in subs.
+(1B).
+The ambit of deeming fiction30.
+Section 115JB provides for a deeming fiction.
+The deeming fiction is brought into existence where in the case of a company which is an assessee the income tax payable on the total income as computed under the Act in respect of a previous year falling within the purview of the Section is less than a stipulated percentage of its book profits.
+The deeming fiction is that in such a case the book profit shall be deemed to be the total income of the assessee and the tax payable by the assessee on such total income shall be the amount of the income tax at the rate stipulated in sub section (1).
+A deeming fiction created by the law has to be given full effect.
+Equally, the deeming fiction has to be applied within the parameters envisaged by the legislative body which creates the fiction.
+Under Section 115JB the deeming fiction is for equating the book profits with the total income of the assessee and for determining the tax payable by the assessee on such total income at the rate as provided therein.
+For the purposes of computing the book profits every assessee has to maintain its profit and loss account in accordance with the provisions of Parts II and III of Schedule VI of the Companies Act 1956.
+The Assessing Officer has to accept the validity and correctness of an account duly certified in accordance with law and is not entitled to enquire into the correctness of the account maintained by the assessee.
+The Assessing Officer thereafter has the power to make increases and reductions from the net profits as maintained in the profit and loss account of the assessee in terms as provided in Explanation 1 to Section 115JB.
+While the Assessing Officer does not have the jurisdiction to scrutinize once again or to go behind the net profit shown in the profit and loss account, he is well within his jurisdiction in effecting the increases and reductions as warranted by Explanation 1 to Section 115JB.
+As a matter of fact, the Assessing Officer is duty bound to carry out the legislative intent by effecting the increases on the one hand and the reductions on the other as provided in Explanation 1.
+For the purposes of clause (iv) of Explanation 1, the extent of the reduction in respect of the deduction available under Section 80HHC has to be computed strictly in accordance with the provisions of Section 80HHC.
+We have not accepted the submission of the assessee that in applying the formula under subsection (3) of Section 80HHC, the expression profits of the business would need to be substituted by book profits.
+Our conclusion is that the acceptance of the submission would amount to rewriting a legislative provision which would not be permissible to the Court.
+31.
+In the circumstances, while allowing the appeal, we answer the question of law by holding that the Tribunal was not justified in coming to the conclusion that the amount to be reduced under clause (iv) of Explanation 1 to Section 115JB in respect of the profits eligible for deduction under Section 80HHC has to be computed with reference to the net profits in the profit and loss account and not according to the profits of the business computed under the head of profits and gains of business or profession.
+The question of law is accordingly answered in favour of the Revenue and against the assessee in the aforesaid terms.
+The appeal is disposed of.
+There shall be no order as to costs.

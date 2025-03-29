@@ -1,0 +1,243 @@
+ Beg, J.1.	None
+This appeal, after certification by the Gujarat High Court of fitness of the case for it, arises in the following circumstances.	Facts
+Uttamram Mayaram Thakar, a flourishing lawyer, made a will on 1061945, and died childless on 2061946.	None
+His widow, Bai Ruxmani, obtained, under the will, inter alia, certain shares the right and title to which are disputed before us.	None
+On 631948, Bai Ruxmani executed a registered gift deed purporting to donate the disputed shares in various limited companies, of which details were given in the gift deed, to her brother, Vasudev Ramchandra Shelat, the appellant before us (hereinafter referred to as Shelat).	Facts
+On 1841948, Bai Ruxmani also expired.	None
+But, before she died, she had signed several blank transfer forms, apparently intended to be filled in by the donee so as to enable him to obtain the transfer of the donated shares in the registers of the various companies and share certificates in his own name.	Facts
+She had put her signatures in the correct places showing that she meant to sign as the transferor of the shares.	Facts
+The shares could not, however, be transferred in the registers of the various companies, in accordance with the relevant provisions of Company law, before the ladys death.	Facts
+Therefore, the respondent before us, Pranlal Jayanand Thakar, a nephew of the late, Uttamram Mayaram Thakar, disputed the claim of the appellant Vasudev Ramchandra Shelat to these shares in an administration suit which came up before a learned Judge of the Gujarat High Court in second appeal together with other matters.	Facts
+The learned Single Judge held that Shelat was entitled to the shares covered by the registered gift deed to which the blank transfer forms could be related but not to others said to have been orally gifted with which we are not concerned here.	Facts
+The learned Judge having granted leave to file a Letters Patent Appeal, a Division Bench of the Gujarat High Court, which considered the rival claims, reversed the decision of the learned Single Judge even with regard to the shares covered by the registered gift deed on the ground that the gift was incomplete for failure to comply with the formalities prescribed by the Companies Act for transfer of shares.	Facts
+It held that there was no equity in favour of Shelat so that he may claim a right to complete what was left incomplete by the donor in her lifetime even though there could be no doubt that Bai Ruxmani had intended to donate the shares to Shelat.2.	Facts
+We think Mr. S. T. Desai, learned Counsel for the appellant Shelat, rightly pointed out that every material finding on questions of fact, given in favour of the appellant, was upheld by the Division Bench.	Reasoning
+After indicating the terms of the gift deed, the Division Bench held Thus, it is undoubtedly true that the deed of gift discloses a clear and unequivocal intention on the part of Bai Ruxmani that Vasudev should become the owner of these shares and he should for all future time enjoy the fruits thereof.	Reasoning
+It is a wellsettled position in law that unless the gift is completed as required by law, mere intention to make a gift cannot pass any title to the donee and does not make the donee the owner of the property gifted by the donor.	Reasoning
+The registered gift deed itself cannot create any transfer and so it was not competent to the donor to divest the title in her merely by the execution of the gift deed.	Reasoning
+She was required to execute the regular transfer deeds or instruments of transfer in favour of Vasudev Shelat and hand them over to the donee, Vasudev Shelat, together with the sharecertificates.	None
+It went on to say The circumstances as they clearly emerge and the facts as found by the Courts below, go to show that the deed of gift was executed on March 6, 1948, and, at the same time, the relevant sharecertificates were handed over by the donor to the donee and, sometime between March 6, 1948, when the gift deed was executed, and April 18, 1948, when Bai Ruxmani died , blank transfer forms signed by Bai Ruxmani were handed over by Bai Ruxmani to Vasudev Shelat, the donee.3.	Reasoning
+The appellants submissions on facts found, may be summarised as follows 1) As between the donor and the donee the transfer was complete with registration of the gift deed and, as there was a registered document, even delivery of share certificates to the donee was not necessary in view of Section 122 Transfer of Property Act.2)	Arguments of Petitioner
+Assuming , without conceding , that the donor had to do something more than to execute a registered document, this too was done when the share certificates and the signed blank transfer forms were handed over to the donee by the donor .It did not matter if the name of the donee and other particulars are wanting in these blank forms.	Arguments of Petitioner
+All necessary particulars of shares involved were expressly mentioned in the gift deed which specifies and identifies each individual share meant to be donated.	Arguments of Petitioner
+The gift deed and the signed blank forms were to be read together .	Arguments of Petitioner
+The donor had done all that reasonably lay within her power to complete the donation.3)	Arguments of Petitioner
+The conduct of the donor, in handing over the share certificates to the donee and the blank transfer forms, read in the context of the expressly laid down intentions of the donor in the gift deed, raised the presumption of an implied authority to fill in the details and to submit to the companies concerned the forms given by the donor to Shelat before her death.4)	Arguments of Petitioner
+There was no evidence whatsoever in the case to repel the irresistible inference of an implied authority given to the donee to fill in and submit the transfer forms so as to obtain the necessary entries in the registers of the various companies concerned.5)	Arguments of Petitioner
+The Division Bench had, after giving all the necessary findings of fact in favour of the appellant, misdirected itself by resorting to the doctrine that there is no equity to complete an incomplete transaction, as there is when a bona fide purchaser for value comes before the Court.	Arguments of Petitioner
+There was no question of any equity involved here.	Arguments of Petitioner
+The simple question was one of fact Did the inference of an implied authority of the donee to fill in the forms and take other steps necessary to get his name entered in the registers of shareholders arise or not?	Arguments of Petitioner
+Instead of considering and deciding whether such an inference arose, the Division Bench had failed to decide the real issue on the erroneous view that equity debars it from infering an implied authority because the donee, unlike a bona fide purchaser for value, had paid nothing for the rights he could get from the donor.4.	Arguments of Petitioner
+All that could be urged on behalf of the respondent may be summed up as follows 1)	None
+The facts found make out, at best, an intention of Bai Ruxmani to donate but not the completion of a donation required by law for divesting the donor of interest in the property under consideration which consisted of shares.2)	Arguments of Respondent
+Although shares are goods as defined by the Sale of Goods Act, yet, they are goods of a special kind.	Arguments of Respondent
+Their transfer is not completed merely by the execution of a registered document or by delivery, but the correct mode of transfer is determined by the character of these goods.	Arguments of Respondent
+Section 123 of the Transfer of Property Act lays down only a general mode of transfer by gift for goods in general but not for the transfer by gift of shares which are a special type of goods capable of transfer only in accordance with a special mode prescribed by the Companies Act of 1913, which was applicable at the relevant time.	Arguments of Respondent
+In other words, an adoption of the prescribed form of transfer is of the essence of a transfer for all purposes and not merely as between the shareholder and the company concerned.3) Sections 122 and 123 of the Transfer of Property Act had to be read harmoniously with Sections 28 and 34 of the Companies Act, 1913.4)	Arguments of Respondent
+Since material portions of the transfer form given in regulation 19 of Table A of the First Schedule of the Companies Act of 1913 were never filled in the doctrine of substantial compliance with the required form could not come to the aid of the appellant.5)	Arguments of Respondent
+The gift deed itself does not empower the donee to take any of those steps which remained to be taken to complete the transfer so that the doctrine of implied authority would be excluded by the express terms of the gift deed which not only do not confer any such authority upon the donee but indicated that the donor was to take the necessary steps herself.6)	Arguments of Respondent
+Inasmuch as acceptance of the gift during the lifetime of the donor is a condition precedent to the validity of the gift as a transaction, and the appellant Shelat did not apply for the transfer of shares, so as to indicate his acceptance of the gift before the donor died, the purported donation was frustrated by reason of Section 122 of the Transfer of Property Act.7)	Arguments of Respondent
+Even if we were to assume that the facts proved disclosed that the appellant donee was armed with an implied authority to obtain a transfer, yet, that authority not having been acted upon during the lifetime of the donor, lapsed with the donors death.	Arguments of Respondent
+The result was that the donation, even if intended, was imperfect or infructuous in the eye of law and could not be perfected or completed.	Arguments of Respondent
+Equity does not aid a merely purported donee who was given no consideration to obtain any right.	Arguments of Respondent
+In other words, equitable considerations would not be irrelevant in deciding the questions before us.8) Even apart from equity, under the law of agency, found in Sec.	Arguments of Respondent
+201 of our Contract Act, the principals death terminates the agency, so that the doctrine of implied authority does not help the appellant.9) Section 202 of the Contract Act could not apply to a case where the subjectmatter of the alleged agency is the taking of steps to complete a transfer and not the rights which could not accrue after the necessary steps are taken.	Arguments of Respondent
+Hence, the appellant donee could not be said to have an interest in the subjectmatter of the agency which is distinct from rights which could have arisen if the object of the agency had been fulfilled.10)	Arguments of Respondent
+Section 202 of the Contract Act could apply to a case where an agent has an actual or existing interest in the subjectmatter of the agency.	Arguments of Respondent
+Even if the subjectmatter of the agency could be said to be property, consisting of shares, there could be no question of applying Section 202 of the Contract Act before an interest in the shares arose.	Arguments of Respondent
+Such interest could only arise after a completed transfer.11) Section 202 of the Contract Act contemplated cases of termination of agency in ways other than death.	Arguments of Respondent
+It meant that, so long as a Principal is alive, he could not terminate an agency so as to injure the interests of the agent in the subjectmatter of the agency.	Arguments of Respondent
+But, in the case of the death of the principal, the relationship terminated ipso facto or automatically by death.12)	Arguments of Respondent
+A resort to the very concept of agency in this case presupposes that some interest of the principal or the donor in the property said to be donated continued, or, in other words , the assumption behind it was that the donation of shares was not complete in the eye of law.	Arguments of Respondent
+Its completion was not possible after the death of the donor.5.	Arguments of Respondent
+We think that questions to be really decided in the case before us have tended to become needlessly clouded by references to statutory provisions and to doctrines or concepts which really operate in separate and distinct fields of their own.	Reasoning
+It is true that the relevant provisions of the Transfer of Property Act and the Companies Act must be interpreted harmoniously.	Reasoning
+But, this certainly does not mean that a provision of one Act could be nullified by any provision of the other Act.	Reasoning
+It means that the provisions of the two Acts should be read consistently with each other so far as it is reasonably possible to do so.	Reasoning
+We think that this end can be best achieved here by examining the object and the subjectmatter of each enactment and by viewing each relevant provision as a limb of an integrated whole meant to serve the underlying purposes.	Reasoning
+In this way, their separable spheres of operation will be clarified so as to avoid possibilities of conflict between them or any unnecessary overflow of what really appertains to one field into another.6.	Reasoning
+No doubt the Transfer of Property Act is not exhaustive.	Reasoning
+It does not deal with every kind of transfer of property which the law permits.	Reasoning
+Nor does it prescribe the mode for every legally recognised transfer.	Reasoning
+Nevertheless, it is an enactment meant for defining certain basic types of transfer and it lays down the requirements both of substances and of form for their legal recognition and effectiveness.	Reasoning
+Section 5 of this Act gives a wide connotation to transfer of property.	Reasoning
+All that it requires is that the transferor must be living at the time of the transfer recognised by the Act.	Reasoning
+Section 6 of the Act lays down that property of any kind may be transferred subject to certain exceptions.	Reasoning
+Shares in a company are certainly a form of property.	Reasoning
+Section 28 of the Companies Act, 1913, says that they shall be movable property, transferable in the manner provided by the article of the company.	Reasoning
+Both sides accept as correct the view of the Division Bench of the High Court that the shares are goods within the meaning of the Sale of Goods Act.	Reasoning
+The point which however, deserves to be noted here is that the wide definition of property in Section 6 of the Transfer of Property Act includes not merely shares as transferable, movable property but would cover, as a seperable form of property, a right to obtain shares which may be antecedent to the accrual of rights of a shareholder upon the grant of a share certificate in accordance with the articles of association of a company.7.	Reasoning
+In M. P. Barucha v. Sarabhai and Co. 53 Ind App 92 at pp.9798(AIR 1926 PC38), which was a case of handing over share certificates together with blank signed transfer forms, the Privy Council said (at pp.9798)But, further, there seems to their Lordship a good deal of confusion arising from the prominence given to the fact that the full property in shares in a company is only in the registered holder, That is quite true.	None
+It is true that what Barucha had was not the prefect right of property, which he would have had if he had been the registered holder of the shares which he was selling.	None
+The company is entitled to deal with the shareholder who is on the register, and only a person who is on the register is in the full sense of the word owner of the share.	None
+But the title to get on the register consists in the possession of a certificate, together with a transfer signed by the registered holder.	None
+This is what Barucha had.	None
+He had the certificates and blank transfers, signed by the registered holders.	None
+It would be an upset of all Stock Exchange transactions if it were suggested that a broker who sold shares by general description did not implement his bargain by supplying the buyer with certificates and blank transfers, signed by the registered holders of the shares described.	None
+Barucha sold what he had got.	None
+He could sell no more.	None
+He sold what in England would have been choses in action, and he delivered choses in action.	None
+But in India, by the terms of the Indian Contract Act, these choses in action are goods.	None
+By the definition of goods as every kind of movable property it is clear that not only registered shares, but also this class of choses in action, are goods.	None
+Hence equitable considerations not applicable to goods do not apply to shares in India.8.	None
+Thus, we find that, in Baruchas case, 53 Ind App 92(AIR 1926 PC 38) (supra), a distinction was made between the title to get on the register, and the full property in the shares in a Co.	Reasoning
+The first was held to have been acquired by mere delivery, with the required intention, of the shares certificate and a blank form signed by the transferor.	Reasoning
+The second is only obtained when the transferee, in exercise of his right to become a share holder gets his name on the register in place of the transferor.	Reasoning
+This antecedent right in the person to whom the share certificate is given with a signed blank transfer form under a transaction meant to confer a right or title upon him to become a share holder, is enforceable so long as no obstacle to it is shown to exist in any of the articles of association of a company or a person with a superior right or title, legal or equitable, does not appear to be there.	Reasoning
+We think that S. 6 of the Transfer of Property Act justifies such a splitting up of rights constituting property in shares just as it is well recognised that rights of ownership of a property may be split up into a right to the corpus and another to the usufruct of the property and then separately dealt with.9.	Reasoning
+Section 122 of the Transfer of Property Act defines a gift.	None
+Its substantial requirements are (1) the donor must transfer property, which is the subjectmatter of the gift, voluntarily and without consideration (2) and, the donee must accept it during the lifetime of the donor or while the donors competence to give exists.	None
+Section 123 of the Transfer of Property Act prescribes the mode of transfer by gift.	None
+It lays down that the transfer may be effected either by registered instrument signed by the donor and attested by at least two witnesses or by delivery.	None
+No special mode of delivery is specified.	None
+On the other hand, it is indicated that the delivery may be made in such a way as the goods sold are delivered.10.	None
+In the case before us, the registered document was signed by the donor as the giver as well as by the donee, as the the acceptor of the gift and it is attested by six witnesses.	Reasoning
+In it the donor specified and gave particulars of the shares meant to be gifted and undertook to get the name of the donee put on to the registers of the companies concerned.	Reasoning
+The donor even said that she was, thenceforth, a trustee for the benefit of the donee with regard to the income she may get due to the fact that her name was still entered in the registers of the companies concerned as a shareholder.	Reasoning
+The donor delivered the registered gift deed together with the share certificates to the donee.	Reasoning
+We think that, on these facts, the donation of the right to get share certificates made out in the name of the donee became irrevocable by registration as well as by delivery.	Reasoning
+The donation of such a right, as a form of property, was shown to be complete so that nothing was left to be done so far as the vesting of such a right in the donee is concerned.	Reasoning
+The actual transfers in the registers of the companies concerned were to constitute mere enforcements of this right.	Reasoning
+They were necessary to enable the donee to exercise the rights of the shareholder.	Reasoning
+The mere fact that such transfers had to be recorded in accordance with the company law did not detract from the completeness of what was donated.11.	None
+We think the learned Counsel for the appellant rightly contended that, even in the absence of registration of the gift deed, the delivery of the documents mentioned above to the donee, with the clear intention to donate, would be enough to confer upon the donee a complete and irrevocable right, of the kind indicated above, in what is movable property.	Arguments of Petitioner
+He relied upon Kalyanasundaram Pillai v. Karuppa Mooppanar, 54 Ind App 89 (AIR 1927 PC 42) Venkatasubba Shrinivas Hedge v. Subba Rama ILR 52 Bom 313 (AIR 1928 PC 86 )	Reasoning
+Firm Sawam Mal Gopi Chand v. Shiv Charan, AIR 1924 Lah 173.12.	Reasoning
+The requirements of form or mode of transfer are really intended to ensure that the substantial requirements of the transfer have been satisfied.	Reasoning
+They subserve an object.	Reasoning
+In the case before us, the requirements of both Section 122 and Section 123 of the Transfer of Property Act were completely met so as to vest the right in the donee to obtain the share certificates in accordance with the provisions of the Company law.	Reasoning
+We think that such a right is in itself property and separable from the technical legal ownership of the shares.	Reasoning
+The subsequent or full rights of ownership of shares would follow as a matter of course by compliance with the provisions of Company law.	Reasoning
+In other words, a transfer of property right in shares, recognised by the Transfer of Property Act, may be antecedent to the actual vesting of all or the full rights of ownership of shares and exercise of the rights of shareholders in accordance with the provisions of the Company law.13.	Reasoning
+The Companies Act of 1913 was meant to consolidate and amend the law relating to trading companies and other associations.	None
+It is concerned with the acts and proceedings relating to the formation, running and extinction of companies, with rights, duties and liabilities of those who are either members or officers of such companies, and of those who deal with companies in other capacities.	None
+Its subjectmatter is not transfer of property in general.	None
+It deals with transfer of shares only because they give certain rights to the legally recognised shareholders and imposes some obligations upon them with regard to the companies in which they hold shares.	None
+A share certificate not merely entitles the shareholder whose name is found on it to interest on the share held but also to participate in certain proceedings relating to the company concerned.	None
+It is for this purpose that S. 34 of the Companies Act, 1913 enables the making of an application for the registration of the transfer of shares in a Co either by the transferor or the transferee.	None
+A share certificate is a prima facie evidence, under S. 29 of the Act, of the title to a share.	None
+S. 34 of the Act does not really prescribe the mode of transfer but lays down the provisions for registration of a transfer.	None
+In other words, it presupposes that a transfer has already taken place.	None
+The manner of transfer of shares, for the purposes of Company law, has to be provided, as indicated by Section 28, by the articles of the Company, and, in the absence of such specific provisions on the subject regulations contained in Table A of the 1st Schedule of the Companies Act apply.14.	None
+Table A of the 1st Schedule to the Companies Act of 1913 gives Regulation 19 as follows 19.	None
+Shares in the company shall be transferred in the following form, or in any usual or common form which the directors shall approve I, A. B. of , in consideration of the sum of rupees paid to me by C. D. of  (hereinafter called the said transferee), do hereby transfer to the said transferee the share (or shares) numbered in the undertaking called the  Company, Limited, to hold unto the said transferee, his executors, administrators and assigns, subject to the several conditions on which I held the same at the time of the execution thereof, and I, (the said transferee) do hereby agree to take the said share (or shares) subject to the conditions aforesaid.	None
+As witness our hands the  day of Witness to the signatures of, etc.	None
+Apparently, the form given here is only for sales.	None
+In the case of a gift the more general provisions of Regulation 18 would apply.	None
+This regulation says The instrument of transfer of any share in the company shall be executed both by the transferor and transferee, and the transferor shall be deemed to remain holder of the shares until the name of the transferee is entered in the register of members in respect thereof.15.	None
+We find from the gift deed that both the donor and the donee have signed the documents 5, under two headings respectively giver of the gift and accepter of the gift.	Reasoning
+Hence, we think that the broadly indicated requirements of Regulation 18 were also complied with by the contents of the gift deed.	Reasoning
+It is immaterial that the gift deed deals with a number of items so long as the requirements of Regulation 18 are fulfilled.	Reasoning
+After all, the observance of a form, whether found in the Transfer of Property Act or in the Companies Act, is meant to serve the needs of the substances of the transaction which were undoubtedly shown to have been completely fulfilled here.	Reasoning
+There is nothing in Regulation 18 or anywhere else in our Company Law to indicate that, without strict compliance with some rigidly prescribed form, the transaction must fail to achieve its purpose.	Reasoning
+The subservience of substances of a transaction to some rigidly prescribed form required to be meticulously observed savours of archaic and outmoded jurisprudence.16.	None
+Buckley on the Companies Acts (XII Edn. p.813) was cited before us for the proposition that non registration of a transfer of shares made by a donor does not render the gift imperfect.	None
+Considerable arguments was advanced by both sides on the correct interpretation of the leading English case mentioned there Re Rose, Midland Bank Executor and Trustree Co Ltd v. Rose, 1949 Ch 78 where Jenkins J., after an exhaustive discussion of the English case law on the subject, held that, when a testator had done everything that lay in his power to divert himself of his rights in preference shares completion of the legal title by registration could only be the act of a third party which does not affect the efficacy of the gift of shares inter vivos.	None
+The Court of Appeal upheld this decision in In Re Rose, Rose v. Inland Revenue Commrs(1952)	None
+I Ch 499.	None
+It held that the deceased was in the position of a trustee of the legal title in the shares for the transferees, pending the entry of the names of the donees in a companys register and the issue of share certificate to them.	None
+In the case before us, we find that Bai Ruxmani had actually stated in the gift  deed that her position visavis the donee, who had accepted the gift, was that of a trustee for the benefits received by her from the gifted shares until the completion of the legal formalities so that appropriate entries are made in the registers of companies concerned and fresh share certificates are issued to the donee.	None
+We, therefore, think that this case helps the appellant.17.	None
+In M s. Howrah Trading Co. Ltd v. Commr of the Incometax, Calcutta, 1959 Supp (2) SCR 448 at p.453(AIR 1959 SC 775 ) considering a case of blank transfers, Hidayatullah J, speaking for this Court said (at p.453)In such blank transfers, the name of the transferor is entered, and the transfer deed signed by the transferee, who, if he so chooses, completes the transfer by entering his name and then, applying to the company to register his name in place of the previous holder of the shares.	None
+The company recognises no person except one whose name is on the register of members, upon whom alone calls, for unpaid capital can be made and to whom only the dividend declared by the company is legally payable.	None
+Of course, between the transferor and the transferee, certain equities arisen even on the execution and handing over of a blank transfer, and among these equities is the right of the transferee to claim the dividend declared and paid to the transferor who is treated as a trustee on behalf of the transferee.	None
+These equities, however, do not touch the company, and no claim by the transferee whose name is not in the register of members can be made against the company, if the transferor retains the money in his own hands and fails to pay it to himThis case also, makes a distinction between an antecedent right and tittle of the transferee under a blank transfer and the fully blossomed right and the tittle of such a transferee after the due registration of a transfer.18.	None
+Another case cited before us was R Subba Naidu v. Commr. of Gift Tax, Madras, (1969) 73 ITR 794 (Mad) where a distinction was made between a transfer of the antecedent right to the shares which operated with full force between a donor and the donee, notwithstanding that, visavis the company, the donor continued to be holder of the shares in the absence of transfer of shares.	None
+In other words, the fields of operation of the provisions of Sections 122 and 123 of the Transfer of Property Act and the provisions of the Companies Act, 1913 were different.	None
+Each had different objects and legal consequences.	None
+The Companies Act did not prevent the completion of a gift of the right to obtain the shares which could, in common parlance or loosely speaking, be spoken of as a gift of shares themselves even before the gift is acted upon so that the donee obtains share certificates in his own name.	None
+The Transfer of Property Act could not enable the donee to exercise the rights of a shareholder, visavis the company, until a transfer of shares is made in accordance with the Company law.19.	None
+Other cases cited on behalf of the appellant, which we will only mention without discussion, were 1.	None
+Colonial Bank v. Hepworth, (1887) 36 Ch D 36 2.	Arguments of Petitioner
+In Re.	Arguments of Petitioner
+Tahiti Cotton Company ex parte Sargent,(1873) 17 Eq 273	Arguments of Petitioner
+p. 279	Arguments of Petitioner
+In Re.	Arguments of Petitioner
+Letheby and Christopher, Limited 1904 (1) Ch D 815 4.	Arguments of Petitioner
+In the matter of Bengal Silk Mills Co. Ltd., AIR 1942 Cal 461 at p. 464 5.	Arguments of Petitioner
+The Bank of Hindustan Ltd. V. Kowtha Suryanarayana Rao, ILR (1957)	Arguments of Petitioner
+Mad 1058 at p. 1072 (AIR 1957 Mad 702 ) 6.	Arguments of Petitioner
+Arjun Prasad v. Central Bank of India Ltd., AIR 1956 Pat 32 7.	Arguments of Petitioner
+Benode Kishore Goswami v. Austosh Mukhopadhya (1912) 16 Cal WN 666 8.	Arguments of Petitioner
+Amarendra Krishna Dutt v. Monimunjary Debi, ILR 48 Cal 986 (AIR 1921 Cal 148 ).20.	Arguments of Petitioner
+Learned counsel for the respondent cited the following passage from the Palmers Company Law (21st Edition  1968, p. 334)A transfer is incomplete until registered.	Arguments of Respondent
+Pending registration, the transferee has only an equitable right to the shares transferred to him.	Arguments of Respondent
+He does not become the legal owner until his name is entered on the register in respect of these shares.	Arguments of Respondent
+This statement of the law in England is correct.	None
+The transferee, under a gift of shares, cannot function as a shareholder recognised by company law until his name is formally brought upon the register of a company and he obtains a share certificate as already indicated above.	Reasoning
+Indeed, there may be restrictions on transfers of shares either by gift or by sale in the articles of association.	Reasoning
+Thus, we find in Palmers Company Law (at p. 336)	None
+There is nothing to limit the restrictions which a companys articles may place on the right of transfer.	Reasoning
+The articles may give the directors power to refuse to register a transfer in any specified cases, for instance where calls are in arrear, or where the company has a lien on the shares and some such provisions are usually inserted.	Reasoning
+Thus Article 24 provides that the directors may decline to register any transfer of a share (not being a fully paid share) to a person of whom they do not approve, and may also decline to register any transfer of shares on which the company has a lien.	Reasoning
+But the articles in many cases go far beyond this.	Reasoning
+They may prohibit, for example, the transfer of a share to any person who is not a member of a specified class, or provide, as they often do in private companies, that before transferring to an outsider the intending transferor must first offer the shares to the other members, and give them a right of preemption.	Reasoning
+Such provisions, though permanent, do not contravene the rule against perpetuities.	None
+In the type of cases contemplated above, where there are special restrictions on the transfer of shares imposed by the articles of association, the difficulty or defects is inherent in the character of such shares.	Reasoning
+In such cases, the donee or purchaser cannot get more than what the transferor possesses.	Reasoning
+Therefore, in such cases, it is possible to hold that even the right and title to obtain shares, which we have viewed as separable from the legal right and title to function as a shareholder, is incomplete because of a defect in the nature of shares held due to some special restrictions on their transferability under the articles of association of the company concerned.	Reasoning
+But, such is not shown to be the case at all with any of the shares which formed the subjectmatter of the gift in favour of Shelat.	Reasoning
+Hence, in our opinion, cases which deal with inchoate rights to shares do not assist the respondent because at least a gift of the right to obtain the transfer of shares in the books of the companies concerned was shown to be complete on the terms of the gift deed of Bai Ruxmani coupled with the handing over of the share certificates and the subsequent signing of the blank transfer forms.	Reasoning
+It was not a case of a bare expression of an intention to donate.	Reasoning
+The donor had done everything which she could reasonably be expected to do to divest herself of her rights in the shares donated.21.	None
+Ireland v. Hart, (1902) 1	None
+Ch. 522 at p. 529 relied upon by the respondent, was a case in which a prior equitable title of a wife, for whom the husband was a trustee, took precedence over the claim of a subsequent mortgagee.	None
+This case was cited in Palmers Company Law as an instance of how delay in registration may endanger the claims of a transferee when some already existing prior equity comes to light.	None
+In upholding the wifes claim of a prior equitable	None
+right	None
+the Court said (at p. 529)	None
+It is established by Societe General de Paris v. Walker, (1866) 11 AC 20), Roots v. Williamson, (1888) 38	None
+Ch. D. 485) and Moore v. North Western Bank (1891) 2	None
+Ch 599) that, where the articles are in the form in which they are in the present case, a legal title is not acquired as against an equitable owner before registration, or at all events until the date when the person seeking to register has a present absolute and unconditional right to have the transfer registered.	None
+I am not called upon to define the meaning of present absolute and unconditional right, but, as it appears to me, I am not sure that anything short of registration would do except under very special circumstances.	None
+At all events, I am of opinion that in this case, prior to the date of the injunction, the defendant Hart had not a present absolute and unconditional right to the registration of the transfer of these shares, and that the prior equitable right of the plaintiff, Mrs. Ireland, must prevail.	None
+Thus, what was disputed there was the right to obtain registration of a transfer of shares.	None
+The husbands power to mortgage was itself circumscribed by his position as a trustee.22.	None
+It was also pointed out in Palmers Company Law (at p. 334)	None
+It has never been clearly decided in what circumstances the present, absolute, unconditional right to have the transfer registered to which Lord Selborne refers arises.	None
+It is thought that in many instances the test is that indicated by Jenkins J. in Re.	None
+Rose I was referred on that to the well known case of Milroy v. Lord and also to the recent case of Re. Fry, Chase National Executors and Trustees Corpn.	None
+v Fry.	None
+Those cases, as I understand them, turn on the fact that the deceased donor had not done all in his power, according to the nature of the property given, to vest the legal interest in the property in the donee.	None
+In such circumstances it is, of course, well settled that there is no equity to complete the imperfect gift.	None
+If any act remained to be done by the donor to complete the gift at the date of the donors death the Court will not compel his personal representatives to do that act and the gift remains incomplete and fails.	None
+In Milroy v. Lord the imperfection was due to the fact that the wrong form of transfer was used for the purpose of transferring certain bank shares.	None
+The documents was not the appropriate document to pass any interest in the property at all.	None
+In Re.	Arguments of Petitioner
+Fry the flaw in the transaction, which was a transfer or transfers of shares in a certain company, was failure to obtain the consent of the Treasury which in the circumstances surrounding the transfers in question was necessary under the Defence (Finance Regulations) Act, 1939, and, as appears from the headnote, what was held was that the donors executors ought not to execute confirmatory transfers.	None
+In this case, as I understand it, the testator had done everything in his power to divest himself of the shares in question to Mr. Hook.	None
+He had executed a transfer.	None
+It is not suggested that the transfer was not in accordance with the companys regulations.	None
+He had handed that transfer together with the certificates to Mr. Hook.	None
+There was nothing else the testator could doTherefore, it seems to me that the present case is not in pari materia with the two cases to which I have been referred.	None
+The real position, in my judgment, is that the question here is one of construction of the will.	None
+The testator says if such preference shares have not been transferred to him previously to my death.	None
+The position was that, so far as the testator was concerned, they had been so transferred.23.	None
+Respondents learned Counsel also relied on Re. Fry.	Arguments of Respondent
+Chase National Executors and Trustees Corpn.	Arguments of Respondent
+Ltd. v Fry, (1946) 2	Arguments of Respondent
+All ER 106, which has been referred to by Jenkins J. in the passage quoted above.	Arguments of Respondent
+In that case, apart from other distinguishing features, the flaw in the purported transfer was that it contravened the Defence (Finance Regulation) Act, 1939, which prohibited an acquisition of interest in the shares without a licence from the Treasury.	None
+Hence, the purported transfer was really illegal.	Reasoning
+No such illegality is shown to exist in the case before us.24.	None
+Respondents learned Counsel cited ILR 48 Cal 986 )AIR 1921 Cal 148 ) (supra), where, after a husband had executed a document in favour of his wife, the parties had done nothing to get the transfer registered for nearly 2 years during which the dividend was received sometimes by the wife and sometimes retained by the husband with the permission or implied consent of the wife.	Arguments of Respondent
+The Court held that the purported gift being an intended transfer only could not operate as a declaration of trust.	None
+Another ground for the decision was that the disposition of the shares failed as being an imperfect voluntary gift.	Reasoning
+Here the Calcutta High Court purported to follow Milroy v. Lord, (1862) 4 DE and J 264 and, Richards v. Delbridge, (1874)	None
+18	None
+Eq 11.	None
+No such facts are present in the case before us.	None
+Moreover, we seriously doubt the correctness of this decision of the Calcutta High Court.	Reasoning
+It seems to confict with the law declared in the cases cited by the appellant which we approve.25.	None
+Another case relied upon by the respondent was ILR (1957) Mad 1058 (AIR 1957 Mad 702 ) (supra), where the Court refused to direct rectification of a register of members because the articles of association vested an absolute discretion in the company to recognise or refuse to recognise a transfer.	Arguments of Respondent
+The Companys consent to a transfer had been refused because the company did not accept the correctness of the form of transfer deeds.	None
+In other words, this was a case in which the provisions of articles of association stood in the way of rectification of the register.	Reasoning
+Such is not the case before us.26.	Reasoning
+The result is that we do not think that the respondent has made out a case for defeating the clearly expressed intentions of the donor coupled with the authority with which the donee was armed by reason of the signed blank transfer forms.	Reasoning
+We think that the implied authority was given with regard to a subjectmatter in which Shelat had acquired an interest.	Reasoning
+On a correct interpretation of the gift deed and the other facts mentioned above, we are of opinion that the right to obtain a transfer of shares was clearly and completely obtained by the donee appellant.	Reasoning
+There was no question here of competing equities because the donee appellant was shown to have obtained a complete legal right to obtain shares under the gift deed and an implied authority to take steps to get his name registered.	Reasoning
+This right could only be defeated by showing some obstacle which prevented it from arising or which could defeat its exercise.	Reasoning
+No such obstacle having been shown to us to exist, the rights of the donee appellant would prevail as against any legal rights which could have accrued to others if the donee had not already acquired the legal right which, as held by us above, had become vested in him.27.	Reasoning
+We, therefore, allow this appeal with costs and set aside the judgment and decree of the Division Bench of the High Court and restore that of the learned single Judge.28.	Decision
+Appeal allowed.	Decision

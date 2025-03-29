@@ -1,0 +1,941 @@
+ R. GAVAI, J. Leave to file Civil Appeal in Diary No. 24125 of 2020 is granted.	None
+All these appeals, assail the judgment and order of the National Company Law Appellate Tribunal, New Delhi (hereinafter referred to as NCLAT) dated 5.8.2020, passed in Company Appeal (AT) (Insolvency) Nos. 344345 of 2020.	Issue
+By the said judgment and order dated 5.8.2020, NCLAT has allowed the appeals filed by Kotak Investment Advisors Limited (hereinafter referred to as KIAL), respondent No.1 herein, aggrieved by two separate orders dated 28.11.2019 passed by National Company Law Tribunal, Mumbai Bench (hereinafter referred to as NCLT or Adjudicating Authority) in M.A. No.1039 of 2019 and M.A. No. 691 of 2019.	Issue
+NCLAT has set aside the said orders passed in the said M.As.	Issue
+M.A. No.1039 of 2019 was filed by KIAL objecting to grant of approval to the resolution plan submitted by Kalpraj Dharamshi and Rekha Jhunjhunwala, a consortium, (hereinafter referred to as Kalpraj), which is appellant in Civil Appeal Nos. 29432944 of 2020.	Issue
+NCLT has rejected the said M.A. Whereas, M.A. No. 691 of 2019 was filed by the Resolution Professional of Ricoh India Limited (hereinafter referred to as the Corporate Debtor) for grant of approval to the Resolution Plan submitted by Kalpraj.	Issue
+NCLT has allowed the said M.A. and approved the resolution plan submitted by Kalpraj.	Issue
+The facts in brief, giving rise to the present appeals are as under The Corporate Debtor filed an application on 29.1.2018 before NCLT under Section 10 of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as IB Code) for initiation of Corporate Insolvency Resolution Process (hereinafter referred to as CIRP) of itself vide Company Petition (IB) No. 156/MB/2018.	Facts
+NCLT vide order dated 14.5.2018, admitted the Petition and directed the moratorium to commence as prescribed under Section 14 of the IB Code and directed certain statutory steps to be taken as a consequence thereof.	Facts
+Vide the said order dated 14.5.2018, NCLT also appointed Mr. Krishna Chamadia as Interim Resolution Professional to carry out the functions as prescribed under the provisions of the IB Code.	Facts
+The said Mr. Krishna Chamadia was subsequently confirmed as Resolution Professional (hereinafter referred to as RP) by the Committee of Creditors (hereinafter referred to as CoC) on 15.6.2018.	Facts
+RP vide notification dated 9.7.2018 invited expression of interest (hereinafter referred to as EOI) to submit a resolution plan from interested resolution applicants, who fulfilled the minimum conditions stipulated in the said document (EOI).	None
+As per the said EOI, if any proposed applicant had any queries or clarifications, it was required to write to RP on or before 31.7.2018.	Facts
+The EOI was required to be submitted via email on the email address of RP or via post at the address mentioned in the said invitation on or before 8.8.2018.	Facts
+On the said date i.e. 9.7.2018, analogously, the first Form G also came to be notified.	None
+Vide the said Form G, the last date prescribed for submission of Resolution Plan was on or before 21.9.2018.	Facts
+The second Form G came to be issued on 24.8.2018, which required the Resolution Plans to be submitted on or before 28.9.2018.	Facts
+The third Form G came to be issued on 28.9.2018, which required the Resolution Plans to be submitted on or before 25.10.2018.	Facts
+The fourth Form G came to be issued on 9.11.2018, which required the Resolution Plans to be submitted on or before 13.12.2018.	Facts
+The fifth and the last Form G came to be issued on 11.12.2018, which required the Resolution Plans to be submitted on or before 8.1.2019.	Facts
+KIAL, the appellant before NCLAT (respondent No.1 herein) and one Karvy Data Management Systems Limited submitted their Resolution Plans on the last date as stipulated in the last and fifth Form G i.e. on 8.1.2019.	None
+One another applicant i.e. WeP Solutions Ltd. submitted its Resolution Plan jointly with one Sattva Real Estate Private Limited (hereinafter referred to as WeP) on 13.1.2019.	None
+The appellant in Civil Appeal Nos. 29432944 of 2020 i.e. Kalpraj submitted its EOI and Resolution Plan to RP on 27.1.2019.	None
+On 29.1.2019, KIAL sent an email to RP, raising its objection permitting Kalpraj to submit Resolution Plan, beyond the prescribed time limit.	Arguments of Respondent
+In the meeting of CoC held on 30.1.2019, the Resolution Plan of Kalpraj was placed before CoC.	Facts
+In the said meeting, CoC resolved to direct all the applicants to submit revised plans.	Facts
+Accordingly, an email was sent to KIAL directing it to submit its revised plan.	Facts
+Accordingly, KIAL submitted its revised plan on 1.2.2019.	Facts
+By another email dated 10.2.2019, KIAL once again objected to consideration of the plan submitted by Kalpraj.	Facts
+It is the case of KIAL, that it had received an email on 11.2.2019 from RP, justifying the consideration of plan submitted by Kalpraj and asking it to submit a second revised plan.	Facts
+However, this is disputed by RP.	Facts
+However, it is not in dispute, that on 12.2.2019, revised plans were submitted by KIAL as well as Kalpraj.	Facts
+In the meeting of CoC held on 13/14.2.2019, plan of Kalpraj came to be approved by a majority.	Facts
+After CoC had approved the plan of Kalpraj, RP applied for approval of the plan before NCLT on 18.2.2019 vide M.A. No. 691 of 2019 in Company Petition (IB) No. 156/MB/2018.	Facts
+After coming to know about RP applying for approval of the plan of Kalpraj, KIAL filed an application on 14.3.2019 being M.A. No.1039 of 2019, objecting to the plan of Kalpraj.	Facts
+The objection was on the ground, that RP was not justified in permitting Kalpraj to submit a plan beyond the date prescribed in Form G and that the decision of CoC to approve the plan submitted by Kalpraj was not in accordance with the IB Code.	Facts
+Vide order dated 28.11.2019, NCLT allowed M.A. No.691 of 2019 and approved the Resolution Plan of Kalpraj and by a separate order passed on the same day, NCLT rejected M.A. No.1039 of 2019, which was filed by KIAL objecting to the decision of CoC approving the plan submitted by Kalpraj.	Facts
+Contending, that the procedure followed by NCLT was in breach of the principles of natural justice, KIAL filed a writ petition before the Bombay High Court being Writ Petition (L) No.3621 of 2019, challenging the aforesaid two orders passed by NCLT.	Facts
+The High Court dismissed the Writ Petition (L) No.3621 of 2019 filed by KIAL by judgment and order dated 28.1.2020, on the ground, that KIAL had an alternate and efficacious remedy of filing an appeal before NCLAT.	Facts
+KIAL thereafter filed appeals before NCLAT on 18.2.2020.	None
+The appeals were opposed by Kalpraj and also by RP on the ground, that the appeals were filed beyond the limitation period prescribed under the IB Code and as such, ought not to be entertained.	Facts
+However, vide order dated 5.8.2020, NCLAT did not find favour with the objections raised by the respondents before it, with regard to limitation and further found, that the procedure adopted by RP and CoC was in breach of the provisions of the IB Code and therefore, allowed the appeals filed by KIAL.	Facts
+Vide the said order, NCLAT, while setting aside both the orders dated 28.11.2019, passed by NCLT, also directed CoC to take a decision afresh, in the light of the directions issued in its order, regarding consideration of the Resolution Plans, which were submitted prior to the prescribed date as per last Form G.	None
+This was directed to be done in a period of ten days from the date of the said order.	Facts
+NCLAT further directed, that if no decision was communicated to the Adjudicating Authority i.e. NCLT and since the timeline for completion of CIRP had already expired, the Adjudicating Authority was to pass an order for liquidation of the corporate debtor.	Facts
+Being aggrieved by the aforesaid order passed by NCLAT, four appeals have been filed before this Court, the details thereof are as under TABLE We have heard Shri Mukul Rohatgi, Dr. Abhishek Manu Singhvi and Shri Pinaki Mishra, learned Senior Counsel appearing for Kalpraj, Shri K.V. Viswanathan, learned Senior Counsel appearing for Deutsche Bank A.G. and CoC, Shri C.A. Sundaram, Shri Gopal Sankar Narayanan and Shri P.P. Chaudary, learned Senior Counsel appearing for Fourth Dimension Solutions Limited, Shri Shyam Divan, learned Senior Counsel appearing for RP and Shri Neeraj Kishan Kaul, learned Senior Counsel appearing for KIAL.	Facts
+SUBMISSIONS OF SHRI MUKUL ROHATGI, LEARNED SENIOR COUNSEL APPEARING ON BEHALF OF KALPRAJ Shri Mukul Rohatgi, learned Senior Counsel submitted, that though four Form G were issued by RP inviting the Resolution Plans from the prospective resolution applicants, no plans were received from any of the prospective resolution applicants.	Arguments of Petitioner
+He submitted, that in pursuance to the last and fifth Form G published on 11.12.2018, only two Resolution Plans were received, that too, on the last date i.e. 8.1.2019.	Arguments of Petitioner
+He submitted, that in the meantime, Kalpraj submitted its plan on 27.1.2019.	Arguments of Petitioner
+He submitted, that in the meeting of CoC held on 30.1.2019, in order to achieve the object of maximization, all the applicants were asked to submit their revised resolution plans.	Arguments of Petitioner
+He submitted, that KIAL without demur, submitted its revised plans not only once but twice.	Arguments of Petitioner
+It is therefore submitted, that having submitted its revised plans twice, KIAL is now estopped from challenging the acceptance of the plan of Kalpraj.	Arguments of Petitioner
+It is submitted, that in the meeting of CoC held on 13/14.2.2019, the plans came to be considered by CoC and CoC by the whopping majority of 84.36 voting rights approved the plan of Kalpraj.	Arguments of Petitioner
+He submitted, that only one creditor i.e. Kotak Mahindra Bank Limited (hereinafter referred to as Kotak Bank), which is a holding company of KIAL, having voting rights of 0.97, voted in favour of KIAL.	Arguments of Petitioner
+8.	Arguments of Petitioner
+Relying on the judgment of this Court in the case of K. Sashidhar vs. Indian Overseas Bank Ors.	Arguments of Petitioner
+(2019) 12 SCC 150 , Shri Rohatgi submitted, the opinion on the subject matter expressed by the creditors after due deliberation in CoC meeting through voting, which decision is taken as per the commercial wisdom, is not justiciable before the Adjudicating Authority.	Arguments of Petitioner
+He also relied on the judgment of this Court in the case of Committee of Creditors of Essar Steel India Limited through Authorised Signatory vs. Satish Kumar Gupta Ors.	Arguments of Petitioner
+(2019) SCC Online SC 1478.	Arguments of Petitioner
+9.	Arguments of Petitioner
+Shri Rohatgi further submitted, that as held by this Court in Innoventive Industries Ltd. vs. ICICI Bank Anr.	Arguments of Petitioner
+(2018) 1 SCC 407 , IB Code is a complete code in itself.	Arguments of Petitioner
+He submitted, that Section 61(2) of the IB Code provides, that the decision of the Adjudicating Authority (i.e. NCLT) may be challenged before NCLAT within 30 days.	Arguments of Petitioner
+He submitted, that an appeal would be tenable within a further period of 15 days, only when NCLAT comes to a satisfaction, that there was a sufficient cause for not filing the appeal within a period of 30 days.	Arguments of Petitioner
+He submitted, that since the IB Code is a complete Code, neither Section 5 nor Section 14 of the Limitation Act, 1963 (hereinafter referred to as the Limitation Act) would be applicable.	Arguments of Petitioner
+He submitted, that the judgment of NCLT was delivered on 28.11.2019 certified copies of the same were made available to KIAL on 18.12.2019 and appeals came to be filed on 18.2.2020.	Arguments of Petitioner
+He submitted, even if KIAL was given the benefit of the period of 20 days for obtaining the certified copies, still the appeals ought to have been filed on 65th day from the order of NCLT.	Arguments of Petitioner
+It would be somewhere on 1st/2nd February, 2020.	Arguments of Petitioner
+However, the appeals were filed on 18.2.2020.	Arguments of Petitioner
+He submitted, that the litigant like KIAL, which has a team of legal experts at its disposal cannot be heard to say, that they were not aware of the alternate remedy and had bona fide filed the writ petition before the High Court.	Arguments of Petitioner
+He submitted, that KIAL is not entitled to the benefit of the exclusion of period between 11.12.2019 i.e. the date of filing of the writ petition and 28.1.2020 i.e. the date of dismissal of the writ petition by the High Court.	Arguments of Petitioner
+He submitted, that provisions of Section 14 of the Limitation Act would not at all be applicable and that NCLAT has totally erred in law, in entertaining the appeals which were ex facie beyond limitation.	Arguments of Petitioner
+10.	Arguments of Petitioner
+Shri Rohatgi further submitted, that NCLT has approved the plan on 28.11.2019.	Arguments of Petitioner
+He submitted, that though appeals were filed by KIAL, there was no stay on the implementation of the resolution plan by Kalpraj till the impugned order was passed by NCLAT on 5.8.2020, whereunder, Kalpraj has taken various steps for implementation of the Resolution Plan submitted by it.	Arguments of Petitioner
+He submitted, that Kalpraj has expended a total amount of Rs.300 crore (approx.)	Arguments of Petitioner
+in the following manner On 02.12.2019, a Public Announcement in respect of delisting of shares and exit offer to the public shareholders of the Corporate Debtor.	Arguments of Petitioner
+ii.	Arguments of Petitioner
+On 13.12.2019, Rs.8,87,01,150/ (Rupees Eight Crores EightySeven Lakh	Arguments of Petitioner
+One Thousand One Hundred and Fifty only) was paid to 668 shareholders in exchange of their shares.	Arguments of Petitioner
+iii.	Arguments of Petitioner
+On 14.12.2019, a Postoffer public announcement was issued by the Appellants recording inter alia that the said consideration has been paid to public shareholders.	Arguments of Petitioner
+iv.	Arguments of Petitioner
+On 20.12.2019, BSE issued a notice in respect of discontinuation of trading and delisting of equity shares of the Corporate Debtor.	Arguments of Petitioner
+v. On 23.12.2019, debentures worth Rs.21 crores were issued by the Corporate Debtor to Appellants.	Arguments of Petitioner
+vi.	Arguments of Petitioner
+On 27.12.2019, the share capital of the Company increased to INR. 100,00,00,000/ (Rupees One Hundred Crores only).	Arguments of Petitioner
+vii.	Arguments of Petitioner
+Minosha Digital Solutions Pvt. Ltd. merged with the Corporate Debtor with effect from 28.11.2019. viii.	Arguments of Petitioner
+On 27.12.2019, the Appellants replaced the Bank Guarantee issued by Deutsche Bank for INR 136,66,71,090/ (Rupees One Hundred ThirtySix Crores Sixty Six Lakh SeventyOne Thousand and Ninety Only).	Arguments of Petitioner
+ix.	Arguments of Petitioner
+On 30.12.2019, the CIRP costs amountingtoINR.2,65,68,000/ (Rupees Two Crores SixtyFive Lakh SixtyEight Thousand only) were paid by the Appellants.	Arguments of Petitioner
+x.	Arguments of Petitioner
+On 01.01.2020, the Appellants have made payment of INR 19,54,43,411/ (Rupees Nineteen Crores FiftyFour Lakh FortyThree Thousand Four Hundred and Eleven) to nonrelated party operational creditors of the Corporate Debtor.	Arguments of Petitioner
+xi.	Arguments of Petitioner
+From 01.01.2020 to 03.01.2020, the Appellants have made Equity infusion of INR 3 crores and an Equity infusion of INR 29 Crores in Company.	Arguments of Petitioner
+xii.	Arguments of Petitioner
+On 23.01.2020, Appellants made payments to Ricoh Company Limited and NRG Group Limited (minority shareholder) for the transfer of shares to Appellants.	Arguments of Petitioner
+xiii.	Arguments of Petitioner
+On 31.01.2020, the Board of directors of the Corporate Debtor was reconstituted and the Appellants became the owners and stepped into the management and control of corporate debtor.	Arguments of Petitioner
+It is no more a subsidiary of Ricoh Japan.	Arguments of Petitioner
+xiv.	Arguments of Petitioner
+The Appellants are shareholders of the Corporate Debtor which is known by its new name Minosha India Limited.	Arguments of Petitioner
+xv.	Arguments of Petitioner
+On 03.02.2020, the RP (who was the Monitoring Agent of the Monitoring Committee) issued a communication recording that the approved Resolution Plan has been implemented.	Arguments of Petitioner
+xvi.	Arguments of Petitioner
+As on 31.07.2020, a total of 21,90,958 no. of shares held by 809 shareholders have been tendered pursuant to the exit offer for a sum total of Rs.10,95,47,900/.	Arguments of Petitioner
+The said exit offer is subsisting till December 2020, in accordance with the applicable SEBI rules and regulations.	Arguments of Petitioner
+xvii.	Arguments of Petitioner
+Registrar of Companies has only noted and issued a certificate of the change in name of the Corporate Debtor from Ricoh India Limited to Minosha India Limited.	Arguments of Petitioner
+Shri Rohatgi submitted, that NCLAT has grossly erred in holding, that the order passed by NCLT was in breach of the principles of natural justice on the premise, that the application of KIAL was heard by a single Member, whereas the decision was signed by two Members.	Arguments of Petitioner
+He submitted, that perusal of the record would reveal, that though M.A. No.1039 of 2019 i.e. objection of KIAL to the approval of plan of Kalpraj, was initially listed before the learned single Member, thereafter the proceedings would itself show, that the said application was listed before two learned Members on various dates along with main application i.e. M.A. No.691 of 2019.	Arguments of Petitioner
+He submitted, that the counsels for KIAL have participated in the said proceedings before the Bench of two Members without demur.	Arguments of Petitioner
+He submitted, that in any case, both, the application filed by KIAL as well as the main application filed by RP, were required to be decided together inasmuch as, the issues were interconnected and therefore, they are rightly decided by the orders passed on the same day.	Arguments of Petitioner
+He therefore submitted, that the finding of NCLAT with regard to violation of the principles of natural justice is without any merit. 12.	Arguments of Petitioner
+Shri Rohatgi therefore submitted, that the appeals deserve to be allowed, the order of NCLAT be set aside and that of NCLT be restored.	Arguments of Petitioner
+SUBMISSIONS BY DR.	Arguments of Petitioner
+ABHISHEK MANU SINGHVI, LEARNED SENIOR COUNSEL APPEARING FOR KALPRAJ 13.	Arguments of Petitioner
+Dr. Abhishek Manu Singhvi, learned Senior Counsel also appeared on behalf of Kalpraj, which is also respondent in the other appeals.	Arguments of Petitioner
+Dr. Singhvi submitted, that KIAL, in the covering letter along with its Resolution Plan dated 8.1.2019, has unequivocally undertaken to waive any and all claims in respect of the Resolution Plan Process.	Arguments of Petitioner
+He submitted, that the phrase Resolution Plan Process is defined in clause 1.0 of the Process Memorandum which means, the process set out in this Process Memorandum for submission, evaluation and selection of Resolution Plan and activities in relation or incidental thereto.	Arguments of Petitioner
+He submitted, that in view of unconditional and irrevocable acceptance of the terms of the Process Memorandum and having voluntarily and expressly waived all claims with respect to the Resolution Plan Process, it is not permissible for KIAL to challenge the decision of CoC approving the Resolution Plan of Kalpraj.	Arguments of Petitioner
+He submitted, that clause 10.4 of the Process Memorandum itself provides, that RP was at liberty to receive any Resolution Plan, at any stage of the Resolution Plan Process and examine such Resolution Plan with the approval of CoC. Learned Senior Counsel submitted, that having chosen to revise its Resolution Plan and submit the same on 12.2.2019 in competition with Kalpraj, KIAL has clearly acquiesced to the consideration of the Resolution Plan of Kalpraj by RP and CoC, even after the prescribed date of 8.1.2019 and has waived all objections to the consideration of such Resolution Plan.	Arguments of Petitioner
+He submitted, that even the holding company of KIAL i.e. Kotak Bank of which KIAL is a 100 subsidiary also agreed with CoC counsels view, that the Resolution Plan of Kalpraj can be considered.	Arguments of Petitioner
+14.	Arguments of Petitioner
+Dr. Singhvi submitted, that the conduct of KIAL is totally indefensible.	Arguments of Petitioner
+He submitted, that it amounts to taking chances in the process and after having failed there, then to challenge the process.	Arguments of Petitioner
+He submitted, that KIAL had submitted its revised plans after knowing, that it was competing with Kalpraj, and only after it was not successful in the process has chosen to challenge the same.	Arguments of Petitioner
+He submitted, that the revised Resolution Plan submitted by KIAL does not state, that it is without prejudice to its contention, that the Resolution Plans submitted after 8.1.2019 ought not to have been considered by RP and CoC.	Arguments of Petitioner
+He submitted, that even if such words were used they would not be significant.	Arguments of Petitioner
+He relied on the judgment of this Court in the case of ITC Ltd.	Arguments of Petitioner
+Vs.	Arguments of Petitioner
+Blue Coast Hotels Limited Ors.	Arguments of Petitioner
+(2018) 15 SCC 99 and Tarapore Company vs. Cochin Shipyard Ltd., Cochin Anr.	Arguments of Petitioner
+(1984) 2 SCC 680 ( PARA 33), in this regard.	Arguments of Petitioner
+15.	Reasoning
+Dr. Singhvi further submitted, that Section 238 of the IB Code provides, that the provisions of the Code shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force.	Arguments of Petitioner
+He therefore submitted, that the provisions as contained in Section 61(2) of the IB Code, which provides, that an appeal has to be filed within 30 days with a further enhanced period of 15 days, when NCLAT is satisfied, that a sufficient cause existed for not filing the appeal within 30 days, has to be strictly construed.	Arguments of Petitioner
+He relied on the judgment of NCLAT in the case of Kumar Dutta prop.	Arguments of Petitioner
+K.D. Trading vs. Simplex Infrastructure Ltd. 2019	Arguments of Petitioner
+SCC Online NCLAT 575 and Asha Goyal vs. Pharma Traders Pvt.	Arguments of Petitioner
+Ltd.	Arguments of Petitioner
+2019 SCC Online NCLAT 150 in that regard.	Arguments of Petitioner
+16.	Arguments of Petitioner
+Dr. Singhvi further submitted, that this Court in a catena of cases has held, that when under special statutes there is a provision for appeal and a selfcontained provision for limitation, no extension would be possible beyond the period of time so stipulated.	Arguments of Petitioner
+He relied on the following judgments of this Court in this regard.	Arguments of Petitioner
+Union of India vs. Popular Construction Co. (2001) 8 SCC 470 , (ii) Singh Enterprises vs. Commissioner of Central Excise, Jamshedpur Ors.	Arguments of Petitioner
+(2008) 3 SCC 70 , and (iii) Chhattisgarh State Electricity Board vs. Central Electricity Regulatory Commission Ors.	Arguments of Petitioner
+(2010) 5 SCC 23 Dr. Singhvi further submitted, that NCLAT in two cases in Radhika Mehra vs. Vaayu Infrastructure LLP Ors. 2020	Arguments of Petitioner
+SCC Online NCLAT 532 and Dhirendra Kumar vs. Randstand India Pvt.	Arguments of Petitioner
+Ltd. Anr.	Arguments of Petitioner
+2019 SCC Online NCLAT 444 has held, that the provisions of Section 14 of the Limitation Act cannot be made applicable to the appeal preferred under Section 67 of the IB Code.	Arguments of Petitioner
+18.	Arguments of Petitioner
+Dr. Singhvi submitted, that in any case, it cannot be said, that filing of the writ petition was a bona fide act of KIAL.	Arguments of Petitioner
+He submitted, that KIAL, which was armed with a battery of legal counsel, was very well aware, that it had an alternate remedy of filing an appeal before NCLAT and therefore, was not entitled to take an umbrella of Section 14 of the Limitation Act.	Arguments of Petitioner
+In this regard, he relied on the judgment of this Court in the case of Neeraj Jhanji vs. Commissioner of Customs Central Excise (2015) 12 SCC 695. 19.	Arguments of Petitioner
+Dr. Singhvi also reiterated the submissions made on behalf of Kalpraj by Shri Mukul Rohatgi, learned Senior Counsel to the effect, that much water has flown after the Resolution Plan was approved by NCLT and also highlighted the various steps taken by Kalpraj for implementation of the Resolution Plan.	Arguments of Petitioner
+SUBMISSION OF SHRI K.V. VISWANATHAN, LEARNED SENIOR COUNSEL APPEARING ON BEHALF OF DEUTSCHE BANK A.G. AND CoC. 20.	Arguments of Petitioner
+Shri K.V. Viswanathan, learned Senior Counsel appearing on behalf of Deutsche Bank, which is appellant in one of the appeals and CoC, which is respondent in some of the appeals submitted, that the order passed by NCLAT was not sustainable inasmuch as, CoC was not made a party before NCLAT.	Arguments of Petitioner
+He submitted, that CoC had acted bona fide only with a view of achieving maximization, by permitting Kalpraj to participate.	Arguments of Petitioner
+He submitted, that CoC had approved the Resolution Plan submitted by Kalpraj by a thumping majority of 84.36.	Arguments of Petitioner
+He submitted, that the commercial wisdom of CoC is not open to judicial scrutiny by the Adjudicating Authority, unless it falls within the statutory parameters and as such, NCLT has rightly rejected the objection of KIAL and NCLAT has erred in interfering with the same.	Arguments of Petitioner
+He submitted, that no prejudice is caused to KIAL on account of deviation of the procedure, if any.	Arguments of Petitioner
+In this regard, he relied on the judgment of this Court in the case of G.J. Fernandez vs. State of Karnataka Ors.	Arguments of Petitioner
+(1990) 2 SCC 488.	Arguments of Petitioner
+SUBMISSION OF SHRI SHYAM DIVAN, LEARNED SENIOR COUNSEL APPEARING FOR RP 21.	Arguments of Petitioner
+Shri Shyam Divan, learned Senior Counsel appearing on behalf of RP submitted, that RP had acted bona fide in order to fetch the maximum benefit to the Company.	Arguments of Petitioner
+He submitted, that even after the prescribed last date, in view of clause 10.4 of the Process Memorandum, RP was entitled to consider the plans received subsequently with the approval of CoC. He submitted, that RP therefore had bona fide accepted the plan of Kalpraj and not only that but had also given an opportunity to KIAL to submit its revised plans, so as to compete with Kalpraj.	Arguments of Petitioner
+Shri Divan also advanced the arguments on similar lines as were advanced by the other counsel on the grounds of limitation, acquiescence, etc. SUBMISSION OF SHRI C.A. SUNDARAM, LEARNED SENIOR COUNSEL APPEARING FOR FOURTH DIMENSION SOLUTIONS LIMITED 22.	Arguments of Petitioner
+Shri C.A. Sundaram, learned Senior Counsel appearing for Fourth Dimension Solutions Limited, appellant in Civil Appeal D.No.24125 of 2020, which claims to have the highest amount recoverable from the Corporate Debtor submitted, that the said appellant is not concerned with the dispute between the parties, which is the subject matter of consideration in the present appeals.	Arguments of Petitioner
+It is further contended, that the appellants dues are subject matter of pending arbitration proceeding between the Corporate Debtor and the appellants and is yet to attain finality, so as to liquidate the dues.	Arguments of Petitioner
+It is aggrieved by the direction given in paragraph 39 by NCLT in its order dated 28.11.2019 in M.A. No.691 of 2019.	Arguments of Petitioner
+The learned Senior Counsel submitted, that by the said direction it is directed, that the Resolution Applicant who stepped into the shoes of Corporate Debtor subsequent to the approval of the Resolution Plan by it, shall not be held responsible for any outstanding statutory dues and other claims for the period before commencement of CIRP.	Arguments of Petitioner
+In the submission of Shri Sundaram, this direction is prejudicial to the appellant, which is the largest operational creditor entitled to recover an amount of 551 crores (approx) from the Corporate Debtor.	Arguments of Petitioner
+It is also contended, that the claim of the appellant Fourth Dimension, though has been shown in the information memorandum by RP, it has not been considered by CoC or any of the applicants in their resolution plan.	Arguments of Petitioner
+He relied on the judgment order dated 16.11.2020 passed by this Court in Civil Appeal No. 2798 of 2020 NTPC Ltd. (Simhadri Project) vs. Rajiv Chakraborty SUBMISSION OF SHRI NEERAJ KISHAN KAUL, LEARNED SENIOR COUNSEL APPEARING FOR KIAL Shri Neeraj Kishan Kaul, learned Senior Counsel appearing on behalf of KIAL, while replying to the arguments advanced on behalf of the appellants made manifold submissions.	Arguments of Petitioner
+In reply to the submission on behalf of the appellants, that the appeals filed by KIAL before NCLAT being barred by limitation, the learned Senior Counsel submitted, that the arguments advanced were not correct in law and NCLAT has rightly held the appeals to be within limitation.	Arguments of Respondent
+He submitted, that though nonexercise of jurisdiction by the High Court under Article 226 of the Constitution, in case of availability of alternate remedy is the normal practice, the same is a rule of selfrestraint and not hard and fast rule.	Arguments of Respondent
+It is submitted, that the High Court has wide jurisdiction under Article 226 of the Constitution and in a given case it can entertain a petition under Article 226 in spite of the availability of an alternate and efficacious remedy.	Arguments of Respondent
+He submitted, that this Court itself in a catena of cases has carved out categories wherein, the High Court is entitled to exercise its jurisdiction under Article 226 in spite of the availability of alternate remedy.	Arguments of Respondent
+He submitted, that one such category is where the proceedings challenged before the High Court are proceeded in breach of principles of natural justice.	Arguments of Respondent
+The learned Senior Counsel has relied on the following judgments of this Court in support of this proposition.	Arguments of Respondent
+Whirlpool Corporation vs. Registrar of Trade Marks, Mumbai Ors.	Arguments of Respondent
+(1998) 8 SCC 1 , Babu Ram Prakash Chandra Maheshwari vs. Antarim Zilla Parishad Muzaffar Nagar (1969)	Arguments of Respondent
+1	None
+SCR 518 and Nivedita Sharma vs. Cellular Operators Association of India Ors.	Arguments of Respondent
+(2011) 14 SCC 337.	Arguments of Respondent
+Shri Kaul submitted, that perusal of the record would reveal, that immediately after the filing of application by RP before NCLT for approval of Resolution Plans submitted by Kalpraj, KIAL had filed an application objecting thereto being M.A. No.1039 of 2019.	Arguments of Respondent
+He submitted, that perusal of the ordersheet of NCLT dated 3.7.2019 would reveal, that the application filed by KIAL and one another application being M.A. No.2023 of 2019 were heard by the learned single Member and reserved for orders.	Arguments of Respondent
+He submitted, that insofar as M.A. No.691 of 2019 is concerned, the order dated 3.7.2019 would show, that the said application was directed to be kept on 23.7.2019 at 2.30 p.m. along with other applications for consideration of resolution plan on its commercial aspect.	Arguments of Respondent
+The other matters were directed to be kept for hearing on 15.7.2019.	Arguments of Respondent
+It is further submitted, that when M.A. No.691 of 2019 was listed on 23.7.2019, it was directed to be heard on 7.8.2019 at 2.30 p.m. On 7.8.2019, M.A. No. 691 of 2019 was listed, for the first time, before the Bench consisting of two Members and on that date the matter came to be adjourned to 26.8.2019.	Arguments of Respondent
+Again on 26.8.2019, the matter came up before the Division Bench and the Division Bench directed the same to be kept on 6.9.2019.	Arguments of Respondent
+On 6.9.2019, the Division Bench adjourned the matter to 17.9.2019 at 2.30 p.m. Again on 17.9.2019, the matter came up before the Division Bench which directed it to be adjourned to 19.9.2019.	Arguments of Respondent
+Finally, on 19.9.2019, M.A. No.691 of 2019 was heard on Resolution Plan and reserved for orders.	None
+Learned counsel therefore submitted, that it is clear from the record, that M.A. No.1039 of 2019 filed by KIAL, was heard on 3.7.2019 by the learned single Member and reserved for orders.	Arguments of Respondent
+However, M.A. No. 691 of 2019 was heard by the Division Bench on 19.9.2019.	Arguments of Respondent
+Learned counsel therefore submitted, that the orders in M.A. No. 1039 of 2019 could have been passed only by the learned single Member.	Arguments of Respondent
+However, by two orders passed on even date i.e. 28.11.2019, the Division Bench rejected the application of KIAL and allowed the application filed by RP thereby, approving the Resolution Plan submitted by Kalpraj.	Arguments of Respondent
+Learned Senior Counsel submitted, that in this background KIAL was justified in invoking the jurisdiction of the High Court under Article 226 of the Constitution inasmuch as, the proceedings conducted by NCLT were totally in breach of the principles of natural justice, as the matter was heard by a single Member whereas, the orders were passed by the Division Bench.	Arguments of Respondent
+Learned counsel submitted, that the High Court while dismissing the writ petition and relegating KIAL to alternate remedy available in law has passed an elaborate order.	Arguments of Respondent
+Learned Senior Counsel therefore submitted, that it does not lie in the mouth of the appellants, that KIAL had not approached the High Court bona fide.	Arguments of Respondent
+Learned Senior Counsel submitted, that in view of various judgments delivered by this Court, the High Court could have entertained a petition under Article 226, when the proceedings were conducted in breach of the principles of natural justice.	Arguments of Respondent
+Shri Kaul, learned Senior Counsel therefore submitted, that NCLAT was right in law in giving the benefit of the period for which KIAL was bona fide prosecuting its writ petition before the Bombay High Court.	Arguments of Respondent
+Learned Senior Counsel submitted, that if that period is considered, the appeals filed by KIAL are very well within the limitation.	Arguments of Respondent
+Learned Senior Counsel submitted, that the purpose behind Article 14 of the Limitation Act is to advance justice and not to halt justice.	Arguments of Respondent
+He submitted, that Section 14 enables a party to get the benefit of the period for which it was bona fide prosecuting the remedy before a wrong forum.	Arguments of Respondent
+Learned counsel submitted, that a liberal approach is required to be given to the provisions of Article 14.	Arguments of Respondent
+Learned counsel relied on the judgments of this Court in the case of Ketan V. Parekh vs. Special Director, Directorate of Enforcement Anr.	Arguments of Respondent
+(2011) 15 SCC 30 , M.P. Steel Corporation vs. Commissioner of Central Excise (2015) 7 SCC 58 and Union of India Ors.	Arguments of Respondent
+vs. West Coast Paper Mills Ltd. Anr.	Arguments of Respondent
+(2004) 3 SCC 458 in this regard.	Arguments of Respondent
+Insofar as the arguments of the appellants with regard to acquiescence and waiver are concerned, learned Senior Counsel submitted, that, at the earliest opportunity, KIAL has objected to Kalpraj submitting its Resolution Plan.	Arguments of Respondent
+He submitted, that on KIAL coming to know, that the Resolution Plan of Kalpraj was accepted beyond 8.1.2019, KIAL objected to it vide email dated 29.1.2019 addressed to RP.	Arguments of Respondent
+He submitted, that RP had replied to its email on 30.1.2019 and requested to submit amended Resolution Plan by 3.00 p.m. on 1.2.2019.	Arguments of Respondent
+He submitted, that in the said email it is also mentioned, that CoC reserves the rights to not consider your plan, if received after the said timeline.	Arguments of Respondent
+He submitted, that accordingly, KIAL had no other option but to submit its revised plan.	Arguments of Respondent
+Learned Senior Counsel submitted, that even after submission of the revised plan, KIAL did not hear anything from RP and therefore vide email dated 10.2.2019, addressed to RP, it again raised its objection.	Arguments of Respondent
+The said email was replied to by RP on 11.2.2019 wherein, RP stated, that the resolution plans submitted after the due date also could be considered, in the spirit of value maximisation of assets of the corporate debtor.	Arguments of Respondent
+He submitted, that again vide communication dated 11.2.2019, KIAL was required to submit a revised bid, which was submitted by it on 12.2.2019.	Arguments of Respondent
+Learned counsel therefore submitted, that it is clear from the record, that KIAL had objected to the participation of Kalpraj at the earliest possible opportunity i.e. on 29.1.2019.	Arguments of Respondent
+Not only that, thereafter KIAL continued to object to the participation of Kalpraj.	Arguments of Respondent
+Revised plans were submitted by KIAL under compulsion inasmuch as, if it would not have submitted its revised plans, on that ground alone it had to face the risk of being ousted from consideration.	Arguments of Respondent
+It is therefore submitted, that the contention, that KIAL has acquiesced to the participation of Kalpraj and was therefore estopped from challenging its participation is without any substance.	Arguments of Respondent
+Learned counsel submitted, that the contention, that KIAL was taking chances is also totally incorrect.	Arguments of Respondent
+It had objected to the participation of Kalpraj at the very first opportunity and continued to object till CoC approved its plan and also thereafter, by way of an application before NCLT objecting to the approval of the Resolution Plan of Kalpraj.	Arguments of Respondent
+Learned counsel further submitted, that the contention, that KIAL is a subsidiary of Kotak Bank and that Kotak Bank had also not objected to Kalpraj submitting its Resolution Plan and therefore the same amounted to acquiescence is also not correct.	Arguments of Respondent
+He submitted, that firstly, in the reply filed by RP to the application filed by KIAL in NCLT, there is no plea regarding the Kotak Banks consensus.	Arguments of Respondent
+He however submitted, that in any case in view of the judgment of this Court in the case of Vodafone International Holdings BV vs. Union of India Anr.	Arguments of Respondent
+(2012) 6 SCC 613 , both KIAL and Kotak Bank are different corporate entities and any act of Kotak Bank cannot bind KIAL.	Arguments of Respondent
+On merits, Shri Kaul would submit, that the entire process adopted by RP and CoC was contrary to the statutory provisions, fair play and transparency.	Arguments of Respondent
+He submitted, that perusal of the definition of applicant in the Process Memorandum in clause 1.0 would show, that for being a resolution applicant, one has to be an applicant who has applied within the prescribed period either under EOI or Form G.	Arguments of Respondent
+It is submitted, that since Kalpraj had neither responded within the period prescribed under EOI or any of the Form G, it could not have been considered to be a resolution applicant.	Arguments of Respondent
+He submitted, that the entire participation of Kalpraj is illegal.	Arguments of Respondent
+He submitted, that after the plan was submitted by KIAL there was a detailed discussion with RP with regard to the plan submitted by it, wherein entire plan was disclosed, after which Kalpraj was permitted to step in.	Arguments of Respondent
+He submitted, that perusal of the Resolution Plan of Kalpraj would reveal, that it is identical with the plans submitted by KIAL, with a little variation to the extent, that in the plan of KIAL the provision made for minority shareholder is Rs.1 crore whereas, in the plan of Kalpraj it is Rs. 50 crore.	Arguments of Respondent
+He submitted, that the entire conduct of RP as well as CoC would reveal, that they had acted in a manner that smacks of favouritism to Kalpraj and were determined to anyhow approve the plan of Kalpraj.	Arguments of Respondent
+It is submitted, that all these aspects have been rightly considered by NCLAT and therefore, the appeals deserve to be dismissed.	Arguments of Respondent
+With regard to the contention of the appellant Kalpraj, that it has taken several steps in pursuance of the Resolution Plan, which was approved by NCLT and any interference at this stage would cause great prejudice to many stakeholders, learned counsel submitted, that not much has been done under the Resolution Plan.	Arguments of Respondent
+He submits, in any case, whatever steps have been taken are almost identical with the steps that KIAL would have taken inasmuch as, the Resolution Plan submitted by Kalpraj is almost identical with the Resolution Plan submitted by KIAL.	Arguments of Respondent
+He submitted, that in any case, whatever amount has been spent by Kalpraj, the same could be reimbursed by KIAL and further steps being continued to be taken by KIAL, so as to take the Resolution Plan to the logical end.	Arguments of Respondent
+Insofar as the judgment of NCLAT in the case of Binani Industries Limited vs. Bank of Baroda Anr. 2018 SCC Online NCLAT 565 is concerned, learned counsel submitted, that the said judgment is totally distinguishable inasmuch as, in the said case both applicants had submitted their plans and revised plans within the stipulated period.	Arguments of Respondent
+In view of the rival submissions, following questions arise for our consideration.	Issue
+Whether the appeals filed by KIAL before NCLAT were within limitation?	Issue
+Whether there was waiver and acquiescence by KIAL, so as to estop it from challenging the participation of Kalpraj?	None
+Whether NCLAT was right in law in interfering with the decision of CoC of accepting the resolution plan of Kalpraj?	Issue
+WHETHER THE APPEALS FILED BY KIAL BEFORE NCLAT WERE WITHIN LIMITATION?	Issue
+For appreciating the rival contentions in this regard, it would be appropriate to refer to Section 29(2) of the Limitation Act, so also the provisions of Section 61 and Section 238A of the IB Code.	None
+Section 29(2) of the Limitation Act. Savings.(1) .	None
+Where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed by the Schedule, the provisions of Section 3 shall apply as if such period were the period prescribed by the Schedule and for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law, the provisions contained in Sections 4 to 24 (inclusive) shall apply only insofar as, and to the extent to which, they are not expressly excluded by such special or local law.	Reasoning
+Section 61 and 238A of the IB Code Appeals and Appellate Authority.(1)	None
+Notwithstanding anything to the contrary contained under the Companies Act, 2013, any person aggrieved by the order of the Adjudicating Authority under this part may prefer an appeal to the National Company Law Appellate Tribunal.	None
+Every appeal under subsection (1) shall be filed within thirty days before the National Company Law Appellate Tribunal Provided that the National Company Law Appellate Tribunal may allow an appeal to be filed after the expiry of the said period of thirty days if it is satisfied that there was sufficient cause for not filing the appeal but such period shall not exceed fifteen days.	None
+An appeal against an order approving a resolution plan under Section 31 may be filed on the following grounds, namely the approved resolution plan is in contravention of the pro visions of any law for the time being in force there has been material ir regularity in exercise of the powers by the resolution pro fessional during the corpo rate insolvency resolution pe riod the debts owed to opera tional creditors of the corpo rate debtor have not been provided for in the resolution plan in the manner specified by the Board the insolvency resolution process costs have not been provided for repayment in priority to all other debts or the resolution plan does not comply with any other crite ria specified by the Board.	None
+An appeal against a liquidation order passed under Section 33 may be filed on grounds of material irregularity or fraud committed in relation to such a liquidation order.	None
+238A. Limitation.	None
+The provisions of the Limitation Act, 1963 (36 of 1963) shall, as far as may be, apply to the proceedings or appeals before the Adjudicating Authority, the National Company Law Appellate Tribunal, the Debt Recovery Tribunal or the Debt Recovery Appellate Tribunal, as the case may be.	None
+Perusal of the aforesaid would reveal, that though the provisions of the Limitation Act, as far as may be, would apply to the proceedings or appeals before the Adjudicating Authority, NCLAT, the Debt Recovery Tribunal or the Debt Recovery Appellate Tribunal, where a period of limitation for initiation of proceedings is provided under any special or local law, different from the period prescribed by the Schedule, the provisions of Section 3 shall apply, as if such period were the period prescribed by the Schedule.	Reasoning
+It would further reveal, that for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law, the provisions contained in sections 4 to 24 (inclusive), shall apply only in so far, and to the extent to which, they are not expressly excluded by such special or local law.	Reasoning
+An appeal is provided before NCLAT under sub section (1) of Section 61 of the IB Code to any person, who is aggrieved by the order of the Adjudicating Authority.	None
+Subsection (2) of Section 61 of the IB Code provides, that every appeal under subsection (1) shall be filed within thirty days before NCLAT.	Arguments of Petitioner
+The proviso thereto further provides, that NCLAT may allow an appeal to be filed after the expiry of the said period of thirty days if it is satisfied, that there was sufficient cause for not filing the appeal.	Reasoning
+However, such period shall not exceed fifteen days.	None
+Since there is a period different from the one which is prescribed by the Schedule to the Limitation Act, the limitation for an appeal would be governed by Section 61 of the IB Code, which is a special statute.	None
+As such, an appeal will have to be preferred within a period of thirty days from the date on which the order was passed by NCLT.	None
+However, if NCLAT is satisfied, that there was sufficient cause for not filing the appeal within a period of thirty days, it may allow an appeal to be filed within a further period of fifteen days.	Reasoning
+As such, the normal period of limitation prescribed under the IB Code is thirty days, with a provision for allowing the filing of an appeal within a further period of fifteen days, if NCLAT is satisfied, that there was a sufficient cause for not filing the appeal within thirty days.	None
+In the present case, the dates are not in dispute.	Reasoning
+The judgment of NCLT is dated 28.11.2019.	Reasoning
+As such, as per Section 61(2) of the IB Code, the appeal was required to be filed on or prior to 28.12.2019.	Reasoning
+The appeal could have been filed within a further period of fifteen days, if NCLAT was satisfied, that there was sufficient cause for not filing the appeal within a period of thirty days.	Reasoning
+As such, the said period would come to an end on 12.1.2020.	Reasoning
+The certified copy of the impugned judgment of NCLT was made available on 18.12.2019.	Reasoning
+If the allowance for the said period is granted, the appeal should have been preferred on or prior to 2.2.2020.	Reasoning
+However, in the present case, the appeal is filed on 18.2.2020.	Reasoning
+It is also not in dispute, that immediately after the order was passed on 28.11.2019 by NCLT, KIAL preferred a writ petition being Writ Petition (L) No. 3621 of 2019 before the Division Bench of the Bombay High Court on 11.12.2019.	Reasoning
+The said writ petition came to be dismissed on 28.1.2020 on the ground, that KIAL had an alternate and efficacious remedy available under Section 61 of the IB Code and as such, it was relegated to the alternate remedy available in law.	Reasoning
+It is strenuously urged on behalf of all the appellants except Fourth Dimension Solutions Ltd., that the IB Code is a complete code in itself, which also provides for a period of limitation and as such, Section 14 of the Limitation Act would not be available to KIAL.	Arguments of Petitioner
+42.	None
+On the contrary, it is urged on behalf of KIAL, that since the order passed by NCLT was passed in utter breach of the principles of natural justice, it had bona fide filed a writ petition before the Division Bench of the Bombay High Court.	Arguments of Respondent
+It is urged, that by an elaborate order the writ petition came to be dismissed, on the ground of availability of alternate remedy.	Arguments of Respondent
+It is therefore urged, that the provisions of Section 14 or at least the principles laid down therein, would be available to KIAL and as such, the appeals, as filed will have to be held to be within limitation.	Arguments of Respondent
+Therefore, the crucial question, that arises for consideration, is as to whether the provisions of Section 14 of the Limitation Act or the principles laid down therein would be available to KIAL for exclusion of the period during which it was prosecuting the writ petition before the Division Bench of the Bombay High Court.	Issue
+It will be relevant to refer to Section 14 of the Limitation Act.	None
+Exclusion of time of proceeding bona fide in court without jurisdiction.(1)	None
+In computing the period of limitation for any suit the time during which the plaintiff has been prosecuting with due diligence another civil proceeding, whether in a court of first instance or of appeal or revision, against the defendant shall be excluded, where the proceeding relates to the same matter in issue and is prosecuted in good faith in a court which, from defect of jurisdiction or other cause of a like nature, is unable to entertain it.	None
+In computing the period of limitation for any application, the time during which the applicant has been prosecuting with due diligence another civil proceeding, whether in a court of first instance or of appeal or revision, against the same party for the same relief shall be excluded, where such proceeding is prosecuted in good faith in a court which, from defect of jurisdiction or other cause of a like nature, is unable to entertain it.	None
+Notwithstanding anything contained in Rule 2 of Order XXIII of the Code of Civil Procedure, 1908 (5 of 1908), the provisions of subsection (1) shall apply in relation to a fresh suit instituted on permission granted by the court under Rule 1 of that Order, where such permission is granted on the ground that the first suit must fail by reason of a defect in the jurisdiction of the court or other cause of a like nature.	None
+Explanation.	None
+For the purposes of this section, (a) in excluding the time during which a former civil proceeding was pending, the day on which that proceeding was instituted and the day on which it ended shall both be counted (b) a plaintiff or an applicant re sisting an appeal shall be deemed to be prosecuting a proceeding (c) misjoinder of parties or of causes of action shall be deemed to be a cause of a like nature with defect of jurisdiction.	None
+The conditions that are required to be fulfilled for invoking the provisions of Section 14 of the Limitation Act have been succinctly spelt out in various judgments of this Court including the one in Consolidated Engineering Enterprises vs. Principal Secretary, Irrigation Department and others (2008) 7 SCC 169 , which read thus Section 14 of the Limitation Act deals with exclusion of time of proceeding bona fide in a court without jurisdiction.	Reasoning
+On analysis of the said section, it becomes evident that the following conditions must be satisfied before Section 14 can be pressed into service Both the prior and subsequent proceedings are civil proceedings prosecuted by the same party	Reasoning
+The prior proceeding had been prosecuted with due diligence and in good faith The failure of the prior proceeding was due to defect of jurisdiction or other cause of like nature The earlier proceeding and the latter proceeding must relate to the same matter in issue and Both the proceedings are in a court.	Reasoning
+Perusal of the aforesaid conditions would make it amply clear, that one of the conditions that is required to be fulfilled is that both the proceedings are in a court.	Reasoning
+The question as to whether the provisions of Section 14 of the Limitation Act would also be applicable to the quasijudicial forums as against the court, fell for consideration before this Court in the case of M.P. Steel Corporation (supra).	Reasoning
+This Court after an elaborate survey of the various judgments of this Court, including judgment in the cases of Bharat Bank Ltd., Delhi vs. Employees of the Bharat Bank Ltd., Delhi AIR 1950 SC 188 1950 SCR 459 , Town Municipal Council, Athani vs. Presiding Officer, Labour Courts, Hubli and others etc.	Reasoning
+(1969) 1 SCC 873 , Nityananda M. Joshi and others vs. Life Insurance Corporation of India and others (1969) 2 SCC 199 , Commissioner of Sales Tax.	Reasoning
+U.P., Lucknow vs. Parson Tools and Plants, Kanpur (1975) 4 SCC 22 , Kerala State Electricity Board, Trivandrum vs. T.P. Kunhaliumma (1976) 4 SCC 634 , Officer on Special Duty (Land Acquisition) and another vs. Shah Manilal Chandulal and others (1996) 9 SCC 414 and Consolidated Engineering Enterprises (supra) held, that the word court in Section 14 takes its colour from the preceding words civil proceedings.	Reasoning
+It was therefore held, that the Limitation Act including Section 14 would not apply to appeals filed before a quasijudicial Tribunal.	Reasoning
+It was held, that since the appeal as mentioned in Section 128 of the Customs Act is not before a Court, the provisions of Section 14 would not be applicable.	Reasoning
+All the authorities cited above, including Consolidated Engineering Enterprises (supra), have been elaborately discussed in the judgment of this Court in the case of M.P. Steel Corporation (supra) and therefore, we refrain from burdening the present judgment by reproducing the observations made in those judgments.	Reasoning
+This Court in M.P. Steel Corporation (supra) further observed, that the judgment of this Court in the case of Commissioner of Sales Tax, U.P. vs. Madan Lal Das Sons, Bareilly (1976) 4 SCC 464 had not considered the law laid down in Parson Tools and Plants (supra) and the other judgments nor the aforesaid decisions were pointed out to the Court and therefore, the said judgment in the case of Madan Lal Das Sons (supra) was not an authority for the proposition, that the Limitation Act would apply to Tribunals.	Reasoning
+After having held, that the Limitation Act, including Section 14 would not apply to appeals filed before a quasijudicial Tribunal, this Court in M.P. Steel Corporation (supra) observed thus	Reasoning
+.However, this does not conclude the issue.	Reasoning
+There is authority for the proposition that even where Section 14 may not apply, the principles on which Section 14 is based, being principles which advance the cause of justice, would nevertheless apply.	Reasoning
+We must never forget, as stated in Bhudan Singh v. Nabi Bux (1969) 2 SCC 481 (1970)	Reasoning
+2	Reasoning
+SCR 10 that justice and reason is at the heart of all legislation by Parliament.	Reasoning
+This was put in very felicitous terms by Hegde, J. as follows (SCC p. 485, para 9) Before considering the meaning of the word held in Section 9, it is necessary to mention that it is proper to assume that the lawmakers who are the representatives of the people enact laws which the society considers as honest, fair and equitable.	Reasoning
+The object of every legislation is to advance public welfare.	Reasoning
+In other words as observed by Crawford in his book on Statutory Constructions that the entire legislative process is influenced by considerations of justice and reason.	Reasoning
+Justice and reason constitute the great general legislative intent in every piece of legislation.	Reasoning
+Consequently where the suggested construction operates harshly, ridiculously or in any other manner contrary to prevailing conceptions of justice and reason, in most instances, it would seem that the apparent or suggested meaning of the statute, was not the one intended by the lawmakers.	Reasoning
+In the absence of some other indication that the harsh or ridiculous effect was actually intended by the legislature, there is little reason to believe that it represents the legislative intent.	Reasoning
+This is why the principles of Section 14 were applied in J. Kumaradasan Nair v. Iric Sohan (2009) 12 SCC 175 (2009) 4 SCC (Civ) 656 to a revision application filed before the High Court of Kerala.	Reasoning
+The Court held (SCC pp. 18081, paras 1618)	Reasoning
+The provisions contained in Sections 5 and 14 of the Limitation Act are meant for grant of relief where a person has committed some mistake.	Reasoning
+The provisions of Sections 5 and 14 of the Limitation Act alike should, thus, be applied in a broadbased manner.	Reasoning
+When subsection (2) of Section 14 of the Limitation Act per se is not applicable, the same would not mean that the principles akin thereto would not be applied.	Reasoning
+Otherwise, the provisions of Section 5 of the Limitation Act would apply.	Reasoning
+There cannot be any doubt whatsoever that the same would be applicable to a case of this nature.	Reasoning
+There cannot furthermore be any doubt whatsoever that having regard to the definition of suit as contained in Section 2(l) of the Limitation Act, a revision application will not answer the said description.	Reasoning
+But, although the provisions of Section 14 of the Limitation Act per se are not applicable, in our opinion, the principles thereof would be applicable for the purpose of condonation of delay in filing an appeal or a revision application in terms of Section 5 thereof.	Reasoning
+It is also now a wellsettled principle of law that mentioning of a wrong provision or nonmentioning of any provision of law would, by itself, be not sufficient to take away the jurisdiction of a court if it is otherwise vested in it in law.	Reasoning
+While exercising its power, the court will merely consider whether it has the source to exercise such power or not.	Reasoning
+The court will not apply the beneficent provisions like Sections 5 and 14 of the Limitation Act in a pedantic manner.	Reasoning
+When the provisions are meant to apply and in fact found to be applicable to the facts and circumstances of a case, in our opinion, there is no reason as to why the court will refuse to apply the same only because a wrong provision has been mentioned.	Reasoning
+In a case of this nature, subsection (2) of Section 14 of the Limitation Act per se may not be applicable, but, as indicated hereinbefore, the principles thereof would be applicable for the purpose of condonation of delay in terms of Section 5 thereof.	Reasoning
+The Court further quoted from Consolidated Engg.	Reasoning
+Enterprises (2008) 7 SCC 169 an instructive passage (Iric Sohan case (2009) 12 SCC 175 (2009) 4 SCC (Civ) 656 , SCC p. 183, para 21)	Reasoning
+In Consolidated Engg.	Reasoning
+Enterprises v. Irrigation Deptt.	Reasoning
+(2008) 7 SCC 169 this Court held (SCC p. 181, para 22)	Reasoning
+The policy of the section is to afford protection to a litigant against the bar of limitation when he institutes a proceeding which by reason of some technical defect cannot be decided on merits and is dismissed.	Reasoning
+While considering the provisions of Section 14 of the Limitation Act, proper approach will have to be adopted and the provisions will have to be interpreted so as to advance the cause of justice rather than abort the proceedings.	Reasoning
+It will be well to bear in mind that an element of mistake is inherent in the invocation of Section 14.	Reasoning
+In fact, the section is intended to provide relief against the bar of limitation in cases of mistaken remedy or selection of a wrong forum.	Reasoning
+On reading Section 14 of the Act it becomes clear that the legislature has enacted the said section to exempt a certain period covered by a bona fide litigious activity.	Reasoning
+Upon the words used in the section, it is not possible to sustain the interpretation that the principle underlying the said section, namely, that the bar of limitation should not affect a person honestly doing his best to get his case tried on merits but failing because the court is unable to give him such a trial, would not be applicable to an application filed under Section 34 of the 1996 Act.	Reasoning
+The principle is clearly applicable not only to a case in which a litigant brings his application in the court, that is, a court having no jurisdiction to entertain it but also where he brings the suit or the application in the wrong court in consequence of bona fide mistake or (sic of) law or defect of procedure.	Reasoning
+Having regard to the intention of the legislature this Court is of the firm opinion that the equity underlying Section 14 should be applied to its fullest extent and time taken diligently pursuing a remedy, in a wrong court, should be excluded.	Reasoning
+See Shakti Tubes Ltd. v. State of Bihar (2009) 1 SCC 786 (2009) 1 SCC (Civ) 370 .	Reasoning
+Thus, this Court relying on the earlier judgments in the cases of Bhudan Singh and another vs. Nabi Bux and another (1969) 2 SCC 481 , J. Kumaradasan Nair and another vs. Iric Sohan and others (2009) 12 SCC 175 , and Consolidated Engineering Enterprises (supra) observed, that the object of enacting the legislation is to advance public welfare.	Reasoning
+The entire legislative process is influenced by considerations of justice and reason.	Reasoning
+Justice and reason constitute the great general legislative intent in every piece of legislation.	Reasoning
+It has been held by this Court, that in the absence of some other indication that the harsh or ridiculous effect was actually intended by the legislature, there is little reason to believe, that it represents the legislative intent.	Reasoning
+It is further observed, that the provisions contained in Sections 5 and 14 of the Limitation Act are meant for grant of relief, where a person has committed some mistake.	Reasoning
+In J. Kumaradasan Nair (supra), it has been observed, that when subsection (2) of Section 14 of the Limitation Act per se is not applicable, the same would not mean, that the principles akin thereto would not be applicable.	Reasoning
+In Consolidated Engineering Enterprises (supra), it has been observed, that while considering the provisions of Section 14 of the Limitation Act, proper approach will have to be adopted and the provisions will have to be interpreted, so as to advance the cause of justice, rather than abort the proceedings.	None
+It has been observed, that an element of mistake is inherent in the invocation of Section 14.	Reasoning
+The section, in fact, is intended to provide a relief against the bar of limitation in cases of mistaken remedy or selection of a wrong forum.	Reasoning
+It has been observed, that the legislature has enacted Section 14 to exempt a certain period covered by a bona fide litigious activity.	Reasoning
+It has been held, that the equity underlying Section 14 should be applied to its fullest extent and time taken diligently pursuing a remedy, in a wrong court, should be excluded.	Reasoning
+It could thus be seen, that this Court has in unequivocal terms held, that when a litigant bona fide under a mistake litigates before a wrong forum, he would be entitled for exclusion of the period, during which he was bona fide prosecuting such a wrong remedy.	None
+Though strictly, the provisions of Section 14 of the Limitation Act would not be applicable to the proceedings before a quasijudicial Tribunal, however, the principles underlying the same would be applicable i.e. the proper approach will have to be of advancing the cause of justice, rather than to abort the proceedings.	None
+An argument similar to the one which is advanced before us, that since the Code is a complete Code in itself, the limitation as provided only under the Code would govern the field and would exclude the application of provisions of Section 14 of the Limitation Act was made in the case of M.P. Steel Corporation (supra).	Reasoning
+While considering this objection, this Court observed thus However, it remains to consider whether Shri Sanghi is right in stating that Section 128 is a complete code by itself which necessarily excludes the application of Section 14 of the Limitation Act.	Reasoning
+For this proposition he relied strongly on Parson Tools (1975) 4 SCC 22 1975 SCC (Tax) 185 (1975) 3	Reasoning
+SCR 743 which has been discussed hereinabove.	Reasoning
+As has already been stated, Parson Tools (1975) 4 SCC 22 1975 SCC (Tax) 185 (1975)	Reasoning
+3	Reasoning
+SCR 743 was a judgment which turned on the three features mentioned in the said case.	Reasoning
+Unlike the U.P. Sales Tax Act, there is no provision in the Customs Act which enables a party to invoke suo motu the appellate power and grant relief to a person who institutes an appeal out of time in an appropriate case.	Reasoning
+Also, Section 10 of the U.P. Sales Tax Act dealt with the filing of a revision petition after a first appeal had already been rejected, and not to a case of a first appeal as provided under Section 128 of the Customs Act.	Reasoning
+Another feature, which is of direct relevance in this case, is that for revision petitions filed under the U.P. Sales Tax Act a sufficiently long period of 18 months had been given beyond which it was the policy of the legislature not to extend limitation any further.	Reasoning
+This aspect of Parson Tools (1975) 4 SCC 22 1975 SCC (Tax) 185 (1975) 3	Reasoning
+SCR 743 has been explained in Consolidated Engg.	Reasoning
+(2008) 7 SCC 169 in some detail by both the main judgment as well as the concurring judgment.	Reasoning
+In the latter judgment, it has been pointed out that there is a vital distinction between extending time and condoning delay.	Reasoning
+Like Section 34 of the Arbitration Act, Section 128 of the Customs Act is a section which lays down that delay cannot be condoned beyond a certain period.	Reasoning
+Like Section 34 of the Arbitration Act, Section 128 of the Customs Act does not lay down a long period.	Reasoning
+In these circumstances, to infer exclusion of Section 14 or the principles contained in Section 14 would be unduly harsh and would not advance the cause of justice.	Reasoning
+It must not be forgotten as is pointed out in the concurring judgment in Consolidated Engg.	Reasoning
+(2008)	None
+7 SCC 169 that (SCC p. 193, para 54) Even when there is cause to apply Section 14, the limitation period continues to be three months and not more, but in computing the limitation period of three months for the application under Section 34(1) of the AC Act, the time during which the applicant was prosecuting such application before the wrong court is excluded, provided the proceeding in the wrong court was prosecuted bona fide, with due diligence.	Reasoning
+Western Builders State of Goa v. Western Builders, (2006) 6 SCC 239 therefore lays down the correct legal position.	Reasoning
+Merely because Parson Tools (1975) 4 SCC 22 1975 SCC (Tax) 185 (1975) 3	Reasoning
+SCR 743 also dealt with a provision in a tax statute does not make the ratio of the said decision apply to a completely differently worded tax statute with a much shorter period of limitation Section 128 of the Customs Act.	Reasoning
+Also, the principle of Section 14 would apply not merely in condoning delay within the outer period prescribed for condonation but would apply dehors such period for the reason pointed out in Consolidated Engg.	Reasoning
+(2008) 7 SCC 169 above, being the difference between exclusion of a certain period altogether under Section 14 principles and condoning delay.	Reasoning
+As has been pointed out in the said judgment, when a certain period is excluded by applying the principles contained in Section 14, there is no delay to be attributed to the appellant and the limitation period provided by the statute concerned continues to be the stated period and not more than the stated period.	Reasoning
+We conclude, therefore, that the principle of Section 14 which is a principle based on advancing the cause of justice would certainly apply to exclude time taken in prosecuting proceedings which are bona fide and with due diligence pursued, which ultimately end without a decision on the merits of the case.	Reasoning
+Perusal of the aforesaid would therefore reveal, that the Court has clearly rejected the objection raised by the Revenue in M.P. Steel Corporation (supra) which was raised relying on the judgment of this Court in the case ofParson Tools and Plants (supra).	Reasoning
+This Court observed, that the time during which the applicant was prosecuting such application before the wrong court can be excluded, provided the proceeding in the wrong court was prosecuted bona fide, with due diligence.	Reasoning
+This Court distinguished the judgment in the case of Parson Tools and Plants (supra) on the ground, that the period provided for filing a revision under the U.P. Sales Tax Act was sufficiently long period of 18 months, beyond which it was the policy of the legislature not to extend limitation any further.	Reasoning
+Relying on the Consolidated Engineering Enterprises (supra), it has been observed, that there is a vital distinction between extending time and condoning delay.	Reasoning
+It was further observed, that like Section 34 of the Arbitration Act, the period provided in Section 128 of the Customs Act did not lay down a long period for preferring an appeal.	Reasoning
+As such, it would be unduly harsh to exclude the principles contained in Section 14 of the Limitation Act.	Reasoning
+Relying on Consolidated Engineering Enterprises (supra) it was observed, that there is a difference between exclusion of a certain period altogether under principles of Section 14 and condoning the delay.	Reasoning
+It has been observed, that when a certain period is excluded by applying the principles contained in Section 14, there is no delay to be attributed to the appellant and the limitation period provided by the statute concerned, continues to be the stated period and not more than the stated period.	Reasoning
+It was therefore held, that the principle of section 14, which is a principle based on advancing the cause of justice would certainly apply to exclude time taken in prosecuting proceedings which are bona fide and pursued with due diligence but which end without a decision on the merits of the case.	Reasoning
+Coming to the facts of the present case, immediately after NCLT pronounced its judgment on 28.11.2019 and even before the certified copy was made available on 18.12.2019, KIAL had filed writ petition before the Division Bench of the Bombay High Court on 11.12.2019 on the principal ground, that the procedure followed by NCLT was in breach of principles of natural justice.	Reasoning
+Such a ground could be legitimately pursued before a writ court.	Reasoning
+In that sense, it was not a proceeding before a wrong court, as such.	Reasoning
+Perusal of the judgment and order dated 28.1.2020, passed by the Division Bench of the Bombay High Court, which dismissed the writ petition on the ground of availability of alternate and equally efficacious remedy would reveal, that the said writ petition was hotly contested between the parties and by an order running into 32 pages, the Division Bench of the Bombay High Court dismissed the petition relegating the petitioner therein (i.e. KIAL) to avail of an alternate remedy available in law.	Reasoning
+Perusal of the memo of the writ petition would reveal, that the petitioner (i.e. KIAL) has specifically averred thus in the petition By way of present Petition seeks to challenge order dated 28th November 2019 passed by Honble National Company Law Tribunal Bench II, Mumbai (NCLT) on Misc.	Reasoning
+Application No.1039 of 2019 filed by the present Petitioner.	Reasoning
+The NCLT, in gross abuse of process of law and in complete disregard of true and actual circumstances has proceeded to pass the impugned order.	Reasoning
+The order impugned is passed by bench of two members, Honble M.K. Sharawat (Judicial) and Honble Chandra Bhan Singh (Technical) on 28th November, 2019.	Reasoning
+However, the matter was heard and reserved for orders on 03rd July, 2019, by Honble Member, Shri M.K. Sharawat (Judicial).	Reasoning
+At the relevant point of time, when the matter was heard and argued, Honble Chandra Bhan Singh (Technical) was not even appointed as Member of NCLT and never had occasion to hear and adjudicate upon the Application filed by the Petitioner.	Reasoning
+It is not just the Application filed by the Petitioner but 3 other Applications which are disposed off by the common order were not heard by the bench who has passed the order.	Reasoning
+This is not just contrary to law but demonstrate that the entire process of passing the orders was in an absolute mechanical manner.	Reasoning
+Annexed hereto and marked as EXHIBIT A is the copy of the order dated 28th November 2019 passed by NCLT on Miscellaneous Application No. 1039 of 2019.	Reasoning
+It could therefore be seen, that the petitioner KIAL has specifically stated, that though the application of the petitioner was heard by a Member (Judicial), the order was passed by a Division Bench consisting of Member (Judicial) as well as Member (Technical).	Reasoning
+Perusal of the grounds would further reveal, that a specific ground has been taken, that the procedure adopted by NCLT was in breach of principles of natural justice.	Reasoning
+It will also be relevant to refer to paragraph 14 of the Memo of the writ petition, which reads thus The Petitioner submits that the Petitioner has alternate remedy of filing of Appeal before the Honble NCLAT.	None
+However, the issue involved in present Writ Petition is not just about the merits of the impugned order, but also in respect of functioning of the Tribunal and the manner in which Tribunal deals with the matters.	None
+These Tribunals come under supervisory control of jurisdictional High Court i.e. this Honble Court.	None
+The issue involved is not in respect of this matter but also in respect of day to day functioning of the Tribunal and the manner in which such issues are being dealt with by the Tribunal.	None
+Therefore, Petitioner is exercising Writ Jurisdiction of this Honble Court.	None
+It could thus clearly be seen, that the petitioner therein i.e. KIAL has specifically stated, that though it had an alternate remedy of filing an appeal before NCLAT, since the petition was not just about the merits of the impugned order, but also in respect of functioning of the Tribunal the petitioner was invoking the writ jurisdiction of the Court.	Reasoning
+By now, it is a settled principle of law, that non exercise of jurisdiction by the High Court under Article 226 of the Constitution is not a hard and fast rule, but a rule of selfrestraint.	Reasoning
+As early as in 1969, in the case of Babu Ram Prakash Chandra Maheshwari (supra), this Court observed thus It is a wellestablished proposition of law that when an alternative and equally effi cacious remedy is open to a litigant he should be required to pursue that remedy and not to invoke the special jurisdiction of the High Court to issue a prerogative writ.	Reasoning
+It is true that the existence of a statutory remedy does not affect the jurisdiction of the High Court to issue a writ.	Reasoning
+But, as observed by this Court in Rashid Ahmed v. The Municipal Board, Kairana (1950)	Reasoning
+SCR 566 , the existence of an adequate legal remedy is a thing to be taken into consideration in the matter of granting writs and where such a rem edy exists it will be a sound exercise of discretion to refuse to interfere in a writ petition unless there are good grounds therefore.	Reasoning
+But it should be remembered that the rule of exhaustion of statutory remedies before a writ is granted is a rule of self imposed limitation, a rule of policy, and discretion rather than a rule of law and the court may therefore in excep tional cases issue a writ such as a writ of certiorari notwithstanding the fact that the statutory remedies have not been ex hausted.	Reasoning
+This Court further laid down two well recognized exceptions to the doctrine with regard to the exhaustion of statutory remedies, which reads thus There are at least two wellrecognised exceptions to .the doctrine with regard to the exhaustion of statutory remedies.	Reasoning
+In the first place, it is wellsettled that where proceedings are taken before a Tri bunal under a provision of law, which is ultra vires, it is open to a party aggrieved thereby to move the High Court un der Art.	Reasoning
+226 for issuing appropriate writs for quashing them on the ground that they are incompetent, without his being obliged to wait until those proceedings run their full course.(See the decisions of this Court in Carl Still G.m.b.H. v. The State of Bihar A.I.R. 1961 S.C. 1615 and The Bengal Immunity Co. Ltd. v. The State Bihar (1955) 2 S.C.R. 603.	Reasoning
+In the second place, the doctrine has no appli cation in a case where the impugned or der has been made in violation of the principles of natural justice (See The State of Uttar Pradesh v. Mohammad Nooh (1958) S.C.R. 595.	Reasoning
+It has been clearly held, that when the proceedings invoked before a statutory authority are de hors the jurisdiction or when they are in breach of principles of natural justice, the party would be entitled to invoke the jurisdiction of the High Court under Article 226 of the Constitution.	Reasoning
+Referring to earlier judgments, this Court in the case of Whirlpool Corporation (supra) observed thus Under Article 226 of the Constitution, the High Court, having regard to the facts of the case, has a discretion to entertain or not to entertain a writ petition.	None
+But the High Court has imposed upon itself certain restrictions one of which is that if an effective and efficacious remedy is available, the High Court would not normally exercise its jurisdiction.	Reasoning
+But the alternative remedy has been consistently held by this Court not to operate as a bar in at least three contingencies, namely, where the writ petition has been filed for the enforcement of any of the Fundamental Rights or where there has been a violation of the principle of natural justice or where the order or proceedings are wholly without jurisdiction or the vires of an Act is challenged.	Reasoning
+There is a plethora of caselaw on this point but to cut down this circle of forensic whirlpool, we would rely on some old decisions of the evolutionary era of the constitutional law as they still hold the field.	Reasoning
+A similar view has been reiterated in the judgment of this Court in the case of Nivedita Sharma vs. Cellular Operators Association of India (supra).	None
+In the present case, perusal of the writ petition would reveal, that it was the specific case of KIAL, that its application, objecting to the application of RP for approval of the resolution plan was heard by a Member (Judicial), whereas, the final orders were passed by a Bench consisting of Member (Judicial) and Member (Technical).	Reasoning
+It has specifically averred, that though an alternate remedy was available to it, it was invoking the jurisdiction of the High Court since the question involved was also with regard to the manner in which the jurisdiction was exercised by NCLT.	Reasoning
+It could thus be seen, that KIAL was bona fide prosecuting the proceedings before the High Court in good faith.	Reasoning
+Perusal of the dates referred to herein above would also reveal, that KIAL was prosecuting the proceedings before the High Court with due diligence.	Reasoning
+Even before the availability of the certified copy, it had knocked the doors of the High Court.	Reasoning
+The matter before the High Court was hotly contested and ultimately, the petition was dismissed by an elaborate judgment relegating KIAL to the alternate remedy available to it in law.	Reasoning
+As such, the conditions which enable a party to invoke the provisions of Section 14 of the Limitation Act are very much available to KIAL.	Reasoning
+If the period during which KIAL was bona fide prosecuting the writ petition before the High Court and that too with due diligence, is excluded applying the principles underlying Section 14 of the Limitation Act, the appeals filed before NCLAT would be very much within the limitation.	Reasoning
+We find, that KIAL would be entitled to exclusion of the period during which it was bona fide prosecuting the remedy before the High Court with due diligence.	Reasoning
+That leaves us to consider the judgments referred to by the appellants on the issue of limitation.	None
+In the case of Popular Construction Co. (supra) this Court was considering the question as to whether the provisions of Section 5 of the Limitation Act are applicable to an application challenging an award under Section 34 of the Arbitration and Conciliation Act, 1996 (hereinafter referred to as the Arbitration Act).	Reasoning
+This Court observed thus Here the history and scheme of the 1996 Act support the conclusion that the timelimit prescribed under Section 34 to challenge an award is absolute and unex tendible by court under Section 5 of the Limitation Act.	Reasoning
+The Arbitration and Con ciliation Bill, 1995 which preceded the 1996 Act stated as one of its main objec tives the need to minimise the supervi sory role of courts in the arbitral process Para 4(v) of the Statement of Objects and Reasons of the Arbitration and Con ciliation Act, 1996 .	Reasoning
+This objective has found expression in Section 5 of the Act which prescribes the extent of judicial in tervention in no uncertain terms Extent of judicial intervention.	Reasoning
+Notwithstanding anything contained in any other law for the time being in force, in matters governed by this Part, no judicial authority shall intervene except where so provided in this Part.	Reasoning
+It must be noticed, that the judgment in the case of Popular Construction Co. (supra) was considered by this Court by a Bench consisting of three Judges in the case of Consolidated Engineering Enterprises (supra) wherein, the question with regard to applicability of Section 14 of the Limitation Act to an application under Section 34(3) of the Arbitration Act fell for consideration.	Reasoning
+In Consolidated Engineering Enterprises (supra), the appellant before this Court was an enterprise engaged in civil engineering construction as well as development of infrastructure.	Reasoning
+It entered into an agreement with the respondent for construction of earthen bund, head sluices and the draft channel of the Y.G. Gudda tank.	Reasoning
+A dispute arose between the parties and therefore, the appellant invoked arbitration Clause 51 of the agreement.	Reasoning
+The dispute was referred to the sole arbitrator who passed his award in favour of the appellant.	Reasoning
+Feeling aggrieved by the said award, the respondents preferred an application to set aside the said award as provided by Section 34 of the Arbitration Act in the Court of the Civil Judge (Senior Division), Ramanagaram, Bangalore Rural District, Bangalore.	Reasoning
+However, it was realised by the respondents, that an application for setting aside the award should have been filed before the Principal District Judge, Bangalore District (Rural).	Reasoning
+As such, an application was preferred by the respondents in the Court of the Civil Judge (Senior Division), Ramanagaram with a request to transfer the application made for setting aside the award to the Court of the Principal District Judge (Rural), Bangalore.	Reasoning
+The Civil Judge (Senior Division), Ramanagaram passed an order directing return of the suit records for presentation before the proper court.	Reasoning
+The respondents therefore collected the papers from the Court of the Civil Judge (Senior Division), Ramanagaram and presented the same in the Court of the Principal District Judge, Bangalore (Rural).	Reasoning
+The District Court framed a preliminary issue, as to whether the suit was barred by the limitation under Section 34(3) of the Arbitration Act.	Reasoning
+The District Judge held, the application for setting aside the award to be timebarred.	Reasoning
+The respondents invoked the appellate jurisdiction of the High Court of Karnataka at Bangalore.	Reasoning
+The Division Bench of the Karnataka High Court held, that the District Judge, Bangalore had committed an error in holding, that Section 14 of the Limitation Act was not applicable to an application submitted under Section 34 of the Act.	Reasoning
+It was therefore held, that the time taken during which the respondents had been prosecuting in the Court of the Civil Judge (Senior Division), Ramanagaram was excludable.	Reasoning
+Feeling aggrieved, the appellant had approached this Court.	Reasoning
+Panchal, J. speaking for himself and Balakrishna, C.J. (as their Lordships then were) observed thus The contention that in view of the decision of the Division Bench of this Court in Union of India v. Popular Construction Co. (2001) 8 SCC 470 the Court should hold that the provisions of Section 14 of the Limitation Act would not apply to an application filed under Section 34 of the Act, is devoid of substance.	Reasoning
+In the said decision what is held is that Section 5 of the Limitation Act is not applicable to an application challenging an award under Section 34 of the Act.	Reasoning
+Section 29(2) of the Limitation Act inter alia provides that where any special or local law prescribes, for any application, a period of limitation different from the period prescribed by the Schedule, the provisions contained in Sections 4 to 24 shall apply only insofar as, and to the extent to which, they are not expressly excluded by such special or local law.	Reasoning
+On introspection, the Division Bench of this Court held that the provisions of Section 5 of the Limitation Act are not applicable to an application challenging an award.	Reasoning
+This decision cannot be construed to mean as ruling that the provisions of Section 14 of the Limitation Act are also not applicable to an application challenging an award under Section 34 of the Act.	Reasoning
+As noticed earlier, in the Act of 1996, there is no express provision excluding application of the provisions of Section 14 of the Limitation Act to an application filed under Section 34 of the Act for challenging an award.	Reasoning
+Further, there is fundamental distinction between the discretion to be exercised under Section 5 of the Limitation Act and exclusion of the time provided in Section 14 of the said Act.	Reasoning
+The power to excuse delay and grant an extension of time under Section 5 is discretionary whereas under Section 14, exclusion of time is mandatory, if the requisite conditions are satisfied.	Reasoning
+Section 5 is broader in its sweep than Section 14 in the sense that a number of widely different reasons can be advanced and established to show that there was sufficient cause in not filing the appeal or the application within time.	Reasoning
+The ingredients in respect of Sections 5 and 14 are different.	Reasoning
+The effect of Section 14 is that in order to ascertain what is the date of expiration of the prescribed period, the days excluded from operating by way of limitation, have to be added to what is primarily the period of limitation prescribed.	Reasoning
+Having regard to all these principles, it is difficult to hold that the decision in Popular Construction Co. (2001) 8 SCC 470 rules that the provisions of Section 14 of the Limitation Act would not apply to an application challenging an award under Section 34 of the Act.	Reasoning
+This Court clearly held, that the decision in the case of the Popular Construction Co. (supra) cannot be construed to mean as a ruling, that provisions of Section 14 of the Limitation Act are also not applicable to an application challenging an award under Section 34 of the Act.	Reasoning
+It has been held, that in the Arbitration Act, there is no express provision excluding application of the provisions of Section 14 of the Limitation Act to an application filed under Section 34 of the Arbitration Act for challenging the award.	Reasoning
+It has further been found, that there is fundamental distinction between the discretion to be exercised under Section 5 of the Limitation Act and exclusion of the time provided in Section 14 of the said Act.	Reasoning
+It was held, that the power to excuse delay and grant an extension of time under Section 5 is discretionary, whereas under Section 14, exclusion of time is mandatory, if the requisite conditions are satisfied.	Reasoning
+It held, that the effect of Section 14 is that in order to ascertain what is the date of expiration of the prescribed period, the days excluded from operating by way of limitation, have to be added to what is primarily the period of limitation prescribed.	Reasoning
+Raveendran, J. (as His Lordship then was) in his concurring judgment observed thus On the other hand, Section 14 contained in Part III of the Limitation Act does not relate to extension of the period of limitation, but relates to exclusion of certain period while computing the period of limitation.	None
+Neither subsection (3) of Section 34 of the AC Act nor any other provision of the AC Act exclude the applicability of Section 14 of the Limitation Act to applications under Section 34(1) of the AC Act.	Reasoning
+Nor will the proviso to Section 34(3) exclude the application of Section 14, as Section 14 is not a provision for extension of period of limitation, but for exclusion of certain period while computing the period of limitation.	Reasoning
+Having regard to Section 29(2) of the Limitation Act, Section 14 of that Act will be applicable to an application under Section 34(1) of the AC Act.	Reasoning
+Even when there is cause to apply Section 14, the limitation period continues to be three months and not more, but in computing the limitation period of three months for the application under Section 34(1) of the AC Act, the time during which the applicant was prosecuting such application before the wrong court is excluded, provided the proceeding in the wrong court was prosecuted bona fide, with due diligence.	Reasoning
+Western Builders (2006) 6 SCC 239 therefore lays down the correct legal position.	Reasoning
+In paragraph 57, Raveendran, J. also observed, that the decision in Popular Construction Co. (supra) did not consider the applicability of Section 14 of the Limitation Act to an application under Section 34 of the Arbitration Act.	None
+As such, in view of the judgment of three Judges Bench of this Court in the case of Consolidated Engineering Enterprises (supra), the reliance placed by the appellants on the judgment of this Court in Popular Construction Co. (supra) would not be of any assistance.	Reasoning
+Reliance is also placed on the judgment of this Court in the case of Singh Enterprises (supra) wherein, the question raised was with regard to applicability of the provisions of Section 5 of the Limitation Act to an appeal filed under Section 35 of the Central Excise Act, 1944.	Reasoning
+Again, the said judgment deals with applicability of Section 5 and not of Section 14 of the Limitation Act and therefore would not support the case of the appellants.	Reasoning
+Similarly, reliance placed by the learned counsel for the appellants on the judgment of this Court in the case of Commissioner of Customs and Central Excise vs. Hongo India Private Limited and another (2009) 5 SCC 791, would also not help the appellants inasmuch as, the question, that fell for consideration there was, with regard to the applicability of Section 5 of the Limitation Act to a reference application provided under Section 35H(1) of the unamended Central Excise Act, 1944.	Reasoning
+For the same reasons, the judgment of this Court in the case of Chhattisgarh State Electricity Board (supra) would also not take the case of the appellants any further inasmuch as, again the question, that fell for consideration was, with regard to applicability of Section 5 of the Limitation Act to an appeal under Section 125 of the Electricity Act, 2003.	Reasoning
+For the same reasons, we find, that the judgment relied on by the appellants in the case of Bengal Chemists and Druggists Association vs. Kalyan Chowdhury (2018) 3 SCC 41 would also not be applicable to the facts of the present case inasmuch as, the said judgment also considered the applicability of Section 5 of the Limitation Act to an appeal to the Appellate Tribunal provided under Section 421(3) and 433 of the Companies Act, 2013.	Reasoning
+The judgment of this Court in the case of Neeraj Jhanji (supra) would not be applicable to the facts of the present case.	Reasoning
+In the said case, the petitioner had initially filed a writ petition before the Delhi High Court against the orderinoriginal passed by the Commissioner of Customs, Kanpur.	Reasoning
+Delhi High Court converted the writ petition into a statutory appeal under the Customs Act, 1962 by order dated 9112009.	Reasoning
+On 992010 the Revenue raised an objection about the territorial jurisdiction of that Court.	Reasoning
+On 512012 the petitioner withdrew the appeal with liberty to approach the jurisdictional High Court and then filed a statutory appeal before the Allahabad High Court after a delay of 697 days.	Reasoning
+It will be relevant to refer to the following observations in Neeraj Jhanji (supra)	Reasoning
+The very filing of writ petition by the petitioner in the Delhi High Court against the orderinoriginal passed by the Com missioner of Customs, Kanpur indicates that the petitioner took a chance in ap proaching the High Court at Delhi which had no territorial jurisdiction in the mat ter.	Reasoning
+We are satisfied that filing of the writ petition or for that matter, appeal before the Delhi High Court was not at all bona fide.	Reasoning
+We are in agreement with the obser vations made by the Allahabad High Court in the impugned order Neeraj Jhanji v. CCE Customs, Custom Appeal Defective 16 of 2012, order dated 68 2012 (All) .	Reasoning
+The Allahabad High Court has rightly dismissed the petitioners application of condonation of delay and con sequently the appeal as time barred.	Reasoning
+It is thus clear, that this Court found, that the petitioner therein had adopted tactics of taking chances by approaching High Court of Delhi, which had no territorial jurisdiction.	Reasoning
+As such, it was found, that neither the writ petition nor the appeal before the Delhi High Court could be construed to be a bona fide.	Reasoning
+It was further noticed, that there was an inordinate delay of 697 days.	Reasoning
+It is thus apparent, that the petitioner therein had not satisfied the necessary conditions for applicability of Section 14.	Reasoning
+In the present case, as already discussed herein above, the petitioner was bona fide prosecuting his remedy before the High Court and that too with due diligence.	Reasoning
+As such, the said judgment also would be of no avail to the case of the appellants.	Reasoning
+The judgment of this Court in the case of Ketan V. Parekh (supra) is relied upon by both the parties.	Reasoning
+The question, that arose for consideration in the said case was with regard to applicability of Section 14 of the Limitation Act to an Appeal from Order of an Appellate Tribunal as provided under Section 35 of the Foreign Exchange Management Act, 1999.	Reasoning
+This Court relying on the earlier judgment in the case of Consolidated Engineering Enterprises (supra) and State of Goa vs. Western Builders (2006) 6 SCC 239 held, that Section 14 can be invoked in an appropriate case for exclusion of the time, during which the aggrieved person may have prosecuted with due diligence a remedy before a wrong forum.	Reasoning
+However, on facts and on the averments made in the pleadings, this Court came to the conclusion, that there was not even a whisper in the applications filed by the appellants, that they had been prosecuting remedy before a wrong forum i.e. the Delhi High Court with due diligence and in good faith.	Reasoning
+It will be relevant to refer to the following paragraphs of the said judgment.	Reasoning
+There is another reason why the benefit of Section 14 of the Limitation Act cannot be extended to the appellants.	Reasoning
+All of them are well conversant with various statutory provisions including FEMA.	Reasoning
+One of them was declared a notified person under Section 3(2) of the Special Court (Trial of Offences Relating to Transactions in Securities) Act, 1992 and several civil and criminal cases are pending against him.	Reasoning
+The very fact that they had engaged a group of eminent advocates to present their cause before the Delhi and the Bombay High Courts shows that they have the assistance of legal experts and this seems to be the reason why they invoked the jurisdiction of the Delhi High Court and not of the Bombay High Court despite the fact that they are residents of Bombay and have been contesting other matters including the proceedings pending before the Special Court at Bombay.	Reasoning
+It also appears that the appellants were sure that keeping in view their past conduct, the Bombay High Court may not interfere with the order of the Appellate Tribunal.	Reasoning
+Therefore, they took a chance before the Delhi High Court and succeeded in persuading the learned Single Judge of the Court to entertain their prayer for stay of further proceedings before the Appellate Tribunal.	Reasoning
+The promptness with which the learned Senior Counsel appearing for the appellant, Kartik K. Parekh made a statement before the Delhi High Court on 7112007 that the writ petition may be converted into an appeal and considered on merits is a clear indication of the appellants unwillingness to avail remedy before the High Court i.e. the Bombay High Court which had the exclusive jurisdiction to entertain an appeal under Section 35 of the Act.	Reasoning
+It is not possible to believe that as on 7112007, the appellants and their advocates were not aware of the judgment of this Court in Ambica Industries v. CCE (2007) 6 SCC 769 whereby dismissal of the writ petition by the Delhi High Court on the ground of lack of territorial jurisdiction was confirmed and it was observed that the parties cannot be allowed to indulge in forum shopping.	Reasoning
+It has not at all surprised us that after having made a prayer that the writ petitions filed by them be treated as appeals under Section 35, two of the appellants filed applications for recall of that order.	Reasoning
+No doubt, the learned Single Judge accepted their prayer and the Division Bench confirmed the order of the learned Single Judge but the manner in which the appellants prosecuted the writ petitions before the Delhi High Court leaves no room for doubt that they had done so with the sole object of delaying compliance with the direction given by the Appellate Tribunal and by no stretch of imagination it can be said that they were bona fide prosecuting remedy before a wrong forum.	Reasoning
+Rather, there was total absence of good faith, which is sine qua non for invoking Section 14 of the Limitation Act.	Reasoning
+It is thus clear, that the appellants therein were indulging into a practice of taking chances.	Reasoning
+They had approached Delhi High Court, which totally lacked territorial jurisdiction and had not approached Bombay High Court though they were residents of Bombay and had been contesting other matters including the proceedings pending before the Special Court at Bombay.	Reasoning
+It has been observed, that keeping in view their past conduct, Bombay High Court might not have interfered with the order of the Appellate Tribunal.	Reasoning
+Therefore, they took a chance before Delhi High Court and succeeded in persuading the learned Single Judge of that Court to entertain their prayer for stay of further proceedings before the Appellate Tribunal.	Reasoning
+This Court further observed, that the promptness with which the statement was made on behalf of the appellants, that the writ petition may be converted into an appeal was a clear indication of the appellants unwillingness to avail remedy before the High Court of Bombay which had the exclusive jurisdiction to entertain an appeal under Section 35 of the Act.	Reasoning
+In the present case, the facts are totally contrary.	Reasoning
+KIAL had approached the High Court of Bombay making a specific grievance, that NCLT had adopted a procedure which was in breach of the principles of natural justice.	Reasoning
+It is specifically mentioned in the writ petition, that though an alternate remedy was available to it, it was approaching the High Court since the issue with regard to functioning of NCLT also fell for consideration.	Reasoning
+The proceedings before the High Court were hotly contested and by an elaborate judgment, the High Court dismissed the writ petition relegating the petitioner therein i.e. KIAL to an alternate remedy available in law.	Reasoning
+It is thus apparently clear, that KIAL was bona fide prosecuting a remedy before the High Court in good faith and with due diligence.	Reasoning
+In a given case, the High Court could have exercised jurisdiction under Article 226 of the Constitution inasmuch as, the grievance was regarding procedure followed by NCLT to be in breach of principles of natural justice.	Reasoning
+That would come within the limited area earmarked by this Court for exercise of extraordinary jurisdiction under Article 226 despite availability of an alternate remedy.	Reasoning
+This Court recently in the judgment of Embassy Property Developments Pvt. Ltd. vs. State of Karnataka and Others 2019 SCC Online 1542 had an occasion to consider a similar issue.	Reasoning
+We find it apposite to refer to the question framed by this Court, which reads thus Whether the High Court ought to interfere, under Article 226/227 of the Constitution, with an order passed by the National Company Law Tribunal in a proceeding under the Insolvency and Bankruptcy Code, 2016, ignoring the availability of a statutory remedy of appeal to the National Company Law Appellate Tribunal and if so, under what circumstances.	Reasoning
+It will also be apposite to reproduce the answer given by this Court.	Reasoning
+Therefore, in fine, our answer to the first question would be that NCLT did not have jurisdiction to entertain an application against the Government of Karnataka for a direction to execute Supplemental Lease Deeds for the extension of the mining lease.	Reasoning
+Since NCLT chose to exercise a jurisdiction not vested in it in law, the High Court of Karnataka was justified in entertaining the writ petition, on the basis that NCLT was coram non judice.	Reasoning
+We therefore have no hesitation to hold, that KIAL was entitled to extension of the period during which it was bona fide prosecuting a remedy before the High Court with due diligence.	Reasoning
+WHETHER THERE WAS WAIVER AND ACQUIESCENCE BY KIAL	None
+SO AS TO ESTOP IT FROM CHALLENGING THE PARTICIPATION OF KALPRAJ?	None
+86.	Arguments of Petitioner
+It is strenuously urged on behalf of the appellants, that under clause 10.4 of the Process Memorandum, if any Resolution Plan is received by RP from any eligible applicant(s) at any stage of the Resolution Plan Process, RP is free to examine any resolution plan with the approval of CoC and the applicant will not have any right to object to the submission or consideration of such plan.	Arguments of Petitioner
+It is further submitted, that even under clause 11.2 of the Process Memorandum, RP or CoC, at their sole discretion, may request for additional information documents and or seek clarification from the resolution applicant after the due date for submission of the plan.	Arguments of Petitioner
+It is further submitted, that delay in submission of additional information and or documents sought by RP, CoC or the Process Manager would entitle RP, CoC or the Process Manager to reject the resolution plan.	Arguments of Petitioner
+87.	Arguments of Petitioner
+It was further submitted by the appellants, that KIAL, in a letter submitted along with the resolution plan to RP, had expressly waived any and all claims with respect to the Resolution Plan Process.	Arguments of Petitioner
+Not only that, but KIAL had submitted its revised plans twice after Kalpraj was permitted to participate in the proceedings.	Arguments of Petitioner
+It is therefore submitted, that since KIAL had expressly waived all its claims and had also submitted its revised plans, after Kalpraj entered into the fray, it was not entitled to raise any grievance.	Arguments of Petitioner
+It is submitted, that the principles of waiver and acquiescence are squarely applicable in the present case.	Arguments of Petitioner
+It was also submitted on behalf of the appellants, that the revised plans, submitted by KIAL, were submitted without mentioning, that it was without prejudice and as such, it was not entitled to make any grievance on that count.	Arguments of Petitioner
+88.	Arguments of Petitioner
+It is submitted, that the approach adopted by KIAL amounted to taking chances, as after having failed in the process, challenging the same would not be permissible in law.	Arguments of Petitioner
+It is also contended that during the 12th meeting of CoC, Kotak Bank, of which KIAL is a 100 subsidiary, also agreed with CoC counsels view, that Kalprajs resolution plan can be considered.	Arguments of Petitioner
+89.	Reasoning
+It could thus be seen, that the main thrust of the arguments advanced on behalf of the appellants with regard to waiver and acquiescence is on two grounds, viz., (i) clause 10.4 of the Process Memorandum read with paragraph 5(b) of the covering letter for submission of resolution plan by KIAL, and (ii) participation of KIAL in the process after Kalpraj was permitted to participate in the process.	Arguments of Petitioner
+90.	Reasoning
+We may refer to clause 10.4 of the Process Memorandum and paragraph 5(b) of the covering letter for submission of resolution plan by KIAL, which read thus Clause 10.4 of the Process Memorandum if any Resolution Plan is received by the Resolution professional from any eligible Applicant(s) at any stage of the Resolution Plan Process, the Resolution professional shall be free to examine such Resolution Plan with the approval of the Committee of Creditors and the Applicant(s) will not have any right to object to submission or consideration of such plan.	None
+Paragraph 5(b) of the covering letter for submission of resolution plan by KIAL.	None
+We further represent and confirm as follows (a) Acceptance We hereby unconditionally and irrevocably agree and accept the terms of the Process Memorandum and that the decision made by the CoC, Resolution professional and or the Adjudicating Authority in respect of any matter with respect to, or arising out of, the Process Memorandum and the Resolution Plan Process shall be binding on us.	None
+We hereby expressly waive any and all claims in respect of the Resolution Plan Process.	None
+On the basis of clause 10.4, it is sought to be urged, that even if the Resolution Plan is received by RP from any eligible applicant(s) at any stage of the Resolution Plan Process, RP was free to examine such Resolution Plan with the approval of CoC and the applicant(s) will not have any right to object to submission or consideration of such plan.	Arguments of Petitioner
+92.	Arguments of Petitioner
+On the basis of paragraph 5(b) of the covering letter for submission of resolution plan by KIAL, it is sought to be urged, that KIAL had unconditionally and irrevocably agreed and accepted the terms of the Process Memorandum and the decision made by CoC, RP and or the Adjudicating Authority in respect of any matter with respect to, or arising out of, the Process Memorandum and the Resolution Plan Process.	Arguments of Petitioner
+It is further sought to be urged, that KIAL had agreed to surrender all and any of its claim in respect of the Resolution Plan Process.	Arguments of Petitioner
+It is sought to be urged, that this stipulation amounts to a concluded contract between the parties and having waived its all claims, KIAL is not permitted in law to challenge the participation of Kalpraj in respect of Resolution Plan Process.	Arguments of Petitioner
+93.	Arguments of Petitioner
+In this respect, it will be relevant to refer to paragraphs 89 and 90 of the judgment of this Court in the case of Central Inland Water Transport Corporation Limited and another vs. Brojo Nath Ganguly and another (1986) 3 SCC 156.	Reasoning
+Should then our courts not advance with the times?	Reasoning
+Should they still continue to cling to outmoded concepts and outworn ideologies?	Reasoning
+Should we not adjust our thinking caps to match the fashion of the day?	Reasoning
+Should all jurisprudential development pass us by, leaving us floundering in the sloughs of 19th century theories?	Reasoning
+Should the strong be permitted to push the weak to the wall?	Reasoning
+Should they be allowed to ride roughshod over the weak?	Reasoning
+Should the courts sit back and watch supinely while the strong trample underfoot the rights of the weak?	Reasoning
+We have a Constitution for our country.	Reasoning
+Our judges are bound by their oath to uphold the Constitution and the laws.	Reasoning
+The Constitution was enacted to secure to all the citizens of this country social and economic justice.	Reasoning
+Article 14 of the Constitution guarantees to all persons equality before the law and the equal protection of the laws.	Reasoning
+The principle deducible from the above discussions on this part of the case is in consonance with right and reason, intended to secure social and economic justice and conforms to the mandate of the great equality clause in Article 14.	Reasoning
+This principle is that the courts will not enforce and will, when called upon to do so, strike down an unfair and unreasonable contract, or an unfair and unreasonable clause in a contract, entered into between parties who are not equal in bargaining power.	Reasoning
+It is difficult to give an exhaustive list of all bargains of this type.	Reasoning
+No court can visualize the different situations which can arise in the affairs of men.	Reasoning
+One can only attempt to give some illustrations.	Reasoning
+For instance, the above principle will apply where the inequality of bargaining power is the result of the great disparity in the economic strength of the contracting parties.	Reasoning
+It will apply where the inequality is the result of circumstances, whether of the creation of the parties or not.	Reasoning
+It will apply to situations in which the weaker party is in a position in which he can obtain goods or services or means of livelihood only upon the terms imposed by the stronger party or go without them.	Reasoning
+It will also apply where a man has no choice, or rather no meaningful choice, but to give his assent to a contract or to sign on the dotted line in a prescribed or standard form or to accept a set of rules as part of the contract, however unfair, unreasonable and unconscionable a clause in that contract or form or rules may be.	Reasoning
+This principle, however, will not apply where the bargaining power of the contracting parties is equal or almost equal.	Reasoning
+This principle may not apply where both parties are businessmen and the contract is a commercial transaction.	Reasoning
+In todays complex world of giant corporations with their vast infrastructural organizations and with the State through its instrumentalities and agencies entering into almost every branch of industry and commerce, there can be myriad situations which result in unfair and unreasonable bargains between parties possessing wholly disproportionate and unequal bargaining power.	Reasoning
+These cases can neither be enumerated nor fully illustrated.	Reasoning
+The court must judge each case on its own facts and circumstances.	Reasoning
+emphasis supplied This Court has held, that the courts will not enforce and will, when called upon to do so, strike down an unfair and unreasonable contract, or an unfair and unreasonable clause in a contract, entered into between parties who are not equal in bargaining power.	Reasoning
+It has been held, that this principle will apply where a man has no choice, or rather no meaningful choice, but to give his assent to a contract or to sign on the dotted line in a prescribed or standard form or to accept a set of rules as part of the contract, however unfair, unreasonable and unconscionable a clause in that contract or form or rules may be.	Reasoning
+Applying the said principles to the facts of the present case, KIAL had no choice than to accept the terms of the contract.	Reasoning
+Paragraph 5(b) of the letter is a part of a covering letter format, which is provided in the Process Memorandum itself.	Reasoning
+The covering letter is in Format I and the party desiring to participate in the Resolution Plan Process has no other option, than to sign the dotted lines.	Reasoning
+Hence, the parties cannot be said to have equal bargaining power and the applicants have no other choice than to sign on the documents prescribed in the format.	Reasoning
+Paragraph 5(b) of the covering letter format, requires a party to undertake, that it will accept all the decisions made by CoC, RP and or the Adjudicating Authority and that the decisions taken will be binding on it.	Reasoning
+It also requires the applicant, to sign on the document thereby, providing expressly waiving any and all claims with respect to the Resolution Plan Process.	Reasoning
+In turn, it provides for a party to agree to a stipulation, that even if RP or CoC acts in any manner, which is not permissible in law, still the resolution applicant would be bound by such a decision and shall waive any or all its claims in respect of the Resolution Plan Process.	Reasoning
+The said principle of law has been subsequently followed in various judgments of this Court including the one in the case of Assistant General Manager and others vs. Radhey Shyam Pandey (2020) 6 SCC 438.	None
+No doubt, that this Court in Central Inland Water Transport Corporation Limited (supra) has observed, that the principle laid down therein may not apply where both parties are businessmen and the contract is a commercial transaction.	Reasoning
+In the first place, RP and the resolution applicant cannot be said to be the contracting parties having equal bargaining power.	Reasoning
+Secondly, since RP functions under the IB Code for discharging the duties bestowed upon him and assisting the process for finalization of resolution plan for survival of the Corporate Debtor, it cannot be said that it is a purely commercial transaction between RP and the resolution applicant.	Reasoning
+It may be argued, that the judgment in the case of Central Inland Water Transport Corporation Limited (supra) arose from a case involving a statutory corporation, which was an instrumentality of State within the meaning of Article 12 of the Constitution.	Reasoning
+However, recently, this Court in the case of Pioneer Urban Land and Infrastructure Limited vs. Govindan Raghavan (2019) 5 SCC 725 while construing the term of contract between a builder and a flat purchaser observed thus 6.8.	Reasoning
+A term of a contract will not be final and binding if it is shown that the flat purchasers had no option but to sign on the dotted line, on a contract framed by the builder.	Reasoning
+The contractual terms of the agreement dated 852012 are ex facie onesided, unfair and unreasonable.	Reasoning
+The incorporation of such onesided clauses in an agreement constitutes an unfair trade practice as per Section 2(1)(r) of the Consumer Protection Act, 1986 since it adopts unfair methods or practices for the purpose of selling the flats by the builder.	Reasoning
+We see no reason, as to why the said principle should not be applicable when RP and CoC are acting under the statutory provisions under the Code.	Reasoning
+We are therefore of the view, in light of the law laid down in Central Inland Water Transport Corporation Limited (supra), KIAL cannot be held to be bound by such unconscionable clause in the letter, which is in a prescribed format.	Reasoning
+The second ground raised, with regard to waiver and acquiescence, is based upon the participation of KIAL in the Resolution Plan Process after Kalpraj was permitted to participate in the proceedings.	Reasoning
+The word waiver has been described in Halsburys Laws of England, 4th Edn., Para 1471, which reads thus 1471.	None
+Waiver.	None
+Waiver is the abandonment of a right in such a way that the other party is entitled to plead the abandonment by way of confession and avoidance if the right is thereafter asserted, and is either express or implied from conduct.	Reasoning
+A person who is entitled to rely on a stipulation, existing for his benefit alone, in a contract or of a statutory provision, may waive it, and allow the contract or transaction to proceed as though the stipulation or provision did not exist.	None
+Waiver of this kind depends upon consent, and the fact that the other party has acted on it is sufficient consideration.	None
+It seems that, in general, where one party has, by his words or conduct, made to the other a promise or assurance which was intended to affect the legal relations between them and to be acted on accordingly, then, once the other party has taken him at his word and acted on it, so as to alter his position, the party who gave the promise or assurance cannot afterwards be allowed to revert to the previous legal relationship as if no such promise or assurance had been made by him, but he must accept their legal relations subject to the qualification which he has himself so introduced, even though it is not supported in point of law by any consideration.	None
+(See Halsburys Laws of England, 4th Edn., Para 1471.)	None
+In Halsburys Laws of England, Vol. 16(2), 4th Edn., Para 907, it is stated The expression waiver may, in law, bear different meanings.	None
+The primary meaning has been said to be the abandonment of a right in such a way that the other party is entitled to plead the abandonment by way of confession and avoidance if the right is thereafter asserted, and is either express or implied from conduct.	None
+It may arise from a party making an election, for example whether or not to exercise a contractual right Waiver may also be by virtue of equitable or promissory estoppel unlike waiver arising from an election, no question arises of any particular knowledge on the part of the person making the representation, and the estoppel may be suspensory only Where the waiver is not express, it may be implied from conduct which is inconsistent with the continuance of the right, without the need for writing or for consideration moving from, or detriment to, the party who benefits by the waiver, but mere acts of indulgence will not amount to waiver nor may a party benefit from the waiver unless he has altered his position in reliance on it.	None
+For considering, as to whether a party has waived its rights or not, it will be relevant to consider the conduct of a party.	None
+For establishing waiver, it will have to be established, that a party expressly or by its conduct acted in a manner, which is inconsistent with the continuance of its rights.	None
+However, the mere acts of indulgence will not amount to waiver.	None
+A party claiming waiver would also not be entitled to claim the benefit of waiver, unless it has altered its position in reliance on the same.	None
+As early as in 1957 in the case of Manak Lal vs. Dr. Prem Chand 1957	None
+SCR 575 AIR 1957 SC 425 an advocate was held guilty for professional misconduct by a Tribunal of Three Members.	None
+The matter was argued before the High Court.	None
+An objection was taken before the High Court, that one of the members had appeared on behalf of the complainant and therefore, he was disqualified from acting as a member of the Tribunal.	None
+A question arose before this Court, that since such an objection was not taken before the Tribunal, whether it amounted to waiver.	None
+This Court observed thus It is true that waiver cannot always and in every case be inferred merely from the failure of the party to take the objection.	Reasoning
+Waiver can be inferred only if and after it is shown that the party knew about the relevant facts and was aware of his right to take the objection in question.	Reasoning
+As Sir John Romilly, M.R., has observed in Vyvyan v. Vyvyan (1861) 30	None
+Beav 65, 74 54 ER 813, 817 waiver or acquiescence, like election, presupposes that the person to be bound is fully cognizant of his rights, and, that being so, he neglects to enforce them, or chooses one benefit instead of another, either, but not both, of which he might claim.	None
+It has been held, that a waiver cannot always and in every case be inferred merely from the failure of the party to take the objection.	Reasoning
+Waiver can be inferred, only if and after it is shown that the party knew about the relevant facts and was aware of his right to take the objection in question.	Reasoning
+The waiver or acquiescence, like election, presupposes, that the person to be bound is fully cognizant of his rights, and that being so, he neglects to enforce them, or chooses one benefit instead of another.	None
+As such, for applying the principle of waiver, it will have to be established, that though a party was aware about the relevant facts and the right to take an objection, he has neglected to take such an objection.	None
+In the case of Krishna Bahadur vs. Purna Theatre and others (2004) 8 SCC 229 , the appellant was appointed in the post of messengercumbearer in the establishment of the respondent.	None
+A disciplinary proceeding was initiated against him wherein, he was found guilty and he was dismissed from service.	None
+The Industrial Tribunal set aside the dismissal with full back wages and compensation.	None
+The appellant was permitted to join his duties but back wages were not paid.	None
+He was again retrenched from services and a sum of Rs.9,030/ was paid as retrenchment compensation, which the appellant was said to have received under protest.	None
+A trade union took the cause of the appellant, inter alia, on the ground of contravention of Section 25G of the Industrial Disputes Act, 1947, so also on the ground of insufficiency of the amount of compensation paid to the appellant in terms of Section 25F(b) thereof.	None
+An industrial dispute was raised before the Assistant Labour Commissioner, which failed, whereupon the Industrial Tribunal was approached by the appellant.	None
+In the meantime, the appellant had also initiated a proceeding under Section 33C(2) of the Industrial Disputes Act, 1947 which ended in an amicable settlement, according to which, the appellant agreed to receive a sum of Rs.39,000/ as full and final settlement.	None
+However, in the proceedings initiated by the trade union, the retrenchment was held to be illegal and he was directed to be deemed to be in continuous service with all benefits.	None
+A writ petition was filed by the respondent before the High Court.	None
+The said writ petition was dismissed by the single judge of the High Court, upholding the findings of the Tribunal.	None
+In an appeal before the Division bench, a plea was taken for the first time, that the workman had accepted the amount paid by the employer and as such, it amounted to waiver by the workman.	None
+The Division Bench allowed the appeal and set aside the award passed by the Tribunal and the judgment and order passed by the single judge.	None
+Setting aside the judgment of the Division Bench, this Court observed thus The principle of waiver although is akin to the principle of estoppel the difference between the two, however, is that whereas estoppel is not a cause of action it is a rule of evidence waiver is contractual and may constitute a cause of action it is an agreement between the parties and a party fully knowing of its rights has agreed not to assert a right for a consideration.	None
+A right can be waived by the party for whose benefit certain requirements or conditions had been provided for by a statute subject to the condition that no public interest is involved therein.	None
+Whenever waiver is pleaded it is for the party pleading the same to show that an agreement waiving the right in consideration of some compromise came into being.	None
+Statutory right, however, may also be waived by his conduct.	None
+This Court has thus held, that the principle of waiver although is akin to the principle of estoppel estoppel is not a cause of action and is a rule of evidence, whereas waiver is contractual and may constitute a cause of action.	None
+It is an agreement between the parties and a party fully knowing of its rights has agreed not to assert a right for a consideration.	None
+It is further held, that whenever waiver is pleaded, it is for the party pleading the same to show that an agreement waiving the right in consideration of some compromise came into being.	None
+This Court in the case of State of Punjab vs. Davinder Pal Singh Bhullar and others (2011) 14 SCC 770 had an occasion to consider an issue, as to when an issue of bias was not raised by the party at the earliest possible, if it is aware of it and knows its right to raise the said issue, would it amount to waiver or not.	Reasoning
+This Court while considering the earlier judgments observed thus II. Doctrine of waiver In Manak Lal AIR 1957 SC 425 this Court held that alleged bias of a Judge official Tribunal does not render the proceedings invalid if it is shown that the objection in that regard and particularly against the presence of the said official in question, had not been taken by the party even though the party knew about the circumstances giving rise to the allegations about the alleged bias and was aware of its right to challenge the presence of such official.	Reasoning
+The Court further observed that (SCC p. 431, para 8) 8.	Reasoning
+waiver cannot always and in every case be inferred merely from the failure of the party to take the objection.	Reasoning
+Waiver can be inferred only if and after it is shown that the party knew about the relevant facts and was aware of his right to take the objection in question.	Reasoning
+Thus, in a given case if a party knows the material facts and is conscious of his legal rights in that matter, but fails to take the plea of bias at the earlier stage of the proceedings, it creates an effective bar of waiver against him.	Reasoning
+In such facts and circumstances, it would be clear that the party wanted to take a chance to secure a favourable order from the official court and when he found that he was confronted with an unfavourable order, he adopted the device of raising the issue of bias.	Reasoning
+The issue of bias must be raised by the party at the earliest.	Reasoning
+(See Pannalal Binjraj v. Union of India AIR 1957 SC 397 and P.D. Dinakaran (1) v. Judges Enquiry Committee (2011) 8 SCC 380 .)	Reasoning
+In Power Control Appliances v. Sumeet Machines (P) Ltd. (1994) 2 SCC 448 this Court held as under (SCC p. 457, para 26)	Reasoning
+Acquiescence is sitting by, when another is invading the rights.	Reasoning
+It is a course of conduct inconsistent with the claim.	Reasoning
+It implies positive acts not merely silence or inaction such as involved in laches.	Reasoning
+The acquiescence must be such as to lead to the inference of a licence sufficient to create a new right in the defendant.	Reasoning
+Inaction in every case does not lead to an inference of implied consent or acquiescence as has been held by this Court in P. John Chandy Co. (P) Ltd. v. John P. Thomas (2002) 5 SCC 90 .	None
+Thus, the Court has to examine the facts and circumstances in an individual case.	Reasoning
+Waiver is an intentional relinquishment of a right.	Reasoning
+It involves conscious abandonment of an existing legal right, advantage, benefit, claim or privilege, which except for such a waiver, a party could have enjoyed.	Reasoning
+In fact, it is an agreement not to assert a right.	Reasoning
+There can be no waiver unless the person who is said to have waived, is fully informed as to his rights and with full knowledge about the same, he intentionallyabandonsthem.	Reasoning
+(Vide Dawsons Bank Ltd. v. Nippon Menkwa Kabushiki Kaisha (193435) 62 IA 100 AIR 1935 PC 79 , Basheshar Nath v. CIT AIR 1959 SC 149 , Mademsetty Satyanarayana v. G. Yelloji Rao AIR 1965 SC 1405 , Associated Hotels of India Ltd. v. S.B. Sardar Ranjit Singh AIR 1968 SC 933 , Jaswantsingh Mathurasingh v. Ahmedabad Municipal Corpn.	Reasoning
+1992 Supp (1) SCC 5 , Sikkim Subba Associates v. State of Sikkim (2001) 5 SCC 629 AIR 2001 SC 2062 and Krishna Bahadur v. Purna Theatre (2004) 8 SCC 229 2004 SCC (LS) 1086 AIR 2004 SC 4282 .)	Reasoning
+This Court in Municipal Corpn. of Greater Bombay v. Dr Hakimwadi Tenants Assn. 1988 Supp SCC 55 AIR 1988 SC 233 considered the issue of waiver acquiescence by the non parties to the proceedings and held (SCC p. 65, paras 1415)	Reasoning
+In order to constitute waiver, there must be voluntary and intentional relinquishment of a right.	Reasoning
+The essence of a waiver is an estoppel and where there is no estoppel, there is no waiver.	Reasoning
+Estoppel and waiver are questions of conduct and must necessarily be determined on the facts of each case.	Reasoning
+There is no question of estoppel, waiver or abandonment.	Reasoning
+There is no specific plea of waiver, acquiescence or estoppel, much less a plea of abandonment of right.	Reasoning
+That apart, the question of waiver really does not arise in the case.	Reasoning
+Admittedly, the tenants were not parties to the earlier proceedings.	Reasoning
+There is, therefore, no question of waiver of rights by Respondents 47 nor would this disentitle the tenants from maintaining the writ petition.	Reasoning
+Thus, from the above, it is apparent that the issue of bias should be raised by the party at the earliest, if it is aware of it and knows its right to raise the issue at the earliest, otherwise it would be deemed to have been waived.	Reasoning
+However, it is to be kept in mind that acquiescence, being a principle of equity must be made applicable where a party knowing all the facts of bias, etc. surrenders to the authority of the Court Tribunal without raising any objection.	Reasoning
+Acquiescence, in fact, is sitting by, when another is invading the rights.	Reasoning
+The acquiescence must be such as to lead to the inference of a licence sufficient to create rights in other party.	Reasoning
+Thus, for constituting acquiescence or waiver it must be established, that though a party knows the material facts and is conscious of his legal rights in a given matter, but fails to assert its rights at the earliest possible opportunity, it creates an effective bar of waiver against him.	Reasoning
+Whereas, acquiescence would be a conduct where a party is sitting by, when another is invading his rights.	Reasoning
+The acquiescence must be such as to lead to the inference of a licence sufficient to create a new right in the defendant.	Reasoning
+Waiver is an intentional relinquishment of a right.	Reasoning
+It involves conscious abandonment of an existing legal right, advantage, benefit, claim or privilege.	Reasoning
+It is an agreement not to assert a right.	Reasoning
+There can be no waiver unless the person who is said to have waived, is fully informed as to his rights and with full knowledge about the same, he intentionally abandons them.	Reasoning
+In the case of Galada power and Telecommunication limited vs. United India Insurance Company Limited and another (2016) 14 SCC 161 , this Court had an occasion to consider the question, as to whether the insurer has waived its right on the basis of claim hit by clause relating to duration.	None
+On the facts, holding, that the case was a case of waiver, this Court observed thus In the instant case, the insurer was in custody of the policy.	None
+It had prescribed the clause relating to duration.	None
+It was very much aware about the stipulation made in Clauses 5(3) to 5(5), but despite the stipulations therein, it appointed a surveyor.	None
+Additionally, as has been stated earlier, in the letter of repudiation, it only stated that the claim lodged by the insured was not falling under the purview of transit loss.	None
+Thus, by positive action, the insurer has waived its right to advance the plea that the claim was not entertainable because conditions enumerated in duration clause were not satisfied.	None
+In our considered opinion, the National Commission could not have placed reliance on the said terms to come to the conclusion that there was no policy cover in existence and that the risks stood not covered after delivery of goods to the consignee.	None
+In the background of this legal position, we will have to examine, as to whether the conduct of KIAL can be said to be of such a nature, which would amount to acquiescence or waiver.	Issue
+The dates are not in dispute.	Reasoning
+As per the invitation of EOI published on 9.7.2018, the last date for submission of EOI was 8.8.2018.	None
+The first Form G was also issued on 9.7.2018, according to which, the last date for submission of resolution plan was 21.9.2018.	Facts
+KIAL had submitted its EOI on 7.8.2018.	None
+First Process Memorandum was issued on 17.8.2018.	None
+However, since there was no response, four more Form G were issued on various dates.	None
+The last of such Form G was issued on 11.12.2018, according to which the last date for submission of resolution plan was 8.1.2019.	Facts
+KIAL submitted its resolution plan on 8.1.2019.	None
+Subsequently, Kalpraj submitted its resolution plan on 27.1.2019.	Arguments of Petitioner
+On KIAL coming to know about the same, on 29.1.2019 itself, it had sent an email protesting to RP against acceptance of belated resolution plan of Kalpraj.	Arguments of Respondent
+The said email dated 29.1.2019 sent by KIAL to RP reads thus As you are aware, that the last date for submission of the bids for Ricoh India Limited, under the CIRP was 8th January, 2019.	None
+Consequently, we duly submitted our bid (along with the requisite Bid Bond Guarantee) within the said time.	None
+However, we are given to understand that you have been receiving and accepting the bids even after the said date, when no extension of time (filing of Form G) was notified.	None
+This severely jeopardises our position and is against the spirit of the code, especially when our Resolution Plan was opened immediately (along with the commercials) and subsequently, even discussed at length in the meeting of 15th January, 2019, which was attended by various stakeholders.	None
+In this light, we would request you to share with us the requisite notification (Form G) towards extension of time for bid submission at the earliest.	None
+However, in the event, such a notification has not been made, it would only be logical that all plans submitted after 8th January, 2019 should be held invalid, more so when our plan has now been opened.	None
+We look forward to your confirmation on the above.	None
+It could therefore be seen, that immediately within a day of the submission of the plan by Kalpraj, KIAL objected to the acceptance of its plan after 8.1.2019, when no extension of time for the same was notified.	Arguments of Respondent
+It is specifically stated, that the said severely jeopardized its position and was against the spirit of the Code, especially when KIALs resolution plan was opened immediately and discussed at length with various stakeholders.	None
+KIAL has therefore requested for sharing the requisite information providing for extension of time for bid submission.	None
+It is further stated, that in the event no such notification was issued, all plans submitted after 8.1.2019 should be held to be invalid.	None
+After the said email was addressed by KIAL to RP, it received an email from RP on 30.1.2019.	None
+It is stated in the said email dated 30.1.2019, that subsequent to the resolution plan submitted on 8.1.2019, CoCs representative and RP had a detailed discussion with its team on the changes required to be made in the resolution plan.	None
+Vide the said email dated 30.1.2019, KIAL was requested to submit the amended resolution plan by 3 p.m. on 1.2.2019.	None
+On 1.2.2019, left with no choice, KIAL submitted its revised resolution plan.	None
+On 10.2.2019, KIAL sent another email to RP, which reads thus It has been quite sometime, since we sought from you on your decision to accept another resolution plan well after the expiry of the deadline for submission of the same.	None
+As pointed out earlier, such an action, after opening of our bid and having detailed discussions on the same is not only prejudicial to our interests but also against the spirit of the IBC code.	None
+The code provides equal treatment to all potential resolution applicants within the framework of law and fixes personal responsibilities upon COC members and RPs in the event instances of discrimination or departure from the established law are found.	None
+We would request a quick response to our query from you on the subject.	None
+In the said email dated 10.2.2019 sent by KIAL, it was stated, that it has been quite sometime, that it had sought a response from RP on his decision to accept another resolution plan well after the expiry of the deadline for submission of the same.	None
+It was reiterated, that such an action, after opening of the bids and having detailed discussions on the same was not only prejudicial to its interest but against the spirit of the IB Code.	None
+It was reiterated, that the IB Code, provides equal treatment to all potential resolution applicants within the framework of law and fixes personal responsibilities upon CoC members and RPs in the event of instances of discrimination or departure from the established law.	None
+Perusal of the record would reveal, that RP had replied to KIAL by email dated 11.2.2019.	None
+It was stated in the said email, that his act of acceptance of resolution plans, submitted after the due date, was under the overall supervision of CoC and as per the opinion given by CoCs legal counsel and RPs legal counsel.	None
+It was also submitted, that this was in the spirit of value maximisation of assets of It is in dispute, as to whether RP had again directed KIAL and Kalpraj vide email dated 11.2.2019 to submit revised plan.	None
+It is asserted on behalf of the KIAL, that such email was received by it, whereas it is denied by RP.	Arguments of Respondent
+In any event, it is not in dispute, that both KIAL and Kalpraj submitted their revised plans on 12.2.2019.	Arguments of Respondent
+On 13/14.2.2019, the resolution plan of Kalpraj was accepted by CoC. On 18.2.2019, RP filed M.A. No.691 of 2019 before NCLT for approval of the resolution plan of Kalpraj.	Facts
+KIAL filed its M.A. No. 1039 of 2019 on 14.3.2019 before the Adjudicating Authority objecting to the approval of resolution plan of Kalpraj.	Arguments of Respondent
+It could thus be clearly seen, that KIAL had raised its objection immediately after the Kalpraj submitted its resolution plan.	None
+Not only that, but, it had also reiterated its objection to the participation of Kalpraj.	None
+Insofar as, submission of amended plans is concerned, it had no other option than to submit its revised plan.	None
+This is specifically so in view of clause 11.2, which reads thus 11.2 No change or supplemental information to the Resolution Plan shall be accepted after the Resolution Plan Due Date, unless agreed otherwise by the Resolution Professional (in consultation with the Committee of Creditors).	None
+The Resolution Professional or the CoC may, at their sole discretion, request for additional information document and or seek clarifications from a Resolution Applicant after the Resolution Plan Due Date.	None
+Delay in submission of additional information and or documents sought by the Resolution Professional, the CoC or the Process Manager shall make the Resolution Plan liable for rejection.	Arguments of Petitioner
+It is thus clear that, had KIAL not responded to the email of RP and submitted its revised plan, it had to run the risk of being out of fray.	None
+Dr. Singhvi, learned Senior Counsel appearing on behalf of Kalpraj relied on the judgment of this Court in the case of ITC Limited vs. Blue Coast Hotels Limited and others (supra), wherein it is held, that even if a debtor has used the word without prejudice it has no significance.	Arguments of Petitioner
+However, in the said case, the debtor had acknowledged the debt even after action was initiated under the Act and even after payment of a smaller sum.	None
+In this background, it was held, that the words without prejudice would have no significance.	None
+As such, the said case would not be applicable to the facts of the present case.	None
+Reliance placed on the judgment of this Court in the case of Tarapore and Company (supra) would also not be of any assistance to the case of the appellants.	None
+It will be relevant to refer to the following observations of this Court in the said case.	None
+Apart from the technical meaning which the expression without prejudice carries depending upon the context in which it is used, in the present case on a proper reading of the correspondence and in the setting in which the term is used, it only means that the respondent reserved to itself the right to contend before the arbitrator that a dispute raised or the claim made by the contractor was not covered by the arbitration clause.	None
+No other meaning can be assigned to it.	None
+An action taken without prejudice to ones right cannot necessarily mean that the entire action can be ignored by the party taking the same.	None
+That leaves us with the last submission in this regard made on behalf of the appellants.	Arguments of Petitioner
+It is submitted, that Kotak Bank had participated in the 12th meeting of CoC dated 13.1.2019 and agreed to consider resolution plan of Kalpraj in view of clause 10.4 of the Process Memorandum.	Arguments of Petitioner
+It is submitted, that KIAL was a 100 subsidiary of Kotak Bank and as such, its agreement to consider the resolution plan of Kalpraj would amount to waiver and acquiescence by KIAL.	Arguments of Petitioner
+130.	None
+This question has been squarely answered by this Court in the case of Vodafone International Holdings BV vs. Union of India and another (2012) 6 SCC 613.	None
+It will be apposite to refer to the following observation of this Court The legal relationship between a holding company and WOS is that they are two distinct legal persons and the holding company does not own the assets of the subsidiary and, in law, the management of the business of the subsidiary also vests in its Board of Directors.	None
+In Bacha F. Guzdar v. CIT AIR 1955 SC 74 , this Court held that shareholders only right is to get dividend if and when the company declares it, to participate in the liquidation proceeds and to vote at the shareholders meeting.	None
+Refer also to Carew and Co. Ltd. v. Union of India (1975) 2 SCC 791 and Carrasco Investments Ltd. v. Directorate of Enforcement (1994) 79	None
+Comp Cas 631 (Del) .	None
+In view of the aforesaid observation, the objection in this regard deserves to be rejected.	None
+Taking into consideration the fact, that KIAL had objected to participation of any other applicant submitting plan after the due date as per the last Form G and also reiterated its objection, we are of the considered view, that it cannot be held, that having participated by submitting the revised plans, KIAL is estopped from challenging the process on the ground of acquiescence and waiver.	None
+Merely because, the revised plans are not submitted with the words without prejudice, in our view, would not make any difference.	None
+As already discussed hereinabove, KIAL had no other option than to submit its revised plans in view of clause 11.2 of the Process Memorandum.	None
+Inasmuch as, had it not responded, it had to run the risk of being out of fray.	None
+As already discussed hereinabove, the conduct of the party is relevant for considering, whether it can be held, that a case is made out of waiver or acquiescence.	None
+None of the appellants have been in a position to establish, that KIAL had given up surrendered its rights to take recourse to the legal remedies.	None
+In any case, the appellants had also not been in a position to establish, that on account of any such waiver or acquiescence any of the appellants had altered their position to their detriment.	None
+As such, it cannot be held, that KIAL had waived or acquiesced its rights to challenge the decision of RP or CoC. WHETHER NCLAT WAS RIGHT IN LAW IN INTERFERING WITH THE DECISION OF COC OF ACCEPTING THE RESOLUTION PLAN OF KALPRAJ?	Issue
+For deciding the said issue, it will be apposite to refer to Section 30 and 31 of the IB Code, which read thus Submission of resolution plan.(1)	None
+A resolution applicant may submit a resolution plan along with an affidavit stating that he is eligible under Section 29A to the resolution professional prepared on the basis of the in formation memorandum.	None
+The resolution professional shall exam ine each resolution plan received by him to confirm that each resolution plan (a) provides for the payment of insol vency resolution process costs in a manner specified by the Board in priority to the payment of other debts of the corporate debtor (b) provides for the payment of debts of operational creditors in such manner as may be specified by the Board which shall not be less than the amount to be paid to such creditors in the event of a liquida tion of the corporate debtor under Section 53 or the amount that would have been paid to such creditors, if the amount to be distributed under the resolution plan had been dis tributed in accordance with the order of priority in subsection (1) of Section 53, whichever is higher, and provides for the payment of debts of financial creditors, who do not vote in favour of the resolution plan, in such man ner as may be specified by the Board, which shall not be less than the amount to be paid to such credi tors in accordance with subsection (1) of Section 53 in the event of a liq uidation of the corporate debtor.	None
+Explanation 1.For the removal of doubts, it is hereby clarified that a distribution in accordance with the provisions of this clause shall be fair and equitable to such creditors.	None
+Explanation 2.For the purposes of this clause, it is hereby declared that on and from the date of com mencement of the Insolvency and Bankruptcy Code (Amendment) Act, 2019, the provisions of this clause shall also apply to the corporate in solvency resolution process of a cor porate debtor where a resolution plan has not been approved or rejected by the Adjudicating Authority where an appeal has been pre ferred under Section 61 or Section 62 or such an appeal is not time barred under any provision of law for the time being in force or where a legal proceeding has been initiated in any court against the decision of the Adjudicating Authority in respect of a resolu tion plan (c) provides for the management of the affairs of the corporate debtor after approval of the resolution plan (d) the implementation and supervision of the resolution plan (e) does not contravene any of the pro visions of the law for the time being in force (f) conforms to such other requirements as may be specified by the Board.	None
+Explanation.	None
+For the purposes of clause (e), if any approval of shareholders is re quired under the Companies Act, 2013 (18 of 2013) or any other law for the time being in force for the implementation of actions under the resolution plan, such approval shall be deemed to have been given and it shall not be a contravention of that Act or law.	None
+The resolution professional shall present to the committee of creditors for its approval such resolution plans which con firm the conditions referred to in subsection (2).	None
+The committee of creditors may ap prove a resolution plan by a vote of not less than sixtysix per cent of voting share of the financial creditors, after considering its feasi bility and viability, the manner of distribu tion proposed, which may take into account the order of priority amongst creditors as laid down in subsection (1) of Section 53, including the priority and value of the secu rity interest of a secured creditor and such other requirements as may be specified by the Board Provided that the committee of creditors shall not approve a resolution plan, submit ted before the commencement of the Insol vency and Bankruptcy Code (Amendment) Ordinance, 2017, where the resolution appli cant is ineligible under Section 29A and may require the resolution professional to in vite a fresh resolution plan where no other resolution plan is available with it Provided further that where the resolution applicant referred to in the first proviso is in eligible under clause (c) of Section 29A, the resolution applicant shall be allowed by the committee of creditors such period, not ex ceeding thirty days, to make payment of overdue amounts in accordance with the proviso to clause (c) of Section 29A Provided also that nothing in the second proviso shall be construed as extension of period for the purposes of the proviso to sub section (3) of Section 12, and the corporate insolvency resolution process shall be com pleted within the period specified in that subsection.	None
+Provided also that the eligibility criteria in Section 29A as amended by the Insolvency and Bankruptcy Code (Amendment) Ordi nance, 2018 (Ord. 6 of 2018) shall apply to the resolution applicant who has not submit ted resolution plan as on the date of com mencement of the Insolvency and Bank ruptcy Code (Amendment) Ordinance, 2018.	None
+The resolution applicant may attend the meeting of the committee of creditors in which the resolution plan of the applicant is considered Provided that the resolution applicant shall not have a right to vote at the meeting of the committee of creditors unless such resolution applicant is also a financial credi tor.	None
+The resolution professional shall sub mit the resolution plan as approved by the committee of creditors to the Adjudicating Authority.	None
+Approval of resolution plan.(1) If the Adjudicating Authority is satisfied that the resolution plan as approved by the com mittee of creditors under subsection (4) of Section 30 meets the requirements as re ferred to in subsection (2) of Section 30, it shall by order approve the resolution plan which shall be binding on the corporate debtor and its employees, members, credi tors, including the Central Government, any State Government or any local authority to whom a debt in respect of the payment of dues arising under any law for the time be ing in force, such as authorities to whom statutory dues are owed, guarantors and other stakeholders involved in the resolution plan Provided that the Adjudicating Authority shall, before passing an order for approval of resolution plan under this subsection, sat isfy that the resolution plan has provisions for its effective implementation.	None
+Where the Adjudicating Authority is satisfied that the resolution plan does not confirm to the requirements referred to in subsection (1), it may, by an order, reject the resolution plan.	None
+After the order of approval under sub section (1), (a) the moratorium order passed by the Adjudicating Authority under Section 14 shall cease to have effect and (b) the resolution professional shall for ward all records relating to the con duct of the corporate insolvency res olution process and the resolution plan to the Board to be recorded on its database.	None
+The resolution applicant shall, pur suant to the resolution plan approved under subsection (1), obtain the necessary ap proval required under any law for the time being in force within a period of one year from the date of approval of the resolution plan by the Adjudicating Authority under subsection (1) or within such period as pro vided for in such law, whichever is later Provided that where the resolution plan contains a provision for combination, as re ferred to in Section 5 of the Competition Act, 2002 (12 of 2003), the resolution applicant shall obtain the approval of the Competition Commission of India under that Act prior to the approval of such resolution plan by the committee of creditors.	None
+The aforesaid provisions have been recently considered in three judgments of this Court.	None
+The first one, being in the case of K. Sashidhar (supra), to which one of us (A.M. Khanwilkar, J.) was a party, and two other judgments, delivered by three Judges Bench of this Court, in the cases of Committee of Creditors of Essar Steel India Limited through Authorised Signatory (supra) and Maharashtra Seamless Limited vs. Padmanabhan Venkatesh and others (2020) 11 SCC 467.	None
+This Court in the case of Committee of Creditors of Essar Steel India Limited through Authorised Signatory (supra) has set out the relevant extracts from the Bankruptcy Law Reforms Committee (BLRC) Report of 2015, which read thus At this juncture, it is important to set out the relevant extracts from the aforemen tioned	None
+Report Executive Summary	None
+The key economic question in the bank ruptcy process The Committee believes that there is only one correct forum for evaluating such possibilities, and making a decision a creditors committee, where all financial creditors have votes in proportion to the magnitude of debt that they hold.	None
+In the past, laws in India have brought arms of the Government (legislature, executive or judiciary) into this question.	None
+This has been strictly avoided by the Commit tee.	None
+The appropriate disposition of a de faulting firm is a business decision, and only the creditors should make it.	None
+Process for legal entities Business decisions by a creditor committee All decisions on matters of business will be taken by a committee of the financial creditors.	None
+This includes evaluating pro posals to keep the entity as a going con cern, including decisions about the sale of business or units, retiring or restructuring debt.	None
+The debtor will be a nonvoting member on the creditors committee, and will be invited to all meetings.	None
+The voting of the creditors committee will be by ma jority, where the majority requires more than 75 per cent of the vote by weight.	None
+No prescriptions on solutions to resolve the insolvency The choice of the solution to keep the en tity as a going concern will be voted on by the creditors committee.	None
+There are no con straints on the proposals that the resolu tion professional can present to the credi tors committee.	None
+Other than the majority vote of the creditors committee, the reso lution professional needs to confirm to the Adjudicator that the final solution com plies with three additional requirements.	None
+The first is that the solution must explic itly require the repayment of any interim finance and costs of the insolvency resolu tion process will be paid in priority to other payments.	None
+Secondly, the plan must explicitly include payment to all creditors not on the creditors committee, within a reasonable period after the solution is im plemented.	None
+Lastly, the plan should comply with existing laws governing the actions of the entity while implementing the solu tions.	None
+5.3.1.	None
+Steps at the start of the IRP Creation of the creditors committee The creditors committee will have the power to decide the final solution by majority vote in the negotiations.	None
+The major ity vote requires more than or equal to 75 per cent of the creditors committee by weight of the total financial liabilities.	None
+The majority vote will also involve a cram down option on any dissenting creditors once the majority vote is obtained.	None
+The Committee deliberated on who should be on the creditors committee, given the power of the creditors committee to ultimately keep the entity as a going concern or liquidate it.	None
+The Committee rea soned that members of the creditors com mittee have to be creditors both with the capability to assess viability, as well as to be willing to modify terms of existing liabil ities in negotiations.	None
+Typically, operational creditors are neither able to decide on mat ters regarding the insolvency of the entity, nor willing to take the risk of postponing payments for better future prospects for the entity.	None
+The Committee concluded that, for the process to be rapid and efficient, the Code will provide that the creditors committee should be restricted to only the financial creditors.	None
+5.3.3.	None
+Obtaining the resolution to insol vency in the IRP The Committee is of the opinion that there should be freedom permitted to the overall market to propose solutions on keeping the entity as a going concern.	None
+Since the manner and the type of possible solutions are specific to the time and envi ronment in which the insolvency becomes visible, it is expected to evolve over time, and with the development of the market.	None
+The Code will be open to all forms of solu tions for keeping the entity going without prejudice, within the rest of the con straints of the IRP.	None
+Therefore, how the in solvency is to be resolved will not be pre scribed in the Code.	None
+There will be no re striction in the Code on possible ways in which the business model of the entity, or its financial model, or both, can be changed so as to keep the entity as a go ing concern.	None
+The Code will not state that the entity is to be revived, or the debt is to be restructured, or the entity is to be liqui dated.	None
+This decision will come from the de liberations of the creditors committee in re sponse to the solutions proposed by the market.	None
+It is thus clear, that the Committee was of the view, that for deciding key economic question in the bankruptcy process, the only one correct forum for evaluating such possibilities, and making a decision was, a creditors committee, wherein all financial creditors have votes in proportion to the magnitude of debt that they hold.	None
+The BLRC has observed, that laws in India in the past have brought arms of the Government (legislature, executive or judiciary) into the question of bankruptcy process.	None
+This has been strictly avoided by the Committee and it has been provided, that the decision with regard to appropriate disposition of a defaulting firm, which is a business decision, should only be made by the creditors.	None
+It has been observed, that the evaluation of proposals to keep the entity as a going concern, including decisions about the sale of business or units, restructuring of debt, etc., are required to be taken by the Committee of the Financial Creditors.	None
+It has been provided, that the choice of the solution to keep the entity as a going concern will be voted upon by CoC and there are no constraints on the proposals that the resolution professional can present to CoC.	None
+The requirements, that the resolution professional needs to confirm to the Adjudicator, are that the solution must explicitly require the repayment of any interim finance and costs of the insolvency resolution process will be paid in priority to other payments that the plan must explicitly include payment to all creditors not on the creditors committee, within a reasonable period after the solution is implemented and lastly the plan should comply with existing laws governing the actions of the entity while implementing the solutions.	None
+The Committee also expressed the opinion, that there should be freedom permitted to the overall market, to propose solutions on keeping the entity as a going concern.	None
+The Committee opined, that the details as to how the insolvency is to be resolved or as to how the entity is to be revived, or the debt is to be restructured will not be provided in the IB Code but such a decision will come from the deliberations of CoC in response to the solutions proposed by the market.	None
+This Court in the case of K. Sashidhar (supra) observed thus Having heard the learned counsel for the parties, the moot question is about the sequel of the approval of the resolution plan by CoC of the respective corporate debtor, namely, KSPIPL and IIL, by a vote of less than seventyfive per cent of voting share of the financial creditors and about the cor rectness of the view taken by NCLAT that the percentage of voting share of the financial creditors specified in Section 30(4) of the IB Code is mandatory.	None
+Further, is it open to the adjudicating authority appellate authority to reckon any other factor other than specified in Sections 30(2) or 61(3) of the IB Code as the case may be which, according to the resolution appli cant and the stakeholders supporting the resolution plan, may be relevant?	None
+(emphasis supplied) After considering the judgment of this Court in the case of Arcelormittal India Private Limited vs. Satish Kumar Gupta and others46 and the relevant provisions of the IB Code, this court further observed in K. Sashidhar (supra) thus As aforesaid, upon receipt of a re jected resolution plan the adjudicating au thority (NCLT) is not expected to do anything more but is obligated to initiate liquidation process under Section 33(1) of the IB Code.	None
+The legislature has not endowed the adjudi cating authority (NCLT) with the jurisdiction or authority to analyse or evaluate the com mercial decision of CoC much less to enquire into the justness of the rejection of the reso lution plan by the dissenting financial credi tors.	None
+From the legislative history and the background in which the IB Code has been enacted, it is noticed that a completely new approach has been adopted for speeding up the recovery of the debt due from the de faulting companies.	None
+In the new approach, there is a calm period followed by a swift resolution process to be completed within 270 days (outer limit) failing which, initiation of liquidation process has been made inevitable and mandatory.	None
+In the earlier regime, the corporate debtor could indefinitely continue to enjoy the protection given under Section 22 of the Sick Industrial Companies Act, 1985 or under other such enactments which has now been forsaken.	None
+Besides, the com mercial wisdom of CoC has been given paramount status without any judicial intervention, for ensuring completion of the stated processes within the timelines prescribed by the IB Code.	None
+There is an intrinsic assumption that financial cred itors are fully informed about the viabil ity of the corporate debtor and feasibility of the proposed resolution plan.	None
+They act on the basis of thorough examination of the proposed resolution plan and assess ment made by their team of experts.	None
+The opinion on the subjectmatter expressed by them after due deliberations in CoC meetings through voting, as per voting shares, is a collective business decision.	None
+The legislature, consciously, has not pro vided any ground to challenge the com mercial wisdom of the individual finan cial creditors or their collective decision before the adjudicating authority.	None
+That is made nonjusticiable.	None
+(emphasis supplied)	None
+This Court has held, that it is not open to the Adjudicating Authority or Appellate Authority to reckon any other factor other than specified in Sections 30(2) or 61(3) of the IB Code.	None
+It has further been held, that the commercial wisdom of CoC has been given paramount status without any judicial intervention for ensuring completion of the stated processes within the timelines prescribed by the IB Code.	None
+This Court thus, in unequivocal terms, held, that there is an intrinsic assumption, that financial creditors are fully informed about the viability of the corporate debtor and feasibility of the proposed resolution plan.	None
+They act on the basis of thorough examination of the proposed resolution plan and assessment made by their team of experts.	None
+It has been held, that the opinion expressed by CoC after due deliberations in the meetings through voting, as per voting shares, is a collective business decision.	None
+It has been held, that the legislature has consciously not provided any ground to challenge the commercial wisdom of the individual financial creditors or their collective decision before the Adjudicating Authority and that the decision of CoCs commercial wisdom is made nonjusticiable.	None
+This Court in Committee of Creditors of Essar Steel India Limited through Authorised Signatory (supra) after referring to the judgment of this Court in the case of K. Sashidhar (supra) observed thus Thus, what is left to the majority deci sion of the Committee of Creditors is the feasibility and viability of a resolution plan, which obviously takes into account all as pects of the plan, including the manner of distribution of funds among the various classes of creditors.	None
+As an example, take the case of a resolution plan which does not pro vide for payment of electricity dues.	None
+It is cer tainly open to the Committee of Creditors to suggest a modification to the prospective res olution applicant to the effect that such dues ought to be paid in full, so that the carrying on of the business of the corporate debtor does not become impossible for want of a most basic and essential element for the car rying on of such business, namely, electric ity.	None
+This may, in turn, be accepted by the resolution applicant with a consequent mod ification as to distribution of funds, payment being provided to a certain type of opera tional creditor, namely, the electricity distri bution company, out of upfront payment of fered by the proposed resolution applicant which may also result in a consequent re duction of amounts payable to other finan cial and operational creditors.	None
+What is im portant is that it is the commercial wis dom of this majority of creditors which is to determine, through negotiation with the prospective resolution applicant, as to how and in what manner the corpo rate resolution process is to take place.	None
+(emphasis supplied)	None
+This Court held, that what is left to the majority decision of CoC is the feasibility and viability of a resolution plan, which is required to take into account all aspects of the plan, including the manner of distribution of funds among the various classes of creditors.	None
+It has further been held, that CoC is entitled to suggest a modification to the prospective resolution applicant, so that carrying on the business of the Corporate Debtor does not become impossible, which suggestion may, in turn, be accepted by the resolution applicant with a consequent modification as to distribution of funds, etc.	None
+It has been held, that what is important is, the commercial wisdom of the majority of creditors, which is to determine, through negotiation with the prospective resolution applicant, as to how and in what manner the corporate resolution process is to take place.	None
+The view taken in the case of K. Sashidhar (supra) and Committee of Creditors of Essar Steel India Limited through Authorised Signatory (supra) has been reiterated by another three Judges Bench of this Court in the case of Maharashtra Seamless Limited (supra).	None
+In all the aforesaid three judgments of this Court, the scope of jurisdiction of the Adjudicating Authority (NCLT) and the Appellate Authority (NCLAT) has also been elaborately considered.	None
+It will be relevant to refer to paragraph 55 of the judgment in the case of K. Sashidhar (supra), which reads thus Whereas, the discretion of the adjudi cating authority (NCLT) is circumscribed by Section 31 limited to scrutiny of the resolu tion plan as approved by the requisite per cent of voting share of financial creditors.	None
+Even in that enquiry, the grounds on which the adjudicating authority can reject the res olution plan is in reference to matters speci fied in Section 30(2), when the resolution plan does not conform to the stated require ments.	None
+Reverting to Section 30(2), the en quiry to be done is in respect of whether the resolution plan provides (i) the payment of insolvency resolution process costs in a specified manner in priority to the repay ment of other debts of the corporate debtor, (ii) the repayment of the debts of operational creditors in prescribed manner, (iii) the man agement of the affairs of the corporate debtor, (iv) the implementation and supervi sion of the resolution plan, (v) does not contravene any of the provisions of the law for the time being in force, (vi) conforms to such other requirements as may be specified by the Board.	None
+The Board referred to is estab lished under Section 188 of the IB Code.	None
+The powers and functions of the Board have been delineated in Section 196 of the IB Code.	None
+None of the specified functions of the Board, directly or indirectly, pertain to regu lating the manner in which the financial creditors ought to or ought not to exercise their commercial wisdom during the voting on the resolution plan under Section 30(4) of the IB Code.	None
+The subjective satisfaction of the financial creditors at the time of voting is bound to be a mixed baggage of variety of factors.	None
+To wit, the feasibility and viability of the proposed resolution plan and including their perceptions about the general capabil ity of the resolution applicant to translate the projected plan into a reality.	None
+The resolu tion applicant may have given projections backed by normative data but still in the opinion of the dissenting financial creditors, it would not be free from being speculative.	None
+These aspects are completely within the do main of the financial creditors who are called upon to vote on the resolution plan under Section 30(4) of the IB Code.	None
+It has been held, that in an enquiry under Section 31, the limited enquiry that the Adjudicating Authority is permitted is, as to whether the resolution plan provides the payment of insolvency resolution process costs in a specified manner in priority to the repayment of other debts of the corporate debtor, the repayment of the debts of operational creditors in prescribed manner, the management of the affairs of the corporate debtor, the implementation and supervision of the resolution plan, the plan does not contravene any of the provisions of the law for the time being in force, conforms to such other requirements as may be specified by the Board.	None
+It will be further relevant to refer to the following observations of this Court in K. Sashidhar (supra) Indubitably, the remedy of appeal including the width of jurisdiction of the ap pellate authority and the grounds of appeal, is a creature of statute.	None
+The provisions in vesting jurisdiction and authority in NCLT or NCLAT as noticed earlier, have not made the commercial decision exer cised by CoC of not approving the resolu tion plan or rejecting the same, justicia ble.	None
+This position is reinforced from the limited grounds specified for instituting an appeal that too against an order ap proving a resolution plan under Section 31.	None
+First, that the approved resolution plan is in contravention of the provisions of any law for the time being in force.	None
+Second, there has been material irregularity in exercise of powers by the resolution professional dur ing the corporate insolvency resolution pe riod.	None
+Third, the debts owed to operational creditors have not been provided for in the resolution plan in the prescribed manner.	None
+Fourth, the insolvency resolution plan costs have not been provided for repayment in pri ority to all other debts.	None
+Fifth, the resolution plan does not comply with any other criteria specified by the Board.	None
+Significantly, the matters or groundsbe it under Section 30(2) or under Section 61(3) of the IB Code are regarding testing the validity of the approved resolution plan by CoC and not for approving the resolution plan which has been disapproved or deemed to have been re jected by CoC in exercise of its business de cision.	None
+emphasis supplied It will therefore be clear, that this Court, in unequivocal terms, held, that the appeal is a creature of statute and that the statute has not invested jurisdiction and authority either with NCLT or NCLAT, to review the commercial decision exercised by CoC of approving the resolution plan or rejecting the same.	None
+The position is clarified by the following observations in paragraph 59 of the judgment in the case of K. Sashidhar (supra), which reads thus In our view, neither the adjudicating authority (NCLT) nor the appellate authority (NCLAT) has been endowed with the jurisdic tion to reverse the commercial wisdom of the dissenting financial creditors and that too on the specious ground that it is only an opinion of the minority financial creditors This Court in Committee of Creditors of Essar Steel India Limited through Authorised Signatory (supra) after reproducing certain paragraphs in K. Sashidhar (supra) observed thus Thus, it is clear that the limited judicial review available, which can in no circumstance trespass upon a business decision of the majority of the Committee of Creditors, has to be within the four corners of Section 30(2) of the Code, insofar as the Adjudicating Authority is concerned, and Section 32 read with Section 61(3) of the Code, insofar as the Appellate Tribunal is concerned, the parameters of such review having been clearly laid down in K. Sashidhar It can thus be seen, that this Court has clarified, that the limited judicial review, which is available, can in no circumstance trespass upon a business decision arrived at by the majority of CoC.	None
+In the case of Maharashtra Seamless Limited (supra), NCLT had approved the plan of appellant therein with regard to CIRP of	None
+United Seamless Tubulaar (P) Ltd.	None
+In appeal, NCLAT directed, that the appellant therein should increase upfront payment to Rs.597.54 crore to the financial creditors, operational creditors and other creditors by paying an additional amount of Rs.120.54 crore.	None
+NCLAT further directed, that in the event the resolution applicant failed to undertake the payment of additional amount of Rs.120.54 crore in addition to Rs.477 crore and deposit the said amount in escrow account within 30 days, the order of approval of the resolution plan was to be treated to be set aside.	None
+While allowing the appeal and setting aside the directions of NCLAT, this Court observed thus The appellate authority has, in our opinion, proceeded on equitable perception rather than commercial wisdom.	None
+On the face of it, release of assets at a value 20 below its liquidation value arrived at by the valuers seems inequitable.	None
+Here, we feel the Court ought to cede ground to the commercial wis dom of the creditors rather than assess the resolution plan on the basis of quantitative analysis.	None
+Such is the scheme of the Code.	None
+Section 31(1) of the Code lays down in clear terms that for final approval of a resolution plan, the adjudicating authority has to be satisfied that the requirement of subsection (2) of Section 30 of the Code has been com plied with.	None
+The proviso to Section 31(1) of the Code stipulates the other point on which an adjudicating authority has to be satisfied.	None
+That factor is that the resolution plan has provisions for its implementation.	None
+The scope of interference by the adjudicating authority in limited judicial review has been laid down in Essar Steel Essar Steel India Ltd. Commit tee of Creditors v. Satish Kumar Gupta, (2020) 8 SCC 531 , the relevant passage (para 54) of which we have reproduced in earlier part of this judgment.	None
+The case of MSL in their appeal is that they want to run the company and infuse more funds.	None
+In such circumstances, we do not think the appellate authority ought to have interfered with the order of the adjudicating authority in direct ing the successful resolution applicant to en hance their fund inflow upfront.	None
+This Court observed, that the Court ought to cede ground to the commercial wisdom of the creditors rather than assess the resolution plan on the basis of quantitative analysis.	None
+This Court clearly held, that the appellate authority ought not to have interfered with the order of the adjudicating authority by directing the successful resolution applicant to enhance their fund inflow upfront.	None
+It would thus be clear, that the legislative scheme, as interpreted by various decisions of this Court, is unambiguous.	None
+The commercial wisdom of CoC is not to be interfered with, excepting the limited scope as provided under Sections 30 and 31 of the IB Code.	None
+No doubt, it is sought to be urged, that since there has been a material irregularity in exercise of the powers by RP, NCLAT was justified in view of the provisions of clause (ii) of subsection (3) of Section 61 of the IB Code to interfere with the exercise of power by RP.	None
+However, it could be seen, that all actions of RP have the seal of approval of CoC.	None
+No doubt, it was possible for RP to have issued another Form G, in the event he found, that the proposals received by it prior to the date specified in last Form G could not be accepted.	None
+However, it has been the consistent stand of RP as well as CoC, that all actions of RP, including acceptance of resolution plans of Kalpraj after the due date, albeit before the expiry of timeline specified by the IB Code for completion of the process, have been consciously approved by CoC.	None
+It is to be noted, that the decision of CoC is taken by a thumping majority of 84.36.	None
+The only creditor voted in favour of KIAL is Kotak Bank, which is a holding company of KIAL, having voting rights of 0.97.	Arguments of Petitioner
+We are of the considered view, that in view of the paramount importance given to the decision of CoC, which is to be taken on the basis of commercial wisdom, NCLAT was not correct in law in interfering with the commercial decision taken by CoC by a thumping majority of 84.36.	Arguments of Petitioner
+It is further to be noted, that after the resolution plan of Kalpraj was approved by NCLT on 28.11.2019, Kalpraj had begun implementing the resolution plan.	Arguments of Petitioner
+NCLAT had heard the appeals on 27.2.2020 and reserved the same for orders.	None
+It is not in dispute, that there was no stay granted by NCLAT, while reserving the matters for orders.	None
+After a gap of five months and eight days, NCLAT passed the final order on 5.8.2020.	None
+It could thus be seen, that for a long period, there was no restraint on implementation of the resolution plan of Kalpraj, which was duly approved by NCLT.	None
+It is the case of Kalpraj, RP, CoC and Deutsche Bank, that during the said period, various steps have been taken by Kalpraj by spending a huge amount for implementation of the plan.	None
+No doubt, this is sought to be disputed by KIAL.	None
+However, we do not find it necessary to go into that aspect of the matter in light of our conclusion, that NCLAT acted in excess of jurisdiction in interfering with the conscious commercial decision of CoC.	None
+It is also pointed out, that in pursuance of the order dated 5.8.2020 passed by NCLAT, CoC has approved the resolution plan of KIAL on 13.8.2020.	None
+However, since we have already held, that the decision of NCLAT dated 5.8.2020 does not stand the scrutiny of law, it must follow, that the subsequent approval of the resolution plan of KIAL by CoC becomes nonest in law.	None
+For, it was only to abide by the directions of NCLAT.	None
+We are of the view that nothing would turn on it.	None
+The decision of CoC dated 13/14.2.2019 is a decision, which has been taken in exercise of its commercial wisdom.	None
+As such, we hold, that the decision taken by CoC dated 13/14.2.2019, which is taken in accordance with its commercial wisdom and which is duly approved by NCLT, will prevail.	None
+Further, NCLAT was not justified in interfering with the stated decision taken by CoC.	None
+In that view of the matter, we find, that Civil Appeal Nos. 29432944 of 2020 filed by Kalpraj Civil Appeal Nos. 29492950 of 2020 filed by RP and Civil Appeal Nos. 31383139 of 2020 filed by Deutsche Bank deserve to be allowed.	Decision
+It is ordered accordingly.	Decision
+The order passed by NCLAT dated 5.8.2020 is quashed and set aside and the orders passed by NCLT dated 28.11.2019 are restored and maintained.	Decision
+Insofar as, the Civil Appeals arising out of D.No. 24125 of 2020 filed by Fourth Dimension Solutions Limited are concerned, it is submitted, that the appeal preferred by it against the order of NCLT is still pending before NCLAT.	Decision
+Without going into the merits of the rival contentions of the parties, we direct NCLAT to decide the appeal of Fourth Dimension Solutions Limited in accordance with law, as expeditiously as possible, and in any case, within a period of two months from today.	Decision
+As such, all appeals are disposed of in view of the above and pending applications, if any, shall stand disposed of	Decision

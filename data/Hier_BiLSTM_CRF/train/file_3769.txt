@@ -1,0 +1,97 @@
+ Subba Rao, J. 1.	None
+These appeals by special leave raise the question of construction of Section 24 (2) of the Indian Incometax Act, 1922, hereinafter called the Act.	Facts
+2.	None
+The material facts may briefly be stated.	Facts
+The Cocanada Bank Ltd., Kakinada, hereinafter called the assessee, is a private limited company carrying on banking business with its head office at Kakinada and a branch at Dayal Bagh.	Facts
+The assessees sources of income are banking business and interest from Government securities.	Facts
+For the assessment year 194950 its income was assessed as follows Interest on securities Rs. 84,880 Other banking activities Rs. 64,400 (loss) Net loss Rs. 55,912 The following tabular form shows at a glance the factual position in regard to the income of the assessee under different heads during the said three years.	Facts
+Year of assessment Interest on securities Business income or loss (as finally decided by the A.A.C.)	None
+Total (1) (2) (3) (4) Rs.	None
+Rs.	None
+Rs. 1. 1950515,191 886 6,077 2. 1951522,174 1,177 3,351 3. 1952531,885 9,121 11,006 For the three succeeding years the department showed the income under the said two separate heads but allowed the said loss to be set off against the income under the head business and disallowed it against the income under the head interest on securities.	Facts
+The view of the Incometax Officer was confirmed, on appeal, by the Appellate Assistant Commissioner and, on further appeal, by the Incometax Appellate Tribunal.	Facts
+The following question was referred by the Tribunal to the High Court for its opinionWhether on the facts and in circumstances of the case, the assessee was entitled to set off the business loss of Rs.55,912 brought forward from the preceding year against the entire income including interest on securities held by the assessee.	None
+The High Court, having regard to the decision of this Court in United Commercial Bank Ltd. v. Commr. of Incometax, West Bengal, 1958 SCR 79 (S) AIR 1957 SC 918 ), remitted the case to the Incometax Tribunal, Hyderabad Bench, for making a fuller statement of case on the question whether these securities in question formed part of the trading assets held by the assessee in the course of its business as a bank and whether its dealing with the securities from which it received interest was as much the assessees business as receiving deposits from clients and withdrawals by them.	Facts
+The Incometax Tribunal, on a further hearing, held that the receipt of interest from securities was as much the assessees business as its other banking activities like receiving deposits from the clients and withdrawals by them.	Facts
+On receipt of the supplementary statement of case from the Tribunal the High Court answered the reference in favour of the assessee.	Facts
+Hence the present appeals.	Facts
+3. Learned counsel for the Revenue argued that the income from business and securities fell under different heads, namely, S. 10 and S. 8 of the Act respectively, that they were mutually exclusive and, therefore, the losses under the head business could not be carried forward from the preceding year to the succeeding year and set off under S. 22 (4) of the Act against the income from securities held by the assessee.	Arguments of Petitioner
+4. Learned counsel for the assessee, on the other hand, contended that though for the purpose of computation of income, the income from securities and the income from business were calculated separately, in a case where the securities were part of the trading assets of the business, the income therefrom was part of the income of the business and, therefore, the losses incurred under the head business could be set off during the succeeding years against the total income of the business, i.e., income from the business including due income from the securities.	Arguments of Respondent
+5.	None
+The relevant section of the Act which deals with the matter of set off of losses in computing the aggregate income in S. 24.	None
+The relevant part of it, before the Finance Act, 1955, read(1) Where any assessee sustains a loss of profits or gains in any year under any of the heads mentioned in S. 6, he shall be entitled to have the amount of the loss set off against his income, profits or gains under any other head in that year (2) Where any assessee sustains a loss of profits or gains in any year, being a previous year not earlier than the previous year for the year ending on the 31st day of March, 1940, in any business, profession or vocation, and the loss cannot be wholly set off under subs.	None
+(1), so much of the loss as is not so set off or the whole loss where the assessee had no other head of income shall be carried forward to the following year and set off against the profits and gains, if any, of the assessee from the same business, profession or vocation for that year and if it cannot be wholly set off, the amount of loss not so set off shall be carried forward to the following year While subs.	None
+(1) of S. 24 provides for setting off of the loss in a particular year under one of the heads mentioned in S. 6 against the profit under a different head in the same year, subs.	None
+(2) provides for the carrying forward of the loss of one year and setting off of the same against the profits or gains of the assessee from the same business in the subsequent year or years.	None
+The crucial words, therefore, are profits and gains of the assessee from the same business, i.e., the business in regard to which he sustained loss in the previous year.	None
+The question, therefore, is whether the securities formed part of the trading assets of the business and the income therefrom was income from the business.	Issue
+The answer to this question depends upon the scope of S. 6 of the Act.	None
+Section 6 of the Act classified taxable income under the following several heads (i) salaries, (ii) interest on securities (iii) income from property (iv) profits and gains of business, profession or vocation (v) income from other sources and (vi) capital gains.	None
+The scheme of the Act is that incometax is one tax.	None
+Section 6 only classifies the taxable income under different heads for the purpose of computation of the net income of the assessee.	None
+Though for the purpose of computation of the income, interest on securities is separately classified income by way of interest from securities does not cease to be part of the income from business if the securities are part of the trading assets.	None
+Whether a particular income is part of the income from a business falls to be decided not on the basis of the provisions of S. 6 but on commercial principles.	None
+To put it in other words, did the securities in the present case which yielded the income form part of the trading assets of the assessee?	None
+The Tribunal and the High Court found that they were the assessees trading assets and the income therefrom was, therefore, the income of the business.	None
+If it was the income of the business, S. 24 (2) of the Act was immediately attracted.	None
+If the income from the securities was the income from its business, the loss could, in terms of that section, be set off against that income.	None
+6.	None
+A comparative study of subss.	None
+(1) and (2) of S. 24 yields the same result.	None
+While in subs.	None
+(1) the expression head is used, in subs.	None
+(2) the said expression is conspicuously omitted.	None
+This designed distinction brings out the intention of the Legislature.	None
+The Act provides for the setting off of loss against profits in four ways.	None
+To illustrate take the head profits and gains of business, profession or vocation.	None
+An assessee may have two businesses.	None
+In ascertaining the income in each of the two businesses, he is entitled to deduct the losses incurred in respect of each of the said businesses.	None
+So calculated, if he has loss in one business and profit in the other both falling under the same head, he can set off the loss in one against the profit in the other in arriving at the income under that head.	None
+Even so, he may still sustain loss under the same head.	None
+He can then set off the loss under the head business against profits under another head, say income from investments, even if investments are not part of the trading assets of the business.	None
+Notwithstanding this process he may still incur loss in his business.	None
+Section 24 (2) says that in that event he can carry forward the loss to the subsequent year or years and set off the loss against the profit in the business.	None
+Be it noted that cl.	None
+(2) of S. 24, in contradistinction of cl.	None
+(1) thereof, is concerned only with the business and not with its heads under S. 6 of the Act.	None
+Section 24, therefore, is enacted to give further relief to an assessee carrying on a business and incurring loss in the business though the income therefrom falls under different heads under S. 6 of the Act.	None
+7. Some of the decisions cited at the Bar may conveniently be referred to at this stage.	None
+The Judicial Committee in Punjab Cooperative Bank Ltd. v. Commr. of Incometax, Lahore, (1940) 8 ITR 635 at p. 645 (AIR 1940 PC 230 at p. 236), has clearly brought out the business connection between the securities of a bank and its business, thusIn the ordinary case of a bank, the business consists in its essence of dealing with money and credit.	None
+Numerous depositors place their money with the bank often receiving a small rate of interest on it.	None
+A number of borrowers receive loans of a large part of these deposited funds at somewhat higher rates of interest.	None
+But the banker has always to keep enough cash or easily realisable securities to meet any probable demand by the depositors.	None
+In the present case the Tribunal held, on the evidence and that was accepted by the High Court, that the assessee was investing its amounts in easily realisable securities and, therefore, the said securities were part of the trading assets of the assessees banking business.	Reasoning
+The decision of this Court in 1958 SCR 79 (S) AIR 1957 SC 918 ) does not lay down any different proposition.	Reasoning
+It held, after an exhaustive review of the authorities, that under the scheme of the Incometax Act, 1922, the head of income, profits an gains enumerated in the different clauses of S. 6 were mutually exclusive each specific head covering items of income arising from a particular source.	Reasoning
+On that reasoning this Court held that even though the securities were part of the trading assets of the company doing business, the income therefrom had to be assessed under S. 8 of the Act.	Reasoning
+This decision does not say that the income from securities is not income from the business.	Reasoning
+Nor does the decision of this Court in East India Housing and Land Development Trust Ltd. v. Commr. of Incometax, West Bengal, (1961) 42 ITR 49 (SC) support the contention of the Revenue.	Reasoning
+There, a company, which was incorporated with the objects of having and developing landed properties and promoting and developing markets, purchased 10 bighas of land in the town of Calcutta and set up a market therein.	Reasoning
+The question was whether the income realised from the tenants of the shops and stalls was liable to be taxed as business income under S. 10 of the Incometax Act or as income from property under S. 9 thereof.	Reasoning
+This Court held that the said income fell under the specific head mentioned in S. 9 of the Act.	Reasoning
+This case also does not lay down that the income from the shops is not the income in the business.	Reasoning
+In Commr. of Incometax, Madras v. Express Newspapers Ltd., (1964) 53 ITR 250 at p. 260 (AIR 1965 SC 38 at p. 39) this Court held that both S. 26 (2) and the proviso thereto dealt only with profits and gains of a business profession or vocation and they did not provide for the assessment of income under any other head, e.g., capital gains.	Reasoning
+The reason for that conclusion is stated thusIn (the deeming clause in S. 12B) only introduced a limited fiction, namely, that capital gains accrued will be deemed to be income of the previous year in which the sale was effected.	Reasoning
+The fiction does not make them the profits or gains of the business.	Reasoning
+It is well settled that a legal fiction is limited to the purpose for which it is created and should not be extended beyond its legitimate field. . .	Reasoning
+.The	Reasoning
+profits and gains of business and capital gains are two distinct concepts in the Incometax Act the former arises from the activity which is called business and the latter accrues because capital assets are disposed of at a value higher than what they cost the assessee.	Reasoning
+They are placed under different heads they are derived from different sources and the income is computed under different methods.	Reasoning
+The fact that the capital gains are connected with the capital assets of the business cannot make them the profit of the business.	Reasoning
+They are only deemed to be income of the previous year and not the profits or gains arising from the business during that year.	Reasoning
+It will be seen that the reason for the conclusion was that capital gains were not income from the business.	Reasoning
+Though some observations divorced from content may appear to be wide, the said decision was mainly based upon the character of the capital gains and not upon their noninclusion under the heading business.	Reasoning
+The limited scope of the earlier decision was explained by this Court in Commr. of Incometax, Bombay City I v. Chugandas and Co., (1965)	Reasoning
+55 ITR 17 at p. 24 (AIR 1965 SC 568 at p. 572).	Reasoning
+Therein this Court held that interest from securities formed part of the assessees business income for the purpose of exemption under S. 25(3)	Reasoning
+Shah J. speaking for the Court, observedThe heads described in S. 6 and further elaborated for the purpose of computation of income in sections 7 to 10 and 12, 12A, 12AA and 12B are intended merely to indicate the classes of income the heads do not exhaustively delimit sources from which income arises.	Reasoning
+This is made clear in the judgment of this Court in the United Commercial Bank Ltds case, 1958 SCR 79 ((S) AIR 1957 SC 918 ), that business income is broken up under different heads only for the purposes of computation of the total income by that break up the income does not cease to be income of the business, the different heads of income being only the classification prescribed by the Indian Incometax Act for computation of income.	Reasoning
+The same principle applies to the present case.	Reasoning
+8.	None
+We, therefore, hold that under S. 24(2) of the Act the income from the securities which formed part of the assessees trading assets was part of its income in the business and therefore, the loss incurred in the business in the earlier year could be set off against that income also in the succeeding years.	Reasoning
+9.	None
+In the result, we hold that the High Court was right in answering the question referred to it in the affirmative.	Decision
+The appeals are dismissed with costs.	Decision
+One hearing fee.	Decision
+10.	None
+Appeals dismissed.	None

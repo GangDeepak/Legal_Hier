@@ -1,0 +1,183 @@
+ K. Sikri, J. The singular issue which needs to be considered in these appeals pertains to claim of depreciation under Section 80IA of the Income Tax Act, 1961 (hereinafter referred to as the Act).	Issue
+Interpreting the provisions of Section 32 of the Act (which prevailed in the relevant Assessment Years (Section 32 was amended by Finance Act, 2001 and Explanation 5 was added to nullify the effect of Mahendra Mills case.))	Issue
+this Court in CIT v. Mahendra Mills, (2000) 243 ITR 56 held that it is a choice of an assessee whether to claim or not to claim depreciation.	Issue
+As aforesaid, that decision was rendered in the context of assessing business income of an assessee under Chapter IV of the Act which is regulated by Sections 28 to 43D of the Act.	None
+Section 32 deals with depreciation and allows the deductions enumerated therein from the profits and gains of business or profession.	Arguments of Petitioner
+Section 80IA of the Act, on the other hand, contains a special provision for assessment of industrial undertakings or enterprises which are engaged in infrastructure development etc.	None
+This provision allows certain specific kind of deductions in respect of depreciation.	None
+The issue is as to whether claim for deduction on account of depreciation under Section 80IA is the choice of the assessees or it has to be necessarily taken into consideration while computing the income under this provision.	None
+For better understanding of the aforesaid issue, the factual environment in which the aforesaid question has germinated, needs to be recapitulated.	None
+For the sake of convenience, facts appearing in Civil Appeal No. 238 of 2012 are taken note of.	None
+The Assessment Years involved in this appeal are 199798 to 200001.	Facts
+The assessee is engaged in the business of manufacture of master batches and compounds.	Facts
+For this purpose, it had manufacturing undertakings at Daman Units I and II.	Facts
+Units I and II began to manufacture article or things in the previous years relevant to Assessment Years 199495 and 199596 respectively.	Facts
+Accordingly, for the year under consideration i.e. Assessment Year 199798 profits of the business of both the undertakings were eligible for 100 deduction under Section 80IA of the Act.	Facts
+The assessee did not claim depreciation while computing its income under the head profits and gains of business.	Facts
+Consequently, deduction under Section 80IA was also claimed on the basis of such profits i.e. without reducing the same by depreciation allowance.	Facts
+This position was accepted by the Assessing Officer (AO) in an intimation made under Section 143(1)(a) of the Act.	Facts
+Likewise, for the Assessment Year 199697, the assessee did not claim deduction on account of depreciation.	Facts
+Though, this position was not accepted by the AO, the claim of the assessee was upheld by the Tribunal.3.	Facts
+Coming to the Assessment Year 199798, from which Assessment Year the dispute has arisen, the annual accounts prepared by the assessee for the year disclosed that it earned a net profit of Rs.	Facts
+1,80,85,409/.	None
+This was arrived at after charging depreciation of Rs.	None
+64,98,968/ in accordance with the Companies Act, 1956.	None
+The assessee filed its return of income for Assessment Year 199798 determining the gross total income at Rs. 2,46,04,962/.	Facts
+The gross total income included profits and gains derived from business of undertakings I and II at Daman aggregating to Rs.	Facts
+2,46,04,962/ which profits were eligible for deduction under Section 80IA of the Act.	None
+After reducing the gross total income by the deductions available under Section 80IA, the total income was computed at Rs. Nil.	Facts
+The AO initiated reassessment proceedings and passed an assessment order under Section 143(3) read with Section 147 computing the gross total income at Rs. 34,15,583/.	Facts
+Though, the assessee had disclaimed deduction in respect of depreciation, the AO allowed deduction on this account as well in respect of the same in the sum of Rs.	Facts
+2,13,89,379/ while computing the profit and gains of business.	None
+After reducing the gross total income by the brought forward loss of Rs. 98,47,170/, he determined the business loss to be carried forward to Assessment Year 199899 at Rs. 66,25,587/. Aggrieved by the said assessment order, the assessee filed the appeal before the Commissioner of Income Tax (Appeals) CIT(A) urging that the AO erred in not considering the Tribunals decision in the assessees own case for the Assessment Year 199697 wherein it had been held that depreciation cannot be thrust on it.	None
+The CIT(A) upheld the assessees submission that claim for depreciation is optional, based on the Tribunals order in its own case for Assessment Year 199697 and hence allowed the appeal.	None
+Aggrieved by the appellate order of the CIT(A), the AO filed an appeal before the Tribunal with the plea that CIT(A) erred in directing him to work out business profit and deduction under Section 80IA of the Act without taking into account the corresponding depreciation amount.	None
+The Tribunal reversed the appellate order of the CIT(A) following the decision of the High Court of Bombay in Scoop Industries P. Ltd. v. IncomeTax Officer, (2007)	None
+289 ITR 195.	None
+Aggrieved by the Tribunals order, the assessee filed the appeal thereagainst before the High Court of Bombay under Section 260A of the Act on the basis that a substantial question of law arose for consideration.	None
+The High Court was pleased to admit the appeal and formulated the following question of law as arising for determination Whether the eligible income of an undertaking in respect of which deductions available under Section 80IA has to be reduced by the allowance of depreciation for the year even though the assessee has exercised the option not to claim depreciation under Section 32 in arriving at its income of the undertaking for the purposes of computing the assessees income under the head profits and gains of business or profession?	None
+The Division Bench of the High Court at Bombay in the assessees case noticed that there was a conflict of opinion in two earlier decisions viz.	None
+Grasim Industries Ltd. v. Assistant Commissioner of IncomeTax Ors., (2000) 245 ITR 677 wherein it was held that the profits and gains eligible for deduction under Chapter VIA shall be the same as profits and gains computed in accordance with the provisions of the Act and included in the gross total income and the decision in Scoop Industries P. Ltd. where it was held that depreciation whether claimed or not has to be reduced for arriving at the profits eligible for deduction under Chapter VIA.	None
+Noticing this conflict of opinion, the matter was referred to the Full Bench, to resolve the conflict.	None
+The Full Bench of the High Court of Bombay has upheld the stand of the Revenue, that, whilst computing a deduction under Chapter VIA, it was mandatory to grant deduction by way of depreciation.	None
+The High Court has proceeded on the basis that the computation of profits and gains for the purposes of Chapter VIA is different from computation of profits under the head profits and gains of business.	None
+It has, therefore, concluded that, even assuming that the assessee had an option to disclaim current depreciation in computing the business income, depreciation had to be reduced for computing the profits eligible for deduction under Section 80IA of the Act.	None
+The High Court concluded that Section 80IA provides for a special deduction linked with profits and is a code by itself and in so doing relied on the decisions of this Court in the case of Liberty India v. Commissioner of Income Tax, (2009) 317 ITR 218 , Commissioner of Income Tax v. Williamson Financial Services Ors., (2008) 297 ITR 17 and Commissioner of Income Tax, Dibrugarh v. Doom Dooma India Ltd., (2009) 310 ITR 392.	None
+The High Court proceeded on the basis that this Court in the aforementioned decisions has held that for computing such special deduction, any device adopted by an assessee to reduce or inflate the profits of such eligible business has to be rejected.	None
+The High Court ultimately held that the quantum of deduction eligible under Section 80IA has to be determined by computing the gross total income from business after taking into consideration all the deductions allowable under Sections 30 to 43D including depreciation under Section 32.	None
+After the Full Bench answered the reference in the aforesaid manner, the appeal of the assessee was disposed of by the Division Bench vide order dated November 03, 2009 following the aforesaid opinion of the Full Bench.	None
+This is how the matter has travelled up to this Court.	None
+The relevant portion of the provisions of Section 80IA of the Act, which was in vague during the concerned Assessment Years (It may be mentioned that Section 80IA inserted by the Finance (No.2) Act, 1991 and was amended from time to time.	None
+The provision was recasted and substituted by Finance Act, 2001 and certain amendments made to that provision also thereafter.	None
+We are, however, concerned with the provision that was in force before its amendment vide Finance Act, 2001.), reads as under 80IA.	None
+Deductions in respect of profits and gains from industrial undertakings etc., in certain cases.	None
+(1) Where the gross total income of an assessee includes any profits and gains derived from any business of an industrial undertaking or a hotel or operation of a ship or developing, maintaining and operating any infrastructure facility or scientific and industrial research and development or providing telecommunication services whether basic or cellular including radio paging, domestic satellite service or network of trunking and electronic data interchange services or construction and development of housing projects or operating an industrial park or commercial production or refining of mineral oil in the North Eastern Region or in any part of India on or after the 1st day of April, 1997 (such business being hereinafter referred to as the eligible business), to which this section applies, there shall, in accordance with and subject to the provisions of this section, be allowed in computing the total income of the assessee, a deduction from such profits and gains of an amount equal to the percentage specified in subsection (5) and for such number of assessment years as is specified in subsection (6).	None
+It is not in dispute that all the assessees in these appeals are those industrial undertakings which fulfil the conditions mentioned in Section 80IA and, therefore, are entitled to deductions as stipulated in subsection (5) of the said Section.	Reasoning
+It is also not in dispute that all the assessees fall in that category of industrial undertakings which are entitled to 100 deduction of the profits and gains derived from such industrial undertakings for the specified number of years.	Reasoning
+It is also an admitted fact that for the Assessment Years in question, they were entitled to the aforesaid deduction and their assessments were completed under Section 80IA of the Act.	Reasoning
+Submission of Mr. Pardiwala, the learned senior counsel for the assessees, was that deduction is to be allowed from such profits and gains and, therefore, in the first instance, profits and gains which are earned by the assessees in the relevant Assessment Year are to be computed.	Reasoning
+For computation of such profits and gains, one has to go back and apply the provisions from Section 28 onwards contained in Part D of Chapter IV dealing with profits and gains from business or profession.	Reasoning
+Section 29 of the Act, in this behalf, specifically stipulates that income referred to in Section 28 shall be computed in accordance with provisions contained in Sections 30 to 43D.	Arguments of Petitioner
+In this hue, he argued, when it comes to claiming depreciation, Section 32 of the Act gets attracted and interpreting this Section, it has been held in Mahendra Mills case that whether to claim depreciation or not is the option of the assessees and it cannot be thrusted upon the assessees.	Reasoning
+Following passage from the said judgment was relied upon by the learned senior counsel We do not think that the Gujarat High Court in the case of Gujarat State Warehousing Corpn.	Arguments of Petitioner
+(1976)	Arguments of Petitioner
+104 ITR 1 (Guj) has taken the correct view in respect of the issues with which we are concerned in the present appeal.	Arguments of Petitioner
+The High Court has not properly appreciated the context in which this Court made observations in the case of Jaipuria China Clay Mines (P) Ltd. (1966) 59 ITR 555 AIR 1966 SC 1187 on which the High Court has relied.	Arguments of Petitioner
+In the later two cases of Chokshi Metal Refinery (1977) 107 ITR 63 (Guj) and Arun Textile C (1991) 192 ITR 700 (Guj) the Gujarat High Court has itself taken, if we may say so, a different view falling in line with the views of the Bombay, Punjab and Haryana, Karnataka, Andhra Pradesh, Calcutta and Kerala High Courts which view commends to us.	Arguments of Petitioner
+The language of the provisions of Sections 32 and 34 is specific and admits of no ambiguity.	Arguments of Petitioner
+Section 32 allows depreciation as deduction subject to the provisions of Section 34.	Arguments of Petitioner
+Section 34 provides that deduction under Section 32 shall be allowed only if prescribed particulars have been furnished.	Arguments of Petitioner
+We have seen Rule 5AA of the Rules which though since deleted provided for the particulars required for the purpose of deduction under Section 32.	Arguments of Petitioner
+Even in the absence of Rule 5AA return of income in the form prescribed itself requires particulars to be furnished if the assessee claims depreciation.	None
+These particulars are required to be furnished in great detail.	Arguments of Petitioner
+There is a circular of the Board dated 3181965, which provides that depreciation could not be allowed where the required particulars have not been furnished by the assessee and no claim for the depreciation has been made in the return.	Arguments of Petitioner
+The Income Tax Officer in such a case is required to compute the income without allowing depreciation allowance.	Arguments of Petitioner
+The circular of the Board dated 1141955 is of no help to the Revenue.	Arguments of Petitioner
+It imposes merely a duty on the officers of the Department to assist the taxpayers in every reasonable way, particularly, in the matter of claiming and securing relief.	Arguments of Petitioner
+The officer is required to do no more than to advise the assessee.	Arguments of Petitioner
+It does not place any mandatory duty on the officer to allow depreciation if the assessee does not want to claim that.	Arguments of Petitioner
+Provision for claim of depreciation is certainly for the benefit of the assessee.	Arguments of Petitioner
+If he does not wish to avail that benefit for some reason, benefit cannot be forced upon him.	Arguments of Petitioner
+It is for the assessee to see if the claim of depreciation is to his advantage.	Arguments of Petitioner
+Rather, the Income Tax Officer should advise him not to claim depreciation if that course is beneficial to the assessee.	Arguments of Petitioner
+That would be in our view the spirit of the circular dated 1141955.	None
+Income under the head Profits and gains of business or profession is chargeable to income tax under Section 28 and that income under Section 29 is to be computed in accordance with the provisions contained in Sections 30 to 43A. The argument that since Section 32 provides for depreciation it has to be allowed in computing the income of the assessee cannot in all circumstances be accepted in view of the bar contained in Section 34.	Arguments of Petitioner
+If Section 34 is not satisfied and particulars are not furnished by the assessee his claim for depreciation under Section 32 cannot be allowed.	Arguments of Petitioner
+Section 29 is thus to be read with reference to other provisions of the Act.	Arguments of Petitioner
+It is not in itself a complete code.	Arguments of Petitioner
+He also referred to subsections (9) and (10) of Section 80IA which provide for specific eventualities for the purpose of deductions under the said Section and submitted that insofar as depreciation is concerned, that was not mentioned therein.	Arguments of Petitioner
+Thus, according to him, it is these two subsections which contained special provisions and except that, for computing the profits and gains of the business, Sections 30 to 43D had to be applied which would embrace Section 32 as well.8.	Arguments of Petitioner
+Counsel appearing in other appeals for the assessees made their submissions almost on the same lines thereby virtually adopting the arguments advanced by Mr. Percy.	Arguments of Petitioner
+Learned counsel for the Revenue emphatically refuted the aforesaid submissions.	Arguments of Respondent
+He extensively referred to the Full Bench judgment of the High Court, justifying the view taken therein on the reasoning contained in the said judgment.	Arguments of Respondent
+In addition, he submitted that the very basis of the judgment of this Court in Mahendra Mills Limited has been knocked off by the Parliament with the addition of Explanation 5 to Section 32 vide Finance Act, 2001.	Arguments of Respondent
+Though, this provision was given effect to from April 1, 2002, his submission was that it is declaratory in nature and, therefore, has to be applied retrospectively.	Arguments of Respondent
+In order to buttress this submission, he relied upon the following judgments CIT, Bombay v. M s Gwalior Rayon Silk Manufacturing Co. Ltd., (1992) 3 SCC 326 (ii) Commissioner of Income Tax v. M s Alps Theatre, AIR 1967 SC 1437 (1967) 3	Arguments of Respondent
+SCR 181 (iii) Commissioner of Income TaxI, Ahmedabad v. Gold Coin Health Food Private Limited, (2008) 9 SCC 622 In rejoinder, Mr. Percy argued that Explanation 5 to Section 32 was specifically made applicable w.e.f.	None
+April 1, 2002 and was, therefore, prospective in nature.	Arguments of Petitioner
+In this behalf, he referred to three High Court judgments rendered by Kerala High Court, Madras High Court and Punjab Haryana High Court which had taken the view as projected by him in the following cases Commissioner of IncomeTax v. Kerala Electric Lamp Works Ltd. Anr., (2003)	Arguments of Petitioner
+261 ITR 721,(ii) Commissioner of Income Tax v. Sree Senhavalli Textiles P. Ltd., (2003) 259	Arguments of Petitioner
+ITR 77 and(iii)	Arguments of Petitioner
+Shri Ram Nath Jindal and Shri Jaghjiwan Ram v. The Commissioner of IncomeTax, Haryana, Rohtak, (2001)	None
+252	None
+ITR 590 He argued that wherever Legislature wanted a particular amendment to be retrospective in nature, it was specifically provided so.	None
+Before dealing with the aforesaid submissions, let us first discern the reasons which prevailed with the Full Bench of the Bombay High Court in arriving at the said conclusion.	None
+We have already mentioned that Full Bench of the Bombay High Court answered the reference by holding that depreciation had to be reduced for computing the profits eligible for deduction under Section 80IA of the Act, as it was a complete code in itself.	None
+For arriving at the said conclusion, the Full Bench took note of the relevant provisions of Chapter VIA, particularly, Section 80A, Section 80AB and Section 80B as well as Section 80IA of the Act.	None
+Contrasting the provisions of Chapter VIA with Chapter IV, the High Court remarked that whereas Chapter IV contains provision relating to the computation of total income under various heads of income as also the deductions that are allowable under each head, Chapter VI contains provisions relating to the aggregation of income and set off or carry forward of loss.	None
+Chapter VIA of the Act, on the other hand, provides for special deductions that are allowed at such rates that are specified in the respective provisions on the gross total income of the assessee.	None
+Keeping in view the aforesaid scheme of these Chapters, the High Court distinguished the judgment of this Court in Mahendra Mills and held it to be not applicable, when dealing with the cases under Section 80IA of the Act.	None
+In the process, the High Court gave the following three reasons However, it is pertinent to note that firstly, the decision of the Apex Court in the case of Mahendra Mills (supra) was rendered in the context of determining total income of an industrial undertaking under Chapter IV of the Act and not in the context of determining the deduction under Chapter VIA of the Act.	None
+Secondly, what is held by the Apex Court in the case of Mahendra Mills (supra) is that, when there are two provisions under which an assessee can claim some benefit, it is for the assessee to choose one and that the consequence of the assessee not claiming depreciation in the current year would be that the written down value would remain the same for the following year (see 243 ITR 56 at Page 62).	None
+Thirdly, the Apex Court in the case of Mahendra Mills (supra) has not laid down any proposition of law that by disclaiming depreciation, the assessee can claim enhanced deduction allowable under any other provision in the Act.32.	None
+The choice or the option available to an assessee to claim or not to claim current depreciation as per the decision of the Apex Court in the case of Mahendra Mills (supra) can be elucidated by an illustration.	None
+Suppose an assessee is carrying business in scientific research.	None
+That assessee would be entitled to deduction under section 32 (current depreciation on the plant and machinery used for that business) as well as deduction under section 35(1)(iv) (capital expenditure on the scientific research business).	None
+In such a case, it cannot be said that the legislature intended to give double deduction in respect of the same business outgoing and the assessee would have to choose one out of the above two deductions and cannot claim both the deductions.	None
+In these circumstances, the Apex Court in the case of Mahendra Mills(supra) has observed that the assessee has an option to disclaim depreciation and that the consequence of disclaiming depreciation would be that the written down value of the asset would remain the same for the following year.	None
+Thus, even according to the Apex Court, disclaiming of depreciation cannot result in enhancement in the quantum of deduction that is allowable under any other provision in the Act.	None
+The High Court also observed that in Mahendra Mills case, this Court neither consider the scope of deduction under Chapter VIA nor the said decision can be read to mean that by disclaiming current depreciation, the assessees can claim enhanced deduction under any other provisions in the Act.	None
+After removing the applicability of Mahendra Mills on the aforesaid grounds, the High Court proceeded to consider as to whether it can be said that the quantum of deduction allowable under Section 80IA depend upon the assessees claiming or not claiming current depreciation?	None
+The Full Bench went on to answer this question with the observations that it was no longer res integra as the Apex Court had reflected thereupon in the case of Liberty India and quoted the following passage from the said judgment in support of its aforesaid remarks Before analyzing section 80IB, as a prefatory note, it needs to be mentioned that the 1961 Act broadly provides for two types of tax incentives, namely, investment linked incentives and profit linked incentives.	None
+Chapter VIA which provides for incentives in the form of tax deductions essentially belong to the category of profit linked incentives.	None
+Therefore, when section 80IA/80IB refers to profits derived from eligible business, it is not the ownership of that business which attracts the incentives.	None
+What attracts the incentives under section 80IA/80IB is the generation of profits (operational profits).	None
+For example, an assessee company located in Mumbai may have a business of building housing projects or a ship in Nava Sheva.	None
+Ownership of a ship per se will not attract section 80IB (6).	None
+It is the profits arising from the business of a ship which attracts subsection (6).	None
+In other words, deduction under subsection (6) at the specified rate has linkage to the profits derived from the shipping operations.	None
+This what we mean in drawing the distinction between profit linked tax incentives and investment linked tax incentives.	None
+It is for this reason that Parliament has confined deduction to profits derived from eligible businesses mentioned in subsections (3) to (11A) as they stood at the relevant time.	None
+One more aspect needs to be highlighted.	None
+Each of the eligible business in subsections (3) to (11A) constitutes a standalone item in the matter of computation of profits.	None
+That is the reason why the concent of Segment Reporting stands introduced in the Indian Accounting Standards (IAS) by the Institute of Chartered Accountants of India (ICAI).14.	None
+Analysing Chapter VIA, we find that sections 80IB/80IA are the Code by themselves as they contain both substantive as well as procedural provisions .	None
+Therefore, we need to examine what these provisions prescribe for computation of profits of the eligible business.	None
+It is evident that section 80IB provides for allowing of deduction in respect of profits and gains derived from the eligible business.	None
+The words derived from in narrower in connotation as compared to the words attributable to.	None
+In other words, by using the expression derived from, Parliament intended to cover sources not beyond the first degree.	None
+In the present batch of cases, the controversy which arises for determination is whether the DEPB credit Duty drawback receipt comes within the first degree sources?	None
+According to the assessee(s), DEPB credit duty drawback receipt reduces the value of purchases (cost neutralization), hence, it comes within first degree source as it increases the net profit proportionately.	None
+On the other hand, according to the Department, DEPB credit, duty drawback receipt do not come within first degree source as the said incentives flow from Incentive Schemes enacted by the Government of India or from section 75 of the Customs Act, 1962.	None
+Hence, according to the Department, in the present cases, the first degree source is the incentive scheme provisions of the Customs Act.	None
+In this connection, Department places heavy reliance on the judgment of this Court in Sterling Food (supra).	None
+Therefore, in the present cases, in which we are required to examine the eligible business of an industrial undertaking, we need to trace the source of the profits to manufacture see CIT v. Kirloskar Oil Engines Ltd., reported in (1986) 157	None
+ITR 762 .15.	None
+Continuing our analysis of sections 80IA/80IB it may be mentioned that subsection (13) of section 80EB provides for applicability of the provisions of subsection (5) and subsections (7) to (12) to section 80IA, so far as may be, applicable to the eligible business under section 80IB.	None
+Therefore, at the outset, we stated that one needs to read sections 801, 80IA and 80EB as having a common Scheme.	None
+On perusal of subsection (5) of section 80IA, it is noticed that it provides for manner of computation of profits of an eligible business.	None
+Accordingly, such profits are to be computed as if such eligible business is the only source of income of the assessee.	None
+Therefore , the devices adopted to reduce or inflate the profits of eligible business has got to be rejected in view of the overriding provisions of subsection (5) of section 80IA, which are also required to be read into section 80IB.	None
+see section 80EB(13).	None
+We may reiterate that sections 801, 80IA and 80IB have a common scheme and if so read it is clear that the said sections provide for incentives in the form of deduction(s) which are linked to profits and not to investment.	None
+On analysis of sections 80IA and 80EB it becomes clear that any industrial undertaking, which becomes eligible on satisfying subsection (2), would be entitled to deduction under subsection (1) only to the extent of profits derived from such industrial undertaking after specified date(s).	None
+Hence, apart from eligibility, subsection (1) purports to restrict the quantum of deduction to a specified percentage of profits.	None
+This is the importance of the words derived from industrial undertaking as against profits attributable to industrial undertaking.(Emphasis supplied) The High Court also took aid of the following discussion from the judgment of this Court in Williamson Financial Services and held that In this connection, it is also important to note that section 80A which falls in Chapter VIA, deductions are allowed only from gross total income.	None
+The object for making such provision is to limit the amount of section 80HHC deduction.	None
+It is true that section 80HHC provides for deduction of a percentage of the export profits.	None
+The percentage is calculated with reference to the export profits, but the deduction is only from gross total income as defined under section 80B(5) of the 1961 Act.	None
+Therefore, the very scheme of the 1961 Act is to treat the deductions under Chapter VIA as deductions only from gross total income in order to arrive at the total income.	None
+In other cases falling under section 28 where computation of income falls under the head Business, allowances are deductible from the income but not from gross total income.	None
+It is, therefore, not possible to accept the contention that section 80HHC is part of the provisions for computation of business income.	None
+Section 80 HHC does not have any direct impact on the computation of business income in the manner in which, for example, section 72 affects the computation of business income.	None
+The High Court also noted that in Doom Dooma India Ltd., this Court had specifically remarked that Chapter VIA refers to special deduction.	Reasoning
+It is a distinct code by itself.	Reasoning
+It was also held in the said judgment that there was a clear distinction between deductions allowances in Section 30 to 43D and deductions admissible under Chapter VIA inasmuch as deductions allowances provided in Sections 30 to 43D are allowed in determining gross total income and are not chargeable to tax because the same constitute a charge on profit, whereas, deductions under Chapter VIA are allowed from gross total income chargeable to tax.	Reasoning
+After discussing the aforesaid three judgments of this Court, the High Court noticed that Section 80IA is a code by itself and deduction allowable under Section 80IA is a special deduction which is linked to profits, unlike deductions contained in Chapter IV of the Act which are linked to investment.17.	Reasoning
+The aforesaid conclusion of the Full Bench is based on the judgments of this Court and there is no reason to disagree with the same, on finding that the judgments of this Court are rightly analysed and ratio thereof is correctly understood and applied.	Reasoning
+We, thus, entirely agree with the Full Bench judgment of the Bombay High Court in Plastiblends India Limited v. Additional Commissioner of IncomeTax Ors., (2009) 318 ITR 352 and the following manner in which the position has been summed up by the High Court To summarise, firstly, the Apex Court decision in the case of Mahendra Mills (supra) cannot be construed to mean that by disclaiming depreciation, the assessee can claim enhanced quantum of deduction under section 80IA.	None
+Secondly, the Apex Court in the case of Distributors (Baroda) P. Ltd. (supra) and in the case of Liberty India (supra) has clearly held that the special deduction under Chapter VIA has to be computed on the gross total income determined after deducting all deductions allowable under sections 30 to 43D of the Act and any device adopted to reduce or inflate the profits of eligible business has got to be rejected.	None
+Thirdly, this Court in the case of Albright Morarji and Pandit Ltd. (supra), Grasim Industries Ltd. (supra) and Asian Cable Corporation Ltd. (supra) has only followed the decisions of the Apex Court in the case of Distributors Baroda (supra).	None
+Thus, on analysis of all the decisions referred hereinabove, it is seen that the quantum of deduction allowable under section 80IA of the Act has to be determined by computing the gross total income from business, after taking into consideration all the deductions allowable under sections 30 to 43D of the Act.	None
+Therefore, whether the assessee has claimed the deductions allowable under sections 30 to 43D of the Act or not, the quantum of deduction under section 80IA has to be determined on the total income computed after deducting all deductions allowable under sections 30 to 43D of the Act.	None
+As is clear from the arguments advanced by Mr. Pardiwala, main thrust of his argument was predicated on the judgment of this Court in Mahendra Mills, which according to us, cannot be applied while interpreting Section 80IA of the Act.	None
+It may be stated at the cost of the repetition that judgment in Mahendra Mills was rendered while construing the provisions of Section 32 of the Act, as it existed at the relevant time, whereas we are concerned with the provisions of Chapter VIA of the Act.	Reasoning
+Marked distinction between the two Chapters, as already held by this Court in the judgments noted above, is that not only Section 80IA is a code by itself, it contains the provision for special deduction which is linked to profits.	Reasoning
+In contrast, Chapter IV of the Act, which allows depreciation under Section 32 of the Act is linked to investment.	Reasoning
+This Court has also made it clear that Section 80IA of the Act not only contains substantive but procedural provisions for computation of special deduction.	Reasoning
+Thus, any device adopted to reduce or inflate the profits of eligible business has to be rejected.	Reasoning
+The assessees appellants want 100 deduction, without taking into consideration depreciation which they want to utilise in the subsequent years.	Reasoning
+This would be anathema to the scheme under Section 80IA of the Act which is linked to profits and if the contention of the assessees is accepted, it would allow them to inflate the profits linked incentives provided under Section 80IA of the Act which cannot be permitted.19.	Reasoning
+Having interpreted the provisions of Section 80IA in the aforesaid manner, it is not necessary to go into the other question, viz., whether Explanation 5 to Section 32 of the Act is declaratory in nature or it is to be applied prospectively.	Reasoning
+Judgments cited by both the sides on this aspect, therefore, need not be dealt with.	Reasoning
+Result of the aforesaid discourse would be to hold that there is no merit in any of the appeals filed by the assessees which are accordingly dismissed.	Decision

@@ -1,0 +1,146 @@
+PARIPOORNAN, J. The appellant, a private limited company, is an assessee to income tax.	Facts
+It derives income from investment, agriculture and brick kiln business.	Facts
+It is an investor in shares.	Facts
+In the assessment years 196768 and 196869, the relevant previous years ending on 3061966 and 3061967, the assessee sold shares of Escorts Limited and declared the capital gains that accrued therefrom.	Facts
+The Income Tax Officer did not accept the cost of acquisition of the shares, as returned by the assessee and worked out the capital gains in a different manner.	Facts
+The computation made by the Income Tax Officer regarding the original shares was confirmed by the Appellate Assistant Commissioner and the Appellate Tribunal.	Facts
+In so doing, the Appellate Tribunal relied upon the decision of this Court in CIT v. Dalmia Investment Co. Ltd. .	Facts
+At the instance of the appellantassessee, the Income Tax Appellate Tribunal referred the following two questions of law for both the assessment years under Section 256(1) of the Income Tax Act for the decision of the High Court of Delhi.	None
+Whether on the facts and in the circumstances of the case the Tribunal was justified in determining the cost of acquisition of the original shares, by spreading the original cost over the original and the bonus shares and then averaging the same and on that basis working out the capital gain at Rs. 32, 100 and Rs. 12, 450 for the Assessment Years 196768 and 196869 respectively ?	Issue
+2.	Issue
+If the answer to Question No. 1 is in the negative, whether the assessee was justified in taking the value of the shares at their original cost under Section 45 of the Income Tax Act, 1961 ?	Facts
+The question that arose for decision was, how the cost of the acquisition of the original shares should be determined for the purposes of capital gains tax.	Facts
+After referring to the relevant decisions, the High Court held that the valuation made by the Revenue regarding the cost of the original shares is proper and valid in the facts and circumstances of the case.	Facts
+Question No. 1 was answered in the affirmative and in favour of the Revenue.	Facts
+The High Court declined to answer Question No. 2.	Facts
+It is the aforesaid decision of the High Court dated 2341982, which the assessee has assailed in these appeals.	Facts
+The decision of the High Court is reported in Escorts Farms (Ramgarh) Ltd. v. CIT DEL 62 (Del).	Facts
+We heard counsel.	None
+At our request, Dr. Gauri Shankar, Senior Advocate also addressed us and brought to our notice certain decisions and passages from various textbooks.	None
+The short question that arises for consideration is, how the cost of acquisition of the original shares is to be determined when bonus shares are issued subsequently ?	None
+It is common ground that the appellant admittedly purchased the original shares after 1954.	None
+Such shares were sold subsequently.	None
+Since the acquisition was after 1954, the option of taking the fair market value as on 111954 does not arise.	None
+According to the appellant, for determining the capital gains that accrued when the original shares were sold, the cost of acquisition should be taken at actual cost.	None
+The subsequent issue of bonus shares is of no consequence and will not have the effect of altering the original cost of acquisition of the shares.	None
+The High Court declined to accept this plea.	None
+It was held that once the bonus shares are issued, it has its impact on the original shares it has the effect of altering the cost of original shares.	None
+It was so held by placing reliance on the decisions of this Court reported in CIT v. Dalmia Investment Co. Ltd. , CIT v. Gold Mohore Investment Co. Ltd., CIT v. Gold Co. Ltd. and distinguishing the cases of this Court reported in Emerald Co. Ltd. v. CIT and Shekhawati General Traders Ltd. v. ITO.	None
+Before us, the counsel for the appellantassessee, vehemently argued that the High Court was in error in holding that the subsequent issue of bonus shares has the effect of altering the cost of acquisition of the original shares.	Arguments of Petitioner
+Stress was laid on the fact that in the instant case, the shares sold were original shares and by an investor, whereas in the decisions of this Court dealt with by the High Court, the shares sold were bonus shares, and the assessees in those cases were dealers in shares.	Arguments of Petitioner
+It was further argued that the question in those cases is not the computation of capital gains as a result of the sale of the shares (whether original or bonus shares) but the computation of the profits and gains in the business.	Arguments of Petitioner
+The said vital difference was omitted to be noticed by the High Court.	None
+On the other hand, the counsel for the Revenue submitted that the High Court was justified in its reasoning and conclusion in holding that the subsequent issue of bonus shares has the effect of altering the original cost of acquisition of the shares, irrespective of the fact whether the assessee is an investor or dealer in shares and shares sold are original shares or bonus shares.	Arguments of Respondent
+In order to resolve the controversy in this case, it will be useful to bear in mind the relevant statutory provisions, as they stood at the relevant time Section 2(14) of the Income Tax Act.	None
+2. (14) capital asset means property of any kind held by an assessee, whether or not connected with his business or profession, but does not include (i) any stockintrade, consumable stores or raw materials held for the purposes of his business or profession Section 45(1) of the Income Tax Act Capital gains.  	None
+(1) Any profits or gains arising from the transfer of a capital asset effected in the previous year shall, save as otherwise provided in Sections 53 and 54, be chargeable to income tax under the head Capital gains, and shall be deemed to be the income of the previous year in which the transfer took place.	None
+In this case, Sections 45(2) to 45(4) added by Section 12 of the Finance Act, 1964 and omitted by Finance Act, 1966 are not relevant Section 48 of the Income Tax Act Mode of computation and deductions.  	None
+The income chargeable under the head Capital gains shall be computed by deducting from the full value of the consideration received or accruing as a result of the transfer of the capital asset the following amounts, namely(i) expenditure incurred wholly and exclusively in connection with such transfer(ii) the cost of acquisition of the capital asset and the cost of any improvement thereto.	None
+Section 55(2) Meaning of adjusted, cost of improvement and cost of acquisition.  	None
+(1) (2) For the purposes of Sections 48 and 49, cost of acquisition, in relation to a capital asset, (i) where the capital asset became the property of the assessee before the 1st day of January, 1964, means the cost of acquisition of the asset to the assessee or the fair market value of the asset on the 1st day of January, 1964, at the option of the assessee It will also be useful to note what is meant by bonus shares, the circumstances under which they are issued and its impact on the original shares.	None
+Robert R. Pennington in his book Company Law, 5th Edn.	None
+(1985) at pp.	None
+467, 468 and 469 deals with the matter thus.	None
+It is common, however, for articles to contain a power for the company by ordinary resolution in general meeting on the recommendation of its directors (a) to set free for distribution any part of its distributable profits or reserves and to apply them in paying up in whole or part the issue price of partly paid shares held by members, or in paying in full the nominal value of new shares or debentures to be issued to members in the same manner and proportions as a cash dividend of the same amount would have been distributed and (b) to capitalise any part of the amounts standing to the credit of the companys profit and loss accounts or to reserve accounts which are not available for distribution (i.e. capital reserves and unrealised profits) and to apply the amount so capitalised in paying in full the nominal value of new shares to be issued to members in the same manner and proportions as a cash dividend of the same amount would have been distributed.	None
+Under such provisions in the articles it is possible for a company to capitalise the net amount of its realised and unrealised profits or the amount of reserves representing them in order to issue bonus shares, but only the companys accumulated balance of realised profits may be used to issue bonus debentures or to pay up any unpaid part of the issue price of shares which have already been issued.	None
+New shares or debentures issued in this way on a capitalisation of profits or reserves are known as bonus shares or debentures, but the name is misleading in that it implies that they are a gift from the company.	None
+If they were a gift, they would not be paid up at all, and in the case of bonus shares, the company could call on their holders to pay for them in cash.	None
+In fact they are not a gift, for their nominal value is paid in full or in part by the capitalised profits or reserves which could otherwise have been distributed to the shareholders as a cash dividend, or in the case of unrealised profits, retained as a reserve.	None
+On the other hand, since no cash dividend is declared, bonus shares are not paid for in cash by the shareholder himself, because there is at no point of time any debt owing to him by the company which he can set off against his liability to pay for the shares.	None
+Consequently, an issue of bonus shares must be treated as an issue for a consideration other than cash, and an appropriate return and written contract for the allotment must be delivered to the Registrar of Companies(a)	None
+They enable the company to retain money required for its business which it would otherwise have to raise by issuing new shares or debentures on the market or by borrowing(b)	None
+The market value of the companys shares is reduced to a figure nearer their nominal value, and this makes them more saleable.	None
+But a bonus issue increases the total market value of a shareholders holding only marginally he merely has more shares of a correspondingly lower value each.	None
+Dr. A. N. Agarwala in his book The Higher Science of Accountancy (1972 Edn.)	None
+at p. 632 deals with bonus shares thus BONUS SHARESBonus Shares out of Profits Capitalisation of ProfitsBonus shares are shares issued to existing shareholders out of profits.	None
+This is a case of capitalisation of profit, that is to say, instead of being distributed as dividends, profits are turned into shares.	None
+Bonus shares are distributed among shareholders in proportion to their shareholdings.	None
+What the company, in effect, does in such a case is that it(i) Declares a bonus (extra dividend) out of undistributed profits(ii) Issues a corresponding number of new (bonus) shares(iii) Applies the bonus in payment of the amount due on these shares and(iv)	None
+Distributes bonus shares among existing shareholdersShareholders, in other words, get their dividends in the shape of shares.	None
+The advantage of this procedure is that shareholders get back undistributed profits which was hitherto withheld from them.	None
+So far as the company is concerned, it pays the shareholders not in cash but in the form of bonus shares to that its financial position is in no way impaired.	None
+It will mean that the future rate of dividend will come down since the same amount of profit will now have to be distributed over a larger number of shares.	None
+In the book British Master Tax Guide (198889) under the head Bonus and rights issues at p. 598, bonus issues are dealt with as hereunder Bonus issuesBonus issues are free distributions of shares (e.g. two new shares for each share already held)Example.  	None
+In 1970, A purchased 300 ordinary shares in S Ltd. at pound 3 per share, total cost pound 900 (ignoring expenses for the purposes of the example)In 1980, A received a bonus issue of 300 sharesHe then held 600 shares at pounds 1.50 per shareThey are all as purchased in 1970.	None
+William Pickles in his book Accountancy dealing with bonus shares at p. 2324523246, states thus.	None
+Advantages and Disadvantages.  	None
+The advantages and disadvantages of an issue of bonus shares are briefly summarized (a) as regards the company, and (b) as regards the shareholders(b) The shareholders viewpoint.  	None
+(i) Surtax and capital gains tax may be payable on a bonus share distribution(ii) Unless the company makes increased profits, the fall in rate of dividend or depletion of reserves will cause the market price per share to fall  though the total value of the large holding may be greater(iii) Speculative dealings in the shares may be caused4.	None
+A bonus issue of debentures or redeemable preference shares ranks as a distribution, and so also will payments of interest or dividends.	None
+An issue of irredeemable bonus shares, however, unless related to a previous repayment, does not rank as a distribution.	None
+It should be appreciated that distributions are chargeable to Income Tax Schedule F, and in the hands of the recipients (the shareholders), distributions are liable to surtax.	None
+This includes capital dividends5.	None
+If the bonus is applied in reducing or extinguishing the uncalled capital (e.g. marking shares of pound 1 each, pound 0.75 paid into fullypaid pound 1 shares) there is a distinct tangible benefit to the shareholder and therefore the amount is taxableA bonus share dividend is merely a book entry effected by a transfer from general reserve or profit and loss appropriation account to share capital  each shareholder receiving a share certificate proportionate to his holding  instead of cash.	None
+Thus, if the share capital is pounds 8000 in fullypaid ordinary shares of pound 1 each and pounds 3000 is transferred thereto, each shareholder will have the right to an allotment of three new shares for every eight old shares that he holds.	None
+He is usually given the option of taking up the shares or selling his right of allotment to another person, that is, renouncingAs shareholders are entitled to cash dividends, the sanction of the Articles or special resolution is required for any dividend otherwise than in cash, whether it is (a) an actual distribution of other assets or (b) a notional distribution by way of a bonus share dividend.	None
+Income tax is normally charged on a bonus share dividendAlthough the issue of bonus shares to ordinary shareholders is generally regarded as a book entry, it may confer a substantial advantage to such holders where there are preference shares which carry a right in a windingup to share pari passu in a surplus, as the bonus issue, by absorbing such part of the reserves of the company as is necessary for such purpose, diminishes the surplus.	None
+In other words, such surplus has been utilized solely to increase the claims of the ordinary shareholders by the additions of the relevant amount of reserves.	None
+C. Shukla and T. S. Grewal in their book Advanced Accounts (1989) at p. 823, have dealt with the impact of the bonus shares on the original shares, thus.	None
+It should be remembered that when bonus shares are distributed, the shareholders may not gain at all.	None
+This is because of the fact that the market value of the shares depends upon the dividend received.	None
+If the company issues bonus shares, the profits (which do not increase) will have to be distributed over a larger number of shares, thus reducing the dividend per share.	None
+This will result in a fall in the value of the shares in the market.	None
+Thus the shareholder will have a larger number of shares but the total value of his holding will not increase because each share now is of a smaller value.	None
+Hence the shareholder makes no entry in his books on receipt of bonus shares.	None
+However, the shareholder will benefit in the form of capital appreciation if there is a net increase in the amount of dividend received by him.	None
+On a reference to the above standard textbooks, it is evident that when bonus shares are issued by a company, it has its impact on the original shares.	None
+The market value of the companys shares may get reduced to a figure nearer their nominal value.	None
+The value of the original shares acquired get automatically reduced, notwithstanding the fact that the total holding of the shareholder may be larger.	None
+In this context, it will be useful to refer to the law laid down by this Court in CIT v. Dalmia Investment Co. Ltd.	None
+The headnote as extracted hereinbelow, accurately states the law laid down in the said decision.	None
+Where bonus shares are issued in respect of ordinary shares held in a company by an assessee who is a dealer in shares, their real cost to the assessee cannot be taken to be nil or their face value.	None
+They have to be valued by spreading the cost of the old shares over the old shares and the new issue (viz., the bonus shares) taken together if they rank pari passu, and if they do not, the price may have to be adjusted either in proportion of the face value they bear (if there is no other circumstance to differentiate them) or on equitable considerations based on the market price before and after issue.	None
+The above principle was affirmed by the Constitution Bench of this Court in CIT v. Gold Co. Ltd.	None
+wherein it was held thus.	None
+Where bonus shares are issued in respect of ordinary shares held by a dealer in shares who values his stock at cost, and the bonus shares rank pari passu with the ordinary shares, the correct method of valuing the shares is to spread the cost of the original shares over the original shares and the bonus shares collectively and ascertain the average price of all the shares.	None
+The sheetanchor of the appellants case before the High Court and still before us was, that the cost of acquisition of the original share, is its actual cost.	Reasoning
+The fact that the bonus shares were issued subsequently cannot be taken into account and it is not open to the Revenue to alter the cost of acquisition of the original shares.	Reasoning
+It was further contended that the assessee is only an investor and in such a case what is to be determined is the capital gains and not the computation of business income, as in the case of a dealer in shares.	None
+Much stress was laid on the decision of this Court in Shekhawati General Traders Ltd. v. ITO The counsel for the appellants argued that the facts of the instant case are identical to the facts in the aforesaid decision of the Supreme Court, where the original shares were sold by an investor, in a case where bonus shares were issued subsequently and the matter came up for consideration.	Arguments of Petitioner
+The Court held that the capital gains or loss should be calculated in accordance with the statutory provisions of Sections 48 and 55(2) of the Income Tax Act and the subsequent issue of bonus shares was completely irrelevant and extraneous which should not be taken into consideration.	None
+It is necessary to understand the scope and impact of the decision in Shekhawati General Traders Ltd. v. ITO.	None
+In the said case, the main issue posed was with regard to the validity of the proceedings initiated under Section 147 of the Income Tax Act.	None
+The assessee therein acquired 12, 000 ordinary shares of Orient Paper Mills on 2931949.	None
+It received 12, 000 bonus shares on 2841951.	None
+Subsequently, on 461954 and 2661961 it received bonus shares.	None
+The assessee sold 22, 000 shares, which were out of the 24, 000 shares which it acquired prior to 111954.	None
+It calculated the cost price of 22, 000 shares sold by it (out of 24, 000 shares aforesaid) at the market value prevailing on 111954.	None
+Similarly, the assessee acquired shares in Birla Jute Manufacturing Company before 111954 and also got bonus shares therein after 111954.	None
+In other words, the original cost of the acquisition of the said shares were taken into account for the purpose of computing the capital gains or loss.	None
+It was common ground that the shares which were sold were acquired or received by the assessee prior to 111954.	None
+It is also common ground that the assessee calculated the cost price of the shares sold at the market value prevalent on 111954 in accordance with the then relevant statutory provisions.	None
+The Income Tax Officer by order dated 2071964 accepted the statement made by the assessee and held that the assessee had suffered a capital loss.	None
+Subsequently by notice dated 411967, the Income Tax Officer informed the assessee that he had reasons to believe that income chargeable to tax for the Assessment Year 196263 had escaped assessment within the meaning of Section 147 of the Income Tax Act, and initiated proceedings thereunder.	None
+The Income Tax Officer stated that while working out the cost of the shares, the assessee had claimed the prevalent market price as on 111954 disregarding the fact that the assessee had been given bonus shares in the subsequent years after 111954.	None
+The assessee objected to the above proceedings and contended that it has exercised the option under Section 55(2) of the Act, and the cost of acquisition was taken at the fair market value as on the relevant date and the capital loss was computed accordingly, and there is no error in the matter.	None
+Subsequently, the assessee moved the High Court under Article 226 of the Constitution of India challenging the validity and legality of the notice issued under Section 147 of the Act.	None
+The High Court dismissed the writ petition.	None
+When the matter came up before this Court, it adverted to Sections 45, 48, 53, 54 and 55(2) of the Income Tax Act, and distinguishing the earlier Constitution Bench decision of this Court in CIT v. Dalmia Investment Co. Ltd., held thus (SCC p. 758, para 6).	None
+that decision was not at all apposite for the purpose of deciding the point which has arisen in the present case.	None
+No question arose there of the calculation of the capital gain or loss in accordance with the statutory provisions in pari materia with Sections 48 and 55(2) of the Act.	None
+In the present case we are confined to the express provisions of Section 55(2) relating to the manner in which the cost of acquisition of a capital asset has to be determined for the purpose of Section 48.	None
+Where the capital asset became the property of the assessee before the first day of January, 1954, the assessee has two options.	None
+It can decide whether it wishes to take the cost of the acquisition of the asset to it as the cost of acquisition for the purpose of Section 48 or the fair market value of the asset on the first day of January 1954.	None
+The word fair appears to have been used to indicate that any artificially inflated value is not to be taken into account.	None
+In the present case it is common ground that when the original assessment order was made the fair market value of the shares in question had been duly determined and accepted as correct by the Income Tax Officer.	None
+Under no principle or authority can anything more be read into the provisions of Section 55(2)(i) in the manner suggested by the Revenue based on the view expressed in the Dalmia Investment Co. case.	None
+The High Court completely overlooked the fact that for the ascertainment of the fair market value of the shares in question on 111954, any event prior or subsequent to the said date was wholly extraneous and irrelevant and could not be taken into consideration.	None
+If the contention of the Revenue were to be accepted the acquisition of bonus shares subsequent to 111954, will have to be taken into account which on the language of the statute it is not possible to do.	None
+A close analysis of the facts of the above case, and the ultimate conclusion reached by this Court, will go to show that the learned Judges laid stress on the fact that the assessee had opted to take the cost of acquisition as provided by the relevant statute, i.e., statutory cost of acquisition and thus substituting the market value as on 111954 in the place of actual cost of acquisition, and only in such a case, the subsequent issue of bonus shares cannot affect the issue.	Reasoning
+It is implicit from the above decision that the principle of averaging by spreading the cost over the old shares and the new bonus shares as enunciated by this Court in Dalmia Investment Co. case and other cases, will apply as a general rule in cases where the assessee claims to deduct the actual cost of acquisition, instead of the statutory cost of acquisition.	Reasoning
+It also stands to reason since the fair market value as per the statutory cost of acquisition will be a notional or fictional figure  mostly inflated  having no connection with the original or actual cost.	Reasoning
+We should bear in mind that it is after discussing the effect or impact of the issue of the bonus shares, on the value of the original shares generally and also the various possible methods for determining the cost of the bonus shares, this Court in Dalmia Investment Co. case stated that the real cost to the assessee of the bonus shares cannot be taken to be nil or at their face value and they have to be valued by spreading the cost of the old shares over the old shares and the new issue (bonus shares), taken together etc.	Reasoning
+The principle so laid down is one of the general application.	Reasoning
+We should also state that the character of the owner of the shares as an investor or as a dealer is of no consequence.	Reasoning
+There is no dichotomy as to whether the shares are held by an investor or dealer in shares.	None
+In both the cases, it is surplus receipt that is brought to tax, either as capital gains or profit or loss, as the case may be, and in accordance with relevant statutory provisions.	None
+The decisions reported in Madura Mills Co. Ltd. v. CIT (Mad), D. M. Dahanukar v. CIT (Bom), W. H. Brady Co. Ltd. v. CIT Bom), Alembic Chemical Works Ltd. (No. 1) v. CIT (Guj) are in accord with the above view and they represent the correct law.	None
+The decisions (in Sutlej Cotton Mills Ltd. v. CIT (Cal), CIT v. Steel Group Ltd. (Cal), Protima Roy v. CIT (Cal)) cited before us, misapplied the rule enunciated in Shekhawati General Traders Ltd. v. ITO and failed to bear in mind the proper principles to be applied in the matter and do not lay down the correct law.	None
+In this case, the High Court has found that the original shares sold were admittedly purchased after 1954 and, therefore, the option of taking the fair market value as on 111954 (the statutory cost) was not available to the assessee.	None
+It appears to us that the principles laid down in Shekhawati General Traders Ltd. v. ITO, cannot be applied to a case where the assessee did not and could not exercise the option of the statutory cost of acquisition in the place of the actual cost of acquisition.	Reasoning
+The said decision is distinguishable.	Reasoning
+In view of the larger Bench decisions of this Court, it is fairly clear that where bonus shares are issued and some of the original shares are sold subsequently, their actual cost has to be reckoned only on the basis of average value (as held in Dalmia Investment and other cases) except in rare cases, where actual cost is notionally adopted or determined as it existed on the relevant statutory date, (Shekhawati General Traders Ltd. v. ITO.	Reasoning
+In the instant case, the High Court was justified in law in holding so and in further holding that the subsequent issue of the bonus shares has the effect of altering the original cost of acquisition of the shares as held by this Court in CIT v. Dalmia Investment Co. Ltd. and other cases.	Reasoning
+We hold that the judgment of the High Court answering Question No. 1 referred to it in favour of the Revenue and against the assessee does not merit interference and these appeals should be dismissed.	Decision
+We do so 14	None
+However, there shall be no order as to costs.	None

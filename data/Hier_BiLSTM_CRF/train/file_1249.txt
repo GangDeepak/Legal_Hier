@@ -1,0 +1,171 @@
+ L. Gokhale J. Leave granted.	None
+This appeal is directed against the judgment and order dated 25.2.2008 rendered by a Division Bench of the Bombay High Court in Appeal No.188/2006 confirming the decision of a single Judge of that court dated 4.7.2005 in Arbitration Petition No.364/2004, whereby the High Court has set aside the award dated 25.5.2004 passed by a sole arbitrator which award had dismissed the Claim Petition of the respondent against the appellant herein.	None
+The questions involved in this appeal are twofold, (i) firstly, whether under the relevant clause 9.3 of the terms and conditions of the contract between the parties, the appellant was right in deducting the service tax from the bills of the respondent and, (ii) secondly, whether the interpretation of this clause and the consequent award rendered by the arbitrator was against the terms of the contract and therefore illegal as held by the High Court, or whether the view taken by the arbitrator was a possible, if not a plausible view.	Issue
+The contract and the relevant clause The appellant a Govt. of India undertaking is engaged in the manufacture of steel products and pigiron for sale in the domestic and export markets.	Facts
+The respondent is a partnership firm carrying on the business of transportation of goods.	Facts
+In the year 1997, the appellant appointed the respondent as the handling contractor in respect of appellants iron and steel materials from their stockyard at Kalamboli, Navi Mumbai.	Facts
+A formal contract was entered into between the two of them on 17.6.1998.	Facts
+Terms and conditions for handling of iron and steel materials though recorded in a separate document, formed a part of this contract.	None
+Clause 9.0 of these terms and conditions was concerning the payment of bills.	None
+Clause 9.3 thereof read as follows 9.3.	None
+The Contractor shall bear and pay all taxes, duties and other liabilities in connection with discharge of his obligations under this order.	None
+Any income tax or any other taxes or duties which the company may be required by law to deduct shall be deducted at source and the same shall be paid to the Tax Authorities for the account of the Contractor and the Company shall provide the Contractor with required Tax Deduction Certificate.	Facts
+Evolution of service tax5.	None
+Service Tax was introduced for the first time under Chapter V of the Finance Act, 1994.	Facts
+Section 66 of the Act was the charging section and it provided for the levy of service tax at the rate of five per cent of the value of the taxable services.	Facts
+Taxable service was defined in Section 65 to include only three services namely any service provided to an investor by a stockbroker, to a subscriber by the telegraph authority, and to a policyholder by an insurer carrying on general insurance business.	None
+Section 68 required every person providing taxable service to collect the service tax at specified rates.	Facts
+Section 69 of the Finance Act, 1994 provided for registration of the persons responsible for collecting service tax.	Facts
+Subsections (2) and (5) indicated that it was the provider of the service who was responsible for collecting the tax and obliged to get registered.6.	Facts
+By the Finance Act, 1997 the first amendment to Section 65 of the Finance Act, 1994 was made, inter alia, by extending the meaning of taxable service from three services to 18 different services categorized in Section 65(41), subclauses (a) to (r).	Facts
+Subclause (j) made service to a client by clearing and forwarding agents in relation to clearing and forwarding operations, a taxable service.	Facts
+Similarly, service to a customer of a goods transport operator in relation to carriage of goods by road in a goods carriage was, by subclause (m), also included within the umbrella of taxable service.	Facts
+The phrases clearing and forwarding agent and goods transport operator were defined as follows 65.	None
+(10) clearing and forwarding agent means any person who is engaged in providing any service, either directly or indirectly, connected with clearing and forwarding operations in any manner to any other person and includes a consignment agent(17) goods transport operator means any commercial concern engaged in the transportation of goods but does not include a courier agency The service tax was brought into force on 5.11.1997 vide Notification No.44/77 with effect from 16.11.1997.	Facts
+Consequent thereupon, the appellant deducted 5 tax on the bills of the respondent for the period 30.11.1997 to 6.8.1999.	Facts
+The respondent, however, refused to accept the deductions, and raised a dispute for arbitration under clause 15 of the terms and conditions mentioned above.	Facts
+This dispute was referred for the arbitration of a sole arbitrator, a retired Judge of the Delhi High Court.8.	Facts
+Rules 2 (xii) and 2 (xvii) of the Service Tax Rules, 1994 as amended in 1997 made the customers or clients of clearing and forwarding agents and of goods transport operators as assesses.	Facts
+These amended rules were challenged and were held ultra vires the Act by this Court in Laghu Udyog Bharati vs. Union of India reported in 1999 (6) SCC 418.	Facts
+The Court examined the provisions of the Act and particularly Section 68 and the definition of person responsible for collecting the service tax in Section 65(28) and in terms held in paragraph 9 that the service tax is levied by reason of the services which are offered.	Facts
+The imposition is on the person rendering service.	Facts
+To overcome the law laid down in Laghu Udyog Bharati (supra), the Finance Act 2000 brought in an amendment on 12.5.2000 (effective from 16.7.1997) in the manner indicated in Section 116 which reads as follows Amendment of Act 32 of 1994.	Facts
+During the period commencing on and from the 16th day of July, 1997 and ending with the 16th day of October, 1998, the provisions of Chapter V of the Finance Act, 1994 shall be deemed to have had effect subject to the following modifications, namely(a) in Section 65,(i) for clause (6), the following clause had been substituted, namely(6) assessee means a person liable for collecting the service tax and includes(i) his agent or(ii) in relation to services provided by a clearing and forwarding agent, every person who engages a clearing and forwarding agent and by whom remuneration or commission (by whatever name called) is paid for such services to the said agent or(iii) in relation to services provided by a goods transport operator, every person who pays or is liable to pay the freight either himself or through his agent for the transportation of goods by road in a goods carriage after clause (18), the following clauses had been substituted, namely(18A) goods carriage has the meaning assigned to it in clause (14) of Section 2 of the Motor Vehicles Act, 1988(18B) goods transport operator means any commercial concern engaged in the transportation of goods but does not include a courier agency in clause (48), after subclause (m), the following subclause had been inserted, namely(ma) to a customer, by a goods transport operator in relation to carriage of goods by road in a goods carriage (b) in Section 66, for subsection (3), the following subsection had been substituted, namely(3)	Facts
+On and from the 16th day of July, 1997, there shall be levied a tax at the rate of five per cent of the value of taxable services referred to in subclauses (g), (h), (i), (j), (k), (l), (m), (ma), (n) and (o) of clause (48) of Section 65 and collected in such manner as may be prescribed.	None
+(c) in Section 67, after clause (k), the following clause had been inserted, namely(ka) in relation to service provided by goods transport operator to a customer, shall be the gross amount charged by such operator for services in relation to carrying goods by road in a goods carriage and includes the freight charges but does not include any insurance charges.	None
+Proceedings prior to this appeal10.	None
+The respondent contended before the learned arbitrator that its dominant work was of transporting and forwarding of goods by road, and not of a handling contractor, and that the mere fact that it may be required to handle the goods in a manner and to the extent provided in the contract between the parties, was merely incidental.	Facts
+The learned arbitrator, however, noted that the contract between the parties dated 17.6.1998 referred the respondent as the handling contractor, who shall undertake the job of handling iron and steel materials at the yard of the company on the terms and conditions stipulated therein as also in the manner and in all respects as mentioned in the contract.	Facts
+He referred to the notice inviting tender, the declaration of particulars relating to the tender, the schedule of rates, the provision relating to scope of work and the obligations of the contractor detailed in clause 6.	Facts
+In that connection, he referred to the letter dated 27.11.1997 received from the office of Commissioner of Central Excise, Chennai wherein he had also held the work of the handling contractor as that of the clearing and forwarding agent liable to pay service tax.	Facts
+The arbitrator therefore held that the respondent was forwarding and clearing contractor.11.	Facts
+Thereafter, he dealt with the question of liability to pay the service tax, and by a detailed award dated 25.5.2004 rejected the contentions of the respondent and dismissed the Claim Petition.	Facts
+In the penultimate paragraph, the learned arbitrator held as follows Clause 9.3 of the Tender Terms and Conditions of the Contract, to my mind is clear unambiguous.	Facts
+Thus it is the Respondent who is the assessee.	Facts
+It is also true that liability is of the Respondent to pay the tax.	Facts
+But then, under the contract, under clause 9.3 to be more precise, it was agreed that it would be the claimant who shall bear all taxes, duties and other liabilities which accrue or become payable In connection with the discharge of his obligation.	None
+Service tax was one such tax duty or a liability which was directly connected with the discharge of his obligation as the clearing forwarding agent.	None
+It is this contractual obligation which binds the claimant and though under the law it is the respondent who is the assessee, it can rightly did deduct the service tax from the bills of the claimant in terms of the said contractual obligation, the validity and legality of which has not been challenged before me.	Facts
+This award led the respondent to file a petition under Section 34 of the Arbitration and Conciliation Act, 1996 being Arbitration Petition No.364/2004 before the High Court of Judicature at Bombay.	Facts
+A Learned Single Judge of the High Court allowed that petition, and set aside the award with costs by judgment and order dated 4.7.2005.	Facts
+The learned Judge while arriving at that conclusion referred to the definition of the term assessee and held that insofar as service tax under the Finance Act, 1994 is concerned, the appellant as the assessee was liable to pay the tax.	Facts
+The learned Judge observed as follows The purpose of clause 9.3 is not to shift the burden of taxes from the assessee who is liable under the law to pay the taxes to a person who is not liable to pay the taxes under the law.	Facts
+In my opinion, the award therefore suffers from total nonapplication of mind and therefore, it is required to be set aside.	Facts
+The appellant preferred an appeal to a Division Bench of Bombay High Court against the said judgment and order.	Facts
+The appeal was numbered as Appeal No. 188/2006.	Facts
+The Division Bench dismissed the appeal by holding as follows As noted, the Respondents are not Assessee under the Service Tax Act.	Facts
+The Appellants are, being recipients, resisted and have filed the return.	Facts
+It is, therefore, the appellants obligation to pay the Service Tax and not that of the Respondents, there is no specific clause that such service tax, liability would be deductible from the amount payable by the Appellants to the Respondent pursuant to the contract in question.	Facts
+The deduction as claimed and as directed by the award in absence of any agreement or clause, therefore, is not correct.	Facts
+Being aggrieved by the said judgment and order, the present appeal has been filed.	Facts
+Mr. S. Ganesh, learned Senior Counsel has appeared for the appellant, and Mr. K.K. Rai, learned Senior Counsel has appeared for the respondent.	Facts
+Submissions on behalf of the appellant As stated at the outset, the question involved before the arbitrator and in the offshoots therefrom, is with respect to interpretation of the above referred clause No.9.3.	None
+Mr. Ganesh, learned counsel for the appellant submitted that the entire purpose in providing this clause was to provide that the contractor will be responsible for the taxes, duties and the liabilities which would arise in connection with discharge of the obligations of the contractor.	Arguments of Petitioner
+The obligations of the contractor were laid down in clause 6.0 of the terms and conditions, referred to above.	Arguments of Petitioner
+This clause provides the details of contractors responsibility for clearance of the consignments of the appellant.	Arguments of Petitioner
+The liability to pay the service tax arises out of the service provided by the respondent.	Arguments of Petitioner
+There is no dispute that in view of the above referred amendment of 2000, the appellant as the recipient of the service is the assessee under the service tax law.	Arguments of Petitioner
+However, there is no prohibition in the law against shifting the burden of the tax liability.	Arguments of Petitioner
+In the instant case, the tax liability will depend upon the value of the taxable service provided by the respondent, and therefore clause 9.3 required the respondent to take the burden.	Arguments of Petitioner
+Mr. Ganesh cited the example of sales tax which the assessee can shift to the customer.	Arguments of Petitioner
+In his submission, the phrase, liabilities in connection with the discharge of his obligations under this clause will have to be construed in that context.16.	None
+The learned counsel submitted that interpretation of clause 9.3 by the arbitrator was the correct one, and in any case, was a possible if not a plausible one.	Arguments of Petitioner
+The Courts were, therefore, not expected to interfere therein.	Arguments of Petitioner
+He submitted that the dispute in the present case was concerning the interpretation of a term of the contract.	Arguments of Petitioner
+It has been laid down by this Court that in such situations, even if one is of the view that the interpretation rendered by the arbitrator is erroneous, one is not expected to interfere therein if two views were possible.	Arguments of Petitioner
+Mr. Ganesh referred to the following observations of this Court in H.P. State Electricity Board vs. R.J. Shah reported in 1999 (4) SCC 214 at the end of paragraph 27, which are to the following effect The dispute before the arbitrators, therefore, clearly related to the interpretation of the terms of the contract.	Arguments of Petitioner
+The said contract was being read by the parties differently.	Arguments of Petitioner
+The arbitrators were, therefore, clearly called upon to construe or interpret the terms of the contract.	Arguments of Petitioner
+The decision thereon, even if it be erroneous, cannot be said to be without jurisdiction.	Arguments of Petitioner
+It cannot be said that the award showed that there was an error of jurisdiction even though there may have been an error in the exercise of jurisdiction by the arbitrators.	Arguments of Petitioner
+It was also submitted by the learned counsel that the court is not expected to substitute its evaluation of the conclusion of law or fact arrived at by the arbitrator and referred to the following observation in paragraph 31 in M s Sudarsan Trading Co. vs. Govt.	Arguments of Petitioner
+of Kerala reported in 1989 (2) SCC 38.	None
+in the instant case the court had examined the different claims not to find out whether these claims were within the disputes referable to the arbitrator, but to find out whether in arriving at the decision, the arbitrator had acted correctly or incorrectly.	None
+This, in our opinion, the court had no jurisdiction to do, namely, substitution of its own evaluation of the conclusion of law or fact to come to the conclusion that the arbitrator had acted contrary to the bargain between the parties Submissions on behalf of the respondent Learned senior counsel for the respondent Mr. Rai, on the other hand, submitted that the concerned clause cannot be read to imply a right to shift the tax liability.	None
+He submitted that the appellant was the assessee for the payment of service tax, and the concerned clause merely laid down that the contractor will have to pay all taxes, duties and other liabilities which he was otherwise required to pay if they arise in connection with discharge of his obligations under the contract.	Arguments of Respondent
+The appellant was entitled to deduct only the income tax and other taxes or duties which it was so required by law to deduct.	Arguments of Respondent
+The disputed deductions would mean that the contractor had taken over the tax liability of the appellant as if the liability was on the contractor.	Arguments of Respondent
+He referred to the judgment of this Court in Gujarat Ambuja Cements Ltd. vs. Union of India reported in 2005 (4) SCC 214 .	Arguments of Respondent
+This judgment discusses the evolution of the service tax as to how service tax was introduced by the Finance Act, 1994, how the meaning of taxable service was extended in 1997, and how the definition of assessee subsequently included the person who engages a clearing and forwarding agent, or a goods transport operator.19.	Arguments of Respondent
+He drew our attention to paragraph 21 of Gujarat Ambuja Cement Ltd. (supra) wherein this Court observed as follows As is apparent from Section 116 of the Finance Act, 2000, all the material portions of the two sections which were found to be incompatible with the Service Tax Rules were themselves amended so that now in the body of the Act by virtue of the amendment to the word assessee in Section 65(5) and the amendment to Section 66(3), the liability to pay the tax is not on the person providing the taxable service but, as far as the services provided by clearing and forwarding agents and goods transport operators are concerned, on the person who pays for the services.	Arguments of Respondent
+As far as Section 68(1A) is concerned by virtue of the proviso added in 2003, the persons availing of the services of goods transport operators or clearing and forwarding agents have explicitly been made liable to pay the service tax.	Arguments of Respondent
+The respondent relied upon the judgment of this Court in Bank of India vs. K. Mohan Das reported in 2009 (5) SCC 313 by one of us (Lodha, J.).	None
+The issue in that matter was with respect to the interpretation of some of the provisions of the voluntary retirement scheme of 2000 of the appellant bank.	None
+In paragraph 32 thereof this Court has observed as follows .32.	None
+The fundamental position is that it is the banks who were responsible for formulation of the terms in the contractual Scheme that the optees of voluntary retirement under that Scheme will be eligible to pension under the Pension Regulation, 1995, and, therefore, they bear the risk of lack of clarity, if any.	Arguments of Respondent
+It is a wellknown principle of construction of a contract that if the terms applied by one party are unclear, an interpretation against that party is preferred (verba chartarum fortius accipiuntur contra proferentem).	None
+Based on this paragraph, it was submitted that the arbitrator was bound to follow the principle of contra proferentem in the present case.	Arguments of Respondent
+It was contended that since the propounder of the contract was the petitioner in case of vagueness, the rule of contra proferentem will have to be applied in interpreting the present contract.	Arguments of Respondent
+Therefore, the liability to pay service tax was on the appellant as the assessee, and it could not be contended that under Clause 9.3 that liability was accepted by the respondent.	Arguments of Respondent
+The judgment in Bank of India (supra) was also pressed into service to submit that clause 9.3 and the contract must be read as a whole, and an attempt should be made to harmonise the provisions.21.	Arguments of Respondent
+It was submitted by the respondent that this Honble Court very succinctly summarised the legal principles for setting aside an award in SAIL vs. Gupta Brother Steel Tubes Ltd. (by one of us Lodha J.) reported in 2009 (10) SCC 63 in paragraph 18 wherefrom principles (i) and (iv) would be attracted.	Arguments of Respondent
+As against that, the appellant stressed subparas (ii) (vi) of the same paragraph 18.	Arguments of Respondent
+We may therefore quote the entire paragraph which reads as follows .18.	None
+It is not necessary to multiply the references.	None
+Suffice it to say that the legal position that emerges from the decisions o	None
+this Court can be summarised thus In a case where an arbitrator travels beyond the contract, the award would be without jurisdiction and would amount to legal misconduct and because of which the award would become amenable for being set aside by a court.	None
+ii)	None
+An error relatable to interpretation of the contract by an arbitrator is an error within his jurisdiction and such error is not amenable to correction by courts as such error is not an error on the face of the award.	None
+iii)	None
+If a specific question of law is submitted to the arbitrator and he answers it, the fact that the answer involves an erroneous decision in point of law does not make the award bad on its face.	None
+iv) An award contrary to substantive provision of law or against the terms of contract would be patently illegal.	None
+Where the parties have deliberately specified the amount of compensation in express terms, the party who has suffered by such breach can only claim the sum specified in the contract and not in excess thereof.	None
+In other words, no award of compensation in case of breach of contract, if named or specified in the contract, could be awarded in excess thereof.	None
+vi)	None
+If the conclusion of the arbitrator is based on a possible view of the matter, the court should not interfere with the award.	None
+Consideration of the rival submissions We have noted the submissions of both the learned counsel.	None
+If we see the evolution of the service tax law, initially the liability to pay the service tax was on the service provider, though it is now provided by the amendment of 2000 that the same is on the person who avails of the service.	None
+It is relevant to note that the agreement between the parties was entered into on 7.6.1998.	None
+The appellant had deducted 5 service tax on the bills of the respondent for the period 30.11.1997 to 6.8.1999 which in fact it was required to deduct under the service tax law as it then stood.	Facts
+Subsequently, by the amendment of the definition of assessee effected on 12.5.2000 (though retrospectively effective from 16.7.1997) the liability to pay the service tax was shifted to the person who was availing the service as the assessee.	None
+We must note that it is thereafter that the parties have gone for arbitration, and the respondent has relied upon the changed definition of assessee to contend that the tax liability was that of the appellant.	None
+We are concerned with the question as to what was the intention of the parties when they entered into the contract on 7.6.1998, and how the particular clause 9.3 is to be read.	None
+Since clause 9.3 of the contract refers to the liabilities of the contractor in connection with discharge of his obligations, one will have to refer to clause 6 of the Terms and Conditions for Handling of Iron and Steel Materials of RINL, VSP which was an integral part of the contract between the petitioner and the respondent, and which was titled Obligations of the Contractor.	None
+The said paragraph 6 deals in great details with the work which was required to be done by the respondent as clearing and forwarding agent.	None
+It is therefore absolutely clear that the term his obligations under this order in clause 9.3 of the contract denoted the contractors responsibilities under clause 6 in relation to the work which he was required to carry out as handling contractor.	None
+If we look into this clause 6.0, we find that the obligations of the contractor are defined and spelt out in minute details.	None
+Clause 6.0 is split into 33 subclauses, and it provides for obligations of the contractor in various situations concerning the clearance of consignments, and the services to be provided by the respondent as the handling contractor wherefrom the tax liability arises.	None
+The contractor is made responsible for pilferage, any loss or misplacement of the consignments also.	None
+Clause 9.0 which deals with payment of bills, provides in clauses 9.1 and 9.2 that the bills will be prepared on the basis of the actual operations performed and the materials accounted on the basis of weight carried and received.	None
+Clause 9.3 has to be seen on this background.	None
+The tax liability will depend upon the value of the taxable service provided, which will vary depending upon the volume of the goods handled.25.	None
+It was submitted on behalf of the respondent that clause 9.3 and the contract must be read as a whole and one must harmonise various provisions thereof.	Arguments of Respondent
+However, in fact when that is done as above, clause 9.3 will have to be held as containing the stipulation of the contractor accepting the liability to pay the service tax, since the liability did arise out of the discharge of his obligations under the contract.	None
+It appears that the rationale behind clause 9.3 was that the petitioner as a Public Sector Undertaking should be thereby exposed only to a known and determined liability under the contract, and all other risks regarding taxes arising out of the obligations of the contractor are assumed by the contractor.	None
+As far as the submission of shifting of tax liability is concerned, as observed in paragraph 9 of Laghu Udyog Bharati (Supra), service tax is an indirect tax, and it is possible that it may be passed on.	None
+Therefore, an assessee can certainly enter into a contract to shift its liability of service tax.	None
+Though the appellant became the assessee due to amendment of 2000, his position is exactly the same as in respect of Sales Tax, where the seller is the assessee, and is liable to pay Sales Tax to the tax authorities, but it is open to the seller, under his contract with the buyer, to recover the Sales Tax from the buyer, and to pass on the tax burden to him.	None
+Therefore, though there is no difficulty in accepting that after the amendment of 2000 the liability to pay the service tax is on the appellant as the assessee, the liability arose out of the services rendered by the respondent to the appellant, and that too prior to this amendment when the liability was on the service provider.	None
+The provisions concerning service tax are relevant only as between the appellant as an assessee under the statute and the tax authorities.	None
+This statutory provision can be of no relevance to determine the rights and liabilities between the appellant and the respondent as agreed in the contract between two of them.	None
+There was nothing in law to prevent the appellant from entering into an agreement with the respondent handling contractor that the burden of any tax arising out of obligations of the respondent under the contract would be borne by the respondent.	None
+If this clause was to be read as meaning that the respondent would be liable only to honour his own tax liabilities, and not the liabilities arising out of the obligations under the contract, there was no need to make such a provision in a bilateral commercial document executed by the parties, since the respondent would be otherwise also liable for the same.	None
+In Bank of India (supra) one party viz.	None
+the bank was responsible for the formulation of the Voluntary Retirement Scheme, and the employees had only to decide whether to opt for it or not, and the principle of contra proferentem was applied.	None
+Unlike the VRS scheme, in the present case we are concerned with a clause in a commercial contract which is a bilateral document mutually agreed upon, and hence this principle can have no application.	None
+Therefore, clause 9.3 will have to be read as incorporated only with a view to provide for contractors acceptance of the tax liability arising out of his obligations under the contract.	None
+It was pointed out on behalf of the appellant that it is conventional and accepted commercial practice to shift such liability to the contractor.	None
+A similar clause was considered by this Court in the case of Numaligarh Refinery Ltd. vs. Daelim Industrial Co. Ltd., reported in 2007 (8) SCC 466 .	None
+In that matter, the question was as to whether the contractor was liable to pay and bear the countervailing duty on the imports though this duty came into force subsequent to the relevant contract.	None
+The relevant clause 2(b) read as follows 2(b) All taxes and duties in respect of job mentioned in the aforesaid contracts shall be the entire responsibility of the contractor Reading this clause and the connected documents, this Court held that they leave no manner of doubt that all the taxes and levies shall be borne by the contractor including this countervailing duty.	None
+In any case, assuming that clause 9.3 was capable of two interpretations, the view taken by the arbitrator was clearly a possible if not a plausible one.	None
+It is not possible to say that the arbitrator had travelled outside his jurisdiction, or that the view taken by him was against the terms of contract.	None
+That being the position, the High Court had no reason to interfere with the award and substitute its view in place of the interpretation accepted by the arbitrator.	None
+The legal position in this behalf has been summarized in paragaph 18 of the judgment of this court in SAIL vs. Gupta Brother Steel Tubes Ltd. (supra) and which has been referred to above.	None
+Similar view has been taken later in Sumitomo Heavy Industries Ltd. vs. ONGC Ltd. reported in 2010 (11) SCC 296 to which one of us (Gokhale J.) was a party.	None
+The observations in paragraph 43 thereof are instructive in this behalf.	None
+This paragraph 43 reads as follows The umpire has considered the fact situation and placed a construction on the clauses of the agreement which according to him was the correct one.	None
+One may at the highest say that one would have preferred another construction of Clause 17.3 but that cannot make the award in any way perverse.	None
+Nor can one substitute ones own view in such a situation, in place of the one taken by the umpire, which would amount to sitting in appeal.	None
+As held by this Court in Kwality Mfg. Corpn.	None
+v. Central Warehousing Corpn (2009 (5) SCC 142 ).	None
+The Court while considering challenge to arbitral award does not sit in appeal over the findings and decision of the arbitrator, which is what the High Court has practically done in this matter.	None
+The umpire is legitimately entitled to take the view which he holds to be the correct one after considering the material before him and after interpreting the provisions of the agreement.	None
+If he does so, the decision of the umpire has to be accepted as final and binding.	None
+In view of what is stated above, the respondent as the contractor had to bear the service tax under clause 9.3 as the liability in connection with the discharge of his obligations under the contract.	Reasoning
+The appellant could not be faulted for deducting the service tax from the bills of the respondent under clause 9.3, and there was no reason for the High Court to interfere in the view taken by the arbitrator which was based, in any case on a possible interpretation of clause 9.3.	Reasoning
+The learned single Judge as well as the Division Bench clearly erred in interfering with the award rendered by the arbitrator.	Reasoning
+Both those judgments will, therefore, have to be setaside.	None
+Accordingly, the appeal is allowed and the impugned judgments of the learned Single Judge as well as of the Division Bench, are hereby set aside.	Decision
+The award made by the arbitrator is upheld.	Decision
+The parties will bear their own costs.	Decision

@@ -1,0 +1,677 @@
+ M. Khanwilkar, J. Leave granted in SLP (C)	None
+No. 29181 of 2018.	None
+All appeals were taken up for hearing at the notice stage with the consent of the contesting Respondents.	None
+These appeals have arisen from the common judgment and order of the National Company Law Appellate Tribunal (for short NCLAT), New Delhi, dated 6th September, 2018, rendered in appeals filed in relation to the insolvency resolution process under the provisions of the Insolvency and Bankruptcy Code, 2016 (for short I B Code) concerning Kamineni Steel Power India Pvt. Ltd. (for short KS PIPL), having its registered office at Hyderabad, Telangana and Innoventive Industries Ltd. (for short IIL) having its registered office at Pune, Maharashtra.	Issue
+The NCLAT affirmed the order passed by the National Company Law Tribunal, Mumbai Bench (for short NCLT Mumbai) recording rejection of the resolution plan concerning IIL and directing initiation of liquidation process under Chapter III of Part II of the I B Code.	Facts
+As regards KS PIPL, the NCLAT reversed the decision of the National Company Law Tribunal, Hyderabad (for short NCLT Hyderabad) which had approved its resolution plan and instead remanded the proceedings to NCLT Hyderabad for initiation of liquidation process in terms of Section 33 and 34 of the I B Code.	Facts
+The NCLAT held that as, in both the cases, the resolution plan did not garner support of not less than 75 of voting share of the financial creditors constituting the Committee of Creditors (for short CoC) the same stood rejected and thereby warranted initiation of liquidation process of the concerned corporate debtor, namely, KS PIPL and IIL.	Facts
+For considering the grounds of challenge in the respective appeals, we deem it appropriate to advert to the relevant facts concerning the respective corporate debtor.	None
+KS PIPL was incorporated as a private limited company on 20th October, 2008.	None
+Its steel division commenced operation on 30th March, 2013.	Facts
+The company was functional till the Financial Year 201415.	Facts
+However, it could not continue beyond this period due to deficient working capital and various other factors including financial crisis, leading to heavy operational losses and consequent erosion of the entire net worth.	Facts
+Attempts were made to revive the company by forming a joint lenders forum by the consortium of banks.	Facts
+As that attempt did not fructify, the company filed an application with BIFR Under Section 15(1) of Sick Industrial Companies (Special Provisions) Act, 1985 on 15th November, 2016.	Facts
+The said proceedings abated due to a notification dated 25th November, 2016, as to the repeal of the Act.	Facts
+Eventually, the company filed a petition Under Section 10 of the I B Code read with Rule 7 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016, seeking to initiate Corporate Insolvency Resolution Process (CIRP) concerning the said company.	Facts
+That petition was admitted on 10th February, 2017, by the NCLT Hyderabad and an Interim Resolution Professional (for short IRP) came to be appointed with directions to constitute a CoC.	Facts
+The CoC was constituted and the first meeting was held on 8th March, 2017 to confirm the appointment of IRP and authorise the lead bank, namely the Indian Bank to inform the approved valuers that they should proceed with their valuation.	Facts
+The second meeting of CoC was held on 6th April, 2017, for taking on record the predicated expenses and essential costs and factory maintenance costs and to confirm about the operation of the bank account with lead Bankers, Indian Bank by IRP and Chief Financial Officer.	Facts
+In the third meeting of CoC, convened on 12th May, 2017, the corporate debtor made a presentation for a resolution plan, giving three options.	Facts
+In that meeting, it was resolved to appoint SBI Capital Markets Limited to determine the sustainable debt of the corporate debtor to enable the creditors to assess the viability of the resolution plan.	Facts
+In the fourth meeting of CoC, held on 27th June, 2017, the resolution plan submitted by the corporate debtor was reviewed and a draft Techno Economic Viability report by SBI Capital Markets Limited was also considered.	Facts
+It is not necessary to dilate on other aspects discussed and resolved in this meeting.	Facts
+As the statutory period of 180 days for completion of CIRP was to expire, an application was filed before the NCLT Hyderabad for extending the time by a further 90 days.	Facts
+Thus, the NCLT Hyderabad, on 27th July, 2017, extended further time by 90 days starting from 9th August, 2017.	Facts
+The sixth meeting of the CoC was held on 24th August, 2017, when the corporate debtor submitted an expression of interest from AREA Group of Companies, Chandigarh to infuse Rs. 150 Crore in the form of debentures, subject to getting a firm approval from the lenders.	Facts
+The said proposal was circulated during the meeting which concluded with the resolution that the same be placed along with the final report of SBI Capital Markets Limited, which was still awaited.	Facts
+The seventh meeting of the CoC was held on 26th September, 2017 in which various options were deliberated but the discussion remained inconclusive.	Facts
+In the eighth CoC meeting, held on 16th October, 2017, it was agreed that the resolution plan submitted by the corporate debtor should provide for monitoring and supervision by the resolution professional, in case the plan was approved by the CoC.	Facts
+The Indian Bank, which had 22.33 of voting power, conveyed its disapproval to the proposed resolution plan.	Facts
+JMFARC Limited, having 12.39 of voting power, had already rejected the resolution plan in the previous meeting held on 26th September, 2017.	Facts
+Both these banks, however, agreed to reconsider the resolution plan if a portion of the sustainable debt was to be increased.	Facts
+The corporate debtor was asked to submit a fresh One Time Settlement (OTS) proposal through email to all the bankers for consideration.	Facts
+Accordingly, the corporate debtor sent an email on 18th October, 2017, with another OTS scheme proposal as an alternative to the resolution plan already submitted.	Facts
+The corporate debtor offered an OTS scheme proposal of Rs. 525 Crore with a structured repayment period indicated therein.	Facts
+In response, the Indian Bank, through an email sent on 25th October, 2017, called upon the corporate debtor to file an OTS scheme proposal for 600 Crore.	Facts
+After interacting with the bankers, a counter proposal was given by the corporate debtor which was eventually considered in the 9th CoC meeting held on 27th October, 2017.	Facts
+The proposal submitted by the corporate debtor on 26th October, 2017, was approved by the members of the CoC having only 55.73 voting share namely Indian Bank, JM Financial Asset Reconstruction Co. Ltd., Allahabad Bank and Andhra Bank.	Facts
+The Indian Overseas Bank having voting share of 15.15, rejected the resolution proposal and cited reasons through its letter dated 27th October, 2017.	Facts
+Three other Banks, namely Oriental Bank of Commerce, Central Bank of India and Bank of Maharashtra, having 29.12 voting share, expressed that they remained open, awaiting inprinciple approval from their respective sanctioning authority.	Facts
+Eventually, on 30th October, 2017, Oriental Bank of Commerce, having 10.94 voting share, sent an email conveying their inprinciple approval to the proposed resolution plan qua revised OTS scheme and that their final approval would be subject to similar approvals from the colenders.	Facts
+On the same day, Bank of Maharashtra, having 6.36 voting share, conveyed that they were open to consider the revised resolution plan.	Facts
+The Central Bank of India, having 11.82 voting share, conveyed its disapproval to the revised resolution plan.	Facts
+Resultantly, as on 30th October, 2017, the voting share of consenting Banks expressly approving the proposed resolution plan was only 66.67 and the voting share of dissenting lender Banks was 26.97.	Facts
+Maharashtra Bank, having 6.36 voting share, had not either approved, rejected or abstained from voting but had conveyed that they remained open to consider the resolution plan.	Facts
+The fact remains that the proposed resolution plan did not garner approval of not less than 75 of voting share of the financial creditors until the resolution professional (IRP) filed an affidavit before the adjudicating authority (NCLT Hyderabad) on 3rd November, 2017, submitting the outcome of the 9th CoC meeting.	Facts
+The Managing Director of the corporate debtor (KS PIPL) appeared before the adjudicating authority (NCLT) on 6th November, 2017, and also filed a memo on 17th November, 2017, inter alia submitting that for the financial creditor who chose not to participate in the voting, the votes and the majority be counted without their vote.	Facts
+In that eventuality, the percentage of financial creditors who chose to participate and who approved of the resolution plan would work out to 78.63 and therefore, it can be assumed that the resolution plan has been approved by the CoC.	Facts
+The NCLT Hyderabad vide judgment dated 27th November, 2017, eventually, allowed the petition filed by the corporate debtor and approved the resolution plan revised OTS scheme, as submitted by the resolution professional vide affidavit dated 3rd November, 2017, and further declared that the moratorium imposed on 10th February, 2017, ceased to have effect from the date of receipt of copy of the order.	Facts
+A further direction came to be issued that the corporate debtor shall reinstate all the employees who were on the rolls of company.	Facts
+Aggrieved by the said decision, three financial creditors who were part of the CoC, namely Indian Overseas Bank, Central Bank of India and Bank of Maharashtra filed appeals Under Section 61 before the NCLAT questioning the authority of NCLT Hyderabad, to approve of the resolution plan, despite the fact that the same did not receive approval of not less than 75 of voting share of financial creditors.	Facts
+The Managing Director of the corporate debtor also filed an independent appeal Under Section 61 of the I B Code with reference to the observations made by the NCLT Hyderabad regarding the corporate guarantee to be proceeded with.	Facts
+As aforesaid, these appeals were heard together along with appeals concerning another corporate debtor, namely IIL and came to be disposed of by the common impugned judgment dated 6th September, 2018, wherein it has been held that approval to the proposed resolution plan by a vote of not less than 75 of voting share of the financial creditors was mandatory and it was not open to the adjudicating authority to disregard the mandate of the CoC by adopting a convoluted approach.	Facts
+Against this decision, the Managing Director of the corporate debtor, namely (KS PIPL) has filed a civil appeal Under Section 62 of the I B Code in this Court, being Civil Appeal No. 10673 of 2018.	Facts
+The second set of appeals pertain to the corporate debtorIIL, being Civil Appeal No. 10719 of 2018 filed by the promoter of the corporate debtor who holds 21.82 shares and was the erstwhile Chairman and Managing Director of the company.	Facts
+Civil Appeal No. 10971 of 2018 is filed by the workers union of the same corporate debtor, namely, Innoventive Industries Kamgar Sanghathana.	Facts
+The workers union has filed another appeal arising from SLP (C) No. 29181 of 2018 against the judgment and order dated 24th September, 2018 passed by the High Court of Judicature at Bombay in Writ Petition (C) No. 136 of 2018, filed by them to challenge the judgment passed by the NCLT Mumbai dated 23rd November, 2017/8th December, 2017, and for directing the Union of India to revive the corporate debtor (IIL) and save it from liquidation by dispensing with the 8 shortfall for touching the criteria of 75 of consent of CoC for the approval of revival as per the provisions of the I B Code.	Facts
+The High Court rejected the writ petition filed by the workers union on the ground that they had an alternative and efficacious remedy against the decision of the Tribunal.	Facts
+In other words, the Special Leave Petition primarily questions the decision of rejection of the proposed resolution plan in respect of the corporate debtor (IIL).	Facts
+As regards the corporate debtor (IIL), the relevant facts are as follows.	None
+The said corporate debtor had suffered losses.	Facts
+As a result, it had proposed to its lender Bankers for Corporate Debt Restructuring (for short CDR).	Facts
+The company was referred to CDR in September, 2013 by 19 banking entities and it invited a consortium, led by Central Bank of India.	Facts
+The lenders forum approved the restructuring plan of the company on 24th June, 2014.	Facts
+ICICI Bank filed an Insolvency and Bankruptcy application under the I B Code against the corporate debtor (IIL) in December 2016.	Facts
+That was admitted by the NCLT Mumbai, being the adjudicating authority, on 17th January, 2017.	Facts
+An IRP was appointed and a moratorium was declared.	Facts
+The said corporate debtor asserts that despite the pendency of applications, the company had achieved a turnover of Rs. 337 Crore upto March 2017, with operational revenues of Rs. 125 Crore during the relevant period till September 2017.	Facts
+The total indirect tax paid by the company is approximately Rs. 8.27 Crore during the same period.	Facts
+Be that as it may, consequent to the order of the adjudicating authority (NCLT) dated 17th January, 2017, the first CoC meeting was held on 15th February, 2017 wherein the appointment of IRP was confirmed.	Facts
+Eventually, in the sixth CoC meeting held on 19th June, 2017, it was unanimously resolved to extend the insolvency resolution period till 14th October, 2017.	Facts
+The IRP then approached 27 parties (16 prospective financial investors and 11 prospective strategic investors) out of which 16 parties (11 financial investors and 6 strategic investors) showed interest in the company.	Facts
+After screening of the proposed resolution applicants, the subject resolution plan was submitted to the IRP on 3rd September, 2017, which was taken up for consideration by the CoC in its meeting on 4th October, 2017, by evoting.	Facts
+Financial creditors holding 66.57 voting share voted in favour of approving the proposed resolution plan whereas the dissenting financial creditors, having 33.43 voting share, voted against the proposed resolution plan.	Facts
+Resultantly, the proposed resolution plan was not approved or came to be rejected for want of support of the requisite percent of financial creditors, having voting share of not less than 75.	Facts
+The IRP then filed an application on 12th October, 2017, before the adjudicating authority (NCLT) praying for initiating liquidating process against IIL.	Facts
+The NCLT Mumbai, after considering the submissions of both sides, by order pronounced in court on 23rd November, 2017 and delivered on 8th December, 2017, directed initiation of liquidation proceeding against the corporate debtor (IIL).	Facts
+The Appellant in the leading appeal of the second set of appeals, being the former Chairman and Managing Director of the corporate debtor (IIL) had filed an interim application before the NCLT Mumbai praying that the dissenting financial creditors be directed to disclose on oath reasons basis for, or the decision making process involved in, voting against the resolution plan and a declaration that the dissenting financial creditors voted with malicious intention of liquidation and hence, their votes ought to be ignored.	Facts
+The workers union of the corporate debtor (IIL) had filed an interim application, opposing liquidation of the company.	Facts
+The resolution applicant had also filed an application to allow it to submit a revised resolution plan and to invite a fresh vote thereon albeit after the time earlier envisaged for obtaining shareholders approval.	Facts
+According to the Appellants in the second set of appeals, NCLT did not call for the response of the opposite parties on the concerned applications and instead proceeded to pass the impugned order rejecting the applications and directing initiation of liquidation proceeding against the corporate debtor.	Facts
+The Appellants in the leading appeal concerning the corporate debtor (IIL) filed an appeal before the NCLAT against the decision of the NCLT, Mumbai.	Facts
+This appeal was heard along with the appeals concerning another corporate debtor (KS PIPL) and disposed of together by the NCLAT as common issue was involved in all these appeals.	Facts
+As aforesaid, by the impugned judgment NCLAT has held that the requirement of approval of resolution plan by vote of not less than 75 of voting share of financial creditors was mandatory and hence dismissed the appeal preferred by the Appellant.	Facts
+Aggrieved, the said Appellant and the workers union of KS PIPL have filed appeals against the said decision of NCLAT and the High Court respectively.	Facts
+Mr. C.U. Singh, learned senior Counsel appearing for the Appellant in the case of corporate debtor KS PIPL had canvassed twopronged submissions.	Arguments of Petitioner
+The first is on the basis of the unamended provisions as applicable on the date of the resolution passed by the CoC in October, 2017.	Arguments of Petitioner
+It is urged that on a fair interpretation of those provisions, it ought to be held that the same were not mandatory.	Arguments of Petitioner
+Even assuming that the same were mandatory, considering the fact that a significant Section of the financial creditors had abstained from voting on 27th October, 2017, their votes were required to be ignored for the purpose of computing the required percentage of voting share.	Arguments of Petitioner
+In that case, it would work out to be more than 75.	Arguments of Petitioner
+In that, the percentage of votes for approval (55.73) of the resolution proposal and the voting share rejecting the proposal was only 15.15.	Arguments of Petitioner
+Taking these votes only, the proportionate percentage of the voting share for approval will obviously be more than 75 (i.e. approximately 78.63).	Arguments of Petitioner
+Thus understood, the NCLT Mumbai ought to have approved the resolution proposal.	Arguments of Petitioner
+The second limb of the argument is that the NCLAT, which had decided the appeals on 6th September, 2018, ought to have taken into account the amendments brought into force w.e.f. 23rd	Arguments of Petitioner
+November, 2017 and followed by another amendment brought into force w.e.f.	Arguments of Petitioner
+6th June, 2018 to the provisions of I B Code and including the amendment to the Regulations of the Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016 brought into force from 4th July, 2018.	Arguments of Petitioner
+For, the same came into force during the pendency of the appeals.	Arguments of Petitioner
+Further, the purport of the said amendments posit that the CoC should be objective in its approach and consider the feasibility and viability of the resolution proposal and must assign reasons for approval or rejection of the proposal, as the case may be.	Arguments of Petitioner
+Additionally, the requirement of percentage of votes of the financial creditors stood reduced to 66 of voting share which, in the present case, has been fulfilled on account of the approval given by 55.73 in the meeting convened on 27th October, 2017, and followed by inprinciple approval conveyed via email on 30th October, 2017, by Oriental Bank of Commerce, having 10.94 voting power.	Arguments of Petitioner
+In effect, this argument proceeds on the assumption that the amendments to the Code brought into force w.e.f. 23rd	Arguments of Petitioner
+November, 2017 and in particular on 6th June, 2018, would have retroactive effect, as is clear from the legislative intent behind the said amendments.	Arguments of Petitioner
+The said amendments are made applicable from the inception and to pending proceedings also because it is to substitute the original provision as was applicable on the date of the resolution dated 27th October, 2017, and filing of affidavit by IRP before the adjudicating authority.	Arguments of Petitioner
+To buttress this argument, reliance has been placed on the exposition in Gottumukkala Venkata Krishamraju v. Union of India (2018) SCC Online SC 1386  Paragraphs 1316, Government of India v. India Tobacco Association (2005) 7 SCC 396 Paragraphs 1416, 24, 2628 and Zile Singh v. State of Haryana (2004) 8 SCC 1 Paragraphs 1416.	Arguments of Petitioner
+In support of the argument that the amendment to Section 30(4) applied to pending proceedings, reliance has been placed on the judgment in Mithilesh Kumari and Anr.	Arguments of Petitioner
+v. Prem Behari Khare (1989) 2 SCC 95 .	Arguments of Petitioner
+Paragraph 24 and also see paragraphs 1, 23 and 25, Dahiben (Widow of Ranchnodji Jivanji) and Ors.	Arguments of Petitioner
+v. Vasanji Kevalbhai (Dead) and Ors.	Arguments of Petitioner
+(1995) Supp.	Arguments of Petitioner
+2 SCC 295.	Arguments of Petitioner
+Paragraph 13 and also see Paragraphs 12, 14 and 15.	Arguments of Petitioner
+Reliance is also placed on the decision in B.K. Educational Services Private Ltd. v. Parag Gupta Associates Paragraph 45 which had considered the applicability of Section 238A inserted by way of the same amendment Act in the I B Code w.e.f.	Arguments of Petitioner
+6th June, 2018.	Arguments of Petitioner
+In this decision, the court held that the legislative intent behind the amendment was to apply the Limitation Act from the very beginning to NCLT and NCLAT while deciding the applications filed Under Sections 7 and 9 of the I B Code and the appeals therefrom.	Arguments of Petitioner
+Reliance is also placed on the decision in State Bank of India v. Ramakrishnan.	Arguments of Petitioner
+Paragraph 34 which had dealt with amendment by way of substitution to Section14(3) of the I B Code concerning surety in a contract of guarantee for a corporate debtor.	Arguments of Petitioner
+The court held that the amendment was retrospective.	Arguments of Petitioner
+Reliance is also placed on the decision in Rustom Hornby (I) Ltd. v. T.B. Kadom (1976) 3 SCC 71 .	Arguments of Petitioner
+Paragraph 6 in which this Court gave retrospective construction to Section 2A of the Industrial Disputes Act, 1947 and also in Bharat Singh v. Management of New Delhi Tuberculosis Centre, New Delhi (1986) 2 SCC 614 .	Arguments of Petitioner
+Paragraphs 2, 56, 1014 to the same effect.	Arguments of Petitioner
+The thrust of the argument is that the object of the I B Code is resolution rather than liquidation as also the maximization of value of assets of such persons, to promote entrepreneurship.	Arguments of Petitioner
+To buttress this argument, reliance is also placed on the report of the Insolvency Law Committee in March 2018.	Arguments of Petitioner
+Paragraph 11.6 therein states that in order to further the stated object of the I B Code to promote resolution, the voting share for approval of resolution plan may be reduced to 66.	Arguments of Petitioner
+It is submitted that this should have been taken into account by the NCLAT in reference to the amended provisions brought into force during the pendency of the appeal before it.	Arguments of Petitioner
+It is also contended that the adjudicating authority (NCLT) as well as the appellate authority (NCLAT), while approving or rejecting the resolution plan, is duty bound to exercise a judicious mind and be alive to the facts and circumstances of the specific case before it and the socioeconomic benefit considering the favourable opinion noted by the resolution professional in his affidavit, that there was every possibility of reviving the corporate debtor.	Arguments of Petitioner
+Even as per the report submitted by M s. Atlas Financial Research Consulting Private Limited regarding a thorough Techno Economic Viability study conducted in respect of the corporate debtor (KS PIPL), it has been noted that the company was technically feasible and economically viable.	Arguments of Petitioner
+The corporate debtor was facing a financial crisis due to abrupt and unilateral stoppage of operations in the working capital loan account and the proposed resolution plan fulfilled all the eligibility criteria for its approval under the provisions of the I B Code.	Arguments of Petitioner
+Furthermore, the dissenting financial creditors having failed to offer any reason whatsoever for rejecting the resolution proposal, it must follow that they did not do so in good faith but with malicious intent, warranting intervention by the adjudicating authority and the appellate authority.	Arguments of Petitioner
+Mr. A.M. Singhvi, learned Senior Counsel appearing for the Appellant concerning the corporate debtor (IIL) would submit that the CoC, being the custodian of public interest, is under a statutory duty to exercise its power Under Section 30(4) of the I B Code reasonably and fairly.	Arguments of Petitioner
+Section 30(4) posits an obligation upon the CoC to adopt a resolution plan which is ex facie more viable than liquidation.	Arguments of Petitioner
+According to him, the amendments to Section 30(4) in particular brought into force w.e.f. 23rd	Arguments of Petitioner
+November, 2017 are only declaratory clarificatory of the law and resultantly, retrospective.	Arguments of Petitioner
+He submits that giving reasons for the view expressed on the resolution plan, be it for approval or rejection, is the quintessence to fulfill the requirement of a reasonable and fair approach of the CoC. Reasons so given, would demonstrate whether it is a bonafide or malicious act of the financial creditors.	Arguments of Petitioner
+That has now been clarified and restated by the amending Regulation 39(3) which has come into force w.e.f.	Arguments of Petitioner
+4th July, 2018.	Reasoning
+Being a clarificatory amendment, the same would take effect retrospectively and is applicable even to pending proceedings.	Arguments of Petitioner
+It is then contended that if no reason is assigned or forthcoming, the court is not powerless to strike down the exercise of power by the concerned financial creditor if it was possible to infer from the circumstances emanating from the record that the exercise of such power was wrongly exercised.	Arguments of Petitioner
+To buttress this submission reliance was placed upon Mardia Chemicals limited and Ors.	Arguments of Petitioner
+v. Union of India and Ors.	Arguments of Petitioner
+(2004) 4 SCC 311 , paragraph 45 which had read the requirement of fairness and reasonableness into Section 13 of the SARFAESI Act.	Arguments of Petitioner
+The court declared that reasons must be given and communicated.	Arguments of Petitioner
+This reading in of the principle of fairness and reasonableness, was eventually codified in the form of Section 13(3A) of that Act.	Arguments of Petitioner
+Such interpretation was inexorable in respect of provisions as draconian as Section 30(4), resulting in the inevitable consequence of liquidation of the corporate debtor.	Arguments of Petitioner
+The provisions of the I B Code must be so construed as not to be financial creditor centric but to be an inclusive approach where all stakeholders interests are balanced and particularly for exploring the possibility of revival of the corporate debtor and maximisation of the value of assets.	Arguments of Petitioner
+In the present case, contends learned Counsel, the only plea taken by the dissenting financial creditors before the adjudicating authority (NCLT), was that they had taken a commercial decision and it was not open to judicial scrutiny.	Arguments of Petitioner
+Even if it is a commercial decision, contends learned Counsel, it must fulfill the test of a reasonable and fair approach to be supported by tangible reasons.	Arguments of Petitioner
+In the absence of reasons, the adjudicating authority (NCLT) must exercise its jurisdiction to ascertain whether the exercise of power by the CoC is reasonable and in conformity with the purpose of the Code.	Arguments of Petitioner
+If the resolution plan is ex facie viable and yet the dissenting financial creditors reject the same, such exercise of power would be subversive of the policy of the Code, requiring intervention by the adjudicating authority (NCLT).	Arguments of Petitioner
+Whereas, such a case would imply a duty on the CoC to exercise its power to approve the plan.	Arguments of Petitioner
+To counter the defence of the dissenting financial creditors regarding a commercial decision, reliance was placed on Padfield and Ors.	Arguments of Petitioner
+v. Minister of Agriculture, Fisheries and Food (1968)	Arguments of Petitioner
+2 WLR 924 and Dhampur Sugar Mills Ltd. v. State of U.P. and Ors.	Arguments of Petitioner
+(2007) 8 SCC 338 .	Arguments of Petitioner
+Learned Counsel contends that abdication of duty by the CoC to consider the feasibility and viability projected in the proposed resolution plan would be fatal.	Arguments of Petitioner
+It would be a case of non application of mind by the CoC, if not a malicious approach in rejection of the proposed resolution plan.	Arguments of Petitioner
+The test of limits of judicial review, as expounded in Tata Cellular v. Union of India (1996) 6 SCC 651 Paragraphs73 and 77 ought to be invoked to rein in the unbridled exercise of power by the CoC.	Arguments of Petitioner
+The Tribunal could certainly discard the view of the dissenting financial creditors if it was satisfied that such a decision could not be reached by any reasonable and prudent person.	Arguments of Petitioner
+It is also possible for the adjudicating authority (NCLT) to intervene if the circumstances suggest that the decision of dissenting financial creditors was the outcome of abuse of power or being irrational and unreasonable.	Arguments of Petitioner
+Reliance is also placed on the decision in Union of India and Anr.	Arguments of Petitioner
+v. Cynamide India Ltd. and Anr.	Arguments of Petitioner
+(1987) 2 SCC 720 Paragraph 4 and Shri Sitaram Sugar Company Limited and Anr.	Arguments of Petitioner
+v. Union of India and Ors.	Arguments of Petitioner
+(1990) 3 SCC 223 Paragraphs  4749, 5153, 5758.	Arguments of Petitioner
+As regards the amendment brought into effect from 23rd November, 2017 to Section 30(4) of the I B Code, it is contended that the same must be construed as only clarificatory and resultantly, be given retrospective effect.	Arguments of Petitioner
+Inasmuch as the discretion given to the constituents of CoC, namely the financial creditors Under Section 30(4) of the I B Code is required to be exercised in a just manner and by giving due regard to the feasibility and viability of a plan proposed for revival of the corporate debtor.	Arguments of Petitioner
+There is nothing else relevant for discharging the statutory obligation of approving or rejecting the proposed resolution plan.	Arguments of Petitioner
+With regard to the second amendment to Section 30(4) of the I B Code which came into effect from 6th June, 2018, reducing the voting threshold from 75 to 66, learned Counsel contends that even the same operates from the time the Section was brought on the statute book.	Arguments of Petitioner
+For, the legislature consciously lowered the threshold requirement to 66.	Arguments of Petitioner
+It was to infuse more flexibility in the resolution processes and to maximise the effort for revival of the corporate debtor in the larger public interests.	Arguments of Petitioner
+The intention of the Parliament was to cure the mischief that the high threshold was causing and by reducing it, Parliament intended to encourage revival of the corporate debtor and maximisation of the value of assets and to discourage liquidation resulting in closure of the functioning company on which many stakeholders depended, such as its workers.	Arguments of Petitioner
+With regard to the objection to the locus of the Appellant being the former Chairman and Managing Director of the corporate debtor, it is contended that the same is raised for the first time, and in any case, cannot be countenanced in view of the express provision contained in Section 61 of the I B Code and moreso because the Appellant had initiated proceedings by filing an application before the adjudicating authority (NCLT) and the Appellant, being the shareholder, had reason to insist for revival of the corporate debtor instead of its liquidation.	Arguments of Petitioner
+As regards the objection about the eligibility of the Appellant as a person acting jointly or in concert with the corporate debtor in terms of Section 29A of the I B Code, it is contended that even this objection was being taken for the first time.	Arguments of Petitioner
+Notably, Section 29A of the I B Code came into force only from 23rd November, 2017, and it did not exist when the resolution plan was considered by the CoC.	Arguments of Petitioner
+Further, the scope of appeal preferred by the Appellant was to call upon the adjudicating authority to interfere with the unreasonable rejection of the resolution plan by the dissenting financial creditors and not to propound an independent plan of the Appellant.	Arguments of Petitioner
+Thus understood, Section 29A of the I B Code would have no application and in any case, if the proposed resolution plan is to be taken forward, the Appellant has no causal connection with the resolution applicant.	Arguments of Petitioner
+Learned Counsel submits that the appeal be allowed and the matter be restored to the file of the adjudicating authority (NCLT) for reconsideration of the proposed resolution plan afresh.	Arguments of Petitioner
+Mr. Colin Gonsalves, learned Senior Counsel appearing for the workers union concerning corporate debtor (IIL) submits that the rejection of the plan would have a direct impact on the workers engaged by the corporate debtor.	Arguments of Petitioner
+According to him, the resolution plan manifests that the company is a viable company and all efforts should be made to revive the company and not to shove it into liquidation because of the whims and fancies of the minority financial creditors or, for that matter, in the guise of their commercial wisdom.	Arguments of Petitioner
+Reliance is placed on United Bank of India, Calcutta v. Abhijit Tea Co. Pvt. Ltd. and Ors.	Arguments of Petitioner
+(2000) 7 SCC 357 Paragraph 20 and Karan Singh and Ors.	Arguments of Petitioner
+v. Bhagwan Singh (Dead) By L.Rs. and Ors.	Arguments of Petitioner
+(1996)	Arguments of Petitioner
+7 SCC 559 Paragraph 7 and additionally, on the decision of the NCLAT in the case of another corporate debtor (Alok Employees Benefit and Welfare Trust) in Company Appeal (AT) (Insolvency)	Arguments of Petitioner
+No. 344 of 2018 decided on 29th November, 2018.	Arguments of Petitioner
+He had also invited our attention to the chart given in Economic Survey 201718 Volume 2, to contend that there will be hardly any impact if this Court was to remit the case for reconsideration on the basis of the amended provisions by the adjudicating authority (NCLT) and especially because there is ample material on record to indicate that the corporate debtor (IIL) is a viable company and needs to be revived and not liquidated.	Arguments of Petitioner
+On the other hand, Mr. Shyam Divan, learned Senior Counsel and Ms. Pragya Baghel countered the above submissions and supported the conclusion reached by the NCLAT that the requirement specified in Section 30(4) of the I B Code is mandatory.	Arguments of Respondent
+They submit that the I B Code has been enacted after the experience of the earlier dispensations.	Arguments of Respondent
+There has been paradigm shift in adopting the new regime regarding the timelines to be observed by all concerned at every stage as predicated in the Code.	Arguments of Respondent
+Be it for the resolution process or liquidation process.	Arguments of Respondent
+Both these processes are intended to be disposed of speedily and in a timebound manner.	Arguments of Respondent
+The initial time limit provided to revive the company is 180 days from the date of admission of the petition and extendable by 90 days.	Arguments of Respondent
+The outer limit for resolution process has been specified as 270 days and if the resolution plan is not approved by the CoC with requisite number of votes of the financial creditors (not less than of 75), then there is no other option but to order liquidation.	Arguments of Respondent
+That is the inevitable consequence of failure to approve the resolution plan within the specified time.	Arguments of Respondent
+The adjudicating authority (NCLT) would have no other option.	Arguments of Respondent
+Further, on presentation of the rejected resolution plan, it is not open to the adjudicating authority (NCLT) to enquire into the justness of the reason or the commercial decision taken by the financial creditors to approve or not to approve the proposed resolution plan.	Arguments of Respondent
+There is complete autonomy regarding the commercial decision or wisdom of the financial creditors.	Arguments of Respondent
+That cannot be questioned by the adjudicating authority (NCLT).	Arguments of Respondent
+Whereas, the judicial review is circumscribed to the grounds specified in the Act itself, which is a selfcontained Code.	Arguments of Respondent
+The legislative intent makes it amply clear that the Parliament was conscious about the fact that some business entities will fail and cannot be revived within the specified time but that cannot suppress the need for addressing the serious concern of financial creditors due to increasing financial pressure on them because of nonperforming assets of the corporate debtor.	Arguments of Respondent
+The promoters have no divine right to continue to manage such corporate debtor.	Arguments of Respondent
+The I B Code predicates the necessity of interest in the management of such corporate debtors being handed over to professionals during the moratorium period so as to make a sincere effort to revive the company within the specified time.	Arguments of Respondent
+Our attention was invited to Bankruptcy Law Reforms Committee Report dated 4th November, 2015 and Insolvency Law Committee Report dated 26th March, 2018, to buttress the argument about the legislative intent behind the enactment of the I B Code and the concerned amendment.	Arguments of Respondent
+Reliance has been placed on Innoventive Industries Ltd. (supra), which had adverted to the legislative intent behind the I B Code.	Arguments of Respondent
+Mr. Divan, appearing for ICICI Bank in the case of corporate debtor (IIL), submits that there was only one resolution plan.	Arguments of Respondent
+Neither has the resolution applicant challenged the decision of the adjudicating authority (NCLT) nor has it been made party in the appeal.	Arguments of Respondent
+The outstanding amount payable by the corporate debtor (IIL) is around Rs. 1435 Crore.	Arguments of Respondent
+He submits that the resolution plan is a complex document unlike a bid or tender document.	Arguments of Respondent
+The professionals associated with the dissenting financial creditors have analysed the same and were of the considered opinion that it is not a feasible and achievable targetrather it is a speculative proposal.	Arguments of Respondent
+The dissenting financial creditors exercised their commercial wisdom after taking into account all the relevant aspects.	Arguments of Respondent
+It is not open to undertake scrutiny of that decision of the dissenting financial creditors.	Arguments of Respondent
+Neither can the IRP nor the adjudicating authority (NCLT) be allowed to sit over the same as a court of appeal.	Arguments of Respondent
+The decision of the dissenting financial creditors reckons various aspects including the confidence about the capacity of the resolution applicant to translate the projected plan into reality as per the timelines specified and the feasibility and viability of the proposal and revival of the company in question.	Arguments of Respondent
+He took us through the relevant provisions including amended provisions and contended that the purpose and intent underlying the amendment was to give prospective effect thereto.	Arguments of Respondent
+He submitted that the appeal filed by the former Chairman and Managing Director of the corporate debtor (IIL) was not maintainable also because the said Appellant has no locus.	Arguments of Respondent
+He submitted that the Appellant was acting in concert with the resolution applicant and for which the Appellant must be called upon to first deposit 100 of the dues.	Arguments of Respondent
+Our attention is invited to the recent decision in Arcelormittal India Private Limited v. Satish Kumar Gupta and Ors.	Arguments of Respondent
+Paragraphs 64, 78, 83 and 88.	Arguments of Respondent
+He submits that the Court has noticed the necessity of observing timelines by all concernedbe it at the stage of resolution process or liquidation processin terms of the mandate in the I B Code.	Arguments of Respondent
+The amendments cannot be construed otherwise so as to render the legislative intent otiose.	Arguments of Respondent
+He submits that, in law, there is a presumption of prospective application of the amended provisions.	Arguments of Respondent
+There is no express provision ordaining retrospective application of the amended provisions.	Arguments of Respondent
+The amended provisions unambiguously predicate that the same would come into force with effect from the stated date.	Arguments of Respondent
+In the present case, the timeline for completion of the resolution process expired on 14th November, 2017, and for which reason the amended provision lowering the voting share to 66 will be of no avail.	Arguments of Respondent
+As regards the amendment to Regulation 39, that has come into force w.e.f.	Arguments of Respondent
+4th July, 2018, and obviously would have prospective application.	Arguments of Respondent
+In any case, nondisclosure of the reason by the dissenting financial creditors, would not vitiate the concluded cause of action upon exercising the vote to reject the proposed resolution plan.	Arguments of Respondent
+That position cannot be unsettled on the basis of the amended Regulation.	Arguments of Respondent
+Learned Counsel has placed reliance on the case of Karnataka State Industrial Investment Development Corpn.	Arguments of Respondent
+Ltd. v. Cavalet India Ltd. and Ors.	Arguments of Respondent
+(2005) 4 SCC 456 Paragraphs 13 and 19.	Arguments of Respondent
+As regards the concern expressed by the workers union of the corporate debtor (IIL), it is submitted that the workmen would get the highest priority in terms of Section 53 of the I B Code.	Arguments of Respondent
+Moreover, the fact that the liquidation process has been initiated in respect of the company does not mean that the possibility of sale of the company as a running concern has been completely ruled out.	Arguments of Respondent
+Thus, the interests of the workers engaged by the corporate debtor will be taken care of as per the statutory command.	Arguments of Respondent
+The sum and substance of the argument is that the adjudicating authority (NCLT) was justified in rejecting the applications filed by the Appellants and recorded the factum of rejection of the proposed resolution plan with the inevitable direction to initiate process for liquidation of the company Under Section 33 of the I B Code.	Arguments of Respondent
+In that view of the matter, no interference is warranted with the impugned decision of the NCLAT.	Arguments of Respondent
+Ms. Pragya Baghel, appearing for Indian Overseas Bank in the case of corporate debtor (KS PIPL), having voting share of 15.15 and being one of the dissenting financial creditors, would submit that the Appellant was disqualified to appeal and that his appeal before NCLAT was limited to the observation regarding the personal guarantee as noted by the NCLT.	Arguments of Respondent
+The fact remains that the resolution plan put to vote did not garner support of the requisite percentage of financial creditors to the extent of not less than 75 of the voting share.	Arguments of Respondent
+The provisions as couched in the I B Code do not permit computation of the voting share percentage by excluding the votes of financial creditors who had abstained.	Arguments of Respondent
+Whereas, there is express provision to the contrary, making it amply clear that the votes of the financial creditors who had abstained from voting must be computed along with the votes rejecting the resolution plan, as being dissenting financial creditors.	Arguments of Respondent
+Any other interpretation would result in rewriting Section 30(4) and the Regulations framed under the I B Code, if not doing violence to the legislative intent.	Arguments of Respondent
+She has placed reliance on the decisions of S.L. Srinivasa Jute Twine Mills (P) Ltd. v. Union of India and Anr.	Arguments of Respondent
+(2006) 2 SCC 740 .	Arguments of Respondent
+Paragraphs 1319 and Rajeev Chaudhary v. State (NCT) of Delhi (2001) 5 SCC 34 Paragraphs.	Arguments of Respondent
+3 and 4.	Arguments of Respondent
+As regards the argument of retrospective application of the amended provisions, in particular, reducing the voting share from 75 to 66, learned Counsel has placed reliance on the decision of this Court in Hitendra Vishnu Thakur and Ors.	Arguments of Respondent
+v. State of Maharashtra and Ors.	Arguments of Respondent
+(1994) 4 SCC 602 Paragraph 26.	Arguments of Respondent
+The Appellant and Respondents 13 58 in C.A. No. 10673 of 2018 and Appellant and Respondents 2 20 in C.A. No. 10719 of 2018 have filed written submissions through their counsels, elaborating the above points.	Arguments of Respondent
+Ms. Prabha Swami, appearing for the resolution applicant (Suyash Outsourcing Pvt. Ltd.), has submitted that the resolution plan was approved on certain conditions and the resolution applicant assures to abide by those conditions.	None
+Further, as per the liberty given to the resolution applicant, appropriate affidavit has now been filed to place that assurance on record.	None
+Ms. Mahima Singh, learned Counsel appearing for the Official Liquidator in the case of corporate debtor (IIL), had sought liberty to place on record certain subsequent developments which may have bearing on the concerned appeals.	None
+That affidavit dated 23rd November, 2018, has also been filed and is allowed to be taken on record.	None
+Having heard learned Counsel for the parties, the moot question is about the sequel of the approval of the resolution plan by the CoC of the respective corporate debtor, namely KS PIPL and IIL, by a vote of less than seventy five percent of voting share of the financial creditors and about the correctness of the view taken by the NCLAT that the percentage of voting share of the financial creditors specified in Section 30(4) of the I B Code is mandatory.	Issue
+Further, is it open to the adjudicating authority appellate authority to reckon any other factor (other than specified in Sections 30(2) or 61(3) of the I B Code as the case may be) which, according to the resolution applicant and the stakeholders supporting the resolution plan, may be relevant?	Issue
+This Court in its recent decisions has elaborately adverted to the legislative history and delineated the broad contours of the provisions of the I B Code.	None
+The latest being the case of Arcelormittal (supra) followed by B.K. Educational (supra) and Innoventive Industries Limited v. ICICI Bank and Anr.	None
+(2018) 1 SCC 407	None
+In the present case, however, our focus must be on the dispensation governing the process of approval or rejection of resolution plan by the CoC.	Reasoning
+The CoC is called upon to consider the resolution plan Under Section 30(4) of the I B Code after it is verified and vetted by the resolution professional as being compliant with all the statutory requirements specified in Section 30(2).	Reasoning
+The CoC is constituted as per Section 21 of the I B Code, which consists of financial creditors.	None
+The term financial creditor has been defined in Section 5(7) of the I B Code to mean any person to whom a financial debt is owed and includes a person to whom such debt has been legally assigned or transferred to.	Reasoning
+Be it noted that the process of insolvency resolution and liquidation concerning corporate debtors has been codified in Part II of the I B Code, comprising of seven Chapters.	Reasoning
+Chapter I predicates that Part II shall apply in matters relating to the insolvency and liquidation of corporate debtor where the minimum amount of default is	Reasoning
+Rs. 1,00,000/.	Reasoning
+Section 5 in Chapter I is a dictionary Clause specific to Part II of the Code.	Reasoning
+Chapter II deals with the gamut of procedure to be followed for the corporate insolvency resolution process.	Reasoning
+For dealing with the issue on hand, the provisions contained in Chapter II will be significant.	Reasoning
+From the scheme of the provisions, it is clear that the provisions in Part II of the Code are selfcontained code, providing for the procedure for consideration of the resolution plan by the CoC.	None
+The stage at which the dispute concerning the respective corporate debtors (KS PIPL and IIL) had reached the adjudicating authority (NCLT) is ascribable to Section 30(4) of the I B Code, which, at the relevant time in October 2017, read thus 30(4)The committee of creditors may approve a resolution plan by a vote of not less than seventy five per cent of voting share of the financial creditors.	None
+If the CoC had approved the resolution plan by requisite percent of voting share, then as per Section 30(6) of the I B Code, it is imperative for the resolution professional to submit the same to the adjudicating authority (NCLT).	None
+On receipt of such a proposal, the adjudicating authority (NCLT) is required to satisfy itself that the resolution plan as approved by CoC meets the requirements specified in Section 30(2).	None
+No more and no less.	Reasoning
+This is explicitly spelt out in Section 31 of the I B Code, which read thus (as in October 2017)	None
+Approval of resolution plan.(1) If the Adjudicating Authority is satisfied that the resolution plan as approved by the committee of creditors Under Subsection (4) of Section 30 meets the requirements as referred to in Subsection(2) of Section 30, it shall by order approve the resolution plan which shall be binding on the corporate debtor and its employees, members, creditors, guarantors and other stakeholders involved in the resolution plan.	None
+Where the Adjudicating Authority is satisfied that the resolution plan does not confirm to the requirements referred to in Subsection (1), it may, by an order, reject the resolution plan.	None
+After the order of approval Under Subsection (1), (a) the moratorium order passed by the Adjudicating Authority Under Section 14 shall cease to have effect and (b) the resolution professional shall forward all records relating to the conduct of the corporate insolvency resolution process and the resolution plan to the Board to be recorded on its database.	None
+We may also usefully refer to Section 30(2) as applicable at the relevant time.	None
+The same read thus Submission of resolution plan.	None
+(1) xxx xxx xxx (2)	None
+The resolution professional shall examine each resolution plan received by him to confirm that each resolution plan (a) provides for the payment of insolvency resolution process costs in a manner specified by the Board in priority to the repayment of other debts of the corporate debtor (b) provides for the repayment of the debts of operational creditors in such manner as may be specified by the Board which shall not be less than the amount to be paid to the operational creditors in the event of a liquidation of the corporate debtor Under Section 53 (c) provides for the management of the affairs of the Corporate debtor after approval of the resolution plan (d) the implementation and supervision of the resolution plan (e) does not contravene any of the provisions of the law for the time being in force (f) conforms to such other requirements as may be specified by the Board.	Reasoning
+xxx	None
+xxx xxx	None
+In Innoventive Industries Limited (supra), the Court, after analysing the historical background in which the Code was enacted, opined that one of the most important objectives of the Code was to bring the insolvency law in India under a single, unified umbrella with the object of speeding up the insolvency process.	None
+As regards the process regarding submission of resolution plan and, in particular, in reference to Section 30, the Court observed as follows Under Section 30, any person who is interested in putting the corporate body back on its feet may submit a resolution plan to the resolution professional, which is prepared on the basis of an information memorandum.	None
+This plan must provide for payment of insolvency resolution process costs, management of the affairs of the corporate debtor after approval of the plan, and implementation and supervision of the plan.	None
+It is only when such plan is approved by a vote of not less than 75 of the voting share of the financial creditors and the adjudicating authority is satisfied that the plan, as approved, meets the statutory requirements mentioned in Section 30, that it ultimately approves such plan, which is then binding on the corporate debtor as well as its employees, members, creditors, guarantors and other stakeholders.	None
+Importantly, and this is a major departure from previous legislation on the subject, the moment the adjudicating authority approves the resolution plan, the moratorium order passed by the authority Under Section 14 shall cease to have effect.	None
+The scheme of the Code, therefore, is to make an attempt, by divesting the erstwhile management of its powers and vesting it in a professional agency, to continue the business of the corporate body as a going concern until a resolution plan is drawn up, in which event the management is handed over under the plan so that the corporate body is able to pay back its debts and get back on its feet.	None
+All this is to be done within a period of 6 months with a maximum extension of another 90 days or else the chopper comes down and the liquidation process begins.	None
+(Emphasis supplied)	None
+The Court, however, was not called upon to deal with the specific issue that is being considered in the present cases namely, the scope of judicial review by the adjudicatory authority in relation to the opinion expressed by the CoC on the proposal for approval of the resolution plan.	None
+In Arcelormittal (supra), the Court adverted to the timelines specified in the Code and the consequences thereof in paragraphs 73 and 74, which read thus The time limit for completion of the insolvency resolution process is laid down in Section 12.	None
+A period of 180 days from the date of admission of the application is given by Section 12(1).	None
+This is extendable by a maximum period of 90 days only if the Committee of Creditors, by a vote of 66, votes to extend the said period, and only if the Adjudicating Authority is satisfied that such process cannot be completed within 180 days.	None
+The authority may then, by order, extend the duration of such process by a maximum period of 90 days (see Sections 12(2) and 12(3)).	None
+What is also of importance is the proviso to Section 12(3) which states that any extension of the period Under Section 12 cannot be granted more than once.	None
+This has to be read with the third proviso to Section 30(4), which states that the maximum period of 30 days mentioned in the second proviso is allowable as the only exception to the extension of the aforesaid period not being granted more than once.	None
+What is important to note is that a consequence is provided, in the event that the said period ends either without receipt of a resolution plan or after rejection of a resolution plan Under Section 31.	None
+This consequence is provided by Section 33, which makes it clear that when either of these two contingencies occurs, the corporate debtor is required to be liquidated in the manner laid down in Chapter III.	None
+Section 12, construed in the light of the object sought to be achieved by the Code, and in the light of the consequence provided by Section 33, therefore, makes it clear that the periods previously mentioned are mandatory and cannot be extended.	None
+(Emphasis supplied)	None
+And again, while dealing with the purport of Sections 30, 33 and 61 in paragraph 76, it is observed thus 76.	None
+Section 30 is an important provision in that a resolution applicant may submit a resolution plan to the Resolution Professional, who is then to examine the said plan to see that it conforms to the requirements of Section 30(2).	None
+Once this plan conforms to such requirements, the plan is then to be presented to the Committee of Creditors for its approval Under Section 30(3).	None
+This can then be approved by the Committee of Creditors by a vote of not less than 66 Under Subsection (4).	None
+What is important to note is that the Committee of Creditors shall not approve a resolution plan where the resolution applicant is ineligible Under Section 29A, and may require the Resolution Professional to invite a fresh resolution plan where no other resolution plan is available.	None
+Once approved by the Committee of Creditors, the resolution plan is to be submitted to the Adjudicating Authority Under Section 31 of the Code.	None
+It is at this stage that a judicial mind is applied by the Adjudicating Authority to the resolution plan so submitted, who then, after being satisfied that the plan meets (or does not meet) the requirements mentioned in Section 30, may either approve or reject such plan.	None
+An appeal from an order approving such plan is only on the limited grounds laid down in Section 61(3).	None
+However, an appeal from an order rejecting a resolution plan would also lie Under Section 61.	None
+As has been stated hereinbefore, the liquidation process gets initiated Under Section 33 if, (1) either no resolution plan is submitted within the time specified Under Section 12, or a resolution plan has been rejected by the Adjudicating Authority (2) where the Resolution Professional, before confirmation of the resolution plan, intimates the Adjudicating Authority of the decision of the Committee of Creditors to liquidate the corporate debtor or (3) where the resolution plan approved by the Adjudicating Authority is contravened by the concerned corporate debtor.	None
+Any person other than the corporate debtor whose interests are prejudicially affected by such contravention may apply to the Adjudicating Authority, who may then pass a liquidation order on such application.	None
+(Emphasis supplied) Notably, the resolution plan concerning both the corporate debtors, namely KS PIPL and IIL was considered by the concerned CoC in October 2017, and was approved by less than 75 of voting share of the financial creditors.	Reasoning
+The inevitable consequences thereof are to treat the proposed resolution plan as disapproved or deemed to be rejected by the dissenting financial creditors.	None
+The expression dissenting financial creditors, is defined in Regulation 2(1)(f) of The Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016, to mean the financial creditors who voted against the resolution plan approved by the Committee.	None
+This definition came to be amended subsequently w.e.f. 01.01.2018 to mean the financial creditors who voted against the resolution plan or abstained from voting for the resolution plan, approved by the Committee.	None
+Admittedly, in the case of the corporate debtor KS PIPL, the resolution plan, when it was put to vote in the meeting of CoC held on 27th October, 2017, could garner approval of only 55.73 of voting share of the financial creditors and even if the subsequent approval accorded by email (by 10.94) is taken into account, it did not fulfill the requisite vote of not less than 75 of voting share of the financial creditors.	None
+On the other hand, the resolution plan was expressly rejected by 15.15 in the CoC meeting and later additionally by 11.82 by email.	None
+Thus, the resolution plan was expressly rejected by not less than 25 of voting share of the financial creditors.	None
+In such a case, the resolution professional was under no obligation to submit the resolution plan Under Section 30(6) of the I B Code to the adjudicating authority.	None
+Instead, it was a case to be proceeded by the adjudicating authority Under Section 33(1) of the I B Code.	None
+Similarly, in the case of corporate debtor IIL, the resolution plan received approval of only 66.57 of voting share of the financial creditors and 33.43 voted against the resolution plan.	None
+This being the indisputable position, NCLAT opined that the resolution plan was deemed to be rejected by the CoC and the concomitant is to initiate liquidation process concerning the two corporate debtors.	None
+According to the resolution applicant and the stakeholders supporting the concerned resolution plan in respect of the two corporate debtors, the stipulation in Section 30(4) of the I B Code as applicable at the relevant time in October 2017 is only directory and not mandatory.	Reasoning
+This argument is founded on the expression may occurring in Section 30(4) of the I B Code.	Reasoning
+This argument does not commend to us.	Reasoning
+In that, the word may is ascribable to the discretion of the CoCto approve the resolution plan or not to approve the same.	Reasoning
+What is significant is the second part of the said provision, which stipulates the requisite threshold of not less than seventy five percent of voting share of the financial creditors to treat the resolution plan as duly approved by the CoC. That stipulation is the quintessence and made mandatory for approval of the resolution plan.	Reasoning
+Any other interpretation would result in rewriting of the provision and doing violence to the legislative intent.	Reasoning
+It was then contended that the amendment vide Insolvency and Bankruptcy Code Amendment Act, 2018 (Act No. 8 of 2018, dated 18th January, 2018) w.e.f. 23rd	Reasoning
+November, 2017 was to substitute the amended provision, which means that the amended provision stood incorporated as Section 30(4) from the commencement of I B Code.	Reasoning
+This argument will be dealt with a little later while considering the effect of the amended provisions.	Reasoning
+For the present, we are adverting to the provisions in the I B Code and the Regulations framed there under, as were in force in October 2017, when the CoC of the concerned corporate debtor was called upon to consider the proposed resolution plan.	None
+We may now take note of the provisions in the 2016 Regulations framed under the I B Code.	None
+ChapterVI of the Regulations deals with general meetings of the committee.	None
+ChapterVII with matters relating to voting by the committee.	None
+ChapterVIII with the conduct of corporate insolvency resolution process and ChapterX with the resolution plan.	None
+As the issue under consideration is about the conduct of meeting of CoC for considering the proposed insolvency resolution plan, we may usefully refer to the dispensation delineated in ChapterVI and VII, in particular.	None
+Regulation 18 is about the meetings of the committee to be convened by the resolution professional when he considers necessary or upon the requisition given by the members of the committee, representing 33 of the voting rights.	None
+Regulation 19 is about the notice period for convening such a meeting and Regulation 20 is about the service of notice by electronic means.	None
+Regulation 21 is about the contents of the notice for meeting.	None
+Regulation 22 provides for the quorum at the meeting and Regulation 23 recognises participation of the members of committee through video conferencing and other audio visual means, as specified therein.	None
+In other words, the members of the committee need not participate during voting propria persona or in person but can do so through video conferencing or other audio or visual means.	None
+The conduct of meeting is governed by Regulation 24 and the method and procedure for voting during such meeting is predicated in Regulation 25 and 26.	None
+Regulation 25 is about voting by the members of the committee present in the meeting and Regulation 26 is about the voting by either electronic means or through electronic voting system.	None
+Be it noted, these provisions are regarding the conduct of meetings of the committee generally and including about the method of voting during such meetings.	None
+The specific provision regarding approval of a resolution plan can be traced to Regulation 39.	None
+Regulation 39, as it was in force at the relevant time in October 2017, read thus Approval of resolution plan.(1)	None
+A resolution applicant shall endeavour to submit a resolution plan prepared in accordance with the Code and these Regulations to the resolution professional, thirty days before expiry of the maximum period permitted Under Section 12 for the completion of the corporate insolvency resolution process.	None
+The resolution professional shall present all resolution plans that meet the requirements of the Code and these Regulations to the committee for its consideration.	None
+The committee may approve any resolution plan with such modifications as it deems fit.	None
+The resolution professional shall submit the resolution plan approved by the committee to the Adjudicating Authority with the certification that (a) the contents of the resolution plan meet all the requirements of the Code and the Regulations and (b) the resolution plan has been approved by the committee.	None
+The resolution professional shall forthwith send a copy of the order of the Adjudicating Authority approving or rejecting a resolution plan to the participants and the resolution applicant.	None
+A provision in a resolution plan which would otherwise require the consent of the members or partners of the corporate debtor, as the case may be, under the terms of the constitutional documents of the corporate debtor, shareholders agreement, joint venture agreement or other document of a similar nature, shall take effect notwithstanding that such consent has not been obtained.	None
+No proceedings shall be initiated against the interim resolution professional or the resolution professional, as the case may be, for any actions of the corporate debtor, prior to the insolvency commencement date.	None
+A person in charge of the management or control of the business and operations of the corporate debtor after a resolution plan is approved by the Adjudicating Authority, may make an application to the Adjudicating Authority for an order seeking the assistance of the local district administration in implementing the terms of a resolution plan.	None
+On a conjoint reading of these provisions it is amply clear that the stipulation is to reckon the percent of voting share of the financial creditors, for the purposes of determining as to whether the proposed resolution plan has been approved by the CoC or otherwise.	None
+When it comes to the method of voting and for determining the outcome of voting with regard to other subjects (other than the approval of the resolution plan), discussed in the meeting of the CoC, the same is governed by Regulation 25 as applicable in October 2017.	Reasoning
+The same read thus Voting by the committee.(1) the actions listed in Section 28(1) shall be considered in meetings of the committee.	None
+Any action other than those listed in Section 28(1) requiring approval of the committee may be considered in meetings of the committee.	None
+Where all members are present in a meeting, the resolution professional shall take a vote of the members of the committee on any item listed for voting after discussion on the same.	None
+At the conclusion of a vote at the meeting, the resolution professional shall announce the decision taken on items along with the names of the members of the committee who voted for or against the decision, or abstained from voting.	None
+If all members are not present at a meeting, a vote shall not be taken at such meeting and the resolution professional shall (a) circulate the minutes of the meeting by electronic means to all members of the committee within fortyeight hours of the conclusion of the meeting and (b) seek a vote on the matters listed for voting in the meeting, by electronic voting system where the voting shall be kept open for twenty four hours from the circulation of the minutes.	None
+(Emphasis supplied) Concededly, Regulations 25 and 39 must be read in light of Section 30(4) of the I B Code, concerning the process of approval of a resolution plan.	None
+For that, the percent of voting share of the financial creditors approving visavis dissentingis required to be reckoned.	Reasoning
+It is not on the basis of members present and voting as such.	Reasoning
+At any rate, the approving votes must fulfill the threshold percent of voting share of the financial creditors.	Reasoning
+Keeping this clear distinction in mind, it must follow that the resolution plan concerning the respective corporate debtors, namely, KS PIPL and IIL, is deemed to have been rejected as it had failed to muster the approval of requisite threshold votes, of not less than 75 of voting share of the financial creditors.	Reasoning
+It is not possible to countenance any other construction or interpretation, which may run contrary to what has been noted herein before.	Reasoning
+Thus understood, no fault can be found with the NCLAT for having recorded the fact that the proposed resolution plan in respect of both the corporate debtors was approved by vote of less than 75 of voting share of the financial creditors or deemed to have been rejected.	Reasoning
+In that event, the inevitable corollary is to initiate liquidation process relating to the concerned corporate debtor, as per Section 33 of the I B Code.	Reasoning
+Indeed, in terms of Section 31 of the I B Code, the adjudicating authority (NCLT) is expected to deal with two situations.	Reasoning
+The first is when it does not receive a resolution plan Under Subsection (6) of Section 30 or when the resolution plan has been rejected by the resolution professional for noncompliance of Section 30(2) of the I B Code or also when the resolution plan fails to garner approval of not less than seventy five percent of voting share of the financial creditors, as the case may be and there is no alternate plan mooted before the expiry of the statutory period.	Reasoning
+The second is when a resolution plan duly approved by the CoC by not less than 75 of voting share of the financial creditors is submitted before it by the resolution professional Under Section 30(6) of the Code, for its approval.	Reasoning
+In the present case, we are concerned with a situation where in both the resolution processes under consideration, the resolution plan failed to garner support of not less than 75 of voting share of the financial creditors.	Reasoning
+That is the first category referred to above.	Reasoning
+In such a situation, the adjudicating authority can have no other option but to initiate liquidation process in terms of Section 33 (1) of the I B Code.	Reasoning
+Section 33 of the I B Code as applicable at the relevant time in October 2017, read thus Initiation of liquidation.(1) Where the Adjudicating Authority, (a) before the expiry of the insolvency resolution process period or the maximum period permitted for completion of the corporate insolvency resolution process Under Section 12 or the fast track corporate insolvency resolution process Under Section 56, as the case may be, does not receive a resolution plan Under Subsection (6) of Section 30 or (b) rejects the resolution plan Under Section 31 for the noncompliance of the requirements specified therein, It shall pass an order requiring the corporate debtor to be liquidated in the manner as laid down in this Chapter issue a public announcement stating that the corporate debtor is in liquidation and require such order to be sent to the authority with which the corporate debtor is registered.	None
+Where the resolution professional, at any time during the corporate insolvency resolution process but before confirmation of resolution plan, intimates the Adjudicating Authority of the decision of the committee of creditors to liquidate the corporate debtor, the Adjudicating Authority shall pass a liquidation order as referred to in Subclauses (i) (ii) and (iii) of Clause (b) of Subsection (1).	None
+Where the resolution plan approved by the Adjudicating Authority is contravened by the concerned corporate debtor, any person other than the corporate debtor, whose interests are prejudicially affected by such contravention, may make an application to the Adjudicating Authority for a liquidation order as referred to in Subclauses (i), (ii) and (iii) of Clause (b) of Subsection (1).	None
+On receipt of an application Under Subsection (3), if the Adjudicating Authority determines that the corporate debtor has contravened the provisions of the resolution plan, it shall pass a liquidation order as referred to in Subclauses (i), (ii) and (iii) of Clause (b) of Subsection (1).	None
+Subject to Section 52, when a liquidation order has been passed, no suit or other legal proceeding shall be instituted by or against the corporate debtor Provided that a suit or other legal proceeding may be instituted by the liquidator, on behalf of the corporate debtor, with the prior approval of the Adjudicating Authority.	None
+The provisions of Subsection (5) shall not apply to legal proceedings in relation to such transactions as may be notified by the Central Government in consultation with any financial sector regulator.	None
+The order for liquidation under this Section shall be deemed to be a notice of discharge to the officers, employees and workmen of the corporate debtor, except when the business of the corporate debtor is continued during the liquidation process by the liquidator.	None
+As aforesaid, upon receipt of a rejected resolution plan the adjudicating authority (NCLT) is not expected to do anything more but is obligated to initiate liquidation process Under Section 33(1) of the I B Code.	Reasoning
+The legislature has not endowed the adjudicating authority (NCLT) with the jurisdiction or authority to analyse or evaluate the commercial decision of the CoC much less to enquire into the justness of the rejection of the resolution plan by the dissenting financial creditors.	Reasoning
+From the legislative history and the background in which the I B Code has been enacted, it is noticed that a completely new approach has been adopted for speeding up the recovery of the debt due from the defaulting companies.	Reasoning
+In the new approach, there is a calm period followed by a swift resolution process to be completed within 270 days (outer limit) failing which, initiation of liquidation process has been made inevitable and mandatory.	Reasoning
+In the earlier regime, the corporate debtor could indefinitely continue to enjoy the protection given Under Section 22 of Sick Industrial Companies Act, 1985 or under other such enactments which has now been forsaken.	Reasoning
+Besides, the commercial wisdom of the CoC has been given paramount status without any judicial intervention, for ensuring completion of the stated processes within the timelines prescribed by the I B Code.	Reasoning
+There is an intrinsic assumption that financial creditors are fully informed about the viability of the corporate debtor and feasibility of the proposed resolution plan.	Reasoning
+They act on the basis of thorough examination of the proposed resolution plan and assessment made by their team of experts.	Reasoning
+The opinion on the subject matter expressed by them after due deliberations in the CoC meetings through voting, as per voting shares, is a collective business decision.	Reasoning
+The legislature, consciously, has not provided any ground to challenge the commercial wisdom of the individual financial creditors or their collective decision before the adjudicating authority.	Reasoning
+That is made nonjusticiable.	Reasoning
+In the report of the Bankruptcy Law Reforms Committee of November 2015, primacy has been given to the CoC to evaluate the various possibilities and make a decision.	None
+It has been observed thus The key economic question in the bankruptcy process When a firm (referred to as the corporate debtor in the draft law) defaults, the question arises about what is to be done.	None
+Many possibilities can be envisioned.	None
+One possibility is to take the firm into liquidation.	None
+Another possibility is to negotiate a debt restructuring, where the creditors accept a reduction of debt on an NPV basis, and hope that the negotiated value exceeds the liquidation value.	None
+Another possibility is to sell the firm as a going concern and use the proceeds to pay creditors.	None
+Many hybrid structures of these broad categories can be envisioned.	None
+The Committee believes that there is only one correct forum for evaluating such possibilities, and making a decision a creditors committee, where all financial creditors have votes in proportion to the magnitude of debt that they hold.	None
+In the past, laws in India have brought arms of the Government (legislature, executive or judiciary) into this question.	None
+This has been strictly avoided by the Committee.	None
+The appropriate disposition of a defaulting firm is a business decision, and only the creditors should make it.	None
+(Emphasis supplied)	None
+The report also highlights that having timelines is the essence of the resolution process.	None
+It then refers to the principles driving the design of the new insolvency bankruptcy resolution frame work.	None
+While dealing with this aspect, it is noted that the Code would facilitate the assessment of the viability of the enterprise at a very early stage.	None
+The relevant extract of the report reads thus Principles driving the design The Committee chose the following principles to design the new insolvency and bankruptcy resolution framework The Code will facilitate the assessment of viability of the enterprise at a very early stage.	None
+The law must explicitly state that the viability of the enterprise is a matter of business, and that matters of business can only be negotiated between creditors and debtor.	None
+While viability is assessed as a negotiation between creditors and debtor, the final decision has to be an agreement among creditors who are the financiers willing to bear the loss in the insolvency.	None
+The legislature and the courts must control the process of resolution, but not be burdened to make business decisions.	None
+The law must set up a calm period for insolvency resolution where the debtor can negotiate in the assessment of viability without fear of debt recovery enforcement by creditors.	None
+The law must appoint a resolution professional as the manager of the resolution period, so that the creditors can negotiate the assessment of viability with the confidence that the debtors will not take any action to erode the value of the enterprise.	None
+The professional will have the power and responsibility to monitor and manage the operations and assets of the enterprise.	None
+The professional will manage the resolution process of negotiation to ensure balance of power between the creditors and debtor, and protect the rights of all creditors.	None
+The professional will ensure the reduction of asymmetry of information between creditors and debtor in the resolution process.	None
+IV.	None
+The Code will ensure a collective process.	None
+The law must ensure that all key stakeholders will participate to collectively assess viability.	None
+The law must ensure that all creditors who have the capability and the willingness to restructure their liabilities must be part of the negotiation process.	None
+The liabilities of all creditors who are not part of the negotiation process must also be met in any negotiated solution.	None
+The Code will respect the rights of all creditors equally.	None
+The law must be impartial to the type of creditor in counting their weight in the vote on the final solution in resolving insolvency.	None
+VI.	None
+The Code must ensure that, when the negotiations fail to establish viability, the outcome of bankruptcy must be binding.	None
+The law must order the liquidation of an enterprise which has been found unviable.	None
+This outcome of the negotiations should be protected against all appeals other than for very exceptional cases.	None
+(Emphasis supplied)	None
+Whereas, the discretion of the adjudicating authority (NCLT) is circumscribed by Section 31 limited to scrutiny of the resolution plan as approved by the requisite percent of voting share of financial creditors.	Reasoning
+Even in that enquiry, the grounds on which the adjudicating authority can reject the resolution plan is in reference to matters specified in Section 30(2), when the resolution plan does not conform to the stated requirements.	Reasoning
+Reverting to Section 30(2), the enquiry to be done is in respect of whether the resolution plan provides (i) the payment of insolvency resolution process costs in a specified manner in priority to the repayment of other debts of the corporate debtor, (ii) the repayment of the debts of operational creditors in prescribed manner, (iii) the management of the affairs of the corporate debtor, (iv) the implementation and supervision of the resolution plan, (v) does not contravene any of the provisions of the law for the time being in force, (vi) conforms to such other requirements as may be specified by the Board.	Reasoning
+The Board referred to is established Under Section 188 of the I B Code.	Reasoning
+The powers and functions of the Board have been delineated in Section 196 of the I B Code.	Reasoning
+None of the specified functions of the Board, directly or indirectly, pertain to regulating the manner in which the financial creditors ought to or ought not to exercise their commercial wisdom during the voting on the resolution plan Under Section 30(4) of the I B Code.	Reasoning
+The subjective satisfaction of the financial creditors at the time of voting is bound to be a mixed baggage of variety of factors.	Reasoning
+To wit, the feasibility and viability of the proposed resolution plan and including their perceptions about the general capability of the resolution applicant to translate the projected plan into a reality.	Reasoning
+The resolution applicant may have given projections backed by normative data but still in the opinion of the dissenting financial creditors, it would not be free from being speculative.	Reasoning
+These aspects are completely within the domain of the financial creditors who are called upon to vote on the resolution plan Under Section 30(4) of the I B Code.	Reasoning
+For the same reason, even the jurisdiction of the NCLAT being in continuation of the proceedings would be circumscribed in that regard and more particularly on account of Section 32 of the I B Code, which envisages that any appeal from an order approving the resolution plan shall be in the manner and on the grounds specified in Section 61(3) of the I B Code.	Reasoning
+Section 61(3) of the I B Code reads thus Appeals and Appellate Authority.(1)	None
+Notwithstanding anything to the contrary contained under the Companies Act, 2013 (18 of 2013), any person aggrieved by the order of the Adjudicating Authority under this part may prefer an appeal to the National Company Law Appellate Tribunal.	None
+(2) xxx	None
+xxx	None
+xxx	None
+An appeal against an order approving a resolution plan Under Section 31 may be filed on the following grounds, namely the approved resolution plan is in contravention of the provisions of any law for the time being in force there has been material irregularity in exercise of the powers by the resolution professional during the corporate insolvency resolution period the debts owed to operational creditors of the corporate debtor have not been provided for in the resolution plan in the manner specified by the Board the insolvency resolution process costs have not been provided for repayment in priority to all other debts or the resolution plan does not comply with any other criteria specified by the Board.	None
+xxx xxx xxx.	None
+On a bare reading of the provisions of the I B Code, it would appear that the remedy of appeal Under Section 61(1) is against an order passed by the adjudicating authority (NCLT)  which we will assume may also pertain to recording of the fact that the proposed resolution plan has been rejected or not approved by a vote of not less than 75 of voting share of the financial creditors.	Reasoning
+Indubitably, the remedy of appeal including the width of jurisdiction of the appellate authority and the grounds of appeal, is a creature of statute.	Reasoning
+The provisions investing jurisdiction and authority in the NCLT or NCLAT as noticed earlier, has not made the commercial decision exercised by the CoC of not approving the resolution plan or rejecting the same, justiciable.	Reasoning
+This position is reinforced from the limited grounds specified for instituting an appeal that too against an order approving a resolution plan Under Section 31.	Reasoning
+First, that the approved resolution plan is in contravention of the provisions of any law for the time being in force.	Reasoning
+Second, there has been material irregularity in exercise of powers by the resolution professional during the corporate insolvency resolution period.	Reasoning
+Third, the debts owed to operational creditors have not been provided for in the resolution plan in the prescribed manner.	Reasoning
+Fourth, the insolvency resolution plan costs have not been provided for repayment in priority to all other debts.	Reasoning
+Fifth, the resolution plan does not comply with any other criteria specified by the Board.	Reasoning
+Significantly, the matters or groundsbe it Under Section 30(2) or Under Section 61(3) of the I B Codeare regarding testing the validity of the approved resolution plan by the CoC and not for approving the resolution plan which has been disapproved or deemed to have been rejected by the CoC in exercise of its business decision.	Reasoning
+Indubitably, the inquiry in such an appeal would be limited to the power exercisable by the resolution professional Under Section 30(2) of the I B Code or, at best, by the adjudicating authority (NCLT) Under Section 31(2) read with 31(1) of the I B Code.	Reasoning
+No other inquiry would be permissible.	Reasoning
+Further, the jurisdiction bestowed upon the appellate authority (NCLAT) is also expressly circumscribed.	Reasoning
+It can examine the challenge only in relation to the grounds specified in Section 61(3) of the I B Code, which is limited to matters other than enquiry into the autonomy or commercial wisdom of the dissenting financial creditors.	Reasoning
+Thus, the prescribed authorities (NCLT NCLAT) have been endowed with limited jurisdiction as specified in the I B Code and not to act as a court of equity or exercise plenary powers.	Reasoning
+In our view, neither the adjudicating authority (NCLT) nor the appellate authority (NCLAT) has been endowed with the jurisdiction to reverse the commercial wisdom of the dissenting financial creditors and that too on the specious ground that it is only an opinion of the minority financial creditors.	Reasoning
+The fact that substantial or majority percent of financial creditors have accorded approval to the resolution plan would be of no avail, unless the approval is by a vote of not less than 75 (after amendment of 2018 w.e.f. 06.06.2018, 66) of voting share of the financial creditors.	Reasoning
+To put it differently, the action of liquidation process postulated in ChapterIII of the I B Code, is avoidable, only if approval of the resolution plan is by a vote of not less than 75 (as in October, 2017) of voting share of the financial creditors.	Reasoning
+Conversely, the legislative intent is to uphold the opinion or hypothesis of the minority dissenting financial creditors.	Reasoning
+That must prevail, if it is not less than the specified percent (25 in October, 2017 and now after the amendment w.e.f. 06.06.2018, 44).	Reasoning
+The inevitable outcome of voting by not less than requisite percent of voting share of financial creditors to disapprove the proposed resolution plan, de jure, entails in its deemed rejection.	Reasoning
+Notably, the threshold of voting share of the dissenting financial creditors for rejecting the resolution plan is way below the simple majority mark, namely not less than 25 (and even after amendment w.e.f. 06.06.2018, 44).	Reasoning
+Thus, the scrutiny of the resolution plan is required to pass through the litmus test of not less than requisite (75 or 66 as may be applicable) of voting sharea strict regime.	Reasoning
+That means the resolution plan must appear, to not less than requisite voting share of the financial creditors, to be an overall credible plan, capable of achieving timelines specified in the Code generally, assuring successful revival of the corporate debtor and disavowing endless speculation.	Reasoning
+The counsel appearing for the resolution applicant and the stakeholders supporting the resolution plan of the concerned corporate debtor, were at pains to persuade us to take a view that voting by the dissenting financial creditors suffers from the vice of being unreasonable, irrational, unintelligible and an abuse of exercise of power.	Reasoning
+The power bestowed on the financial creditors to cast their vote Under Section 30(4) is coupled with a duty to exercise that power with utmost care, caution and reason, keeping in mind the legislative intent and the spirit of the I B Codefullest attempt should be made to revive the corporate debtors and not to mechanically shove them to the brink of liquidation process, which has the inevitable impact on larger public interests and the stakeholders in particular, including workers associated with the company.	Reasoning
+The argument, though attractive at the first blush, but if accepted, would require us to rewrite the provisions of the I B Code.	Reasoning
+It would also result in doing violence to the legislative intent of having consciously not stipulated that as a groundto challenge the commercial wisdom of the minority (dissenting) financial creditors.	Reasoning
+Concededly, the process of resolution plan is necessitated in respect of corporate debtors in whom their financial creditors have lost hope of recovery and who have turned into nonperformer or a chronic defaulter.	Reasoning
+The fact that the concerned corporate debtor was still able to carry on its business activities does not obligate the financial creditors to postpone the recovery of the debt due or to prolong their losses indefinitely.	Reasoning
+Be that as it may, the scope of enquiry and the grounds on which the decision of approval of the resolution plan by the CoC can be interfered with by the adjudicating authority (NCLT), has been set out in Section 31(1) read with Section 30(2) and by the appellate tribunal (NCLAT) Under Section 32 read with Section 61(3) of the I B Code.	Reasoning
+No corresponding provision has been envisaged by the legislature to empower the resolution professional, the adjudicating authority (NCLT) or for that matter the appellate authority (NCLAT), to reverse the commercial decision of the CoC much less of the dissenting financial creditors for not supporting the proposed resolution plan.	Reasoning
+Whereas, from the legislative history there is contra indication that the commercial or business decisions of the financial creditors are not open to any judicial review by the adjudicating authority or the appellate authority.	Reasoning
+It was argued that the dissenting financial creditors have not assigned any reason for recording their dissent and therefore, their action is vitiated.	Reasoning
+As per the provisions applicable at the relevant time in October 2017, there was no requirement of recording reasons for the dissent.	Reasoning
+That requirement has been introduced by an amendment to the Regulations effected in 2018 w.e.f.	Reasoning
+4th July, 2018.	Reasoning
+Whether that amendment is prospective or has retrospective effect is a matter which will be considered a little later.	Reasoning
+Suffice it to observe that in the I B Code and the Regulations framed thereunder as applicable in October 2017, there was no need for the dissenting financial creditors to record reasons for disapproving or rejecting a resolution plan.	Reasoning
+Further, as aforementioned, there is no provision in the I B Code which empowers the adjudicating authority (NCLT) to oversee the justness of the approach of the dissenting financial creditors in rejecting the proposed resolution plan or to engage in judicial review thereof.	Reasoning
+Concededly, the inquiry by the resolution professional precedes the consideration of the resolution plan by the CoC.	Reasoning
+The resolution professional is not required to express his opinion on matters within the domain of the financial creditor(s), to approve or reject the resolution plan, Under Section 30(4) of the I B Code.	Reasoning
+At best, the Adjudicating Authority (NCLT) may cause an enquiry into the approved resolution plan on limited grounds referred to in Section 30(2) read with Section 31(1) of the I B Code.	Reasoning
+It cannot make any other inquiry nor is competent to issue any direction in relation to the exercise of commercial wisdom of the financial creditorsbe it for approving, rejecting or abstaining, as the case may be.	Reasoning
+Even the inquiry before the Appellate Authority (NCLAT) is limited to the grounds Under Section 61(3) of the I B Code.	Reasoning
+It does not postulate jurisdiction to undertake scrutiny of the justness of the opinion expressed by financial creditors at the time of voting.	Reasoning
+To take any other view would enable even the minority dissenting financial creditors to question the logic or justness of the commercial opinion expressed by the majority of the financial creditors albeit by requisite percent of voting share to approve the resolution plan and in the process authorize the adjudicating authority to reject the approved resolution plan upon accepting such a challenge.	Reasoning
+That is not the scope of jurisdiction vested in the adjudicating authority Under Section 31 of the I B Code dealing with approval of the resolution plan.	Reasoning
+To put it differently, since none of the grounds available Under Section 30(2) or Section 61(3) of the I B Code are attracted in the fact situation of the present case, the Adjudicating Authority (NCLT) as well as the Appellate Authority (NCLAT) had no other option but to record that the proposed resolution plan concerning the respective corporate debtor (KS PIPL and IIL) stood rejected.	Reasoning
+Further, as no alternative resolution plan was approved by the requisite percent of voting share of the financial creditors before the expiry of the statutory period of 270 days, the inevitable sequel is to pass an order directing initiation of liquidation process against the concerned corporate debtor in the manner specified in Chapter III of the I B Code.	Reasoning
+Realising this position, the resolution applicant and the stakeholders supporting the proposed resolution plan of the concerned corporate debtors, would contend that the NCLAT has failed to give effect to the amended provisions which came into effect from 23rd day of November, 2017 and the second amendment from 6th June, 2018 to Section 30(4) of the I B Code in particular.	Arguments of Petitioner
+According to them, the said amendment ought to be given retrospective effect and in any case, being retroactive in nature, ought to govern the proceedings before the NCLAT where the appeal was pending for consideration.	Arguments of Petitioner
+For considering this submission, we may advert to the Insolvency and Bankruptcy Code (Amendment) Act, 2017 (No. 8 of 2018) which is deemed to have come into force on the 23rd day of November, 2017.	None
+Section 6 of this Act purports to substitute Section 30(4) of the principal Act.	None
+The amended Subsection (4) reads thus In Section 30 of the principal Act, for Subsection (4), the following Subsection shall be substituted, namely The committee of creditors may approve a resolution plan by a vote of not less than seventyfive per cent of voting share of the financial creditors, after considering its feasibility and viability, and such other requirements as may be specified by the Board	None
+Provided that the committee of creditors shall not approve a resolution plan, submitted before the commencement of the Insolvency and Bankruptcy Code (Amendment) Ordinance, 2017, where the resolution applicant is ineligible Under Section 29A and may require the resolution professional to invite a fresh resolution plan where no other resolution plan is available with it Provided further that where the resolution applicant referred to in the first proviso is ineligible under Clause (c) of Section 29A, the resolution applicant shall be allowed by the committee of creditors such period, not exceeding thirty days, to make payment of overdue amounts in accordance with the proviso to Clause (c) of Section 29A Provided also that nothing in the second proviso shall be construed as extension of period for the purposes of the proviso to Subsection (3) of Section 12, and the corporate insolvency resolution process shall be completed within the period specified in that Subsection.	None
+The change brought about by this amendment is insertion of words after considering its feasibility and viability, and such other requirements as may be specified by the Board.	None
+In addition, three provisos have been added to Subsection (4).	None
+For considering the issue on hand, the three provisos are not relevant.	None
+As regards the insertion of the above quoted words in Subsection (4), that does not alter the requirement regarding approval of a resolution plan, by a vote of not less than 75 of voting share of the financial creditors.	None
+The amendment is only to declare that the financial creditors ought to consider the feasibility and viability and such other requirements as may be specified by the Board, while exercising their option on the resolution planto approve or not to approve the same.	None
+It is rudimentary that the financial creditors (in most cases are national Bankers), who are called upon to consider the proposed resolution plan would take into account all the relevant materials, including the feasibility and viability and such other requirements as may be specified by the Board.	None
+Additionally, the financial creditors are also required to bear in mind that the legislative intent is to bring about resolution and revival of the corporate debtors so as to benefit not only the corporate debtor but also other stakeholders in equal measure.	None
+Suffice it to observe that the amended provision merely restates as to what the financial creditors are expected to bear in mind whilst expressing their choice during consideration of the proposal for approval of a resolution plan.	Reasoning
+No more and no less.	Reasoning
+Indubitably, the legislature has consciously not provided for a ground to challenge the justness of the commercial decision expressed by the financial creditors  be it to approve or reject the resolution plan.	Reasoning
+The opinion so expressed by voting is nonjusticiable.	Reasoning
+Further, in the present cases, there is nothing to indicate as to which other requirements specified by the Board at the relevant time have not been fulfilled by the dissenting financial creditors.	Reasoning
+As noted earlier, the Board established Under Section 188 of the I B Code can perform powers and functions specified in Section 196 of the I B Code.	Reasoning
+That does not empower the Board to specify requirements for exercising commercial decisions by the financial creditors in the matters of approval of the resolution plan or liquidation process.	Reasoning
+Viewed thus, the amendment under consideration does not take the matter any further.	Reasoning
+We may not be understood to have expressed any opinion either way about the effect of the three provisos introduced by the same amendment to Section 30(4)  as to whether it would have retrospective or retroactive effect.	Reasoning
+That question does not arise for consideration in these appeals.	Reasoning
+Our discussion is restricted to the efficacy of the amendment to main provision viz., Section 30(4), whereby the above quoted words (after considering feasibility and viability, and such other requirements as may be specified by the Board) have been inserted.	Reasoning
+The learned Counsel for the resolution applicant and other stakeholders supporting the resolution plan of the concerned creditors, next relied upon the amendment to Section 30(4) which has come into force w.e.f.	Reasoning
+6th day of June, 2018 vide the Insolvency and Bankruptcy Code (Second Amendment) Act, 2018 (No. 8 of 2018).	Reasoning
+Vide Section 23(iii)(a) of the said amendment Act, the word seventyfive in Subsection (4) of Section 30 has been substituted by the word sixtysix.	Reasoning
+Taking clue from this amendment, it was argued that since the amendment substitutes the threshold requirement of 75 to 66 and since the same has been brought into force when appeals were pending, the NCLAT was obliged to consider its effect on the present cases.	Reasoning
+Further, being substitution, it must be assumed that the amended provision was always there from the beginning of the Code.	Reasoning
+We are not impressed by this submission.	Reasoning
+In our opinion, by this amendment, a new norm and qualifying standard for approval of a resolution plan has been introduced.	Reasoning
+That cannot be treated as a declaratory clarificatory or stricto sensu procedural matter as such.	Reasoning
+Whereas, the stated Amendment Act makes it expressly clear that it shall be deemed to have come into force on the 6th day of June, 2018.	Reasoning
+Thus, by mere use of expression substituted in Section 23(iii) (a) of the Amendment Act of 2018, it would not make the provision retrospective in operation or having retroactive effect.	Reasoning
+This interpretation is reinforced by the fact that there is no indication in the Amendment Act of 2018 that the legislature intended to undo and or govern the decisions already taken by the CoC of the concerned corporate debtors prior to 6062018.	None
+Our attention was invited to the report of the Insolvency Law Committee of March, 2018.	None
+Even the said report does not mention about introducing the amendment to Section 30(4), regarding the threshold requirement with retrospective or retroactive effect.	None
+Indeed, the report has noted about the necessity to alter the low threshold level of 25 of voting share for rejection of the resolution plan which, it felt, should be increased to 44.	None
+It may be useful to reproduce paragraph 11 of the said report dealing with voting share threshold for decisions of the CoC, which reads thus VOTING SHARE THRESHOLD FOR DECISIONS OF THE COC 11.1 Section 21(8) of the Code provides that all decisions of the CoC shall be taken by a vote of not less than 75 percent of the voting share of the financial creditors.	None
+Regulation 25(5) read with Regulation 26 of the CIRP Regulations provides that if all members of the CoC are not present, an option to vote through electronic means must be provided.	None
+11.2	None
+It was represented to the Committee that the high threshold of 75 percent of voting share of financial creditors for decisions of the CoC was proving to be a roadblock in the resolution process.	None
+Effectively, as a result of the high threshold, blocking the resolution plan and other decisions of the CoC, was easier than approving these.	None
+11.3	None
+The Committee considered the fact that, so far, various benches of the NCLT have passed liquidation orders in 30 cases.	None
+76 Out of these 30 cases, only nine cases went into liquidation on account of rejection by the CoC. Further, only in one case, a liquidation order was passed owing to lack of consensus of 75 percent financial creditors for approval of the resolution plan.	None
+77	None
+In respect of the remaining eight cases, the plan was rejected by an overwhelming majority of voting share above 80 percent.	None
+Thus, empirical evidence suggests that the apprehension that companies are being put into liquidation by minority creditors is premature.	None
+The Committee reiterated that the objective of the Code is to respect the commercial wisdom of the CoC. 11.4	None
+The Committee noted the voting thresholds across other statutes and guidelines that deal have dealt with rehabilitation of companies as follows Section 230(6) of the CA 2013 which deals with power to compromise or make arrangements with creditors and members provides that any compromise or arrangement must be approved by 75 percent in value of creditors or class of creditors or members or class of members, as the case maybe.	None
+Section 262 of the CA 2013 provided for a scheme of rehabilitation which required approval by (i) secured creditors representing 75 percent in value of the debts owed by the company to such creditors and (ii) unsecured creditors representing 25 percent in value of the amount of debt owed to them.	None
+Further, in case of voluntary winding up, Section 311 of the CA 2013 provided for replacement of the company liquidator by approval of 75 percent of creditors or 75 percent of members of the company.	None
+The Joint Lenders Forum (JLF) framework formulated by the RBI (which has now been replaced) to enable creditors to identify and deal with stressed assets at an early stage prescribed a voting threshold of 60 percent (reduced from 75 percent) of creditors by value and 50 percent (reduced from 60 percent) of creditors by number in the JLF, for proceeding with the restructuring of the account.	None
+Section 13(9) of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 provided that in the case of financing of a financial asset by more than one secured creditors or joint financing of a financial asset by secured creditors, no secured creditor would be entitled to exercise any or all of the rights conferred on her under the relevant law (such as taking possession of the secured asset or takeover the management of the borrower) unless exercise of such right was agreed upon by secured creditors representing not less than 60 percent (reduced from 75 percent) 81 in value of the amount outstanding as on a record date and such action was binding on all the secured creditors.	None
+11.5	None
+The Committee also noted that globally, bankruptcy laws prescribe different voting thresholds for decisions of the CoC. In USA, approval of a plan requires 66 percent or more voting share in value and 50 percent or more voting share in number for each class of creditoRs.	None
+82	None
+The position is similar in Canada, however, such requirement applies to each class of unsecured creditoRs.	None
+83	None
+In the UK, approval of a plan under administration requires a simple majority in value of the creditors present and voting.	None
+While such threshold is higher in Singapore as the requirement therein is to obtain 75 percent or more of voting share by value and more than 50 percent voting share in number of creditors present and voting, for approval of the plan.	None
+The Committee was of the view a higher threshold with the present and voting requirement, or a lower threshold sans the present and voting requirement, may be adopted.	None
+11.6 After due deliberation and factoring in the experience of past restructuring laws in India and international best practices, the Committee agreed that to further the stated object of the Code i.e. to promote resolution, the voting share for approval of resolution plan and other critical decisions may be reduced from 75 percent to 66 percent or more of the voting share of the financial creditors.	None
+In addition to approval of the resolution plan Under Section 30(4), other critical decisions are extension of the CIRP beyond 180 days Under Section 12(2), replacement or appointment of RP Under Sections 22(2) and 27(2), and passing a resolution for liquidation Under Section 33(2) of the Code.	None
+Further, for approval of the other routine decisions for continuing the corporate debtor as going concern by the IRP RP, the voting share threshold may be reduced to 51 percent or more of the voting share of the financial creditors.	None
+(Emphasis in para 11.3 supplied)	None
+Significantly, the report mentions that the empirical record suggests that the apprehension regarding companies are being put into liquidation by minority creditors is premature and further that the objective of the Code is to respect the commercial wisdom of the CoC.	None
+As aforesaid, the amendment of 2018 cannot be considered as clarificatory but it envisages a new norm of threshold for considering the decision of the CoC as approval of the resolution plan.	Reasoning
+The Amendment Act of 2018 having come into force w.e.f.	Reasoning
+6th day of June, 2018, therefore, will have prospective application and apply only to the decisions of CoC taken on or after that date concerning the approval of resolution plan.	Reasoning
+Reliance was placed by the resolution applicants and the stakeholders supporting the resolution plan of the concerned corporate debtors, on the decisions of this Court in Gottumukkala Venkata Krishamraju (supra), B.K. Educational Services Private Ltd. (supra), and State Bank of India (supra).	None
+In the case of Gottumukkala (supra), this Court, after adverting to the dictum in Government of India v. India Tobacco Association (supra), and Zile Singh v. State of Haryana (supra), opined in paragraph 15 as under Ordinarily wherever the word substitute or substitution is used by the legislature, it has the effect of deleting the old provision and make the new provision operative.	None
+The process of substitution consists of two steps first, the old Rule is made to cease to exist and, next, the new Rule is brought into existence in its place.	None
+The Rule is that when a subsequent Act amends an earlier one in such a way as to incorporate itself, or a part of itself, into the earlier, then the earlier Act must thereafter be read and construed as if the altered words had been written into the earlier Act with pen and ink and the old words scored out so that thereafter there is no need to refer to the amending Act at all.	None
+No doubt, in certain situations, the Court having regard to the purport and object sought to be achieved by the Legislature may construe the word substitution as an amendment having a prospective effect.	None
+Therefore, we do not think that it is a universal Rule that the word substitution necessarily or always connotes two severable steps, that is to say, one of repeal and another of a fresh enactment even if it implies two steps.	None
+However, the aforesaid general meaning is to be given effect to, unless it is found that legislature intended otherwise.	None
+Insofar as present case is concerned, as discussed hereinafter, the legislative intent was also to give effect to the amended provision even in respect of those incumbents who were in service as on September 01, 2016.	None
+(Emphasis supplied)	None
+The Court has restated the position that there can be no hard and fast Rule merely because of the usage of expression substituted in the amendment Act.	None
+For, in certain situations like the case on hand, the amendment will have prospective effect as it is not intended to reverse or nullify the decisions already taken by the CoC of the concerned corporate debtors before coming into force of the amended provision.	None
+This Court in Thirumalai Chemicals Limited v. Union of India and Ors., (2011) 6 SCC 739 in paragraph 23, observed that it is trite law that every statute is prospective unless it is expressly or by necessary implication made to have retrospective operation.	None
+This proposition has been reiterated in Purbanchal Cables Conductors (P) Ltd. v. Assam SEB and Anr.	None
+(2012) 7 SCC 462 in paragraphs 51, which reads thus There is no doubt about the fact that the Act is a substantive law as vested rights of entitlement to a higher rate of interest in case of delayed payment accrues in favour of the supplier and a corresponding liability is imposed on the buyer.	None
+This Court, time and again, has observed that any substantive law shall operate prospectively unless retrospective operation is clearly made out in the language of the statute.	None
+Only a procedural or declaratory law operates retrospectively as there is no vested right in procedure.	None
+(Emphasis supplied)	None
+It may be useful to notice the exposition in CIT v. Vatika Township (P) Ltd. (2015) 1 SCC 1 .	None
+In paragraph 29, the Court observed thus The obvious basis of the principle against retrospectivity is the principle of fairness, which must be the basis of every legal Rule as was observed in LOffice Cherifien des Phosphates v. YamashitaShinnihon Steamship Co.	None
+Ltd	None
+Thus, legislations which modified accrued rights or which impose obligations or impose new duties or attach a new disability have to be treated as prospective unless the legislative intent is clearly to give the enactment a retrospective effect unless the legislation is for purpose of supplying an obvious omission in a former legislation or to explain a former legislation.	None
+We need not note the cornucopia of case law available on the subject because aforesaid legal position clearly emerges from the various decisions and this legal position was conceded by the counsel for the parties.	None
+In any case, we shall refer to few judgments containing this dicta, a little later.	None
+(Emphasis supplied) Once again, in Vijayalakshmi Rice Mills, New Contractors Co. and Ors.	None
+v. State of Andhra Pradesh (1976) 3 SCC 37 , in paragraph 5, the Court observed thus Mr. Nariman appearing on behalf of the Appellants has laid great emphasis on the word substituted occurring in Clause 2 of the Rice (Andhra Pradesh) Price Control (Third Amendment) Order, 1964 and has urged that the claim of the Appellants cannot be validly ignored.	None
+Elaborating his submission, counsel has contended that as the prices fixed by the Government are meant for the entire season, the Appellants have to be paid at the controlled price as fixed vide the Rice (Andhra Pradesh) Price Control (Third Amendment) Order, 1964, regardless of the dates on which the supplies were made.	None
+We cannot accede to this contention.	None
+It is no doubt true that the literal meaning of the word substitute is to replace but the question before us is from which date the substitution or replacement of the new Schedule took effect.	None
+There is no deeming Clause or some such provision in the Rice (Andhra Pradesh) Price Control (Third Amendment) Order, 1964 to indicate that it was intended to have a retrospective effect.	None
+It is a well recognized Rule of interpretation that in the absence of express words or appropriate language from which retrospectivity may be inferred, a notification takes effect from the date it is issued and not from any prior date.	None
+The principle is also well settled that statutes should not be construed so as to create new disabilities or obligations or impose new duties in respect of transactions which were complete at the time of the amending Act came into force.	None
+See Nani Gopal Mitra v. State of Bihar.	None
+(Emphasis supplied)	None
+As regards the decision in B.K. Educational (supra), the Court was called upon to consider the question as to whether the Limitation Act, 1963 will apply to applications that are made Under Section 7 and or Section 9 of the Code on and from its commencement on 01122016 till 06062018.	None
+That question was examined in the context of Section 238A inserted in the I B Code by the selfsame amendment Act of 2018.	None
+The Court after adverting to the contents of the report of the Insolvency Law Committee of March, 2018 and other provisions of the Code and other enactments, opined that Section 238A was clarificatory in nature and being a procedural law, came to hold that it had retrospective effect.	None
+The Court held that taking any other view would result in an incongruous situation as the provisions of the Limitation Act would apply in some set of cases to be decided by the same Tribunal and not in other set of cases.	None
+Besides, the Court adverted to the principle that right to sue accrues on the date when default occurs and if the default occurred even three years prior to the date of filing of the application, the same cannot be treated as debt that is due and payable or debt due.	None
+In the case of State Bank of India (supra), the Court considered the question as to whether Section 14 of the I B Code, which provides for moratorium for the period mentioned in the Code, insolvency would apply to a personal guarantor of a corporate debtor.	None
+Even in this judgment, the Court after adverting to all the relevant materials and the governing provisions in the Code, concluded that the amended Section 14 was only to clarify and set at rest what the Committee thought was an overboard interpretation of Section 14.	None
+On that reasoning the Court concluded that the amendment of Section 14 had retrospective effect.	None
+In the present case, however, the amendment under consideration pertaining to Section 30(4), is to modify the voting share threshold for decisions of the CoC and cannot be treated as clarificatory in nature.	Reasoning
+It changes the qualifying standards for reckoning the decision of the CoC concerning the process of approval of a resolution plan.	Reasoning
+The rights obligations crystallized between the parties and, in particular, the dissenting financial creditors in October 2017, in terms of the governing provisions can be divested or undone only by a law made in that behalf by the legislature.	Reasoning
+There is no indication either in the report of the Committee or in the Amendment Act of 2018 that the legislature intended to undo the decisions of the CoC already taken prior to 6th day of June, 2018.	Reasoning
+It is not possible to fathom how the provisions of the amendment Act 2018, reducing the threshold percent of voting share can be perceived as declaratory or clarificatory in nature.	Reasoning
+In such a situation, the NCLAT could not have examined the case on the basis of the amended provision.	Reasoning
+For the same reason, the NCLT could not have adopted a different approach in these matters.	Reasoning
+Hence, no fault can be found with the impugned decision of the NCLAT.	None
+In our view, no other contention raised to support the resolution plan of the concerned corporate debtors would be of any avail.	None
+Even so, we may advert to the argument regarding the effect of amendment of Regulation 39 which has come into force with effect from 4th July, 2018.	Reasoning
+Prior to that amendment, Regulation 39(3) merely provided that the Committee may approve any resolution plan with such modifications as it deems fit.	Reasoning
+This was amended vide Notification dated 3rd July, 2018 and the substituted Regulation 39(3), now reads thus Approval of resolution plan.	None
+xxx	None
+xxx xxx	None
+The committee shall evaluate the resolution plans received Under SubRegulation (1) strictly as per the evaluation matrix to identify the best resolution plan and may approve it with such modification as it deems fit PROVIDED that the committee shall record the reasons for approving or rejecting a resolution plan.	None
+In the first place, amendment to Regulation cannot have retrospective effect so as to impact the decision of the CoC of the concerned corporate debtor  taken before the amendment of the said Regulation.	Reasoning
+There is no indication in the Code as amended or the Regulations to suggest that as a consequence of this amendment the decisions already taken by the concerned CoC prior to 3rd July, 2018 be treated as deemed to have been vitiated or for that matter, necessitating reversion of the proposal to CoC for recording reasons, that too beyond the statutory period of 270 days.	Reasoning
+A new life cannot be infused in the resolution plan which did not fructify within the statutory period, by such circuitous route.	Reasoning
+Assuming that this provision was applicable to the cases on hand, nonrecording of reasons for approving or rejecting the resolution plan by the concerned financial creditor during the voting in the meeting of CoC, would not render the final collective decision of CoC nullity per se.	Reasoning
+Concededly, if the objection to the resolution plan is on account of infraction of ground(s) specified in Sections 30(2) and 61(3), that must be specifically and expressly raised at the relevant time.	Reasoning
+For, the approval of the resolution plan by the CoC can be challenged on those grounds.	Reasoning
+However, if the opposition to the proposed resolution plan is purely a commercial or business decision, the same, being nonjusticiable, is not open to challenge before the Adjudicating Authority (NCLT) or for that matter the Appellate Authority (NCLAT).	Reasoning
+If so, nonrecording of any reason for taking such commercial decision will be of no avail.	Reasoning
+In the present case, admittedly, the dissenting financial creditors have rejected the resolution plan in exercise of business commercial decision and not because of noncompliance of the grounds specified in Section 30(2) or Section 61(3), as such.	Reasoning
+Resultantly, the amended Regulation pressed into service, will be of no avail.	Reasoning
+Relying on the dictum in Mardia Chemicals (supra), in particular paragraph 45, it was argued that even in regard to the option exercisable by the financial creditors Under Section 30(4), the requirement of giving reasons for approval or disapproval of the proposed resolution plan must be read into it.	Reasoning
+In that case, the Court had considered the mechanism specified in Section 13 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, which provided for giving a notice to the borrower and upon receipt of such notice the borrower could raise objections as to why the proposed action of the secured creditor was uncalled for.	Reasoning
+In that context, this Court in paragraph 45, observed thus In the background we have indicated above, we may consider as to what forums or remedies are available to the borrower to ventilate his grievance.	None
+The purpose of serving a notice upon the borrower Under Subsection (2) of Section 13 of the Act is, that a reply may be submitted by the borrower explaining the reasons as to why measures may or may not be taken Under Subsection (4) of Section 13 in case of noncompliance with notice within 60 days.	None
+The creditor must apply its mind to the objections raised in reply to such notice and an internal mechanism must be particularly evolved to consider such objections raised in the reply to the notice.	None
+There may be some meaningful consideration of the objections raised rather than to ritually reject them and proceed to take drastic measures Under Subsection (4) of Section 13 of the Act.	None
+Once such a duty is envisaged on the part of the creditor it would only be conducive to the principles of fairness on the part of the banks and financial institutions in dealing with their borrowers to apprise them of the reason for not accepting the objections or points raised in reply to the notice served upon them before proceeding to take measures Under Subsection (4) of Section 13.	None
+Such reasons, overruling the objections of the borrower, must also be communicated to the borrower by the secured creditor.	None
+It will only be in fulfillment of a requirement of reasonableness and fairness in the dealings of institutional financing which is so important from the point of view of the economy of the country and would serve the purpose in the growth of a healthy economy.	None
+It would certainly provide guidance to the secured debtors in general in conducting the affairs in a manner that they may not be found defaulting and being made liable for the unsavoury steps contained Under Subsection (4) of Section 13.	None
+At the same time, more importantly, we must make it clear unequivocally that communication of the reasons for not accepting the objections taken by the secured borrower may not be taken to give occasion to resort to such proceedings which are not permissible under the provisions of the Act.	None
+But communication of reasons not to accept the objections of the borrower, would certainly be for the purpose of his knowledge which would be a step forward towards his right to know as to why his objections have not been accepted by the secured creditor who intends to resort to harsh steps of taking over the management business of viz.	None
+secured assets without intervention of the court.	None
+Such a person in respect of whom steps Under Section 13(4) of the Act are likely to be taken cannot be denied the right to know the reasons of nonacceptance and of his objections.	None
+It is true, as per the provisions under the Act, he may not be entitled to challenge the reasons communicated or the likely action of the secured creditor at that point of time unless his right to approach the Debts Recovery Tribunal as provided Under Section 17 of the Act matures on any measure having been taken Under Subsection (4) of Section 13 of the Act.	None
+(Emphasis supplied)	None
+In the present case, however, we are concerned with the provisions of I B Code dealing with the resolution process.	None
+The dispensation provided in the I B Code is entirely different.	Reasoning
+In terms of Section 30 of the I B Code, the decision is taken collectively after due negotiations between the financial creditors who are constituents of the CoC and they express their opinion on the proposed resolution plan in the form of votes, as per their voting share.	Reasoning
+In the meeting of CoC, the proposed resolution plan is placed for discussion and after full interaction in the presence of all concerned and the resolution professional, the constituents of the CoC finally proceed to exercise their option (business commercial decision) to approve or not to approve the proposed resolution plan.	Reasoning
+In such a case, nonrecording of reasons would not per se vitiate the collective decision of the financial creditors.	Reasoning
+The legislature has not envisaged challenge to the commercial business decision of the financial creditors taken collectively or for that matter their individual opinion, as the case may be, on this count.	Reasoning
+It was then contended that NCLAT committed manifest error in not calling upon the dissenting financial creditors to respond to the applications filed in the concerned appeals pending before it, including with a prayer to allow the resolution applicant to revise the resolution plan.	Reasoning
+We find no merits in this submission.	Reasoning
+The reliefs claimed in the stated application filed before the NCLAT would not take the matter any further.	Reasoning
+For, it is enough for the dissenting financial creditors to disapprove the proposed resolution plan by voting as per its voting share, based on commercial decision.	Reasoning
+Indeed, if the opposition of the dissenting financial creditors is in regard to matter(s) within the jurisdiction of the Tribunal ascribable to Sections 30(2) or 61(3), then the situation may be somewhat different.	Reasoning
+But that is not in issue in these cases.	Reasoning
+As regards the application by the resolution applicant for taking his revised resolution plan on record, the same is also devoid of merits inasmuch as it is not open to the Adjudicating Authority to entertain a revised resolution plan after the expiry of the statutory period of 270 days.	Reasoning
+Accordingly, no fault can be found with the NCLAT for not entertaining such application.	Reasoning
+The counsel appearing for the resolution applicant and the stakeholders supporting the resolution plan were at pains to persuade us to exercise powers Under Article 142 of the Constitution of India.	Reasoning
+Inasmuch as, in both the cases, the vote of approval exceeded more than 66 of the voting share of the financial creditors and yet the benefit of the amended provision could not be availed, as it came only during the pendency of the appeal before the NCLAT.	Reasoning
+The submission is that this Court may set aside the order passed by the Tribunal and relegate the parties in both the cases, before the NCLT for considering the proceedings afresh in light of the amended provision reducing the threshold requirement of percent of voting share of financial creditors to 66.	Reasoning
+We are afraid, it is not possible for us to exercise powers Under Article 142 of the Constitution which will result in issuing directions in the teeth of the provisions as applicable to the cases on hand.	Reasoning
+We, therefore, decline to accede to this request.	Reasoning
+Having answered the core issues and to avoid prolixity, we do not wish to dilate on the exposition in other reported decisions relied upon by the counsel.	Reasoning
+As a result, we hold that the NCLAT has justly concluded in the impugned decision that the resolution plan of the concerned corporate debtor(s) has not been approved by requisite percent of voting share of the financial creditors and in absence of any alternative resolution plan presented within the statutory period of 270 days, the inevitable sequel is to initiate liquidation process Under Section 33 of the Code.	Decision
+That view is unexceptional.	Decision
+Resultantly, the appeals must fail.	Decision
+In view of the above, the appeals are dismissed.	Decision
+The companion applications also stand dismissed.	Decision
+No order as to costs.	Decision

@@ -1,0 +1,200 @@
+Dr. AR.	None
+Lakshmanan, J. These appeals are directed against the the final judgment passed by the High Court of Judicature at Madras in Criminal Revision Case No. 508 of 1997 and Criminal Misc.	Issue
+Petition No. 3411 of 1997 dated 13.8.1997 by which the High Court dismissed the criminal revision under Section 397 read with Section 401 of the Code of Criminal Procedure, 1973.	None
+The facts giving rise to these appeals are as under2.	Facts
+The appellant is a partnership firm engaged in the business of construction and sale of flats.	Facts
+The construction of some of the projects started in the year 198182 and was completed in the year 198687.	None
+The appellants filed the returns of income disclosing the assessed income as the income.	None
+The cost of construction was shown as under Assessment Year 198384  Rs.4,72,860Assessment year 198485  Rs.5,77,590Assessment year 198586  Rs.7,28,531Assessment year 198687  Rs.7,03,002	None
+The appellants filed revised returns as per the approval valuers report for assessment years 198384 to 198687 on 4.11.1987 in the following manner as the earlier returns were found to be defective with regard to cost of construction.	Facts
+Assessment year 198384  Rs.8,76,000Assessment year 198485  Rs.5,42,000Assessment year 198586  Rs.13,47,229Assessment year 198687  Rs.10,37,920	None
+The revised returns were accepted by the Department and assessments were completed.5.	Facts
+The respondent assessing authority treated the difference between the income as per original return and revised income as concealed income.	Facts
+The Assistant Commissioner of IncomeTax levied penalties under Section 271(1)(c) of the Income Tax Act, 1961 (hereinafter referred to as the Act) for all the aforesaid four assessment years.	Facts
+Accordingly, penalty proceedings were initiated.	Facts
+The first appeal against the order of penalties levied for concealment of income against the appellants were confirmed by th e C.I.T.(Appeals).	Facts
+As per the directions of the Chief Commissioner of Income Tax, four complaints were filed in the Court of Additional Chief Metropolitan Magistrate, Egmore, Chennai for offences under Sections 276C (2), 278B of the Act and Sections 120B, 34, 193, 196 and 420 of the Indian Penal Code.6.	Facts
+The gist of the prosecution case was that a conspiracy was entered into between the accused appellants and they filed false returns of income before the Department which led to concealment of income to evade tax.	Facts
+On 24.10.1996, the appellants had preferred an appeal before the IncomeTax Appellate Tribunal against the consolidated order passed by C.I.T. (Appeals) on 18.7.1990 for assessment years 198384 to 198687.	Facts
+It was contended that the Assessing Officer referred the matter relating to valuation of the Department Valuation Cell which reportedly estimated the cost of construction at Rs.50,96,750.	Facts
+If that were to be adopted then the income would result in a loss.	Facts
+It was contended that the Department has not brought out any material to show that there was concealment of income.	Facts
+The Tribunal, after verifying the records, found that the additions were on the basis of settlement between the assessees and the Department and represents voluntary offer made by the assessee and, therefore, in such circumstances the Tribunal applying the principles laid down by this Court in the Case of Sir Shadilal Sugar and General Mills Ltd. and Anr.	Facts
+v. C.I.T., Delhi , 1987 (168) I.T.R. 705 held that there was no concealment of income by the assessee and accordingly the penalties were cancelled and allowed the appeals.	Facts
+The appellants thereupon moved an application before the Additional Chief Metropolitan Magistrate, (E.O.II), Egmore, Chennai by filing M.P. No. 614 of 1996 in C.C. No. 425 of 1990 praying the Court for adjourning the proceedings in the above case to enable them to move the necessary petition and to file the copy of the order of the Tribunal dated 24.10.1996 which allowed the appeals preferred by the 1st accused against the levy of penalty upon them.	Facts
+However, the learned Magistrate permitted the appellants to mark the order of the Tribunal in evidence at the appropriate stage of trial for which prosecution had no objection.7.	Facts
+Giving effect to the Income Tax Appellate Tribunals order in I.T.A. Nos. 31293132, the penalties levied under Section 271(1)(c) of the Act were cancelled by the respondent on 27.1.1997.	Facts
+In the meanwhile, the Revenue Department filed an application under Section 256(1) of the Act for reference to the question of law which had arisen out of Income Tax Appellate Tribunals Order dated 24.10.1996.	Facts
+The application of the Revenue Department was rejected.	Facts
+Thereupon, the appellants preferred a Criminal Revision under Sections 397 and 401 of the Criminal Procedure Code, 1973 before the High Court for setting aside the order passed by the Additional Chief Metropolitan Magistrate dated 21.7.1997.	Facts
+The learned Single Judge of the Madras High Court rejected the criminal revision vide his impugned order holding that the Income Tax Appellate Tribunals order was not applicable since it was not marked as defence document whereas the fact remains that the order was passed at a subsequent date.	Facts
+Before the High Court, the decision of this Court in K.T.M.S. Mohammed and Anr.	Facts
+v. Union of India , 1992 (197) I.T.R. 196 was cited.	Facts
+The High Court Court after observing that the observation in the case of K.T.M.S. Mohammed and Anr.	Facts
+(supra) helps the appellants to the extent that the trial Court should have given due regard to the Tribunals order but clearly made an error by distinguishing the said judgment on the ground that the Tribunals order was marked as a defence document whereas in the instant case it was not marked as a defence document.	Facts
+Whereas the fact remains that the defence documents were marked earlier to the order dated 24.10.1996 passed by the Appellate Tribunal which was immediately thereafter brought to the not ice of the trial Court even by the prosecution in their own application.	Facts
+We have perused the pleadings, the order passed by the High Court, copy of the complaints, copy of the order dated 24.10.1996 passed by the Income Tax Appellate Tribunal, Madras, order dated 11.12.1996 passed by the Additional Chief Metropolitan Magistrate, Chennai, copy of the proceedings of the Income Tax Officer cancelling the penalty levied under Section 271(1)(c) of the Act, copy of the application filed on 12.12.1996 by the appellants and copy of the order passed thereupon on 21.7.1997 and copy of the order dated 4.8.1997 passed by the ITAT Bench Madras in Reference Application Nos. 3235 for assessment years 198384 to 198687.	None
+We also perused the relevant provisions under the Income Tax Act, 1961 and of the Indian Penal Code.	None
+On the above pleadings and facts and circumstances of the case, the following questions of law arise for consideration by this Court Whether a penalty imposed under Section 271(1)(c) of the Income Tax Act and prosecution under Section 276C of the Income Tax Act are simultaneous ?	Issue
+(b) Whether the Criminal Prosecution gets quashed automatically when the Income Tax Appellate Tribunal which is the final Court on the facts comes to the conclusion that there is no concealment of income, since no offence survives under the Income Tax Act thereafter ?	Issue
+(c) Whether the High Court was justifed is dismissing the Criminal Revision Petition vide its impugned order ignoring the settled law as laid down by this Court that the finding of the Appellate Tribunal was conclusive and the prosecution cannot be sustained since the penalty after having been cancelled by the complainant following the Income Tax Appellate Tribunals Order no offence survives under the Income Tax Act and thus the quashing of the prosecution is automatic ?	Issue
+(d)	Issue
+Whether the finding of the Income Tax Appellate Tribunal is binding upon the Criminal Court in view of the fact that the Chief Commissioner and the Assessing Officer who initiated the prosecution under Section 276C(1) had no right to overrule the order of the Income Tax Appellate Tribunal.	Issue
+More so when the Income Tax Officer giving the effect to the order cancelled the penalty levied under Section 271(1)(c) ?	Issue
+(e) Whether the High Courts order is liable to be set aside in view of the errors apparent on record ?	None
+We heard Mr. Ajit Kumar Sinha, learned counsel appearing for the appellants and Mr. R.P. Bhatt, learned senior counsel appearing for the respondent.	None
+Learned counsel appearing for the appellants submitted that the learned single Judge of the High Court has failed to appreciate that under Section 254 of the Act an order by the Income Tax Appellate Tribunal not only superseded the order passed by the Assessing Officer under Section 143(3) of the Act but also set aside the finding of the Assessing Officer under the provisions of the Act.	Arguments of Petitioner
+He further submitted that the High Court has failed to appreciate that both the penalty proceedings and the prosecution are simultaneously and any prosecution launched on the basis of the order of the Assessing Officer under Section 143(3) of the Act became void and it knocks down the very basis for prosecution under Section 276C of the Act and it is in this background the Assessing Officer giving effect to the order of the Appellate Tribunal, cancelled the penalty levied.	Arguments of Petitioner
+Learned counsel further submitted that the learned single Judge has failed to see that the findings of the appellate Tribunal that there was no concealment of income and the same became conclusive and hence prosecution could not have been sustained.	Arguments of Petitioner
+The High Court has also further failed to see that even the application for reference by the Revenue Department under Section 256(1) of the Act was rejected on the ground that it is a pure question of fact and no question of law was involved.	Arguments of Petitioner
+It was also further contended that the High Court failed to note that the order passed by the income Tax Appellate Tribunal though marked as Exhibit through the defendants witness was not considered by the Courts below.	Arguments of Petitioner
+Mr. R.P. Bhatt, learned senior counsel, appearing for the respondent, vehemently opposed the contentions raised by learned counsel for the appellants.	Arguments of Respondent
+He submitted that the penalty proceedings and the prosecution proceedings are clearly independent and that the result of proceedings under the Act is not binding on the Criminal Court and that the Criminal Court has to judge the case independently on the evidence placed before it.	Arguments of Respondent
+He would further submit that the complaints were filed in March, 1990 under Sections 276C(1), 277 278B of the Act before the Additional Chief Metropolitan Magistrate which were registered as E.O.C.C. Nos. 422 to 425 of 1990, charges, were framed against the accused firm and its partners in September, 1993 and by October, 1996, nine prosecution witnesses had already been crossexamined and the prosecution witness No.10 was examined on 8.10.1996.	Arguments of Respondent
+At this stage, the appellants filed a petition for dropping the prosecution proceedings and, therefore, the High Court was justified in dismissing the petition of the appellants on the facts and circumstances of the case.	Arguments of Respondent
+It was further submitted that the discretion should be exercised judicially and in such a way as not to frustrate the object of the criminal proceedings and, therefore, the High Court is justified in dismissing the petition of the appellants.	Arguments of Respondent
+Concluding his submissions, learned senior counsel submitted that on the facts and circumstances of the case, the order of the High Court is neither erroneous nor against the principles of law.	Arguments of Respondent
+Before proceeding to consider the rival submissions, it is beneficial to refer to some important provisions of the Act under which the proceedings have been initiated  Section 147 of the Act deals with income escaping assessment.	None
+Section 148 deals with issue of notice where income has escaped assessment.	None
+Section 254 deals with orders of Appellate Tribunal.	None
+Section 256 deals with statement of case to the High Court (reference).	None
+Section 271(1)(c) reads as follows Section 271.	None
+Failure to furnish returns, comply with notices, concealment of income, etc  (1) If the Assessing Officer or the Commissioner (Appeals) in the course of any proceedings under this Act, is satisfied that any person (a) (b) (c) has concealed the particulars of his income or furnished inaccurate particulars of such income,he may direct that such person shall pay by way of penalty, (i) (ii) (iii) in the cases referred to in clause (c), in addition to any tax payable by him, a sum which shall not be less than, but which shall not exceed three times, the amount of tax sought to be evaded by reason of the concealment of particulars of his income or the furnishing of inaccurate particulars of such income.	None
+One of the amendments made to the abovementioned provisions is the omission of the word deliberately from the expression deliberately furnished inaccurate particulars of such income.	None
+It is implicit in the word concealed that there has been a deliberate act on the part of the assessee.	None
+The meaning of the word concealment as found in Shorter Oxford English Dictionary, 3rd Edition, Volume I, is as follows In law, the intentional suppression of truth or fact known, to the injury or prejudice of another.	None
+The word concealment inherently carried with it the element of mens rea .	None
+Therefore, the mere fact that some figure or some particulars have been disclosed by itself, even if takes out the case from the purview of nondisclosure, it cannot by itself take out the case from the purview of furnishing inaccurate particulars.	None
+Mere omission from the return of an item of receipt does neither amount to concealment nor deliberate furnishing of inaccurate particulars of income unless and until there is some evidence to show or some circumstances found from which it can be gathered that the omission was attributable to an intention or desire on the part of the assessee to hide or conceal the income so as to avoid the imposition of tax thereon.	None
+In order that a penalty under Section 271(1)(iii) may be imposed, it has to be proved that the assessee has consciously made the concealment or furnished inaccurate particulars of his income.	None
+Where the additions made in the assessment order, on the basis of which penalty for concealment was levied, are deleted, there remains no basis at all for levying the penalty for concealment and, therefore, in such a case no such penalty can survive and the same is liable to be cancelled as in the instant case.	None
+Ordinarily, penalty cannot stand if the assessment itself is set aside.	None
+Where an order of assessment or reassessment on the basis of which penalty has been levied on the assessee has itself been finally set aside or cancelled by the Tribunal or otherwise, the penalty cannot stand by itself and the same is liable to be cancelled as in the instant case ordered by the Tribunal and later cancellation of penalty by the authorities.	None
+Section 276C of the Act deals with wilful attempt to evade tax, etc.	None
+Section 277 deals with false statement in verification, etc .	None
+and Section 278B deals with the offences by companies.	None
+Four complaints were filed by the Assistant Commissioner of Income Tax, Central Circle III(1) against the appellants on the basis of the sanction ordered by the Commissioner of Income Tax under Section 279(1) of the Act for the prosecution of the accused appellants for the offences punishable under Sections 276C(1), 277 and 278B of the Act.	Facts
+It is stated in the complaint that the accounts and documents seized during the course of search showed that the accused had suppressed the true receipts from sale of flats, action under Section 148 of the Act was taken and in response to the said notice, the return of the respective accounts were delivered to the Income Tax Officer which was signed and verified by the accused concerned and that the Income Tax Officer further made the enquiries and investigations and summoned various persons for their statements.	None
+When the enquiry was in progress, the accused knowing that the suppression of receipts has been found out by the Income Tax filed another revised return on 4.11.1987 showing different income as against the original return.	None
+It was submitted that the appellants with a view to willfully evade tax and to defraud the exchequer of its legitimate revenue and to deceive the Income Tax Officer, acting in consort and in furtherance of the common intention, all the accused conspired to fabricate false evidence in the form of Books of Accounts containing false entries with a view to using them as genuine evidence in Income Tax Assessment proceedings for the assessment year 198384.	None
+Thus it was stated that the appellants had committed offence punishable under the provisions abovequoted.	None
+A consolidated order was passed by the Commissioner of Income Tax (Appeals) on 18.7.1990 for the assessment years 198384 to 198687.	None
+In all these appeals, the assessee disputed the imposition of penalty under Section 271(1)(c) of the Act.	None
+The assessments were initially completed under Section 143(3) of the Act.	None
+On 20.3.1986, the business premises of the firm as well as the residential premises of two of its partners were searched under Section 132 of the Act.	None
+In response to the same, the assessee filed the returns of income disclosing the income assessed as the income.	None
+After filing the returns in accordance with these books, the assessee came to know that the Books of Accounts were defective with regard to the cost of construction.	None
+Therefore, on 4.11.1987, the assessee filed a revised return estimating the cost of construction on the basis of the approved valuers report.	None
+The revised returns were accepted by the Department and the assessments were completed.	Facts
+The difference between the income as per the original returns and the income shown in the revised returns was treated as concealed income and the Assessing Officer has levied the penalty under Section 271(1)(c) of the Act in all these years.	None
+The assessees were unsuccessful be fore the Commissioner of Income Tax (Appeals).	None
+Therefore, the assessee filed the appeals before the Income Tax Appellate Tribunal Madras in I.T.A. Nos. 3129 to 3132/Mds/90.	None
+Before the Tribunal, it was pointed out that since there were defects in the Books of Accounts with regard to the cost of construction, the assessee voluntarily referred the matter to the approved valuer and has revised the returns accordingly.	None
+All this was done with a view to buy peace with the Department and the returned income does not represent any concealed income.	None
+It was also pointed out by the learned counsel that the Department has not made any addition beyond what has been returned by the assessee.	None
+In other words, it was pointed out that the returned income has been accepted by the Department and there is no concealment of any income.	None
+It was stressed by the counsel that the returns were revised in pursuance of the settlement with the Department only to buy peace.	None
+Learned counsel appearing for the Department, on the other hand, strongly supported the imposition of penalty in the facts and circumstances of the case.	None
+The Tribunal allowed the appeal and cancelled the penalty.	None
+It is useful to reproduce the concluding part of the order passed by the Tribunal which is as under We have carefully considered the rival submissions and perused the materials brought on record.	None
+Although there is a discussion by the Assessing Officer that the assessee has received some onmoney in respect of sale of flats but he has not mentioned what is the exact quantum of such onmoney receipts.	None
+The mere fact that though the receipt of onmoney is a prevalent practice in the case of transaction in flats, it cannot be presumed that there was a concealment of income or evasion of taxes.	None
+The Departm ent must bring out material to indicate the actual concealment of income.	None
+The whole discussions in the assessment order clearly shows that the Department has proceeded only on the basis of the cost of construction.	None
+At the stage when enquiries were made the assessee has got the valuation done by the approved valuer and filed the revised returns and paid the taxes thereon.	None
+This conduct clearly shows that there was some sort of settlement between the assessee and the Department.	None
+The assessment of income is based purely on estimate basis.	None
+Without adequate materials, it is impossible to accept the Departments contention that some part of the estimate income represents concealed income.	None
+The assessee has filed the revised returns.	None
+By so revising the returns, the assessee has substituted the income of the original return with that of the revised returns visavis the revised return there is no concealment of any income.	None
+The department has accepted all these revised income which clearly shows that the assessments are based on the basis of the voluntary offer made by the assessee.	None
+There is no material brought before us even at this stage to show that there was any concealment of income by the assessee and therefore find force in the stand taken by the assessee that the entire revision of income was as a result of voluntary offer made by the assessee.	None
+Keeping in view the ratio laid down by the Supreme Court in the case of Sir Shadilal Sugar and General Mills Ltd. and another v. CIT , 1987 (168) ITR 705 , we hold that in the facts and circumstances of the case there is no concealment of income by the assessee.	None
+Accordingly, the penalties are cancelled.	None
+In the result, the appeals are allowed.	None
+Sd  Sd (G. Chowdhury) (G.E. Veerabhadrappa)Judicial Member Accountant MemberMadras,Dated, the 24th October, 1996 (Emphasis supplied)	None
+The above order of the Tribunal was not appealed against and thus has become final and conclusive.	None
+The Additional Chief Metropolitan Magistrate, on an application moved by the appellants, permitted the appellants to mark the copy of the order of the Tribunal dated 24.10.1996 in evidence at the appropriate stage of trial.	None
+It is also very useful, in the present context to refer to the proceedings of the income Tax Officer, City WardII (2), Chennai cancelling the penalty.	None
+One sample order reads thus GIR No 279K CW.II(2)/8384	None
+Dt 27.1.97Sub Penalty under Section 271(1)(c)  	None
+Asst.	None
+year 198384in the case of M s. K.C. Builders, 26, Nynar Nadar Road, Chennai600 004  regRef I.T.A.T.s Order in I.T.A. No. 3129 to 3132/Mds/90/dt.	None
+24.10.1996.ORDERGiving effect to the Incometax Appellate Tribunals Order in I.T.A. No. 3129 to 3132 the penalty levied under Section 271(1)(c) is hereby cancelled.	None
+U s. 271(1)(c), Rs.1,43,181 is hereby cancelled.	None
+Learned counsel appearing for the appellants cited the following decisions in support of his submissions at the time of hearing The first in the series is the judgment in Uttam Chand others v. Income Tax Officer, Central Circle, Amritsar , 1982 (2) SCC 543.	None
+In this case, the registration was cancelled on the ground that the firm was not genuine and prosecution initiated for filing false return.	None
+The Tribunal rendered the finding that the firm to be beguine and on the basis of the finding of the Tribunal, this Court held that the prosecution must be quashed.	None
+The short judgment reads thus Heard counsel, special leave granted.	None
+In view of the finding recorded by the Income Tax Appellate Tribunal that it was clear on the appraisal of the entire material on the record that Shrimati Janak Rani was a partner of the assessee firm and that the firm was a genuine firm, we do not see how the assessee can be prosecuted for filing false returns.	None
+We, accordingly, allow this appeal and quashed the prosecution.	None
+There will be no order as to costs.	None
+In the case of G.L. Didwania and Anr.	None
+v. Income Tax Officer and Anr., 1995 Supp.	None
+(2) SCC 724, the prosecution was levelled against the assessee for making false statement.	None
+The Assessing Authority held that the assessee had intentionally concealed his income derived from Y company which belonged to him, initiating prosecution against him.	None
+The appellant filed the appeal against the assessment order and the Tribunal set aside the assessment holding that there was no material to hold that Y company belonged to the assessee.	None
+The assessee thereupon filed a petition before the Magistrate to drop the criminal proceedings and the application before the High Court under Section 482 to quash the criminal proceedings which were dismissed.	None
+On appeal, this Court held that the whole question was whether the appellant made a false statement regarding the income which according to the assessing authority had escaped assessment and so far as this issue was concerned, the finding of the appellate Tribunal was conclusive and hence the prosecution cannot be sustained.	None
+Accordingly, this Court quashed the criminal proceedings and allowed the appeal filed by the assessee.	None
+The above judgment squarely applies to the facts and circumstances of the case on hand.	Reasoning
+In this case also, similarly, the application was moved by the assessee before the Magistrate to drop the criminal proceedings which were dismissed by the Magistrate and the High Court also on a petition filed under Sections 397 and 401 of the Code of Criminal Procedure, 1973 to revise the order of the Additional Chief Metropolitan Magistrate has also dismissed the same and refused to refer to the order passed by th e competent Tribunal.	Reasoning
+As held by this Court, the High Court is not justified in dismissing the criminal revision vide its judgment ignoring the settled law as laid down by this Court that the finding of the appellate Tribunal was conclusive and the prosecution cannot be sustained since the penalty after having been cancelled by the complainant following the appellate Tribunals order, no offence survives under the Income Tax Act and thus quashing of prosecution is automatic.28.	Reasoning
+In the instant case, the penalties levied under Section 271(1)(c) were cancelled by the respondent by giving effect to the order of the Income Tax Appellate Tribunal in I.T.A. Nos. 31293132.	Reasoning
+It is settled law that levy of penalties and prosecution under Section 276C are simultaneous.	Reasoning
+Hence, once the penalties are cancelled on the ground that there is no concealment, the quashing of prosecution under Section 276C is automatic.29.	Reasoning
+In our opinion, the appellants cannot be made to suffer and face the rigorous criminal trial when the same cannot be sustained in the eyes of law because the entire prosecution in view of a conclusive finding of the Income Tax Tribunal that there is no concealment of income becomes devoid of jurisdiction and under Section 254 of the Act, a finding of the Appellate Tribunal supercedes the order of the Assessing Officer under Section 143(3) more so when the Assessing Officer cancelled the penalty levied.30.	Reasoning
+In our view, once the finding of concealment and subsequent levy of penalties under Section 271(1)(c) of the Act has been struck down by the Tribunal, the Assessing Officer has no other alternative except to correct his order under Section 154 of the Act as per the directions of the Tribunal.	Reasoning
+As already noticed, the subject matter of the complaint before this Court is concealment of income arrived at on the basis of the finding of the Assessing Officer.	Reasoning
+If the Tribunal has set aside the order of concealment and penalties, there is no concealment in the eyes of law and, therefore, the prosecution cannot be proceeded with by the complainant and further proceedings will be illegal and without jurisdiction.	Reasoning
+The Assistant Commissioner of Income Tax cannot proceed with the prosecution even after the order of concealment has been set aside by the Tribunal.	Reasoning
+When the Tribunal has set aside the levy of penalty, the criminal proceedings against the appellants cannot survive for further consideration.	Reasoning
+In our view, the High Court has taken the view that the charges have been framed and the matter is in the stage of further crossexamination and, therefore, the prosecution may proceed with the trial.	Reasoning
+In our opinion, the view taken by the learned Magistrate and the High Court is fallacious.	Reasoning
+In our view, if the trial is allowed to proceed further after the order of the Tribunal and the consequent cancellation of penalty, it will be an idle and empty formality to require the appellants to have the order of Tribunal exhibited as a defence document inasmuch as the passing of the order as aforementioned is unsustainable and unquestionable.	Reasoning
+The same view as that of ours has been taken by this Court and the various other High Courts in catena of decisions.	None
+Commissioner of Incometax v. Bahri Brothers Pvt. Ltd. , 1987 (167) ITR 880.	None
+Held, that the penalty was based on the earlier assessment order wherein the amount representing cash credits was included.	None
+Since that order had been set aside and the cash credits deleted from the assessment, the consequent order of penalty had been rightly cancelled.2.	None
+Commissioner of IncomeTax v. Bhagwan Ltd. , 1987 (168) I.T.R.	None
+348.Held, that the orders of reassessment on the basis of which penalties were levied had been set aside by the Tribunal.	None
+Hence, the order of penalty could not stand by itself.	None
+The cancellation of penalty was justified.	None
+Commissioner of IncomeTax vs. Bengal Jute Mills Co. Ltd. , 1988 (174) I.T.R. 402.	None
+Where penalty was imposed solely on the basis of an addition of Rs. 4 lakhs to the assessees total income and the addition was deleted by the TribunalHeld, that it was evident from the material on record that the penalty had been imposed solely on the basis of the additional of Rs. 4 lakhs to the assessees income.	None
+If the addition was deleted, the charge of concealment of income could not be sustained.	None
+Imposition of penalty under section 271(1)(c) of the Incometax Act, 1961, was, therefore, not valid.	None
+Commissioner of IncomeTax v. Madanlal Sohanlal , 1989 (176) I.T.R. 189.	None
+Penalty cannot stand on its own independently of the assessment.	None
+Where, in an appeal against the assessment reopened under Section 147 of the Incometax Act, 1961, the Appellate Tribunal deleted the addition on account of deemed dividend under Section 12(1B) read with section 2(6A)(e) of the Indian Incometax Act, 1922, the deemed dividend which had been deleted could not from the subjectmatter of imposition of penalty under Section 271(1)(c) of the Incometax Act, 1961, because, the basis for imposition of penalty had ceased to exist.	None
+Therefore, the Tribunal was co rrect in cancelling the penalty imposed on account of the addition.	None
+Commissioner of IncomeTax v. Bedi and Co. (P) Ltd. , 1990 (183) I.T.R. 59.	None
+Held, that in view, of the conclusion reached by the High Court that the amount in question was not assessable, there was no basis for the imposition of penalty.	None
+The cancellation of penalty was valid.(The Supreme Court has dismissed the special petition filed by the Department against this judgment of the High Court in relation to penalty under section 271(1)(c) arising out of an assessment, wherein the addition of a loan has been cancelled by the High Court as reported in 1983 (144) ITR 352 See 1990 (181) ITR (St.) 19Ed.)	None
+Commissioner of IncomeTax v. Agarwalla Brothers , 1991 (189) I.T.R. 786.	None
+Held, (i) that the fact a particular construction had not been shown in the accounts of the assessee was not relevant since this circumstance had not been recorded as one of the reasons for initiating the proceedings under section 147(a)(ii) that the Tribunal had found, after examining the entire record, that there had been no failure to disclose primary facts on the part of the assessee.	None
+The reassessment was, therefore, not valid(iii) that penalty had been imposed consequential to the reassessment Since the reassessment had been set aside, the order of the Tribunal cancelling the penalty levied under Section 271(1)(c) of the Act was also legal.	None
+Additional Commissioner of IncomeTax v. Badri Prasad Kashi Prasad , 1993 (200) I.T.R. 206.	None
+Held, that the levy of penalty was based on the addition to income made by the Incometax Officer.	None
+The addition was deleted by the Tribunal.	None
+Hence, the Tribunal was justified in cancelling the penalty.	None
+Commissioner of IncomeTax v. Roy Durlabhji , 1995 (211) ITR. 470.	None
+Held, dismissing the application for reference, that the Tribunal had set aside the penalty on the ground that the additions to income had already been deleted.	None
+Since there was no liability to tax, no penalty could be levied.	None
+The Tribunal was justified in cancelling the penalty and no question of law arose from its order.	None
+The very recent judgment in the case of Hira Lal Hari Lal Bhagwati v. C.B.I. New Delhi , JT 2003 (4) SC 381 , in which one of us (Dr. AR.	None
+Lakshmanan, J.) was a member, this Court while considering the scope of the immunity granted under the Kar Vivad Scheme  Whether criminal proceedings could be initiated in respect of declaration filed under the Scheme and accepted by the Excise Department can proceed further with the prosecution and criminal conspiracy and cheating against the appellants therein.	None
+Allowing the appeals, this Court held that since the alleged criminal liability stood compound on settlement with respect of the civil issues, the FIR was erroneous and unwarranted and, therefore, the continuation of the proceedings would tantamount to double jeopardy.	None
+This Court further held that the Collector of Customs had exonerated the appellants there was no warrant for any fresh investigation and prosecution on a matter which stood settled.	None
+Further since no prima facie case of cheating and criminal conspiracy was made out the process issued is liable to be quashed.	None
+It is to be noticed that as per the Kar Vivad Samadhan Scheme, 1998 whoever is granted the benefit under the said Scheme is granted immunity from prosecution from any offence under the Customs Act, 1962 including the offence of evasion of duty.	None
+In the circumstances, the complaint filed against the appellants is unsustainable.	None
+This Court further held that under the penal law, there is no concept of vicarious liability unless the said statute covers the same within its ambit.	None
+In that case, the appellants have been wholly discharged under the Customs Act, 1962 and the GCS granted immunity from prosecution.	None
+In this instant case, the charge of conspiracy has not been proved to bring home the charge of conspiracy within the ambit of Section 120B of I.P.C.	Reasoning
+It is also settled law that for establishing the offence of cheating, the complainant is required to show that the accused had fraudulent or or dishonest intention at the time of making promise or misrepresentation.	Reasoning
+From his making failure to keep up promise subsequently, such a culpable intention right at the beginning that is at the time when the promise was made cannot be presumed.	Reasoning
+As there was absence of dishonest and fraudulent intention, the question of committing offence under Section 420 of the I.P.C. does not arise.34.	Reasoning
+The High Court without adverting to the above important questions of law involved in this case and examined them in the proper perspective disposed of the revisions in a summary manner and hence the impugned orders passed by the High Court and the learned Magistrate warrant interference.35.	Reasoning
+It is a wellestablished principle that the matter which has been adjudicated and settled by the Tribunal need not be dragged into the criminal Courts unless and until the act of the appellants could have described as culpable.	Reasoning
+For the aforesaid discussions and reasons adduced, the questions of law formulated above are answered accordingly and the appeals stand allowed.	Decision

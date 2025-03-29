@@ -1,0 +1,130 @@
+ SRINIVASAN,	None
+J. The respondent is a public limited company carrying on business of publishing a newspaper The Hindu.	Facts
+It purchased a Dakota aircraft at a cost of Rs. 3, 31, 455 for the purpose of ensuring quicker and speedier transport and delivery of the newspaper, The aircraft was insured with the British Aviation Insurance Ltd., Calcutta, for a sum of Rs. 4, 00, 000	Issue
+The terms of the insurance policy enabled the insurer to opt for replacement of the aircraft in the event of loss or damage thereto in an accident.	Facts
+The relevant clauses in the policy are in the following terms Section ILOSS OR DAMAGE TO AIRCRAFTSubject to the terms conditions and limits hereof the company will at their option pay or replace or make good accidental loss of or damage to the aircraft as described in the Schedule hereto (hereinafter referred to as the aircraft), including standard component parts thereof temporarily detached in connection with the overhaul or repair while in the custody or control of the insured (unless other similar component parts have been substituted) whilst the aircraft isIn flightTaxyingOn the groundMoored Conditions 7 and 8 of the General conditions read as follows In the event of the company exercising their option under section 1 to replace the aircraft the replacement shall unless otherwise mutually agreed be by an aircraft of the same make and type and in reasonably like condition8.	Facts
+The aircraft shall at all times remain the property of the insured who shall have no right of abandonment to the company.	Facts
+In the event of payment of a total loss or replacement of the aircraft by the company under the terms of the policy the company may at their option elect to take over the remains of the aircraft as salvage.	Facts
+The respondents aircraft met with an accident on December 25, 1967, and became a total wreck.	None
+The insurer exercised its option in terms of the policy and purchased a similar aircraft for Rs. 3, 50, 000 and after incurring an additional expenditure of Rs. 25, 000 made it available to the respondent in the place of the damaged one.	None
+The assessment of the respondent for the year 196970, which was completed on January 31, 1972, was reopened by the Incometax Officer under section 147(b) of the Incometax Act (hereinafter referred to as the Act).	None
+In the reassessment proceedings, the Incometax Officer, applied the provisions of section 41(2) of the Act and worked out the profits at the difference between the original cost and the written down value, viz., Rs. 1, 58, 122.	Facts
+He rejected the contention of the assessee that in view of the exercise of the option of the insurer to replace the aircraft, no money was payable to the assessee under the policy of insurance and thus the provisions of section 41(2) of the Act were not attracted.	Facts
+Aggrieved by the order of the Incometax Officer, the assessee preferred an appeal before the Appellate Assistant Commissioner who took the view that Explanation to section 41(2) read with Explanation to section 32(1) of the Act made it clear that the expression moneys payable used in the section included any amount received from an insurance company in any form.	Facts
+In that view of the matter, the Appellate Assistant Commissioner dismissed the appeal of the assessee.	Facts
+On further appeal to the Tribunal, the latter opined that the insurer had an option to replace the aircraft and exercised it.	Facts
+Notwithstanding the same, it remained to be a contract of insurance to pay money and the exercise of the option was only to substitute the mode of discharge of the liability under the said contract.	Facts
+According to the Tribunal, the subjectmatter of the contract remained one for payment of money which would attract the provisions of section 41(2) of the Act.	Facts
+Consequently, the order of the Incometax Officer as affirmed by the appellate authority was upheld by the TribunalAt the instance of the assessee, the matter was referred to the High Court for answering the following question (see 1984 MAD 181, 544).	None
+Whether, on the facts and circumstances of the case, there was any profit assessable under section 41(2) of the Incometax Act, 1961, by the insurance company execising its option under the policy to replace the damaged aircraft with an aircraft of same make and type ?	Facts
+The High Court after a detailed consideration of the matter concluded that the expression moneys payable occurring in section 41(2) of the Act could not be made applicable to the present case.	Facts
+Holding that on the exercise of the option by the insurer, the contract could not be considered to be one for payment of money, the High Court answered the reference in favour of the assessee and against the Revenue.	Facts
+It is the said judgment of the High Court which is in challenge in this appeal filed by special leave.	Facts
+The learned AttorneyGeneral appearing for the appellant formulated his propositions in the following manner	None
+A contract of insurance is in essence a contract for money and money only.	None
+On the occurrence of the accident, money became payable under the said contract.	Arguments of Petitioner
+If instead of money being paid, if the insured gets the moneys worth by payment in specie it does not alter the character of the contract which continues to be one of insurance.	Arguments of Petitioner
+Such payment in specie being moneys worth would only amount to a substituted mode of discharge.	Arguments of Petitioner
+Once the money becomes payable under the contract on the occurrence of the accident, the exercise of the option by the insurer to discharge his liability by payment in a different mode other than money will not alter the situation that money was payable under the contract, Inasmuch as section 41(2) of the Act uses the expression moneys payable and not moneys paid, there is no doubt as to the applicability of the section to the case, Per contra, Shri K. Parasaran, learned senior counsel appearing for the assessee, has contended that when a fiscal statute uses advisedly a specific expression, it is not for the court to substitute the same by another expression even if it may be considered to be equivalent to the expression used by the Legislature.	Arguments of Petitioner
+When the contract of insurance contains a specific provision for the exercise of an option by the insurer without any reference to the insured and with regard to which the insured had no say whatever, the moment such option is exercised, the contract should be treated only as one providing for replacement of the aircraft from the inception thereof.	Arguments of Respondent
+In that event, it cannot be considered to be a contract for payment of money at any time.	Arguments of Respondent
+Consequently, when the contract is one for replacement of aircraft from its inception, there was no money payable under the contract to the insurer at any time because of the legal effect of the option exercised by the insurer.	Arguments of Respondent
+Hence, section 41(2) of the Act has no application to the present case and the view taken by the High Court is in accordance with law and unassailable.	Arguments of Respondent
+Before proceeding to consider the respective contentions, it is necessary to advert to the relevant provisions in the Act at the relevant time.	None
+Section 41(2) in so far as it is relevant is in the following terms 41.	None
+(2) Where any building, machinery, plant or furniture which is owned by the assessee and which was or has been used for the purposes of business or profession is sold, discarded, demolished or destroyed and the moneys payable in respect of such building, machinery, plant or furniture, as the case may be, together with the amount of scrap value, if any, exceed the written down value, so much of the excess as does not exceed the difference between the actual cost and the written down value shall be chargeable to incometax as income of the business or profession of the previous year in which the moneys payable for the building, machinery, plant or furniture became due.	None
+The expression moneys payable found in the subsection has been defined to have the same meaning as in subsection (1A) of section 32 (vide Explanation 2 to section 41(2A)).	None
+The Explanation to section 32(1A) defines moneys payable in the following terms moneys payable in respect of any structure or work, includes(a) any insurance or compensation moneys payable in respect thereof (b) where the structure or work is sold, the price for which it is sold The principle that a taxing statute should be strictly construed is well settled.	None
+In Principles of Statutory Interpretation by justice G. P. Singh, Sixth edition 1966, the law is stated thus.	None
+The wellestablished rule in the familiar words of Lord Wensleydale, reaffirmed by Lord Halsbury and Lord Simonds, means the subject is not to be taxed without clear words for that purpose and also that every Act of Parliament must be read according to the natural construction of its words.	None
+In a classic passage Lord Cairns stated the principle thus If the person sought to be taxed comes within the letter of the law he must be taxed, however great the hardship may appear to the judicial mind to be.	None
+On the other hand, if the Crown seeking to recover the tax, cannot bring the subject within the letter of the law, the subject is free, however apparently within the spirit of law the case might otherwise appear to be.	None
+In other words, if there be admissible, in any statute, what is called an equitable construction, certainly, such a construction is not admissible in a taxing statute, where you can simply adhere to the words of the statute.	None
+Viscount Simon quoted with approval a passage from Rowlatt J., expressing the principle in the following words In a taxing Act one has to look merely at what is clearly said.	None
+There is no room for any intendment.	None
+There is no equity about a tax.	None
+There is no presumption as to tax.	None
+Nothing is to be read in, nothing is to be implied.	None
+One can only look fairly at the language used.	None
+Relying upon this passage Lord Upjohn said Fiscal measures are not built upon any theory of taxation.	None
+It is obvious that the Legislature has deliberately used the word moneys.	None
+Wherever the Legislature intended to refer to payment in kind other than cash or money, it has taken care to provide specifically therefor.	None
+For example in section 41(1) itself, the Legislature has used the expression whether in cash or in any other manner whatsoever.	None
+There are several sections in the Act which refer to benefits other than cash though the value thereof can be ascertained in terms of cash or benefits which are convertible in cash.	None
+See sections 17, 23(3), 28(iv), 40A(2)(a), 93(4)(c).	None
+For example section 28(iv) speaks of the value of any benefit or perquisite, whether convertible into money or not, arising from business or profession.	None
+In section 93(4)(c), benefit is defined as a payment of any kind for the purposes of the section.	None
+A converse case arose before the Calcutta High Court in CIT v. Kanan Devan Hills Produce Co. Ltd. 1978 CAL 193 , in which the words which results directly or indirectly in the provision of any benefit or amenity or perquisite whether convertible into money or not in clause (c)(iii) of section 40 of the Act came up for interpretation and the Division Bench of the High Court held that those words excluded cash paid directly to an employee as there was no question of convertibility to money where cash was paid.	None
+When the Legislature has instead of using any word such as benefit used only the term money, it can refer only to money as understood in the ordinary common parlance.	None
+In Shorter Oxford English Dictionary, money has been defined as a. current coin metal stamped in pieces as a medium of exchange and measure of value.	None
+b.	None
+Hence, anything serving the same purposes as coin, late ME.	None
+c.	None
+In mod. use applied indifferently to coin and to such promissory documents representing coin (esp. banknotes) as are currently accepted as a medium of exchange.	None
+Hence, the word money used in section 41(2) of the Act has to be interpreted only as actual money or cash and not as any other thing or benefit which could be evaluated in terms of moneyThe learned AttorneyGeneral has argued that a contract of insurance is only a contract for payment of money and money only.	None
+In support of this contention he has drawn our attention to Rayner v. Preston 188081 18 Ch D I (CA), where Brett Lord Justice observed.	None
+The subjectmatter of insurance is a different thing from the subjectmatter of the contract of insurance.	None
+The subjectmatter of insurance may be a house or other premises in a fire policy, or may be a ship or goods in a marine policy.	None
+These are the subjectmatter of insurance, but the subjectmatter of the contract is money, and money only.	None
+The only result of the policy, if an accident which is within the insurance happens, is a payment of money.	None
+It is true that under certain circumstances in a fire policy there may be an option to spend the money in rebuilding the premises, but that does not alter the fact that the only liability of the insurance company is to pay money.	None
+The contract, therefore, is a contract with regard to the payment of money and it is contract made between two persons, and two persons only, as a contract He has also referred to the judgment in Medical Defence Union Ltd. v. Department of Trade 1978 CHD 43 1978 CHD 43(Ch D).	None
+The question in that case was whether the contract was a contract of insurance at all.	None
+The relevant facts in that case were as follows.	None
+The Medical Defence Union Ltd., claimed that it was not an insurance company carrying on any class of insurance business within the meaning of the Insurance Companies Act, 1974.	None
+The members were paying subscription to the company and their membership was governed by contract with each of them.	None
+Among its objects were the conduct of the legal proceedings on behalf of members, indemnifying them against claims for damages and costs and giving advice on various problems including employment, defamation and professional and technical matters.	None
+The articles gave power to the Council of the Union at its discretion, (1) to undertake the conduct or defence of any matter or proceedings concerning a members professional character or interests, and (2) to grant to any member from Union funds indemnity regarding any action, proceeding, claim or demand concerning his professional character or interest.	None
+In every case, an indemnity could be granted, restricted or declined in the Councils absolute discretion.	None
+The question was whether the contract between each member and the union was a contract of insurance for the purposes of the Act of 1974.	None
+The same was answered in the negative.	None
+The court observed that one of the three elements of a contract of insurance was that the assured would become entitled to something on the occurrence of some event that that something must normally be of the nature of money or its equivalent and not some other benefit.	None
+It should be noticed that though the court was prepared to extend money to equivalent of money, it refused to extend the meaning of the expression money to benefit.	None
+Thus, the decision can even be used against the appellant and it is not helpful to himReliance is placed upon the judgment of this court in CIT v. Artex Manufacturing Co.	None
+1997 SC 2846.	None
+The Bench referred to the provisions of section 41(2) of the Act and while analysing the rationale of the section quoted the following passage found in an earlier judgment reported in CIT v. Bipinchandra Maganlal and Co. Ltd.	None
+1960 SC 318 (SC).	None
+In CIT v. Bipinchandra Maganlal and Co. Ltd. 1960 SC 318 (SC), this court has thus explained the reason for introducing the fiction in the second proviso to section 10(2)(vii).The reason for introducing this fiction appears to be this.	None
+Where in the previous years, by the depreciation allowance, the taxable income is reduced for those years and ultimately the asset fetches on sale an amount exceeding the written down value, i.e., the original cost less depreciation allowance, the Revenue is justified in taking back what it had allowed in recoupment against wear and tear, because in fact the depreciation did not result.	None
+But the reason of the rule does not alter the real character of the receipt.	None
+Again, it is the accumulated depreciation over a number of years which is regarded as income of the year in which the asset is sold.	None
+The difference between the written down value of an asset and the price realised by sale thereof though not profit earned in the conduct of the business of the assessee is notionally regarded as profit in the year in which the asset is sold, for the purpose of taking back what had been allowed in the earlier years The Bench proceeded to refer to the position in law prior to the amendment introduced by Act 67 of 1949 and the subsequent position, Learned AttorneyGeneral has urged that when the section intended recoupment of the benefit allowed to the assessee in the previous years by the Revenue, it does not matter whether the benefit is received by the assessee in terms of money or actual cash or any kind.	None
+It is contended that if an assessee who receives the money in kind instead of actual cash, is excluded from the ambit of section 41(2), the section would be rendered useless as everybody would resort to such practice and deprive the Revenue of the tax payableWe have already set out the relevant provisions in the policy of insurance giving an option to the insurer to replace or make good accidental loss or damage to the aircraft.	None
+The insurer exercised the option in this case.	None
+The effect of exercise of such option has been recognised to bring an end to the obligation to pay money and make the contract one to reinstate the subjectmatter of insurance.	None
+It has been held that such a conversion relates back to the inception of the contract.	None
+The proposition was first laid down by Lord Campbell C. J., in Brown v. Royal Insurance Co. 1859 1 E and E 853 in the following words The case stands as if the policy had been simply to reinstate the premises in case of fire because, where a contract provides for an election, the party making the election is in the same position as if he had originally contracted to do the act which he has elected to do.	None
+Till this date, the proposition remains undisturbed and it has been followed in several cases.	None
+Mr. K. Parasaran, learned senior counsel for the respondent, has placed before us xerox copies of the relevant pages in Halsburys Laws of England (4th edition), and several text books wherein Browns case 1859 1 E E 853, has been cited without reference to any contrary decision.	None
+In Halsburys Laws of England, fourth edition., volume 25, paras 634, 635 and 636, read as under Option as to reinstatement.	None
+By the form of policy in general use, the insurers reserve to themselves the option of reinstating the property instead of making payment in money.	None
+This option is reserved for the insurers benefit and it is for them to elect whether to reinstate the assured is not entitled to require them to reinstate.	None
+Nor may he prevent them from reinstating if they elect to do so635.	None
+Exercise of option to reinstate.	None
+An election for or against reinstatement is final once it is made, and cannot afterwards be withdrawn.	None
+No formal election is necessary an election by conduct is sufficient, provided that the conduct is clear and unequivocal.	None
+The insurers will be taken to have elected against reinstatement and in favour of a payment in money if the negotiations for a settlement have been conducted by the insurers throughout on the footing that the loss is to be made good by a payment in money, or if they have proceeded to arbitration for the purpose of ascertaining the amount to be paid under the policy.	None
+On the other hand, they are not bound, in the absence of specific provision, to exercise the option immediately they are entitled before exercising it to investigate the loss and to ascertain what its amount is likely to be.	None
+Therefore a merely provisional assessment of the amount, even if made in conjunction with the assured, does not debar them from electing to reinstate636.	None
+Effect of election to reinstate.	None
+If the insurers do not elect to reinstate, their obligation to make good the loss by a payment in money continues I	None
+but if they do elect, the obligation ceases and the contract becomes a contract to reinstate.	None
+In the case of a building, this contract is sufficiently performed if the building is put substantially into the same state as before the fire.	None
+It is not necessary for us to quote the passages in each text book.	None
+It is sufficient to give the references as follows Chitty on Contracts, 27th edition, volume II, page 927 Colinvauxs Law of Insurance, 6th edition, pages 191 and 192.	None
+At page 192, in para.	None
+11.3	None
+the relevant passage reads The contract of insurance becomes enforceable, in fact, as a building contractDavies J. in Marrell v. Irving Fire 1865 33 NY 429.	None
+General Principles of Insurance Law by E. R. Hardy Ivamy, 6th edition, page 485 MacGillivray on Insurance Law, 9th edition, page 517 (para 21.4) Modern Insurance Law by John Birds (4th edition, page 277)	None
+The Law of Insurance Contracts by Malcolm A. Clarke (3rd edition) para 29.2 in page 791	None
+Thus, there is no doubt that on the exercise of the option by the insurer over which the insured has no sway, the contract should be considered only as a contract for reinstatement and not as a contract for money.	Reasoning
+There is no question of any money payable under the contract.	Reasoning
+There is a fallacy in the contention that the money became payable on the occurrence of the accident and the exercise of the option thereafter by the insurer would not alter the nature of the contract.	Reasoning
+The contract itself gives the right to the insurer to exercise the option and the legal effect of such exercise is to make the contract one for reinstatement only from the inception.	Reasoning
+It is analogous to the doctrine of relation back.	Reasoning
+Such exercise of option could only be after the occurrence of the accident and not at any time earlier.	Reasoning
+Consequently, the expression moneys payable in section 41(2) will not apply in this case We are unable to accept the contention that the word money should be interpreted as moneys worth.	Reasoning
+The reasons given by us earlier are sufficient and we need not add to them.	Reasoning
+The reason for introducing a fiction in section 41(2) of the Act as explained in Bipinchandra Maganlal and Co. Ltd.s case 1960 SC 318 (SC) quoted in Artex Manufacturing Co.s case 1997 SC 2846 (SC), that it is for the purpose of recoupment by the Revenue of the benefit allowed to the assessee in the previous years does not alter the situationIn the result, we do not find any error in the view expressed by the High Court in the judgment under appeal.	Reasoning
+We are in agreement with the reasoning and conclusion of the High Court in this case The appeal fails and suffers dismissal.	None
+There will be no order as to costs.	Decision

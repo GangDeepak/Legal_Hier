@@ -1,0 +1,71 @@
+ Sikri, J.1.	None
+These appeals by special leave are directed against the judgment of the High Court of Kerala in a reference made to it by the Incometax Appellate Tribunal, Madras Bench, under S. 27 (1) of the Wealthtax Act, 1957, hereinafter referred to as the Act.	Issue
+The reference was made at the instance of the Commissioner of Wealthtax, Kerala, and the question referred was as followsWhether the exemption from tax for the assessment years 195758, 195859 and 195960 was not rightly granted.2.	None
+The High Court held that the exemption from tax granted to the assessee under S. 45 (d) of the Act for the assessment years 195758.	None
+195859 and 195960 was not rightly granted , and answered the question against the assessee.	None
+The relevant facts are as follows The appellant, Travancore Cochin Chemicals (P) Ltd., hereinafter called the assessee, was formed and registered under the Indian Companies Act on November 8, 1951.	Facts
+The prior history of the Company is given in the statement of the case as followsOn 2271949, a partnership was formed between two public limited companies, viz., Fertilisers and Chemical Travancore Ltd., Alwaye, and the Mettur Chemical and Industrial Corporation Ltd., Mettur for establishing a Caustic Soda Factory with an estimated capital of Rs. one crore.	Facts
+The firm could not function due to lack of finance.	Facts
+The Government of Travancore was approached for necessary finance to complete the purchase of plants and machinery which had been started in August 1949, and that Government entered the Company and subscribed a large share capital and new private limited company was formed and registered under the Indian Companies Act on 8111951.Further facts given in the statement of the case are as followsThis new company took over the plant machinery, buildings, construction stores, materials etc at different stages of erection and also book debts and liabilities.	Facts
+The erection and construction of the factory was completed in December 1953, and production commenced from 111954.	None
+The Trading accounts were closed for the first time on 3131954.	None
+There was a loss of Rs.	None
+16,04,212/ incurred3.	None
+For the assessment year 195758 (the relevant date of valuation being March 31, 1957) the assessee claimed before the Wealthtax Officer that it was not liable to pay wealth tax during the year of account as it was exempted from wealthtax under S.45(d) of the Act.	Facts
+The Wealthtax Officer rejected the claim on the ground that the assessee was established within the meaning of S. 45 (d) and the proviso thereto in November 1951, and consequently the period of five years exemption was over with the assessment year 195657.4.	None
+The relevant portion of S. 45 of the Act reads as follows45.	None
+The provisions of this Act shall not apply to(a) (b) (c) any company established with the object of financing, whether by way of making loans or advances to, or subscribing to the capital of, private industrial enterprises in India, in any case where the Central Government has made or agreed to make to the company a special advance for the purpose or has guaranteed or agreed to guarantee the payment of moneys borrowed by the company from any institution outside India,(d) any company established with the object of carrying on an industrial undertaking in India in any case where the company is not formed by the splitting up, or the reconstruction of a business already in existence or by the transfer to a new business of any building.	Facts
+machinery or plant used in a business which was being previously carried on Provided that the exemption granted by clause (d) shall apply to any such company as is referred to therein only for a period of five successive assessment years commencing with the assessment year next following the date on which the company is established, which period shall in the case of a company established before the commencement of this Act be computed in accordance with this Act from the date of its establishment as if this Act had been in force on and from the date of its establishment Explanation.(e)	Facts
+(f) any company registered under Section 25 of the Companies Act, 1956.5.	None
+The Wealthtax Officer followed the same reasoning for the assessment years 195859 and 195960.	None
+The Appellate Assistant Commissioner of Wealthtax upheld the orders of the Wealthtax Officer.	None
+The Incometax Appellant Tribunal, however, allowed the appeals of the assessee.	None
+It held that the word established in S. 45 (d) was used in contradistinction to the word incorporated.	Facts
+It observed It seems to us that this established (sic) can be inferred only when the object with which the company was formed or incorporated is begun to be achieved.it further heldTo attract tax under S. 3 there must be an assessment year as defined in S. 2 (d).	Facts
+In this case, the assessment has commenced for the first time in 195455 and having regard to Part II of the Schedule to the Wealthtax Act, the first year 195455 having ended in a loss, the assessment year can be said to commence only from.	Facts
+195556.	None
+For five years from then, the assessee would be entitled to the exemption.6.	Facts
+As mentioned above, the Appellate Tribunal referred the question at the instance of the Commissioner, and the High Court answered the question against the assessee.	Facts
+The assessee having obtained leave from the High Court, the appeal is now before us.7.	Facts
+The learned counsel for the assessee contends that the word established in S. 45 (d) has the same meaning as it has in S. 5 (1) (xxi) of the Act, which was interpreted by this Court in Commissioner of Wealthtax.	Arguments of Petitioner
+Madras v. Ramaraju Surgical Cotton Mills Ltd., 196763 ITR 478 at pp.	Arguments of Petitioner
+481482 (AIR 1967 SC 509 at p. 511).	Arguments of Petitioner
+He says that the word established cannot be equated with the word incorporated.	Arguments of Petitioner
+The learned counsel for the respondent, on the other hand, contends that the word established in S. 45 (d) has a different meaning to that in S. 5 (1) (xxi), as S. 45 (d) deals with a company being established while S. 5 (1) (xxi) deals with a unit being established.	Arguments of Respondent
+Bhargava, J., speaking for the Court, in 1906763 ITR 478 at pp. 481482 (AIR l967 SC 509 at p. 511) observedA unit cannot be said to have been set unless it is ready to discharge the function for which it is being set up.	None
+It is only when the unit has been put into such a shape that it can start functioning as a business or a manufacturing organisation that it can be said that the unit has been set up.	None
+The expression used in the proviso, under which the period for which the exemption is available is to be determined, is not the same as that used in the principal clause.	None
+In the proviso the period of five successive years of exemption has to commence with the assessment year next following the date on which the company commence operations for the establishment of the suit.	None
+Operations for the establishment of a unit from the very nature of that expression, can only signify steps that have to be taken to establish the unit.	None
+The word set up in the principal clause, in our opinion, is equivalent to the word established, but operations for establishment cannot be equated with the establishment of the unit itself or its setting up.	None
+The applicability of the proviso has therefore, to be decided by finding out when the company commenced operations for establishment of the unit, which operation must be antecedent to the actual date on which the company is held to have been set up for purposes of the principal clause.	None
+This is also the meaning that the Bombay High Court derived in the case in Western India Vegetable Products Ltd. v. Commr. of Income Tax, Bombay City, 195426 ITR 151 (AIR 1955	None
+Bom 13 ) where that Court was concerned with the interpretation of the expression set up as used in Section 2 (11) of the Incometax Act.	None
+That Court held It seems to us that the expression setting up means, as is defined in the Oxford English Dictionary, to place on foot or to establish, and in contradistinction to commence.	None
+The distinction is this that when a business is established and is ready to commence business, then it Can be said of that business that it is set up.	None
+But before it is ready to commence business it is not set up.	None
+This view was expressed when that Court was considering the difference between the meaning of the expression setting up a business and commencing of a business.	None
+8.	None
+It seems to us that the same meaning must be given to the word established in S. 45 (d) as in S. 5 (1) (xxi).	Reasoning
+It would be noticed that S. 45 uses the word established in C1.	Reasoning
+(c) and in the proviso to Cl.	Reasoning
+(d), while the word formed is also used, apart from the word established in Cl.	Reasoning
+(d) and in Cl (f) the word registered is used.	Reasoning
+There is a clear distinction between the word registered or incorporated and the word established.	Reasoning
+If the Legislature was thinking of incorporation of a company, then we fail to understand why this word was not used instead of the word established.	Reasoning
+Further, if we look at Cl.	Reasoning
+(d), it excludes certain industrial undertakings from the benefit of S. 45 what are excluded are companies formed by the splitting up, or the reconstruction of a business already in existence or by the transfer to a new business of any building, machinery or plant used in a business which was being previously carried on.	Reasoning
+Ordinarily the date of incorporation of a company has nothing to do with the transfer of a machinery or plant to it.9.	Reasoning
+The case of Thomas J. Davidson v. W. L. Lanier, (186567) 18 Law Ed 377 at p. 379 also lends support to the interpretation which we have placed on the word established.	Reasoning
+Chase.	Reasoning
+C. J., observedWhat is, meant by putting in operation or establishing a Banking Company?	Reasoning
+We think that this language has a much wider import than mere commencement of business.	Reasoning
+To establish a company for any business means complete and permanent provision for carrying on that business, and putting a company in operation may well include its continued as well as its first or original operation.10.	Reasoning
+We may mention that no other point was debated before us.11.	None
+In the result we hold that the assessee was established within S. 45 (d) of the Act in December 1953, or January 1, 1954.	Decision
+The first assessment year following the date of establishment of the Company was 195455, and the next four assessment years would he 195556, 195657, 195758 and 195859.	Decision
+The only assessment year in dispute that is not covered is 195960.	Decision
+Consequently the answer to question referred is at the exemption for the assessment years 195758 and 195859 was wrongly withheld while the exemption for the year 195960 was rightly not granted.	Decision
+We accordingly accept the appeals and answer the question as indicated above.	Decision
+There will be no order to costs.12.	None
+Order accordingly.	None

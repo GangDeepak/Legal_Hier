@@ -1,0 +1,91 @@
+ Hegde, J.1.	None
+Both these appeals, by special leave arise from the judgment of the High Court of Madras in a Reference under S. 64 (1) of the Estate Duty Act, 1953 (to be hereinafter referred to as the Act).2.	Issue
+The question of law referred in that case is Whether, on the facts and in the circumstances of the case, the properties settled by the deceased by the six deeds of settlement (two of them dated 26th June, 1951 and four of them dated 30th June 1951) valued at Rs. 7,38,656/ or any part thereof was not liable for inclusion in the estate of the deceased as property deemed to pass on his death.3.	Issue
+The High Court answered that question partly in favour of the Revenue and partly in favour of the assessee.	Issue
+It opined that the value of the property gifted in favour of the wife of the deceased is not to be taken into consideration in computing the value of the property that passed on the death of the deceased.	Issue
+In respect of the properties gifted to the sons, grandsons and the daughter of the deceased only the annual payments that had to be made to the deceased as well as his right to maintenance should be valued for the purpose of determining the extent of the right that passed on his death.4.	Issue
+The facts of the case material for the purpose of deciding the question of law formulated above, as could be gathered from the case stated are as follows One Ratnasabapathy Pillai was the owner of the properties with which we are concerned in this case.	Facts
+He died on February 5, 1959 leaving behind him his four sons, some grandsons wife and daughter who are the accountable persons.	Facts
+They furnished an account of the properties passing on the death of the deceased to the Deputy Controller of Estate Duty, Madras who was the assessing authority.	Facts
+The Deputy Controller did not accept the correctness of the return made by them.	Facts
+He added to the return made, the value of the following properties settled by the deceased on his wife, sons, grandsons and daughter.	Facts
+TABLE5.	None
+By the deeds in question the deceased settled the properties in favour of the beneficiaries absolutely and with full power of alienation.	Facts
+The deeds in favour of his sons and the minor grandsons contained a provision as under You have to pay me during my lifetime a sum of Rs. 1000/ per year for my domestic expenses.	Facts
+The deed in favour of the daughter contained a provisionYou have to maintain myself and my wife during our lifetime.	None
+The deed in favour of the wife contained the following words In the hope that you will support me during my lifetime, I do hereby settle6.	None
+The Deputy Controller held that the deceased had reserved to himself an interest for life in the properties comprised in the above settlements, within the meaning of S. 12 of the Act.	None
+He accordingly included the value of those properties for the purpose of determining the value of the properties that passed on the death of the deceased.	Facts
+The accountable persons appealed to the Central Board of Direct Taxes, New Delhi.	Facts
+They contended before the Board that the conditions or stipulations contained in the deeds of settlement in favour of the sons, minor grandsons and daughter merely amounted to an expression of a desire and hence could not be interpreted as a reservation within the meaning of S. 12 as those conditions or stipulations did not detract from the absolute character of the settlements.	Facts
+With regard to the settlement made in favour of the wife, it was argued before the Board that the deceased had expressed only a hope that his wife would support him and maintain him during his life time, and the words used in the deed were vague and unenforceable in law as a stipulation.	Facts
+The Board rejected these contentions.	Facts
+It opined that the main point in issue in the case was whether an interest in the property was reserved by the deceased.	Facts
+It held that all the settlements fell within the scope of S. 12 or at any rate it came within S. 10 of the Act.	Facts
+Thereafter at the instance of the accountable persons, the question set out earlier was referred to the High Court.7.	Facts
+We have earlier set out the answer given by the High Court.	Facts
+The High Court held that S. 12 was wholly inapplicable to the facts of the case and the case has to be considered only under Section 10.	Facts
+Even under that section, the High Court opined, the entire value of the property settled on the various beneficiaries cannot be taken into consideration.	Facts
+All that can be taken into consideration is the value of the interest reserved by the deceased to himself during his lifetime.	Facts
+Further it held that the value of the properties settled on the wife of the deceased should be wholly excluded from consideration as the expression of a wish that his wife should support him during his lifetime did not amount to retention of any benefit in the property settled.	Facts
+On behalf of the Revenue, the conclusion reached by the High Court was challenged.	Facts
+It is contended that the value of the entire property settled by the deceased should have been taken into consideration.	None
+But, on the other hand it was contended on behalf of the accountable persons that neihter S. 12 nor S. 10 is applicable to the facts of the present case.	Arguments of Respondent
+Before considering whether Ss. 10 and 12 or either of them is applicable to the facts of the case, it is necessary to mention that in respect of the amount made payable by the sons and grandsons to the deceased, no charge on the property settled was created.	Reasoning
+Similarly no charge was created on the property settled on the daughter in respect of her liability to maintain her father and mother.	Reasoning
+So far as the stipulation contained in the deed in favour of the wife of the deceased, it was merely a hope and expectation and no enforceable liability as such was created.	Reasoning
+Hence we are in agreement with the High Court that no part of the property settled on the wife of the deceased can be taken into consideration in computing the value of the property that passed on the death of the deceased.	Reasoning
+We are also in agreement with the High Court that S. 12 is wholly inapplicable to the facts of the case.	Reasoning
+That section to the extent material for our present purpose reads 12 (1) Property passing under any settlement made by the deceased by deed or any other instrument not taking effect as a will whereby an interest in such property for life or any other period determinable by reference to death is reserved either expressly or by implication to the settlor or whereby the settlor may have reserved to himself the right by the exercise of any power, to restore to himself or to reclaim the absolute interest in such property shall be deemed to pass on the settlors death.(The provisos to the Section, the explanation as well as subs.	None
+(2) of S. 12 are not relevant for our present purpose.)8.	None
+So far as the applicability of S. 12 (1) is concerned, it is nobodys case that the beneficiaries became entitled to the properties settled on them after the death of the deceased.	Reasoning
+There is no support for the contention of the Revenue that an interest in the properties settled was reserved to the deceased during his lifetime or for any period after the properties were settled nor is there any provision in the deeds enabling the deceased to reclaim the property or its possession under any circumstance.	Reasoning
+None of the conditions laid down in Section 12 (1) are attracted to the provisions contained in the deeds of settlement.9.	None
+Now turning to S. 10, the portion that is material for our present purpose is found in the main section.	None
+The provisos to that section are not relevant.	None
+The material part of the section readsProperty taken under any gift, whenever made, shall be deemed to pass on the donors death to the extent that bona fide possession and enjoyment of it was not immediately assumed by the donee and thenceforward retained to the entire exclusion of the donor or of any benefit to him by contract or otherwise10.	None
+This section provides that unless a bona fide possession and enjoyment of the property gifted is assumed immediately after the gift by the donee and thenceforward retained to the entire exclusion of the donor or of any benefit to him by contract or otherwise, the said property will be deemed to have passed on the death of the donor.	None
+In other words the section has two parts viz.	None
+, (1) the donee must bona fide have assumed possession and enjoyment of the property which is the subjectmatter of the gift to the exclusion of the donor immediately upon the gift and (2) the donee must have retained such possession and enjoyment of the property to the entire exclusion of the donor or of any benefit to him by contract or otherwise.	Arguments of Respondent
+Both these conditions are cumulative.	None
+Unless each of these conditions is satisfied the property would be liable to estate duty under Section 10 of the Act  see the decision of this Court in George Da Costa v. Controller of Estate Duty, Mysore, 63 ITR 497 (AIR 1967 SC 849 ).	None
+Therein the scope of S. 10 came up for consideration.	None
+Speaking for the Court this is what Ramaswami J. observed in that caseA gift of immovable property under S. 10 will, however, be dutiable unless the donee assumes immediately exclusive and bona fide possession and enjoyment of the subjectmatter of the gift and there is no beneficial interest reserved to the donor by contract or otherwise.	None
+The section must be grammatically construed as follows Property taken under any gift, whenever made, of which property bona fide possession and enjoyment shall not have been assumed by the donee immediately upon the gift, and of which property bona fide possession and enjoyment shall not have been thenceforward retained by the donee to the entire exclusion of the donor from such possession and enjoyment, or of any benefit to him, by contract or otherwise.	Arguments of Respondent
+The crux of the section lies in two parts (1) the donee must bona fide have assumed possession and enjoyment of the property, which is the subjectmatter of the gift, to the exclusion of the donor, immediately upon the gift, and (2) the donee must have retained such possession and enjoyment of the property to the entire exclusion of the donor or of any benefit to him, by contract or otherwise.	Arguments of Respondent
+As a matter of construction we are of opinion that both these conditions are cumulative.	None
+Unless each of these conditions is satisfied, the property would be liable to estate duty under S. 10 of the Act.	None
+Proceeding further the learned Judge observed The second part of the section has two limbs the deceased must be entirely excluded, (i) from the property, and (ii) from any benefit by contract or otherwise.	None
+It was argued for the appellant that the expression by contract or otherwise should be construed ejusdem generis and reference was made to the decision of Hamilton J. in Attorney General v. Seccombe (1911) 2 K. B. 688.	None
+On this aspect of the case, we think that the argument of the appellant is justified.	None
+In the context of the section, the word otherwise should in our opinion, be construed ejusdem generis and it must be interpreted to mean some kind of legal obligation or some transaction enforceable at law or in equity which, though not in the form of a contract, may confer a benefit on the donor.11.	None
+It was contended on behalf of the assessee that the expression of any benefit to him by contract or otherwise in S. 10 must be in the property settled and not a benefit arising from the transaction resulting in the gift.	Arguments of Respondent
+To put it differently the assessees contention was that the benefit by contract or otherwise must be referrable to the property gifted because all the earlier conditions stipulated in the section refer to the property gifted.	Arguments of Respondent
+It it was otherwise, the Counsel for the assessee urged, S. 10 cannot be considered to have two parts as held in Da Costas case 63 ITR 497 (AIR 1967 SC 849 ) (supra) but it must be held to have three parts viz.	Arguments of Respondent
+(1) that the donee must bona fide have assumed possession and enjoyment of the property which is the subjectmatter of the gift to the exclusion of the donor immediately upon the gift (2) the donee must have retained such possession and enjoyment of the property to the entire exclusion of the donor and (3) the donor should not have retained any benefit to him by contract or otherwise under the gift.	Arguments of Respondent
+It was further urged that it is impermissible for the Court to add the words under the gift after the words of any benefit to him by contract or otherwise.	Arguments of Respondent
+On the other hand it was contended on behalf of the Revenue that if the donor is entitled to any benefit under the gift, whether the same is charged on the properties settled or not, the properties gifted must be deemed to have passed on his death.	Arguments of Petitioner
+The main part of S. 10 is not happily worded.	None
+It is difficult to find out the true effect of the expression of any benefit to him by contract or otherwise.	None
+Do these words mean any benefit under the gift?	None
+If that was so, the legislature should have said so.	None
+There was no difficulty in saying so.	None
+If a taxing provision is ambiguous and is reasonably capable of more than one interpretation, that interpretation which is beneficial to the subject must be adopted.	None
+This is a well accepted rule of construction.	Reasoning
+It is impermissible for the Court to read into a taxing provision any words which are not there or exclude words which are there.	Reasoning
+The words found in the provision must be given their natural meaning.	Reasoning
+In Da Costas case, this Court opined that there are only two parts to the section.	Reasoning
+We have set out those parts earlier.	Reasoning
+The contention of the Revenue runs counter to the reasoning adopted in Da Costas case.	Reasoning
+The contention advanced on behalf of the assessee finds support from some of the observations found in Da Costas case.	Reasoning
+The provisions for annual payments and maintenance made in the deeds as seen earlier are not charged on the properties settled.	Reasoning
+Hence the deceased cannot be said to have retained any interest in the properties settled.	Reasoning
+Therefore it cannot be said that he retained any benefit either in the properties settled or in respect of their possession.12.	Reasoning
+Hence in our opinion the facts of case do not come within the scope of S. 10.	Reasoning
+We, accordingly, allow the appeal of the assessee and hold that the value of the properties gifted or any part thereof is not liable to be included in computing the value of the estate that passed on the death of the deceased.	Reasoning
+In this view, it is not necessary for us to consider the meaning of the word extent found in S. 10.	Reasoning
+The decision of the Andhra Pradesh High Court in Mohammed Bhai v. Controller of Estate Duty, Andhra Pradesh, (1968) 69 ITR 770 (Andh Pra) rendered by one of us (Reddy J.) does not bear on the question of law that we have decided.13.	Reasoning
+In the result we allow the appeal of the assessee (Civil Appeal No. 474 of 1973), vacate the answer given by the High Court and answer the question referred by the Tribunal in the affirmative and in favour of the assessee.	Decision
+The appeal of the Revenue (Civil Appeal No. 1770 of 1970) is dismissed.	Decision
+The Revenue shall pay the costs of the assessee  one hearing fee.14.	Decision
+Appeals decided accordingly.	None

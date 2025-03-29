@@ -1,0 +1,472 @@
+ Mohit S. Shah, CJ.1.
+At the request of the learned Counsel for both the sides the petition was taken up for final disposal.2.
+The Petitioner, Vodafone India Services Pvt. Ltd., is a wholly owned subsidiary of a nonresident company, Vodafone TeleServices (India) Holdings Limited (the holding company).
+The Petitioner required funds for its telecommunication services project in India from its holding company during the financial year 200809 i.e. Assessment Year (AY) 200910.
+On 21 August 2008, the Petitioner issued 2,89,224 equity shares of the face value of Rs.10/ each on a premium of Rs.8,509/ per share to its holding company.
+This resulted in the Petitioner receiving a total consideration of Rs.246.38 crores from its holding company on issue of shares between August and November 2008.
+The fair market value of the issue of equity shares at Rs.8,519/ per share was determined by the Petitioner in accordance with the methodology prescribed by the Government of India under the Capital Issues (Control) Act, 1947.However, according to the Assessing Officer (AO) and Transfer Pricing Officer (TPO), the Petitioner ought to have valued each equity share at Rs.53,775/ as against the aforesaid valuation done under the Capital Issues (Control) Act, 1947 at Rs.8,519/ and on that basis shortfall in premium to the extent of Rs.45,256/ per share resulted into total shortfall of Rs.1308.91 crores.
+Both the AO and the TPO on application of the Transfer Pricing provisions in Chapter X of the Income Tax Act 1961, (the Act) held that this amount of Rs.1308.91 crores is income.
+Further, as a consequence of the above, this amount of Rs.1308.91 crores is required to be treated as deemed loan given by the Petitioner to its holding company and periodical interest thereon is to be charged to tax as interest income of Rs.88.35 crores in the financial year 200809 i.e. A. Y. 200910.According to the Petitioner, the Act does not tax inflow of capital into the country so as to impede its coming into India.
+Nor does the Act create any legal fiction to treat such alleged shortfall in capital receipt on issue of equity shares by an Indian company to its nonresident holding company, as income.
+The Petitioner also contends that consequently, there could be no question of treating the alleged shortfall as a deemed loan or taxing the alleged deemed interest on a deemed loan.
+The Petitioner has, therefore, moved this Court under Article 226 of the Constitution of India challenging the jurisdiction of the respondentauthorities to tax an International Transaction such as the present one which has not generated any income as defined under the Act.
+In short, the Petitioners contention is that absent income arising from an International Transaction, Chapter X of the Act has no application.
+The Assessment Year involved in this proceeding is A. Y. 200910.3.
+This petition is a sequel to the order dated 29 November 2013 passed by this Court in Writ Petition No.1877 of 2013 (VodafoneIII) filed by the present Petitioner.
+In VodafoneIII, the challenge by the Petitioner was to the order dated 28 January 2013 of the TPO passed in terms of Section 92CA of the Act and the consequent draft assessment order dated 22 March 2013 passed by the AO in terms of Section 143(3) read with Section 144(C)(1) of the Act, relating to A.Y. 200910.4.
+The basis of the challenge in VodafoneIII was that the issue of equity shares by the Petitioner to its holding company did not give rise to any income from International Transaction, so as to attract the provisions of Chapter X of the Act.
+This on the ground that arising of income on account of International Transaction is a condition precedent for application of Chapter X of the Act.
+Thus, it was a jurisdictional issue.
+However, the jurisdictional issue was neither determined by the TPO or the AO in spite of the Petitioner having raised it before both the Authorities.
+This Court in VodafoneIII accepted the plea of the Petitioner that a jurisdictional issue of application of Chapter X of the Act does arise and the same was not considered either by the TPO or by the AO.
+At that time, we did not deal with the jurisdictional issue as the Counsel for the RespondentRevenue refused to address us on merits of the jurisdictional issue on the ground that same could be raised before the authorities under the Act.
+Thus, as the Petitioner had already filed its objections (excluding the issue of jurisdiction) to the Draft Assessment Order, before the Dispute Resolution Panel (DRP) under Section 144C(2) of the Act and it was pending, the DRP was directed to first decide only the jurisdictional issue raised by the Petitioner as preliminary issue within two months from the date on which the Petitioner files its objection on the question of jurisdiction.
+Consequent to the directions of this Court in VodafoneIII, the DRP has considered the issue of jurisdiction as raised by the Petitioner and by an order dated 11 February 2014 rejected the Petitioners preliminary objection thereto.
+This petition essentially challenges the order dated 11 February 2014 passed by the DRP holding that the RespondentRevenue has jurisdiction to tax the Petitioners issue of shares to its holding company at a premium to the extent the premium is not received under Chapter X of the Act, as income does arise in the above International Transaction.5.
+For the purposes of completeness, we are setting out the facts leading to this Petition in four partsI. Till passing of the order by TPO.II.
+After passing of the order by TPO till filing of the previous Writ Petition (VodafoneIII).III.
+Observations made by this Court in VodafoneIII.IV.
+Hearing before DRP and impugned DRP order dated 11 February 2014.I. Basic Facts 6.
+(a) It is an undisputed position that the holding company is an Associated Enterprise (AE) of the Petitioner for the purpose of Chapter X as defined in Section 92A of the Act(b)
+The Petitioner issued 2,89,224 equity shares of a face value of Rs.10/ each at the premium of Rs.8,519/ per share to its holding company.
+This resulted in the Petitioner receiving at the rate of Rs.8519/ per share a total consideration of Rs.246.38 crores from its holding company on issue of shares.
+The Petitioner received an amount of Rs.86.93 crores on 21 August 2008 and the balance amount of Rs.159.46 crores on 5 November 2008 from its holding company.
+The allotment of the 2,89,224 equity shares was made on 5 February 2009.
+The Fair Market Value of the issue of equity shares was determined by the Petitioner in accordance with the methodology prescribed under the Capital Issues (Control) Act 1947(c)
+On 30 September 2009, the Petitioner filed its return of income for Assessment Year 200910 with the respondentrevenue.
+Along with its return of income, the Petitioner also filed Form 3CEB dated 28 September 2009 by an Accountant in accordance with Section 92E of the Act.
+In the said Form3CEB, the transaction of issuance of equity shares by the Petitioner to its holding company was declared as an International Transaction and also the ALP of the shares so issued, was determined.
+However, a note was appended to its Form 3CEB report by the Accountant making it clear that the transaction of issue of equity shares did not affect the income of the Petitioner and was being reported only as a matter of abundant caution.
+The note read as under Note 1quot
+The company has issued 289224 equity shares of Rs.10/each fully paid at a premium of Rs.8500 per share aggregating to total consideration of Rs.2,46,38,99,016.
+As per Section 92(1) of the Income Tax Act, 1961 any income arising shall be computed having regard to the arms length price.
+This transaction of issue of equity shares does not affect income of the Company.
+However, out of abundant caution, the same is reported here.(d)
+On 30 August 2010, the A.O. issued a notice under Section 143(2) of the Act to the Petitioner for the purposes of carrying out scrutiny assessment.
+On 11 July 2011, the AO referred all the transactions reported by the Petitioner in Form 3CEB dated 28 September 2009 to the TPO.
+This was for determining the ALP of the reported International Transactions in accordance with Section 92CA(1) of the Act(e)
+On 14 December 2012, the TPO issued a show cause notice to the Petitioner.
+In the above notice, in so far as relevant to these proceedings, the Petitioner was inter alia, called upon to show cause why(i) the issue price (including the premium) of the equity shares to its holding company as declared by the Petitioner should be accepted for the purposes of computing ALP under the Act and(ii) the ALP of the shares issued by the Petitioner to its holding company be not determined on the basis of its Net Asset Value (in short NAV), after taking into account the transfer pricing adjustment for the Assessment Years 200708 and 200809.
+The above adjustment would result in the NAV being enhanced from Rs.12,341.80 millions to Rs.75,564.28 millions.
+This would result in the ALP per share being enhanced leading to a price adjustment of Rs.2034.95 crores to arrive at the ALP of the equity shares.(f)
+The Petitioner filed its replies on 24 December 2012, 7 January 2013 and 22 January 2013 to the show cause notice issued by the TPO.
+The Petitioner in all its replies contended that Chapter X i.e. Transfer Pricing provisions do not apply to the issue of equity shares.
+Therefore, it was contended that the notice was completely without jurisdiction as Chapter X of the Act is inapplicable.
+It was also clarified that the replies should not be construed as submitting to jurisdiction under Chapter X of the Act(g)
+On 28 January 2013, the TPO passed the impugned order, inter alia, recording the following(i) The issue of equity shares is an International Transaction governed by Chapter X of the Act as is evident from Form 3 CEB dated 28 September 2009 filed by the Petitioner(ii)
+The transaction was an International Transaction as is evident from the Explanation (i)(c) and (e) to Section 92 B of the Act, which provides that capital financing and restructuring of business would be so(iii)
+The issue whether any Income has arisen and or affected by the International Transaction for purposes of Chapter X of the Act would be determined by the A.O.
+The jurisdiction exercised by TPO is only to determine the ALP of International Transactions and not compute and or assess the income arising out of such International Transactions(iv)
+The consequence of issue of shares by the Petitioner to its holding company at a lower premium resulted in the Petitioner subsidizing the price payable by the holding company.
+This deficit would be a loan extended by the Petitioner to its holding company and such loan would have bearing on the profit of the assessee in terms of interest(v) The ALP of the issue of equity shares by the Petitioner to its holding company as determined by the Accountant under Section 92E of the Act was rejected.
+This on the ground that methodology of valuation adopted is not suitable to derive the ALP(vi)
+The Transfer Pricing adjustment for the A.Y.s 200708 and 200809 have to be taken into account to determine the fair value of the Petitioners business(vii)
+Finally, the TPO determined the ALP of equity shares issued by the Petitioner to its holding company as under 7.5 Determination of Arms Length PriceThus, based on the above discussion, the ALP of equity shares of the company as on 31032008 is computed as belowDescriptionAmount (Rs. Million)Number Amount (Rs.)Remarks(a)Networth of the assessee company based on audited balance sheet as on 3103200812341.8 As per the audited balance sheet of the assessee as on 31032008(b)Add OffBalance sheet items (for TP adjustment made in the earlier years, ALP valuation of sale of call centre business and ALP of assignment of call options) i. Shortfall (net of taxes) in charging for provision of IT enabled services for FY 200607331.53 As per information available in the order of the TPO for the FY 200708(c)ii.
+Shortfall in charging for sale of call centre business during FY 20070813443.92 As per the order of the TPO for the FY 200809, as modified by the directions given by DRPI, Mumbai.(d)iii.
+Shortfall in charging for assignment of call options during FY 200708.
+61788.83
+As per the order of the TPO for the AY 200809(e)Less Provision for tax on shortfall in charging for sale of call centre during FY 200708 22.663046.39 As discussed above(f)Less Provision for tax on assignment of call option during FY 200708 33.9921002.02 As discussed above(g)Total Net Asset Present Value51515.87(h)No.
+of Equity Shares
+as on 31032008 9,57,992(i)ALP Value of each equity Share as on 31032008(g)  (h) 53,775Computation of ALPDescriptionNumber Amount (Rs.)(a)ALP Value of each equity shares as on 31032008)53,775(b)Value of equity shares as per the assessee8,519(c)Deficit amount per share (c) (a)(b)45,256(d)No. of equity shares issued2,89,224(e)Price charged by the assessee246,38,99,016(f)Arms Length Price (f) (a) x (d)1555,30,20,600(g)Total shortfall from ALP (g) (f)(e)1308,91,21,344As can be seen from above, the price charged by the assessee in these International Transactions falls beyond the 5 range.
+Thus, the above shortfall of Rs.1308,91,21,344/ is treated as transfer pricing adjustment for the price charged by the assessee in these International Transactions in the nature of issue of equity shares.(viii)
+The short fall in the value of shares issued by the Petitioner to its holding company was treated as a deemed loan by the Petitioner to its holding company.
+This deemed loan was sought to be charged with interest at 13.5 per annum.
+Consequently, the TPO arrived at the following transfer pricing adjustment as under 9.2.4 Computation of Arms Length PriceAmount of Deemed LoanRs.1308,91,21,344/Period6 monthsArms
+Length Interest Rate13.50 p.a.
+Arms Length Price 13.97 p.a.Rs.88,35,15,691/9.2.5 Price Received visAvis the Arms Length PriceThe price charged by the assessee at Rs.
+Nil in the form of interest chargeable on the debts delayed from its Associated Enterprise is compared to the Arms Length Price or interest as underArms Length InterestRs.88,35,15,691/Interest receivedRs.
+NilShortfall being adjustment 92CAu s Rs.88,35,15,691/The above amount of Rs.88,35,15,691/ is treated as an adjustment u s 92CA for the price chargeable as interest on the deemed loan to its AE for the F. Y. 200809.10 Summary of TP adjustmentsThe transfer pricing adjustments made in this order is summarized as belowSr.
+No.Nature of International TransactionsAdjustment Amount (Rs.)1.Shortfall in price of shares issued to AE1308,91,21,3442.Interest on deemed loan88,35,15,691TOTAL1397,26,37,035Thus the above total amount of Rs.1397,26,37,035/ is treated as transfer pricing adjustment for the FY 200809, relevant for the AY 200910.II.
+Post TPO order and filing of VodafoneIII Writ Petition7.
+(a) Consequent to the order dated 28 January 2013 of the TPO, the A.O. on 4 February 2013, issued notice to the Petitioner.
+The above notice under Section 142 (2) inter alia called upon the Petitioner to show cause as to why adjustment aggregating to Rs.1397.26 Crores as proposed by TPO should not be made to the total income of the Petitioner(b)
+On 12 February 2013 and 19 March 2013, the Petitioner responded to the show cause notice dated 4 February 2013.
+The Petitioner submitted that the order of the TPO is without jurisdiction as the transfer pricing provisions do not apply to a transaction of issuing equity shares to its holding company.
+Besides, the transaction of issuing shares cannot be governed by Chapter X of the Act as no income arises and or affected by it.
+Further, there is no occasion to recharacterize a bonafide transaction of issue of shares as deemed loan under the Act.
+Thus, it was submitted that the proceeding seeking to apply Chapter X of the Act to issue of shares to its holding company is bad in law(c) On 22 March 2013, the A.O. passed the impugned Draft Assessment Order under Section 143 read with Section 144C(1) of the Act.
+This without dealing with the Petitioners principal contention that Chapter X of the Act would not apply to the issue of equity shares to its holding company.
+This was not dealt with by the A.O. on the ground that in terms of Section 92CA (4) of the Act, the A.O. has to compute the total income in conformity with the ALP determined by the TPO.
+In view of the above, the A.O. added the entire amount of Rs.1397.26 Crores determined by the TPO to the Petitioners income(d) On 26 April 2013 the Petitioner filed its objection to the draft Assessment Order dated 22 March 2013 with the DRP under Section 144C of the Act.
+In its objections to DRP the Petitioner made it clear that the objection as filed was not with regard to the issue of jurisdiction but was only restricted to computation valuation quantification of ALP in respect of the issue of shares to its holding company(e) So far as the issue of jurisdiction is concerned, the Petitioner filed VodafoneIII Petition (W. P. No.1877 of 2013) in this Court.
+In the above Petition, the jurisdiction of the RespondentRevenue to tax the issue of equity shares to its holding company under Chapter X of the Act was challenged.
+After hearing the parties, on 29 November 2013, this Court passed an order accepting the view that a jurisdictional issue arises for consideration.
+III.
+High Court order  VodafoneIII Writ Petition 8.
+In the above order dated 29 November 2013, this Court made the following observations in paragraph 32 32.
+It is clear that in view of Section 92(1) , there must be income arising and or affected or potentially arising and or affected by an International Transaction for the purpose of application of Chapter X.
+This would appear to be in the nature of jurisdictional requirement and the Assessing officer must be satisfied that there is an income or a potential of an income arising and or being affected on determination of an ALP before he proceeds further in determining the ALP or referring the issue to the TPO to determine the ALP.
+In this case, we find that the Petitioner has from the very beginning been challenging the jurisdiction to apply Chapter X on the ground that no income arises and or is affected or potentially arises and or is affected on account of issue of its shares to its holding company.
+The Assessing officer does not deal with this objection issue before referring the matter to the TPO.
+The TPO does not deal with the above objection on the ground that in terms of Section 92CA, his mandate is only to compute the ALP in relation to the International Transaction.
+The TPO in the impugned order dated 28 January 2012 meets the Petitioners objection by stating that the same would be dealt with by the Assessing Officer.
+However, when the same objection was raised before the Assessing Officer post the order of the TPO, the Assessing Officer does not consider the same in the impugned draft assessment order dated 22 March 2013 on the ground that in view of Section 92 CA (4), the Assessing Officer is obliged to pass an order in conformity with the ALP determined by the TPO.
+This jurisdictional issue has to be dealt with either by the TPO or the Assessing Officer when specifically raised by the Petitioner assessee.
+Thereafter in paragraph 52, this Court recorded as under52 The assessee is entitled to have its preliminary objections (against chargeability of the alleged short fall in share premium) dealt with.
+Not a single authority has so far dealt with this issue and even the learned counsel for the revenue did not address us even briefly on merits of this controversy to show a plausible prima facie defence though the revenue sought to justify its stand in the affidavitinreply and in the written submissions after conclusion of the oral argument.
+Though the Petitioner submitted that we decide the issue on merits, we have not done so for the present for all the reasons pointed out above.
+Therefore, the submissions made on merits are not being considered by us and left open to be urged before the DRP for consideration by the DRP, but even proceeding on the basis that transaction in question is an International Transaction since the preliminary objection raised by the Petitioner raises a question of law and does not involve disputed questions of fact and having regard to how the Petitioners preliminary objection has so far not been dealt with by the Revenue, this appears to be a fit case to direct the DRP to decide the Petitioners objection regarding chargeability of alleged shortfall in share premium as a preliminary issue and further to observe that in case the decision of the DRP on the preliminary issue is adverse to the Petitioner, it would be open to the Petitionerassessee to challenge the decision of the DRP on the preliminary issue in a writ petition, in case the Petitioner makes out a case that stage that the decision of the DRP on the preliminary issue is patently illegal, notwithstanding the availability of alternate remedy before the ITAT.In paragraph 53, this Court disposed of the petition with the following directions53 (A) The Petitioner shall within two weeks from today submit before the DRP its preliminary objections to Draft Assessment Order and the TPOs order by raising jurisdictional issues.
+B)
+The DRP shall decide the issue of jurisdiction before considering issue of valuation quantification raised by the Petitioner in its objections filed before the DRP, this of course subject to the additional grounds on jurisdiction being filed by the Petitioner within two weeks from today.
+The DRP shall decide the issue of jurisdiction as a preliminary issue within two months from the date on which the Petitioner files its objections on the question of jurisdiction.(C)
+We make it clear that since the question of jurisdiction for applicability of Chapter X for the Assessment Year 200910 is raised independently of the challenge to the orders of the TPO and the AO for the Assessment Year 200809, the DRP shall decide the preliminary issue about applicability of Chapter X to the assessment for the Assessment Year 200910, without awaiting for decision on the dispute relating to the Assessment Year 200809.(D)
+We further make it clear that in case the decision of the DRP on the above preliminary issue is adverse to the Petitioner, it would be open to the Petitioner to challenge the order of the DRP on the preliminary issue in a writ petition if a case is made out at that stage that the decision of the DRP is patently illegal, notwithstanding the availability of alternative remedy of filing an appeal before the Income Tax Appellate Tribunal.
+IV.
+Hearing before DRP and impugned order of DRP 9.
+Consequent to the aforesaid directions dated 29 November 2013 of this Court in VodafoneIII, the Petitioner filed its preliminary objections on 12 December, 2012 and 6 January 2014 with the DRP.
+In its preliminary objections, Petitioner objected to the jurisdiction of the Revenue to apply Chapter X of the Act, primarily on the ground that no income arises on issue of equity shares by Petitioner to its holding company.
+This on the basis that such issue of shares neither gives rise to income and or impacts the income of the Petitioner.
+The TPO also filed its submission on 31 January, 2014 before the DRP.
+The TPO in its submission contested the Petitioners submission that in the facts of the present case, Chapter X of the Act is inapplicable.
+Thereafter, final personal hearing was granted on 2 February, 2014 at which time, the Petitioner filed its written submission in support of its preliminary objections on the issue of jurisdiction.10.
+Broadly, the crux of the objections to jurisdiction taken by the Petitioner before the DRP, were as under(i) Chapter X of the Act will not apply as the issue of equity shares by the Petitioner to its holding company does not give rise to any income(ii) Chapter X of the Act will not apply as no expenditure is incurred that impacts computation of the taxable income(iii) Chapter X of the Act will not apply as issue of shares is transaction on capital account and thus does not impact computation of income and(iv)
+Other issues raised were with regard to no jurisdiction to split a single transaction of issue of shares into issue of shares and grant of financial accommodation.
+This recharacterizing reclassifying a business transaction is not permitted.11.
+So far as the revenue is concerned, the basis of its justification to exercise jurisdiction under Chapter X of the Act, taken by the TPO before the DRP, were as under(i) Chapter X of the Act is a separate code by itself and the difference in valuation between ALP and the contract transaction price would give rise to income(ii) Income as defined in Section 2(24) of the Act is inclusive definition and it does not prohibit taxing capital receipts as income(iii)
+The forgoing of premium on the part of the Petitioner amounts to extinguishment relinquishment of a right to receive fair market value.
+Therefore, the issue of shares is a transfer within themeaning of Section 2(47) of the Act and(iv)
+The meaning of International Transaction as given in clauses (c) and (e) of the Explanation (i) to Section 92B of the Act would include within its scope even capital account transaction.12.
+Thereafter, on 11 February, 2014, the DRP passed the impugned order.
+By the above impugned order, it was held that the nonreceipt of the premium to the extent not received, is an income arising from issue of shares.
+Thus, the impugned order holds that the AO has jurisdiction to invoke Chapter X of the Act.13.
+The impugned order dated 11 February, 2014, holds that Section 92(1) of the Act, mandates computation of income arising out of International Transaction be determined, having regard to the ALP.
+It further holds that the term Income has not been defined in Chapter X of the Act unlike International Transaction.
+Therefore, the impugned order holds that term Income is to be construed in a broad manner embracing all types of receipts or incomings.
+In support, reliance is placed upon Section 2(24) of the Act which defines income in an inclusive manner and capital receipts which would otherwise not be covered by the term Income would also stand included in the definition.
+Therefore, all incomings would fall within the concept of income.
+The impugned order while accepting the fact that the term Income could receive a narrow meaning as canvassed by the Petitioner, yet accepts the broader meaning of Income canvassed on behalf of the respondentrevenue on the basis that the broader interpretation of the word Income would advance the object of Chapter X of the Act and would be purposive interpretation of the statutory provision.
+For this purpose, support was drawn from the definition of International Transaction as given in Section 92B of the Act and in particular to Explanation (i)(c) thereto which provides that the expression International Transaction includes capital financing like purchase of marketable securities.
+If the normal meaning of Income as canvassed by the Petitioner is adopted, then purchase of marketable securities, could never give rise to Income, rendering the provision otiose.
+Similarly, impugned order also draws support from clause (e) to Explanation (i) of Section 92B of the Act which includes a transaction of business restructuring or reorganization entered into as an International Transaction.
+This provision, according to the impugned order enables the A.O. to bring to tax income forgone while restructuring reorganizing the business.
+In such a case, though there is no formal transfer of source of income or tangibles, yet the income forgone would be notional income liable to tax under the provisions of Chapter X of the Act.
+On the aforesaid analysis, the impugned order holds that share premium not received on issue of shares is Income arising from International Transaction.14.
+The impugned order further holds that as a consequence of the Petitioners not receiving the ALP on the issue of shares, resulted in lesser premium being garnered by the Petitioner.
+This would result, in the Petitioner having less liquid funds available at its command which in turn could have reduced its debts or the excess funds could have been invested to earn income.
+Thus, the amount not received could have enhanced its potential income.
+In view of the above, the impugned order also holds that the share premium forgone has impacted potential income.
+Thus, appropriately giving rise to application of Chapter X of the Act to the transaction of issues of share.15.
+In conclusion, the impugned order at paragraph 44 holds as underIn the light of the elaborate discussion above, the directions given by the Honble Bombay High Court in its order dated 29.11.2013, stands disposed off.
+The DRPs findings are summarized as undera.
+On a broader and harmonious construction of the term income in Section 92(1), A.O. has jurisdiction to invoke Chapter X as share premium is an income arising from issue of shares (para 21)b.
+Even if the term income is not given a broad interpretation, the A.O. has jurisdiction to invoke Chapter X as there is income potentially arising or affected by the short receipt of share premium (para 24)Petitioners Submissions16.
+On the aforesaid facts, Mr. Harish Salve, learned Sr. Counsel appearing in support of the Petition, submits as under(a) Chapter X of the Act is a special provisions relating to avoidance of tax.
+Section 92 of the Act provides for computation of income arising from International Transaction, having regard to ALP.
+Section 92(1) of the Act which applies to the the present facts, directs that any income arising from an International Transaction should be computed, having regard to the ALP.
+Thus, the sinequa non, for application of Section 92(1) of the Act is that income should arise from an International Transaction.
+In this case, it is submitted that no income arises from issue of equity shares by the Petitioner to its holding company(b) The impugned order dated 11 February, 2014 after correctly holding that the word Income has not been separately defined for the purpose of Chapter X of the Act, yet proceeds to give its own meaning to the word Income.
+This is clearly not permissible.
+The word Income would have to be understood as defined by other provisions of the Act such as Section 2(24) of the Act.
+A fiscal statute has to be strictly interpreted upon its own terms and the meaning of ordinary words cannot be expanded to give purposeful interpretation (c) Chapter X of the Act is not designed to bring to tax all sums involved in a transaction, which are otherwise not taxable.
+The purpose and objective is not to tax difference between the ALP and the contracted book value of said transaction but to reach the fair price consideration.
+Therefore, before any transaction could be brought to tax, a taxable income must arise.
+The interpretation in the impugned order to tax any amounts involved in International Transaction tantamount to imposing a penalty for entering into a transaction (no way giving rise to taxable income) at a value which the revenue determines on application of ALP(d)
+The impugned order itself demonstrates the fact that the share premium on issue of shares is per se not taxable.
+This is so as the amounts received by the Petitioner on account of share premium has not been taxed and only the amount of share premium which is deemed not to have been received on application of ALP, has alone been brought to tax (e)
+In case of issue of shares, it comes into existence for the first time only when shares are allotted.
+It is the creation of the property for first time.
+This is different from the transfer of an existing property.
+An issue of shares is a process of creation of shares and not a transfer of shares.
+Therefore, there is no transfer of shares so as to make Section 45 of the Act applicable.
+It was submitted that if the contention of the Revenue is correct, then every issue of shares by any Company would be subjected to tax(f)
+The issue of shares by the Petitioner to its holding company and receipt of consideration of the same is a capital receipt under the Act.
+Capital receipts cannot be brought to tax unless specifically expressly brought to tax by the Act.
+It is well settled that capital receipts do not come within the ambit of the word Income under the Act, save when so expressly provided as in the case of Section 2 (24) (vi) of the Act.
+This brings capital gains chargeable under Section 45 of the Act, to tax within the meaning of the word Income(g)
+Attention was drawn to the definition of Income in Section 2(24) (xvi) of the Act which includes in its scope amounts received arising or accruing within the provisions of section 56(2) (viib) of the Act.
+However, it applies to issue of shares to a resident.
+Besides, it seeks to tax consideration received in excess of the fair market value of the shares and not the alleged shortfall in the issue price of equity shares.
+Thus, this also indicates absence of any intent to tax the issue of shares below the alleged fair market value as in this case(h) The impugned order proceeds on an assumption, surmise or conjecture that in case the notional income i.e. the amount of share premium forgone was received, the Petitioner would have invested the same, giving rise to income.
+It is submitted that no tax can be charged on guess work or assumption or conjecture in the absence of any such income arising and(i)
+The impugned order places reliance upon the meaning of International Transaction as provided in subsection (c) and (e) of Explanation (i) to Section 92B of the Act to conclude the Income arises.
+It is submitted that Explanation (i)(c) to Section 92B of the Act only states that capital financing transaction such as borrowing money and or lending money to AE would be an International Transaction.
+However, what is brought to tax is not the quantum of amount lent and or borrowed but the impact on Income due to such lending or borrowing.
+This impact is found in either under reporting over reporting the interest paid interest received etc., Similarly, Explanation (i)(e) to Section 92B of the Act, which covers business restructuring would only have application if said restructuring reorganizing impacts income.
+If there is any impact of income on account of business restructuring reorganizing, then such income would be subjected to tax as and when it arises whether in present or in future.
+In this case, such a contingency does not arise as there is no impact on Income which would be chargeable to tax due to issue of shares.
+Respondents Submissions17. (a) As against the above, Mr. Ranjit Kumar, learned Solicitor General appearing on behalf of the respondentrevenue sought to support the impugned order dated 11th February, 2014 on completely new grounds i.e. grounds completely different from the grounds in the impugned order.
+However, as the new grounds were being canvassed only on legal issues, we were of the view that the same could be canvassed before us rather then sending it to the DRP for fresh consideration.
+This view was taken by us also bearing in mind that in VodafoneIII, the revenue refused to make any submission on merits of jurisdictional issue on the ground that it would be considered by the Authorities under the Act(b)
+Therefore, we informed the learned Solicitor General that it would only be fair that in case he is seeking to support the impugned order, with fresh reasons, then respondentrevenue should file an affidavit, indicating the new grounds of support to the impugned order.
+This would give an opportunity to the Petitioner also to respond to the same(c) Consequently, an affidavit of Mr. Bhanwar Singh Ratnoo, Dy, Commissioner of Income Tax dated 9 September, 2014 was filed.
+In the above affidavit, it has been stated that Section 92(1) of the Act is to be read with Section 92(2) of the Act.
+It is stated that a conjoint reading of two provisions would indicate that what is being brought to tax under Chapter X of the Act is not share premium but is the cost incurred by the Petitioner in passing on a benefit to its holding company by issue of shares at a premium less than ALP.
+This benefit is the difference between the ALP and the premium at which the shares were issued.
+It is submitted in the affidavit that by issue of shares by the Petitioner to its holding company, resulted in the following benefits to its holding company(a) cost incurred by the Indian Co. for a corresponding benefit given to the Holding Co.
+After all, the Holding Co. has actually got shares worth Rs.53,775/ each at a price of Rs.8,159/ each.,(b)
+benefit also accrues to the valuation of Holding Co. in the international market by taking undervalued shares of the subsidiary Co., by increasing the real net worth of the Holding Co.18.
+Besides the above, at the hearing, following further submissions in support of the conclusion arrived by the impugned order were also advanced(a) The Petitioner does not challenge the constitutional validity of Chapter X of the Act or any of the Sections therein.
+The Petitioner raises only an issue of interpretation.
+Moreover, the fact that the PetitionerCompany and its holding company are AEs within the meaning of Chapter X of the Act is also not disputed.
+Therefore, the provisions of Chapter X of the Act are fully satisfied and applicable to the facts of the present case(b) The Petitioner itself had submitted to the jurisdiction of Chapter X of the Act by filing submitting Form 3CEB, declaring the ALP.
+Thus, the respondentrevenue were under an obligation toscrutinize the same and when found that the ALP determined by the PetitionerCompany is not correct, the AO and the TPO were mandated to apply Chapter X of the Act and compute the correct ALP.
+Therefore, the Petitioner should be relegated to the alternate remedy of approaching the Authorities under the Act(c)
+The issue of Chapter X of the Act being applicable is no longer res integra as identical provision as found in Section 92 of the Act was available in Section 42(2) of the Income Tax Act, 1922 (1922 Act).
+The Supreme Court in Mazagaon Dock Ltd. v. CIT 1988 34 ITR 368 upheld the action of revenue in seeking to tax a resident in respect of profit which he would have normally made but did not make because of his close association with a nonresident.
+Further, the Court observed that it is open to tax notional profits and also impose a charge on the resident.
+The aforesaid provision of Section 42(2) of the 1922 Act were incorporated in its new avtar as Section 92 of the said Act.
+It was thus emphasized that the legislative history supports the stand of the respondentrevenue that even in the absence of actual income, a notional income can be brought to tax(d) Section 92(1) of the Act uses the word Any income arising from an International Transaction.
+This indicates that the income of either party to the transaction could be subject matter of tax and not the income of resident only.
+Further, it is submitted that for the purpose of Chapter X of the Act, real income concept has no application, otherwise the words would have been actual Income.
+Therefore, the difference between ALP and the contracted price would be added to the total Income(e)
+It was next submitted under the Act what is taxable is income when it accrues or arises or when it is deemed to accrue or arise and not only when it is received.
+Therefore, even if an amount is not actually received, yet,in case income has arisen or deemed to arise, then the same is chargeable to tax.
+Thus, the difference between ALP and contract price is an income which has arisen but not received.
+Thus, income forgone is also subject to tax(f) Chapter X of the Act is a complete code by itself and not merely a machinery provision to compute the ALP.
+Chapter X of the Act applies wherever the ALP is to be determined by the A.O.
+It is the hidden benefit in the transaction which is being charged to tax.
+Therefore, the charging section is inherent in Chapter X of the Act(g) Even if there is no separate head of income under Section 14 of the Act in respect of International Transaction, such passing on of benefit by the Petitioner to its holding company would fall under the head Income from other sources under Section 56(1) of the Act and(h) Section 4 of the Act is the charging Section which provides that the charge will be in respect of the total Income for the Assessment Year.
+The scope of total Income is defined in Section 5 of the Act to include all Income from whatever source which is received or accrues or arises or deemed to be received, accrued or arisen would be a part of the total Income.
+Therefore, the word Income for purposes of Chapter X of the Act is to be given a widest meaning to be deemed to be income arising, for the purposes of total income in Section 5 of the Act.
+In view of the above, it was submitted that the Petition should not be entertained.19.
+It was, therefore, in rejoinder that the Petitioner had to address us on the new ground taken to support the impugned order as stated in the further affidavit dated 9 September, 2014 filed by the revenue.
+It was pointed out that Section 92(2) of the Act will have no application in the present facts as it deals with costs or expenditure allocated or apportioned between two or more AE.
+The objective of Section 92(2) of the Act is only to ensure that profits are not understated nor losses over stated by disclosing higher cost or expenditure, then the benefit received.
+Therefore, it is submitted that Section 92(2) of the Act has no application to the present facts.20.
+Thereafter, we adjourned the hearing to enable the respondentrevenue to respond to the above submission by the Petitioner which were in the nature of reply to the new ground taken up by the revenue, in its reply at the hearing.
+However, the respondentrevenue chose to file their written submissions.
+The written submissions have been filed and submissions therein have already been taken note of herein above.
+Statutory Provisions 21.
+Before considering rival submission, it would be useful to set out the relevant provision of the Act which would have bearing to decide the controversy which arises before us as underSection 2(24)  
+In this Act, unless to context otherwise requires(1) to (23) (24) Income includes(i) profits and gains,(ii) to (v) (vi) any capital gains chargeable under section 45 and(xvi) any consideration received for issue of shares as exceeds the fair market value of the shares referred to in clause (viib) of subsection (2) of section 56.Income from other sources.
+Section 56(1) Income of every kind which is not to be excluded from the total income under this Act shall be chargeable to incometax under the head income from other sources, if it is not chargeable to Incometax under any of the heads specified in section 14, items A to E.(2)
+In particular and without prejudice to the generality of the provisions of subsection (1), the following incomes, shall be chargeable to incometax under the head income from other sources namely (viib) Where a company, not being a company in which the public are substantially interested, receives, in any previous year, from any person being a resident, any consideration for issue of shares that exceeds the face value of such shares, the aggregate consideration received for such shares as exceeds the fair market value of the shares.
+w.e.f. 1.4.2013. (Emphasis Supplied)Section 92  Computation of income from International Transaction having regard to arms length price.92 (1) Any income arising from an International Transaction shall be computed having regard to the arms length price.
+Explanation  For the removal of doubts, it is hereby clarified that the allowance for any expense or interest arising from an International Transaction shall also be determined having regard to the arms length price.(2) Where in an International Transaction or specified domestic transaction, two or more associated enterprises enter into a mutual agreement or arrangement for the allocation or apportionment of, or any contribution to, any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises, the cost or expense allocated or apportioned to, or, as the case may be, contributed by, any such enterprise shall be determined having regard to the arms length price of such benefit, service or facility, as the case may be.(2A) to (3) Meaning of International Transaction.
+Section 92B (1)  
+For the purposes of this section and sections 92, 92C, 92D and 92E, International Transaction means a transaction between two or more associated enterprises, either or both of whom are nonresidents, in the nature of purchase, sale or lease of tangible or intangible property, or provision of services, or lending or borrowing money, or any other transaction having a bearing on the profits, income, losses or assets of such enterprises, and shall include a mutual agreement or arrangement between two or more associated enterprises for the allocation or apportionment of, or any contribution to, any cost or expense incurred or to be incurred in connection with a benefit, service or facility provided or to be provided to any one or more of such enterprises.(2) A transaction entered into by an enterprise with a person other than an associated enterprise shall, for the purposes of subsection (1), be deemed to be a transaction entered into between two associated enterprises, if there exists a prior agreement in relation to the relevant transaction between such other person and the associated enterprise, or the terms of the relevant transaction are determined in substance between such other person and the associated enterprise.
+Explanation  For the removal of doubts, it is hereby clarified that(i) the expression international transaction shall include(a) to (b) (c) capital financing, including any type of longterm or shortterm borrowing, lending or guarantee, purchase or sale of marketable securities or any type of advance, payments or deferred payment or receivable or any other debt arising during the course of business(d) (e) a transaction of business restructuring or reorganization, entered into by an enterprise with an associated enterprise, irrespective of the fact that it has bearing on the profit, income, losses or assets of such enterprises at the time of the transaction or at any future date.
+Section 92 (f) (i) . .
+.(ii)
+arms length price means a price which is applied or proposed to be applied in a transaction between persons other than associated enterprises, in uncontrolled conditions.22.
+Chapter X of the Act in the present form replaced the erstwhile Section 92 of the Act by Section 92 to 92F of the Act with effect from A. Y. 200203.
+Erstwhile Section 92 of Chapter X of the Act did deal with cross border transactions permitting adjustments of profits made by a resident in case of transactions with nonresident (two entities having close connection) if the profits of the resident were understated.
+This and Section 40A(2) of the Act which governed all assessee, did give some power to the AO to ensure the correct profits are brought to tax in case of cross border transactions.
+However, in the light of Indian Economy opening up and becoming part of the global economy, leading to a spate of foreign companies (Multinational Enterprises) establishing business in India either by itself or through its subsidiaries or joint ventures.
+Similarly, Indian Companies ventured abroad, operating either by itself or through its subsidiaries or joint venture companies.
+These multinational enterprises had transaction between themselves and these transactions not being subject to market forces, the consideration were fixed within the group to ensure transfer of income from one tax jurisdiction to another as appeared profitable to them.
+Thus, the new Sections 92 to 92F of the Act were introduced with effect for A. Y. 200203 as a part of Chapter X of the Act.
+The aim being to have well defined rules to tax transactions between AEs and not left to the discretion of the A.O. and bring out uniformity in treatment to tax of International Transaction between AEs.
+The Explanatory Notes to the Finance Act, 2001 brings out the objectives as indicated in the Circular No.14 of 2001 which read as under55.3 With a view to provide a detailed statutory framework which can lead to computation of reasonable, fair and equitable profits and tax in India.
+In the case of such multinational enterprises, the Act has substituted section 92 with a new section and has introduced new sections 92A to 92F in the Incometax Act, relating to computation of income from an International Transaction having regard to the arms length price, meaning of associated enterprise, meaning of International Transaction, computation of arms length price, maintenance of information and documents by persons entering into International Transactions, furnishing of a report from an accountant by persons entering into International Transactions and definitions of certain expressions occurring in the said sections.55.4 The newly substituted section 92 provides that income arising from an International Transaction between AE shall be computed having regard to the arms length price.
+Any expense or outgoing in an International Transaction is also to be computed having regard to the arms length price.
+Thus in the case of a manufacturer, for example, the provisions will apply to exports made to the AE as also to imports from the same or any other associated enterprise.
+The provision is also applicable in a case where the International Transaction comprises only an outgoing from the Indian assessee.55.5 The new section further provides that the cost or expenses allocated or apportioned between two or more AE under a mutual agreement or arrangement shall be at arms length price.
+Examples of such transactions could be where one associated enterprise carries out centralized functions which also benefit one or more other AE, or two or more AE agree to carry out a joint activity, such as research and development, for their mutual benefit.55.6 The new provision is intended to ensure that profits taxable in India are not understated (or losses are not overstated) by declaring lower receipts or higher outgoings than those which would have been declared by persons entering into similar transactions with unrelated parties in the same or similar circumstances.
+The basic intention underlying the new transfer pricing regulations is to prevent shifting out of profits by manipulating prices charged or paid in International Transactions thereby eroding the countrys tax base.
+The new section 92 is, therefore, not intended to be applied in cases where the adoption of the arms length price determined under the regulations would result in a decrease in the overall tax incidence in India in respect of the parties involved in the International Transaction.23.
+Thus to get over transfer mispricing manipulation abuse that the market based transfer pricing was introduced, known as ALP.
+Therefore, it is clear that Chapter X of the Act now existing was to ensure that qua International Transaction between AEs, the profits are not understated nor losses overstated by abuse of either showing lesser consideration or higher expenses between AEs than would be the consideration between two independent entities, uninfluenced by relationship.
+It did not replace the concept of Income or Expenditure as normally understood in the Act for the purposes of Chapter X of the Act.
+The objective of Chapter X of the Act is certainly not to punish Multinational Enterprises and or AEs from doing business inter se.
+However, we are conscious of the fact that in fiscal statutes, whatever may be the intent of the Parliament, the Courts have to construe the statute strictly on the basis of what is stated in the Act.
+We are governed by the off quoted passage of Rowlatt J. to the following effect In a taxing Act, one has to look merely at what is clearly said.
+There is no room for any intendment.
+There is no equity about tax.
+There is no presumption as to tax.
+Nothing is to be read in nothing is to be implied.
+One can only look fairly at the language employed.
+The above principle was restated by Justice J. C. Shah (as he then was) in CST v. Madi Sugar Mills AIR 1961 SC 1047 in following words In Interpreting a taxing statute, equitable consideration are out of place.
+Nor can a taxing statute be interpreted or any presumption or assumptions.
+It must interpret a taxing statute in the light of what is clearly expressed.
+Thus, we would examine the provisions of Chapter X of the Act with the aid of the submission made before us.
+Findings 24.
+A plain reading of Section 92(1) of the Act very clearly brings out that income arising from a International Transaction is a condition precedent for application of Chapter X of the Act.
+This has already been so held by the order dated 29 November 2013 of this Court in VodafoneIII.
+We could have straight way held that the issue of examining the jurisdiction to apply Chapter X of the Act stands concluded by the order in VodafoneIII.25.
+But we have examined the issue afresh.
+The word income for the purpose of the Act has a well understood meaning as defined in Section 2(24) of the Act.
+This even when the definition in Section 2(24) of the Act is an inclusive definition.
+It cannot be disputed that income will not in its normal meaning include capital receipts unless it is so specified, as in Section 2(24) (vi) of the Act.
+In such a case, Capital Gains chargeable to tax under Section 45 of the Act are, defined to be income.
+The amounts received on issue of share capital including the premium is undoubtedly on capital account.
+Share premium have been made taxable by a legal fiction under Section 56(2)(viib) of the Act and the same is enumerated as Income in Section 2(24)(xvi) of the Act.
+However, what is bought into the ambit of income is the premium received from a resident in excess of the fair market value of the shares.
+In this case what is being sought to be taxed is capital not received from a nonresident i.e. premium allegedly not received on application of ALP.
+Therefore, absent express legislation, no amount received, accrued or arising on capital account transaction can be subjected to tax as Income.
+This is settled by the decision of this Court in Cadell Weaving Mill Co. v. CIT 2011 249 ITR 265/116 Taxman 77 was upheld by the Apex Court in CIT v. D.P Sandu Bros. Chember (P.) Ltd. 2005 273 ITR 1 /142
+Taxman 713 .
+This Court has in Cadell Weaving Mills Co.
+(supra) inter alia, observed as underIt is well settled that all receipts are not taxable under the Income tax Act.
+Section 2(24) defines income.
+It is no doubt an inclusive definition.
+However, a capital receipt is not income under section2(24) unless it is chargeable to tax as capital gains under Section 45.
+It is for this reason that under section 2(24)(vi) that the Legislature has expressly stated, inter alia, that income shall include any capital gains chargeable under section 45.
+Under Section 2(24)(vi), the Legislature has not included all capital gains as income.
+It is only capital gains chargeable under Section 45 which has been treated as income under Section 2(24).
+If the argument of the Department is accepted then all capital gains whether chargeable under section 45 of not, would come within the definition of the word income under section2(24).
+Further, under section 2(24)(vi) the Legislature has not stated that any capital gains will be covered under the word income.
+On the contrary, the Legislature has advisedly stated that only capital gains which are chargeable under Section 45 of the Act could be treated as income.
+In other words, capital gains not chargeable to tax under section 45 fall outside the definition of the word income in section 2(24) of the Act.
+It is true that section 2(24) of the Act is an inclusive definition However, in this case, we are required to ascertain the scope of Section 2(24)(vi) and for that purpose we have to read the sub section strictly.
+We cannot widen the scope of sub section by saying that the definition as a whole is inclusive and not exhaustive.
+In the present case, the words chargeable under section 45 are very important.
+They are not being read by the Department.
+These words cannot be omitted.
+In fact, the prior history shows that capital gains were not chargeable before 1946.
+They were not chargeable between 1948 and 1956.
+Therefore, whenever an amount which is other wise a capital receipt is to be charged to tax, section 2(24) specifically so provides.
+In view of the above, we find considerable substance in the Petitioners case that neither the capital receipts received by the Petitioner on issue of equity shares to its holding company, a nonresident entity, nor the alleged shortfall between the so called fair market price of its equity shares and the issue price of the equity shares can be considered as income within the meaning of the expression as defined under the Act.26.
+We shall now consider the submissions on behalf of the Revenue in the context of the statutory provisions.
+At one point of time we were toying with the idea of only dealing with the new grounds in support of the impugned order, as canvassed before us by the learned Solicitor General.
+This was for the reason that the revenue itself did not adopt the basis grounds found in the impugned order viz.
+the short receipt of share premium being sufficient justification to invoke Section 92(1) in Chapter X of the Act.
+The ground found in the impugned order was substituted replaced at the hearing with a new ground viz benefit given by the Petitioner to its holding company on application of Section 92(2) of the Act.
+However, on further consideration to comprehensively dispose of the proceedings, we decided to deal with both i.e. the grounds found in the impugned order as well as the reasons grounds urged in support of the impugned conclusions by the learned Solicitor General at the hearing before us, as submissions made in the alternative.27.
+The first contention on behalf of the revenue is that no question of even examining the issue of jurisdiction to apply Chapter X of the Act arises in this case, as the Petitioner itself had filed Form 3CEB for purposes of Chapter X of the Act.
+The contention has to be stated to be rejected.
+Mr. Salve rightly submitted that ex abundanti cautela, the Petitioner had submitted Form 3CEB and informed the respondentrevenue about the International Transaction of issue of share capital, while denying any income arises from the International Transaction.
+After accepting the above defence of the Petitioner, this Court in VodafoneIII by its order dated 29 November 2012 concluded that the issue of jurisdiction as raised by the Petitioner of income arising, is a condition precedent for applicability of Section 92(1) of the Act.
+We directed the above issue of jurisdiction be placed before DRP to examine the same as a preliminary issue of jurisdiction.28.
+We shall first deal with the grounds recorded in the impugned order to justify the conclusion that the Revenue has jurisdiction to apply Chapter X of the Act to the transaction of issue of shares by the Petitioner to its holding company.
+This conclusion has been reached on application of Section 92(1) of the Act.
+Section 92 of the Act provides for computation of income from International Taxation having regard to ALP.
+Section 92(1) of the Act states that while determining computing assessing income from an International Taxation regard shall be had to ALP.
+The impugned order correctly holds that although the words International Taxation has been defined in Section 92B of the Act for the purposes of Chapter X of the Act, the words Income has not been defined.
+Thereafter, the impugned order seeks to widen the meaning of the word Income to include all incomings.
+This is sought to be supported by the intent object of Chapter X of the Act, particularly the definition of International Transaction given in Section 92B of the Act.
+The impugned order in support of interpretation on the basis of purpose intent of the legislation relies upon the decision of the Supreme Court in Maulavi Hussain Haji Abrahim v. State of Gujarat 2004 AIR SC 3946 rendered in the context of Prevention of Terrorist Activities Act 2002 (POTA).
+This transaction of issue of shares by the Petitioner company to its holding company has nothing to do even remotely with terrorism.
+In fact, while interpreting a fiscal taxing statute, the intent or purpose is irrelevant and the words of the taxing statute have to be interpreted strictly.29.
+In case of taxing statutes, in the absence of the provision by itself being susceptible to two or more meanings, it is not permissible to forgo the strict rules of interpretation while construing it.
+The Supreme Court in Mathuram Agarwal v. State of M.P. 1999 8 SCC 667 had laid down the following test for interpreting a taxing statue as under The intention of the legislature in a taxation statute is to be gathered from the language of the provisions particularly where the language is plain and unambiguous.
+In a taxing Act it is not possible to assume any intention or governing purpose of the statute more that what is stated in the plain language.
+It is not the economic results sought to be obtained by making the provision which is relevant in interpreting a fiscal statute.
+Equally impermissible is an interpretation which does not follow from the plain, unambiguous language of the statute.
+Words cannot be added to or substituted so as to give a meaning to the statute which will serve the spirit and intention of the legislature.
+The statute should clearly and unambiguously convey the three components of the tax law i.e. the subject of the tax, the person who is liable to pay the tax and the rate at which the tax is to be paid.
+If there is any ambiguity regarding any of these ingredients in a taxation statute then there is no tax in law.
+Then it is for the legislature to do the needful in the matter.30.
+In view of the above, it is clear that it was not open to DRP to seek aid of the supposed intent of the Legislature to give a wider meaning to the word Income.31.
+Similarly, the reliance by the revenue upon the definition of International Taxation in the sub clause (c) and (e) of Explanation (i) to Section 92B of the Act to conclude that Income has to be given a broader meaning to include notional income, as otherwise Chapter X of the Act would be rendered otiose is far fetched.
+The issue of shares at a premium does not exhaust the universe of applicability of Chapter X of the Act.
+There are transactions which would otherwise qualify to be covered by the definition of International Transaction.
+The transaction on capital account or on account of restructuring would become taxable to the extent it impacts income i.e. under reporting of interest or over reporting of interest paid or claiming of depreciation etc.
+It is that income which is to be adjusted to the ALP price.
+It is not a tax on the capital receipts.
+This aspect appears to have been completely lost sight of in the impugned order.32.
+The other basis in the impugned order is that as a consequence of under valuation of shares, there is an impact on potential income.
+The reasoning is that if the ALP were received, the Petitioner would be able to invest the same and earn income, proceeds on a mere surmise assumption.
+This cannot be the basis of taxation.
+In any case, the entire exercise of charging to tax the amounts allegedly not received as share premium fails, as no tax is being charged on the amount received as share premium.
+Chapter X is invoked to ensure that the transaction is charged to tax only on working out the income after arriving at the ALP of the transaction.
+This is only to ensure that there is no manipulation of prices consideration between AEs.
+The entire consideration received would not be a subjectmatter of taxation.
+It appears for the above reason that the learned Solicitor General did not seek to defend the conclusion in the impugned order on the basis of the reasons found therein, but sought to support the conclusion with new reasons.33.
+Before dealing with the submissions advanced by the learned Solicitor General in his reply, to support the impugned order on grounds different from those found therein, it would be necessary to note that taxing of premium not received as the ground in the impugned order is given up and the jurisdiction to tax a transaction of issue of shares is on the basis of benefit given to the holding company.
+The basis justification of the impugned order is based upon Section 92(1) of the Act, while before us the learned Solicitor General places reliance upon Section 92(2) read with 92(1) of the Act to subject the transaction to tax on the basis of the cost of the benefit passed.
+Therefore, many of the decisions cited by the Petitioner in its opening submissions are no longer relevant and therefore, not dealt with in this order.
+Findings on submissions of solicitor general34.
+The learned Solicitor General submitted that Section 92(1) has to be read with Section 92(2) of the Act and a conjoint reading would indicate that the cost incurred in passing on the benefit to the holding company is being subjected to tax and not the share premium not received.
+The difference between the ALP and the price charged for issue of shares is the benefit conferred upon the holding company.
+Thus passing of benefit to holding company, is the cost to the Petitioner, which is being brought to tax.
+It is submitted that the benefit accrued to the holding company as set out in the affidavit dated 9 September, 2014 in the following manner(a) Cost incurred by Petitioner for a corresponding benefit to holding company i.e. it gets shares worth Rs.53,775 each at a price of Rs.8519/ each and(b)
+The valuation of holding company goes up in International Market due to holding of undervalued shares of the Petitioner.
+In support the learned Solicitor General wanted us to read Section 92(2) of the Act in the following manner92(2)Wherein an International Transaction, two or more associated enterprises enter into a mutual .arrangement for any contribution to, any costincurred in connection with a benefit, provided to any one or more of such enterprises, the cost, contributed by, any such enterprise shall be determined having regard to the arms length price of such benefit(The dotted words are omitted for the purpose of construction interpretation).35.
+This indeed is a unique way of reading a provision i.e. to omit words in the Section.
+This manner of reading a provision by ignoring rejecting certain words without any finding that in the absence of so rejecting, the provision would become unworkable, is certainly not a permitted mode of interpretation.
+It would lead to burial of the settled legal position that a provision should be read as a whole, without rejecting and or adding words thereto.
+This rejecting of words in a statute to achieve a predetermined objective is not permissible.
+This would amount to redrafting the legislation which is beyond outside the jurisdiction of Courts.36.
+Be that as it may, Section 92(2) of the Act deals with a situation where two or more AEs enter into an arrangement whereby they are to receive any benefit, service or facility then the allocation, apportionment or contribution towards the cost or expenditure is to be determined in respect of each AE having regard to ALP.
+Thus, to illustrate, the cost of research carried on by an AE for the benefit of three AEs, then the cost will be distributed i.e. allocated, apportioned or contributed depending upon the ALP of such benefit to be received by the assessed AE.
+It would have no application in the cases like the present one, where there is no occasion to allocate, apportion or contribute any cost and or expenses between the Petitioner and the holding company.
+Therefore, we find no substance in the above submission.37.
+The learned Solicitor General next contended that the issue is no long res intergra as the issue stands covered by the decision of the Apex Court in Mazgaon Dock Ltd. (supra) while interpreting Section 42(2) of 1922 Act.
+It is submitted that the above Section 42(2) of the 1922 Act dealt with transfer pricing.
+In the above case, the Apex Court held that under Section 42(2) of the 1922 Act, the tax is charged on the resident in respect of profits which he would have normally made but not made, because of a business association with a non resident.
+The resident was subjected to tax on notional profits in respect of its business dealing with a non resident with whom he had close connection.
+Section 42(2) of the 1922 Act reads as under Where a person not resident or not ordinarily resident in the taxable territories carries an business with a person resident in the taxable territories, and it appears to the Income Tax Officer that owing to the close connection between such persons, the course of business is so arranged that the business done by the resident person with the person not resident or not ordinarily resident produces to the resident either no profits or less than the ordinary profits which might be expected to arise in that business, the profits derived therefrom, or which may reasonably be deemed to have been derived therefrom, shall be chargeable to income tax in the name of the resident person who shall be deemed to be, for all the purpose of this Act, the assessee in respect of such income tax.
+(Emphasis Supplied)38.
+If the above provision is contrasted with the provisions of Chapter X of the Act and in particular Section 92 thereof, it would be noticed that the crucial words shall be chargeable to income tax which are found in Section 42(2) of the 1922 Act are absent in Chapter X of the Act.
+We pointed out this difference in the two provisions to the learned Solicitor General and he agreed that the above difference exists.
+However, according to him this was in view of the fact that Sections 4, 5, 14 and 56 of the Act does create a charge to income tax on deemed income earned from International taxation.
+Therefore, it is clear that the deemed income which was charged to tax under Section 42(2) of the 1922 Act was done away with under the Act.
+The charge of Income now has to be found in Section 4 of the Act.
+If it is income which is chargeable to tax, under the normal provision of the Act, then alone Chapter X of the Act could be invoked.
+Sections 4 and 5 of the Act brings charges to tax total income of the previous year.
+This would take us to the meaning of the word income under the Act as defined in Section 2(24) of the Act.
+The amounts received on issue of shares is admittedly a capital account transaction not separately brought within the definition of Income, except in cases covered by Section 56(2) (viib) of the Act.
+Thus such capital account transaction not falling within a statutory exception cannot be brought to tax as already discussed herein above while considering the challenge to the grounds as mentioned in the impugned order.39.
+In tax jurisprudence, it is well settled that following four factors are essential ingredients to a taxing statute(a) subject of tax(b) person liable to pay the tax(c) rate at which tax is to be paid, and(d) measure or value on which the rate is to be applied.
+Thus, there is difference between a charge to tax and the measure of tax (a) (d) above.
+This distinction is brought out by the Supreme Court in Bombay Tyres India Ltd. v. Union of India 1984 1 SCC 467 wherein it was held that the charge of excise duty is on manufacture while the measure of the tax is the selling price of the manufactured goods.
+In this case also the charge is on income as understood in the Act, and where income arises from an International Transaction, then the measure is to be found on application of ALP so far Chapter X of the Act is concerned.
+The arriving at the transactional value consideration on the basis of ALP does not convert nonincome into income.
+The tax can be charged only on income and in the absence of any income arising, the issue of applying the measure of ALP to transactional value consideration itself does not arise.
+The ingredient (a) above is not satisfied i.e. subject of tax is income which is chargeable to tax.
+The issue of shares at a premium is a capital account transaction and not income.
+The classical distinction between income and capital is that which exists between fruits and tree.
+Income is a flow while capital is a fund.
+The Privy Council in CIT v.
+Shaw Wallace Co. Ltd.
+1932 6 ITC 178 has colourfully stated Thus income has been likened pictorially to the fruit of a tree or the crop of a field.
+It is essentially the produce of something which is often loosely spoken of as capital.40.
+It was contended by the Revenue that in view of Chapter X of the Act, the notional income is to be brought to tax and real income will have no place.
+The entire exercise of determining the ALP is only to arrive at the real income earned i.e. the correct price of the transaction, shorn of the price arrived at between the parties on account of their relationship viz.
+AEs.
+In this case, the revenue seems to be confusing the measure to a charge and calling the measure a notional income.
+We find that there is absence of any charge in the Act to subject issue of shares at a premium to tax.41.
+We also find merit in the submission on behalf of the petitioners that w.e.f. 1 April 2013, the definition of income under Section 2(24)(xvi) of the Act includes within its scope the provisions of Section 56(2) (viib) of the Act.
+This indicates the intent of the Parliament to tax issue of shares to a resident, when the issue price is above its fair market value.
+In the instant case, the Revenues case is that the issue price of equity share is below the fair market value of the shares issued to a nonresident.
+Thus Parliament has consciously not brought to tax amounts received from a nonresident for issue of shares, as it would discourage capital inflow from abroad.
+The revenue has not been able to meet the above submission but have in their written submission only submitted that the above provisions would have no application to the present facts.42.
+It was contended by the Revenue that in any event the charge would be found in Section 56(1) of the Act.
+Section 56 of the Act does provide that income of every kind which is not excluded from the total income is chargeable under the head income from other sources.
+However, before Section 56 of the Act can be applied, there must be income which arises.
+As pointed out above, the issue of shares at a premium is on Capital Account and gives rise to no income.
+The submission on behalf of the revenue that the shortfall in the ALP as computed for the purposes of Chapter X of the Act give rise to income is misplaced.
+The ALP is meant to determine the real value of the transaction entered into between AEs.
+It is a recomputation exercise to be carried out only when income arises in case of an International transaction between AEs.
+It does not warrant recomputation of a consideration received given on capital account.
+It permits recomputation of Income arising out of a Capital Account Transaction, such as interest paid received on loans taken given, depreciation taken on machinery etc.
+All the above would be cases of income being affected due to a transaction on capital account.
+This is not the revenues case here.
+Therefore, although Section 56(1) of the Act would permit including within its head, all income not otherwise excluded, it does not provide for a charge to tax on Capital Account Transaction of issue of shares as is specifically provided for in Section 45 or Section 56(2)(viib) of the Act and included within the definition of income in Section 2(24) of the Act.43.
+It was contended by the revenue that income becomes taxable no sooner it accrues or arises or when it is deemed to accrue or arise and not only when it was received.
+It is submitted that even though the Petitioner did not receive the ALP value consideration for the issue of its shares to its holding company, the difference between the ALP and the contract price is an income, as it arises even if not received and the same must be subjected to tax.
+There can be no dispute with the proposition that income under the Act is taxable when it accrues or arises or is received or when it is deemed to accrue, arise or received.
+The chargeability to tax is when right to receive an income becomes vested in the assessee.
+However, the issue under consideration is different viz whether the amount said to accrue, arise or receive is at all income.
+The issue of shares to the holding company is a capital account transaction, therefore, has nothing to do with income.
+We, thus do not find substance in the above submission.44.
+It was also contended that Chapter X of the Act is a complete code by itself and not merely a machinery provision to compute the ALP.
+It is a hidden benefit of the transaction which is being charged to tax and the charging Section is inherent in Chapter X of the Act.
+It is well settled position in law that a charge to tax must be found specifically mentioned in the Act.
+In the absence of there being a charging Section in Chapter X of the Act, it is not possible to read a charging provision into Chapter X of the Act.
+We can do no better than refer to the following observations of the five Member Bench of the Apex Court in CIT v. Vatika Township (P.) Ltd. 2011 49 taxmann.com 249Tax laws are clearly in derogation of personal rights and property interests and are, therefore, subject to strict construction, and any ambiguity must be resolved against imposition of the tax.
+In Billings v. U. S, the Supreme Court clearly acknowledged this basic and longstanding rule of statutory constructionTax Statutes .
+should be construed, and, if any ambiguity be found to exist, it must be resolved in favour of the citizen.
+Eidman v. Martinez 184 U.S. 578, 583 Again in Unites States v. Merriam, the Supreme Court clearly stated at pages 18788On behalf of the Government it is urged that taxation is a practical matter and concerns itself with the substance of the thing upon which the tax is imposed, rather than with legal forms or expressions.
+But, in statutes levying taxes, the literal meaning of the words employed is most important, for such statutes are not to be extended by implication beyond the clear import of the language used.
+If the words are doubtful, the doubt must be resolved against the Government and in favour of the taxpayer.
+Gould v. Gould 245 U.S. 151, 153.As Lord Cairns said many years ago in Partington v. AttorneyGeneral As I understand the principle of all fiscal legislation it is this If the person sought to be taxed comes within the letter of the law he must be taxed, however, great the hardship may appear to the judicial mind to be.
+On the other hand, if the Crown, seeking to recover the tax, cannot bring the subject within the letter of the law, the subject is free, however apparently within the spirit of the law the case might otherwise appear to be.
+In this case, we are not in the zone of uncertainty referred to above.
+There is no charge express or implied, in letter or in spirit to tax issue of shares at a premium as income.45.
+Chapter X of the Act is a machinery provision to arrive at the ALP of a transaction between AEs.
+The substantive charging provisions are found in Sections 4, 5, 15 (Salaries), 22 (Income from house property), 28 (Profits and gains of business), 45 (Capital gain) and 56 (Income from other Sources).
+Even Income arising from International Transaction between A.E. must satisfy the test of Income under the Act and must find its home in one of the above heads i.e. charging provisions.
+This the revenue has not been able to show.46.
+It was next submitted that the machinery Section of the Act cannot be read dehors charging Section.
+The Act has to be read as an integrated whole.
+On the aforesaid submission also, there can be no dispute.
+However, as observed by the Supreme Court in CIT v. B.C. Srinivasa Shetti 1981 128 ITR 294 /5 taxmann.com 1, there is a qualitative difference between the charging provisions and computation provisions and ordinarily the operation of the charging provisions cannot be affected by the construction of computation provisions.
+In the present case, there is no charging provision to tax capital account transaction in respect of issue of shares at a premium.
+Computation provisions cannot replace substitute the charging provisions.
+In fact, in B.C. Srinivasa Shetti (supra), there was charging provision but the computation provision failed and in such a case the Court held that the transaction cannot be brought to tax.
+The present facts are on a higher pedestal as there is no charging provision to tax issue of shares at premium to a nonresident, then the occasion to invoke the computation provisions does not arise.
+We, therefore, find no substance in the aforesaid submission made on behalf of the Revenue.47.
+During the course of hearing the learned Solicitor General also made submissions with regard to taxing income in the hands of the Petitioner even though the income has allegedly been earned by the holding company.
+None of the notices issued to the Petitioner on the draft order passed by AO on the impugned order passed by DRP even proposes to assess the Petitioner in its representative capacity.
+Hence, the Petitioner had no occasion to challenge the jurisdiction of the Revenue on the above aspect.
+Therefore, we see no reason to examine the issue.48.
+Before parting, we may point out that in its written submissions, the revenue has raised an issue of alternative remedy which was not raised at the hearing and contended that there is no patent illegality in the impugned order warranting interference by this Court.
+However, the very fact that at the time of oral submissions, the Revenue supported the conclusions in the impugned order on grounds different from those mentioned therein would itself speak volumes of the patent nonsustainability of the impugned order.
+The preliminary objection, not raised at the hearing, is, completely devoid of any substance.49.
+For all the above reasons, we find that in the present facts issue of shares at a premium by the Petitioner to its non resident holding company does not give rise to any income from an admitted International Transaction.
+Thus, no occasion to apply Chapter X of the Act can arise in such a case.50.
+Accordingly, Petition is allowed in terms of the above finding and the following orders are quashed and set aside as being without jurisdiction, null and void(i) Reference dated 11 July 2011 by the A.O. to TPO to determine the ALP of issue of shares at a premium by the petitioner to its holding company which is a nonresident entity(ii) Order dated 28 January 2013 of the TPO(iii) Draft Assessment Order dated 22 March 2013 passed by AO under section 143 read with section 144C(1) of the Act and(iv)
+Order dated 11 February 2014 of DRP on the preliminary issue of jurisdiction to tax issues of shares at a premium to its holding company.51.
+Rule is made absolute in the above terms.

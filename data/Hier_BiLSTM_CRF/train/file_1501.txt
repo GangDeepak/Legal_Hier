@@ -1,0 +1,192 @@
+ V. Raveendran, J. Leave granted.	None
+Heard the parties.	None
+The appellants awarded a construction contract to the respondent.	Issue
+The work which had to be completed within 18 months from 18.3.1985, was actually completed on 30.11.1989.	Issue
+The delay led to claims by the contractor and counterclaims by the employer (appellants).	Facts
+The disputes were referred to a sole Arbitrator who made an awarded dated 22.06.2000.	Issue
+The Arbitral Tribunal rejected the counter claims of the appellants.	Facts
+It awarded in all Rs.	Facts
+14,94,000/ with interest to the respondentcontractor.	Facts
+The operative portion of the award is extracted below I award Rs. 14.94 lacs (Rupees Fourteen Lacs Ninety Four Thousand only) along with interest at the rate of 12 with effect from 19.12.1990 till the date of award in favour of M s. S.L. Arora and Company, 5E10, Bunglow Plot, N.I.T., Faridabad(Claimant) to be paid by the Haryana PWD BR Branch Department (respondent).	Facts
+In case the total amount of award together with this interest is not paid within 30 days from the date of making this award, future interest shall be paid 18 per annum on the sums due to the claimant from the date of Award upto the actual date of payment (emphasis supplied)	Facts
+The application filed by the appellants to set aside the said the award, under Section 34 of the Arbitration and Conciliation Act 1996 (Act for short), was rejected by the civil court.	Facts
+Thereafter, on 26.10.2004, the respondent levied execution against the appellants, to recover the following amount Principal amount Rs.	Facts
+14,94,000/ Interest at 12 per annum on Rs.	Facts
+14,94,000/ from 19.12.1990 to 22.6.2000 (date of the award)	Facts
+Rs.	None
+14,04,879/ Interest at 18 per annum on Rs.	Facts
+14,94,000/ from 23.6.2000 to 23.10.2004 (date of execution petition Rs.	Facts
+11,67,039/  TOTAL Rs.	None
+43,65,918/  	None
+The appellants paid to the respondent, a sum of Rs.	None
+44,59,587/ on 1.3.2005, which was made up Rs.	Facts
+14,94,000/ plus interest thereon at the rate of 12 per annum from 19.12.1990 to 22.6.2000 plus interest at the rate of 18 per annum from 23.6.2000 to 28.2.2005.	Facts
+According to the appellants, the said payment was in full and final settlement, though full satisfaction of the decree was not entered.	Facts
+On 25.5.2000, the respondent made an application for modification of the amount claimed, contending that due to inadvertence, a lesser amount had been claimed in the execution petition.	Facts
+The respondent alleged that earlier, due to oversight, it had calculated the future interest at the rate of 18 per annum from 23.6.2000 to date of execution petition (24.10.2004), only on the principal sum of Rs.	Facts
+14,94,000/ that the future interest ought to have been calculated on a higher sum of Rs.	Facts
+31,98,879/ (made up of Rs.	Facts
+14,94,000/ being the principal amount plus Rs.	Facts
+17,04,879/ being the interest at 12 per annum which had accrued due up to the date of Award) and that therefore the amount due as on the date of execution petition was Rs. 56,97,685/ instead of Rs.	Facts
+43,65,918/ claimed therein.	Facts
+The Executing Court after hearing the parties, by its order dated 5.9.2007 accepted the revised calculation made by the respondent.	Facts
+The revision petition filed by the appellants against the said order was dismissed by the High Court by the impugned order dated 9.9.2008 without examining the issue on merits, on the assumption that what was claimed was the balance o an admitted liability under the award.	Facts
+The appellants did not dispute their liability to pay interest.	Arguments of Petitioner
+They however contended that Section 31(7) of the Act does not contemplate award of interest on interest that an arbitral tribunal can award future interest only on the principal amount but not on the interest thereon which had accrued due up to the date of award and that the Arbitral Tribunal in this case has in fact awarded interest only on the principal of Rs.	Arguments of Petitioner
+14,94,000/ and not on the interest which had accrued due up to the date of the award.	Arguments of Petitioner
+It was also submitted that even if the Arbitral Tribunal had power to award interest, the award could not be interpreted as awarding interest upon interest, unless the arbitral tribunal expressly awards interest upon interest.	Arguments of Petitioner
+6.	None
+The respondent contended that Section 31(7) authorises and empowers the arbitral tribunal to award interest upon interest from the date of the award to date of payment.	Arguments of Respondent
+The respondent submitted that the operative portion of the award stated that future interest has been awarded at 18 per annum on the sums due to the claimant from the date of award to the actual date of payment and that as the interest up to date of award is a sum due on the date of the award, the said amount would also carry interest at 18 per annum from the date of the award.	Arguments of Respondent
+On the contentions urged, the following questions arise for consideration Whether section 31(7) of the Act authorizes and enables arbitral tribunals to award interest on interest from the date of award?	Issue
+Whether the Arbitral Award granted future interest from the date of award, only on the principal amount found due to the respondent (that is Rs.14,94,000/) or on the aggregate of the principal and interest upto the date of award (Rs. 31,98,879/).	Issue
+Re Question (i) Payment of interest arises in different circumstances.	None
+It can be the consideration paid by a borrower to a lender for use of the money lent or made available by the lender.	None
+It can be the return given by a bank, financial institution or a company on amounts deposited or invested with them by a customer or constituent.	None
+It can be the compensation paid by a person who withholds or defaults in paying an amount or in discharging a liability, when it is due and payable.	None
+Interest may be payable in pursuance of a contract, or a provision in a statute, or the fiat of a court of tribunal.	None
+It is usually quantified in terms of a percentage of the principal or the investment or the amount of liability.	None
+Interest unless otherwise specified, refers to simple interest, that is interest paid on only the principal and not on any accrued interest.	None
+Compound interest refers to a method of charging interest where interest is computed not only on the principal, but also the accrued interest.	None
+For this purpose, periodical rests are provided for computation of interest, say yearly, or quarterly or monthly.	None
+At the end of the first rest, the interest accrued till then is added to the principal, so that for the second interest bearing period, the aggregate of the original principal and interest thereon becomes the enhanced principal.	None
+At the end of the second rest, the accrued interest on the enhanced principal is added to the enhanced principal so that such further enhanced principal becomes the principal for charging the interest for the third period.	None
+It goes on in this manner until repayment, by progressively enlarging the principal base by adding interest at regular intervals.	None
+As a result, the debtor is made to pay interest not only on the original principal, but on the interest on the principal, and on the interest upon the interest on the principal and so on.	None
+A variant of compound interest, involves limited compounding, where interest is not added to the principal with periodical rests, but only once or twice at agreed stages.	None
+For example, where a loan is repayable within one year, if a provision is made in the contract that in the event of the loan not being repaid within one year, the interest which had accrued during the one year period will be added to the principal, and as a consequence, after one year, interest will be payable on the aggregate of the principal and the interest for one year, it is a provision for interest upon interest.	None
+Compound interest can be awarded only if there is a specific contract, or authority under a Statute, for compounding of interest.	None
+There is no general discretion in courts or tribunals to award compound interest or interest upon interest.	None
+Section 3 of the Interest Act, 1978 enables the courts and arbitral tribunals to award interest from the date of cause of action to the date of institution of legal proceedings or initiation of arbitration proceedings.	None
+Subsection (3)(c) of section 3 of the Interest Act, 1978 makes it clear that nothing in the said section shall empower the Court or arbitrator to award interest upon interest.	None
+It should be noted that section 3 of Interest Act does not deal with either pendente lite or future interest.	None
+This Court in Renusagar Power Co. Ltd. v. General Electric Co. 1994 Supp.(1) SCC 644 held that award of interest on interest was not opposed to the public policy of India, but could be awarded only if authorized by contract or statute.	None
+This Court observed Merely because in Section 3(3)(c) of the Interest Act, 1978, the court is precluded from awarding interest on interest does not mean that it is not permissible to award such interest under a contract or usage or under the statute.	None
+It is common knowledge that provision is made for the payment of compound interest in contracts for loans advanced by banks and financial institutions and the said contracts are enforced by courts.	None
+Hence it cannot be said that award of interest on interest, i.e., compound interest, is against the public policy of India.	None
+We are, therefore, unable to accept the contention that award of interest on interest i.e. compound interest is contrary to public policy of In emphasis supplied In State Bank of India vs. Ganjam District Tractor Owners Association 1994 (5) SCC 238 , this Court again observed that in the absence of a provision for compound interest or interest with periodical rests in the agreement between a bank and the borrower, the bank cannot claim such interest.	None
+In Central Bank of India vs. Ravindra 2002 (1) SCC 367 , a constitution bench of this Court, after exhaustive consideration of the case law, summarized the legal position regarding compound interest thus The English decisions and the decisions of this Court and almost all the High courts of the country have noticed and approved long established banking practice of charging interest at reasonable rates on periodical rests and capitalising the same on remaining unpaid.	None
+Such a practice is prevalent and also recognised in nonbanking money lending transactions.	None
+Legislature has stepped in from time to time to relieve the debtors from hardship whenever it has found the practice of charging compound interest and its capitalization to be oppressive and hence needing to be curbed.	None
+The practice is permissible, legal and judicially upheld excepting when superseded by legislation.	None
+There is nothing wrong in the parties voluntarily entering into transactions, evidenced by deeds incorporating covenant or stipulation for payment of compound interest at reasonable rates, and authorising the creditor to capitalise the interest on remaining unpaid so as to enable interest being charged at the agreed rate on the interest component of the capitalised sum for the succeeding period.	None
+Interest once capitalised, sheds its colour of being interest and becomes a part of principal so as to bind the debtor borrower.	None
+emphasis supplied In the Arbitration Act, 1940 (old Act for short) there was no provision dealing with the power of arbitral tribunals to award interest.	None
+Section 29 of the old Act merely provided for postdecree interest and authorized the court to direct in the decree, where the award was for payment of money, payment of interest from the date of decree at such rate as the court deemed reasonable, to be paid on the principal sum as adjudged by the award and confirmed by the decree.	None
+The power of arbitral tribunals to award interest was governed by the provisions of Interest Act, 1978 and the law enunciated by courts.	None
+The Arbitration and Conciliation Act 1996, on the other hand, contains a specific provision dealing with the power of the arbitral tribunal to award interest.	None
+The said provision is incorporated in subsection (7) of Section 31 which deals with the form and contents of arbitral awards.	None
+The said Subsection (7) is extracted below 31(7)(a) Unless otherwise agreed by the parties, where and insofar as an arbitral award is for the payment of money, the arbitral tribunal may include in the sum for which the award is made, interest, at such rate as it deems reasonable, on the whole or any part of the money, for the whole or any part of the period between the date on which the cause of action arose and the date on which the award is made.	Reasoning
+A sum directed to be paid by an arbitral award shall, unless the award otherwise directs, carry interest at the rate of eighteen per cent per annum from the date of the award to the date of payment.	None
+Section 31(7) makes no reference to payment of compound interest or payment of interest upon interest.	None
+Nor does it require the interest which accrues till the date of the award, to be treated as part of the principal from the date of award for calculating the postaward interest.	None
+The use of the words where and in so far as an arbitral award is for the payment of money and use of the words the arbitral tribunal may include in the sum for which the award is made, interest on the whole or any part of the money in clause (a) and use of the words a sum directed to be paid by an arbitral award shall carry interest in clause (b) of subsection (7) of section 31 clearly indicate that the section contemplates award of only simple interest and not compound interest or interest upon interest.	None
+A sum directed to be paid by an arbitral award refers to the award of sums on the substantive claims and does not refer to interest awarded on the sum directed to be paid by the award.	None
+In the absence of any provision for interest upon interest in the contract, the arbitral tribunals do not have the power to award interest upon interest, or compound interest, either for the preaward period or for the postaward period.	None
+There is a tendency among contractors to elevate the claims for interest and costs to the level of substantive disputes by describing them as separate and independent heads of claim.	Reasoning
+The long pendency of arbitration matters either due to prolonged arbitration proceedings or due to litigations (both intervening and postarbitral), has the unfortunate effect of swelling the interest payable on the amount awarded and costs to very substantial amounts.	Reasoning
+In many arbitral awards for money, the interest awarded often exceeds the amount awarded, by several times.	Reasoning
+Leisurely arbitrations, avoidable judicial interventions, and indecisiveness on the part of decision makers in government and statutory bodies in accepting and settling genuine claims either at the stage when the claim is made or at least at the stage when the award is made have resulted in undue emphasis and importance being bestowed upon interest and costs.	Reasoning
+However substantial their quantum may be in a given case, interest, in particular interest from the date of the award, and costs are ancillary issues and are not substantive disputes.	None
+Some Arbitral Tribunals have misconstrued clause (b) of section 31(7) of the Act and assumed that the said provision requires the rate of postaward interest in all arbitral awards should be 18 per annum, and that they do not have any discretion in regard to postaward interest.	None
+Some have misconstrued it further to infer the rate of interest mentioned therein is an indication that invariably the rate of interest in arbitrations, either preaward or postaward, should be 18 per annum.	None
+Both these assumptions are baseless and erroneous.	None
+If that was the legislative intention, there would have been no need for vesting discretion in Arbitral Tribunals, in the matter of interest, under section 31(7)(a).	None
+The principles relating to award of interest, in general, are not different for courts and arbitral tribunals, except to the extent indicated in section 31(7) of the Act and CPC.	None
+A comparatively high rate of postaward interest is provided in section 31(7)(b) of the Act, not because 18 is the normal rate of interest to be awarded in arbitrations, but purely as a deterrent to awarddebtors from avoiding payment or using delaying tactics.	None
+In fact a provision similar to section 31(7)(b) of the Act, if provided in section 34 of Code of Civil Procedure, will considerably reduce the travails of plaintiffs in executing their decrees in civil cases.	None
+Be that as it may.	None
+The difference between clauses (a) and (b) of section 31(7) of the Act may conveniently be noted at this stage.	None
+They are Clause (a) relates to preaward period and clause (b) relates to postaward period.	None
+The contract binds and prevails in regard to interest during the preaward period.	None
+The contract has no application in regard to interest during the postaward period.	None
+Clause (a) gives discretion to the Arbitral Tribunal in regard to the rate, the period, the quantum (principal which is to be subjected to interest) when awarding interest.	None
+But such discretion is always subject to the contract between the parties.	None
+Clause (b) also gives discretion to the Arbitral Tribunal to award interest for the postaward period but that discretion is not subject to any contract and if that discretion is not exercised by the arbitral Tribunal, then the statute steps in and mandates payment of interest, at the specified rate of 18 per annum for the postaward period.	None
+While clause (a) gives the parties an option to contract out of interest, no such option is available in regard to the postaward period.	None
+In a nutshell, in regard to preaward period, interest has to be awarded as specified in the contract and in the absence of contract as per discretion of the Arbitral Tribunal.	None
+On the other hand, in regard to the postaward period, interest is payable as per the discretion of the Arbitral Tribunal and in the absence of exercise of such discretion, at a mandatory statutory rate of 18 per annum.	Reasoning
+As there is some confusion as to what section 31(7) authorizes and what it does not authorize, we will attempt to set out the legal position regarding award of interest by the arbitral tribunals, as merging from section 31(7) of the Act.	None
+18.1)	None
+The provision for interest in the Act is contained in section 31 dealing with the form and contents of arbitral award.	None
+It employs two significant expressions where the arbitral award is for payment of money and the arbitral tribunal may include in the sum for which the award is made, interest on the whole or any part of the money.	None
+The legislature has thus made it clear that award of interest under subsection (7) of section 31 (and award of costs under subsection (8) of Section 31 of the Act) are ancillary matters to be provided for by the award, when the arbitral tribunal decides the substantive disputes between the parties.	None
+The words sum for which the award is made and a sum directed to be paid by an arbitral award contextually refer to award on the substantive claims and not ancillary or consequential directions relating to interest and costs.	None
+18.2)	None
+The authority of the arbitral tribunals to award interest under section 31(7)(a) is subject to the contract between the parties and the contract will prevail over the provisions of section 31(7)(a) of the Act.	Reasoning
+Where the contract between the parties contains a provision relating to, or regulating or prohibiting interest, the entitlement of a party to the contract to interest for the period between the date on which the cause of action arose and the date on which the award is made, will be governed by the provisions of the contract, and the arbitral tribunal will have to grant or refuse interest, strictly in accordance with the contract.	None
+The arbitral tribunals cannot ignore the contract between the parties, while dealing with or awarding preaward interest.	None
+Where the contract does not prohibit award of interest, and where the arbitral award is for payment of money, the arbitral tribunal can award interest in accordance with Section 31(7)(a) of the Act, subject to any term regarding interest in the contract.	None
+18.3)	None
+If the contract provides for compounding of interest, or provides for payment of interest upon interest, or provides for interest payable on the principal upto any specified stage s being treated as part of principal for the purpose of charging of interest during any subsequent period, the arbitral tribunal will have to give effect to it.	None
+But when the award is challenged under Section 34 of the Act, if the court finds that the interest awarded is in conflict with, or violating the public policy of India, it may set aside that part of the award.	None
+18.4) Where an arbitral tribunal awards interest under section 31(7)(a) of the Act, it is given discretion in three areas to do justice between the parties.	None
+First is in regard to rate of interest.	None
+The Tribunal can award interest at such rate as it deems reasonable.	None
+The second is with reference to the amount on which the interest is to be awarded.	None
+Interest may be awarded on the whole or any part of the amount awarded.	None
+The third is with reference to the period for which the interest is to be awarded.	None
+Interest may be awarded for the whole or any part of the period between the date on which cause of action arose and the date on which the award is made.	None
+18.5)	None
+The Act does away with the distinction and differentiation among the four interest bearing periods, that is, prereference period, pendente lite period, postaward period and postdecree period.	None
+Though a dividing line has been maintained between preaward and postaward periods, the interest bearing period can now be a single continuous period the outer limits being the date on which the cause of action arose and the date of payment, subject however to the discretion of the arbitral tribunal to restrict the interest to such period as it deems fit.	None
+18.6) Clause (b) of Section 31(7) is intended to ensure prompt payment by the awarddebtor once the award is made.	None
+The said clause provides that the sum directed to be paid by an arbitral award shall carry interest at the rate of 18 per annum from the date of award to the date of payment if the award does not provide otherwise in regard to the interest from the date of the award.	Issue
+This makes it clear that if the award grants interest at a specified rate up to the date of payment, or specifies the rate of interest payable from the date of award till date of payment, of if the award specifically refused interest, clause (b) of Section 31 will not come into play.	None
+But if the award is silent in regard to the interest from the date of award, or does not specify the rate of interest from the date of award, then the party in whose favour an award for money has been made, will be entitled to interest at 18 per annum from the date of award.	Reasoning
+He may claim the said amount in execution even though there is no reference to any post award interest in the award.	None
+Even if the preaward interest is at much lower rate, if the award is silent in regard to postaward interest, the claimant will be entitled to postaward interest at the higher rate of 18 per annum.	None
+The higher rate of interest is provided in clause (b) with the deliberate intent of discouraging awarddebtors from adopting dilatory tactics and to persuade them to comply with the award.	None
+We will next deal with the three cases relied upon by the learned counsel for the respondent to contend that this Court has recognized and accepted the power of the arbitral tribunals to award interest upon interest Oil Natural Gas Commission v. M.C.	Reasoning
+Clelland Engineers S.A.  (1999) (4) SCC 327 , Mcdermott International Inc. vs. Burn Standard Co. Ltd. and Others  (2006) 11 SCC 181 , and Uttar Pradesh Cooperative Federation Limited vs. Three Circles  (2009) 10 SCC 374.	Reasoning
+But out of these three decisions only the decision in Mcdermott relates to an award under the Arbitration and Conciliation Act, 1996.	Reasoning
+The other two decisions relate to awards under the old Act (Arbitration Act, 1940) and are of no assistance in interpreting section 31(7) of the new Act.	Reasoning
+In Mcdermott, paras 154 to 159 of the judgment deal with the issue of interest.	Reasoning
+Relevant portions thereof are extracted below in entirety The power of the arbitrator to award interest for preaward period, interest pendent lite and interest postaward period is not in dispute.	Reasoning
+Section 31(7)(a) provides that the arbitral tribunal may award interest, at such rate as it deems reasonable, on the whole or any part of the money, for the whole or any part of the period between the date on which the cause of action arose and the date on which award is made, i.e., preaward period.	Reasoning
+This, however, is subject to the agreement as regard the rate of interest on unpaid sum between the parties.	Reasoning
+The question as to whether interest would be paid on the whole or part of the amount or whether it should be awarded in the preaward period would depend upon the facts and circumstances of each case.	Reasoning
+The arbitral tribunal in this behalf will have to exercise its discretion as regards (i) at what rate interest should be awarded (ii) whether interest should be awarded on whole or part of the award money and (iii) whether interest should be awarded for whole or any part of the preaward period.	Reasoning
+The 1996 Act provides for award of 18 interest.	None
+The arbitrator in his wisdom has granted 10 interest both for the principal amount as also for the interim.	Reasoning
+By reason of the award, interest was awarded on the principal Amount.	Reasoning
+An interest thereon was upto the date of award as also the future interest at the rate of 18 per annum.	Arguments of Respondent
+However, in some cases, this court was resorted to exercise its jurisdiction under Article 142 in order to do complete justice between the partiesIn this case, given the long lapse of time, it will be in furtherance of justice to reduce the rate of interest to 7 1/2.	None
+A careful reading of the same shows that there is no reference to awarding of compound interest or interest from the date of the award on the interest that had accrued due up to the date of award.	None
+The decision dealt with the rate of interest and exercise of jurisdiction under Article 142 of the Constitution to set right anomalies in regard to rate of interest.	Reasoning
+The said decision is therefore, of no assistance.	Reasoning
+Learned counsel for the respondent submitted that in Three Circles, this Court has observed that Mcdermott recognized that interest awarded on the principal amount upto the date of the award becomes part of the principal from the date of the award.	Arguments of Respondent
+We extract below the relevant portion of Three Circles relied upon by the respondent Now the question comes which is related to awarding of interest on interest.	None
+According to the appellant, they have to pay interest on an amount which was inclusive of interest and the principal amount and, therefore, this amount to a liability to pay interest on interest.	None
+This question is no longer res integra at the present point of time.	None
+This Court in McDermott International Inc. v. Burn Standard Co. Ltd., and Ors. 2006(11)	None
+SCC 181 has settled this question in which it had observed as follows The Arbitrator has awarded the principal amount and interest thereon upto the date of award and future interest thereupon which do not amount to award of interest on interest as interest awarded on the principal amount upto the date of award became the principal amount which is permissible in law.	None
+emphasis supplied But a careful reading of the decision in Mcdermott, shows that the portion of Mcdermott extracted in Three Circles, assuming it to be the law laid down in Mcdermott, is not a finding or conclusion of this court, nor the ratio decidendi of the case, but is only a reference to the contention of the respondent in Mcdermott.	None
+Paras 1 to 27 (of the SCC report) in Mcdermott state the factual background.	None
+Paras 28 and 29 contain the submissions of the learned counsel for BSCL, The respondent therein.	None
+Paras 30 to 44 contain the submissions made by the learned counsel for Mcdermott, the appellant therein, in reply to the submissions made on behalf of BSCL.	None
+The passage that is extracted in Three Circles is part of para 44 of the decision which contains the last submission of the learned counsel for Mcdermott on the question of interest.	None
+The reasoning in the decision starts from para 45.	None
+This Court considered the several questions seriatum in paras 45 to 160.	None
+The question relating to interest was considered in paras 154 to 159 relevant portions of which we have extracted above.	None
+Therefore, the observation in Three Circles that Mcdermott held that interest awarded on the principal amount upto the date of award becomes the principal amount and therefore award of future interest therein does not amount to award of interest on interest, is per incuriam due to an inadvertent erroneous assumption.	None
+Re Question (ii) The operative portion of an arbitral award dealing with several claims on which separate decisions have been recorded, is really an abstract of the decisions awards on eah of the claims.	None
+Therefore, the findings award reached by the Arbitrator on claim No. (8) relating to interest, have to be read with the operative portion to know what is directed by the award.	None
+We therefore extract below the reasoning, finding and award on claim No.(8) relating to interest Claim 8 Payment of account of interest at the rate of 30 per annum with effect from 18.8.1990 till final payment.	None
+The claimant has claimed interest 30 per annum with effect from 18.8.1990 till final payment of Award.	None
+Keeping in view the reasonability of the claim, I allow interest 12 per annum on the total amount of Award i.e. on Rs. 14.94 lacs with effect from 19.12.1990 (date of first reference of Arbitrator) upto the date of making this award.	None
+In case the total amount of award together with this interest is not paid within 30 days from the date of making this award, future interest shall be paid 18 per annum on the entire Award from the date of Award upto the actual date of payment.	Facts
+The above portion of the award when read with the operative portion of the award shows that the words entire award used in the para dealing interest and the words sums due used in the operative portion of the award refer to the total amount of award referred to earlier in the said two portions relating to interest.	None
+The Arbitrator allowed interest at the rate 12 per annum on the total amount of the award, that is Rs.	None
+14,94,000/, with effect from 19.12.1990 up to the date of the Award.	Facts
+He further directed that in case the total amount of the award together with this interest is not paid within 30 days from the date of making the award, future interest shall be paid at the rate 18 per annum on the entire Award from the date of Award upto the actual date of payment.	Facts
+The words total amount of the Award together with interest makes it clear that the Arbitrator has used the words total amount of the Award as referring to the total or aggregate of the awards on the substantive claims of the contractor (claims 1 to 7) excluding the ancillary claims (claim No. 8) relating to interest.	None
+The Arbitrator has also used the words entire award and sums due synonymous with the words total amount of the award.	None
+Therefore, when the operative portion states that future interest is awarded on the sums due, it refers to the total amount of the award, that is total of the amounts awarded on substantive claims (that is claims (1) to (7) of the contractor) excluding the claim relating interest.	None
+Therefore, what was awarded by the Arbitrator was future interest at the rate of 18 per annum on the amounts awarded on various claims (that is Claim No. 1 to 7) in all aggregating to Rs.	None
+14,94,000/ and not upon the interest awarded thereon upto to date of the award.	Arguments of Petitioner
+It should be noted that the difference in the interest awarded for the preaward period and postaward period, is only with reference to the rate of interest and not the quantum of principal (that bears interest).	None
+Conclusion Thus it is clear that section 31(7) merely authorizes the arbitral tribunal to award interest in accordance with the contract and in the absence of any prohibition in the contract and in the absence of specific provision relating to interest in the contract, to award simple interest at such rates as it deems fit from the date on which the cause of action arose till the date of payment.	Reasoning
+It also provides that if the award is silent about interest from the date of award till date of payment, the person in whose favour the award is made will be entitled to interest at 18 per annum on the principal amount awarded, from the date of award till date of payment.	Reasoning
+The calculation that was made in the execution petition as originally filed was correct and the modification by the respondent increasing the amount due under the award was contrary to the Award.	Reasoning
+In view of the above, we allow this appeal, set aside the judgment of the Executing Court dated 5.9.2007 and the order of the High Court 9.9.2008 and hold that the respondent was entitled only to simple interest on the principal amount as per original calculation shows in the Execution Petition.	Decision

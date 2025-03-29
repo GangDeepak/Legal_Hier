@@ -1,0 +1,385 @@
+ Sarkar, J.1.	None
+The question in these two appeals is whether certain proceedings for the recovery of tax from the assessee under the Incometax Act, 1922 were invalid and should be quashed as the assessment order on which they were based had been revised in appeal.	Issue
+The High Court of Mysore held them to be invalid and quashed them.	None
+The revenue authorities have now appealed to this Court against that decision.2.	None
+I think it will be helpful to set out the facts chronologically.	Facts
+The tax sought to be realised became due under two assessment orders passed by an Incometax Officer on March 23, 1955, in respect of the years 195354 and 195455 finding that the assessees income for the earlier year was Rs. 61,000/ on which a tax of Rs. 19,80810 was due and that for the other year was Rs. 1,21,000/ creating a tax liability of Rs. 66,60130.	Facts
+Notices of demand under S. 29 of the Act were issued in respect of these dues.	None
+The assessee filed appeals to the Appellate Assistant Commissioner against the assessment orders but did not pay the tax as demanded by the notices.	Facts
+On such failure to pay, the Incometax Officer sometime in September 1955 sent certificates to the Deputy Commissioner, Kolar under Section 46(2) of the Act for recovery of the tax as arrears of land revenue and the latter in the course of the same month attached various properties of the assessee under the Revenue Recovery Act.	Facts
+Thereafter on December 17, 1955, the appeals filed by the assessee which were till then pending were decided by the Appellate Commissioner.	Facts
+He reduced the assessable income of the assessee to Rs. 27,000/ for the year 195354 and to Rs. 45,000/ for the year 195455 and directed the Incometax Officer to recompute the tax on the basis of the reduced income and to refund the excess if any collected.	Facts
+It appears that thereafter on February 19, 1956, the Incometax Officer informed the assessee that his tax liability for 195354 had been reduced to Rs.	Facts
+4,21590 and for 195455 to Rs. 13,34680 and called upon him to pay these amounts at once into the local treasury.	None
+The assessee filed further appeals against the orders of the Appellate Commissioner and asked that the recovery proceedings might be stayed pending decision of these appeals and on that request being rejected moved the High Court of Mysore by two petitions under Art.	Facts
+226 of the Constitution for quashing the recovery proceedings as invalid with the result earlier mentioned.	Facts
+We are not concerned with the appeals filed by the assessee from the appellate orders and no further reference to them will be made in this judgment.3.	Facts
+The contention of the assessee is that in view of the orders of the Appellate Commissioner the earlier orders, notices of demand and certificates must be deemed to have been superseded and the attachments therefore ceased to be effective from the date of the appellate orders and could no longer be proceeded with.	Arguments of Respondent
+He contends that the Incometax Officer had to start afresh by serving a new notice of demand and taking the necessary further steps thereon for realisation of the tax which then was due only under the appellate orders.	None
+These contentions were accepted by the High Court.	None
+The revenue authorities on the other hand, contend in short that the Act does not provide for any such supersession.4.	Arguments of Petitioner
+Now, the scheme of the Incometax Act for realisation of moneys becoming due under it appears to be this.	None
+The tax becomes due on the making of an assessment order or an order imposing penalty or requiring interest to be paid.	None
+Thereafter a notice of demand in respect of that amount has to be served.	None
+This is provided by S. 29 which is set out below.	None
+Section 29.  	None
+When any tax, penalty or interest is due in consequence of any order passed under or in pursuance of this Act, the Incometax Officer shall serve upon the assessee or other person liable to pay such tax, penalty or interest a notice of demand in the prescribed form specifying the sum so payable.	None
+The form mentioned contains directions as to the time within which, the person to whom and the place at which the payment is to be made.5.	None
+The consequences that follow a noncompliance with a notice of demand served under S. 29 are set out in S. 45 which so far as material is in the following terms Section 45.  	None
+Any amount specified as payable in a notice of demand under subs.	None
+(3) of S. 23A or under S. 29 or an order under S. 31 or S. 33, shall be paid within the time at the place and to the person mentioned in the notice or order or if a time is not so mentioned, then on or before the first day of the second month following the date of the service of the notice or order, and any assessee failing so to pay shall be deemed to be in default, provided that, when an assessee has presented an appeal under S. 30, the Incometax Officer may in his discretion treat the assessee as not being in default as long as such appeal is undisposed of It will be noticed that this section is not confined to the effect of a failure to comply with the terms of a notice of demand issued under S. 29 but makes the same consequence arise on the failure to carry out the terms of a notice under S. 23A(3) and orders under Sections 31 and 33.	None
+That consequence is that the assessee is to be deemed to be in default.	Reasoning
+It is after an assessee is so in default that coercive processes for realisation of the amount due start.	Reasoning
+Provision for this is made in S. 46 to which I will immediately come.	Reasoning
+Before doing so, however, I wish to observe that S. 45 gives an Incometax Officer on an appeal being filed a discretion to treat an assessee as not in default.	Reasoning
+An argument has been founded on this aspect of the section and to it I will later refer.6.	Reasoning
+Passing on now to S. 46, it will be enough for the purposes of these appeals to refer only to subsection (2) of that section.	None
+This provides thatThe Incometax Officer may forward to the Collector a certificate under his signature specifying the amount of arrears dues from an assessee, and the Collector on receipt of such certificate, shall proceed to recover from such assessee the amount specified therein as if it were an arrear of land revenue.	None
+It was under this provision that in the present case the Incometax Officer sent the certificates to the Deputy Commissioner and the latter effected the attachment thereafter under the Revenue Recovery Act.7.	None
+Now there is no dispute that all steps taken in the present case by the revenue authorities were valid when taken for the appellate orders had not till then been made.	Issue
+The only question is as to the effect of the appellate orders.	None
+It is contended on behalf of the revenue authorities that the Act does not provide that the consequences of a default incurred under the Act cease to be available to the revenue authorities for realisation of the amount due in case the order which was the basis of the default was later revised in appeal.	Arguments of Petitioner
+It is, therefore, said that those consequences are not affected by the revision of the order except where it is annulled and hence all notices and attachments remain in force and can be acted upon for recovering the tax due.8.	Arguments of Petitioner
+I am unable to agree with this proposition.	Reasoning
+It may be that the Act contains no express provision stating what would happen to the default already incurred when the order under which it was incurred was later revised in appeal.	Reasoning
+But I think there is enough in the Act to indicate that in some of these cases at least the default comes to an end.	Reasoning
+If it does, it seems to me to follow inevitably that the consequences of the default also disappear.9.	Reasoning
+I would first refer to S. 45 which says that when an order under S. 31 specifies an amount as payable and the amount is not paid within the time, at the place and to the person mentioned in the order or where no time is mentioned in it, within the time specified in the section itself, the assessee so failing to pay shall be deemed to be in default.	Reasoning
+The order under S. 31 is an order by the Appellate Commissioner.	Reasoning
+If he specifies an amount as payable in his order and mentions the time when, the place where and the person to whom the payment is to be made then noncompliance with that order would create a default.	Reasoning
+Now this order is made in an appeal from an order made by the Incometax Officer.	None
+Suppose there is already a default as a result of noncompliance with a notice under S. 29 given is respect of the Incometax Officers order.	None
+As clearly there could not be two defaults for there was one liability, the Act must in such a case be taken to have provided by necessary implication that the default incurred as a result of noncompliance with the notice to pay the amount mentioned in the Incometax Officers order must be deemed to have been superseded by the appellate order.	Reasoning
+The contention that the Act does not contemplate a default ceasing to be so except when an assessment order is annulled by the appellate order, is, therefore, unfounded.	Reasoning
+Take another case.	Reasoning
+Suppose the appellate order says only that a different amount from that mentioned in the Incometax Officers order shall be payable on income for a certain period without specifying the person to whom or the place where it is to be paid.	Reasoning
+The effect of it must be to wipe out the Incometax Officers order since the two cannot exist together.	None
+In such a case along with the superseded order the default if any incurred in connection with it must also disappear.	Reasoning
+There will have to be a fresh notice under S. 29 in respect of the amount due under the appellate order on breach of which a fresh default may arise.10.	Reasoning
+It was, however, said that the Act nowhere requires the appellate order to state the amount payable or to specify the time, when, the place where and the person to whom it is to be paid.	Reasoning
+That may be so but that does not affect what I have said.	Reasoning
+Section 45 clearly contemplates the appellate order setting out these things and there is nothing in the Act to prevent the Appellate Commissioner from setting them out.	Reasoning
+Since S. 45 cannot be read as contemplating an impossibility, it must be held that the Appellate Commissioner may in his order specify the amount payable and state the other particulars about time of payment etc.	Reasoning
+If he can do so, that would be enough for my present purpose and it is not necessary for it that the Act must in every case require him to do so.	Reasoning
+In case where the appellate order specifies an amount as payable, the Incometax Officers order must be deemed to have been superseded.11.	Reasoning
+One other argument to which I have to refer at this stage is that if the assessees contention be correct, then the discretion given to the Incometax Officer by S. 45 not to treat an assessee in default becomes infructuous for then in every case on the making of the appellate order the default earlier incurred must disappear.	Reasoning
+This does not seem to me to put the position accurately.	Reasoning
+It is not in dispute that the filing of an appeal does not stay the operation of the original order.	Reasoning
+So if before the appellate order is made, the amount due is realised by the coercive process following the default, then those steps do not become invalid.	Reasoning
+There may be a liability to refund but nonetheless what was done was legal when done.	Reasoning
+Again it would, in my view, depend on the terms of the appellate order whether the earlier default was wiped out or not.	Reasoning
+If for example, the appellate order confirms the original order, then the default already incurred may not be affected.	Reasoning
+In both these cases the discretion to treat the assessee as a defaulter was effectively exercised.	Reasoning
+The argument that the acceptance of the assessees contention would render part of S. 45 nugatory and should, therefore, not be accepted, is in my opinion unsound.12.	Reasoning
+How then does the matter stand?	Reasoning
+It seems to me that the crux of it is the effect of the appellate order on the original order.	Reasoning
+If the original order has been destroyed or replaced by the appellate order, then the notice of demand and all other steps based upon the original order must be deemed to have become ineffective.	Reasoning
+In such a case the default earlier incurred must be taken to have disappeared and cannot support further action for recovery of any tax.	Reasoning
+Now the general proposition is that an original order merges in the appellate order cp.	Reasoning
+Madan Gopal v. Secretary to the Government of Orissa, (1962)	Reasoning
+Supp 3 SCR 906 (AIR 1962 SC 1513 ).	Reasoning
+But in the present case, it is not necessary to rely on that proposition.	Reasoning
+Section 31 (3) of the Act seems to me to make express provision on the subject.	Reasoning
+It states that in the case of an appeal from an order of assessment, which is the kind of order with which we are now concerned, the Appellate Commissioner may(a) confirm, reduce, or enhance or annual the assessment, or (b) set aside the assessment and direct the Incometax Officer to make a fresh assessment after making such further enquiry as the Incometax Officer thinks fit or the Appellate Assistant Commissioner may direct, and the Incometax Officer shall thereupon proceed to make such fresh assessment and determine where necessary the amount of tax payable on the basis of such fresh assessment.	Reasoning
+There will, of course, be no occasion to determine the amount of the tax payable on the basis of the fresh assessment if the income on that assessment appears to be below the taxable level.	Reasoning
+I will consider the various orders contemplated by S. 31(3)(a) and (b) and their effect.13.	Reasoning
+It may be that when an appellate order confirms the original order, the default earlier incurred and all steps taken pursuant thereto remain unaffected, for such an order may maintain intact the original order.	Reasoning
+Now it is not in dispute that when the appellate order annuls the earlier order, the default disappears.	Reasoning
+It is said that that is because the debt ceases to exist.	Reasoning
+I do not quite follow thin.	Reasoning
+It has never been questioned that the debt becomes due when demand is made under S. 29 and S. 45 of the Act see Doorga Prosad v. Secretary of State, 72 Ind App 114 (AIR 1945 PC 62).	Reasoning
+Therefore if a debt is to cease to exist it must be because the source from which it sprang, namely, the original order, has been annihilated by the appellate order annulling it.	Reasoning
+In fact Section 31 (3) (a) contemplates an annulment of the original assessment order itself the demand under Section 29 or S. 45 is not annulled directly by it.	Reasoning
+Therefore, in the case of an order of annulment under S. 31 the original order of assessment is itself destroyed.	Reasoning
+If it disappears, I cannot conceive the default based on it continuing in force.	Reasoning
+Likewise, where under cl.	Reasoning
+(b) of S. 31(3) the appellate order sets aside the assessment, the same result must clearly follow.	Reasoning
+There is not much difference between annulling an order and setting it aside both wipe out the original order.14.	Reasoning
+I now come to an appellate order enhancing the assessment.	Reasoning
+With regard to it, it has not been disputed that a fresh notice of demand must issue.	Reasoning
+If this notice has to be in respect of the entire amount, then clearly the default earlier incurred for the smaller amount found due by the original order must have gone for the liability was one and there could not be two defaults in respect of it.	Reasoning
+But it was said that the notice has to be issued in respect of the enhanced amount only.	Reasoning
+Indeed in some of the cases cited at the bar it has been so said.	Reasoning
+I have very grave doubts about the correctness of this view.	Reasoning
+The notice of demand can only issue in respect of the amount due in consequence of an order.	Reasoning
+Unless, therefore, the appellate order specifies only the enhanced amount as due I do not see how a notice in respect of that amount can be issued under S. 29.	Reasoning
+The appellate order has to specify an amount due.	Reasoning
+If it specifies the entire amount due including the enhancement, then it cannot be said that under it the amount of the enhancement only is due and not notice demanding such an amount only under S. 29 can be issued.	Reasoning
+If the appellate order specifies only the amount of the enhancement, it will be making an additional or supplementary assessment.	Reasoning
+Apart from S. 34 of the Act with which we are not now concerned.	Reasoning
+I am not aware of any other provision which permits such an assessment.	Reasoning
+In any case S. 31(3)(a) does not seem to me to contemplate it.	Reasoning
+Therefore, in my view when an order of enhancement of assessment is made under S. 31 the notice must be in respect of the entire amount and in such a case the earlier notice issued in respect of original order must be deemed to have been superseded.15.	Reasoning
+But assume I am wrong in this.	Reasoning
+Assume that an appellate order of enhancement may be confined to the amount of the enhancement only.	Reasoning
+Even so I am wholly unable to agree that the appellate order cannot specify the entire enhanced amount due.	Reasoning
+There is nothing in the Act to prevent this being done.	Reasoning
+When this is done then at least the original order and the notice must be deemed to have been put out of existence along with the default arising from the noncompliance with the latter and all its consequences.16.	Reasoning
+That leaves only the case of an appellate order reducing the amount.	Reasoning
+It seems to me that it would be somewhat curious if in all other cases excepting the case of a confirmation, the appellate order destroys the original order it does not do so in the case of a reduction.	Reasoning
+An order confirming may be different, for it confirms and, therefore, does not destroy.	None
+It has, however, been said thatif subsequently the demand is modified on appeal and the amount of the tax payable is reduced, all that happens is that the liability sought to be imposed by the notice of demand, in respect of the amount by which the assessment is reduced is found to have never been a liability at all but the liability in respect of the remainder which stands unaffected by the appellate order remains and also that where a notice of the demand has, in fact, been issued in respect of a larger amount as determined by the assessment order, it has been issued even in respect of the smaller amount which is ultimately found to be the tax properly payable.	Reasoning
+That being so, the assessee was under an obligation to pay it by the date fixed and if he did not pay it by that date, he became a defaulter see Ladhuram Taparia v. D. K. Ghosh, 195833 ITR 407 at pp.	Reasoning
+423, 424 ((S) AIR 1957 Cal 667 at p. 675).	Reasoning
+With great respect I am unable to accede to this proposition and the conclusion based thereon that the default and its consequences continue even after the appellate order reducing the original assessment.	Reasoning
+How does the assessee know before the appellate order the smaller amount which he might ultimately be liable to pay?	Reasoning
+It would be curious if he did not know what he had to pay and could still have defaulted in paying it.17.The order of reduction must, in my opinion, necessarily have the effect of setting aside the original order as a whole.	Reasoning
+It does not simply strike out a few of the figures appearing in the original order.	Reasoning
+That would really be a case of rectification for which provision is made in S. 35 of the Act.	Reasoning
+What an appellate order does in a case of reduction is, as in the present case, to go into all the figures and arrive afresh at the assessable income which replaces the amount of the income arrived at by the Incometax Officer.	Reasoning
+Therefore it seems to me that in all cases of an appellate order reducing the assessment the original order goes and if it goes, of course the notice of demand also falls to the ground and the default based thereupon also ceases to be default anymore.	Reasoning
+Suppose the appellate order itself stated that a smaller amount of tax was payable after it had reduced the figure of the assessable income at which the Incometax Officer had arrived.	Reasoning
+Indeed I cannot imagine how else it can be expressed.	Reasoning
+After such an order the original order must go for the debt being one the two cannot exist together.	Reasoning
+If that order goes, all default arising out of it must also go.18.	Reasoning
+Therefore I think that on the Incometax Officers order being revised in appeal, the default based on it and all consequential proceedings must be taken to have been superseded and fresh proceedings have to be started to realise the dues as found by revised order.19.	Reasoning
+Coming now to the present case, in view of the order made in it it seems to me impossible to contend that the original default continued.	Reasoning
+What happened in the present case was that on December 17, 1955 the Appellate Commissioner reduced the assessable income of the assessee as found by the Incometax Officer by a large sum and directed him to recompute the tax due on the basis of the assessable income stated in the appellate order.	None
+The assessee was not informed about the recomputed amount of tax till February 14, 1956.	None
+The assessee had not paid the tax mentioned in the Incometax Officer order.	None
+If he had done that then he would under the express terms of the appellate order have become entitled to a refund.	None
+What then was the position between these two dates?	None
+If the revenue authorities are right, then the assessee continued to be in default even after the appellate order.	None
+But what was the amount in respect of which he was so in default?	None
+Clearly he could not have continued to be in default in respect of the amount found due by the Incometax Officer in his original order for that amount was no longer due.	None
+He could not have been in default in respect of the amount which was found due on recomputation by the Incometax Officer according to the direction of the Appellate Commissioner because he did now know that amount.	None
+It would be absurd if the Act contemplated a default without the assessee knowing the amount in respect of which the default occurred and without his having a chance to pay it.	None
+It would be impossible to construe the Act in a way to produce that result.	None
+It has, therefore, to be held that between the date of the appellate order and the communication of the recomputed amount of the tax to the assessee by the Incometax Officer there could be no default.	Reasoning
+Since the Act does not provide for a default being in suspension for a period it must be held that the original default ceased to exist after the appellate order was made.	Reasoning
+Proceedings initiated on the original default before the appellate order could not, therefore, be continued any more.	Reasoning
+Indeed the appellate order superseded the original order and its consequences.20.	Reasoning
+If the effect of an appellate order reducing the assessment as in the present case did not wipe out the original order, a most anomalous situation would, in my view, arise.	Reasoning
+Under S. 46(1) of the Act after a default has been committed in terms of S. 45(1) the Incometax Officer may impose a penalty not exceeding the amount of the tax due in respect of which the default has occurred.	Reasoning
+This penalty may be recovered in the same way as the tax due, that is to say, by a notice under S. 29 and thereafter by a certificate issued under S. 46(2).	Reasoning
+Now suppose the penalty for the full amount of the tax found due by the Incometax Officer has been imposed and thereafter the appellate order reduces the amount of the tax.	Reasoning
+What happens to the order of penalty then?	Reasoning
+Obviously it does not automatically stand reduced to the reduced amount of the tax.	Reasoning
+It would again be absurd if the penalty could be recovered for the full original amount.	Reasoning
+The only sensible view to take in such a case would be that the order of penalty falls to the ground and the only logical way to support that conclusion would be to say that the original default has disappeared.21.	None
+For these reasons I have come to the conclusion that the decision of the High Court was right and I would, therefore, dismiss the appeals.	Decision
+HIDAYATULLAH, J. 22.	None
+These appeals by special leave arise from a common order in two writ petitions under Art.	Facts
+226 of the Constitution passed by the High Court of Mysore on April 16, 1959.	Facts
+The Incometax Officer Kolar and the Commissioner of Incometax, Bangalore are the appellants before us.	None
+The assessee Seghu Buchiah Setty, who is the respondent, is a merchant of Srinivaspur, Kolar District.	Facts
+The appeals relate to the assessment years 195354 and 195455 in respect of which assessments were made under S. 23(4) of the Incometax Act.	Facts
+For the assessment year 195354, the assessees income was estimated to be Rs.	None
+61,000/ and the tax levied was Rs. 19,80810.	None
+For the second year, his income was estimated to be Rs. 1,21,000/ and the tax levied was Rs. 66,60130.	Facts
+The assessee applied under S. 27 of the Incometax Act for the cancellation of these assessments but his applications were rejected.	Facts
+It was stated before us that other proceedings were pending in this behalf but I am not concerned with them except in so far as a preliminary objection based on those and some other proceedings was made before us to which I shall refer presently.	Facts
+After the assessment was made, the Incometax Officer sent notices of demand asking the assessee to pay Rs. 86,40940 as tax, and on default, issued a certificate under S. 46(2) of the Act to the Collector of Kolar District to recover the amount as arrears of Land Revenue.23.	Facts
+On December 17, 1955, the Appellate Assistant Commissioner, A Range, Bangalore, before whom the assessments were challenged by appeal, passed his order and assessed the income for the two years to be Rs. 28,000/ and Rs. 46,000/ respectively.	None
+The Incometax Officer did not issue any fresh notices of demand under S. 29 of the Act but wrote a letter demanding the reduced tax for the two years which now stood reduced to Rs. 4,21590 and Rs. 13,34680 respectively.	None
+It is significant that the reduction in the tax was from eightysix thousand rupees to seventeen thousand rupees.	Facts
+It appears that the assessee took further appeals to the Incometax Appellate Tribunal and the matter was said to be pending there.24.	Facts
+The assessee then applied to the High Court under Art.	Facts
+226 of the Constitution for quashing the old certificates issued under S. 46(2) by the Incometax Officer on the ground that as no fresh notices of demand were issued against him in respect of the reduced tax, he was not in default.	Facts
+The High Court accepted this contention and the necessary writs quashing the proceedings were issued.	Facts
+After the decision of the High Court, fresh notices of demand for the reduced tax were issued to the assessee on May 8, 1959 and those proceedings were also pending.	Facts
+The preliminary objection which is based on the pendency of the other proceedings and particularly the last fact is really of great force, because these appeals do not now appear to serve any tangible purpose.	Facts
+However, the appeals were heard at length and I must express my decision on the point mooted before us.25.	None
+In these appeals, the Department contends that the original notices of demand issued in September 1955 had not become inoperative after the order of the Appellate Assistant Commissioner.	Arguments of Petitioner
+The reason advanced is that there is nothing in the Incometax Act which requires that a fresh notice of demand must issue every time the amount of tax is reduced in appeal.	Arguments of Petitioner
+It is pointed out that if a previous notice of demand is not complied with, the assessee becomes a defaulter and it is submitted that he continues to be a defaulter, in respect of the balance.	Arguments of Petitioner
+It is however conceded that where the Appellate Assistant Commissioner increases the assessment, a fresh notice of demand must issue.	Arguments of Petitioner
+It is urged that proceedings for recovery which may have commenced are likely to become useless if fresh notices were compulsory, and it is submitted that all that is necessary is to inform the assessee and the Collector by letters what the reduced amount is and as the default still continues, the reduced amount can straightaway be relised on the old certificates and a refund can be ordered if excess amount has already been recovered.	Arguments of Petitioner
+The assessee contends that the original notice of demand lapses and with it the default and the certificate and that the Incometax Officer is bound to issue a fresh notice of demand.26.	None
+The High Court accepted the assessees contention following a decision of the Calcutta High Court in Metropolitan Structural Works Ltd. v. Union of India, 195528 ITR 432 (AIR 1956 Cal 396 ).	None
+The appellants contend that the true view of the law is contained in a later decision of the Calcutta High Court reported in 195833 ITR 407 ((S) AIR 1957 Cal 667 ) where the earlier case was explained.	None
+The appellants rely further on Municipal Board, Agra v. Commissioner of Incometax, United Provinces, Lucknow, 195119 ITR 63 (AIR 1952 All 249 ) Auto Transport Union (Private) Ltd. v. Incometax Officer, Alwaya, 196245 ITR 103 (Ker) and Hiralal v. Incometax Officer, 196245 ITR 317 (Raj) for support.27.	None
+In 195528 ITR 432 (AIR 1956 Cal 396 ) there were successive demand notices after the Appellate Assistant Commissioner and the Tribunal reduced the assessment and the Incometax Officer finally sent a certificate under S. 46(2) of the Act.	None
+The assessee in that case, relying upon the seventh subsection of S. 46, claimed that the proceedings were barred as according to it, the period of one year could only be calculated from the last day of the financial year in which demand was made and this could only be the first demand.	None
+It was contended by the assessee that the Act did not provide that a fresh notice should issue after revision of assessment, though it was admitted that there was no prohibition.	None
+Chakrawartti, C. J., and Lahiri, J. observedThe real point, however, is whether a second or a third notice of demand is at all permissible under S. 29, even when an assessment is altered in a first or a second appeal.	None
+It appears to me that the necessity of issuing a fresh notice of demand in such circumstances is beyond argument.	None
+(Italics (here into ) supplied).The learned Chief Justice gave illustrations of those cases in which the earlier notice becomes inappropriate.	None
+Addressing himself to the necessity of a new notice, the learned Chief Justice observed In my view the answer to that could only be in the affirmative.	None
+(Italics (here into ) supplied).The difference between the words in consequence of any order used in the Act and in consequence of any assessment order in pursuance of this Act, which, he pointed out, could have easily been used, was next stressed and he held that the orders of the Appellate Assistant Commissioner and the Tribunal answered the former description.	None
+He expressed his conclusion thus If so, when there is some tax due in consequence of an order passed by the Appellate Assistant Commissioner or in consequence of an order passed by the Appellate Tribunal, a clear occasion arises under the words of the section to serve a notice of demand upon the assessee.	None
+That such fresh notice should be issued when the assessment is altered is but common sense	None
+and I see no reason to construe the section against reason and against the actual necessities of realisation.28.	None
+In the next case, 195833 ITR 407 ( (S) AIR 1957 Cal 667 ) the facts were the converse.	None
+There a demand notice was issued and then the tax was reduced.	None
+The assessee contended that there should be a fresh notice of demand before he was deemed to be in default.	None
+Chakrawartti, C. J., and Das Gupta, J., held that on reduction of assessment nothing further was required beyond an intimation to the assessee and the Collector of the reduction of the tax.	None
+The reason given was that the demand in respect of the excess stood eliminated and the demand for the balance remained.	None
+It was held that a case of enhancement was different and it needed a fresh notice of demand.	None
+It was however not pointed out whether the fresh demand should be for the excess amount or the whole of the amount.	None
+Nor was it shown why a letter to the assessee and the Collector would not do in that case also.	None
+In either case, speaking arithmetically, a portion of the demand is saved, but speaking legally, the demand notice, to quote the words of the earlier judgment, becomes inappropriate.29.	None
+Whether the learned Chief Justice was right on the first occasion or on the second can only be said after discussing the relative sections of the Incometax Act, but this much I must say (and I say it with considerable hesitation and diffidence since I have always held the learned Chief Justice in high esteem) that he has not been able to get clear of the words used by him on the earlier occasion.	None
+It seems anomalous that if the tax is increased from Rs. 10,000/ to Rs. 10,010/ a fresh notice of demand must go, that is to say the earlier default is wiped off but if it is reduced from Rs. 10,010/ to Rs. 10/ a fresh notice is not required and the assessee must be deemed to be in default for Rs. 10/ with all the evil consequences of default because he did not pay an extra ten thousand rupees with the ten rupees.	None
+But it may be said, there is no room for logic and mathematics if the Act so requires and the true answer can only be furnished by what the law requires.	None
+Before dealing with the pertinent sections to determine how the matter stands there, I may say that the other cases of the other High Courts cited earlier do not add to the discussion, but mention must be made of 195119 ITR 63 (AIR 1952 All 249 ).	None
+In that case, though a fresh notice of demand was served after reduction of tax under S. 35 of the Incometax Act, calculation of limitation from the date of service of that notice was not allowed because the clauses relating to right of appeal, period of limitation etc. were pencilled through.	None
+The reason given was that S. 35(4) makes it compulsory to serve a notice of demand only when there is enhancement and as no fresh notice is made compulsory when the tax is reduced, none need be issued.	None
+An assessee might, on such construction, lose his limitation for appeal in a case under S. 27 of the Incometax Act even before the order under S. 27 determining the amount of tax is passed.30.	None
+It is contended that there is no provision that a second or third notice of demand must issue.	Arguments of Petitioner
+There is no need that the Act must expressly authorise the issue of fresh notices of demand.	Arguments of Petitioner
+Even if such a power is not expressly included, it flows from S. 14 of the General Clauses Act under which a power can be exercised as often as the occasion demands.	Arguments of Petitioner
+I am, however, of the opinion, that (except in cases of de minimis) the Act does contemplate that a fresh notice of demand shall issue.	None
+There are two reasons for it.	Reasoning
+The first is the language of S. 29 and the other is the consequences following the issuance of a notice of demand.	Reasoning
+I shall deal first with the second ground.31.	Reasoning
+After the demand is made, the tax penalty and interest become a debt due to the Government.	Reasoning
+This was decided a long time ago by the Privy Council in 194513 ITR 285 at p. 289 (AIR 1945 PC 62 at p. 64).	Reasoning
+Further, by issuing a notice of demand, the period of limitation for appeals under S. 30 of the Act starts in many cases.	Reasoning
+Further still, when the notice of demand is not complied with, the assessee can be treated as a person in default and he is liable to pay a penalty equal to the tax debt under S. 46(1) of the Incometax Act.	Reasoning
+Lastly, on the failure of the assessee to pay after a notice of demand is issued, the recovery proceedings can be started within a time limit and the amount of tax can be treated as an arrear of land revenue.32.	Reasoning
+It follows, therefore, that the notice of demand is a vital document in many respects.	Reasoning
+Disobedience to it makes the assessee a defaulter.	Reasoning
+It is a condition precedent to the treatment of the tax as an arrear of land revenue.	Reasoning
+It is the starting point of limitation in two ways and the breach of obedience to the notice of demand draws a heavy penalty.	Reasoning
+The notice of demand which is issued must be in a form prescribed by R. 20 and the form includes the following particulars it shows the amount which has to be paid and indicates the person to whom, the place where and the time within which it has to be so paid.	None
+Compare with it S. 45 of the Incometax Act which providesAny amount specified as payable in a notice of demand under S. 29 or an order under S. 31 or S. 33 shall be paid within the time, at the place and to the person mentioned in the notice or order, or if a time is not so mentioned then on or before the first day of the second month following the date of the service of the notice or order, and any assessee failing so to pay shall be deemed to be in default, provided that, when an assessee has presented an appeal under S. 30, the Incometax Officer may in his discretion treat the assessee as not being in default as long as such appeal is undisposed of(Proviso and Explanation omitted).From this section, it follows that an assessee is deemed to be in default if he disobeys either a notice of demand under S. 29 or an order under Ss. 31 and 33.	None
+The contents of the notice of demand may be included in these orders and the order then serves the purpose of a notice of demand as well.	None
+In both cases, if time is not mentioned, the assessee must pay the tax on or before the first day of the second month following the date of the service of the notice or order.	None
+Once a default is incurred, it continues and the filing of an appeal does not save the assessee from the default.	None
+The Income tax Officer can start and continue the proceedings for recovery of the tax notwithstanding the filling of the appeal.	None
+It is however to be seen that he has been given the power to treat the assessee as not in default as long as the appeal is undisposed of.	None
+This power is conferred, because S. 46(1)	None
+providesWhen an assessee is in default in making a payment of incometax, the Incometax Officer may in his discretion direct that, a sum not exceeding that amount shall be recovered from the assessee by way of penalty.	None
+To save an assessee from penalty, the Incometax Officer may treat him as not in default but if he does not, he is within his rights.33.	None
+Now take a case in which an assessee is considered to be in default after a notice of demand is served.	None
+Assume that the tax which is due is Rs.	None
+10,010/.	None
+The Incometax Officer can, in his discretion, add another Rs. 10,010/ by way of penalty and issue a certificate against him for recovery as arrears of land revenue of a sum of Rs. 20,020/.	None
+Suppose the assessment is then reduced and his tax liability is found to be Rs.	None
+10/. To say that the old proceedings for the recovery of Rs. 20,020/ can still be pursued in respect of Rs. 20/ and the petty amount recovered as arrears of land revenue, when, if a notice of demand for Rs. 10/ were sent the assessee would have paid the sum readily, is to make the law operate very harshly without any advantage.	None
+To say again that the assessee whose tax is enhanced must receive a fresh notice of demand because the old notice becomes inappropriate is to make the lot of a person whose tax is reduced worse than that of a person whose tax is increased.	None
+At least the contumacy of the latter is the same if not greater than that of the former.34.	None
+It is said that all that is necessary is that the Incometax Officer should write a letter informing the assessee that the tax is reduced from Rs. 10,010/ to Rs.	None
+10/.	None
+The question is, why not send him a fresh notice of demand?	None
+If there is no provision in the Incometax Act to send a fresh notice there is none authorising the sending of letters.	None
+No doubt, the old proceedings for recovery of the tax might become out of date and inappropriate, but it is one thing to use coercion to recover an amount which the assessee did not but probably could not pay, and another to recover an amount which the assessee could and would pay readily.	Reasoning
+However, if the law requires that a notice of demand need not go, that would be the end of the matter but, in my opinion, S. 29 in its terms is extremely clear and indicates that a notice of demand must always issue.	Reasoning
+It reads When any tax, penalty or interest is due in consequence of any order passed under or in pursuance of this Act, the Incometax Officer shall serve upon the assessee or other person liable to pay such tax, penalty or interest a notice of demand in the prescribed form specifying the sum so payable.	Reasoning
+The learned Chief Justice of the Calcutta High Court, if I may say respectfully, was perfectly right in pointing out its meaning in his first case.	None
+I cannot add to what he said and I adopt all the he said.	Reasoning
+But I would add a few words.	Reasoning
+The mandatory part of the section is quite clear.	Reasoning
+The Incometax Officer shall serve a notice of demand upon the assessee are emphatic words and the earlier part shows that he has to do it when tax is due in consequence of any order.	Reasoning
+Any order means not only an order passed by himself, but also an order passed by reason of the success of an appeal which the assessee may file and in which the old assessment is set aside.	Reasoning
+In view of the consequences that ensue, it is clear to me that when an assessment is gone through a second time and the amount of tax is reduced, the Incometax Officer must intimate to the assessee the reduced amount of tax and make a demand and give him an opportunity to pay before treating him as a defaulter.	Reasoning
+This is incumbent because the assessment resulting in the tax is itself set aside or modified and as assessee is entitled to a proper assessment and ascertainment of tax before a demand can be made on him.35.	Reasoning
+It is said that the Incometax Officer can send a letter but the law says that he shall serve upon the assessee a notice of demand in the prescribed form.	None
+When the law requires that a notice of demand should issue, the mode of compliance by a letter is excluded.	Reasoning
+It may be that the letter is a good substitute for a notice of demand but the section demands that it should be in the prescribed form.	Reasoning
+If a letter is to be written, why not a notice of demand?	Reasoning
+In other words, when the assessment is altered, whether it is reduced or it is increased, by reason of any order under the Act, it is the duty of the Incometax Officer to issue a notice of demand in the prescribed form and serve it upon the assessee.	Reasoning
+The learned Chief Justice of the Calcutta High Court clearly was of the view in the first case that there was only one answer to the question and I respectfully agree with him.	Reasoning
+He could only depart from his earlier view by finding fault with his drafting of S. 45.	Reasoning
+I regret I cannot agree with him there.	Reasoning
+Section 45 intends that the order of the Appellate Assistant Commissioner and the Tribunal may in some cases also serve as notices of demand.	Reasoning
+Further it is not clear from the later decision whether on the enhancement of the tax, a fresh notice of demand is required for the excess only or for the whole of the sum.	Reasoning
+That answer is not furnished in any of the other cases to which reference was made at the bar.	Reasoning
+If default is saved in respect of the reduced amount, a default would also be saved in respect of the original amount when the demand is increased.	Reasoning
+If a notice of demand were to issue in respect of the excess only, there will be two notices of demand and two starting points of limitation, both for the purpose of coercive action under S. 46(7) as well as for purposes of any appeal that might lie.	Reasoning
+If, however, a fresh notice of demand is to go in respect of the composite sum, the question to ask would be, what happens to the default which was incurred already?	Reasoning
+How does it disappear?	Reasoning
+In my opinion, there is only one possible answer and it was given by the learned Chief Justice in the earlier case.36.	Reasoning
+I would therefore dismiss these appeals and all the more readily because a fresh notice of demand has issued in this case.	Reasoning
+If it is disobeyed, the Incometax Officer would be able to recall the old certificate issued to the Revenue Officer, amend it and bring it in line with the tax now demandable and return it to him for continuing the recovery proceedings.37.	Reasoning
+I would dismiss the appeals but in the circumstances of the case, I would make no order about costs.	Decision
+SHAH, J. 38.	None
+The Incometax Officer, Kolar Circle, Kolar, assessed Seghu Buchiah Setty  respondent in this appeal  to incometax under Section 23(4) of the Indian Incometax Act, 1922 for the year 195354 on an estimated income of Rs.	Facts
+61,000/ and for the year 195455 on an estimated income of Rs. 1,21,000/ and served notices of demand under S. 29 of the Act for the tax due under the two orders of assessment.	None
+On the respondent failing to comply with the notices of demand within the period specified, the Incometax Officer treated the respondent as in default and sent certificates under S. 46(2) of the Act to the Deputy Commissioner, Kolar, for recovery of the tax determined by the orders of assessment.	Facts
+The Deputy Commissioner attached certain properties belonging to the respondent.	Facts
+In appeals filed by the respondent against the orders of assessment the Appellate Assistant Commissioner reduced the income assessed for the year 195354 to Rs. 28,000/ and for the year 195455 to Rs. 46,000/.	Facts
+The Incometax Officer did not issue fresh notices of demand pursuant to the modification in the orders of assessment made by the Appellate Assistant Commissioner, but by his letter dated February 14, 1956 informed the respondent that he had to pay tax as reduced by the appellate order.	None
+The respondent did not pay the amount of tax demanded, and applied to the High Court of Mysore under Art.	Facts
+226 of the Constitution for a writ certiorari quashing the certificates issued by the Incometax Officer treating him as in default and a writ prohibition prohibiting the Incometax Officer from enforcing the certificates under S. 46(2) of the Incometax Act.	None
+The High Court of Mysore relying upon the judgment of the Calcutta High Court in 195528 ITR 432 (AIR 1956 Cal 396 ) held that the Incometax Officer could not, without issuing fresh notices of demand, after the Appellate Assistant Commissioner of Incometax reduced the taxable income, setting out the tax payable by him for the two years in question, treat the respondent as a defaulter and that the proceedings of the Collector based on the certificates issued pursuant to the order of assessment by the Incometax Officer were illegal.	Facts
+Against the orders passed by the High Court, the Incometax Officer has appealed to this Court, with special leave.39.	None
+The question which falls to be determined in this appeal is about the legal effect of the reduction of the assessable income by the order of the Appellate Assistant Commissioner on the notices of demand previously issued by the Incometax Officer.	Issue
+The respondent contends that by the modifications made in the orders of assessment the notices of demand issued by the Incometax Officer must be deemed cancelled or superseded, and he cannot be regarded as in default, unless fresh notices of demand are issued by the Incometax Officer specifying the amount payable pursuant to the appellate order.	Arguments of Respondent
+The respondent says that there was at the material time no outstanding demand notice or order specifying the amount payable, failure to comply with which may be regarded as constituting a default.	Arguments of Respondent
+The respondent strongly relies upon the observations made by Chakravartti, C. J., in his judgment in Metropolitan Structural Works Ltd.s.	Arguments of Respondent
+case, 195528 ITR 432 (AIR 1956 Cal 396 ) that where the income assessed by the Incometax Officer is reduced in appeal, the notice of demand issued by the Incometax Officer in respect of the income assessed by him will on such reduction cease to be appropriate, such being the meaning of the statute and any interpretation to the contrary is against reason and against the actual necessities of realisation.40.	Arguments of Respondent
+The respondent therefore submits that an order of the Appellate Assistant Commissioner in appeal not only supersedes the order of assessment against which the appeal is carried, but also the notice of demand issued by the Incometax Office and all proceedings taken for recovery of tax in pursuance of the notice of demand, and therefore default which has resulted from the failure to comply with the notice of demand becomes inoperative, when the Appellate Assistant Commissioner passes his order in appeal against the order of assessment, whether such order is of confirmation or variance.	Arguments of Respondent
+The Incometax Officer may, submits the respondent, issue a certificate under S. 46 if there be a fresh default resulting from noncompliance of the order of the Appellate Authority.	Arguments of Respondent
+If this submission is true, the demand notices must be issued and all steps pursuant to an order of assessment for recovery must be completed before the appeal against the order of assessment is disposed of.	None
+If the proceedings are not completed, they will be superseded by the order passed by the appellate authority.41.	None
+We may examine the correctness of the plea raised by the respondent in the light of the scheme for recovery of tax, penalty or interest due under the provisions of the Act.	None
+After the income of an assessee is computed, and liability to pay tax, penalty or interest is determined in the manner provided by the Act, proceedings for recovery of the amount commence.	None
+A notice of demand is the foundation of such proceedings and of the jurisdiction to collect the tax.	None
+It is the notice of demand which converts the liability determined by the order of assessment into a debt due by the assessee to the State.	None
+There must therefore be a valid order of assessment, on which a notice of demand may be founded.	None
+Section 29 invests the Incometax Officer alone with jurisdiction to issue a notice of demand, and no other Officer out of the hierarchy of Revenue Officers has that jurisdiction.	None
+It provides When any tax, penalty or interest is due in consequence of any order passed under or in pursuance of this Act, the Incometax Officer shall serve upon the assessee or other person liable to pay such tax, penalty or interest a notice in the prescribed form specifying the sum so payable.	None
+The notice of demand has to be in the form prescribed under R. 20 which requires that the amount demanded, and the person to whom together with the place where it is to be paid, must be stated in the notice.	None
+Section 45 of the Act provides that the amount specified as payable in the notice of demand or an order under S. 31 or S. 33 shall be paid within the time, at the place and to the person mentioned therein, or if no time be so mentioned, then on or before the first day of the second month following the date of the service of the notice or order and if the assessee fails to pay the tax he shall be deemed to be in default, unless the assessee has presented an appeal under S. 30 of the Incometax Act and the Incometax Officer in his discretion treats the assessee as not being in default as long as such appeal is undisposed of.	None
+Section 45 therefore prescribes the conditions under which a person may be treated as in default.	None
+Section 46 provides the mode and time of recovery of the amount due by an assessee.	None
+Subsections (2) to (6) of S. 46 lay down the method which may be adopted for recovery of the dues.	None
+Subsection (2) authorises the Incometax Officer to forward to the Collector a certificate under his signature specifying the amount of arrears due from an assessee.	None
+The Collector, on receipt of such certificate has to proceed to recover from such assessee the amount specified therein as if it were an arrear of land revenue.	None
+Subsections (3) to (6) deal with other modes of recovery But resort to the modes of recovery is subject to subs.	None
+(7) which provides that save in accordance with the provisions of subs.	None
+(1) of S. 42, or of the proviso to S. 45, (which are for the purposes of this case not material) no proceedings for recovery of any sum payable under the Act shall be commenced after the expiration of one year from the last day of the financial year in which a demand is made under the Act.	None
+The Act therefore provides that if an assessee makes default in complying with the notice of demand or order under Ss. 31 or 33, proceedings may be taken in the manner provided in S. 46 for recovery of the tax due but such proceedings shall not be commenced after the expiration of the period specified in subs.	None
+(7).42.	None
+By the determination of tax under S. 23, or imposition of penalty in circumstances mentioned in S. 28, or liability for payment of interest in circumstances mentioned in S. 18A (4), (6), (7) or (8) obligation to pay tax, penalty or interest arises, and upon service of a notice of demand under S. 29 or an order under S. 31 or S. 33, the tax, penalty or interest becomes due and payable, and if the tax is not paid within the time specified, the assessee must, unless the Incometax Officer otherwise directs, be treated as in default.	None
+Against the assessee in default, the Incometax Officer may take appropriate steps for recovery of tax as prescribed in cls.	None
+(2) to (6) of S. 46.	None
+But the Legislature has not enacted that steps taken by the Incometax Officer for recovery of tax will lapse or be superseded when the appeal against the order of assessment passed by the Incometax Officer is disposed of by the appellate authority.	None
+Section 45 in terms provides that when an assessee is served with the notice of demand and has failed to comply with the notice, he shall, unless otherwise ordered, be deemed to be a defaulter.	None
+The Act provides a right of appeal against the order of assessment, but on the presentation of the appeal the power of the Incometax Officer to take steps for recovery of tax is not suspended.	None
+The Incometax Officer is obliged by the statute to issue a notice of demand for payment of tax, penalty or interest due in consequence of any order passed under or in pursuance of the Act.	None
+Lodging of an appeal does not operate as a stay and would not entitle the assessee to withhold payment of tax till the appeal is decided.	None
+The Incometax Officer may in his discretion treat the assessee as not in default as long as such appeal is not disposed of, but unless such an order is passed the assessee would, on failure to comply with the order, be a defaulter and proceedings for recovery of tax may be initiated and continued during the pendency of the appeal.43.	None
+It is clear therefore that when tax, penalty or interest is determined and demanded, proceedings shall be commenced for recovery, and these proceedings may be commenced and continued, notwithstanding the presentation of an appeal.	None
+By failing to comply with the demand the assessee becomes a defaulter, and it is not provided that he shall cease to be a defaulter on the disposal by the appellate authority of the appeal against the order of assessment.	None
+In the absence of such a provision it is difficult to perceive any ground for holding that the proceedings commenced against a defaulting taxpayer for recovery of tax must be abandoned, and fresh proceedings commenced for recovery of tax pursuant to the order of the appellate authority.	None
+If on the passing of an order by the appellate authority, the notice of demand previously issued is deemed to be cancelled or superseded, an assessee must be treated as absolved from the consequences of his default even if the appellate authority confirms the order of the Incometax Officer, because the earlier default by the taxpayer will in every case go by the board, and the proceedings must be commenced again after service of a fresh notice of demand, the discretion vested in the Incometax Officer to treat or not to treat an assessee pending appeal in default will, in all cases be valueless.	None
+The provisions of the Act do not indicate any such legislative intent and express enactment conferring upon the Incometax Officer, in his exercise of discretion, power not to treat a person who has preferred an appeal as a defaulter, contains strong indication to the contrary.	None
+Therefore, in my view a person who has failed to comply with a notice of demand would continue to be a defaulter notwithstanding the reduction of liability by order of the appellate authority.	None
+There would be only one exception to this rule i.e., when the order of assessment is wholly set aside.	None
+But that is not a real exception, for against the assessee no steps can be taken because there is no debt due by him.44.	None
+It was urged that a person can be said to be in default in payment of tax, when he fails to comply with a demand for a specific amount, and when the amount payable by him is reduced in appeal, he is no longer in default because he has had no opportunity to meet the reduced demand.	Arguments of Respondent
+But the status of a defaulter under the Act is a condition for initiation of proceedings for recovery, and by the reduction of liability in appeal the status is not altered.	None
+Even if the amount due is modified, the status persists, but the process for recovery will be adjusted according to the modified demand including the imposition of penalty under S. 46(1).	None
+It is true that the Act contains no express provision which enables the Incometax Officer to modify the certificate which is issued to the Collector, but the absence of such a provision does not detract from the duty of the Incometax Officer to give information to the recovering authority about the reduction in the liability for tax, penalty or interest made by the appellate authority and to request such authority to adjust his proceeding to the modified demand.	None
+Such a duty must necessarily be implied.	None
+An error in the certificate can always be clarified by an amendment and if that power be granted, there is no reason to suppose that a demand which is reduced because of subsequent events, such as modification of the assessment by the appellate authority or payment made by the taxpayer as directed by the notice of demand may not be enforced in a manner consistent with the outstanding demand.	None
+If in an appeal the Appellate Assistant commissioner enhances the tax, the Incometax Officer may give intimation to the recovering authority about the enhanced demand.	None
+No fresh notice is contemplated to be given by the Act in the case either of reduction of assessment or enhancement.	None
+The plea that a fresh notice of demand may have to be issued when the assessment is enhanced is not warranted by the statute, and the argument that against the assessee two notices of demand may in certain cases be issued, failure to comply with which may make him doubly a defaulter has no valid basis.45.	None
+Counsel for the respondent urged that it is open to the Appellate Assistant Commissioner to specify by his order the time and place at which the tax determined by him is to be paid, and the person to whom it is to be paid.	Arguments of Respondent
+If the Appellate Assistant Commissioner does so specify the amount, the person to whom and the place at which the payment is to be made, the order of the Incometax officer would be deemed to be superseded and it would be the duty of the assessee then to pay the tax determined pursuant to the order of the Appellate Authority after a fresh notice is served upon him and he cannot be deemed to be in default unless he has failed to comply with the directions of the Appellate Assistant Commissioner within the period prescribed by that order.	Arguments of Respondent
+Section 45 does undoubtedly refer to the amount specified in an order passed under S. 31 which deals with the procedure and the power of the Appellate Assistant Commissioner hearing an appeal from the order of the Incometax Officer  and to the amount specified in an order under S. 33 dealing with the procedure and the power of the Incometax Appellate Tribunal in appeal against the order of the Appellate Assistant Commissioner, and provides that default in payment of the amount so specified can only arise if it is not paid within the time at the place and to the person mentioned in the order under S. 31 or S. 33 or in the demand notice under S. 29.	None
+But Ss. 31 and 33 do not provide that in making, their respective orders the Appellate Assistant Commissioner and the Appellate Tribunal shall determine the tax, penalty or interest, and shall also prescribe the time within which, the person to whom, and the place at which the amount specified shall be paid, and it would be difficult to accept the contention that the Legislature in enacting S. 45  a provision relating to recovery of tax intended to provide that in exercise of the appellate power, the Appellate Assistant Commissioner and the Incometax Tribunal shall comply with certain requirements.	None
+In certain exceptional cases such as those in which an appeal is filed only against the amount of tax determined under S. 23 or against imposition of penalty under S. 28 or against orders specifying the amount of interest payable under S. 18A, the Appellate Assistant Commissioner or the Tribunal may, in their final orders, specify the amount to be paid and also the time within which and the place at which and the person to whom the amount is to be paid.	None
+Such a direction is intended only to effectuate in appropriate cases the order of the Appellate Assistant Commissioner or the Tribunal.	None
+It does not take the place of a notice of demand, but if made, may operate if not complied with to make the person liable to pay the amount specified a defaulter.	None
+An Appellate Assistant Commissioner may, in an appeal against the order of the Incometax Officer, either confirm the assessment or modify it by reducing or increasing it.	None
+Similarly the Tribunal may confirm the assessment of the Appellate Assistant Commissioner or may reduce the assessment.	None
+But the Appellate Assistant Commissioner and the Tribunal are not required by statute to specify the amount as payable in their order, nor are they required to direct payment to be made in their order.46.	None
+The Appellate Assistant Commissioner and the Tribunal have power to impose penalty in the conditions specified in cls.	None
+(a), (b) or (c) of subs.	None
+(1) of S. 28 of the Incometax Act.	None
+But these orders are passed in exercise of their appellate jurisdiction conferred by Ss. 31 and 33 of the Act and where the Appellate Assistant Commissioner imposes penalty he may specify the amount thereof.	None
+Similarly the Tribunal imposing penalty may specify the amount of penalty.	None
+To such cases the provision relating to default arising on failure to comply with the directions to pay may apply if the person to whom, and the place at which, it is to be paid are specified.47.	None
+The assumption that S. 45 of the Incometax Act requires the appellate authority to specify the amount payable in the order therefore seems to be unwarranted and the fact that under certain circumstances, having regard to the nature of the order appealed from, the appellate authority may specify in the order such particulars, does not justify the interpretation either that the Incometax Officer has the power to issue the notice of demand only in those cases where by inadvertence the Appellate Assistant commissioner or the Tribunal have failed to specify the amount payable or that the passing of orders by the Appellate Assistant Commissioner or the Tribunal deciding the appeal has the effect of superseding the notices of demand issued by the Incometax Officer.	None
+In the absence of any provision imposing an obligation upon the Incometax Officer to issue successive notices of demand from time to time for recovery of the amount due during the process of assessment, it must be held that the notices of demand issued by the Incometax Officer in exercise of the power under S. 29 may be enforced in the manner provided by S. 46 and within the period of limitation provided in cl.	None
+(7) of S. 46, even after the appeal against the order of assessment by the Incometax Officer is disposed of, subject to adjustment of the amount to be recovered in the light of the order of the Appellate Assistant Commissioner.48.	None
+Observations made by Chakravartti, C. J., in the case in Metropolitan Structural Works Ltd.s case, 195528 ITR 432 (AIR 1956 Cal 396 ) do lend support to the argument that the issue of a fresh notice on modification by the appellate authority was a matter of reason and based on the actual necessities of realisation and that it is obligatory upon the Incometax Officer to issue such a notice on every occasion when the assessment was modified.	None
+But the learned Chief Justice himself explained the observations in his judgment in 195833 ITR 407 ((S) AIR 1957 Cal 667 ) and pointed out that in Metropolitan Structural Works Ltd.s case, 195528 ITR 432 (AIR 1956 Cal 396 ) the sole question which fell to be determined was as to the commencement of the period of limitation under S. 46(7) for enforcement of a notice of demand when successive notices of demand were in fact issued by the Incometax Officer, and that the earlier judgment was not intended to lay down and did not lay down that the Incometax Officer was under an obligation to issue a fresh notice of demand merely because the Appellate Assistant Commissioner had modified the assessment, Chakravartti, C. J., after referring to the contention which was advanced and his observations regarding the necessity of issuing a fresh notice of demand where the earlier notice had become inappropriate by reason of reduction in the amount of the tax payable observed at p. 422 (of ITR) (at pp.	None
+674675 of AIR)To say that was not to say that a necessary modification of the demand could only be made by issuing a second notice under S. 29 and could not be made in any other way, or to put it in other words, it was not to say that the necessity of issuing a fresh notice of demand was an invariable and imperative necessity.	None
+x x x	None
+x x I am altogether unable to see how that decision can be construed as having laid down that whenever an assessment order was modified by an appellate order, an obligation arose to issue a second notice of demand under S. 29, if the modified amount was sought to be made payable and if it was sought to establish that a default in respect of the modified demand has been committed.	None
+The observations of Chakravartti, C. J., in Metropolitan Structural Works Ltds case, 195528 ITR 432 (AIR 1956 Cal 396 ) relating to the necessity of issuing a fresh notice on the modification of the assessment were somewhat wide and literally read may support the argument advanced by the counsel for the respondent in this case, but they were, in my judgment, unnecessary for the purpose of deciding the case and did not correctly interpret the provisions of Ss. 29, 45 and 46.	None
+The view which has been expressed by Chakravartti, C. J., in Ladhuran Taparias case, 195833 ITR 407 ((S) AIR 1957 Cal 667 ) has been adopted in other cases as well 196245 ITR 103 (Ker) and 196245 ITR 317 (Raj).	None
+In my view the validity of a certificate issued under S. 46(2) to the Collector for recovery of tax must depend upon the power of the Incometax Officer to issue that notice.	None
+That power may be exercised only if the assessee is a defaulter, and the proceedings are commenced within the period provided in S. 46(7).	None
+If because of failure to comply with the notice of demand issued by the Incometax Officer the assessee is in default, I fail to appreciate how such a person can be regarded as not in default, merely because the order of assessment is modified but is not vacated.	None
+The High Court was, therefore, in error in holding that it was necessary to issue a fresh notice of demand, if the Appellate Assistant Commissioner modified the assessment so as to reduce the amount of tax due and unless such a notice was issued, the assessee could not be regarded as in default.49.	None
+The appeal will therefore be allowed and the petition filed by the respondent will stand dismissed with costs in this Court and the High Court.50.	None
+ORDERBy order of the majority, the appeals are dismissed.	Decision
+But there will be no order as to costs.51.	None
+Appeals dismissed.	None

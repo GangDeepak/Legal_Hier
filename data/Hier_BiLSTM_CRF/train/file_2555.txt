@@ -1,0 +1,92 @@
+Syed Shah Mohammed Quadri, J. These statutory appeals arise from the common order of the Customs, Excise and Gold (Control) Appellate Tribunal, New Delhi (for short the CEGAT) in Appeal Nos. E/1759/95A and E/5555/92A dated June 20, 1996.	None
+The appellants are the assessees under the Central Excise Act, 1944 (for short, the Act).	None
+The facts giving rise to these appeals are not in dispute.	Facts
+The appellants deal in turbo alternators which have two components (i) steam turbine and (ii) complete alternator (also called Generator).	Facts
+Of them, the appellants manufacture steam turbine in their factories at Allahabad and Bangalore where excise duty is paid on them under the Act.	Facts
+They purchase duty paid complete alternators which are delivered at the site of the customer.	Facts
+On the ground that the appellants failed to declare manufacture of turbo alternators, show cause notices were issued to them by the Collectors of Central Excise at Allahabad and Bangalore, inter alia, stating that turbo alternators are liable to excise duty under Heading 85.02 of the Central Excise Tariff Act, 1985 (for short the CET Act).	Facts
+The appellants resisted the claim on the ground that (i) a turbo alternator set comes into existence on its being fixed permanently on the land as such it is not an excisable good but an immovable property and (ii) by the combination of steam turbine and alternator, a turbo alternator emerges at the site of the customers which does not involve any process of manufacturing, therefore, they are not liable to excise duty.	Facts
+On August 24, 1995, the Collector of Central Excise, Allahabad and on August 28, 1992, the Collector of Central Excise, Bangalore confirmed the demand raised in the show cause notices.	None
+The assessees filed two appeals against the orders of the said Collectors before the CEGAT.	Facts
+On the question of levy of excise duty on turbo alternator, the CEGAT, by the impugned order dated June 20, 1996, held that turbo alternators were liable to excise duty.	Facts
+Mr. V. Sridharan, learned counsel for the appellants, has contended that (i) in combining steam turbine and alternator, no manufacturing process is involved (ii) the process consists of combining and fixing of the two components permanently on platform raised at the premises of the customers and thus what emerges is not goods but an immovable property and (iii) in view of the Circular No. 17/89 dated April 21, 1989 issued by Central Board of Excise and Customs, the case does not fall under Entry 85.02 of the CET Act.	Arguments of Petitioner
+Mr. M. Gourishankar Murthy, learned counsel for the respondents, in support of the order of the Tribunal argued that combining steam turbine and alternator amounted to manufacturing process and that merely because the two components were fixed to the platform for efficient functioning of a turbo alternator, it could not be said that it was an immovable property.	Arguments of Respondent
+In regard to Circular No. 17/89 (F.No. 207/73/88CX.6), he submitted that it did not relate to electric generator and it was not issued under Section 37B of the Act and in any event the point was not taken before the Tribunal.	Arguments of Respondent
+The short question that falls for consideration is whether excise duty can be imposed on a turbo alternator under the Act.	Issue
+Section 3 of the Act which is the charging provision authorities levy and collection of duties of excise on all excisable goods which are produced or manufactured in India at the rates mentioned in the Schedule to the CET Act.	None
+To attract exigibility of excise duty, an article must satisfy the twin conditions of being (i) excisable goods and (ii) produced or manufactured in India.	None
+First, adverting to the second condition  is any process of manufacture involved in bringing into existence a turbo alternator ?	None
+The process is noted by the CEGAT.	None
+At the site, platform is constructed in which pockets are provided.	None
+The steam turbine from the assessees factory and the alternator from other factories are transported to the site.	None
+The steam turbine is placed on the platform which works as the foundation and then, after levelling, it is fastened with foundation bolts into the pocket.	None
+So also, the alternator is placed and bolted to the steam turbine through a high speed coupling between the steam turbine outershaft and alternator shaft and they are aligned properly.	None
+After ensuring that there is no movement of the alternator pedestal, other accessories are installed at their respective places.	None
+Having regard to this process, the CEGAT held, and in our view rightly, that the assessees manufactured turbo alternators.	None
+In State of Maharashtra v. The Central Provinces Manganese Ore Co. Ltd., 1977(1) SCC 643, the question was whether mixing of manganese ores, obtained from different mines, by a predetermined mode of unloading at the ports resulted in manufacture of a conglomerate termed oriental mixture by the company.	None
+It was held that the formation of the mixture of the mere process of unloading did not involve any process of manufacture.	None
+The term oriental mixture was employed by the company to name a particular type of conglomerate which the unloading at one place of various types of manganese ore produced.	None
+What is to be determined is whether there has been manufacture of a new producer which has a separate commercially current name in the market and that mere giving of a new name by the seller to what is really the same product is not the manufacture of a new product.	None
+Nearer to the issue is the decision of this Court in Narne Tuleman Manufactures Pvt.	None
+Ltd.	None
+Hyderabad v. Collector of Central Excise, Hyderabad, 1989(1) SCC 172.	None
+The assessee therein carried on the activity of assembling the three components of the weighbridge and bringing into existence the complete weighbridge which has a distinctive name, character or use.	None
+There also, the assessee contended that out of the three components, only one, indicator system of the machine, was being manufactured by it which had already suffered excise duty and the other components, which were also duty paid components, were purchased from others.	None
+It was held that the activity of fitting and assembling the three components resulted in bringing into being complete weighbridge which has a distinctive name, character or use.	None
+Therefore, it would amount to manufacture of that product which is liable to excise duty.	None
+Thus, where an activity results in emergence of a new marketable commodity with a distinctive name, character or use, it cannot but be manufacturing process.	None
+(See Union of India v. Delhi Cloth and General Mills, 1963 Suppl.	None
+(1) SCR 586)	None
+In the instant case, the appellants were, according to specified designs, combining steam turbine and alternator by fixing them on a platform and aligning them.	None
+As a result of this activity of the appellants, a new product, turbo alternator, came into existence which has a distinctive name and use different from its components.	None
+Indeed, the Tribunal referred to the orders placed for purchase of turbo alternator to point out that a new commodity emerges.	None
+On these facts, we have no hesitation in holding that the process involved in fixing steam turbine and alternator and in coupling and aligning them in a specified manner to form a turbo alternator, a new commodity, is nothing but a manufacturing process.	None
+Now revering to the first condition, the expression excisable goods is defined in clause (d) of Section 2 of the Act to mean goods specified in the Schedule to the CET Act as being subject to a duty of excise including salt.	None
+It is thus clear that the goods which are sought to be subjected to the excise duty must find a place in the Schedule to the CET Act.	None
+Impost on a turbo alternator is levied under Entry 85.02 in the said Schedule, which reads as under A perusal of the Entry shows that a turbo alternator does not find a place therein eo nomine.	None
+The question then will be whether a turbo alternator falls within the meaning of electric generating set.	None
+To bring a turbo alternator under that heading it must be shown to have the attributes of excisable goods as understood in the Excise Law.	None
+They are mobility and marketability.	None
+The article in question should be capable of being brought and sold in the market  a test which is too well established by series of decisions of this Court to be elaborated here.	None
+There can be no doubt that if an article is an immovable property, it cannot be termed as excisable goods for purposes of the Act.	None
+From a combined reading of the definition of immovable property in Section 3 of the Transfer of Property Act, Section 3(25) of the General Clauses Act, it is evident that in an immovable property there is neither mobility nor marketability as understood in the Excise Law.	None
+Whether an article is permanently fastened to anything attached to the earth require determination of both the intention as well as the factum of fastening to anything attached to the earth.	None
+And this has to be ascertained from the facts and circumstances of each case.	None
+In Municipal Corporation of Greater Bombay and others v. Indian Oil Corporation Ltd., 1991 Suppl.	None
+(2) SCC 18, one of the questions this Court considered was whether a petrol tank, resting on earth on its own weight without being fixed with nuts and bolts, had been erected permanently without being shifted from place to place.	None
+It was pointed out that the test was one of permanency if the chattel was movable to another place of use in the same position or liable to be dismantled and reerected at the later place, if the answer to the former is in the positive it must be a movable property but if the answer to the latter part is in the positive then it would be treated as permanently attached to the earth.	None
+In Quality Steel Tubes (P) Ltd. v. Collector of Central Excise, U.P., 1995(2) SCC 372, this Court had to consider the question whether the tube mill and welding head erected and installed by the appellant for the manufacture of tubes and pipes out of dutypaid raw material were assessable to duty under residuary Tariff Item No. 68 of the Schedule, being excisable goods within the meaning of Central Excise Act.	None
+While restating the test, namely, first the article must be goods and secondly that it should be marketable or capable of being brought to market, it was held that goods which are attached to the earth and thus become immovable did not satisfy the test of being goods within the meaning of the Central Excise Act nor can be said to be capable of being brought to the market for being sold.	None
+In that case, it was found that both the tests were not satisfied and, therefore, the tube mill and welding head erected by the appellant were not exigible to excise duty.	None
+It was held that erection and installation of a plant could not be held to be excisable goods and if such wide meaning was assigned, it would result in bringing in its ambit structures, erections and installations which would surely not be in consonance with accepted meaning of excisable goods and its exigibility to duty.	None
+The question whether mono vertical crystalliers answer the meaning of goods fell for consideration of this Court in Mittal Engineering Works (P) Ltd. v. Collector of Central Excise, Meerut, 1997(1) SCC 203.	None
+Mono vertical crystallisers are used in sugar factories to exhausts molasses of sugar.	None
+The component parts of mono vertical cystallisers were cleared on payment of excise duty from the premises of the appellants therein	None
+and they were then assembled, erected and attached to the earth at the site of the customers sugar factory.	None
+The process involved welding and gas cutting.	None
+The CEGAT held that the mono vertical crystalliser was complete when it left the factory and upheld the demand of excise duty on clearance thereof.	None
+This Court pointed out that the mono vertical crystalliser, had to be assembled, erected and attached to the earth by a foundation at the site of the sugar factory and it was not capable of being sold as it is, without anything more.	None
+Bharucha, J. speaking for the Court, observed The erection and installation of a plant is not excisable and to so hold would, impermissibly, bring into the net of excise duty all manner of plants and installations.	None
+The case of Narne Tuleman Manufacturers (P) Ltd. (supra) was distinguished on the ground that in that case the contention that weighbridge was not goods within the meaning of the Act, was not raised and no evidence in that behalf was brought on record.	None
+It was observed We cannot assume that weighbridges stand on the same footing as mono vertical cyrstallisers in that regard and hold that because weighbridges were hold to be exigible to excise duty so must mono vertical crystallisers.	None
+Here, the decision of this Court in Sirpur Paper Mills Ltd. v. Collector of Central Excise, Hyderabad, 1998(1) SCC 400, which is relied on by the learned counsel for the Revenue, needs to be referred to.	None
+In that case, the question was whether papermaking machine which was assembled and erected by the appellant by using duty paid components and by fabricating certain parts in their factory, was liable to excise duty.	None
+The CEGAT recorded the finding that the whole purpose behind attaching the machine to a concrete base was to prevent wobbing of the machine and to secure maximum operational efficiency and also for safety.	None
+This Court held that in view of those findings it was not possible to hold that the machinery assembled and erected by the appellant at its factory site was immovable property as something attached to earth like a building or a tree.	None
+The test, it was noted, would be whether the papermaking machine could be sold in the market and as the Tribunal had found as a fact that it could be sold, so the machine was held to be not a part of immovable property of the company.	None
+It appears that the aforementioned two cases  Mittal Engineering Works (P) Ltd. and Quality Steel Tubes (P) Ltd. (supra),  were not referred to in Sirpur Paper Mills Ltds case.	None
+Further, in the instant case, it is a common ground that a turbo alternator comes into existence only when a steam turbine and alternator with all their accessories are fixed at the site and only then it is known by a name different from the names of its components in the market.	Reasoning
+The Tribunal recorded the finding that fixing of steam turbine and the alternator is necessitated by the need to make them functionally effective to reduce vibration and to minimise disturbance to the coupling arrangements and other connections with the related equipments.	Reasoning
+It also noted that removal of the machinery does not involve any dismantling of the turbine and alternator in the sense of pulling them down or taking them to pieces but only undoing the foundation bolts arrangement by which they are fixed to the platform and uncoupling of the two units and, therefore, the turbo alternator did not answer the test of permanency laid down by this Court in the case of Municipal Corporation of Greater Bombay (supra).	Reasoning
+In our view, the findings recorded do not justify the conclusion of the Tribunal inasmuch as on removal a turbo alternator gets dismantled into its components  steam turbine and alternator.	Reasoning
+It appears that the Tribunal did not keep in mind the distinction between a turbo alternator and its components.	Reasoning
+Thus, in our view, the test of permanency fails.21.	Reasoning
+The marketability test requires that the goods as such should be in a position to be taken to the market and sold and from the above findings it follows that to take it to the market the turbo alternator has to be separated into its components  turbine and the other alternator  but then it would not remain turbo alternator, therefore, the test is incorrectly applied.	Reasoning
+Though, there is no finding that without fixing to the platform such turbo alternator would not be functional, it is obvious that when without fixing, it does not come into being, it can hardly be functional.22.	Reasoning
+It will be useful to refer to the Explanatory Note issued by the Harmonized System of Nomenclature (HDN) to which Mr. Sridharan invited out attention.	Reasoning
+We also note that HSN received the approval of this Court in CCE v. Woodcraft, 1995(3)	Reasoning
+SCC 454, which explained the scope of Heading 85.02 as under Generating sets consisting of the generator and its prime mover which are mounted (or designed to be mounted) together as one unit or on a common base (see the General Explanatory Note to Section XVI), are classified here provided they are presented together (even if packed separately for convenience of transport).The Explanatory Note further contained Floors, concrete bases, walls, partitions, ceilings, etc., even if specially fitted out to accommodate machines or appliances, should not be regarded as a common base joining such machines or appliances to form a whole.	Reasoning
+From a perusal of the above Explanatory Notes, it is clear that when generating sets consisting of the generator and its prime base mover are mounted together as one unit on a common base they are classified under the Heading 85.02 in this connection floors, concrete bases, walls, partitions, ceilings etc., even if specially fitted out to accommodate machines or appliances, cannot be regarded as a common base joining such machines or appliances to form a whole.	Reasoning
+On a combined reading of the Explanatory Notes, extracted above, there can be no difficulty in inferring that installation or erection of turbo alternator on the concrete base specially constructed on the land cannot be treated as a common base and, therefore, it follows that installation or erection of turbo alternator on the platform constructed on the land would be immovable property, as such it cannot be excisable goods falling within the meaning of Heading 85.02.24.	Reasoning
+For these reasons, we are of the view that the Tribunal is not correct in coming to the conclusion that the turbo alternator is excisable goods.	Decision
+We, therefore, set aside the order under appeal and allow these appeals with costs.	Decision

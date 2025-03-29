@@ -1,0 +1,527 @@
+ Ruma Pal, J. The principal question to be decided in these matters is the nature of the transaction by which mobile phone connections are enjoyed.	Issue
+Is it a sale or is it a service or is it both?	Issue
+If it is a sale then the States are legislatively competent to levy sales tax on the transaction under Entry 54 List II of the Seventh Schedule to the Constitution.	Issue
+If it is a service then the Central Government alone can levy service tax under Entry 97 of List I (or Entry 92C of List I after 2003).	Issue
+And if the nature of the transaction partakes of the character of both sale and service, then the moot question would be whether both legislative authorities could levy their separate taxes together or only one of them.	Issue
+The contenders are the service providers on the one hand and the States on the other.	None
+It is the case of the service providers (who are for the purposes of convenience referred to in this judgment as petitioners irrespective of the capacity in which they are arraigned in the several matters before us) that there is no sale transaction involved and that the attempt of the several States to levy tax on the provision of mobile phone facilities by them to subscribers was constitutionally incompetent.	Arguments of Petitioner
+It is their case that the transaction in question was merely a service and that the Union Government alone was competent to levy tax thereon.	Arguments of Petitioner
+They are supported in their stand by the Union Government.	Arguments of Petitioner
+The States (who are correspondingly referred to as the respondents) contention is that the transaction was a deemed sale under Article 366 (29A)(d) of the Constitution read with the charging sections in their various sales tax enactments and therefore they are competent to levy sales tax on the transactions.	Arguments of Respondent
+These are the contentions which are only briefly indicated at this stage to introduce the circumstances under which the issue has been raised before us.	None
+The High Courts of Allahabad, Andhra Pradesh, and Punjab Haryana all held that there was no sale of goods under the State Sales Tax Acts justifying the levy of sales tax on rentals charged by service providers to its subscribers.	Facts
+All three decisions were overruled by this Court in State of U.P. vs. Union of India (2003) 3 SCC 239 .	Facts
+In the meanwhile the High Court of Kerala took a different view from the view expressed by the High Courts of Allahabad, Andhra Pradesh and Punjab Haryana in Escotel Mobile Communications vs. Union of India (2002) 126	Facts
+STC 475 (Ker.)	Facts
+The Division Bench of the Kerala High Court considered a situation where the State Sales Tax Authorities sought to include the value of activation charges in the sale price of the SIM (Subscribers Identification Module) Card on the sale of which sales tax was admittedly payable and had been paid.	Facts
+At the same time the Central Government sought to include the cost of the SIM Card in the service tax which was also admittedly payable and had been paid by the service provider for the service of activation of the SIM Card.	Facts
+The High Court held that the transaction of sale of a SIM Card included its activation and that therefore the activation charges formed part of the consideration and could be subjected to sales tax under the Kerala General Sales Tax Act.	Facts
+At the same time the selling of the SIM Card and the process of activation were both services provided by the Mobile Cellular Telephone Companies to the subscribers and fell within the definition of taxable services as defined in sections 65(72)(b) of the Finance Act, 1994.	Facts
+In other words the Kerala High Court answered all three questions framed by us in the opening paragraph of this judgment, in the affirmative and in favour of the Revenue.	Facts
+The service providers who were the writ petitioners before the Kerala High Court have questioned the correctness of the decision in appeals filed by them which are also disposed of by this judgment.	None
+Most of the other petitioners have however approached this Court by way of writ petitions under Article 32.	None
+When the Civil Appeals and writ petitions were listed before two learned Judges, an order was passed on 25th September, 2003 referring the matter to a larger Bench as the nature of the questions raised is important.	Facts
+The State respondents have raised a preliminary objection and contended that the plea of BSNL and the other petitioners including the Union of India is barred by res judicata because the issue has been decided by this Court inter partes in State of U.P. vs. Union of India (2003) 3 SCC 239 .	Arguments of Respondent
+The plea has been resisted by the petitioners on three grounds viz., (i) that the issue of the legislative competence of States to impose sales tax under Entry 54 of List II on transactions which are purely rendition of services, was not raised in that case.	Arguments of Petitioner
+(ii) that the decision was without jurisdiction because of Article 131 of the Constitution, and (iii) that every assessment year gave rise to a fresh cause of action.	Arguments of Petitioner
+According to the petitioners in any event the decision requires reconsideration.	Arguments of Petitioner
+In State of U.P. v. Union of India and Anr.	Reasoning
+the two learned Judges of this Court had construed the definition of business, dealer, goods and sale under Sections 2(aa), (c), (d) and (h) of the U.P. Trade Tax Act respectively to come to the conclusion that the DoT was a dealer under the U.P. Act.	Reasoning
+This Court also held that a telephone communication and other accessories which gave access to the telephone exchange with or without instruments were goods and that transferring the right to use the telephone instrument apparatus and the whole system fell within the extended meaning of sale under clause (h) of Section 2 of the U.P. Act.	Reasoning
+A consideration of the correctness of this conclusion would arise only if we reject the preliminary objection of the State of U.P. that we are precluded from reopening the issues so concluded by reason of the principles of res judicata.	Reasoning
+Several decisions have been cited in support of their contention.	Reasoning
+In Amalgamated Coalfields Ltd., Vs. Janapada Sabha 1962 (1) SCR 10 tax was claimed in respect of coal by the respondents therein.	Reasoning
+Notices of demand were sent to the appellant.	Reasoning
+The validity of these notices was challenged by the appellant by filing a writ petition before this Court.	Reasoning
+The writ petition was dismissed and it was held that the notices served on the appellant were valid.	Reasoning
+Notices of demand were again served on the appellant in respect of a subsequent period.	Reasoning
+The appellant filed another writ petition this time before the High Court, challenging the validity of these notices.	Reasoning
+The High Court held that the appellants claims were barred by res judicata by reason of the earlier decision of this Court.	Reasoning
+Challenging the decision of the High Court the appellants approached this Court under Article 136.	Reasoning
+In Amalgamated Coalfields Ltd., Vs. Janapada Sabha (1963)	Reasoning
+Supp.1	Reasoning
+SCR 172 (referred to hereafter as Amalgamated Coalfields No.(2)), the issue was whether the doctrine of res judicata applied to writ petitions filed under Article 226 or to petitions under Article 32.	Reasoning
+The Court noted that the judicial view was that even petitions filed under Article 32 were subject to the general principle of res judicata.	Reasoning
+The Court then considered whether the principle would apply to tax cases when the earlier decision was in respect of a different period and said In a sense, the liability to pay tax from year to year is a separate and distinct liability it is based on a different cause of action from year to year, and if any points of fact or law are considered in determining the liability for a given year, they can generally be deemed to have been considered and decided in a collateral and incidental way.	Reasoning
+After considering various earlier authorities on the issue, it was held that If for instance, the validity of a taxing statute is impeached by an assessee who is called upon to pay a tax for a particular year and the matter is taken to the High Court or brought before this Court and it is held that the taxing statute is valid, it may not be easy to hold that the decision on this basic and material issue would not operate as res judicata against the assessee for a subsequent year.	Reasoning
+That, however, is a matter on which it is unnecessary for us to pronounce a definite opinion in the present case.	Reasoning
+In this connection, it would be relevant to add that even if a direct decision of this Court on a point of law does not operate as res judicata in a dispute for a subsequent year, such a decision would, under Art. 141, have a binding effect not only on the parties to it, but also on all courts in India as a precedent in which the law is declared by this Court.	Reasoning
+The question about the applicability of res judicata to such a decision would thus be a matter of merely academic significance.	Reasoning
+(Emphasis ours)	None
+After refraining from expressing any final opinion on the applicability of res judicata to assessment orders for successive years, the Court was quite unequivocal in expressing an opinion on the applicability of the principles of constructive res judicata.	Reasoning
+In our opinion, constructive res judicata which is a special and artificial form of res judicata enacted by S. 11 of the Civil Procedure Code should not generally be applied to writ petitions filed under Art.32 or Art.226.	Reasoning
+We would be reluctant to apply this principle to the present appeals all the more because we are dealing with cases where the impugned tax liability is for different years.	Reasoning
+It was held that in any event The appellants cannot be precluded from raising the new contentions on which their challenge against the validity of the notices is based.	Reasoning
+The question in M s. Radhasoami Satsang Vs. Commissioner of Income Tax 1992(1)	None
+SCC 659 (also cited by the State of U.P.) was whether the Tribunal was bound by an earlier decision in respect of an earlier assessment year that the income derived by the Radhasoami Satsang, a religious institution, was entitled to exemption under Sections 11 and 12 of the Income Tax Act, 1961.	None
+The Court said We are aware of the fact that strictly speaking res judicata does not apply to income tax proceedings.	None
+Again, each assessment year being a unit, what is decided in one year may not apply in the following year but where a fundamental aspect permeating through the different assessment years has been found as a fact one way or the other and parties have allowed that position to be sustained by not challenging the order, it would not be at all appropriate to allow the position to be changed in a subsequent year, unless there was any material change justifying the Revenue to take a different view of the matter.	None
+Amalgamated Coalfields case No.2 (supra) was distinguished in the case of Devi Lal Modi Vs.	Reasoning
+Sales Tax Officer 1965 (1) SCR 86 in which the challenge was to assessment proceedings under the Madhya Bharat Sales Tax Act, 1950.	Reasoning
+The writ petition was dismissed by the High Court.	Reasoning
+The special leave petition was also dismissed.	Reasoning
+The same order of assessment was challenged by filing a second writ petition before the High Court.	Reasoning
+This was also dismissed by the High Court.	Reasoning
+The question, before this Court was whether it was open to the appellant to challenge the validity of the same order of assessment twice by two consecutive writ petitions under Article 226.	Reasoning
+The Court acknowledged that in regard to the orders of assessment for different years, the position may be different and said Even if the said orders are passed under the same provisions of law, it may theoretically be open to the party to contend that the liability being recurring from year to year, the cause of action is not the same and so, even if a citizens petition challenging the order of assessment passed against him for one year is rejected, it may be open to him to challenge a similar assessment order passed for the next year.	Reasoning
+In that case, the court may ultimately adopt the same view which had been adopted on the earlier occasion but if a new ground is urged, the court may have to consider it on the merits, because, strictly speaking the principle of res judicata may not apply to such a case.	Reasoning
+That, in fact, is the effect of the decision of this Court in the Amalgamated Coalfields Ltd. and Anr.	Reasoning
+V. The Janapada Sabha, Chhindwara (1963) Supp.1 SCR.172	Reasoning
+In our opinion, the said general observations must be read in the light of the important fact that the order which was challenged in the second writ petition was in relation to a different period and not for the same period as was covered by the earlier petition.	Reasoning
+But as far as a challenge to the same assessment order is concerned, it was held that if constructive res judicata is not applied to such proceedings a party can file as many writ petitions as he likes and take one or two points every time.	Reasoning
+That clearly is opposed to considerations of public policy on which res judicata is based and would mean harassment and hardship to the opponent.	Reasoning
+Besides, if such a course is allowed to be adopted, the doctrine of finality of judgments pronounced by this Court would also be materially affected.	Reasoning
+We are, therefore, satisfied that the second writ petition filed by the appellant in the present case is barred by constructive res judicata.	Reasoning
+Rupa Ashok Hurra vs. Ashok Hurra (2002) 4 SCC 388 considered whether this Court can set aside its earlier decision inter partes under Article 32.	Reasoning
+In paragraph 14, the Court said On the analysis of the ratio laid down in the aforementioned cases, we reaffirm our considered view that a final judgment order passed by this Court cannot be assailed in an application under Article 32 of the Constitution of India by an aggrieved person, whether he was a party to the case or not.	Reasoning
+Nevertheless, we think that a petitioner is entitled to relief ex debito justitiae if he establishes (1) violation of the principles of natural justice in that he was not a party to the lis but the judgment adversely affected his interests or, if he was a party to the lis, he was not served with notice of the proceedings and the matter proceeded as if he had notice, and (2) where in the proceedings a learned Judge failed to disclose his connection with the subjectmatter or the parties giving scope for an apprehension of bias and the judgment adversely affects the petitioner.	Reasoning
+To a similar effect is the case of Junior Telecom Officers Forum and Ors.	Reasoning
+vs. Union of India Ors (1993)	Reasoning
+Supp.	Reasoning
+4 SCC 693 where the appellants had intervened in earlier proceedings.	Reasoning
+After the controversy was decided in those proceedings the appellants sought to reagitate the same issues in respect of the same matter contending that they had no opportunity of being heard.	Reasoning
+The submission was rejected and it was held that the second round was impermissible.	Reasoning
+The decisions cited have uniformly held that res judicata does not apply in matters pertaining to tax for different assessment years because res judicata applies to debar Courts from entertaining issues on the same cause of action whereas the cause of action for each assessment year is distinct.	Reasoning
+The Courts will generally adopt an earlier pronouncement of the law or a conclusion of fact unless there is a new ground urged or a material change in the factual position.	Reasoning
+The reason why Courts have held parties to the opinion expressed in a decision in one assessment year to the same opinion in a subsequent year is not because of any principle of res judicata but because of the theory of precedent or the precedential value of the earlier pronouncement.	Reasoning
+Where facts and law in a subsequent assessment year are the same, no authority whether quasi judicial or judicial can generally be permitted to take a different view.	Reasoning
+This mandate is subject only to the usual gateways of distinguishing the earlier decision or where the earlier decision is per incuriam.	Reasoning
+However, these are fetters only on a coordinate bench which, failing the possibility of availing of either of these gateways, may yet differ with the view expressed and refer the matter to a bench of superior strength or in some cases to a bench of superior jurisdiction.	Reasoning
+In our opinion, the preliminary objection raised by the State of U.P. therefore, rests on a faulty premise.	Reasoning
+The contention of the petitioners appellants in these matters is not that the decision in State of U.P. vs. U.O.I (supra) for that assessment year should be set aside, but that it should be overruled as an authority or precedent.	Reasoning
+Therefore, the decisions in Devi Lal Modi vs. Sales Tax Officer (supra) and in Hurra vs Hurra (supra) are not germane.	Reasoning
+A decision can be set aside in the same lis on a prayer for review or an application for recall or Under Art.	Reasoning
+32 in the peculiar circumstances mentioned in Hurra vs. Hurra.	Reasoning
+As we have said overruling of a decision takes place in a subsequent lis where the precedential value of the decision is called in question.	Reasoning
+No one can dispute that in our judicial system it is open to a Court of superior jurisdiction or strength before which a decision of a Bench of lower strength is cited as an authority, to overrule it.	Reasoning
+This overruling would not operate to upset the binding nature of the decision on the parties to an earlier lis in that lis, for whom the principle of res judicata would continue to operate.	Reasoning
+But in tax cases relating to a subsequent year involving the same issue as an earlier year, the court can differ from the view expressed if the case is distinguishable or per incuriam.	Reasoning
+The decision in State of U.P. vs. Union of India related to the year 1988.	Reasoning
+Admittedly, the present dispute relates to a subsequent period.	Reasoning
+Here a coordinate Bench has referred the matter to a Larger Bench.	Reasoning
+This Bench being of superior strength, we can, if we so find, declare that the earlier decision does not represent the law.	Reasoning
+None of the decisions cited by the State of U.P. are authorities for the proposition that we cannot, in the circumstances of this case, do so.	Reasoning
+This preliminary objection of the State of U.P. is therefore rejected.	Reasoning
+Coming now to the merits of the case, the petitioners contended that the service providers are licencees under Section 4 of the Telegraph Act, 1885 and provide telecommunication services as provided under Section 2(k) under the Telecom Regulatory Authority of India Act, 1997.	Arguments of Petitioner
+Service tax is imposed on them under the Finance Act, 1994 on the basis of the tariff realised from the subscribers.	Arguments of Petitioner
+13.	Arguments of Petitioner
+They further contended that in providing such service there is in fact no sales effected by the service providers and that the States do not have the legislative competence to impose sales tax on the rendition of telecommunication services.	Arguments of Petitioner
+Article 366 (29A) which extended the definition of sale in the Constitution did not apply to the transaction in question.	Arguments of Petitioner
+Clause (d) of Article 366(29A) relied upon by the respondents contemplates a transfer of a legal right to use goods.	Arguments of Petitioner
+According to the petitioners there is no transfer of any legal right by the service providers nor any delivery of any goods which may be covered under the Telegraph Act, 1885 as the same is barred and prohibited in terms of the licence granted to service providers under Section 4 of that Act.	Arguments of Petitioner
+It is submitted without a delivery of goods, there could be no transfer of any right to use those goods as contemplated under Article 366(29A)(d).	Arguments of Petitioner
+It is the petitioners case that the decision in State of U.P. Vs. Union of India (supra) was erroneous not only because it held that the telephone connection and all other accessories which gives access to the telephone exchange with or without instruments are goods but also because there was in fact no transfer of any of these equipment to a subscriber.	Arguments of Petitioner
+The predominant element and intention in the transaction was one of service and not of sale.	Arguments of Petitioner
+It is submitted that taxing telecommunication services as a deemed sale under Entry 54 of List II would be violative of Article 286 of the Constitution as the same involves connecting subscribers throughout the territories of India without any regard to State boundaries.	Arguments of Petitioner
+On the interpretation of Article 366(29A)	Arguments of Petitioner
+it was submitted that the fiction in one clause could not be read in to the other.	Arguments of Petitioner
+It is said that the disintegration of composite transactions has to be specifically enabled by the Constitution and that it was not within the competence of State legislation to divide a composite transaction otherwise.	Arguments of Petitioner
+It is also submitted that the language of clause (d) was distinct from the language used in clause (b) of Clause 29A of Article 366.	Arguments of Petitioner
+Our attention was drawn to the absence of the use of the word involved in the former sub clause.	Arguments of Petitioner
+It is emphasized that there must be goods of which the right to transfer is covered by sub clause (d) of clause 29A of Article 366.	Arguments of Petitioner
+It is contended that there was no transfer of any right to use any goods and the parties never intended for such transfer.	Arguments of Petitioner
+14.	Arguments of Petitioner
+It is submitted that the court should apply the standard of the ordinary man for deciding whether the transaction in question was a contract for service or for transfer of a right to use deemed goods.	Arguments of Petitioner
+The obligation of the service provider is merely to transmit voice and the subscriber was not interested in stipulating as to how the voice data is to be conveyed to the other end.	Arguments of Petitioner
+It is for the service provider to choose the medium as it thinks fit.	Arguments of Petitioner
+The SIM card was not goods it merely enables activation.	Arguments of Petitioner
+According to the petitioners prior to the 46th amendment composite contracts were not exigible to States sales tax under Entry 54, List II.	Arguments of Petitioner
+The legal fiction created in Article 366(29A) provided for specific composite contracts to be subjected to sales tax.	Arguments of Petitioner
+Therefore, even after the 46th amendment other transactions had been held not to be sales.	Arguments of Petitioner
+Reliance has been placed on the Everest Copiers vs. State of Tamil Nadu (1996) 5 SCC 390, Rainbow vs. State of Madhya Pradesh (2000) 2 SCC 385 and Hindustan Aeronautics vs. State of Karnataka (1984) 1 SCC 707.	Arguments of Petitioner
+It was contended in addition that the restrictions regarding the States inability to tax interstate sales would continue to apply.	Arguments of Petitioner
+Furthermore, the activity of providing the connection involved the use of instruments embedded to the earth or attached to what is embedded in the earth and therefore was immoveable property and outside the scope of sales tax.	Arguments of Petitioner
+Thus there were no goods nor any transfer of any goods involved in the activity.	Arguments of Petitioner
+15.	Arguments of Petitioner
+It is pointed out that none of the States could contend that telecommunication was not a service.	Arguments of Petitioner
+It was submitted that the service did not allow for transfer of right to use goods.	Arguments of Petitioner
+There was no transfer of control or equipments at any stage.	Arguments of Petitioner
+It is submitted that what the service providers provide was a means of communication and what was transferred was the sounds of the message or signals which were generated by the subscribers themselves.	Arguments of Petitioner
+It is further submitted that the SIM card was merely an identification device for granting access and was a means to access services.	Arguments of Petitioner
+The service providers in the appeal from the decision of Kerala High Court have submitted that the High Court had not appreciated the facts.	Arguments of Petitioner
+The service providers had imported the SIM cards and sold them to franchises who then sold them to the subscribers.	Arguments of Petitioner
+It is submitted that the authorities had wrongly proceeded on the basis that there was a sale of SIM cards by the service providers to the subscribers.	Arguments of Petitioner
+It is pointed out that the sale was factually and legally distinct from the activity of giving the connection or activation of the SIM cards.	Arguments of Petitioner
+The decision of the Kerala High Court has also been impugned on the ground that it overlooked inter alia questions of competence raised by the petitioners, the explanation to the definition of turnover as well as the ratio of Gannon Dunkerley and misapplied the aspect theory.	Arguments of Petitioner
+16.	Arguments of Petitioner
+As we have noted earlier, the Union of India has supported the service providers and contended that the transaction in question was only service.	Arguments of Petitioner
+It has been argued on behalf of the State of Uttar Pradesh that the writ petition had been filed by BSNL challenging Sections 2(h) and 3F of the U.P. Trade Tax Act, 1948.	None
+The challenge was expressly given up and therefore the petition was not maintainable.	Arguments of Respondent
+It was also submitted that there were different factual scenarios as a result of which the possible outcome of a particular assessment could not be predicted and it was not appropriate to intervene under Article 32.	Arguments of Respondent
+According to the State, no fundamental right was allegedly infringed.	Arguments of Respondent
+It is contended that the Central Government has the exclusive monopoly over telegraphs under the Telegraph Act, 1985.	Arguments of Respondent
+A telegraph as defined in that Act would cover the transactions in question.	Arguments of Respondent
+In granting permission to the service providers by the issue of licence, there was transfer of the right to use the telegraph which right was further given to the subscribers in a transaction which would be covered by Article 366(29A)(d).	Arguments of Respondent
+On the interpretation of Article 366(29A)	Arguments of Petitioner
+it has been submitted that prior to the introduction of 92C in List I, the residuary entry could not be relied upon in view of the specific entry in Entry 54 of List II.	Arguments of Respondent
+It has been submitted inter alia that delivery of the goods was not necessary for the purpose of transferring the right to use and this had been held in the decision of this Court in 20th Century Finance Corporation Ltd. and Anr.	Arguments of Respondent
+v. State of Maharashtra (2000) 6 SCC 12 .	Reasoning
+It is submitted that in any event different aspects of a given transaction can fall within the legislative competence of two legislatures and both would have the power to tax that aspect.	Arguments of Respondent
+It is submitted that the question whether the goods were moveable or immoveable property as well as the question whether the tax was being levied on inter state sales or not were all matters of assessment and that the judgment in State of U.P. vs. Union of India should be affirmed.	Arguments of Respondent
+In addition, it has been submitted for the respondents that the expression telephone and telephony do not necessarily include the factor of service.	Arguments of Respondent
+A subscriber makes use of the telephone system as a matter of right and is capable of asserting that right even against the Government.	Arguments of Respondent
+The subscribers right to use his telephone line is to the exclusion of every other person and to that extent the right of the Government service providers stands denuded.	Arguments of Respondent
+The right is based on contract and is in addition to the right to the service provided by the service providers.	Arguments of Respondent
+The SIM Card operates as key for access to the telephone system or network and symbolizes the right of participation by a subscriber in the telephone system.	Arguments of Respondent
+These are two distinct transactions, one as the transferree of the legal right to use the telephone and the other of a contract of service.	Arguments of Respondent
+These are two different aspects, each attracting a different tax.	Arguments of Respondent
+Service is only one of the purposes for which the transfer or deemed sale is made by the Government.	Arguments of Respondent
+The Government may among other rights also allow the licencee to give telephone connection as its agent or act as a service provider for the establishment, maintenance and working of the telephone system.	Arguments of Respondent
+The use of the words any goods in subclause (d) of (29A) of Article 366 according to the respondents showed that the goods need not necessarily have been transferred by the transferor.	Arguments of Respondent
+No delivery was in fact required under subclause (d).	Arguments of Respondent
+It is further emphasised that subclause (d) also use the words for any purpose.	Arguments of Respondent
+This could include the purpose of service.	Arguments of Respondent
+In any event, it is submitted, the meaning and scope of subclause (d) in Article 366 (29A) cannot be limited on account of the fact that a transaction may have been described as a service in any legislative enactment or contract or licence.	Arguments of Respondent
+Similarly, the expression goods had a very wide and comprehensive meaning and assuming delivery is necessary would include the entire telephone system as well as telephone appliances, instruments, materials, towers, exchanges, etc.	Arguments of Respondent
+The means, namely the electrical or electro magnetic means of energy will also form parts of the goods.	Arguments of Respondent
+It is further submitted that whether in any particular case the telephone system included machines or apparatus fixed to the ground was a question of fact to be decided in an individual case during the assessment proceedings.	Arguments of Respondent
+Countering the submission that the sales would be inter state sales, it is submitted that the situs of the taxable event under the Sales Tax Act would be where the transfer of the right takes place between the service providers and the subscribers.	Arguments of Respondent
+This was also a question which would vary from case to case and would have to be ultimately factually decided by an assessment authority.	Arguments of Respondent
+According to the respondents, apart from the transfer aspect of the transaction being isolated as an independent taxable event from the aspect of service, ultimately the question whether there was any splitting up of a composite transaction was also to be determined during assessment proceedings.	Arguments of Respondent
+It was submitted that the mere fact that the Union was levying tax on certain taxable services could not be used to deny the States powers to tax the objects provisions in the service.	Arguments of Respondent
+Therefore, the States powers must be read harmoniously with the Unions power and it is only when such reconciliation is impossible that the primacy should be given to the non obstante clause under Article 248(1).	Arguments of Respondent
+Alternatively it was submitted that the theory of aspect would apply so that what was service in one aspect was a sale in the other.	Arguments of Respondent
+It was also submitted that because in sub clauses (b) and (f) of Clause (29A) of Article 366 the tax on a component in a transaction of works is permissible, it cannot be assumed that in subclause (d) tax could not be imposed on an element of the sale component of that transaction.	Arguments of Respondent
+The subclause has no words or limitations and must be read as broadly as the language permitted.	Arguments of Respondent
+It was submitted that the test of dominant object of a composite works contract was no longer relevant after the 46th Constitutional Amendment.	Arguments of Respondent
+It was submitted that the service providers transfer the right to use radio frequency channel to a subscriber for a specific duration and thus have effected a deemed sale of goods under Article 366 (29A) (d).	Arguments of Respondent
+These broadly speaking are the respective contentions and in our opinion, the issues which arise for consideration in these matters are A) what are goods in telecommunication for the purposes of Article 366 (29A)(d)?	None
+B) is there any transfer of any right to use any goods by providing access or telephone connection by the telephone service provider to a subscriber ?	None
+C) is the nature of the transaction involved in providing telephone connection a composite contract of service and sale?	Issue
+If so, is it possible for the States to tax the sale element?	Issue
+If the providing of a telephone connection involves sale is such sale an inter state one?	None
+Would the aspect theory be applicable to the transaction enabling the States to levy sales tax on the same transaction in respect of which the Union Government levies service tax.	None
+Before taking up the issues for decision seriatim, it is necessary for us to deal with the two further preliminary objections raised by the respondents on the merits.	None
+Regarding the first of such objections that the writ petitions have become infructuous  it may be true that in relation to the U.P. Trade Tax Act,1948, the challenge to Section 2(h) and 3F which have basically reproduced Article 366(29A) has not been pressed by the petitioners.	Reasoning
+What has been argued however, is for a construction of Article 366(29A) particularly, clause (d) thereof.	Reasoning
+That construction, if accepted by the Court, would be sufficient to grant the petitioners the relief claimed.	Reasoning
+The issue of interpretation of Article 366(29A) is, therefore, a live one.	Issue
+The second objection was that the writ petitions under Article 32 were not maintainable.	Issue
+The writ petitions raised questions relating to the competence of the States to levy sales tax on telecommunication service.	Reasoning
+This is not an issue which could have been raised and decided by the assessing authorities.	Reasoning
+If the State Legislatures are incompetent to levy the tax, it would not only be an arbitrary exercise of power by the State authorities in violation of Article 14, it would also constitute an unreasonable restriction upon the right of the service providers to carry on trade under Article 19(1)(g).	Reasoning
+(See Bengal Immunity Company V. State of Bihar 1955 (2) SCR 603 Himmatlal Harilal Mehta V. State of Madras 1954	Reasoning
+SCR 1122.)	Reasoning
+We are consequently unable to accept either of these contentions of the respondents.	Reasoning
+To answer the questions formulated by us, it is necessary to delve briefly into the legal history of Art. 366 (29A).	None
+Prior to the 46th Amendment, composite contracts such as works contracts, hirepurchase contacts and catering contracts were not assessable as contracts for sale of goods.	None
+The locus classicus holding the field was State of	Reasoning
+Madras V. Gannon Dunkerley Co.	Reasoning
+IX STC 353 (SC).	Reasoning
+There this Court held that the words sale of goods in Entry 48 of List II, Schedule VII to the Government of India Act, 1935 did not cover the sale sought to be taxed by the State Government under the Madras General Sales Tax Act, 1939.	Reasoning
+The classical concept of sale was held to apply to the entry in the legislative list in that there had to be three essential components to constitute a transaction of sale namely, (i) an agreement to transfer title (ii) supported by consideration, and (iii) an actual transfer of title in the goods.	Reasoning
+In the absence of any one of these elements it was held that there was no sale.	Reasoning
+Therefore, a contract under which a contractor agreed to set up a building would not be a contract for sale.	Reasoning
+It was one contract, entire and indivisible and there was no separate agreement for sale of goods justifying the levy of sales tax by the provincial legislatures.	Reasoning
+Under the law, therefore, there cannot be an agreement relating to one kind of property and a sale as regards another.	Reasoning
+Parties could have provided for two independent agreements, one relating to the labour and work involved in the execution of the work and erection of the building and the second relating to the sale of the material used in the building in which case the latter would be an agreement to sell and the supply of materials thereunder, a sale.	Reasoning
+Where there was no such separation, the contract was a composite one.	Reasoning
+It was not classifiable as a sale.	Reasoning
+The Court accepted the submission of the assessee that the expression sale of goods was, at the time when the Government of India Act, 1935 was enacted, a term of well recognized legal import in the general law relating to sale of goods and must be interpreted in Entry 48 in List II of Schedule VII of the 1935 Act as having the same meaning as in the Sale of Goods Act, 1930.	Reasoning
+According to this decision if the words sale of goods have to be interpreted in their legal sense, that sense can only be what it has in the law relating to sale of goods.	Reasoning
+To use the language of the Court To sum up, the expression sale of goods in Entry 48 is a nomen juris, its essential ingredients being an agreement to sell movables for a price and property passing therein pursuant to that agreement.	Reasoning
+In a building contract which is, as in the present case, one, entire and indivisible  and that is its norm, there is no sale of goods, and it is not within the competence of the Provincial Legislature under Entry 48 to impose a tax on the supply of the materials used in such a contract treating it as a sale.	Reasoning
+Following the ratio in Gannon Dunkerley, that sale in Entry 48 must be construed as having the same meaning which it has in the Sale of Goods Act, 1930, this Court as well as the High Courts held that several composite transactions in which there was an element of sale were not liable to sales tax.	Reasoning
+Thus in the State of Punjab V. M s. Associated Hotels of India Ltd. (1972) 1 SCC 472 the question was whether the meals served at hotels to the residents were subject to sales tax.	None
+The Court held that if the difference is not distinct, the Revenue would not be entitled to split up the contract, estimate approximately the charges for such materials and treat them as chargeable on the mere ground that the transaction involved transfer of goods, whose value must have been taken into consideration while fixing charges for the service.	None
+In 1967 the Madras High Court in A.V. Meiyappan vs. Commissioner of Commercial Taxes, Board of Revenue, Madras and Anr.	None
+(1967)	None
+XX STC 115 had to consider a situation where the Sales Tax Authorities had held that though the transaction was described as a lease for 49 years, the assessee had effected a sale of the negative print of a picture for a consideration and therefore the transaction was liable to sales tax under the Madras General Sales Tax Act, 1959.	None
+The Court set aside the demand holding that the transaction did not connote a sale at all and it was therefore not liable to sales tax.	None
+The problem relating to the power of States to levy tax on the sale of goods was then referred to the Law Commission by the Government of India.	None
+The Law Commission submitted its report in 1974 on a consideration of the scope of the levy of sales tax by State Governments in respect of works contracts, hire purchase transactions and also the transfer of controlled commodities by virtue of statutory orders.	None
+The Law Commission noted that these transactions resembled sales in substance and suggested three drafting devices for conferring the power of taxing these transactions on the States viz.	None
+(a) amending State List, entry 54, or (b) adding a fresh entry in the State List, or (c) inserting in article 366 a wide definition of sale so as to include works contracts.	None
+The Commission preferred the last alternative.	None
+Recommendation (c) of the Law Commission to amend Article 366 by expanding the definition of sale to include the transactions negatived by Courts, was accepted by the Government.	None
+The Constitution (46th Amendment) Bill 1981, which was subsequently enacted as the Constitution 46th Amendment Act 1982 set out the background in which the amendment to Article 366 (29A) of the Constitution was amended.	None
+Having noted the various decisions of the Supreme Court as well as of the High Courts excluding certain transactions from the scope of sale for the purpose of levy of sales tax, it was said that the position had resulted in scope for avoidance of tax in various ways.	None
+In the circumstances, it was considered desirable to put the matter beyond any doubt.	None
+Article 366 was therefore amended by inserting a definition of tax on the sale or purchase of goods in Clause (29A).	None
+The definition reads (29A) tax on the sale or purchase of goods includes (a) a tax on the transfer, otherwise than in pursuance of a contract, of property in any goods for cash, deferred payment or other valuable consideration (b) a tax on the transfer of property in goods (whether as goods or in some other form) involved in the execution of a works contract (c) a tax on the delivery of goods on hirepurchase or any system of payment by instalments (d) a tax on the transfer of the right to use any goods for any purpose (whether or not for a specified period) for cash, deferred payment or other valuable consideration (e) a tax on the supply of goods by any unincorporated association or body of persons to a member thereof for cash, deferred payment or other valuable consideration (f) a tax on the supply, by way of or as part of any service or in any other manner whatsoever, of goods, being food or any other article for human consumption or any drink (whether or not intoxicating), where such supply or service, is for cash, deferred payment or other valuable consideration, and such transfer, delivery or supply of any goods shall be deemed to be a sale of those goods by the person making the transfer, delivery or supply and a purchase of those goods by the person to whom such transfer, delivery or supply is made Clause (a) covers a situation where the consensual element is lacking.	None
+This normally takes place in an involuntary sale.	None
+Clause (b) covers cases relating to works contracts.	None
+This was the particular fact situation which the Court was faced with in Gannon Dunkerley and which the Court had held was not a sale.	None
+The effect in law of a transfer of property in goods involved in the execution of the works contract was by this amendment deemed to be a sale.	None
+To that extent the decision in Gannon Dunkerley was directly overcome.	None
+Clause (c) deals with hire purchase where the title to the goods is not transferred.	None
+Yet by fiction of law, it is treated as a sale.	None
+Similarly the title to the goods under Clause (d) remains with the transferor who only transfers the right to use the goods to the purchaser.	None
+In other words, contrary to A.V. Meiyappans decision a lease of a negative print of a picture would be a sale.	None
+Clause (e) covers cases which in law may not have amounted to sale because the member of an incorporated association would have in a sense begun both the supplier and the recipient of the supply of goods.	None
+Now such transactions are deemed sales.	None
+Clause (f) pertains to contracts which had been held not to amount to sale in State of Punjab vs. M s. Associated Hotels of India Ltd. (supra).	None
+That decision has by this clause been effectively legislatively invalidated.	None
+All the clauses of Article 366 (29A) serve to bring transactions where one or more of the essential ingredients of a sale as defined in the Sale of Goods Act 1930 are absent, within the ambit of purchase and sales for the purposes of levy of sales tax.	Reasoning
+To this extent only is the principle enunciated in Gannon Dunkerly limited.	Reasoning
+The amendment especially allows specific composite contracts viz.	Reasoning
+works contracts (Clause (b)), hire purchase contracts (Clause (c)), catering contracts (Clause (e)) by legal fiction to be divisible contracts where the sale element could be isolated and be subjected to sales tax.	Reasoning
+Gannon Dunkerley survived the 46th Constitutional Amendment in two respects.	Reasoning
+First with regard to the definition of sale for the purposes of the Constitution in general and for the purposes of Entry 54 of List II in particular except to the extent that the clauses in Art.366(29A) operate.	Reasoning
+By introducing separate categories of deemed sales, the meaning of the word goods was not altered.	Reasoning
+Thus the definitions of the composite elements of a sale such as intention of the parties, goods, delivery etc. would continue to be defined according to known legal connotations.	Reasoning
+This does not mean that the content of the concepts remain static.	Reasoning
+Courts must move with the times.	Reasoning
+But the 46th Amendment does not give a licence for example to assume that a transaction is a sale and then to look around for what could be the goods.	Reasoning
+The word goods has not been altered by the 46th Amendment.	Reasoning
+That ingredient of a sale continues to have the same definition.	Reasoning
+The second respect in which Gannon Dunkerley has survived is with reference to the dominant nature test to be applied to a composite transaction not covered by Article 366(29A).	Reasoning
+Transactions which are mutant sales are limited to the clauses of Article 366(29A).	Reasoning
+All other transactions would have to qualify as sales within the meaning of Sales of Goods Act 1930 for the purpose of levy of sales tax.	Reasoning
+Of all the different kinds of composite transactions the drafters of the 46th Amendment chose three specific situations, a works contract, a hire purchase contract and a catering contract to bring within the fiction of a deemed sale.	Reasoning
+Of these three, the first and third involve a kind of service and sale at the same time.	Reasoning
+Apart from these two cases where splitting of the service and supply has been Constitutionally permitted in clauses (b) and (g) of Clause 29A of Art. 366, there is no other service which has been permitted to be so split.	Reasoning
+For example the clauses of Art. 366(29A) do not cover hospital services.	Reasoning
+Therefore, if during the treatment of a patient in a hospital, he or she is given a pill, can the sales tax authorities tax the transaction as a sale?	Reasoning
+Doctors, lawyers and other professionals render service in the course of which can it be said that there is a sale of goods when a doctor writes out and hands over a prescription or a lawyer drafts a document and delivers it to his her client?	Reasoning
+Strictly speaking with the payment of fees, consideration does pass from the patient or client to the doctor or lawyer for the documents in both cases.	Reasoning
+The reason why these services do not involve a sale for the purposes of Entry 54 of List II is, as we see it, for reasons ultimately attributable to the principles enunciated in Gannon Dunkerleys case, namely, if there is an instrument of contract which may be composite in form in any case other than the exceptions in Article 366(29A), unless the transaction in truth represents two distinct and separate contracts and is discernible as such, then the State would not have the power to separate the agreement to sell from the agreement to render service, and impose tax on the sale.	Reasoning
+The test therefore for composite contracts other than those mentioned in Article 366 (29A) continues to be  did the parties have in mind or intend separate rights arising out of the sale of goods.	Reasoning
+If there was no such intention there is no sale even if the contract could be disintegrated.	Reasoning
+The test for deciding whether a contract falls into one category or the other is to as what is the substance of the contract .	Reasoning
+We will, for the want of a better phrase, call this the dominant nature test.	Reasoning
+In Rainbow Colour Lab Anr.	Reasoning
+vs. State of M.P. Ors.	Reasoning
+(2000) 2 SCC 385, the question involved was whether the job rendered by the photographer in taking photographs, developing and printing films would amount to a work contract as contemplated under Article 366 (29A) (b) of the Constitution read with Section 2(n) of the M.P. General Sales Tax Act for the purpose of levy of sales tax on the business turnover of the photographers.	Reasoning
+The Court answered the questions in the negative because, according to the Court Prior to the amendment of Article 366, in view of the judgment of this Court in State of Madras v. Gannon Dunkerley Co.	Reasoning
+(Madras) Ltd. (1958) 9	Reasoning
+STC 353 AIR 1958 SC 560 the States could not levy sales tax on sale of goods involved in a works contract because the contract was indivisible.	Reasoning
+All that has happened in law after the 46th Amendment and the judgment of this Court in Builders case (1989) 2 SCC 645 is that it is now open to the States to divide the works contract into two separate contracts by a legal fiction (i) contract for sale of goods involved in the said works contract, and (ii) for supply of labour and service.	Reasoning
+This division of contract under the amended law can be made only if the works contract involved a dominant intention to transfer the property in goods and not in contracts where the transfer in property takes place as an incident of contract of service.	Reasoning
+What is pertinent to ascertain in this connection is what was the dominant intention of the contract.	Reasoning
+On facts as we have noticed that the work done by the photographer which as held by this Court in STO vs. B.C. Kame (1977) 1 SCC 634 is only in the nature of a service contract not involving any sale of goods, we are of the opinion that the stand taken by the respondent State cannot be sustained.	Reasoning
+This conclusion was doubted in Associated Cement Companies Ltd.	Reasoning
+Vs.	Reasoning
+Commissioner of Customs (2001) 4 SCC 593 saying  The conclusion arrived at in Rainbow Colour Lab case (2000) 2 SCC 385) , in our opinion, runs counter to the express provision contained in Article 366(29A) as also of the Constitution Bench decision of this Court in Builders Assn. of India vs. Union of India (1989) 2 SCC 645 .	Reasoning
+We agree.	Reasoning
+After the 46th Amendment, the sale element of those contracts which are covered by the six subclauses of clause (29A) of Article 366 are separable and may be subjected to sales tax by the States under Entry 54 of List II and there is no question of the dominant nature test applying.	Reasoning
+Therefore when in 2005, C.K. Jidheesh vs. Union of India (2005) 8 SCALE 784 held that the aforesaid observations in Associated Cement (supra) were merely obiter and that Rainbow Colour Lab (supra) was still good law, it was not correct.	Reasoning
+It is necessary to note that Associated Cement did not say that in all cases of composite transactions the 46th Amendment would apply.	Reasoning
+What are the goods in a sales transaction, therefore, remains primarily a matter of contract and intention.	Reasoning
+The seller and such purchaser would have to be ad idem as to the subject matter of sale or purchase.	Reasoning
+The Court would have to arrive at the conclusion as to what the parties had intended when they entered into a particular transaction of sale, as being the subject matter of sale or purchase.	Reasoning
+In arriving at a conclusion the Court would have to approach the matter from the point of view of a reasonable person of average intelligence.	Reasoning
+Article 366(12) has defined the word goods for the purpose of the Constitution as including all materials, commodities, and articles.	Reasoning
+The word goods has also been defined in Section 2(7) of the Sales of Goods Act, 1930 as meaning every kind of movable property other than actionable claims and money and includes stock and shares, growing crops, grass, and things attached to or forming part of the land which are agreed to be severed before sale or under the contract of sale.	Reasoning
+The U.P. Trade Tax defines goods as meaning every kind or class of movable property and includes all material commodities and articles involved in the execution of a works contract, and growing crops, grass, trees and things attached to or fastened to anything permanently attached to the earth which under the contract of sale are agreed to be severed but does not include actionable claims, stocks, shares, securities or postal stationery sold by the Postal Department.	Reasoning
+The State Sales Tax legislations have, subject to minor variations, adopted substantially a similar definition of goods for the purpose of their Sales Tax Acts.	Reasoning
+There have been several decisions of this Court on the interpretation of the word goods in the context of different State sales tax enactments.	None
+One of the such decisions was the case of Anraj V. Government of Tamil Nadu (1986) 1 SCC 414 in which the question was whether sale of a lottery ticket was a sale of goods for the purpose of Entry 54 of List II.	None
+This Court held that the sale of a lottery ticket confers on the purchaser thereof two rights, (a) right to participate in the draw and, (b) a right to claim a prize contingent upon his being successful in the draw.	None
+It was held that the first was a right in praesenti and the second a contingent right.	None
+It was concluded that of these two rights the right to participate in a draw was goods for the purpose of levying sales tax.	None
+The decision was followed by a Bench of three Judges in the case of Vikas Sales Corporation V. Commissioner of Commercial Tax (1996) 4 SCC 733 to hold that REP licences Exim scrips were goods on the sale of which sales tax could be levied.	None
+Both the decisions were doubted in the case of Sunrise Associates V. Government of NCT of New Delhi (2000) 10 SCC 420 In that case, the Court formed a prima facie opinion that the decision in Anraj required reconsideration on the view that the only right of the purchaser of a lottery ticket is to take a chance of winning the prize and that there was no good reason to split the transaction of the sale of a lottery ticket into the acquisition of (i) the right to participate in the lottery draw and (ii) right to win the prize depending on chance.	None
+The judgment in that decision is awaited.	None
+For the time being, we will assume that an incorporeal right is goods, In fact the question whether goods for the purpose of sales tax may be intangible or incorporeal need not detain us.	Reasoning
+In Associated Cement Companies Ltd. Vs. Commissioner of Customs (2001)4 SCC 593 , the value of drawings was added to their cost since they contained and formed part of the technical knowhow which was part of a technical collaboration between the importer of the drawings and their exporter.	Reasoning
+It was recognized knowledge in the abstract may not come within the definition of goods in Section 2(22) of the Customs Act.	Reasoning
+This view was adopted in Tata Consultancy Services Vs.	Reasoning
+State of Andhra Pradesh (supra) for the purposes of levy of sales tax on computer software.	Reasoning
+It was held A goods may be a tangible property or an intangible one.	Reasoning
+It would become goods provided it has the attributes thereof having regard to (a) its utility (b) capable of being bought and sold and (c) capable of being transmitted, transferred, delivered, stored and possessed.	Reasoning
+If a software whether customized or non customised satisfies these attributes, the same would be goods.	Reasoning
+This in our opinion is the correct approach to the question as to what are goods for the purposes of sales tax.	Reasoning
+We respectfully adopt the same.	Reasoning
+The State respondents in their submissions had initially differed as to what constituted goods in telecommunication.	None
+Ultimately, the consensus among the respondents appeared to be that the goods element in telecommunication were the electromagnetic waves by which data generated by the subscriber was transmitted to the desired destination.	Arguments of Respondent
+The inspiration for the argument has been derived from the provisions of the Indian Telegraph Act, 1885 which defines telegraph as meaning telegraph means any appliance, instrument, material or apparatus used or capable of use for transmission or reception of signs, signals, writings, images and sound or intelligence of any nature by wire, visual or other electromagnetic emissions, Radio waves or Hertzian waves, galvanic, electric or magnetic means.	Reasoning
+Explanation.	None
+Radio waves or Hertzian waves means electro magnetic waves of frequencies, lower than 3,000 gigacycles per sound propagated in space without artificial guide.	None
+What is also important are the definitions of the words message and telegraph line in the 1885 Act which read message means any communication sent by telegraph, or given to a telegraph officer to be sent by telegraph or to be delivered.	None
+telegraph line means a wire or wires used for the purpose of a telegraph, with any casing, coating, tube or pipe enclosing the same, and any appliances and apparatus connected therewith for the purpose of fixing or insulating the same.	None
+Section 4 of the 1885 Act gives exclusive privilege in respect of telecommunication and the power to grant licences to the Central Government.	Reasoning
+Pursuant to such power, licences have been granted to service providers.	Reasoning
+According to the service providers in terms of their licence no further transfer of the rights to use the telegraph could be affected by them.	Arguments of Petitioner
+Therefore, what was provided was a service by the utilization of the telegraph licenced to the service providers for the benefit of the subscribers.	Arguments of Petitioner
+We will proceed on the basis that incorporeal rights may be goods for the purposes of levying sales tax.	Reasoning
+Assuming it to be so, the question is whether these electro magnetic waves can fulfill the criteria laid down in Tata Consultancy for goods.	Reasoning
+In our opinion the question must be answered in the negative.	None
+Electromagnetic waves have been described in Telecommunications Law David Gilles Roger Marshal Butterworths 1.14.	None
+Electromagnetic waves travel through free space from one point to another but can be channeled through waveguides which may be metallic cables, optical fibres or even simple tubes.	None
+All electromagnetic waves are susceptible to interference from one another and unrelated electrical energy can distort or destroy the information they carry.	None
+To reduce these problems they have been organized within the spectrum into bands of frequencies or wavelengths for the transmission of particular types of services and information The process of sending a signal is as follows Data is superimposed on a carrier current or wave by means of a process called modulation.	None
+Signal modulation can be done in either of two main ways analog and digital.	None
+In recent years, digital modulation has been getting more common, while analog modulation methods have been used less and less.	None
+There are still plenty of analog signals around, however, and they will probably never become totally extinct.	None
+Except for DC signals such as telegraph and baseband, all signal carriers have a definable frequency or frequencies.	None
+Signals also have a property called wavelength, which is inversely proportional to the frequency.	None
+(Encyclopedia of Technology Terms of Techmedia)	None
+It is clear, electromagnetic waves are neither abstracted nor are they consumed in the sense that they are not extinguished by their user.	Reasoning
+They are not delivered, stored or possessed.	Reasoning
+Nor are they marketable.	Reasoning
+They are merely the medium of communication.	Reasoning
+What is transmitted is not an electromagnetic wave but the signal through such means.	Reasoning
+The signals are generated by the subscribers themselves.	Reasoning
+In telecommunication what is transmitted is the message by means of the telegraph.	Reasoning
+No part of the telegraph itself is transferable or deliverable to the subscribers.	Reasoning
+The second reason is more basic.	Reasoning
+A subscriber to a telephone service could not reasonably be taken to have intended to purchase or obtain any right to use electromagnetic waves or radio frequencies when a telephone connection is given.	Reasoning
+Nor does the subscriber intend to use any portion of the wiring, the cable, the satellite, the telephone exchange etc.	Reasoning
+At the most the concept of the sale in a subscribers mind would be limited to the handset that may have been purchased for the purposes of getting a telephone connection.	Reasoning
+As far as the subscriber is concerned, no right to the use of any other goods, incorporeal or corporeal, is given to him or her with the telephone connection.	Reasoning
+We cannot anticipate what may be achieved by scientific and technological advances in future.	Reasoning
+No one has argued that at present electromagnetic waves are abstractable or are capable of delivery.	Reasoning
+It would, therefore, appear that an electromagnetic wave (or radio frequency as contended by one of the counsel for the respondents), does not fulfill the parameters applied by the Supreme Court in Tata Consultancy for determining whether they are goods, right to use of which would be a sale for the purpose of Article 366(29A)(d).	Reasoning
+The learned Judges in State of U.P. V. Union of India (supra) held that telephone instruments and other appliances including wiring, cable etc. are undoubtedly goods within the definition of the word in Section 2(d) of the U.P. Act.	Reasoning
+It was also held a telephone exchange being housed in immovable properties would make no difference because a tangible object like electricity which is generated in projects and transmitted through substations housed in building has been held in CST V. M.P. Electricity Board (1969) 1 SCC 200 and State of A.P. V. National Thermal Power Corpn.	Reasoning
+Ltd. (2002)	Reasoning
+5 SCC 203 to be goods.	Reasoning
+Had the learned Judges limited their observations to the telephone instruments we could have had no quarrel with the opinion stated.	Reasoning
+But they have in a subsequent portion of their judgment clarified that there a telephone connection along with all other accessories to the telephone exchange with or without instruments are goods within the meaning of Section 2(d) of the U.P. Act.	Reasoning
+The essence of the goods therefore, according to the learned Judges, lay in the entire system.	Reasoning
+To arrive at this conclusion, the reliance on the two cited judgments was inapposite.	Reasoning
+It was the sale and purchase of electricity which was being considered in those cases.	Reasoning
+The goods was the electrical energy.	Reasoning
+What the customers were being charged for was not the medium that was being used to transfer the electricity, but the electrical energy itself.	Reasoning
+In the case of telecommunications on the other hand, if the decision in State of U.P. vs. Union of India and the respondents submission are correct, the customers are not to be charged for what is being transferred through the medium but the use of the medium itself.	Reasoning
+Additionally in the State of Andhra Pradesh V. National Thermal Power Corporation (supra), the issue before the Constitution Bench was not whether electricity was goods for the purposes of sales tax but the situs of the sale of electricity.	Reasoning
+The learned Judges also in State of U.P. Vs. Union of India drew support from the decision of the Supreme Court of Wisconsin (USA) in McKinley Telephone Co. v. Cumberland Telephone Co.	Reasoning
+152	Reasoning
+Wis 359 140 NW 39 1913 Wisc Lexis 77 which had held that the furnishing of the telephone services might be classed as the supplying of a commodity constituting a subject of commerce.	Reasoning
+The decision in Mckinley Telephone, even if it were to be held of persuasive value, is not really relevant.	Reasoning
+That was a case where two competing telephone companies contracted that one should confine its business to the city and the other to rural lines out of the city.	Reasoning
+The rural company had the option to buy the rural lines of the other.	Reasoning
+Two questions fell for consideration.	Reasoning
+The first question was whether the contract was specifically enforceable.	Reasoning
+This question was also answered in the affirmative.	Reasoning
+The second question was whether the contract was in violation of the antitrust laws.	Reasoning
+This was answered in the affirmative.	Reasoning
+It was in that context that the Court opined that It is obvious that the statute is directed against contracts which are violative of the public policy of the state respecting restraints of trade and competition in the supply of any commodity in general use constituting a subject of commerce.	Reasoning
+The furnishing of telephone services may be classed within the general terms of the statute as the supplying of a commodity constituting a subject of commerce.	Reasoning
+Apart from the fact that the context was wholly different, the question whether a telephone service was goods or not was not really in issue.	Reasoning
+Incidentally, the decision in Mckinley Telephones has been distinguished in several subsequent decisions of the United States.	Reasoning
+See Fleetway, Inc.	Reasoning
+Vs.	Reasoning
+Public Service Interstate Transport Co.	Reasoning
+72 F.2d 761 (1934).	Reasoning
+State Broadcasting Co.	Reasoning
+Vs. United Press Intern.	Reasoning
+Inc.	Reasoning
+369 F 2d 268 (1966), Columbia Broadcasting System, Inc.	Reasoning
+V. Amana Refrigeration Inc.	Reasoning
+295 F.2d 375 (1961) For the reasons stated by us earlier we hold that the electromagnetic waves are not goods within the meaning of the word either in Art. 366(12) or in the State Legislations.	Reasoning
+It is not in the circumstances necessary for us to determine whether the telephone system including the telephone exchange was not goods but immoveable property as contended by some of the petitioners.	Reasoning
+In the State of U.P. Vs. Union of India (supra) it was also held Handing over of possession is not sine qua non of completing the transfer of the right to use any goods, as was held by a Constitution Bench of this Court in 20th Century Finance Corpn.	Reasoning
+Ltd.	Reasoning
+V. State of Maharashtra (2000) 6 SCC 12 .	Reasoning
+Once DoT connects the telephone line of the assigned number of the subscriber to the area exchange, access to other telephones is established.	Reasoning
+There cannot be denial of the fact that giving such an access would complete the transfer of the right to use the goods.	Reasoning
+With respect, the decision in 20th Century Finance Corporation Limited Vs. State of Maharashtra, cannot be cited as authority for the proposition that delivery of possession of the goods is not a necessary concomitant for completing a transaction of sale for the purposes of Article 366 (29A) (d) of the Constitution.	Reasoning
+In that decision the Court had to determine where the taxable event for the purposes of sales tax took place in the context of subclause (d) of Article 366 (29A).	Reasoning
+Some States had levied tax on the transfer of the right to use goods on the location of goods at the time of their use irrespective of the place where the agreement for such transfer of right to use such goods was made.	Reasoning
+Other States levied tax upon delivery of the goods in the State pursuant to agreements of transfer while some other States levied tax on deemed sales on the premise that the agreement for transfer of the right to use had been executed within that State (vide paragraph 2 of the judgment as reported).	Reasoning
+This Court upheld the third view namely merely that the transfer of the right to use took place where the agreements were executed.	Reasoning
+In these circumstances the Court said that No authority of this Court has been shown on behalf of respondents that there would be no completed transfer of right to use goods unless the goods are delivered.	Reasoning
+Thus, the delivery of goods cannot constitute a basis for levy of tax on the transfer of right to use any goods.	Reasoning
+We are, therefore, of the view that where the goods are in existence, the taxable event on the transfer of the right to use goods occurs when a contract is executed between the lessor and the lessee and situs of sale of such a deemed sale would be the place where the contract in respect thereof is executed.	Reasoning
+Thus, where goods to be transferred are available and a written contract, is executed between the parties, it is at that point situs of taxable event on the transfer of right to use goods would occur and situs of sale of such a transaction would be the place where the contract is executed.	Reasoning
+(emphasis ours)	None
+In determining the situs of the transfer of the right to use the goods, the Court did not say that delivery of the goods was inessential for the purposes of completing the transfer of the right to use.	Reasoning
+The emphasized portions in the quoted passage evidences that the goods must be available when the transfer of the right to use the goods take place.	Reasoning
+The Court also recognized that for oral contracts the situs of the transfer may be where the goods are delivered (see para 26 of the judgment)	Reasoning
+In our opinion, the essence of the right under Article 366 (29A) (d) is that it relates to user of goods.	Reasoning
+It may be that the actual delivery of the goods is not necessary for effecting the transfer of the right to use the goods but the goods must be available at the time of transfer must be deliverable and delivered at some stage.	Reasoning
+It is assumed, at the time of execution of any agreement to transfer the right to use, that the goods are available and deliverable.	Reasoning
+If the goods, or what is claimed to be goods by the respondents, are not deliverable at all by the service providers to the subscribers, the question of the right to use those goods, would not arise.	Reasoning
+In State of of Andhra Pradesh and Anr.	Reasoning
+Vs.	Reasoning
+Rastriya Ispat Nigam Ltd. (2003) 3 SCC 214, it was claimed by the Sales Tax Authorities that the transaction by which the owner of certain machinery had made them available to the contractors was a sale.	Reasoning
+The Court rejected the submission saying that the transaction did not involve transfer of right to use the machinery in favour of contractors.	Reasoning
+The effective control of the machinery even while the machinery was in use of the contractor was that of the respondent Company the contractor was not free to make use of the machinery for the works other than the project work of the respondent or.	Reasoning
+(para 4 page 315)	Reasoning
+But in the case of Agrawal Brothers Vs. State of Haryana and Anr.	Reasoning
+(1999) 9 SCC 182 when the assessee had hired shuttering to favour of contractors to use it in the course of construction of buildings it was found that possession of the shuttering materials was transferred by the assessee to the customers for their use and therefore, there was a deemed sale within the meaning of subclause (d) of Clause 29A of Article 366.	Reasoning
+What is noteworthy is that in both the cases there were goods in existence which were delivered to the contractors for their use.	Reasoning
+In one case there was no intention to transfer the right to use while in the other there was.	Reasoning
+But if there are no deliverable goods in existence as in this case, there is no transfer of user at all.	Reasoning
+Providing access or telephone connection does not put the subscriber in possession of the electromagnetic waves any more than a toll collector puts a road or bridge into the possession of the toll payer by lifting a toll gate.	Reasoning
+Ofcourse the toll payer will use the road or bridge in one sense.	Reasoning
+But the distinction with a sale of goods is that the user would be of the thing or goods delivered.	Reasoning
+The delivery may not be simultaneous with the transfer of the right to use.	Reasoning
+But the goods must be in existence and deliverable when the right is sought to be transferred.	Reasoning
+Therefore whether goods are incorporeal or corporeal, tangible or intangible, they must be deliverable.	Reasoning
+To the extent that the decision in State of U.P. Vs. Union of India held otherwise, it was, in our humble opinion erroneous.	Reasoning
+It has been held in Builders Association of India Vs. Union of India (1989) 2 SCC 645 that the clauses in Article 366 (29A) do not amount to a separate entry in List II of the 7th Schedule to the Constitution enabling the States to levy tax on sales and purchase independent of Entry 54 thereof.(see also	Reasoning
+Larsen Toubro Ltd.	Reasoning
+Vs. Union of India (1993) 1 SCC 365, 383).	Reasoning
+Article 366 (29A) as introduced by the 46th Amendment not being equivalent to a separate entry in List II is subject to the same limitations as Entry 54 of that List.	Reasoning
+At the time of amending Article 366, Article 286 was also amended by the introduction of clause (3) which reads as Any law of a State shall, in so far as it imposes, or authorizes the imposition of (a) a tax on the sale or purchase of goods declared by Parliament by law to be of special importance in interState trade or commerce (b) a tax on the sale or purchase of goods, being a tax of the nature referred to in subclause (b), subclause (c) or subclause (d) of clause (29A) of article 366, be subjected to such restrictions and conditions in regard to the system of levy, rates and other incidents of the tax as Parliament may by law specify.	None
+Therefore the deemed sales included in Entry 54 List II would also be subject to the limitations of Art.	Reasoning
+286, Art. 366(29A).	Reasoning
+Being aware of the dangers of allowing the residuary powers Parliament under Entry 97 of List I to swamp the legislative entries in the State list, we have interpreted Entry 54, List II together with Article 366 (29A) without whittling down the interpretation by referring to the residuary provision.	Reasoning
+Having completed the exercise, we now turn our attention to the latter.	Reasoning
+In 1994, service tax was introduced by Parliament under Chapter V of the Finance Act, 1994 with reference to its residuary power under Entry 97 List I of the Seventh Schedule to the Constitution.	Reasoning
+Under the 1994 Act, taxable services which were subject to levy of service tax were defined.	Reasoning
+Several different services were included in the definition.	Reasoning
+Section 65(16)(b) included service provided to a subscriber by the telegraph authority in relation to a telephone connection with effect from the coming into force of the 1994 as a taxable service.	Reasoning
+Under Section 66, tax was imposed at the rate of five percent of the value of the taxable services provided to any person by the person responsible for collecting the service tax.	Reasoning
+The value of the taxable service in relation to a telephone connection provided to the subscribers, was to be the gross total amount received by the telegraph authority from the subscribers.	Reasoning
+The 1994 Act was amended from time to time by extending the meaning of taxable service.	Reasoning
+We are concerned with two amendments, one made in 2002 and the other in 2003.	Reasoning
+By Section 149(90)(b) of the Finance Act, 2002, service to a subscriber by a telephone authority was continued as a taxable service.	Reasoning
+Telegraph was defined in Section 149(92) as having the same meaning assigned to it in clause (1) of Section 3 of the Indian Telegraph Act, 1885.	Reasoning
+Telegraph authority was defined incorporating the definition of the phrase Section 3(6) of the 1885 Act and included a person who has been granted a licence under the first proviso in Section 4(1) of that Act.	Reasoning
+The liability of service providers to service tax was continued under Section 159(105)(110) (b) and (111) of the Finance Act, 2003.	Reasoning
+The definition of subscriber was added in sub section (104) as meaning a person to whom any service of a telephone connection or a facsimile (Fax) or a leased circuit or a pager or a telegraph or telex has been provided by a telegraph authority.	Reasoning
+Finally in 2003, List II of the Seventh Schedule to the Constitution was amended by including taxes on service under Entry 92C.	Reasoning
+By this time there were about 100 taxable services including the service of a telephone connection.	Reasoning
+The question is  is the sale element is each of these several services and in particular the service of a telephone connection taxable by the States?	Issue
+As we have said Art. 366(29A) has no doubt served to extend the meaning of the word sale to the extent stated but no further.	Reasoning
+We cannot presume that the Constitutional Amendment was loosely drawn and must proceed on the basis that the parameters of sale were carefully defined.	Reasoning
+But having said that, it is sufficient for the purposes of this judgment to find, as we do, that a telephone service is nothing but a service.	Reasoning
+There is no sales element apart from the obvious one relating to the hand set if any.	Reasoning
+That and any other accessory supplied by the service provider in our opinion remain to be taxed under the State Sales Tax Laws.	Reasoning
+We have given the reasons earlier why we have reached this conclusion.	Reasoning
+This brings us to the decision of the Kerala High Court in Escotel.	Reasoning
+In that case Escotel was admittedly engaged in selling cellular telephone instruments, SIM cards and other accessories and was also paying Central Sales Tax and Sales Tax under the Kerala General Sales Tax Act, 1963 as applicable.	Reasoning
+The question was one of the valuation of these goods.	Reasoning
+State Sales Tax Authorities had sought to include the activation charges in the cost of the SIM card.	Reasoning
+It is contended by Escotel that the activation was part of the service on which service tax was being paid and could not be included within the purview of the sale.	Reasoning
+The Kerala High Court also dealt with the case of BPL, a service provider.	Reasoning
+According to BPL, it did not sell cellular telephones.	Reasoning
+As far as SIM cards were concerned, it was submitted that they had no sale value.	Reasoning
+A SIM card merely represented a means of the access and identified the subscribers.	Reasoning
+This was part of the service of a telephone connection.	Reasoning
+The Court rejected this submission finding that the SIM card was goods within the definition of the word in the State Sales Tax Act.	Reasoning
+It is not possible for this Court to opine finally on the issue.	Reasoning
+What a SIM card represents is ultimately a question of fact as has been correctly submitted by the States.	Reasoning
+In determining the issue, however the Assessing Authorities will have to keep in mind the following principles If the SIM Card is not sold by the assessee to the subscribers but is merely part of the services rendered by the service providers, then a SIM card cannot be charged separately to sales tax.	Reasoning
+It would depend ultimately upon the intention of the parties.	Reasoning
+If the parties intended that the SIM card would be a separate object of sale, it would be open to the Sales Tax Authorities to levy sales tax thereon.	Reasoning
+There is insufficient material on the basis of which we can reach a decision.	Reasoning
+However we emphasise that if the sale of a SIM card is merely incidental to the service being provided and only facilitates the identification of the subscribers, their credit and other details, it would not be assessable to sales tax.	Reasoning
+In our opinion the High Court ought not to have finally determined the issue.	Reasoning
+In any event, the High Court erred in including the cost of the service in the value of the SIM card by relying on the aspects doctrine.	Reasoning
+That doctrine merely deals with legislative competence.	Reasoning
+As has been succinctly stated in Federation of Hotel Restaurant Association of India Vs. Union of India (1989) 3 SCC 634  subjects which in one aspect and for one purpose fall within the power of a particular legislature may in another aspect and for another purpose fall within another legislative power.	Reasoning
+They might be overlapping but the overlapping must be in law.	Reasoning
+The same transaction may involve two or more taxable events in its different aspects.	Reasoning
+But the fact that there is overlapping does not detract from the distinctiveness of the aspects.	Reasoning
+No one denies the legislative competence of States to levy sales tax on sales provided that the necessary concomitants of a sale are present in the transaction and the sale is distinctly discernible in the transaction.	Reasoning
+This does not however allow State to entrench upon the Union list and tax services by including the cost of such service in the value of the goods.	Reasoning
+Even in those composite contracts which are by legal fiction deemed to be divisible under Art. 366(29A), the value of the goods involved in the execution of the whole transaction cannot be assessed to Sales Tax.	Reasoning
+As was said in Larsen Toubro Vs. Union of India (supra) The cost of establishment of the contractor which is relatable to supply of labour and services cannot be included in the value of the goods involved in the execution of a contract and the cost of establishment which is relatable to supply of materials involved in the execution of the works contract only can be included in the value of the goods.	Reasoning
+For the same reason the Centre cannot include the value of the SIM cards, if they are found ultimately to be goods, in the cost of the service.	Reasoning
+As was held by us in Gujarat Ambuja Cements Ltd.	Reasoning
+Vs.	Reasoning
+Union of India (2005) 4 SCC 214 ,228.	Reasoning
+This mutual exclusivity which has been reflected in Article 246(1) means that taxing entries must be construed so as to maintain exclusivity.	Reasoning
+Although generally speaking, a liberal interpretation must be given to taxing entries, this would not bring within its purview a tax on subject matter which a fair reading of the entry does not cover.	Reasoning
+If in substance, the statute is not referable to a field given to the State, the Court will not by any principle of interpretation allow a statute not covered by it to intrude upon this field.	Reasoning
+We will therefore have to allow the appeals filed by BPL in Civil Appeal Nos. 332930 of 2002 and Escotel in Civil Appeal No.2408 of 2002 and remand the matter to the Sales Tax Authorities concerned for determination of the issue relating to SIM Cards in the light of the observations contained in this judgment.	Decision
+As far as the question whether providing of a telephone connection involves interstate sales, now that it has been clarified that electromagnetic waves or radio frequencies are not goods, the issue is really academic.	Decision
+For the reasons aforesaid, we answer the questions formulated by us earlier in the following manner Goods do not include electromagnetic waves or radio frequencies for the purpose of Article 366(29A)(d).	Decision
+The goods in telecommunication are limited to the handsets supplied by the service provider.	Decision
+As far as the SIM cards are concerned, the issue is left for determination by the Assessing Authorities.	Decision
+There may be a transfer of right to use goods as defined in answer to the previous question by giving a telephone connection.	Decision
+The nature of the transaction involved in providing the telephone connection may be a composite contract of service and sale.	Decision
+It is possible for the State to tax the sale element provided there is a discernible sale and only to the extent relatable to such sale.	Decision
+The issue is left unanswered.	Decision
+The aspect theory would not apply to enable the value of the services to be included in the sale of goods or the price of goods in the value of the service.	Decision
+The writ petitions and appeals are disposed of accordingly.	Decision
+No order as to costs.	Decision
+ORDER Leave granted in the special leave petitions.	Decision
+Civil Appeals are disposed of in terms of the judgment delivered by us today in W.P. (C) No. 183/2003 etc. etc. titled  Bharat Sanchar Nigam Ltd. Anr.	Decision
+vs. Union of India Ors.	Decision
+Contempt Petition No. 365/04 in WP(C) No.183/03, Contempt petition is dismissed.	Decision

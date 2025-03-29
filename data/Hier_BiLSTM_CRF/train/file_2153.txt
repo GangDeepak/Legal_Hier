@@ -1,0 +1,52 @@
+ Both these applications are by Glencore International AG incorporated in Switzerland.	Issue
+The applications are under S.11 of the Arbitration and Conciliation Act, 1996 (hereinafter referred to as the Act).	None
+The prayer in Petition No. 6 of 2005 is for the appointment of a third arbitrator of a neutral nationality in accordance with S.11(9) of the Act based on the arbitration agreement concerned between the petitioner and the respondent Company located in India.	Facts
+The prayer in Petition No. 7 of 2005 is for the appointment of a nominee arbitrator on behalf of the respondent in accordance with the provisions of the Act and in terms of the relevant arbitration clause.	Facts
+This petition need not detain me much since Mr Harish Salve, learned Senior Counsel appearing for the petitioner therein submitted that the prayer in that petition is not pressed and adjudication is called for only in Arbitration Petition No. 6 of 2005 and orders are called for only in Arbitration Petition No. 6 of 2005.	Arguments of Petitioner
+Hence, Arbitration Petition No. 7 of 2005 will stand dismissed as not pressed.	Arguments of Petitioner
+There is no dispute that there is in existence an arbitration agreement between the parties.	None
+The relevant term of the contract or sale order, Clause.17, insofar as it is relevant reads as under 17.1 In the event of any dispute or difference arising out of or relating to, under or in respect of this contract between the parties the same shall be referred at the written request of either party to the Arbitral Tribunal constituted for the adjudication of the dispute or difference as provided hereunder (1) Where the claim is up to Indian Rs 50 lakhs  to a sole arbitrator to be nominated by the Chairman  Managing Director of Hindustan Zinc Limited, Udaipur (Rajasthan).	None
+(2) Where the claim exceeds Indian Rs 50 lakhs  to a Board of three arbitrators comprising one nominee each of the owner and the contractor and the third to be appointed by the two arbitrators by mutual agreement in writing before entering upon the reference.	None
+The party while making request for referring the dispute for arbitration shall appoint his arbitrator nominee and request the other party to appoint his arbitrator nominee.	None
+The arbitration shall be subject to and in accordance with the provisions of the Indian Arbitration and Conciliation Act, 1996 (26 of 1996) and the Rules if any made thereunder and any statutory modification or reenactment thereof.	None
+The venue of arbitration proceedings shall be Udaipur, Rajasthan, India.	None
+The arbitrators shall give a speaking, reasoned and claimwise award.	None
+Any arbitration award made in such arbitration proceedings shall be final and binding on the parties and shall be enforceable in any court of competent jurisdiction.	None
+2.1.	None
+Dispute between the parties having arisen in respect of the sale order, the petitioner made a claim for a sum of Rs 55 lakhs against the respondent.	Facts
+The respondent not having settled the claim, a notice was issued on behalf of the petitioner invoking Clause.17.1(2) of the arbitration agreement and nominating a retired Judge of the High Court of Delhi as its nominee arbitrator and calling upon the respondent to name its nominee.	Facts
+The respondent named a retired District Judge of the Rajasthan cadre as its nominee.	Facts
+In terms of the arbitration agreement and S.11(3) of the Act, the two nominee arbitrators, were to nominate the third arbitrator preferably of a nationality other than the nationality of the parties involved.	Facts
+At this stage, the respondent altered its stand and taking up the position that the claim by the petitioner involved only an amount less than Rs 50 lakhs, and it came within the purview of Clause.17.1(1) of the arbitration agreement proceeded to name the arbitrator, it had already nominated, as the sole arbitrator to adjudicate on the dispute.	Facts
+It appears that subsequently that nominee was replaced by Mr Justice S.S. Chadha, a retired Judge of the High Court of Delhi.	Facts
+The petitioner approached the Chief Justice of India at this stage with the present application seeking the appointment of the third arbitrator on the basis that the nominated arbitrators have failed to name the third arbitrator.	Facts
+According to the petitioner, the respondent was not justified in going back upon its earlier stand that the matter had to go before the Arbitral Tribunal in terms of Clause.17.1(2) of the arbitration agreement.	Arguments of Petitioner
+The claim made, exceeded Rs 50 lakhs and Clause.17.1(2) was attracted.	None
+On behalf of the respondent, it is submitted that the claim, as can be seen from the notice originally issued, was only for a sum of Rs 49,52,051.04.	Arguments of Respondent
+On a point of law, it is contended that the sole arbitrator having entered on the reference, it was for the petitioner to raise its objection to his jurisdiction before him in terms of S.16 of the Act and the present petition invoking S.11 of the Act was misconceived.	Arguments of Respondent
+In the original notice making the claim, though the specific amounts claimed under two heads amounted only to Rs 49,52,051.04, there was also a claim for interest and the total claim was for an amount of Rs 55 lakhs.	None
+Whether the petitioner would be entitled to interest on the amounts claimed is a different question, yet to be decided.	None
+But, it is not possible to accept the argument that the claim did not exceed Rs 50 lakhs since the notice specifically claimed a sum of Rs 55 lakhs, though it may be correct to say that the rate of interest was not specified in the demand.	None
+That is not a ground for taking the view that the claim itself did not exceed Rs 50 lakhs, thereby attracting Clause.17.1(1) of the arbitration agreement.	Reasoning
+It is significant to note that the respondent itself understood the claim as one exceeding Rs 50 lakhs when it originally made its nomination of an arbitrator in terms of Clause.17.1(2) of the arbitration agreement, though of course, it resiled from that stand at a subsequent stage.	Facts
+On looking into the claim as made by the petitioner, it has to be stated that the claim exceeded Rs 50 lakhs thereby attracting Clause.17.1(2) of the arbitration agreement.	Reasoning
+Then the question is whether the Chief Justice of India or his nominee, can step in to supply the omission by nominating the third arbitrator or whether the parties are to be left to raise their objections before the sole arbitrator, now purported to be appointed by the respondent under Clause.17.1(1) of the arbitration agreement.	Issue
+In the light of my conclusion above that the claim exceeded Rs 50 lakhs, it has logically to follow that it was Clause.17.1(2) of the arbitration agreement that was attracted and not Clause.17.1(1).	Reasoning
+If that be so, the act of the respondent in nominating the sole arbitrator itself has to be held to be outside its authority under the arbitration agreement.	Reasoning
+Moreover, even if this objection were to be raised before the sole arbitrator in terms of S.16 of the Act, that arbitrator can only either uphold the objection or reject it.	Reasoning
+If he were to uphold the objection raised by the petitioner, he would have no further jurisdiction in the matter and the parties will again be driven to approach the Chief Justice of India with an application under S.11 of the Act.	Reasoning
+I do not think that the parties should be driven to such a course, on the facts and in the circumstances of the case.	Reasoning
+I am not forgetting the ratio of the decision in Konkan Railway (Konkan Railway Corpn.	Reasoning
+Ltd. v. Rani Construction (P) Ltd., 2002 (2) SCC 388 ) when I say this.	Reasoning
+But in the face of my conclusion that it was Clause.17.1(2) of the arbitration agreement that was attracted, I think that it will be an exercise in futility to drive the parties before the sole arbitrator who on the basis of that finding, does not have the jurisdiction to deal with a claim now made.	Reasoning
+The role of the Chief Justice of India or his nominee under S.11 of the Act, may only be administrative and not adjudicatory but that does not mean that when the Chief Justice is moved he has to act as a rubber stamp and he could not apply his mind to see whether it was a case for exercise of power under S.11 of the Act or not.	Reasoning
+I am, therefore, satisfied that I will be justified in exercising my power under S.11 of the Act.	Reasoning
+Now, that the respondent has named Justice Chadha as the sole arbitrator, it is necessary to give the respondent an opportunity either to nominate Justice Chadha as its nominee arbitrator or to nominate anyone else in his place in terms of Clause.17.1(2) of the arbitration agreement.	Reasoning
+Obviously, the respondent has now acted on the basis of its conception of the claim involved in the case.	Reasoning
+In that situation, initially, I direct the respondent to nominate its arbitrator in terms of Clause.17.1(2) of the arbitration agreement, making it clear that it will be open to it to nominate Justice Chadha as its nominee.	Decision
+This will be done by the respondent within three weeks from today and the fact intimated to the petitioner.	Decision
+After the respondent has nominated its arbitrator, the two arbitrators nominated by the parties, would nominate the third arbitrator keeping in mind S.9(3) of the Act, within a month of the nomination under Clause.17.1(2) being completed by the respondent.	Decision
+The arbitration will then be proceeded in accordance with law and it is hoped that the arbitration will be concluded as expeditiously as possible and will not be allowed to drag on.	Decision
+In case, there is any failure on the part of the respondent to nominate its arbitrator or for the two nominated arbitrators, to appoint the third arbitrator, it will be open to the petitioner to approach this Court for further orders on these petitions by filing an appropriate application in that regard.	Decision
+Thus, Arbitration Petition No. 7 of 2005 is dismissed as not pressed and Arbitration Petition No. 6 of 2005 is allowed as indicated above.	Decision
+The parties are directed to suffer their respective costs.	Decision

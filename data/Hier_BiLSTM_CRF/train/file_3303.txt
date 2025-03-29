@@ -1,0 +1,118 @@
+ B. Gajendragadkar, J.1.	None
+This is an appeal by the Incometax Officer Companies, Circle I(1), Bombay and the Union of India and it raises a short question about the construction of S. 35 of the Incometax Act read with S. 1, subs.	None
+(2) and S. 13 of the Indian Incometax (Amendment) Act, 1953 (XXV of 1953).	None
+It arises in this way.	None
+The Income Tax Officer, by his assessment order made on October 9, 1952, for the assessment year 195253, assessed the respondent, the Bombay Dyeing and Manufacturing Co. Ltd., under the Act.	None
+In the said assessment order the respondent was given credit for Rs. 50,603150 as representing interest at 2 per cent on tax paid in advance under S. 18A of the Act.	Facts
+This credit was given to the respondent in pursuance of the provisions contained in S. 18A, subs.	None
+(5) of the Act as it then stood.	None
+On May 24, 1953, the Amendment Act came into force.	Facts
+Section 1, subs.	None
+(2) of the Amendment Act provides that subject to any special provision made in this behalf in the Amendment Act, it shall be deemed to have come into force on the first day of April, 1952.	Facts
+By S. 13 of the Amendment Act, a proviso was added to S. 18A(5) of the Act.	Facts
+The effect of the amendment made by the insertion of the said proviso to S. 18A(5) was that the assessee was entitled to get interest at 2 per cent not on the whole of the advance amount of tax paid by him as before but only on the difference between the payment made and the amount at which the assessee was assessed to tax under the regular assessment under S. 23 of the Act.	Facts
+After the Amendment Act was passed, the first appellant exercised his power under S. 35 of the Act and purported to rectify the mistake apparent from the record in regard to the credit for Rs. 50,603150 allowed by him to the assessee.	Facts
+The first appellant held that the assessee was really entitled to a credit of only Rs. 21.15760 by way of interest on tax paid in advance as a result of the retrospective operation of the amendment made in S. 18A (5) by the Amendment Act.	Facts
+In accordance with this order a notice of demand under S. 29 of the Act was issued against the assessee for the sum of Rs. 29,44690 on the ground that the assessee had been given credit for this excess amount through mistake.	Facts
+Aggrieved by this notice of demand, the respondent filed a petition in the High Court of Bombay on January 4, 1954, under Art.	Facts
+226 of the Constitution praying for a writ against the appellants inter alia prohibiting them from enforcing the said rectified order and the said notice of demand.	Facts
+It appears that this petition was admitted by Tendolkar, J., on January 6, 1954, and a rule issued on it.	Facts
+Thereafter the said petition was referred to a Division Bench by the Honble the Chief Justice for final disposal.	Facts
+Accordingly on March 5, 1954, the petition was heard by Chagla C. J. and Tendolkar J. and a writ was issued against the appellants.	Facts
+The High Court held that S. 35 of the Act had no application to the facts of the case because the mistake apparent from the record contemplated by the said Section is not a mistake which is the result of the amendment of the law even though the amending law may be retrospective in operation.	Facts
+In other words, in the opinion of the High Court, the mistake mentioned by S. 35 had to be apparent on the face of the order and it can only be judged in the light of the law as it stood on the day when the order was passed.	Facts
+The appellants then applied for and obtained a certificate from the High Court on October 8, 1954 on their behalf it is urged that the High Court of Bombay has erred in law in taking the view that the appellant No. 1 was not entitled to rectify the mistake in question under S. 35 of the Act.	Arguments of Petitioner
+Thus the short question which arises before us in the present appeal is whether an order which was proper and valid when it was made can be said to the disclose a mistake apparent from the record if the said order would be erroneous in view of a subsequent amendment made by the Amendment Act when the Amendment Act is intended to operate retrospectively?2.	None
+It is unnecessary to refer to the provisions of S. 18A(5) as well as the provision of the proviso which was subsequently added by S. 13 of the Amendment Act.	None
+It is common ground that, in the absence of the subsequently inserted proviso, the assessee would be entitled to obtain a credit for Rs. 50,603150.	None
+It is also common ground that, if the subsequently inserted proviso covered the assessees case, he would be entitled to a credit only of Rs. 21,15690.	None
+It is thus obvious that the order giving the relevant credit to the assessee was valid when it was made and that it would be erroneous under the subsequent amendment.	None
+Under these circumstances, was the first appellant justified in exercising his power of rectification under S. 35 of the Act?3.	None
+In deciding this question it would be necessary to determine the true legal effect of the retrospective operation of the Amendment Act.	None
+Section 1, subs.	None
+(2) of the Amendment Act expressly provides that subject to the special provisions made in the said Act it shall be deemed to have come into force on the first day of April, 1952.	Facts
+The result of this provision is that the amendment made in the Act by S. 13 of the Amendment Act must, by legal fiction, be deemed to have been included in the principal Act as from the first of April, 1952, and this inevitably means that, at the time when the IncomeTax Officer passed his original order on October 9, 1952, allowing to the respondent credit for Rs. 50,603150, the proviso added by S. 13 of the Amendment Act must be deemed to have been inserted in the Act.	None
+As observed by Lord Asquith of Bishopstone in East End Dwellings Co. Ltd. v. Finsbury Borough Council 1952 AC 109 at p. 132 (A).if you are bidden to treat an imaginary state of affairs as real, you must surely, unless prohibited from doing so, also imagine as real the consequences and incidents which, if the putative state of affairs had in fact existed must inevitably have flowed from or accompanied It.	None
+One of those in this case is emancipation from the 1939 level of rents.	None
+The statute says that you must imagine a certain state of affairs it does not say that having done so, you must cause or permit your imagination to boggle when it comes to the inevitable corollaries of that state of affairs.	None
+Thus, there can be no doubt that the effect of the retrospective operation of the Amendment Act is that the proviso inserted by the said Section in S. 18A (5) of the Act would, for all legal purposes, have to be deemed to have been included in the Act as from April 1, 1952.4.	None
+But it is urged for the respondent that the retrospective operation of the relevant provision is not intended to affect completed assessments.	Arguments of Respondent
+It is conceded that, if any assessment proceedings in respect of the assessees income for a period subsequent to the first of April, 1952 were pending at the time when the Amendment Act was passed, the proviso inserted by S. 13 would govern the decision in such assessment proceedings but where an assessment proceedings has been completed and an assessment order has been passed by the Incometax Officer against the assessee, such a completed assessment would not be affected and cannot be reopened under S. 35 by virtue of the retrospective operation of the Amendment Act.	Arguments of Respondent
+In support of this contention, reliance is placed on the observations of the Privy Council in Delhi Cloth and General Mills Co. Ltd. v. Incometax Commissioner, Delhi 54 Ind App 421 (AIR 1927 PC 242 ) (B).	None
+Lord Blanesburg who delivered the judgment of the Board referred to the Boards earlier decision in the Colonial Sugar Refining Company v. Irving 1905 AC 369 (C), where it was in effect laid down that, while provisions of a statute dealing merely with matters of procedure may properly, unless that construction be textually inadmissible, have retrospective effect attributed to them, provisions which touch a right in existence at the passing of the statute are not to be applied retrospectively in the absence of express enactment or necessary intendment.	None
+The learned Judge then added that Their Lordships have no doubt that the provisions which, if applied retrospectively, would deprive of their existing finality order which, when the statute came into force, were final, are provisions which touch existing rights.	None
+The argument for the respondent is that the assessee has obtained a right under the order passed by the Incometax Officer to claim credit for the specified amount under S. 18A(5) and the said right cannot be taken away by the retrospective operation of S. 13 of the Amendment Act.	None
+The same argument is put in another form by contending that the finality of the order passed by the Incometax Officer cannot be impaired by the retrospective operation of the relevant provision.	Arguments of Respondent
+In our opinion, this argument does not really help the respondents case because the order passed by the Incometax Officer under S. 18A(5) cannot be said to be final in the literal sense of the word.	None
+This order was and continued to be liable to be modified under S. 35 of the Act.	Reasoning
+What the Incometax Officer has purported to do in the present case is not to revise his order in the light of the retrospective amendment made by S. 13 of the Amendment Act alone, but to exercise his power under S. 35 of the Act and so the question which falls to be considered in the present appeal centres round the construction of the expression mistake apparent from the record used in S. 35.That is why we think the principle of the finality of the orders or the sanctity of the existing rights cannot be effectively invoked by the respondent in the present case.5.	None
+The respondent then urged that the Amendment Act should not be given greater retrospective operation that its language and its general scheme render necessary.	Arguments of Respondent
+This contention is based on the provisions of S. 3, subs.	None
+(2), S. 7, subs.	None
+(2) and S. 30, subs.	None
+(2) of the Amendment Act.	None
+Where the Amendment Act intended that its provisions should affect even concluded orders of assessment it is expressly so provided.	Reasoning
+Since S. 13 does not specifically authorise the reopening of concluded assessment it should be held that its retrospective operation is not intended to cover such concluded assessments.	Arguments of Respondent
+That in brief is the argument.	Arguments of Respondent
+We are, however, not satisfied that this argument is well founded.	None
+Let us examine the three provisions of the Amendment Act on which the argument rests.	None
+Section 3, subs.	None
+(1) of the Amendment Act makes several additions and modifications in S. 4 of the principal Act.	None
+Section 3, subs.	None
+(2) then provides that the amendments made by subcl.	None
+(3) of Cl.	None
+(b) of subs.	None
+(1) shall be deemed to be operative in relation to all assessments for any year whether such assessments have or have not been concluded before the commencement of the Amendment Act of 1953.It would be noticed that the main object of this subsection is to extend the retrospective operation of the relevant provisions of the Amendment Act beyond the first of April 1952 mentioned by S. 1, subs.	None
+(2) of the Amendment Act.	None
+Since it was intended to provide for such further retrospective operation of the relevant provision the legislature thought it advisable to clarify the position by saying that the said extended retrospective operation would cover all assessments whether they had been completed or not before the commencement of the Amendment Act.	None
+Section 7, subs.	None
+(1) adds two provisos to S. 9 of the principal Act by Cls.	None
+(a) and (b).	None
+Subsection (2) of S. 7 then lays down that the amendments made in Cl.	None
+(a) of subs.	None
+(1) shall be deemed to be operative for any assessment for the year ending 3131952, whether made before or after the commencement of this Act and, where any such assessment has been made before such commencement, the Incometax Officer concerned shall revise it whenever necessary to give effect to this amendment.	None
+The position under S. 30, subs.	None
+(2) of the Amendment Act is substantially similar.	None
+By subs.	None
+(1) of this Section certain additions and amendments are made in the schedule to the principal Act by Cls.	None
+(a), (b), (c) and (d).	None
+Subs.	None
+(2) then provides for the retrospective operation of the amendment made by subs.	None
+(1) in terms similar to those used in S. 7, subs.	None
+(2).	None
+It is clear that the provisions in Ss. 7 and 30 are intended for the benefit of the assessees and so the legislature may have thought it necessary to confer on the Incometax Officer specific and express power to revise his orders in respect of the relevant assessments wherever necessary to give effect to the amendments in question.	None
+The effect of this provision is to make it obligatory on the Incometax Officer to revise his original orders in the light of the amendments and also to confer on the assessee right to claim such revision.	None
+It may be conceded that in respect of the other retrospective provisions of the Amendment Act such a power to revise the earlier orders cannot be claimed or exercised by the Incometax Officer.	None
+In other words, a distinction can be drawn between these two provisions of the Amendment Act and the rest in respect of the power which the Incometax Officer can purport to exercise to give effect to the amendments made by the Amendment Act.	None
+Whereas, in respect of the amendments made by S. 7 and S. 30 of the Amendment Act, the Incometax Officer can and must revise his earlier orders covered by S. 7, subs.	None
+(2) and S. 30, subs.	None
+(2), such a power of revision has not been conferred on him in the matter of giving effect to the other amendments made in the Amendment Act.	None
+Even so, we do not think it would be legitimate or reasonable to hold that the provisions of S. 7(2) and S. 30(2) lead to the inference that the retrospective operation of the other provisions of the Amendment Act is not intended to affect concluded assessments in any manner	Reasoning
+whatever.	Reasoning
+In this connection, it would be pertinent to remember that the power to revise which has been conferred on the Incometax Officer by S. 7(2) and S. 30(2) of the Amendment Act is distinct and independent of the power to rectify mistakes which the Incometax Officer can exercise under S. 35 of the Act.6.	Reasoning
+It is in the light of this position that the extent of the Incometax Officers power under S. 35 to rectify mistakes apparent from the record must be determined and in doing so, the scope and effect of the expressionmistake apparent from the record has to be ascertained.	None
+At the time when the Incometax Officer applied his mind to the question of rectifying the alleged mistake, there can be no doubt that he had to read the principal Act as containing the inserted proviso as from 141952.	None
+If that be the true position then the order which he made giving credit to the respondent for Rs. 50,603150 is plainly and obviously inconsistent with a specific and clear provision of the statute and that must inevitably be treated as a mistake of law apparent from the record.	None
+If a mistake of fact apparent from the record of the assessment order can be rectified under S. 35, we see no reason why a mistake of law which is glaring and obvious cannot be similarly rectified.	None
+Prima facie it may appear somewhat strange that an order which was good and valid when it was made should be treated as patently invalid and wrong by virtue of the retrospective operation of the Amendment Act.	None
+But such a result is necessarily involved in the legal fiction about the retrospective operation of the Amendment Act.	None
+If, as a result of the said fiction we must read the subsequently inserted proviso as forming part of S. 18A(5) of the principal Act as from 141952, the conclusion is inescapable that the order in question is inconsistent with the provisions of the said proviso and must be deemed to suffer from a mistake apparent from the record.	None
+That is why we think that the Incometax Officer was justified in the present case in exercising his power under S. 35 and rectifying the said mistakes, Incidentally we may mention that in Meka Venkatappayya v. Additional Incometax Officer, Bapatla, 195732 ITR 274 (AIR 1958 Andh Pra 683) (D) the High Court of Andhra has taken the same view.7.	None
+In this connection it would be useful to refer to the decision of the Privy Council in the Commissioner of Incometax, Bombay Presidency and Aden v. Khemchand Ramdas, 19386 ITR 414 (AIR 1938 PC 175 ) (E).	None
+In Khemchands case, the assessees were registered as a firm and they were assessed under S. 23(4) on an income of Rs. 1,25,000 at the maximum rate.	None
+Being a registered firm no supertax was levied.	None
+A notice of demand was also made before March 1927.	None
+On February 13, 1928, the Commissioner, in exercise of his power under S. 33, cancelled the order registering the assessee as a firm and directed the Incometax Officer to take necessary action.	None
+The Incometax Officer accordingly assessed the firm to supertax on May 4, 1929.	None
+The Privy Council held that the assessment made on January 17, 1927, was final both in respect of the incometax and supertax.	None
+The fresh action taken by the Incometax Officer on May 4, 1929, was out of time though it had been taken in pursuance of the directions of the Commissioner and that the order of May 4, 1929, was one which the Incometax Officer had no power to make.	None
+One of the points raised before the Privy Council was whether, under the relevant circumstances the Incometax Officer had power to make the impugned order in view of the provisions of Ss. 34 and 35 of the Act.	None
+The Privy Council dealt with this question on the footing that the Commissioners order cancelling the registration had been properly made.	None
+On this basis Their Lordships thought that it was unnecessary to consider whether the case would attract the provisions of S. 34 inasmuch as in Their Lordships opinion the case clearly would have fallen within the provisions of S. 35 had the Incometax Officer exercised his powers under the Section within one year from the date on which the earlier demand was served upon the respondents.	None
+The judgment shows that Their Lordships took the view that looking at the record of the assessments made upon the respondents as it stood after the cancellation of the respondents registration and the order effecting the cancellation would have formed part of the record  it would be apparent that a mistake had been made in stating that no supertax was leviable.	None
+This decision clearly shows that the subsequent cancellation of the assessees registration was held by Their Lordships of the Privy Council to form part of the record retrospectively in the light of the said subsequent event, and the order was deemed to suffer from a mistake apparent from the record so as to justify the exercise of the rectification powers under S. 35 of the Act.	Reasoning
+It is because Their Lordships thought that S. 35 would have been clearly applicable that they did not decide the question as to whether S. 34 could also have been invoked.	Reasoning
+This decision lends considerable support to the view which we are disposed to take about the true meaning and scope of the expression the mistake apparent from the record occurring in S. 35.8.	Reasoning
+We must accordingly hold that the High Court of Bombay was in error in coming to the conclusion that the notice issued by the Incometax Officer calling upon the respondent to pay the sum of Rs. 29,44690 was not warranted by law.	Decision
+The result is the order passed by the High Court issuing a writ against the appellant is set aside and the appeal is allowed with costs throughout.9.	Decision
+Appeal allowed.	Decision

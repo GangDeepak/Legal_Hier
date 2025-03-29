@@ -1,0 +1,121 @@
+ Bharucha, J. Delay condoned.	None
+Leave granted.3.	None
+The question for consideration in this appeal is does a representative union under the Bombay Industrial Relations Act, 1946 (BIR Act) have the exclusive sight to represent the employees of the concerned industry in complaints relating to unfair labour practices under the Maharashtra Recognition of Trade Unions and Prevention of Unfair Labour Practices Act, 1971 (MRTU PULP Act) other than those specified in items 2 and 6 of Schedule IV thereof?	Issue
+The question arises in an appeal by special leave against the judgment and order of the High Court at Bombay dismissing a writ petition filed by the appellant.	None
+The first respondent is a public limited company with an industrial establishment at Bombay.	Facts
+It is covered by the provisions of the B.R.I. Act.	Facts
+The second respondent is a trade union recognised as the representative union for the concerned industry under the provisions of the BIR Act.	Facts
+The appellant is a trade union registered under the provisions of the Trade Unions Act, 1926.6.	Facts
+The first respondent filed a complaint before the Industrial Court alleging the unfair labour practices mentioned in items 5 and 6 of Schedule III of the MRTU PULP Act.	Facts
+Item 5 of Schedule III states that it is an unfair labour practice on the part of a trade union to stage, encourage or instigate such forms of coercive actions as wilful go slow, squatting on the work premises after working hours or gherao of any of the members of the managerial or other staff.	Facts
+Item 6 of the Schedule III states that it is an unfair labour practice on the part of a trade union to stage demonstrations at the residences of the employers or the managerial staff members.	Facts
+The Industrial Court made an adinterim order restraining the commission of the unfair labour practices.	Facts
+The adinterim order was made absolute after the second respondent had been heard.	None
+It is the appellants case that the first respondent told the Industrial Court that it had no objection to such order being passed, and that this was done because the members of the first respondent were deserting it in favour of the appellant.	Facts
+The appellant moved an application seeking impleadment in the complaint proceedings on the ground that employees of the first respondent had sought its membership and that the complaint had been filed by the first respondent in collusion with the second respondent.	Facts
+The application was opposed by the first and second respondents.	Facts
+The Industrial Court rejected the application.	Facts
+The appellant filed a writ petition impugning the Industrial Courts order.	Facts
+The High Court held that the only ground for moving the impleadment application was that several employees of the first respondent had approached the appellant with the intention of becoming its members and that there was no material to support this ground.	Facts
+Upon consideration of the provisions of the BIR and the MRTU PULP Acts, the High Court concluded that the second respondent, as the representative union, had the sole privilege of representing employees in the industry of the first respondent.	Facts
+The writ petition was, accordingly, dismissed.	Facts
+It is advantageous to consider at the outset the relevant provisions of the B.I.R. and the MRTU PULP Acts.	None
+The BIR Act, which is the earlier statute, was enacted because it was expedient to provide for the regulation of the relations of employers and employees in certain matters to consolidate and amend the law relating to the settlement of industrial disputes and to provide for certain other purposes.	None
+Section 3(2) defines approved union to be a union of the approved list.	None
+Section 3(14) states, inter alia, that an employer includes an association or a group of employers.	None
+Section 3(28) defines primary union to mean a union registered as a primary union under the Act.	None
+Section 3(29) defines qualified union to mean a union registered as a qualified union under the Act.	None
+Section 3(30) defines registered union to mean a union registered under the Act.	None
+Section 3(33) defines representative union to mean a union registered as a representative union under the Act.	None
+Section 3(38) defines union to mean a trade union of employees which is registered under the Trade Unions Act, 1926.	None
+Chapter III of the Acts deals with registration of unions.	None
+Section 13 states that any union which has for the period specified therein that percentage of the total number of employees employed in any industry in any local area as is specified therein may apply for registration as a representation union for such industry in such local area.	None
+Section 14 empowers the Registrar to register a union which has made an application under Section 13 and issue a certificate in that behalf.	None
+Section 15 empowers the Registrar to cancel the registration of a union on the grounds stated therein.	None
+Section 16 empowers the Registrar to register any union in place of the existing registered union if at any time any other union makes an application in this behalf and meets the conditions therein stated.	None
+Chapter V deals with the representatives of employers and employees and appearance on their behalf.	None
+Section 27A therein states that, except as provided in sections 32, 33 and 33A, no employee should be allowed to appear or act in any proceeding under the Act except through the representative of employees.	None
+Section 30 sets out who the representative of employees is.	None
+It states the order of preference in this behalf and the most preferred category is a representative union for such industry.	None
+Section 32 states that the Industrial Court or other tribunal may, for the ends of justice, permit an individual to appear before it.	None
+Its proviso reads thus Provided that subject to the provisions of Section 33A, no such individual shall be permitted to appear in any proceedings (not being a proceeding before a Labour Court or the Industrial Court in which the legality or propriety of an order of dismissal, discharge, removal, retrenchment, termination of service or suspension of an employee is under consideration) in which a Representative Union has appeared as the representative of employees.	None
+Section 33 states that an employee or a representative union shall be entitled to appear, inter alia, in all proceedings before the Industrial Court.	None
+Section to appear, inter alia, in all proceedings before the Industrial Court.	None
+Section 33A relates to proceedings where the dispute is between employees inter se.	None
+The MRTU PULP Act was enacted to provide for the recognition of trade unions for facilitating collective bargaining for certain undertakings, to state their rights, and obligations to confer certain powers on un recognised unions to provide for declaring certain strikes and lockouts as illegal strikes and lockouts to define and provide for the prevention of certain unfair labour practices to constitute courts (as independent machinery) for carrying out the purposes of according recognition to trade unions and for enforcing the provisions relating to unfair practices and to provide for matters connected with the purposes aforesaid.	None
+Section 3 is the definition section.	None
+Subsection (1) states that the Bombay Act means the BIR Act and subsection (2) says that the Central Act means the Industrial Disputes Act, 1947.	None
+Employee is defined by subsection (5) to mean, in relation to an industry to which the BIR Act, applies, an employee as defined in section 3(13) thereof.	None
+Similarly, an employer and an industry are defined by subsections (6) and (7) respectively, in relation to an industry to which the BIR Act applies, with reference to the meanings of these words therein.	None
+A recognised union is defined by subsection (13) to mean a union which has been issued a certificate of recognition under Chapter III of the Act.	None
+Sub section (16) defines unfair labour practices to mean those defined in section 26.	None
+Subsection 17 says that Union means a trade union of employees registered under the Trade Unions Act, 1926.	None
+Subsection (18) states that words and expressions used in the Act and not defined therein but defined in the BIR Act, shall, in relation to an industry to which the BIR Act applies, have the meanings assigned to them by the BIR Act.	None
+Chapter III deals with the recognition of unions and section 10(2) therein states that the provisions of the Chapter shall not apply to undertakings and industries to which the provisions of the BIR Act apply.	Reasoning
+Chapter IV deals with obligations and rights of recognised unions, other unions and certain employees.	None
+Section 20 sets out the rights of recognised unions.	None
+These include the right to collect sums payable by members to it on the premises where wages are paid and to hold discussions with the employees and the employer.	None
+It also states that where there is a recognised union for any undertaking, no employee shall be allowed to appear or act or be allowed to be represented in any proceedings under the Industrial Disputes Act, not being a proceeding in which the legality or propriety of an order of dismissal, discharge or the like is under consideration, except through the recognised union, and the decision arrived at or order made in such proceeding shall be binding on all the employees in such undertaking and the provisions of the Industrial Disputes Act shall stand amended in this behalf, as specified in Schedule I to the said Act.	None
+Section 21 states that no employee in an undertaking to which the provisions of the Industrial Disputes Act apply shall be allowed to appear or act or be represented in any proceeding relating to unfair labour practices specified in items 2 and 6 of Schedule IV except through the recognised union.	Reasoning
+Schedule IV deals with general unfair labour practices on the part of employers.	None
+Item 2 thereof deals with the abolition of work of a regular nature being done by employees and the giving of such work to contractors as a measure of breaking a strike.	None
+Item 6 deals with the employment of employees as badlies, casuals or temporaries and to continue them as such for years with the object of depriving them of the status and privileges of permanent employees.	None
+Section 22 sets out the right of unrecognised unions and gives them the right to meet and discuss with an employer the grievance of any individual member relating to his discharge, removal and the like.	None
+It also entitles unrecognised unions to appear on behalf of their members employed in the undertaking in any domestic or departmental inquiry.	None
+Unfair labour practices are dealt with by Chapter VI and section 26 defines them to mean the practices listed in Schedules II, III and IV.	None
+Schedule II deals with unfair labour practices on the part of employers, Schedule III deals with unfair labour practices on the part of trade unions and Schedule IV deals with general unfair labour practices on the part of employers.	None
+Section 27 debars employers, unions and employees from engaging in any unfair labour practice.	None
+Section 28 sets out the procedure for dealing with complaints relating to unfair labour practices.	None
+The order of the court thereon is, by reason of section 29, binding on, inter alia, all parties to the complaint and those summoned to appear before the court.	None
+Where the party to the complaint or summoned to appear before the court is composed of employees, all persons who on the date of the complaint were employed in the undertaking to which the complaint relates and all persons subsequently employed therein are bound by the order of the court.	None
+Four judgments of this court may now be noted.	None
+In Girja Shankar Kashi Ram v. The Gujarat Spinning Weaving Co. Ltd., 1962 Supp.	None
+(2) SCR 890, it was held that section 27A of the B.I.R. Act provides that no employee shall be allowed to appear or act in any proceeding under the Act except through the representative of employees, the only exception being the provisions of Sections 32 and 33.	None
+Therefore, section 27A completely bars the appearance of an employee or any one on his behalf in any proceeding after it has commenced except through the representative of employees.	None
+In Santuram Khudai v. Kimatrai Printers Processors (P) Ltd. and others, 1978(2)	None
+SCR 387, this view was reaffirmed.	None
+It was held that neither the appellant in that matter nor his coemployees had any locus standi to appear or act in proceedings initiated by the employer in which the representative union had the right to appear and act, did appear and act.	None
+The new union to which the appellant and some coemployees belonged had no right to appear or act on their behalf in these proceedings as it had not been registered and recognised as the representative union of employees.	None
+In Balmer Lawrie Workers Union, Bombay and another v. Balmer Lawrie and Co. Ltd. and others, 1985(2) SCR 492.	None
+The judgments aforementioned were relied upon.	None
+It was held that while interpreting section 20(2)(b) of the M.R.T.U. P.U.L.P. Act is had to be remembered that a workman who had an individual dispute with his employer arising out of his dismissal, discharge or the like would not suffer a disadvantage if the recognised union did not espouse his cause for he would be able to pursue his remedy under the Industrial Disputes Act.	None
+Once this was assured, it had to be seen whether the status to represent workmen conferred on a recognised union to the exclusion of an individual workman who was not a member of the recognised union would deny to him a fundamental freedom.	None
+Conferring the status of a recognised union, it was held, on a union satisfying certain pre requisites, which another union was not a position to satisfy, did not deny the right to form an association.	None
+The legislature had made a clear distinction between the individual grievance of a workman and a dispute affecting all or a large number of workmen.	None
+An unrecognised union enjoyed the statutory right to meet and discuss the grievance of an individual workman with his employer.	None
+It also enjoyed the statutory right to appear and participate in a domestic or departmental inquiry in which its member was involved.	None
+This was statutory recognisiton of an unrecognised union.	None
+Its exclusion was partial and the embargo placed upon it barring it from representing a workman was in the larger interest of the industry, the public interest and the national interest.	None
+In Crescent Dyes and Chemicals Ltd. v. Ram Naresh Tripathi, 1993(2) SCT 268 (SC) 1993(2) SCC 115, the question was whether a delinquent was entitled to be represented by an officer bearer of another trade union who was not a member of either the recognised union or an unrecognised union functioning within the undertaking in which the delinquent was employed.	None
+This court held that the Act was enacted to provide for facilitating collective bargaining for certain undertakings to confer certain powers on unrecognised unions to define and provide for the prevention of certain unfair labour practices and to constitute courts for carrying out the purpose of according recognition to trade unions and for enforcing the provisions relating to unfair labour practices.	None
+It was made applicable to industries to which the B.I.R. Act applied.	None
+It was clear from the scheme of the Act that, with a view to facilitating collective bargaining in certain undertakings, the concept of recognisition of unions was introduced and certain obligations and rights came to be imposed and conferred on recognised unions.	None
+Mr. Jaisingh, learned counsel for the appellant, submitted that the B.I.R. Act and the M.R.T.U. and P.U.L.P. Act operated in different fields.	Arguments of Petitioner
+The former did not deal with the subject of unfair labour practices, which was dealt with by the latter.	Arguments of Petitioner
+Since the object of the latter was to prevent unfair labour practices, it allowed access to courts to any union, recognised, representative or otherwise, to any employee and even to a labour officer to ensure that an unfair labour practice was prevented.	Arguments of Petitioner
+Since an unrecognised union could file a complaint, there was nothing incongruous about it being heard as a respondent.	Arguments of Petitioner
+Section 21 was emphasised, and it was submitted that exclusivity was conferred only in regard to items 2 and 6 of Schedule IV of the M.R.T.U. and P.U.L.P. Act and an unrecognised union could appear in complaints in respect of all other unfair labour practices.	Arguments of Petitioner
+Having regard to the provisions of Section 29 of the M.R.T.U. and P.U.L.P. Act, whereby any order passed would be binding on the appellant and its members, they had a right to be heard by the Industrial Court before any order could be made against them.12.	Arguments of Petitioner
+Mr. A.H. Desai, learned counsel for the first respondent, submitted that the right of a representative union to represent the employees in an industry to which the B.I.R. Act applied remained unfettered and did not change by reason of the fact that the proceedings had been adopted under the M.R.T.U. and P.U.L.P. Act.	Arguments of Respondent
+Learned counsel for the second respondent adopted the arguments advanced on behalf of the first respondent.	Arguments of Respondent
+The M.R.T.U. and P.U.L.P. Act takes note of the provisions of the B.I.R. Act.	Reasoning
+Many of its definitions are stated to be those contained in the B.I.R. Act.	Reasoning
+Chapter III, which deals with the recognition of unions, states, in section 10(2), that its provisions do not apply to undertakings in industries to which the provisions of the B.I.R. Act apply.	Reasoning
+The B.I.R. Act was enacted to provide for the regulation of the relation of employers and employees in certain matters and to consolidate and amend the law in relation to the settlement of industrial disputes.	Reasoning
+The M.R.T.U. and P.U.L.P. Act was enacted to provide for the recognisition of trade unions for facilitating collective bargaining for certain undertakings to state their rights and obligations to confer certain powers on unrecognised unions and to define and provide for the prevention of unfair labour practices and to constitute courts in this behalf.	Reasoning
+It cannot, therefore be said that the B.I.R.Act and the M.R.T.U. and P.U.L.P. Act operate in different fields.	Reasoning
+There is commonality in their objects and their provisions.	Reasoning
+The obvious intent of the legislature which enacted them was that they should operate in tandem and complement each other in respect of industries to which the B.I.R. Act had been made applicable.	Reasoning
+The two statutes must be read together.14.	Reasoning
+Section 21 of the M.R.T.U. and P.U.L.P. Act, upon the emphasis was laid on behalf to the appellants, states that no employee in an undertaking to which the provisions of the Industrial Disputes Act applies shall be allowed to appear or act or be allowed to be represented in any proceeding relating to the unfair labour practices specified in items 2 and 6 of Schedule IV except through the recognised union.	Reasoning
+It is important to note that the reference is to employee in an undertaking to which the Industrial Disputes Act applies and not to employees in an undertaking to which the B.I.R. Act applies.	Reasoning
+Apart therefrom, the section permits an employee, not an union other than the recognised union, to so appear.	Reasoning
+The provisions of section 21 do not, therefore, lead to the conclusion that an union other than a representative union can appear in proceedings relating to all unfair labour practices other than those specified in items 2 and 6 of Schedule IV.15.	Reasoning
+It is true that an order of the Industrial Court in the concerned proceedings would bind all employees of the first respondent even though there may be some among them who owe allegiance not the representative union but to the appellant.	Reasoning
+The objective of the provisions of the B.I.R. Act and the M.R.T.U. and P.U.L.P. Act, read together, and the embargo placed upon representation by anyone other than the representative of the employees, who, for the most part, is the representative union, except in matters pertaining to an individual dispute between an employ and the employer, is to facilitate collective bargaining.	Reasoning
+The rationale is that it is in the interest of industrial peace and in the public and national interest that the employer should have to deal, in matters which concern all or most of its employees, only with a union which is representative of them.	Reasoning
+It may be that a union which was representative of the employees may have in the course of time lost that representative character it is then open, under the provisions of the B.I.R. Act, for a rival union to seek to replace it.	Reasoning
+For the reasons aforesaid, the High Court was right in the view that it took.17.	Decision
+The appeal is dismissed.	Decision
+There shall be no order as to costs.	None
+Appeal dismissed.	Decision

@@ -1,0 +1,86 @@
+ B. MAJMUDAR, J. Leave granted By consent of learned advocates of both the sides the appeal is finally heard and is being disposed of by this judgment.	Facts
+The CIT(A) has brought in challenge the judgment and order	Facts
+dt. 13th May, 1987 passed by the High Court of Orissa at Cuttack reported as Kalinga Tubes Ltd. vs. CIT (Ori) answering the referred question under s. 256(1) of the IT Act, 1961 against the Revenue and in favour of the assessee.	Facts
+It is the contention of the IT authorities that the question should be answered against the assessee.	Facts
+A few relevant facts centering round the question in controversy deserve to be noted at this stage The relevant assessment year is 197172.	None
+The respondentassessee is a limited company which manufactures and sells steel tubes in the State of Orissa.	None
+During the previous year relevant to asst.	Facts
+yr. 196263, the assessee was liable to pay salestax under the Central ST Act.	None
+The Sales Tax Officer completed the assessment in respect of asst.	Facts
+yr. 196263 on 31st March, 1966 and demanded an additional amount of Rs. 11, 02, 698.	Facts
+The assessee unsuccessfully carried the matter in appeal and then filed second appeal before the Salestax Tribunal.	None
+The Tribunal by its order dt.	None
+28th	Facts
+May, 1970 reduced the additional demand of salestax to Rs. 2, 22, 161.	Facts
+On the basis of the aforesaid order of the Tribunal, the respondentassessee claimed deduction of the said amount as business expenditure in respect of the assessment for the previous year 197071 since according to the assessee the Salestax liability was of the asst.	Facts
+yr. 197172	Reasoning
+The ITO disallowed the said deduction in the relevant assessment year, as according to the ITO the assessee was following mercantile system of accounting and, hence, the liability to pay salestax accrued to it prior to the said year.	None
+On appeal, the CIT(A) allowed the said deduction holding that as the said liability became determinate and known only during that assessment year, it would be allowable for that assessment yearThe Tribunal reversed the finding of the CIT(A) holding that the said Salestax liability was not admissible as deduction during the relevant assessment year.	Facts
+For that conclusion the Tribunal relied upon the decision of this Court in the case of Kedarnath Jute Manufacturing Co. Ltd. vs. CIT (SC).	Facts
+The assessee got the following question referred under s. 256(1) of the IT Act for the opinion of the High Court Whether, on the facts and in the circumstances of the case, the assessee is entitled to deduction of Rs. 2, 22, 161 towards the Sales tax liability for the asst.	Facts
+yr. 197172 ?	None
+The High Court after hearing both the sides answered the question in the affirmative in favour of the assessee and against the Revenue, as noted earlier.	Issue
+It is this answer of the High Court that is challenged on behalf of the Revenue by the appellate CIT(A) Learned counsel for the appellant submitted that the High Court has misunderstood and misapplied the ratio of decision of this Court in Kedarnath Jute Manufacturing Co. Ltd. (supra).	Arguments of Petitioner
+That once it is not in dispute that the assessee was following mercantile system of accounting, the liability to pay the central salestax accrued to the respondentassessee, the moment the sales, which are subject to sales tax, are made.	Arguments of Petitioner
+That liability would not cease to be a liability because the assessee had taken proceedings before higher authorities for getting it reduced or wiped out so long as the contention of the assessee did not prevail.	Arguments of Petitioner
+Further, the fact that the assessee had failed to debit the liability in its books of accounts did not debar him from claiming the sum as deduction.	Arguments of Petitioner
+The eligibility for getting deduction depends on the provisions of the law and not on the view which the assessee might take of his rightsThe High Court, on the other hand, took the view in the light of the very same decision in Kedarnath Jute Manufacturing Co. Ltd. (supra) that the liability to pay salestax can be said to have initially accrued when the sales were effected but till the liability had ceased, it shall be treated to have continued to accrue and that when pursuant to the Tribunals order a fresh demand notice was served by the Sales Tax Officer, on the assessee, the liability of the assessee can be said to have accrued on receipt of such demand notice and, therefore, the assessee can claim the deduction under s. 37 of the IT Act during the asst.	Arguments of Petitioner
+yr. 197172 even though the liability was of the asst.	None
+yr. 196263.	Reasoning
+It was submitted by the learned counsel for the appellant that the aforesaid view of the High Court was erroneous.	Arguments of Petitioner
+That the High Court had misread and misapplied the ratio of the decision of this Court in Kedarnath Jute Manufacturing Co. Ltd. (supra) On the other hand, learned counsel for the respondentassessee submitted relying on the decision of this Court in ITO Anr.	Arguments of Petitioner
+vs. Seghu Buchiah Setty (SC)	None
+that the order of the Sales Tax Officer merged in the order of the ultimate appellate authority, namely, the Salestax Tribunal and it is only thereafter that the liability to pay salestax could be said to have crystalized against the assessee or could be said to have accrued to the assessee.	None
+She also submitted relying on the decision of this Court in the case of State Bank of Travancore vs. CIT (SC) that when entries are made in the books of accounts maintained as per mercantile system of accounting, it is on the accrual of the real income that entries became effective.	Arguments of Respondent
+According to the learned counsel for the respondent it is only on the issuance of the fresh demand notice by the Sales Tax Officer pursuant to the order of the Salestax Tribunal that the liability to pay salestax could be said to have accrued to the assessee and that happened in the previous year relevant to the concerned asst.	Arguments of Respondent
+yr. 197172.	Reasoning
+The High Court, therefore, had rightly answered the question in favour of the assessee Having given our anxious consideration to the rival contentions, we find that the decision of the High Court is not sustainable at all.	None
+The question is squarely covered by the decision of this Court in Kedarnath Jute Manufacturing Co. Ltd. (supra).	None
+In that case, the assessee followed mercantile system of accounting.	None
+During the relevant assessment year the assessee claimed deduction of Rs. 1, 49, 776 being the amount of salestax which is was liable under the law to pay during the relevant accounting year.	None
+The IT return was filed on 13th Jan., 1956.	None
+The demand notice was served by the Salestax authorities on 21st Nov., 1957.	None
+On 9th Nov., 1959, the assessee filed a revised return claiming the aforesaid deduction.	None
+The assessee had challenged the order by which the demand for such tax had been raised, before higher authorities, as it was contesting its liability to the extent it had been determined.	None
+The ITO completed the assessment on 11th March, 1960 before any final decision was given to the proceedings relating to the assessment of salestax.	None
+According to the ITO, the assessee was not entitled to claim the deduction of the aforesaid amount of salestax inasmuch as it had denied its liability to pay that amount.	None
+The AAC confirmed the order of the ITO.	None
+The ITOs aforesaid order was confirmed in the hierarchy of proceedings upto the Tribunal and also before the High Court in reference proceedings.	None
+The aforesaid view of the High Court was upturned by this Court in the decision of Kedarnath Jute Manufacturing Co. Ltd. (supra) wherein this Court made following pertinent observations Now under all Salestax laws including the statute with which we are concerned, the moment a dealer makes either purchases or sales which are subject to taxation, the obligation to pay the tax arises and taxability is attracted.	None
+Although that liability cannot be enforced till the quantification is effected by assessment proceedings, the liability for payment of tax is independent of the assessment.	None
+It is significant that in the present case, the liability had even been quantified and a demand had been created in the sum of Rs. 1, 49, 776 by means of the notice dt.	None
+21st	None
+Nov., 1957, during the pendency of the assessment proceedings before the ITO and before the finalisation of the assessment.	None
+It is not possible to comprehend how the liability would cease to be one because the assessee had taken proceedings before higher authorities for getting it reduced or wiped out so long as the contention of the assessee did not prevail with regard to the quantum of liability, etc.	Arguments of Petitioner
+An assessee who follows the mercantile system of accounting is entitled to deduct from the profits and gains of the business such liability which had accrued during the period for which the profits and gains were being computed.	None
+It can again not be disputed that the liability to payment of salestax had accrued during the year of assessment even though it had to be discharged at a future date.	None
+In Pope The King Match Factory vs. CIT (Mad), a demand for excise duty was served on the assessee and though he was objecting to it and seeking to get the order of the Collector of Excise reversed, he debited that amount in his accounts on the last day of his accounting year and claimed that amount as a deductible allowance on the ground that he was keeping his accounts on the mercantile basis.	None
+The Madras High Court had no difficulty in holding that the assessee had incurred an enforceable legal liability on and from the date on which he received the Collectors demand for payment and that his endeavour to get out of that liability by preferring appeals could not in any way detract from or retard the efficacy of the liability which had been imposed upon him by the competent excise authority.	None
+In our judgment, the above decision lays down the law correctly.	None
+The aforesaid decision, therefore, squarely lays down the legal proposition that when the assessee is following mercantile system of accounting, in case of salestax payable by the assessee, the liability to pay salestax would accrue the moment the dealer made sales, which are subject to salestax.	Arguments of Petitioner
+At that stage the obligation to pay the tax arises.	None
+Raising of dispute in this connection before the higher authorities would be irrelevant.	None
+In the present case, the liability to pay the central salestax arose or accrued on the basis of mercantile system of accounting followed by the assessee, during the previous relevant year 196263.	None
+It is a fact that the assessment for that year was completed by the Salestax Officer on 31st March, 1966.	Reasoning
+However, in mercantile system of accounting, liability to pay the quantified salestax dues as per order of Salestax Officer can be said to have accrued to the assessee for the relevant asst.	Reasoning
+yr. 1962 63.	None
+It is true that the assessee challenged the same and ultimately got the liability to pay the salestax for the asst.	Reasoning
+yr. 196263, reduced in second appeal before the Salestax Tribunal on 28th May, 1970 to Rs. 2, 22, 161.	Reasoning
+But that would not affect the accrual of liability to pay salestax on the basis of mercantile system of accounting.	Reasoning
+It was submitted by the learned counsel for the respondentassessee that if such entire deduction of Rs. 11, 02, 698 was sought for by the assessee during the asst.	Reasoning
+yr. 196263 and ultimately as held by the Tribunal the liability was reduced to Rs. 2, 22, 161 an incongruous situation would have arisen.	Reasoning
+Such a contention cannot be countenanced for the simple reason that if ultimately the tax liability is reduced and if in retrospect it was found that during the relevant assessment year the assessee had claimed a large amount of deduction by way of business expenditure the difference of the amount wrongly claimed and allowed in earlier relevant assessment year could always be added back in the assessment of the relevant subsequent assessment year.	Reasoning
+It is obvious that in no case, the assessee who was following mercantile system of accounting could have claimed deduction for payment of central salestax dues for asst.	Reasoning
+yr. 196263 in the asst.	None
+yr. 197172.	Reasoning
+It is difficult to appreciate how the High Court persuaded itself to come to the conclusion that because fresh demand notice was given by the Sales Tax Officer pursuant to the decision of the Salestax Tribunal the amount covered by the demand notice could be claimed by way of deduction on accrual basis during the asst.	Reasoning
+yr. 197172 or that such liability could be treated to have accrued in that year.	Reasoning
+This finding of the High Court runs counter to the ratio of the decision of this Court in Kedarnath Jute Manufacturing Co. Ltd. (supra).	Reasoning
+Reliance placed by the learned counsel of the respondent on the decision of this Court in ITO Anr.	Reasoning
+vs. Seghu Buchiah Setty (supra) is also of no avail as even if it is held that the order of the Salestax Officer had merged in the order of Salestax Tribunal that would not have any impact on the decision as to when the liability to pay salestax had accrued to the assessee on mercantile system of accounting and in which relevant assessment year the claim for deduction under s. 37 of the IT Act could have been made by the assessee.	Reasoning
+Similarly, decision of this Court in State Bank of Travancore (supra) is also of no avail to the assessee.	Reasoning
+The question with which we are concerned in the present case is not covered by ratio of the said decision and on the contrary it is squarely covered by ratio of the decision in Kedarnath Jute Manufacturing Co. Ltd. (supra)	Reasoning
+In the result, this appeal succeeds and is allowed.	None
+The answer given by the High Court is set aside.	None
+The referred question is answered in the negative in favour of the Revenue and against the assessee.	None
+There will be no order as to costs.	None

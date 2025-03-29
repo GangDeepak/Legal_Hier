@@ -1,0 +1,155 @@
+ GOSWAMI, J. 1.	None
+These two appeals by certificate are from the judgment of the Calcutta High Court since reported in Commissioner of Incometax v. Textile Machinery Corporation 1971 80 ITR 428 (Cal).	Issue
+The two appeals relate respectively to two assessment years 195859 (calendar year 1957) and 195960 (calendar year 1958).	Issue
+The matter relates to the claim by the assessee for exemption of tax under section 15C of the Indian Incometax Act, 1922 (briefly the Act)	Facts
+The matter came up before the High Court on a reference under section 66(1) of the Act.	Facts
+The two questions referred were as follows (1) Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that the Steel Foundry Division was an industrial undertaking to which section 15C of the Indian Incometax Act, 1922, applied ?	Facts
+(2) Whether, on the facts and in the circumstances of the case, the Tribunal was right in holding that the jute mill division set up by the assesseecompany was an industrial undertaking to which section 15C of the Indian Incometax Act, 1922, applied ?	Facts
+2.	None
+The facts may briefly be stated The assessee (the appellant herein) is a heavy engineering concern manufacturing boilers, machinery parts, wagons, etc.	Facts
+For the assessment years 195859 and 195960, the assessee claimed exemption of tax under section 15C of the Act in respect of the profits and gains derived from its steel foundry division and a similar claim for relief under section 15C in respect of its profits and gains derived from its jute mill division for the year 195960 The assessee had previously in the earlier years bought from outside the castings manufactured in the steel foundry division which was started in the assessment year 195859 and continued thereafter.	Facts
+Again, similarly in the year 195960, in addition to the manufacturing of castings in the steel foundry division the assessee started the jute mill division where the parts made out of the raw material supplied by the boiler division by machining and forging them were given to the boiler division of the assessee.	Facts
+It was found that out of a total sale of Rs. 28, 23, 127 of steel castings goods worth Rs. 18, 39, 433 were used in connection with the various divisions of the company.	Facts
+In respect of the jute mill division, the Incometax Officer found that out of the total sales of Rs. 13, 03, 509, sales to the boiler division totalled Rs. 11, 89, 812 and sales to outside the jute mill division totalled only a sum of Rs. 1, 13, 697.	Facts
+The Incometax Officer and the Appellate Assistant Commissioner, on the above facts, held the undertakings as expansion and reconstruction of the business already existing and hence the assessee was not entitled to exemption under section 15C of the Act.	Facts
+The Incometax Appellate Tribunal, however, allowed the appeal of the assessee and accepted the claim for exemption under section 15C.	Facts
+According to the Tribunal both the steel foundry and the jute mill division of the assessee were new industrial undertakings.	Facts
+The above conclusion was reached on the basis of several facts found by the Tribunal.	Facts
+These are that the machinery was new, was housed in a separate building and that industrial licences had to be obtained for manufacturing the parts in question.	Facts
+According to the Tribunal the existing business of the assessee consisted of manufacturing boilers, wagons, etc., and for that purpose the assessee was purchasing the spare parts, forgings and castings from outside.	Facts
+The Tribunal came to the conclusion that the business of the new industrial undertaking was to manufacture those very spare parts.	Facts
+Hence the Tribunal concluded that it could not be said that the undertakings were formed out of the existing business to come within the mischief of the exclusion clause in section 15C(2)(i).	Facts
+The Tribunal, rightly relying upon Tata Iron and Steel Co. Ltd. v. State of Bihar 1963 48 ITR (SC) 123, also held that even though the manufactured products of the new industrial undertakings were mostly used in the assessees other business of manufacturing boilers, wagons, etc., the element of profit was there and the extent of the same could be ascertained as the assessee was maintaining separate books of accountIn the reference at the instance of the department the High Court answered both the questions in the negative and against the assessee.	Facts
+3.	None
+The High Court held as follows The goods which the steel foundry division and the jute mill division began producing for the assessee were also previously used by the assessee in its business, but they were purchased from outside and this purchase from outside was replaced by production or manufacture from within the assessees own business.	Facts
+This change of producing ones own goods systematically used in the existing business instead of buying them from outside would only be a reconstruction of a business already in existence In so far as they started producing and manufacturing themselves, the assessee was doing something which was only a reconstruction of the business already inexistence The newness of the machinery of the steel foundry division and the jute mill division could not by itself make them new industrial undertakings.	Facts
+Separate housing of, and separate accounts for, the steel foundry division and jute mill division may be only parts of reconstruction of the same business and did not necessarily indicate a new industrial undertaking.	Facts
+The grant of a special licence for the steel foundry division did not make it an industrial undertaking to qualify for exemption from tax under section 15C, because the licence was for expansion of the existing industrial undertaking and the licence did not cover the jute mill division.	Facts
+It is, however, admitted before us that both the units were covered by licences 4.	None
+The controversy in these appeals centres round the true construction of section 15C(2)(i) of the Act and in particular with regard to the scope and ambit of the expression therein, namely, the reconstruction of business already in existence.	Issue
+Is the High Court right in holding that the two industrial undertakings, namely, the steel foundry and the jute mill division, are formed by reconstruction of the business already in existence differing from the contrary conclusion reached by the Tribunal ?	Issue
+Before we proceed further, we will read section 15C as it stood during the material time 15C. Exemption from tax of newly established industrial undertakings.(1) Save as otherwise hereinafter provided, the tax shall not be payable by an assessee on so much of the profits or gains derived from any industrial undertaking to which this section applies as do not exceed six per cent.	None
+per annum on the capital employed in the undertaking computed in accordance with such rules as may be made in this behalf by the Central Board of Revenue (2) This section applies to any industrial undertaking which (i) is not formed by the splitting up, or the reconstruction of, business already in existence or by the transfer to a new business of building, machinery or plant, previously used in any other business (ii) has begun or begins to manufacture or produce articles in any part of the taxable territories at any time within a period of thirteen years from the 1st day of April, 1948, or such further period as the Central Government may, by notification in the official Gazette, specify with reference to any particular industrial undertaking (iii) employs ten or more workers in a manufacturing process carried on with the aid of power, or employs twenty or more workers in a manufacturing process carried on without the aid of power Provided that the Central Government may, by notification in the official Gazette, direct that the exemption conferred by this section shall not apply to any particular industrial undertaking (3) The profits or gains of an industrial undertaking to which this section applies shall be computed in accordance with the provisions of section 10 (4) The tax shall not be payable by a shareholder in respect of so much of any dividend paid or deemed to be paid to him by an industrial undertaking as is attributable to that part of the profits or gains on which the tax is not payable under this section(5)	None
+Nothing in this section shall affect the application of section 23A in relation to the profits or gains of an industrial undertaking to which this section applies (6) The provisions of this section shall apply to the assessment for the financial year next following the previous year in which the assessee begins to manufacture or produce articles and for the four assessments immediately succeeding.	None
+5.	None
+We are principally concerned in these appeals with clause (i) of subsection (2) of section 15C and that also only with one part of it, namely, whether the industrial undertakings, steel foundry and the jute mill division, are not formed by the reconstruction of the business already in existence 6.	None
+The learned Additional SolicitorGeneral submits that these two undertakings are not entitled to exemption under section 15C(2) as rightly so held by the High Court since they were formed by the reconstruction of the assessees business already in existence, namely, the business of heavy engineering.	Arguments of Petitioner
+He submits that the setting up of a separate unit to do something in the course of preexisting manufacturing process to aid the production of the same article as was being produced by the preexisting industrial undertaking would not amount to starting of a new industrial undertaking.	Arguments of Petitioner
+He further emphasises that production of the articles in the steel foundry and in the jute mill division is only ancillary activity to the main business of the assessee and since the articles produced in these two supplementary undertakings help in producing the identical article which has been the endproduct of the assessees main business, section 15C(2)(i) cannot come to the aid of the assessee.	Arguments of Petitioner
+According to Mr. Raman these two industrial undertakings cannot be said to be not formed out of the reconstruction of the business already in existenceSection 15C(2)(i) only excludes three categories of industrial undertakings from the benefit of the section without referring to clauses (ii) and (iii) of that subsection and other limiting provisions of the section which are not applicable in the instant case 7.	Arguments of Petitioner
+It is contended by Mr. Palkhivala that acceptance of the Additional SolicitorGenerals submission will amount to adding a fourth category of cases in subsection (2)(i), namely, an industrial undertaking which is an ancillary undertaking manufacturing certain articles to supplement the principal industrial activity.	Arguments of Respondent
+This, says Mr. Palkhivala, will be adding something to the section 8.	None
+Section 15C is an exemption section.	None
+The benefit granted under this section is a partial benefit so far as the quantum of the exempted profits of the new industrial undertaking as also for a limited period or periods as specified in the section.	None
+If the two industrial undertakings, about the existence of which there can be no controversy, as found by the Tribunal, cannot be held to be formed by the reconstruction of the business already in existence, the benefit of section 15C will be available to the assessee 9.	None
+The principal object of section 15C is to encourage setting up of new industrial undertakings by offering tax incentives within a period of 13 years from April 1, 1948.	None
+Section 15C provides for a fractional exemption from tax of profits of a newly established undertaking for five assessment years as specified therein.	None
+This section was inserted in the Act in 1949 by section 13 of the Taxation Laws (Extension to Merged States and Amendment) Act, 1949 (Act 67 of 1949), extending the benefit to the actual manufacture or production of articles commencing from a prior date, namely, April 1, 1948.	None
+After the country had gained independence in 1947 it was most essential to give fillip to trade and industry from all quarters.	None
+That seems to be the background for insertion of section 15CIt is also significant that the limit of the number of years for the purpose of claiming exemption has been progressively raised from the initial 3 years in 1949 to 6 years in 1953, 7 years in 1954, 13 years in 1956 and 18 years in 1960.	None
+The incentive introduced in 1949 has been thus stepped up ever since and the only object is that which we have already mentioned 10.	None
+Under subsection (1) of section 15C the tax shall not be payable by an assessee on profits not exceeding six per cent.	None
+per annum on the capital employed in the new industrial undertaking from the profits of which alone exemption is claimed.	None
+Subsection (2) of section 15C has a negative as well as a positive aspect.	None
+Negatively, the new industrial undertaking of the assessee should not be formed(1) by the splitting up of the business already in existence (2) by the reconstruction of business already in existence, or (3) by the transfer to a new business of building, machinery or plant used in a business which was being carried on before April 1, 1948 11.	None
+We agree that it is not possible to exclude any new industrial undertaking other than the three categories mentioned above.	None
+12.	None
+We are concerned in these appeals with the type No.	None
+(2) mentioned above.	None
+Positively, the new industrial undertaking must produce result, that is to say, it has to manufacture or produce articles at any time within a period of 13 years from April 1, 1948.	None
+The further requirement under subsection (2) is with regard to the personnel in the undertaking, namely, that ten or more workers have to work in the manufacturing process carried on with the aid of power or twenty or more workers have to carry on work without the aid of power.	None
+The above element with regard to the number of workers engaged in the undertaking would go to show that even small industrial undertakings, newly started, are within the exemption clause, where, for example, twenty workers may complete the industrial process without the aid of power.	None
+There is no controversy about the positive aspect in these appealsAgain, the new undertaking must not be substantially the same old existing business.	None
+The third excluded category mentioned above is significant.	None
+Even if a new business is carried on but by piercing the veil of the new business it is found that there is employment of the assets of the old business, the benefit will not be available.	None
+From this it clearly follows that substantial investment of new capital is imperative.	None
+The words the capital employed in the principal clause of section 15C are significant, for fresh capital must be employed in the new undertaking claiming exemption.	None
+There must be a new undertaking where substantial investment of fresh capital must be made in order to enable earning of profits attributable to that new capital.	None
+13.	None
+The assessee continues to be the same for the purpose of assessment.	Reasoning
+It has its existing business already liable to tax.	Reasoning
+It produced in the two concerned undertakings commodities different from those which it has been manufacturing or producing in its existing business.	Reasoning
+Manufacture or production of articles yielding additional profit attributable to the new outlay of capital in a separate and distinct unit is the heart of the matter, to earn benefit from the exemption of tax liability under section 15C. Subsection (6) of the section also points to the same effect, namely, production of articles.	Reasoning
+The answer, in every particular case, depends upon the peculiar facts and conditions of the new industrial undertaking on account of which the assessee claims exemption under section	Reasoning
+15C.	Reasoning
+No hard and fast rule can be laid down.	Reasoning
+Trade and industry do not run in earmarked channels and particularly so in view of manifold scientific and technological developments.	Reasoning
+There is great scope for expansion of trade and industry.	Reasoning
+The fact that an assessee by establishment of a new industrial undertaking expands his existing business, which he certainly does, would not, on that score, deprive him of the benefit under section	Reasoning
+15C.	Reasoning
+Every new creation in business is some kind of expansion and advancement.	Reasoning
+The true test is not whether the new industrial undertaking connotes expansion of the existing business of the assessee but whether it is all the same a new and identifiable undertaking separate and distinct from the existing business.	Reasoning
+No particular decision in one case can lay down an inexorable test to determine whether a given case comes under section 15C or not.	Reasoning
+In order that the new undertaking can be said to be not formed out of the already existing business, there must be a new emergence of a physically separate industrial unit which may exist on its own as a viable unit.	Reasoning
+An undertaking is formed out of the existing business if the physical identity with the old unit is preserved.	Reasoning
+This has not happened here in the case of the two undertakings which are separate and distinctIt is clear that the principal business of the assessee is heavy engineering in the course of which it manufactures boilers, wagons, etc.	Reasoning
+If an industrial undertaking produces certain machines or parts which are, by themselves, identifiable units being marketable commodities and the undertaking can exist even after the cessation of the principal business of the assessee, it cannot be anything but a new and separate industrial undertaking to qualify for appropriate exemption under section	Reasoning
+15C.	Reasoning
+The principal business of the assessee can be carried on even if the said two additional undertakings cease to function.	Reasoning
+Again, the converse is also true.	Reasoning
+The fact that the articles produced by the two undertakings are used by the boiler division of the assessee will not weigh against holding that these are new and separate undertakings.	Reasoning
+On the other hand, the fact that a portion of the articles produced in these two new industrial undertakings had been sold in the open market to others is a circumstance in favour of the assessee that the new industrial units can function on their own.	Reasoning
+Use of the articles by the assessee is not decisive to deny the benefit of section	None
+15C. 14.	Reasoning
+Section 15C partially exempts from tax a new industrial unit which is separate physically from the old one, the capital of which and the profits thereon are ascertainable.	Reasoning
+There is no difficulty to hold that section 15C is applicable to an absolutely new undertaking for the first time started by an assessee.	Reasoning
+The cases which give rise to controversy are those where the old business is being carried on by the assessee and a new activity is launched by him by establishing new plants and machinery by investing substantial funds.	Reasoning
+The new activity may produce the same commodities of the old business or it may produce some other distinct marketable products, even commodities which may feed the old business.	Reasoning
+These products may be consumed by the assessee in his old business or may be sold in the open market.	Reasoning
+One thing is certain that the new undertaking must be an integrated unit by itself wherein articles are produced and at least a minimum of ten persons with the aid of power and a minimum of twenty persons without the aid of power have been employed.	Reasoning
+Such a new industrially recognisable unit of an assessee cannot be said to be reconstruction of his old business since there is no transfer of any assets of the old business to the new undertaking which takes place when there is reconstruction of the old business.	Reasoning
+For the purpose of section 15C the industrial units set up must be new in the sense that new plants and machinery are erected for producing either the same commodities or some distinct commodities.	Reasoning
+In order to deny the benefit of section 15C the new undertaking must be formed by reconstruction of the old business.	Reasoning
+Now, in the instant case, there is no formation of any industrial undertaking out of the existing business since that can take place only when the assets of the old business are transferred substantially to the new undertaking.	Reasoning
+There is no such transfer of assets in the two cases with which we are concernedWe will now deal with the question whether the two undertakings of the assessee are formed by reconstruction of the existing business.	Reasoning
+The word reconstruction is not defined in the Act but has received judicial interpretation.	None
+In In re South African Supply and Cold Storage Co. 1904 2 Ch 268 (Ch D) Buckley J., dealing with the meaning of the word reconstruction in a company matter, observed as follows What does reconstruction mean ?	None
+To my mind it means this.	None
+An undertaking of some definite kind is being carried on, and the conclusion is arrived at that it is not desirable to kill that undertaking, but that it is desirable to preserve it in some form, and to do so, not by selling it to an outsider who shall carry it onthat would be a mere salebut in some altered form to continue the undertaking in such a manner as that the persons now carrying it on will substantially continue to carry it on.	None
+It involves, I think, that substantially the same business shall be carried on and substantially the same persons shall carry it on.	None
+But it does not involve that all the assets shall pass to the new company or resuscitated company, or that all the shareholders of the old company shall be shareholders in the new company or resuscitated company.	None
+Substantially the business and the persons interested must be the same.	None
+15.	None
+This concept of reconstruction was accepted by the Bombay High Court in Commissioner of Incometax v. Gaekwar Foam and Rubber Co. Ltd. 1959	None
+35 ITR 662 (Bom) dealing with section 15C of the Act.	None
+While adverting to the passage which we have just quoted the Bombay High Court observed as follows in the above decision (page 671) Now fully appreciating the distinction which counsel for the revenue has sought to make between the case of a reconstruction of a company and the case of reconstruction of a business, these observations, as we read them, are equally illuminating in the context of reconstruction of a business already in existence in the case of a newly established industrial undertaking.	None
+The Delhi High Court also in Commissioner of Incometax v. Ganga Sugar Corporation Ltd. 1973 92 ITR 173 (Delhi) accepted the above concept of reconstruction in the following passage (page 179, 180) We have given the matter our earnest consideration and are of the view that in the reconstruction of a business, as in the reconstruction of a company there is an element of transfer of assets and of some change, however partial or restricted it may be, of ownership of the assets.	None
+The transfer, however, need not be of all the assets.	None
+It is none the less imperative that there should be continuity and preservation of the old undertaking though in an altered form.	None
+The concept of reconstruction of business would not be attracted when a company which is already running one industrial unit sets up another industrial unit.	None
+The new industrial unit would not lose its separate and independent identity even though it has been set up by a company which is already running an industrial unit before the setting up of the new unit.	None
+We endorse the above views with regard to reconstruction of business.	None
+16.	None
+Reconstruction of business involves the idea of substantially the same persons carrying on substantially the same business.	None
+It is stated on behalf of the revenue that the same company in the instant case continues to do the same business of heavy engineeringno matter certain spare parts necessary as components to completion of the endproduct are now manufactured in the business itself.	None
+The fact that the assessee is carrying on the general business of heavy engineering will not prevent him from setting up new industrial undertakings and from claiming benefit under section 15C if that section is otherwise applicable.	None
+However, in order to be entitled to the benefit under section 15C, the following facts have to be established by the assessee, subject always to timeschedule in the section (1) investment of substantial fresh capital in the industrial undertaking set up (2) employment of requisite labour therein (3) manufacture or production of articles in the said undertaking (4) earning of profits clearly attributable to the said new undertaking, and (5) above all, a separate and distinct identity of the industrial unit set up 17.	None
+We may add that there is no bar to an assessee carrying on a particular business to set up a new industrial undertaking on account of which exemption of tax under section 15C may be claimed.	None
+The legislature has advisedly refrained from inserting a definition of the word reconstruction in the Act.	None
+Indeed, in the infinite variety of instances of restructuring of industry in the course of strides in technology and of other developments, the question has to be left for decision on the peculiar facts of each case.	None
+18.	None
+If any undertaking is not formed by reconstruction of the old business that undertaking will not be denied the benefit of section 15C simply because it goes to expand the general business of the assessee in some directions.	None
+As in the instant case, once the new industrial undertakings are separate and independent production units in the sense that the commodities produced or the results achieved are commercially tangible products and the undertakings can be carried on separately without complete absorption and losing their identity in the old business, they are not to be treated as being formed by reconstruction of the old business.	Reasoning
+19.	None
+The business of the assessee is of heavy engineering.	None
+The two new undertakings are independently producing articles which may be of aid to the principal business but yet the undertakings are distinct and not reconstruction out of the existing business of the assessee.	Reasoning
+Use by the assessee of the articles produced in its existing business or the concept of expansion are not decisive tests in construing section 15C.	Reasoning
+The High Court is not right in holding the two undertakings as formed by reconstruction of the existing business of the assesseeSeveral decisions have been cited at the bar before us.	None
+We approve of the conclusions in Commissioner of Incometax v. Ganga Sugar Corporation Ltd.	None
+1973 92 ITR 173 (Delhi), Rajeswari Mills Ltd. v. Commissioner of Incometax 1963 50 ITR 29 (Mad) , Nagardas Bechardas Brothers P. Ltd. v. Commissioner of Incometax 1976 104 ITR 255 (Guj) , Commissioner of Incometax v. Electric Construction and Equipment Co. Ltd.	None
+1976 104 ITR 101 (Cal) and Commissioner of Incometax v. Hindustan Motors Ltd. 1977	None
+107 ITR 164 (Cal).	None
+The decision in Commissioner of Incometax v. Naya Sahitya 1972 84 ITR 567 (Delhi) does not represent the correct legal position and, hence, cannot be approved.	None
+20.	None
+We may observe that we are not required to consider in these appeals how profit will be actually calculated in order to determine the quantum of exemption of six per cent.	None
+of the profits on the capital employed.	Reasoning
+If difficulties are insurmountable and, therefore, profit, cannot be ascertained, that will be a different question in the course of practical application of the section.	Reasoning
+That kind of a possible difficulty should not weigh in the true construction of section 15C.	Reasoning
+In the present case the assessee claimed profit and there was no difficulty about ascertainment of the exempted profit as separate books of accounts were kept and the undertakings were at separate places.	None
+21.	None
+In view of the foregoing discussion, we are clearly of opinion that the High Court is not right in answering the two questions in the negative and against the assessee.	None
+On the other hand, the Tribunal was right in answering the two questions in the affirmative and against the department.	Reasoning
+The two questions referred stand answered in the affirmative.	Reasoning
+The judgment of the High Court is, therefore, set aside and the appeals are allowed with costs.	Decision
+22.	None
+Appeals allowed.	Decision

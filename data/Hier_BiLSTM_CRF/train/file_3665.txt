@@ -1,0 +1,273 @@
+ Sarkar, J. (for himself and J. C. Shah J.)1.	None
+We think that these appeals should be allowed.2.	Facts
+The appeals relate to the assessment to incometax of the income of the life insurance business of the Bharat Insurance Co., Ltd. now merged in the Life Insurance Corporation Ltd.	Facts
+The assessment years concerned are 195253, 195354 and 195455.	Facts
+The Incometax Act, 1922 makes special provision for assessment of the income of insurance business.	Facts
+The Incometax Officer in making the assessment orders made some adjustments in the accounts which the appellant contends, he has no power to do under these provisions.	Facts
+The question in these appeals is whether he had the power to make these adjustments.3.	Facts
+Subsection (7) of S. 10 of the Act makes the special provision for the assessment of the income of insurance business and that is in these terms Notwithstanding anything to the contrary contained in Ss. 8, 9, 10, 12 or 18, the profits and gains of any business of insurance and the tax payable thereon shall be computed in accordance with the rules contained in the Schedule to this Act.	Facts
+Rule 2 in the Schedule lays down in cls.	None
+(a) and (b) two different methods for calculating the profits and gains of a life insurance business and provides that whichever of these two methods results in larger profits being arrived at, has to be adopted.	Facts
+The relevant portion of R. 2 is in these terms Rule 2.	None
+The profits and gains of life insurance business shall be taken to be either(a) the gross external incomings of the preceding year from that business less the management expenses of that year, or(b) the annual average of the surplus arrived at by adjusting the surplus or deficit disclosed by the actuarial valuation made in accordance with the Insurance Act, 1938 (IV of 1938) in respect of the last intervaluation period ending before the year for which the assessment is to be madeso as to exclude from it any surplus or deficit included therein which was made in any earlier intervaluation period and any expenditure other than expenditure which may under the provisions of Section 10 of this Act be allowed for in computing the profits and gains of a business, whichever is the greater.	Facts
+Then follows a proviso which sets out a certain limit for management expenses to be allowed but that is not material for this judgment.	None
+It is not in dispute that the method laid down in cl.	Facts
+(b) would in the present cases produce the larger income and had, therefore, to be followed.	Facts
+The relevant part of R. 3 of the Schedule on which the arguments in these cases turn may now be set out.	Facts
+Rule 3.	None
+In computing the surplus for the purpose of R. 2(a) (b) any amount either written off or reserved in the accounts or through the actuarial valuation balance sheet to meet depreciation of or loss on the realisation of securities or other assets shall be allowed as a deduction and any sums taken credit for in the accounts or actuarial valuation balance sheet on account of appreciation of or gains on the realisation of the securities or other assets shall be included in the surplus Provided that if upon investigation it appears to the Incometax Officer after consultation with the Controller of Insurance that having due regard to the necessity for making reasonable provision for bonuses to participating policyholders and for contingencies, the rate of interest or other factor employed in determining the liability in respect of outstanding policies is materially inconsistent with the valuation of the securities and other assets so as artificially to reduce the surplus, such adjustment shall be made to the allowance for depreciation of, or to the amount to be included in the surplus in respect of appreciation of, such securities and other assets, as shall increase the surplus for the purposes of these rules to a figure which is fair and just.	Facts
+No other rule in the Schedule was referred to at the bar.4.	None
+What had happened was this.	Facts
+The assessee had debited a sum of Rs.	Facts
+18,75,000/ to its Consolidated Revenue Account and credited it to the Investment Reserve Fund.	Facts
+There is no dispute that the assessee had to maintain the Investment Reserve Fund.	Facts
+The transfer had been made because the assessee thought that the securities in respect of which the Investment Reserve Fund had been constituted having depreciated the fund had become inadequate.	Facts
+By this transfer the assessees surplus, on which the tax had to be assessed under R. 2, was reduced.	Facts
+The Incometax Officer thought that this transfer made the balance in the Investment Reserve Fund exceed the deficit disclosed on the book values of the securities in that fund by Rs.	Facts
+30,420/.	Facts
+He also checked up the market value of the securities and came to the conclusion that they had been undervalued in the books by the assessee.	Facts
+In his view, the Investment Reserve Fund was for the aforesaid reasons actually in excess by Rs. 1,89,185/ of the amount which it should have had to its credit.	Facts
+He, therefore, directed that the transfer from the Revenue Account to the Investment Reserve fund be reduced by Rs. 1,75,000/.	Facts
+The assessee appealed to the Appellate Assistant Commissioner and he directed that the transfer to the Investment Reserve Fund be reduced by Rs. 1,45,000/ instead of Rs. 1,75,000/.	Facts
+On a further appeal by the assessee to the Incometax Appellate Tribunal, it was held that the adjustment could only be made under the proviso to R. 3 (b) of the Schedule and that that rule required a prior consultation with the Controller of Insurance, and as that had not been made, the adjustment was wholly illegal.	Facts
+The Tribunal, therefore, ordered that the transfer of Rs.	Facts
+18,75,000/ made by the assessee as aforesaid had to be accepted as a whole.5.	Facts
+The Commissioner then applied to the Tribunal under S. 66(1) to state a case but that having been rejected he moved the High Court of Punjab for an order on the Tribunal to state a case under S. 66(2) of the Act.	Facts
+The High Court made an order on the Tribunal and the latter thereupon stated a case setting out the facts earlier mentioned and referring the following question to the High Court for its decision Whether upon the facts found by the Tribunal, the Incometax Officer had in this case jurisdiction to proceed to make adjustment in terms of R. 3(b) of the Schedule to the Indian Incometax Act.6.	Facts
+The High Court took the view that the matter did not come within R. 3(b) of the Schedule and, therefore, no question of consultation with the Controller of Insurance arose.	Facts
+In the High Courts opinion the Incometax Officer had not been deprived of the authority of correcting errors of the kind that had been detected in these cases and the proviso was not intended to cover those cases where, as in the present, the assessee in order to evade incometax, undervalued his securities.	Facts
+The High Court, therefore, answered the question in the affirmative.	Facts
+The present appeals are against this judgment of the High Court.7.	Facts
+It seems to us that the decision of the High Court is clearly erroneous.	None
+Under R. 2 of the Schedule the Incometax Officer has to compute the profits and gains of a life insurance company at the greater of the two methods of assessments mentioned in cls.	None
+(a) and (b).	None
+There may be no restriction upon his jurisdiction in the computation of profits and gains under cl.	None
+(a) but under cl.	None
+(b) the computation can be made within a limited field.	None
+He has to accept the annual average of the surplus disclosed by the actuarial valuation made in accordance with the Life Insurance Act in respect of the last intervaluation period, so as to exclude therefrom any surplus or deficit included therein which was made in the earlier inter valuation period, and expenditure not allowable under S. 10 in computing the profits.	None
+This is made explicit by R. 3 which makes it obligatory upon the Incometax Officer to make the computation of the surplus for the purpose of R. 2 according to the scheme provided in cls.	None
+(a), (b) and (c) of R. 3.Under R. 2(b) of the Schedule the Incometax Officer has, therefore no power to change the figures in the account of the assessee.	None
+He has to take the surplus as disclosed by the actuarial valuation made by the assessee under the Insurance Act and, then to arrive at the average mentioned in the rule.	None
+He has the power to exclude any surplus or deficit included in the actuarial valuation in respect of an earlier intervaluation period and any expenditure other than an expenditure which may under S. 10 of the Act be allowed.	None
+What the Incometax Officer in the present case did does not come within R. 2(b).	None
+This is not disputed.8.	None
+It is furthermore not in dispute that apart from the provisions in Rule 3 of which only cl.	None
+(b) is relevant for our purpose, there is no other provision in the Schedule which authorises an Incometax Officer to make adjustments in the actuarial valuation made by the assessee.	None
+When we come to R. 3(b) we find that the first part of it lays down that it shall be obligatory on the Incometax Officer to allow certain amounts written off or reserved by the assessee as a deduction and to include in the surplus any sums for which credit has been taken on account of appreciation or gains on the realisation of the securities or other assets.	None
+This part of the rule only compels the Incometax Officer to allow certain amounts as deductions and to include certain amounts for which credit had been taken in the accounts of the assessee.	None
+It, therefore, does not warrant what the Incometax Officer did, namely, to adjust the accounts on the basis of a revaluation made by him.9.	None
+Then we come to the proviso in R. 3 (b).	Reasoning
+It says that if it appears to the Incometax Officer having regard to certain matters to which it is not necessary to refer here in detail, that the rate of interest or other factor employed in determining the liability in respect of outstanding policies is materially inconsistent with the valuation of the securities and other assets so as artificially to reduce the surplus, then he would have the power to make certain adjustments after consultation with the Controller of Insurance.	Reasoning
+Quite clearly the adjustment made in the present case by the Incometax Officer was not of the variety mentioned in the proviso.	Reasoning
+He does not say that he made the adjustment because he found that any rate of interest was inconsistent with the valuation of securities or other assets.	Reasoning
+The adjustment made by him had nothing to do with any rate of interest.	Reasoning
+It was made only because he thought that the securities had been undervalued.	Reasoning
+This he had no power to do under the proviso.	Reasoning
+This again is not in dispute.10.	Reasoning
+The result, therefore, is that we find nothing in the rules justifying the adjustment made by the Incometax Officer in the present cases.	Reasoning
+We have set out the relevant provisions and we think that they do not contemplate any other adjustment of the figures in the accounts of the insurance companies apart from what they expressly provide for.	Reasoning
+We have shown that the present adjustment does not fall within those so expressly provided for.11.	Reasoning
+The only other question is, is there a general right to correct the errors in the accounts of an insurance company when assessing the incometax ?	Issue
+The High Court thought there was.	None
+We are wholly unable to agree with this view.	None
+The assessment of the profits of an insurance business is completely governed by the rules in the Schedule and there is no power to do anything not contained in it.	None
+The reason may be that the accounts of an insurance business are fully controlled by the controller of Insurance under the provisions of the Insurance Act.	None
+They are checked by him.	None
+He has power to see that various provisions of the Insurance Act are complied with by an insurer so that the persons who have insured with it are not made to suffer by mismanagement.	None
+A tampering with the accounts of an insurer by an Incometax Officer may seriously affect the working of insurance companies.	None
+But apart from this consideration, we feel no doubt that the language of S. 10(7) and the Schedule to the Incometax Act makes it perfectly certain that the Incometax Officer could not make the adjustment that he did in these cases.12.	None
+It may be pointed out that the question referred was confined to the powers of the Incometax Officer under R. 3(b) of the Schedule.	Reasoning
+Indeed learned counsel for the assessee did not contend to the contrary.	Reasoning
+The High Court, as may have been noticed, held that the proviso to R. 3(b) was not intended to cover cases like the present.	Reasoning
+It would appear, therefore, that the High Court thought that the Incometax Officer had no power under the rule to make the adjustment.	Reasoning
+It however nonetheless answered the question in the affirmative.	Reasoning
+Obviously what was meant was that the Incometax Officer had the power quite apart from the rule, to make all adjustments to prevent evasion of tax.	Reasoning
+The High Court in fact expressly said that the rule did not deprive the Incometax Officer of the power to do this.	Reasoning
+It is clear that the High Court had travelled beyond the question.	Reasoning
+No objection having been taken at the bar to this procedure, we have dealt with the matter from this point of view also.	Reasoning
+The question framed has to be answered in the negative.13.	None
+We would for this reason allow the appeals with costs.	Decision
+HIDAYATULLAH, J. 14.	None
+I agree but would like to add the following.15.	None
+These are three appeals by certificate granted by the High Court of Punjab under S. 66(A) of the Incometax Act against its judgment dated March 2, 1960.	None
+The appellant is the Life Insurance Corporation (Unit Bharat Insurance Company Ltd.  original appellant).	None
+The appeals relate to assessment years 195253, 195354, and 195455, and the corresponding years of account were the calendar years 1951, 1952 and 1953.	None
+The assessment was made on the original appellant Bharat Insurance Co., Ltd. by the Incometax Officer, Companies Circle, New Delhi under the rules framed for assessment of insurance companies pursuant to S. 10 subs.	None
+(7) of the Incometax Act, on the basis of the annual average of the surplus of the insurance company as found by actuarial valuation in the last intervaluation period of four years ending on December 31, 1951 and accepted by the Controller of Insurance under the Insurance Act, 1938.	None
+In this quadrennium, the Bharat Insurance Co. Ltd. had debited a sum of Rs.	None
+18,75,000/ in the consolidated revenue account from January 1, 1948 to December 31, 1951 and had transferred the same to the investment reserve fund to meet an alleged depreciation in the value of securities.	None
+The Incometax Officer compared the book value and the market value of the stocks and shares and found that that insurance company had undervalued certain shares and securities by Rs. 1,58,756/ in the aggregate, and increased the investment reserve fund by a sum of Rs. 30,420/ which was not required.	None
+The Incometax Officer disallowed Rs. 1,75,000/ from the total amount of Rs. 1,89,186/ and added it to the surplus for calculating tax.	None
+He held at the same time that in his opinion the balance left over provided adequate cover as contemplated by R. 3 (b) of the rules under S. 10(7) of the Insurance Act.	None
+On appeal, the Appellate Assistant Commissioner reduced the figure of Rs. 1,89,186/ to Rs. 1,61,770/.	None
+He also reduced the amount of Rs. 1,75,000/ to Rs. 1,45,000/.	None
+With this modification (among some others) he dismissed the appeal.	None
+Against the order of the Appellate Assistant Commissioner appeals were filed respectively by the Incometax Officer, Companies Circle (1), New Delhi1 and the Bharat Insurance Co. Ltd.	None
+There were thus six appeals in respect of the three assessment years.	None
+The Tribunal held by its order dated October 23, 1956 as follows The Incometax Officer objects to the relief given by the Appellate Assistant Commissioner while the assessee objects to the adjustments which were made by the Incometax Officer in toto.	None
+The proviso to Rule 3(b) of the Schedule appended to S. 10(7) clearly lays down that the Incometax Officer has to consult the Controller of Insurance before he becomes competent to make any adjustments to the actuarial surplus disclosed by the valuation.	None
+In this case no consultation with the Controller of Insurance appears to have been made.	None
+The adjustments made by the Incometax Officer on this account are, therefore, set aside.	None
+The assessments will be modified accordingly.	None
+The Commissioner of Incometax Delhi and Rajasthan then moved the Tribunal for a reference to the High Court suggesting for a decision on the question Whether the proviso to Rule 3(b), Schedule to Indian Incometax Act, 1922 was applicable and whether the Incometax Officer was bound to consult the Controller of Insurance in this case where no question arose about the rate of interest or other factor employed in determining the liability in respect of outstanding policies ?	None
+The Tribunal drew up a consolidated statement of the case for the three assessment years and referred the following question for the decision of the High Court Whether upon the facts found by the Tribunal the Incometax Officer had in this case jurisdiction to proceed to make adjustments in terms of Rule 3(b) of the Schedule to the Indian Incometax Act ?	Facts
+In the High Court, the Commissioner made an application under S. 66(2) of the Incometax Act for an order directing the Tribunal to refer the former question but that application was disposed of along with the reference and the High Court by its order under appeal answered the latter question against the assessee and dismissed the application under S. 66 (2) of the Incometax Act.	None
+Khosla, C. J. and Grover, J. who disposed of the above reference, observed that the question which they were answering comprehended the other question.	None
+The High Court in disposing of the reference held that the Incometax Officer had the jurisdiction to deal with the matter in the manner employed by him and was not obliged to consult the Controller of Insurance before he corrected the valuation of the securities.	None
+It may be mentioned that while the reference was pending in the High Court a Government Administrator took over the insurance company.	None
+Subsequently, the Life Insurance Corporation, by virtue of a notification of the Government of India under S. 45 of the Life Insurance Corporation Act, 1956, took over from July 6, 1960 the assets and liabilities of the insurance company in respect of the controlled business as defined in S. 2(3) of the Corporation Act.	None
+The Corporation, in the circumstances, was substituted as the appellant in place of the insurance company under S. 9 of the Life Insurance Corporation Act.	None
+In these appeals, it is contended that the High Court was in error in the conclusion it reached and the answer to the question should have been in favour of the Life Insurance Corporation and against the Department.16.	None
+Before dealing with this case, a reference in brief to the scheme of the Insurance Act and to the rules framed under S. 10(7) of the Incometax Act for assessment of insurance companies is necessary.	None
+By S. 11 of the Insurance Act, every insurer in India and every foreign insurer in respect of the insurance business transacted by him in India is required to prepare at the expiration of each calendar year with reference to that year (a) a balance sheet, (b) a profit and loss account and (c) a revenue account.	None
+Special forms are prescribed and the schedules to the Act provide by Regulations what should be shown in these accounts.	None
+The balance sheet, profit and loss account, revenue account including accounts which the other provisions require the insurer to prepare, must then be audited by an auditor.	None
+By S. 13 of the Insurance Act, every insurer, carrying on life insurance business, is required, at intervals of not less than 3 years, to cause an actuarial investigation to be made into the financial condition of life insurance business carried on by him, including a valuation of its liabilities in respect of that business.	None
+An abstract of the report of the actuary must then be prepared according to prescribed regulations.	None
+These accounts and the abstract, together with other statements etc. must be submitted to the Controller of Insurance.	None
+The Controller may ask for further information and, if he so desires, take evidence and order a revaluation causing at the same time an investigation to be made.	None
+The Insurance Act further requires that every insurer must invest and at all times keep invested, assets equivalent to the liabilities on matured claims or on the policies in the life business maturing for payment.	None
+Sections 27 and 27A indicate the kinds of investments in which the insurer must invest or keep invested the assets and the controlled fund.17.	None
+The balance sheet of life insurance business must always be prepared as a separate document.	None
+The regulations enjoin that a statement in Form AA showing the market value and the book value of the assets in India must be appended to the balance sheet.	None
+The accounts must be signed and certified and in particular, a certificate must be appended explaining how the values as shown in the balance sheet of the investment of stocks and shares have been arrived at and how the market value thereof has been ascertained for the purpose of comparison with the values so shown.	None
+There has been further to be another certificate that the items in respect of reversions and life interests have been valued as on the date of the balance sheet by an actuary and the assets shown under the heading investments have not been valued at amounts exceeding the realisable or market value.	None
+This precaution is necessary otherwise there may not be adequate cover for the liabilities.	None
+For this purpose, Form AA which has to be annexed to the balance sheet must show a classified summary of the assets on the date of the balance sheet and it must show in particular(a) the value for which credit is taken in the balance sheet for each of the above mentioned classes of assets(b) the market value of such of the above mentioned classes of assets as has been ascertained from published quotations after deduction of accrued interest included in market prices in those cases where accrued interest is included elsewhere in the balancesheet(c) how the value of such of the abovementioned classes of assets as has not been ascertained from published quotations has been arrived at.	None
+The revenue account has to be prepared in four forms of which Form D shows the revenue account applicable to life insurance business in respect of the year and the other three documents are statements of life insurance policies for the same year (Form DD), the additions to and deductions from policies (Form DDD) and particulars of policies forfeited or lapsed in the year (Form DDDD).	None
+The Regulations for the preparation of the abstract of the report of the actuary are to be found in the fourth schedule to the Insurance Act.	None
+This schedule is in two parts.	None
+The second part lays down inter alia that every abstract shall show the average rates of interest yielded by the assets, whether invested or uninvested, constituting the life insurance fund for each of the years covered by the valuation period and Regulation 3 of part I lays down how the average rate of interest yielded in any year by the assets constituting the life insurance fund must be calculated.	None
+This is a complicated calculation which it is unnecessary to describe here.	None
+The abstracts must explain the specific manner in which the said average rate of interest has been calculated.	None
+The consolidated revenue account has to be shown in Form G and a final valuation balance sheet is required to be prepared in Form I which compares the net liability under business as shown in the summary and valuation of the policies on the one hand with the balance of life insurance fund as shown in the balance sheet on the other and this discloses the surplus or the deficiency as the case may be.	None
+As investments depreciate, an investment reserve fund is maintained to which amounts are transferred to make up for the shortfall.	None
+The Insurance company is thus required to maintain an insurance fund sufficient to cover its liabilities in investments and depreciation in the value of the investments must be specially provided for by making other investments which are kept in the investment reserve fund.	None
+We are now in a position to understand the provisions of the Incometax Act which include references to these documents.18.	None
+To begin with, it must be remembered that insurance companies are assessed some what differently from other business organisations.	None
+Normally sections 8, 9, 10 and 12 of the Incometax Act apply to the assessment of business organisations but the rules for assessment contained in those sections do not apply to the assessment of an insurance company.	None
+Section 10 of the Incometax Act deals with the head profits and gains of business etc.	None
+Subsection (7), however, says that notwithstanding to contrary contained in Ss. 8, 9, 10, 12 or 18 the profits and gains of any business of insurance and the tax payable thereon shall be computed in accordance with the rules contained in a schedule to the Act.	None
+These rules provide the mode of computing the profits and gains of life insurance business.	None
+Under R. 2, the profits and gains of life insurance business are taken to be either(a) the gross external incomings of the preceding year from that business less the management expenses of that year, or(b) the annual average of the surplus arrived at by adjusting the surplus or deficit disclosed by the actuarial valuation made in accordance with the Insurance Act, 1938 (IV of 1938), in respect of the last intervaluation period ending before the year for which the assessment is to be made so as to exclude from it any surplus or deficit included therein which was made in any earlier intervaluation period and any expenditure other than expenditure which may under the provisions of section 10 of this Act be allowed for in computing the profits and gains of a business whichever is greater.xx xx	Facts
+xIn this case the second method was applicable.	None
+Rule 3 (in so far as it is relevant for our purpose) then provides as follows(a) xx	None
+xx x(b)	None
+any amount either written off or reserved in the accounts or through the actuarial valuation balance sheet to meet depreciation of or loss on the realisation of securities or other assets shall be allowed as a deduction, and any sums taken credit for in the accounts or actuarial valuation balance sheet on account of appreciation of or gains on the realisation of the securities or other assets shall be included in the surplusProvided that if upon investigation it appears to the Incometax Officer after consultation with the Controller of Insurance thathaving due regard to the necessity to making reasonable provision for bonuses to participating policyholders and for contingencies, the rate of interest or other factor employed in determining the liability in respect of outstanding policies is materially inconsistentwith the valuation of the securities and other assets so as artificially to reduce the surplus, such adjustment shall be made to the allowance for depreciation of, or to the amount to be included in the surplus in respect of appreciation of, such securities and other assets, as shall increase, the surplus for the purposes of these rules to a figure which is fair and just(c) xx	Facts
+xx	None
+xRule 2 shows what shall be taken to be the profits and gains of the insurance company.	None
+Rule 3 shows what changes can be made in the annual average of the surplus.	None
+The purport of Rule 3, in the context of this case, may now be stated in simple language.	None
+It provides in its main part that amounts reserved in the accounts or through the actuarial valuation balance sheet to meet depreciation of securities shall be allowed as a deduction and e converso any sums taken credit for in the accounts or actuarial valuation balancesheets on account of appreciation of securities shall be included in the surplus.	None
+In short, the amount by which the value of securities depreciates is allowed as a deduction from the surplus and the amount of appreciation of securities is included in the surplus.	None
+There is no question here of appreciation and the latter part of the main rule may, therefore, be ignored.	None
+This case is concerned only with the depreciation of the securities in the reserves as shown in the accounts and through the actuarial valuation balance sheets.	None
+If such depreciation in fact takes place, it is open to the insurance company to claim that it be allowed as a deduction from the surplus and it must be allowed.	None
+But by undervaluing the stocks and shares, it is always possible artificially to reduce the surplus by making a part of it go into the reserve to take the place of the amount by which the stocks and shares are alleged to have, but have not in fact, depreciated.	None
+The proviso, which is annexed to the main rule, takes note of the existence of such a possibility and provides that if the Incometax Officer on investigation finds (after consultation with the Controller of Insurance) that the rate of interest or other factor employed in determining the liability in respect of outstanding policies is materially inconsistent with the valuation of the securities and other assets so as artificially to reduce the surplus, he may make such adjustments to the allowance for depreciation as shall increase the surplus to a figure which is fair and just.	None
+The proviso further says that in doing so, the necessity for making reasonable provision for bonuses to participating policyholders and for contingencies must be taken into consideration.	None
+Put in simple language, it means that the Incometax Officer can, after investigation and consultation with the Controller of Insurance, increase the surplus to a figure which is fair and just.	None
+But this action is open to him only if the valuation of the securities and other assets has been artificially manipulated to reduce the surplus by making the rate of interest or other factor employed in determining the liability in respect of outstanding policies inconsistent with the valuation of the securities.	None
+Further, the Incometax Officer, before he makes any change, must pay due attention to the necessity for making reasonable provision for bonuses to participating policyholders and contingencies.19.	None
+The power which is conferred on the Incometax Officer under the proviso clearly has its limitations, and is hedged in by conditions.	None
+In the present case, the Incometax Officer admittedly did not consult the Controller of Insurance.	None
+Nor did he consider the necessity for making reasonable provision for bonuses to participating policyholders and for contingencies.	None
+Nor did he establish that the rate of interest or other factor employed in determining the liability in respect of outstanding policies was materially inconsistent with the valuation of the securities or other assets.	None
+What he did was to find out the market value of stocks and shares and to compare that value with the valuation actually made and on finding that they were undervalued, to add a certain amount to the surplus for tax purposes.	None
+The Appellate Assistant Commissioner differed about that market value of the stocks and shares and reduced the amount which was added but did no more.	None
+The Tribunal, which reversed these orders went merely by the failure of the Incometax Officer to consult the Controller of Insurance.	None
+The two questions (that proposed by the Commissioner and that actually referred) bring into relief respectively the actions of the Incometax Officer and the order of the Tribunal.	None
+The question as answered refers to the Incometax Officers decision while the other was limited to the Tribunals order.	None
+The Department did not seek to place its case under the proviso either before the High Court or before us, perhaps, because the conditions in the proviso (whether they be directory or mandatory), had not been followed at all.	None
+The Department claimed that the matter fell to be governed by the main rule without the assistance of the proviso and this contention appears to have been accepted by the High Court.20.	None
+As has been shown above, Form G is the consolidated revenue account.	None
+The Bharat Insurance Company had, during the quadrennium commencing on January 1, 1948 and ending on December 31, 1951, transferred to the investment reserve fund a sum of Rs.	None
+18,75,000/ and shown it in	None
+Form G.	None
+The balance of life fund thus stood at Rs.	None
+5,45,88, 286110 as against the net liability of Rs. 5,19,42,924	None
+and there was a surplus.	None
+The valuation balancesheet in Form I as on December 31, 1951 thus wasRs.	None
+Rs.	None
+Net liability under business as shown in the summary and Valuation Balance of life Assurance Fund as shown in the balance sheet5,19,42,924 5,45,88,286Surplus 26,45,3625,45,88,286 5,45,88,286The valuation abstract prepared under the fourth schedule showed that the actuary had assumed the rate of interest at 3 per annum and he found that the average rate of interest earned on the mean life fund in each year was as follows Year ending 31st December, 1948 3.5 per cent 1949 3.27 1950 3.27 1951 3.26 The Income tax Officer did not concern himself with the rate of interest employed in determining the liability in respect of outstanding policies.	None
+He considered the valuation of stocks and shares held in the life fund with a view to ascertaining whether the sum of Rs.	None
+18,75,000/ transferred to the investment reserve fund to balance an alleged depreciation in the value of stocks and shares was justified or not.	None
+He examined for this purpose the details of the alleged depreciation amounting to Rs.	None
+22,64,733/ which had been worked out by the assessee company and observed that after the transfer of Rs.	None
+18,75,000/ to the investment reserve fund the balance to the credit of the fund was Rs.	None
+22,95,154/ when it need not have been more than Rs.	None
+22,64,733/ and this showed an excess of Rs.	None
+30,420/.	Facts
+This excess he disallowed.	None
+He then found out the market rate of stocks and shares in the fund and came to the conclusion that some of these were undervalued by a sum of Rs. 1,58,756/.	None
+He held that an excess of Rs. 1,89,186/ was transferred to the investment reserve fund from the surplus.	None
+According to him, the surplus of Rs.	None
+26,45,362/ shown in form I required to be adjusted and he added a lump sum of Rs. 1,75,000/ to the surplus.	None
+In other words, the total depreciation claimed under Rule 3(b) as an allowance was not accepted.	None
+The sum of Rs. 1,75,000/ was reduced by the Appellate Assistant Commissioner to Rs. 1,45,000/	None
+and it was altogether cancelled by the Incometax Appellate Tribunal.21.	None
+The learned Judges of the High Court in dealing with this matter observed that the excess of Rs.	None
+30,420/ was not an actual depreciation and no provision need have been made in the reserve fund for this sum.	None
+They also held that the Incometax Officer had rightly held that some of the stocks and shares had been deliberately undervalued.	None
+They accepted the proposition that the making of an adjustment in the surplus on a finding that the rate of interest or other factor employed in determining the liability in respect of outstanding policies and other assets was materially inconsistent with the valuation of the securities and other assets, and the making of adequate provision for bonuses to participating policy holders and contingencies was a matter for a specialist and that the Incometax Officer, if he made an adjustment, should procure the advice of the Controller of Insurance before making any change on the basis of his own knowledge.	None
+But they held that the proper valuation of the securities did not require a specialist and that any person could get market quotations and find out the value of the securities.	None
+According to the learned Judges, although the proviso enjoined upon the Incometax Officer the duty to consult the Controller of Insurance and also to make adjustments in a particular way, the main rule allowed the Incometax Officer to fix the amounts of permissible deductions on the basis of a correct valuation of the securities and the Incometax Officers jurisdiction in this respect was not in any way controlled.	None
+According to them, the fixing of the correct value of the assets was not the sort of adjustment which was contemplated by the proviso therefore, neither was prior consultation necessary nor were the conditions precedent as laid down in the proviso applicable.	None
+They referred to the decision of the Bombay High Court in Western India Life Insurance Co. Ltd In re, 19386 ITR 44 (AIR 1938 Bom 345 ) and observed that such action was held permissible under Rule 30 of the superseded rules which they held was in pari materia with the main Rule 3(b), and to the decision in Commissioner of Incometax, Bombay, Sind and Baluchistan v. Indian Life Assurance Co. Ltd. 194614 ITR 347 (AIR 1946 Sind 25) in which the dictum of the High Court was applied by the Sind Chief Court.	None
+They concludedIt is therefore, clear that the proviso does not apply to a case where the Incometax Officer has to see whether the securities have been correctly valued or not.	None
+He must satisfy himself without any reference to the Controller of Insurance that the securities which are being transferred to the reserve fund are no more than necessary to meet depreciation or loss that has actually been suffered, and to determine this he must have the correct valuation of the securities.	None
+In the result, they held that the Incometax Officer had full jurisdiction to deal with the matter in the manner employed by him.22.	None
+Mr. Setalvad on behalf of the Life Insurance Corporation pointed out that the actuarial valuation balancesheet in Form I had determined the surplus by deducting from the Life Insurance fund as on the valuation date the net liability under the life insurance business.	Arguments of Petitioner
+He pointed out that in working out this liability the actuary had assumed the rate of interest at 3 per cent per annum and to arrive at this figure, he had taken into consideration the average interest yield for the four years covered by the valuation.	Arguments of Petitioner
+The interest yield thus was obtained by properly following the procedure laid down by Regulation 3 of Part 1 of the fourth schedule to the Insurance Act.	Arguments of Petitioner
+He contended that if the interest yield were found to be lower by reason of the reduction of the amount of depreciation, the liability for the policies, as calculated in the accounts, would be disturbed and the liability would increase.	Arguments of Petitioner
+He pointed out that Rule 30 of the previous rules was amended by the addition of a proviso in the new Rule 3(b) to make it incumbent that an adjustment in respect of depreciation of securities in the actuarial balance sheet should only be made after complying with certain conditions.	Arguments of Petitioner
+He contended that action could only be taken under the proviso and in accordance with its strict terms.	Arguments of Petitioner
+He submitted that by merely reducing the amounts transferred to the investment reserve fund the Incometax Officer could not increase the surplus, for in doing so, he reduced the cover and thus seriously disturbed the provision for liability under the policies and the provision for bonuses to participating policyholders and contingencies, and that such action of the Incometax Officer was without jurisdiction.23.	Arguments of Petitioner
+On behalf of the Department, Mr. Gopal Singh contended that there was a general power in the Incometax Officer derived from the main Rule 3(b) and independent of the proviso to make such an adjustment.	Arguments of Respondent
+Mr. Gopal Singh did not rely upon the proviso and contended that the Incometax Officer could find out from the market quotations the value of stocks and shares and if he found a disparity, he could make adjustments by refusing to allow the deduction which was claimed under Rule 3(b).	Arguments of Respondent
+According to him, it was not necessary to go to the proviso at all and in any event, consultation with the Controller of Insurance was not absolutely necessary and what he did was within his jurisdiction.	Arguments of Respondent
+He submitted that the Incometax Officer had jurisdiction to decide what was just and proper and had done so under his general power flowing from the main Rule 3(b) without the aid of the proviso.24.	Arguments of Respondent
+It is clear that the Incometax Act contemplates that the assessment of insurance companies should be carried out not according to the ordinary principles applicable to business concerns as laid down in S. 10, but in quite a different manner.	None
+Insurance companies do not compute their profits in the ordinary way because premiums cover risks which run into future years and loss includes losses from previous years.	None
+The method prescribed ensures that by taking the average of several years a fair and reasonable conclusion is reached.	None
+Actuarial estimation plays an important part and surplus only results when there is an excess of the fund over the liability after all other charges are met.	None
+The rules which have been quoted lay down two different methods of ascertaining profits.	None
+Rule 2(a) merely compares the gross external incomings of the preceding year with the management expenses.	None
+Rule 2(b) contemplates the annual average of the surplus of deficit disclosed by actuarial valuation.25.	None
+In the present case the first limb of Rule 2 did not apply.	None
+So the annual average of the surplus found by the actuary had to be taken and from it the surplus of the last intervaluation period had to be deducted as also expenditure allowable under S. 10 of the Incometax Act.	None
+This is the basic calculation and they were followed.	None
+Certain special limitations indicated in the proviso to Rule 2 and Rule 3(a) are not relevant for the present case.	None
+Under the main part of Rule 3(b) certain special deductions and additions must be made to the annual average of the surplus determined under the second rule.	None
+Since the life fund is held in securities and the price of stocks and shares fluctuates, provision has been made in Rule 3(b) to make adjustments.	None
+Rule 3(b) in its main part speaks of adjustments on the basis of the accounts and amounts as entered in the accounts determine what must be added to or deducted from the surplus.	None
+The Incometax Officer must deduct from the annual average of the surplus for purposes of Rule 2 any amount entered in the account to cover depreciation of the securities and assets and add any amount taken credit for on account of appreciation.	None
+The Incometax Officer here follows the accounts and gives effect to the entries such as they are.	None
+The provision is mandatory and the Incometax Officer has no discretion.26.	None
+If the Incometax Officer doubts the accounts, his powers are defined by the proviso.	None
+Rule 3(b) which allows the Incometax Officer to deduct from or add to the surplus amounts shown in the accounts for depreciation and appreciation of securities as the case may be, does not confer on him a power to disturb the annual average of the surplus at his sweet will.	None
+No doubt, the perception of discrepancy between what is entered in the accounts and what is fact, is not something which is or can be made the subject of rules.	None
+Rules can only provide how the Incometax Officer must proceed in the matter if he finds an inaccuracy.	None
+The entire subject of such disparity between fact and actual entries is comprehended in the proviso.	None
+If the Incometax Officer accepts the accounts he must reduce or increase the surplus by the amounts actually shown for depreciation or appreciation in the accounts.	None
+His powers under the main rule end there.	None
+If he discovers a discrepancy (not de minimis) he must proceed under the proviso.	None
+The proviso requires him to consult the Controller of Insurance and to bear in mind that reasonable provision has to be made for bonuses to participating policyholders and for contingencies, and he can act only where the rate of interest or other factor employed in determining the liability under the policies is materially inconsistent with the valuation of securities and this results in the artificial reduction of the surplus.	None
+It is clear that the proviso negatives the existence of a separate general power.	None
+Action has to be taken in the manner laid down in the proviso or not at all.27.	None
+In the present case, the Incometax Officer did not follow the proviso at all.	None
+The Department did not rely upon the proviso in the High Court and even before us did not seek to justify the action of the Incometax Officer with reference to the proviso.	None
+No doubt, an attempt was made before us to limit the generality of the question debated in the High Court to the specific point decided by the Tribunal and outlined in the question suggested by the assessee.	None
+But the gist of the matter is the same whichever way one looks at it.	None
+The adjustment of the surplus in the matter of the appreciation and depreciation of securities not on the basis of the accounts but on the basis of the Incometax Officers discretion can only be done in the manner laid down in the proviso.	None
+Such power is not available under the main rule which merely allows book entries to be worked into the surplus.28.	None
+I find it impossible to endorse the view of the High Court that the Incometax Officer had any general power to make adjustments independently of the proviso.	None
+If he detected any discrepancy he had to proceed under the proviso.	None
+To hold otherwise would make the proviso entirely redundant, and it is quite clear that such could not be the intention.	None
+Cases under the former Rule 30 cannot be used as precedents because the present Rule 3(b) has been materially altered by the addition of the proviso.	None
+Formerly the rule tried to serve both the objects by using the word may but the word may which gave a discretion to the Incometax Officer could lead to arbitrary actions and the rule is now in two parts the main rule leaving no discretion and the proviso conferring a power subject to certain conditions.29.	None
+In the result, I disagree with the High Court in the answer which it gave to the question.	None
+The proper answer was in the negative.	None
+I agree therefore, that the appeals be allowed with costs on the respondent here and in the High Court.30.	None
+Appeals allowed.	None

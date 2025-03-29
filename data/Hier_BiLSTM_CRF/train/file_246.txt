@@ -1,0 +1,970 @@
+ M. JOSEPH, J. The appellant is the second accused in criminal complaint filed by the first respondent (hereinafter referred to as complainant, for short).	Issue
+The appellant filed a Petition under Section 482	Issue
+The Code of Criminal Procedure, 1973 (hereinafter referred to as the Cr.PC, for short), seeking to quash the order passed by the Magistrate summoning the appellant pursuant to the complaint which seeks to invoke Sections 120B, 500 and 501 read with Section 34 of the Indian Penal Code, 1860 (hereinafter referred to as the IPC, for short).	Issue
+THE COMPLAINT	None
+The complainant is a public limited company engaged in the business of manufacturing and selling asbestos cement sheets with seven manufacturing plants and more than twentyfive marketing offices all over India.	Facts
+It is further, inter alia, stated that the product is manufactured in all its plants in an environment friendly manner.	Facts
+The first accused is alleged to be the Coordinator of Ban Asbestos India, a group hosted by the appellant.	Facts
+Articles are regularly published in the said group.	Facts
+On 21.11.2008, an article was published.	Facts
+It was captioned Poisoning the system Hindustan Times.	Facts
+The complaint targeted renowned politicians of the country who were named and who had nothing to do with the ownership and management of the company.	Facts
+Complainant pleads shock on seeing the article dated 31.07.2008 captioned Visaka Asbestos Industries making gains.	Facts
+It is stated that asbestos cement sheets have been manufactured for more than 70 years in India.	Facts
+First accused singled out the complainant though there are other groups manufacturing asbestos cement products.	Facts
+The relevant part, which is pertinent to the appellant is contained in paragraph11 Complainant most humbly and respectfully submits that the Accused No.1s statement in the articles in the above mentioned group hosted by the Accused No.2 is filled with hatred towards Complainant which is defamatory in nature, and which a person of ordinary intelligence in society would believe the said statements.	Facts
+Indeed the said statement injured the reputation of Complainant.	Facts
+The act of the accused in posting certain defamatory articles in the cyber space, which is visited by innumerable internet surfers which has vide usage all over the world in whos mind the complainant company is being caused with such defamatory false statements.	Facts
+The service provider like Accused No.2 has made it easier than ever before to disseminate defamatory statements to the world wide audience without taking any due care and diligence to prevent it.	Facts
+The Accused No.2 has abused the services provided by it, because both the articles in the group hosted by it was targeted towards a particular company which is well within the knowledge of the Accused No.2.	Facts
+(Emphasis supplied) Cause of action is mentioned at paragraph15 and it reads as follows CAUSE OF ACTION Cause of Action for the complainant arose on 31 st July, 2008, when an article Visaka Asbestos Industries making gains was disseminated by accused no.1 in Ban asbestos India group hosted by accused no.2 and 21 st November 2008 when the second article Poisoning the system Hindustan Times was disseminated by the accused no.1 in Bank Asbestos India group hosted by accused no.2 and on 10.12.2008 when the notice to withdraw such articles was issued by the Complainant and on subsequent dates.	Facts
+Jurisdiction is indicated in paragraph16 of the complaint and it read as follows JURISDICTION	Facts
+The Corporate Office of the Complainant is situated at Visaka Towers, 18303/69/3, S.P. Road, Secunderabad.	Facts
+Since the Corporate Office of the Complainant Company is situated within the limits of P.S. Ramgopalpet, this Honble Court has got jurisdiction to try this complaint.	Facts
+Deputy Manager (Legal) of the complainant made his statement.	Facts
+Thereafter, the appellant came to be summoned.	Facts
+The summoning order read as follows SUMMONS TO AN ACCUSED PERSON (Sec.81 Cr.P.C.)	None
+1363	None
+In the Court of the XI A.C.M. Magistrate at Secunderabad c.c. No. 679/2009 Between M s. Visaka Industries Complainant AND Mr. Gopal Krishna others Accused To, M s. Google India Pvt. Ltd., 3 rd Floor, Prestige Sigma, No.3, Vittal Mallya Road, Bangalore 560001.	None
+Whereas your attendance is necessary answer to Charge of U s.500, 501 of I.P.C. r w 34	None
+you are hereby directed to appear in person or by pleader before the Honble XI A.C.M.M. Court on the day 09.09.2009 10.30 A.M.	Facts
+Dated this day Seal Sd  Magistrate	None
+It is the said order which came to be challenged before the High Court.	Facts
+By the impugned judgment, the High Court has dismissed the petition.	Facts
+FINDINGS OF THE HIGH COURT Section 79 of The Information Technology Act, 2000 (hereinafter referred to as the Act, for short), which appears to have been relied on by the appellant was found to not exempt a network service provider from liability much less criminal liability for the offences under other laws or, more particularly, under the IPC.	Facts
+It was further found that the above provision exempted Network Service Provider from liability only on proving that the offence or contravention was committed without its knowledge or that he had exercised all due diligence to prevent the commission of such offence or contravention.	Facts
+Proof, in that regard, can be let in by leading evidence by the accused.	Facts
+This is a question of fact which the High Court may not go into in the petition under Section 482 of the Cr.PC	Facts
+The Court later notices the amended Section 79 of the Act which came into being with effect from 27.10.2009.	Facts
+It was noted that it is only under the said amendment that a non obstante clause was incorporated keeping the application of other laws outside the purview in a fact situation covered by the said provision.	Facts
+Under the amended Section 79, in case the intermediary enters into any conspiracy, the exemption under Section 79 of the Act could not be claimed.	Facts
+So also, the intermediary could not claim exemption in case he fails to expeditiously remove or disable access to the objectionable material or unlawful activity, even after receiving actual knowledge thereof.	Facts
+The appellant, it was found, did not move its little finger to block the material or to stop dissemination of the unlawful and objectionable material in spite of the complainant issuing notice about the dissemination of defamatory material and unlawful activity on the part of the first accused.	Facts
+Therefore, it was found that the appellant could not claim any exemption under Section 79 of the Act, prior to its substitution, or Section 79 of the Act, after its substitution, which took effect from 27.10.2009.	Facts
+The complaint was instituted in January, 2009.	Facts
+It related to an offence which was being perpetuated from 31.07.2008 onwards, i.e., since long before prior to the amendment of the said provision.	Facts
+It was finally found that there was no exemption of any criminal law in respect of a company which is a juristic person and which has no body that can be damned or condemned, in case found guilty.	Facts
+Appellant can be awarded with appropriate punishment though not corporal punishment.	Facts
+Finding no merit, the petition was dismissed.	Facts
+We heard Shri Sajan Poovayya, learned senior counsel appearing on behalf of the appellant, Shri Sridhar Potaraju the learned Counsel for the complainant first respondentM s. Visakha Industries and Ms. Madhavi Divan, learned Additional Solicitor General appearing on behalf of the respondents.	None
+Shri Sajan Poovayya would contend that services on google groups is not provided by the appellant.	Arguments of Petitioner
+In other words, the basis of the complainant that appellant is the intermediary, is completely erroneous.	Arguments of Petitioner
+The legal notice sent by the complainant, did not make reference to any specific URL.	Arguments of Petitioner
+The expansion of URL is Unique Reference Locator which is the address of the content on web to identify or locate the objectionable post.	Arguments of Petitioner
+Therefore, the notice was invalid.	Arguments of Petitioner
+The appellant, however, as a gesture, made over the said notice dated 09.12.2008 to its parent entity, i.e., Google Inc. presently Google LLC.	Arguments of Petitioner
+It is Google LLC which owns the Google Group platforms.	Arguments of Petitioner
+Google LLC replied to the legal notice and requested the complainant to provide specific URLs.	Arguments of Petitioner
+It is without responding to the same that the complaint came to be filed.	Arguments of Petitioner
+It is contended that the complaint proceeds on a mistaken premise that the appellant hosts and provides services on Google Groups.	Arguments of Petitioner
+A further fallacious basis is that the intermediary and hosting service provider is expected to monitor and precensor publication of content on its platform.	Arguments of Petitioner
+Error is alleged to underlie the assumption that hosting of services involves the fact that the intermediary host has knowledge of the content posted on a hosting platform.	Arguments of Petitioner
+An independent publication by an author of any content by itself again demonstrates absence of any connivance between the author and the intermediary host.	Arguments of Petitioner
+There is no case for the complainant that the appellant is the author or publisher of the allegedly defamatory articles.	Arguments of Petitioner
+On the other hand, the complaint itself proceeds on the basis that it is the first accused who is the author of the articles.	Arguments of Petitioner
+13.	Arguments of Petitioner
+The appellant lay store by the parallel civil proceedings between the parties.	Arguments of Petitioner
+Following the legal notice issue to the appellant and to Google LLC on 21.01.2009, a civil suit was instituted against the first accused, Google LLC and the appellant.	Arguments of Petitioner
+14.	Arguments of Petitioner
+The suit filed by the complainant came to be dismissed by judgment dated 17.02.2014.	Arguments of Petitioner
+The complainant succeeded in the first appeal and the court decreed the suit on 29.01.2016.	Arguments of Petitioner
+The appellants preferred a second appeal.	Arguments of Petitioner
+The appeal came to be allowed by the High Court on 18.01.2016 by which the suit came to be dismissed against the appellant which was the second defendant.	Arguments of Petitioner
+It is pointed out that the appellant has filed a review confined in nature against the same.	Arguments of Petitioner
+The complainant has also filed a review.	Arguments of Petitioner
+15.	Arguments of Petitioner
+Google LLC is a company incorporated under the laws of United States of America.	Arguments of Petitioner
+Google LLC owns and operates the Google Groups Platforms.	Arguments of Petitioner
+The appellant is the subsidiary of the Google LLC Group.	Arguments of Petitioner
+Appellant has its own separate legal identity.	Arguments of Petitioner
+The High Court has ignored that control over the Google Group platform was of Google LLC.	Arguments of Petitioner
+16.	Arguments of Petitioner
+The learned senior counsel for the appellant drew our attention to the primary terms upon which service is rendered by Google LLC.	Arguments of Petitioner
+An agreement is contemplated between a user and Google LLC.	Arguments of Petitioner
+Appellant is a company registered under the Indian Companies Act having its office at Bangalore.	Arguments of Petitioner
+Appellant is appointed as a non exclusive reseller of Google LLC Ads program in India on a principal to principal basis.	Arguments of Petitioner
+The appellant is engaged in business development and promotional activity for certain limited products and does not play any role in providing or administering services as regards Google Groups.	Arguments of Petitioner
+It is contended that appellant is not an agent of Google LLC and it enjoys autonomy in its functions.	Arguments of Petitioner
+17.	Arguments of Petitioner
+The terms of service regarding Google Groups clearly indicate that the services are provided by Google LLC and not by the appellant.	Arguments of Petitioner
+It is contended that publicly available documents of an unimpeachable character or any incontrovertible evidence may be considered by the High Court in deciding a matter under Section 482 of the Cr	Arguments of Petitioner
+.PC	Arguments of Petitioner
+The Google Groups terms of service is pressed as one such document.	Arguments of Petitioner
+Reliance is placed on decisions of this Court including Rajiv Thapar and others v. Madan Lal Kapoor (2013) 3 SCC 330 and HMT Watches Limited v. M.A. Abida and another (2015) 11 SCC 776 .	Arguments of Petitioner
+Such judicial notice has been taken in the civil proceedings, it is pointed out.	Arguments of Petitioner
+18.	Arguments of Petitioner
+Next, it contended that the ingredients of the offence of defamation under Section 499 of the IPC have not been made out.	Arguments of Petitioner
+The first ingredient being publication of an imputation has not been satisfied qua the appellant but only as against the first accused.	Arguments of Petitioner
+An intermediary is neither a publisher of thirdparty content nor does it have knowledge of any content unless it is notified through an order of an appropriate court or a Government agency.	Arguments of Petitioner
+No provision of the Act has been invoked.	Arguments of Petitioner
+Relying on Sharat Babu Digumarti v. Government (NCT of Delhi) (2017) 2 SCC 18 and Shreya Singhal v. Union of India (2015) 5 SCC 1 , it is sought to be contended that since no provisions of the Act are invoked, the complaint is vitiated.	Arguments of Petitioner
+It is still further contended that there is no complaint against the actual intermediary, viz., Google LLC.	Arguments of Petitioner
+It is further contended that in the context of digital platform, where millions of posts are made, no editorial control of any sort is exercised by an intermediary in the publication of any content on such platforms.	Arguments of Petitioner
+19.	Arguments of Petitioner
+It is contended that mere hosting of content would be insufficient to attribute knowledge, and if does not amount to publication of content.	Arguments of Petitioner
+Appellant cannot be attributed with actual knowledge to ascribe a mental element.	Arguments of Petitioner
+The role is passive.	Arguments of Petitioner
+The author originates the material and the author is the originator and not the intermediary.	Arguments of Petitioner
+The person who accesses or reads the content again is not an intermediary but the addressee.	Arguments of Petitioner
+Unless the content is brought to the actual knowledge of the intermediary, taking down the material, cannot be imposed upon the intermediary.	Arguments of Petitioner
+Actual knowledge must be that which is conveyed through a court order or through an appropriate Government agency.	Arguments of Petitioner
+The intermediary cannot become a private censor or arbiter of content.	Arguments of Petitioner
+The appellant seeks to emphasise upon the adverse impact it would have on freedom of Online Speech and Expression guaranteed under Article 19(1)(A) of the Constitution of India.	Arguments of Petitioner
+20.	Arguments of Petitioner
+The appellant also makes the point that the mandatory inquiry under Section 202 of the Cr.PC has not been made.	Arguments of Petitioner
+The appellant stood arrayed as an accused denoting its office at Hyderabad, Bengaluru and Gurugram whereas the ACJM, whose territorial jurisdiction is limited to Secunderabad, is the court where the complaint was filed.	Arguments of Petitioner
+Section 202 of the Cr.PC, has been observed, in its breach by the Magistrate.	Arguments of Petitioner
+The decision in Abhijit Pawar v. Hemant Madhukar Nimbalkar and another (2017) 3 SCC 528 , has been enlisted in support in this regard.	Arguments of Petitioner
+21.	Arguments of Petitioner
+A subsidiary does not become liable for the acts of its parent company, is another contention.	Arguments of Petitioner
+It is also contended that a person cannot be compelled to perform an impossible act.	Arguments of Petitioner
+CONTENTIONS OF THE COMPLAINANT It is not open to the appellants to have invoked powers under Section 482 of the Cr.PC.	Arguments of Respondent
+The matter involves investigation of allegations relating to facts.	Arguments of Respondent
+It is pointed out as to whether the appellant is hosting the google group wherein the first accused has published defamatory articles is a question of fact.	Arguments of Respondent
+The question as to whether the appellant is or not an intermediary, is a question of fact.	Arguments of Respondent
+As to whether the appellant and Google LLC are managed by different entities or the same entity, is another question of fact.	Arguments of Respondent
+The respondent would dispute the contention that the documents produced by the appellant are of an unimpeachable character.	Arguments of Respondent
+The documents are sought to be relied on without complying with the mandate of Section 65B of The Indian Evidence Act, 1872.	Arguments of Respondent
+Reliance in this regard Anvar P.V. v. P.K. Basheer and others (2014) 10 SCC 473 .	Arguments of Respondent
+It is further submitted that the Magistrate has a judicial discretion upon examining the complainant to proceed without recourse to the procedure under Section 202 of Cr.PC.	Arguments of Respondent
+There is no pleading of any prejudice by the appellant nor proof adduced about the same.	Arguments of Respondent
+Regarding this, reliance is placed on judgment of this Court in Shivjee Singh v. Nagendra Tiwari and others (2010) 7 SCC 578 .	Arguments of Respondent
+Google hosts the Google Groups.	Arguments of Respondent
+The only question of fact is whether the appellant is in control of the said Group or it is, as claimed, controlled by its Parent Company.	Arguments of Respondent
+Hence, the issue is limited as to the role of appellant and its participation in the business of providing Google Groups platform and raising revenues for the same through advertisements, etc. apart from marketing it.	Arguments of Respondent
+The appellant, it is contended, cannot be allowed to disown its role in Google Groups.	Arguments of Respondent
+The appellant has withheld the actual nature of the activities it is carrying on in India.	Arguments of Respondent
+A party must come to court with clean hands.	Arguments of Respondent
+The Memorandum of Association itself, prima facie, shows that their main objects include providing internet related projects and or services and applications.	Arguments of Respondent
+There is a common economic entity wherein the users are provided digital space purportedly free but are made to part with their personal data as consideration.	Arguments of Respondent
+The said data is used for generating advertisement revenues which are targeted as user profile and geographical location.	Arguments of Respondent
+The role of appellant is a question of fact.	Arguments of Respondent
+Once it is put on notice, Google cannot be heard to say that it is not aware of the content.	Arguments of Respondent
+If it chooses to perpetuate the content as publisher of defamatory content, consequences under law must follow.	Arguments of Respondent
+Appellant plays a very active role in controlling advertisement.	Arguments of Respondent
+Google is an active publisher as it provides various tools to users for enabling them to create content online.	Arguments of Respondent
+STAND OF THE GOVERNMENT OF INDIA Internet is an important means of expression and communication.	None
+Internet offers information on a mindboggling variety of subjects.	Arguments of Respondent
+Right to Information is part of Article 19(1)(A) of the Constitution of India.	Arguments of Respondent
+Internet has come to be recognised as a genuinely democratic medium.	Arguments of Respondent
+Communication takes place at virtually no cost.	Arguments of Respondent
+Internet also is a market place for commodities and services.	Arguments of Respondent
+The United Nations Human Rights Council passed a nonbinding Resolution in June, 2016 recognizing internet as a basic Human Right.	Arguments of Respondent
+It is pointed out that Finland became the first country in 2010 which made broadband a legal right for every citizen.	Arguments of Respondent
+There is distinction between publication on the internet and publication in the print media.	Arguments of Respondent
+Reference was made to the judgment of this Court in Shreya Singhal v. Union of India (2015) 5 SCC 1 , which has recognised this distinction.	Arguments of Respondent
+It is contended that there are infinite challenges that internet poses.	Arguments of Respondent
+The high speed and the high volumes render precensorship highly difficult.	Arguments of Respondent
+There is automatic uploading without any application of mind on the part of the website platform.	Arguments of Respondent
+In the year 2015, there were 3.5 billion people in the world who accessed the internet.	Arguments of Respondent
+On Facebook, there were three million photographs updated per day.	Arguments of Respondent
+In every minute, 510 comments and 293000 statuses are posted.	Arguments of Respondent
+In 2013, there were 200 billion tweets on Twitter.	Arguments of Respondent
+In the traditional television programmes, films and newspapers, the content is pushed to the viewer or the reader.	Arguments of Respondent
+The choice of the reader or the viewer is limited to viewing the content or reading the same.	Arguments of Respondent
+Internet, it is pointed out, works on the pull principle where it is the viewer who has complete control and he exercises his choice as to what content he would wish to view or read.	Arguments of Respondent
+The internet uses public spectrum and airwaves to transmit signal.	Arguments of Respondent
+In Secretary, Ministry of Information and Broadcasting, Government of India and others v. Cricket Association of Bengal and others (1995) 2 SCC 161 , this Court took the view that the right of the listeners and the viewers and not the broadcasters, is paramount.	Arguments of Respondent
+Airwaves and frequencies are public property.	Arguments of Respondent
+Monopoly by either Government or anyone else would not square with the free speech interest of citizens.	Arguments of Respondent
+The distinction between the preamendment and the afteramendment versions of Section 79 of the Act is highlighted.	Arguments of Respondent
+It is contended that the very definition of intermediary would reveal that it is not an editor or a publisher as understood in the context of the print media.	Arguments of Respondent
+What flows from the definition points to the role being that of a facilitator or conduit rather than a selector or editor of information.	Arguments of Respondent
+Light is sought to be sourced from the views of this Court in the decision in Gambhirsinh R. Dekare v. Falgunbhai Chimabhai Patel and another (2013) 3 SCC 697 Therefore, from the scheme of the Act it is evident that it is the Editor who controls the selection of the matter that is published in a newspaper.	Arguments of Respondent
+Further, every copy of the newspaper is required to contain the names of the owner and the Editor and once the name of the Editor is shown, he shall be held responsible in any civil and criminal proceeding.	Arguments of Respondent
+Further, in view of the interpretation clause, the presumption would be that he was the person who controlled the selection of the matter that was published in the newspaper.	Arguments of Respondent
+However, we hasten to add that this presumption under Section 7 of the Act is a rebuttable presumption and it would be deemed a sufficient evidence unless the contrary is proved.	Arguments of Respondent
+The view which we have taken finds support from the judgment of this Court in K.M. Mathew v. K.A. Abraham (2002) 6 SCC 670 2002 SCC (Cri) 1480 , in which it has been held as follows (SCC p. 676, para 20)	Arguments of Respondent
+The provisions contained in the Act clearly go to show that there could be a presumption against the Editor whose name is printed in the newspaper to the effect that he is the Editor of such publication and that he is responsible for selecting the matter for publication.	Arguments of Respondent
+Though, a similar presumption cannot be drawn against the Chief Editor, Resident Editor or Managing Editor, nevertheless, the complainant can still allege and prove that they had knowledge and they were responsible for the publication of the defamatory news item.	Arguments of Respondent
+Even the presumption under Section 7 is a rebuttable presumption and the same could be proved otherwise.	Arguments of Respondent
+That by itself indicates that somebody other than editor can also be held responsible for selecting the matter for publication in a newspaper.	Arguments of Respondent
+The aforesaid discussion was in the context of an editor under the Press and Registration of Books Act, 1867.	Arguments of Respondent
+Still further, reference is made about the role attributable to the service provider of internet platforms and that of an originator in the judgment of this Court in Sharat Babu Digumarti v. Government N.C.T. of Delhi (2017) 2 SCC 18 in Criminal Appeal No. 1222 of 2016.	Arguments of Respondent
+Internet is a free platform.	Arguments of Respondent
+This is on account of free open democratic nature of the internet.	Arguments of Respondent
+It is contended that there will be a chilling effect on free speech if one were to allow intermediaries to intervene merely on complaints by individuals about being defamed or being at the receiving end of the unfair reporting.	Arguments of Respondent
+If permitted, such intervention would result in privatisation of censorship which would be hazardous for free expression of ideas.	Arguments of Respondent
+Regarding the extent of the liability of an intermediary, it is contended that after the amendment in 2008, intermediarys role as a mere facilitator of exchanging information or sales, is recognised.	Arguments of Respondent
+According to Government of India, the preamendment situation is exemplified by the subject matter of the decision of the Delhi High Court in Avnish Bajaj v. State (N.C.T. of Delhi) 116 (2005)	Arguments of Respondent
+DLT 427 .	None
+Anybody aggrieved by the posting of any defamatory matter on the internet can make a takedown reference under Section 79 of the Act.	Arguments of Respondent
+Section 69A of the Act is relied on.	Arguments of Respondent
+Section 69A gives power to the Central Government to block access by giving directions to any intermediary on being satisfied of there being need to do so in the interest of sovereignty among other factors.	Arguments of Respondent
+The matter is governed under the Information Technology (Procedures and Safeguards for Blocking for Access of Information by Public) Rules, 2009.	Arguments of Respondent
+As far as the stand of the Union regarding the liability of the subsidiary of a foreign intermediary is concerned, reliance is placed on the decision of the Court of Justice of the European Union (ECJ).	Arguments of Respondent
+The case of In Google Spain SL, Google Inc. v. Agencia Espanola de Proteccion de Datos (AEPD), Mario Costeja Gonzalez ECLIEUC2014317, Case C131/12, Court of Justice of European Union (ECJ), is important in this regard.	None
+In Google Spain, the ECJ recognized an individuals right to be forgotten, enabling a person to obtain removal of search results which violated his her privacy interests.	None
+The case has geographical implications first, would such removal of content be restricted to an EUaudience, and two, does the EU court have the authority to direct foreign intermediaries to takedown content.	None
+The Court embraced the arguments put forth by Googles opponents That Googles search engine activities are closely related to the activity of selling advertising space, which is precisely what subsidiaries such as Googles establishment in Spain are engaged.	None
+As a result, the processing activities related to the search engine service are also being carried out in the context of the activities of Googles Spanish subsidiary.	None
+The counsels for the plaintiff, Spain and Austria, likewise emphasised the link between the search engine service and the selling of advertising space from a business model perspective arguing that the activity of Googles establishment in Spain should not be regarded as an ancillary activity, but rather as an integral part of the primary activity (i.e. the selling of advertisement space)(paragraphs 46 to 52).	None
+The ECJ therefore considered that the activities of the search engine operator and those of its establishment are inextricably linked, as Googles search engine service is closely related to the activity of selling advertisement space (paragraph 56).	None
+Specifically, the Court reasoned that, the activities relating to the advertising space constitute the means of rendering the search engine at issue economically profitable and engine is, at the same time, the means enabling those activities to be performed.	None
+(paragraph 56).	None
+The Court in paragraphs 53 and 54 noted that, the EUs Data Protection Directive 95/46 sought to prevent individuals from being deprived of the protection guaranteed by the directive and that protection from being circumvented, by prescribing a particularly broad territorial scope.	None
+Based on these observations, the ECJ concluded that the processing relating to the search engine service should be viewed as taking place in the context of the activities of an establishment located on EU territory (see paragraphs 53, 54).	None
+This case recognizes that the domestic subsidiary responsible for advertising and attracting a user base could be held liable for the acts of the parent.	None
+Our attention is also drawn to the decision in Richardson v. Facebook (2015) EWHC 3154 (QB) .	Arguments of Respondent
+It is contended that however given that the foreign body may not have Indian presence, the corporate veil may be lifted to fix liability on the subsidiary, if it is established that the latter is an alter ego of the foreign company and support is sought to be drawn from the judgments of this Court in New Horizons Limited and another v. Union of India and others (1995) 1 SCC 478 and State of U.P. and others v. Renusagar Power Company and others (1988) 4 SCC 59 CONTOURS OF THE JURISDICTION OF THE HIGH COURT UNDER SECTION 482 OF CRIMINAL PROCEDURE CODE, 1973 The contours of the jurisdiction of the High Court under Section 482 is no longer res integra.	Arguments of Respondent
+We would think that it is sufficient if we only advert to the judgment of this Court in State of Haryana and others v. Bhajan Lal and others (1992)	None
+Supp (1) SCC 335.	None
+This Court held as follows In the backdrop of the interpretation of the various relevant provisions of the Code under Chapter XIV and of the principles of law enunciated by this Court in a series of decisions relating to the exercise of the extraordinary power under Article 226 or the inherent powers under Section 482 of the Code which we have extracted and reproduced above, we give the following categories of cases by way of illustration wherein such power could be exercised either to prevent abuse of the process of any court or otherwise to secure the ends of justice, though it may not be possible to lay down any precise, clearly defined and sufficiently channelised and inflexible guidelines or rigid formulae and to give an exhaustive list of myriad kinds of cases wherein such power should be exercised.	None
+Where the allegations made in the first information report or the complaint, even if they are taken at their face value and accepted in their entirety do not prima facie constitute any offence or make out a case against the accused.	None
+Where the allegations in the first information report and other materials, if any, accompanying the FIR do not disclose a cognizable offence, justifying an investigation by police officers under Section 156(1) of the Code except under an order of a Magistrate within the purview of Section 155(2) of the Code.	None
+Where the uncontroverted allegations made in the FIR or complaint and the evidence collected in support of the same do not disclose the commission of any offence and make out a case against the accused.	None
+Where, the allegations in the FIR do not constitute a cognizable offence but constitute only a noncognizable offence, no investigation is permitted by a police officer without an order of a Magistrate as contemplated under Section 155(2) of the Code.	None
+Where the allegations made in the FIR or complaint are so absurd and inherently improbable on the basis of which no prudent person can ever reach a just conclusion that there is sufficient ground for proceeding against the accused.	None
+Where there is an express legal bar engrafted in any of the provisions of the Code or the concerned Act (under which a criminal proceeding is instituted) to the institution and continuance of the proceedings and or where there is a specific provision in the Code or the concerned Act, providing efficacious redress for the grievance of the aggrieved party.	None
+Where a criminal proceeding is manifestly attended with mala fide and or where the proceeding is maliciously instituted with an ulterior motive for wreaking vengeance on the accused and with a view to spite him due to private and personal grudge.	None
+We also give a note of caution to the effect that the power of quashing a criminal proceeding should be exercised very sparingly and with circumspection and that too in the rarest of rare cases that the court will not be justified in embarking upon an enquiry as to the reliability or genuineness or otherwise of the allegations made in the FIR or the complaint and that the extraordinary or inherent powers do not confer an arbitrary jurisdiction on the court to act according to its whim or caprice.	None
+As to what is the scope of the expression rarest of rare cases indicated in paragraph 103, we may only refer to the judgment of this Court in Jeffrey J. Diermeier and another v. State of West Bengal and another (2010) 6 SCC 243 wherein the law laid down by a Bench of three Judges in Som Mittal v. Govt.	None
+of Karnataka (2008) 3 SCC 753 has been referred to The purport of the expression rarest of rare cases, to which reference was made by Shri Venugopal, has been explained recently in Som Mittal (2) v. Govt.	None
+of Karnataka (2008)	None
+3 SCC 574 (2008) 1 SCC (LS) 910 (2008) 2 SCC (Cri) 1 .	None
+Speaking for a Bench of three Judges, the Honble the Chief Justice said (SCC pp.	None
+58081, para 9)	None
+When the words rarest of rare cases are used after the words sparingly and with circumspection while describing the scope of Section 482, those words merely emphasise and reiterate what is intended to be conveyed by the words sparingly and with circumspection.	None
+They mean that the power under Section 482 to quash proceedings should not be used mechanically or routinely, but with care and caution, only when a clear case for quashing is made out and failure to interfere would lead to a miscarriage of justice.	None
+The expression rarest of rare cases is not used in the sense in which it is used with reference to punishment for offences under Section 302 IPC, but to emphasise that the power under Section 482 CrPC to quash the FIR or criminal proceedings should be used sparingly and with circumspection.	None
+(Emphasis supplied)	None
+Applying the principles, the question would be whether the appellant had made out a case for granting relief in proceedings under Section 482 of the Cr.PC.	Issue
+As far as the offence of defamation is concerned, even though the offence under Section 500 is noncognizable under the First Schedule to the Cr.PC, the matter would not be governed by paragraph 2 of the judgment of this Court in Bhajan Lal (supra) as the it is the case of a complaint and not of a Police Report.	Reasoning
+Equally, paragraph 4 of Bhajan Lal (supra) is for the same reason inapplicable.	Reasoning
+We do not think that it is a case where we could hold that proceeding is manifestly attended with mala fide and or where the proceeding is maliciously instituted with an ulterior motive for wrecking vengeance on the appellant with a view to spite him due to private and personal grudge.	Reasoning
+Next, we must consider whether there is any express legal bar engrafted in any provisions of the Code or the Act governing the field to the institution and continuance of the proceedings.	Issue
+It is here that provisions of Section 79 of Information Technology Act, 2000 would assume significance.	None
+Section 79 of the Information Technology Act, as it was enacted originally, read as follows Chapter XII NETWORK SERVICE PROVIDERS NOT TO BE LIABLE IN CERTAIN CASES Network Service Providers not to be liable in certain cases For the removal of doubts, it is hereby declared that no person providing any service as a network service provider shall be liable under this Act, rule or regulations made thereunder for any third party information or data made available by him if he proves that the offence or contravention was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence or contravention.	Facts
+Explanation.	None
+For the purpose of this Section, (a) network service provider means an intermediary (b) third party information means any information dealt with by a network service provider in his capacity as an intermediary.	None
+(Emphasis supplied)	None
+The said provision was substituted by the Information Technology (Amendment) Act of 2008.	None
+It came into force on 27.10.2009.	None
+It reads as follows 79 Exemption from liability of intermediary in certain cases Notwithstanding anything contained in any law for the time being in force but subject to the provisions of sub sections (2) and (3), an intermediary shall not be liable for any third party information, data, or communication link hosted by him.	None
+The provisions of subsection (1) shall apply if (a) the function of the intermediary is limited to providing access to a communication system over which information made available by third parties is transmitted or temporarily stored or (b) the intermediary does not initiate the transmission, select the receiver of the transmission, and select or modify the information contained in the transmission (c) the intermediary observes due diligence while discharging his duties under this Act and also observes such other guidelines as the Central Government may prescribe in this behalf (Inserted Vide ITAA 2008)	None
+The provisions of subsection (1) shall not apply if (a) the intermediary has conspired or abetted or aided or induced whether by threats or promise or otherwise in the commission of the unlawful act (ITAA 2008) (b) upon receiving actual knowledge, or on being notified by the appropriate Government or its agency that any information, data or communication link residing in or connected to a computer resource controlled by the intermediary is being used to commit the unlawful act, the intermediary fails to expeditiously remove or disable access to that material on that resource without vitiating the evidence in any manner.	None
+Explanation For the purpose of this section, the expression third party information means any information dealt with by an intermediary in his capacity as an intermediary.	None
+The High Court has contrasted the earlier avtar of Section 79 with the newly inserted provisions and held as follows In the case on hand, in spite of the 1 st respondent issuing notice bringing the petition about dissemination of defamatory material and unlawful activity on the part of A1 through the medium of A2, the petitioner A2 did not move its little finger to block the said material or to stop dissemination of the unlawful and objectionable material.	None
+Therefore, the petitioner A2 cannot claim any exemption either under Section 79 of the Act as it stood originally or Section 79 of the Act after the amendment which took effect from 27.10.2009.	Reasoning
+the present case in the lower court was instituted in January, 2009 relating to the offences which are being perpetrated from 31.07.2009 onwards, i.e., since long prior to the amendment of the said provision.	None
+The discussion of the High Court regarding Section 79 reveals the following findings The earlier version of Section 79 kept at bay the impact of other laws.	None
+After the amendment, Section 79 affords exemption from any other law in respect of the thirdparty information subject to subSection (2) of Section 79.	None
+Intermediary under the extant provisions of Section 79 cannot seek refuge in Section 79 if it failed to expeditiously remove or disable access to the objectionable material or unlawful activity even after receiving actual knowledge thereof.	None
+In the case, it is found that in spite of the first respondent complaint issuing notice about dissemination of defamatory information on the part of A1accused no.1appellant did not move its little finger to block the material or to stop dissemination of unlawful and objectionable material.	Facts
+This conduct of the appellant disentitles it from claiming protection either under the provisions of the unamended Section 79 or under Section 79 after substitution.	None
+The offence in this case was perpetuated from 31.07.2008 onwards since long prior to the substitution.	None
+At this juncture, it is apposite that we took a deeper look at what the Government of India has to say about Section 79.	None
+Section 79 is a safe harbour provision.	None
+Internet intermediaries give access to host, disseminate and index content, products and services originated by third parties on the internet.	None
+There are different kinds of intermediaries.	None
+They include Internet Access and Service Provider (ISP).	None
+Examples are given in this category of Airtel, Vodafone, BSNL among others ii.	None
+Data Processing and Web Hosting Providers.	None
+Examples include Godaddy and Bigrock iii.	None
+Internet Search Engines and Portals like Google, Yahoo and Binge iv.	None
+Email hosts like gmail (Google) and	None
+yahoomail	None
+Then there are instant messaging platforms such as Whatsapp, Facebook Messenger, Skype, etc. vi.	None
+Ecommerce intermediaries where the platforms do not take title to the goods being sold like Amazon India, Flipkart, etc.	None
+vii.	None
+Internet Payment Systems and Mobile Walleters like Paytm, etc. viii.	None
+There are also participative internet platforms.	None
+The 2008 amendment introduced Chapter XII to the Information Technology Act.	None
+The amendment was in the background of the decision of the Delhi High Court in Avinash Bajaj v. State (NCT of Delhi) 116/2005 DLT 427 .	None
+Intermediaries stand on a different footing being only facilitators of exchanges of information or sales.	Reasoning
+Prior to the amendment, the exemption provision under Section 79 did not exist and, therefore, an intermediary would have been liable for any thirdparty information or data made available by him as seen in the Bazeed (supra).	Reasoning
+After the amendment, intermediary is not liable under any Act if it satisfied certain requirements as detailed in Section 79.	Reasoning
+After referring to the decision in Shreya Singhal (supra), the Government of India has understood the position at law to be that Section 79 stands read down to mean that an intermediary would need to takedown information only upon receiving actual knowledge that a court order has been passed to remove or disable certain material and not otherwise.	Arguments of Respondent
+The further stand of the Government of India is thus there is a recognition that intermediaries and neutral platforms are only facilitating information.	Arguments of Respondent
+It is further pointed out on behalf of the Government of India that the interpretation placed by this Court in Shreya Singhal (supra) was not available to the High Court when it passed the impugned order in this case.	Arguments of Respondent
+Shreya Singhal makes it clear that an intermediarys liability will not arise unless it failed to take down material upon there being actual knowledge by court order or government communication.	Arguments of Respondent
+This safeguard has been put in place to avoid chilling affect on free speech.	Arguments of Respondent
+The intermediaries would, if a contrary view is taken, stand elevated to the status of super censors and denude the internet of it unique feature of a democratic medium for all to publish, access and read any and all kinds of information.	None
+Owing to the special unique characteristic of the internet, intermediaries are not in a position to know about a content which is posted on its platforms by itself and, therefore, the strict liability principle cannot be made applicable to internet intermediaries.	Reasoning
+It is the specific stand of the Government of India that even preamendment, an intermediary could not know the contents of what is posted on its website and, therefore, be held liable in the absence of a takedown order by a court or Governmental Agency.	Arguments of Respondent
+The Government of India, it is also noticed, has perceived a distinction between blocking under Section 69A of the Information Technology Act and takedown under Section 79 of the Information Technology Act.	None
+Section 69A reads as follows 69A, Power to issue directions for blocking for public access of any information through any computer resource Where the Central Government or any of its officer specially authorized by it in this behalf is satisfied that it is necessary or expedient so to do in the interest of sovereignty and integrity of India, defence of India, security of the State, friendly relations with foreign states or public order or for preventing incitement to the commission of any cognizable offence relating to above, it may subject to the provisions of sub sections (2) for reasons to be recorded in writing, by order direct any agency of the Government or intermediary to block access by the public or cause to be blocked for access by public any information generated, transmitted, received, stored or hosted in any computer resource.	None
+The procedure and safeguards subject to which such blocking for access by the public may be carried out shall be such as may be prescribed.	None
+The intermediary who fails to comply with the direction issued under sub section (1) shall be punished with an imprisonment for a term which may extend to seven years and also be liable to fine.	None
+It is pointed out that the grounds under which Government issues directions for blocking information are limited and confined to matters relating to national security, public order and the like.	Arguments of Respondent
+The power does not expand to blocking any case of defamation, contempt of court, etc.	Arguments of Respondent
+A blocking order under Section 69A cannot be passed for criminal defamation as it does not fall under the scope of Section 69A.	Arguments of Respondent
+Therefore, if a party is aggrieved by posting of a defamatory content on website, he must seek recourse to the court process for adjudication.	Arguments of Respondent
+The matter can be directed to be removed or access disabled under Section 79(3) of the Information Technology Act.	Arguments of Respondent
+Since, the Court process can be long drawn, the aggrieved party may seek an interim order before a competent court.	None
+In fact, the learned Senior Counsel for the appellant did not, as such, canvass the matter on the basis of Section 79 before it was substituted.	Reasoning
+However, we deem it proper to delineate its scope in view of the fact that if there is an express legal bar to attach criminal liability upon the appellant under the Act, it would become a matter of jurisdiction.	Reasoning
+It is also the stand taken by the Government of India that there be no liability on the intermediary under Section 79 of the Act prior to the substitution as we have set out herein before.	None
+It must be noted that stand of the appellant primarily has been that the appellant is not the intermediary in this case and the intermediary in this case is Google LLC.	Arguments of Petitioner
+The arguments have been otherwise addressed by the appellant on the basis though that even proceeding on the basis that the appellant is treated as an intermediary, the complaint against the appellant, cannot be allowed to proceed.	Arguments of Petitioner
+On the question as to whether Section 79, as it stood prior to the substitution, would provide a shield to an intermediary, we would enter the following findings.	Reasoning
+In our view, Section 79, before its substitution, exempted the Network Service Provider, which is defined as an intermediary, from liability under the Act, Rules or Regulations made thereunder in regard to any third party information or data made available by him provided the Service Provider Proves that the offence or contravention was committed without his knowledge The Service Provider proves that he had exercised all due diligence to prevent the commissioning of such offences or contraventions.	Reasoning
+This provision may be contrasted with the later avtar of Section 79 of the Act consequent upon substitution with effect from 27.10.2009.	Reasoning
+SubSection (1) of Section 79, in unambiguous words, declares by way of a nonobstante clause that in spite of anything contained in any law which is in force, though subject to the provisions of subSections (2) and (3), an intermediary would not be liable for any thirdparty information, data or communication link hosted by him.	Reasoning
+The conditions are set out in subSection (2).	Reasoning
+As we have noticed, the scope of Section 79, before its substitution, was confined to confer immunity from liability in regard to an offence under the Act or the Rules or Regulations qua thirdparty action or data made available.	Reasoning
+In this regard, it must be noticed that Chapter XI of the Act deals with the offences.	Reasoning
+Sections 65 to 67B deals with various offences under the Act.	Reasoning
+This is besides Sections 71, 72A, 73 and 74 of the Act.	Reasoning
+Section 79 falls under Chapter XII.	Reasoning
+Therefore, the scheme of the Act would also indicate that Section 79, as it was prior to the substitution, was indeed confined to the liability of the Network Service Provider arising out of the provisions of the Act besides, no doubt, Rules and Regulations, and it was not, in short, a bar to the complaint under Section 500 of the IPC being launched or prosecuted.	Reasoning
+The complaint relates, in short, to a period, much prior to the substitution of Section 79 of the Act, which ultimately took place only with effect from 27.10.2009.	Reasoning
+The court, in Shreya Singhal (supra), was not considering the provisions of Section 79 as it stood before the substitution on 27.10.2009 which is what the High Court has focussed on to find that it was not open to the appellant to seek shelter under Section 79.	Reasoning
+No doubt, there are certain observations which have been made by the High Court regarding notice to the petitioner, which we will dwell upon.	Reasoning
+We may, in fact, notice another aspect of the matter.	Reasoning
+Even, proceeding on the basis that Section 79 should engage us any further, we cannot be oblivious to an integral feature of Section 79 prior to its substitution.	Reasoning
+As we have noted, the Law Giver has given protection from liability not unconditionally.	Reasoning
+It is for the Service Provider to prove that the offence or contravention was committed without his knowledge.	Reasoning
+He is also to prove that he has exercised all due diligence to prevent the commission of such offence or contravention.	Reasoning
+We will, for the purpose of argument, assume that the offence or contravention could relate to even Section 500 of the IPC.	Reasoning
+Even then, for the protection given by the provisions, as it stood at the time when the offence alleged against the appellant was allegedly committed by it, to apply, it would become incumbent upon the appellant to prove that the offence or the contravention was committed without its knowledge and that it had taken all due diligence to prevent the commission of such offence or contravention.	Reasoning
+It may be at once noticed that in reality the scope of Section 79 of the Act, prior to the substitution, was limited to granting exemption to the Network Service Provider from any liability under the Act, Rules or Regulations made thereunder, no doubt, in regard to thirdparty information or data available by him.	Reasoning
+The commission of an offence under Section 500 of the IPC, would not be a liability under the Act or a Rules, or Regulations made under the Act.	Reasoning
+However, it is undoubtedly true that the scope of the protection afforded to the intermediary stands remarkably expanded with the substituted provisions of Section 79 coming into force, no doubt, subject to the conditions attached thereunder and as explained by this Court in Shreya Singhal (supra).	Reasoning
+The Government of India, no doubt, has contended that the High Court did not have the benefit of judgment of this Court in Shreya Singhal (supra).	Reasoning
+We may notice that what is considered in Shreya Singhal (supra) was Section 79 after substitution.	Reasoning
+There was a challenge mounted to the constitutionality of Section This Court held as follows, inter alia One of the petitioners counsel also assailed Section 79(3)(b) to the extent that it makes the intermediary exercise its own judgment upon receiving actual knowledge that any information is being used to commit unlawful acts.	None
+Further, the expression unlawful acts also goes way beyond the specified subjects delineated in Article 19(2).	None
+It must first be appreciated that Section 79 is an exemption provision.	None
+Being an exemption provision, it is closely related to provisions which provide for offences including Section 69 A. We have seen how under Section 69A blocking can take place only by a reasoned order after complying with several procedural safeguards including a hearing to the originator and intermediary.	None
+We have also seen how there are only two ways in which a blocking order can be passed one by the Designated Officer after complying with the 2009 Rules and the other by the Designated Officer when he has to follow an order passed by a competent court.	None
+The intermediary applying its own mind to whether information should or should not be blocked is noticeably absent in Section 69A read with the 2009 Rules.	None
+Section 79(3)(b) has to be read down to mean that the intermediary upon receiving actual knowledge that a court order has been passed asking it to expeditiously remove or disable access to certain material must then fail to expeditiously remove or disable access to that material.	None
+This is for the reason that otherwise it would be very difficult for intermediaries like Google, Facebook, etc. to act when millions of requests are made and the intermediary is then to judge as to which of such requests are legitimate and which are not.	None
+We have been informed that in other countries worldwide this view has gained acceptance, Argentina being in the forefront.	None
+Also, the Court order and or the notification by the appropriate Government or its agency must strictly conform to the subjectmatters laid down in Article 19(2).	None
+Unlawful acts beyond what is laid down in Article 19(2) obviously cannot form any part of Section 79.	None
+With these two caveats, we refrain from striking down Section 79(3)(b).	None
+The learned Additional Solicitor General informed us that it is a common practice worldwide for intermediaries to have user agreements containing what is stated in Rule 3(2).	None
+However, Rule 3(4) needs to be read down in the same manner as Section 79(3)(b).	None
+The knowledge spoken of in the said subrule must only be through the medium of a court order.	None
+Subject to this, the Information Technology (Intermediaries Guidelines) Rules, 2011 are valid.	None
+xxx	None
+xxx xxx 124.3.	None
+Section 79 is valid subject to Section 79(3)(b) being read down to mean that an intermediary upon receiving actual knowledge from a court order or on being notified by the appropriate government or its agency that unlawful acts relatable to Article 19(2) are going to be committed then fails to expeditiously remove or disable access to such material.	None
+Similarly, the Information Technology Intermediary Guidelines Rules, 2011 are valid subject to Rule 3 subrule (4) being read down in the same manner as indicated in the judgment.	None
+The Court also was considering the challenge to the provisions of the Information Technology (Intermediaries Guidelines) Rules, 2011 (hereinafter referred to as the Rules for short).	None
+The Rules were brought into force after 2011.	Reasoning
+It was made under Section 87 of the Act.	None
+Rule 3 provides for due diligence to be observed by the intermediary.	None
+It is obliged to publish the Rules and Regulations and the Privacy Policy and User Agreement.	None
+The intermediary is to intimate the user not to use certain matter which include defamatory matter.	None
+Rule 3(3) of the Rules provided that the intermediary was not to knowingly host or publish any information, inter alia, contained, as specified in subRule (2).	None
+Thus, under the Rules, the intermediary could not knowingly host or publish information which was, inter alia, defamatory.	None
+Rule 3(4) of the Rules, read as follows Due diligence to he observed by intermediary	None
+The intermediary shall observe following due diligence while discharging his duties, namely xxx	None
+xxx xxx	None
+The intermediary, on whose computer system the information is stored or hosted or published, upon obtaining knowledge by itself or been brought to actual knowledge by an affected person in writing or through email signed with electronic signature about any such information as mentioned in subrule (2) above, shall act within thirty six hours and where applicable, work with user or owner of such information to disable such information that is in contravention of subrule (2).	None
+Further the intermediary shall preserve such information and associated records for at least ninety days for investigation purposes, It is clear that the entire discussion came to be made in the context of the challenge to the provisions of Section 79 after substitution.	None
+No doubt, there are observations, which have been made, the effect of which we shall deal with to the extent that is relevant to this case.	Reasoning
+What is relevant is, for the purpose of deciding this case, we are of the view that this may not be the case where there is an express legal bar in the form of Section 79 of the Act prior to its substitution.	Reasoning
+We cannot be unmindful of the fact that we are dealing with a criminal complaint and the question to be considered is whether the offence, as alleged in the complaint, was committed or not.	Reasoning
+WHETHER RAJIV THAPAR AND OTHERS V. MADAN LAL KAPOOR WOULD APPLY?	None
+The next question, which we must address is, whether the appellant can persuade us to decide the question as to whether the appellant is an intermediary and it is Google LLC which is the intermediary.	Issue
+Intermediary has been defined in the Act in Section 2(1)(ua)(w), which reads as follows 2(1)(ua)(w).	None
+intermediary, with respect to any particular electronic records, means any person who on behalf of another person receives, stores or transmits that record or provides any service with respect to that record and includes telecom service providers, network service providers, internet service providers, webhosting service providers, search engines, online payment sites, onlineauction sites, onlinemarket places and cyber cafes Section 2(1)(ua)(za) defines the word originator 2(1)(ua)(za)	None
+originator means a person who sends, generates, stores or transmits any electronic message or causes any electronic message to be sent, generated, stored or transmitted to any other person but does not include an intermediary Section 2(1)(b) defines the word addressee and it reads as follows (b) addressee means a person who is intended by the originator to receive the electronic record but does not include any intermediary According to the appellant, this is a case where the High Court erred in not considering and answering the question as to whether the appellant is an intermediary or not.	None
+It is the case of the appellant that the appellant is only the subsidiary of Google LLC which is its parent company.	Arguments of Petitioner
+It is his further submission that the High Court ought to have permitted the appellant to draw support from terms of service regarding Google Groups which convincingly establishes that the services were provided by Google LLC and not the appellant.	Arguments of Petitioner
+In this regard, reliance is placed on judgments of this Court in Rajiv Thapar and others v. Madan Lal Kapoor (2013) 3 SCC 330 and HMT Watches Ltd. v. M.A. Abida and another (2015) 11 SCC 776 .	Arguments of Petitioner
+It is contended that Google Groups terms of service is a document of sterling value being of indisputable character.	Arguments of Petitioner
+What is produced before us is last update seen dated 10.12.2010.	Arguments of Petitioner
+Under the same, there was reference to responsibilities of the originator under the head content your responsibilities.	Arguments of Petitioner
+It is submitted that the originator, not Google, which will be liable for the content that will be uploaded, posted, disseminated, etc., which is collectively said to be posted via the service.	Arguments of Petitioner
+Under appropriate conduct, it is stated as follows Appropriate Conduct You agree that you are responsible for your own conduct and communications while using the Service and for any consequences thereof.	None
+You agree to use the Service only to send and receive messages and material that are legal, proper and related to the particular Group.	None
+By way of example, and not as limitation, you agree that when using the Service, you will not defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others ?	None
+post any inappropriate, defamatory, infringing, obscene, or unlawful Content post any Content that infringes any patent, trademark, copyright, trade secret or other proprietary right of any party (the Rights), unless you are owner of the Rights or have the permission of the owner to Post such Content post messages that promote pyramid schemes, chain letters or disruptive commercial messages or advertisements, or anything else prohibited by the Group owner download any file Posted by another user of a Group that you know, or reasonably should know, that cannot be legally distributed in such manner ?	None
+impersonate another person or entity, or falsify or delete any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is Posted restrict or inhibit any other user from using and enjoying the Service use the Service for any illegal or unauthorised purpose remove any copyright, trademark or other proprietary rights notices contained in or on the Service interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service use any robot, spider, site search retrieval application, or other device to retrieve or index any portion of the Service or collect information about users for any unauthorised purpose submit Content that falsely expresses or implies that such Content is sponsored or endorsed by Google create user accounts by automated means or under false or fraudulent pretenses promote or provide instructional information about illegal activities or promote physical harm or injury against any group or individual or transmit any viruses, worms, defects, Trojan horses, or any items of a destructive nature.	None
+International users agree to comply with their own local rules regarding online conduct and acceptable content, including laws regulating the export of data to the United States or your country of residence.	None
+While Google prohibits such conduct and Content in connection with the Service, you understand and agree that you nonetheless may be exposed to such conduct and or Content and that you use the Service at your own risk.	None
+We may also notice, under the head Propriety Rights, Googles Rights, it is mentioned as follows Proprietary Rights Googles Rights Google and its affiliates and licensors own and retain all rights in the Service, which contains proprietary and confidential information that is protected by applicable intellectual property and other laws.	None
+Except as expressly authorised by Google, you may not copy, modify, publish, transmit, distribute, perform, display or sell any of Googles proprietary information.	None
+GOOGLE GROUPS, are trademarks of Google.	None
+We may also notice the following under head Advertisements Advertisements Google Groups is an adsupported service.	None
+As such, we display advertisements and promotions on the Service.	None
+The manner, mode and extent of advertising by Google on the Service are subject to change.	None
+You agree that Google shall not be responsible or liable for any loss or damage of any sort incurred as a result of any such dealings or as the result of the presence of such advertisers on the Service.	None
+Also, we noticed the conditions under the heading Disclaimer of Warranties Disclaimer of Warranties Google and its affiliates, licensors, partners, suppliers, consultants and agents ( Google Entities) disclaim any and all responsibility or liability for the accuracy, content, completeness, legality, reliability, or operability or availability of information or Content displayed on the Service.	None
+The Google Entities disclaim any and all responsibility and liability for your conduct and for the conduct of others using the Service.	None
+THE SERVICE, AND ALL CONTENT, INFORMATION (INCLUDING, WITHOUT LIMITATION, ANY INFORMATION OR CONTENT OBTAINED OR ACCESSED THROUGH THE SERVICE), PRODUCTS AND SERVICES INCLUDED THEREIN ARE PROVIDED AS IS, WITH NO WARRANTIES WHATSOEVER.	None
+THE GOOGLE ENTITIES EXPRESSLY DISCLAIM TO THE FULLEST EXTENT PERMITTED BY LAW AND EXPRESS, IMPLIED AND STATUTORY WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERHCNTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF PROPRIETARY RIGHTS.	None
+Some states do not allow the exclusion or limitation of implied warranties, so the above disclaimers and exclusions may not apply to you.	None
+YOU AGREE THAT YOUR USE OF THE SERVICES ARE ENTIERLY AT YOUR OWN RISK	None
+It is further submitted that the terms of service would constitute the entire agreement between the party and Google.	Arguments of Petitioner
+Under the Google Groups Content Policy, it was brought to our notice by the learned Counsel for the appellant that Google has a zerotolerance policy towards the content that exploits children.	Arguments of Petitioner
+Google retains the power to remove hate speech which is explained as content that promotes hate or violence towards groups based on race, ethnicity, religion, disability, gender, age, veteran status, or sexual orientation gender identity.	Arguments of Petitioner
+There is an exhortation against threatening, harassing or bullying other people using Groups.	Arguments of Petitioner
+There is again the condition that groups cannot be used to encourage any illegal activities or to promote dangerous and illegal activities.	Arguments of Petitioner
+As far as decision in Rajiv Thapar(supra), relied upon by appellant, is concerned, it involved the following facts.	None
+The appellant therein was married to the deceased.	None
+The deceased fell ill and was admitted in the hospital.	None
+She was diagnosed with as suffering from malaria.	None
+After she was discharged, she again fell ill.	None
+The Echocardiography confirmed presence of a large hole in her heart.	None
+She succumbed to a massive heart attack.	None
+Suspecting poisoning, father of the deceased filed the complaint.	None
+The Medical Board found death due to cardiac decompensation.	None
+The CFSL Report also indicated no common poison.	None
+The Metropolitan Magistrate, who was approached by the father of the deceased, committed the case to the Sessions Court who discharged the appellantaccused.	None
+The High Court, however, set aside the order.	None
+It was in these circumstances, this Court took the following view in regard to the manner in which the matter must be approached when a party approaches High Court under Section 482 of the Cr.PC	None
+The High Court, in exercise of its jurisdiction under Section 482 CrPC, must make a just and rightful choice.	None
+This is not a stage of evaluating the truthfulness or otherwise of the allegations levelled by the prosecution complainant against the accused.	None
+Likewise, it is not a stage for determining how weighty the defences raised on behalf of the accused are.	None
+Even if the accused is successful in showing some suspicion or doubt, in the allegations levelled by the prosecution complainant, it would be impermissible to discharge the accused before trial.	None
+This is so because it would result in giving finality to the accusations levelled by the prosecution complainant, without allowing the prosecution or the complainant to adduce evidence to substantiate the same.	None
+The converse is, however, not true, because even if trial is proceeded with, the accused is not subjected to any irreparable consequences.	None
+The accused would still be in a position to succeed by establishing his defences by producing evidence in accordance with law.	None
+There is an endless list of judgments rendered by this Court declaring the legal position that in a case where the prosecution complainant has levelled allegations bringing out all ingredients of the charge(s) levelled, and have placed material before the Court, prima facie evidencing the truthfulness of the allegations levelled, trial must be held.	None
+Based on the factors canvassed in the foregoing paragraphs, we would delineate the following steps to determine the veracity of a prayer for quashment raised by an accused by invoking the power vested in the High Court under Section 482 CrPC 30.1.Step one whether the material relied upon by the accused is sound, reasonable, and indubitable i.e. the material is of sterling and impeccable quality?	None
+30.2.Step two whether the material relied upon by the accused would rule out the assertions contained in the charges levelled against the accused i.e. the material is sufficient to reject and overrule the factual assertions contained in the complaint i.e. the material is such as would persuade a reasonable person to dismiss and condemn the factual basis of the accusations as false?	None
+30.3.Step three whether the material relied upon by the accused has not been refuted by the prosecution complainant and or the material is such that it cannot be justifiably refuted by the prosecution complainant?	None
+30.4.Step four whether proceeding with the trial would result in an abuse of process of the court, and would not serve the ends of justice?	None
+30.5.	None
+If the answer to all the steps is in the affirmative, the judicial conscience of the High Court should persuade it to quash such criminal proceedings in exercise of power vested in it under Section 482 CrPC.	None
+Such exercise of power, besides doing justice to the accused, would save precious court time, which would otherwise be wasted in holding such a trial (as well as proceedings arising therefrom) specially when it is clear that the same would not conclude in the conviction of the accused.	None
+(Emphasis supplied)	None
+The court also declared that the High Court must be fully satisfied about the material and that material produced by the accused must be such that the defence is based on sound, reasonable and indisputable facts.	None
+In HMT Watches (supra), the complaint was one under Section 138 of the Negotiable Instruments Act, 1881.	None
+In the said case, this Court faulted the High Court in having expressed its view on disputed questions of fact in a petition under Section 482 to conclude that an offence was not made out.	None
+Factual matters which were not admitted between the parties could not form the basis for the High Court to interfere.	None
+In regard to the attempt, on the part of the appellant, to persuade us to follow the judgment of this Court in Rajiv Thapar (supra), we felt dissuaded from undertaking the said course on the following reasoning.	Reasoning
+It is true that a perusal of the petition before the High Court reveals that appellant has purported to take up the contention that the website is the service offered by the Google Inc, the parent company of the appellant and that the services are provided by the parent company directly to the users.	Reasoning
+It is also the case of the appellant that service provided on the website is free and the end user can post a blog without making any payment.	Reasoning
+The terms of service and content policy on the website is also seen produced.	Reasoning
+Impugned order of the High Court, however, reveals that the court understood the arguments apparently of the appellant as follows It is contended by the senior counsel appearing for the petitioner A2 that actions of intermediaries such as Google Inc., which is a service provider providing platform for end users to upload content, does not amount to publication in law and consequently the question of holding such intermediaries liable for defamation does not arise.	None
+Senior counsel appearing for the petitioner placed reliance on Section 79 of the Information Technology Act, 2000 (in short, the Act) in support of this contention.	None
+The defence raised by the appellant, which, according to him, consisted of documents in the form of the conditions stipulated by the parent company in its conditions, are disputed.	Reasoning
+To expatiate, according to the respondent, the said contention is factual.	None
+There is a case also that they are produced without complying with the mandate of Section 65B of the Indian Evidence Act, 1872.	Arguments of Respondent
+In this regard, reliance is placed on Anvar P.V. v. P.K. Basheer and others (2014) 10 SCC 473 .	Arguments of Respondent
+There is also definite case for the respondent that appellant cannot be allowed to disown its role in the Google Groups being part of the common economic entity.	Arguments of Respondent
+It is contended by the complainant that the appellant did not clarify by way of answer to the query by the court as to what activities they indulge in India.	Arguments of Respondent
+The Memorandum of Association is referred to contend that the main objects include providing network related products or services and applications.	Arguments of Respondent
+It is the case of the complainant further that in fact the entire operations of Google Economic Entity, the users are provided digital space purportedly free but are made to part with their personal data as consideration.	Arguments of Respondent
+The said data is used for generating advertisement revenues.	Arguments of Respondent
+The onus would be on the appellant if it seeks to dispel this fact to lead evidence to show that the appellant does not have any role to plea in the activities of Google.	Arguments of Respondent
+As to whether, it is Google INC, which is responsible for the Google Groups and the appellant is not, it is contended by the complainant, is a matter for evidence.	Arguments of Respondent
+It cannot be determined on the basis of photocopies of documents filed with the paper books before this Court.	Arguments of Respondent
+We have noticed that the appellant appears to have produced the Google Groups conditions even before the High Court.	Reasoning
+It is also appeared to have taken the contention that it is Google Groups which is an intermediary.	Reasoning
+In this connection, it is our view that this is not a case where the High Court could be invited particularly in the light of the stand of the complainant, as noticed, to decide in favour of the appellant by holding that it is the parent company which is the actual intermediary and not appellant.	Reasoning
+We are not inclined in this regard to borrow any findings from the Civil Court in proceedings under Section 482 of the Cr.PC.	Reasoning
+We must remind ourselves also that the proceedings are at the stage where the High Court appear to have entered a finding in favour of the appellant in the Second Appeal filed under Section 100 of the Code of Civil Procedure, 1908 (hereinafter referred to as the CPC, for short).	Reasoning
+However, it is common case that both parties have filed Review Petitions.	Reasoning
+In other words, the matter has not yet attained finality.	None
+In this regard, the question, however, arises whether the complainant accepts this version of the appellant or disputes it.	None
+We would think that the complainant does not accepts the actual role of the appellant.	None
+The nature of operations of the appellant, according to the appellant, is not clear.	Reasoning
+What is the actual relationship between the Parent Company and appellant, is, according to the complainant, a matter for decision on evidence being taken.	Reasoning
+In other words, the contention of the appellant that appellant is not an intermediary and, hence, cannot be fastened, at any rate, with criminal liability, is subject matter of dispute.	Reasoning
+WHETHER SHARAT BABU DIGUMARTI V. GOVERNMENT (NCT OF DELHI) COMES TO THE RESCUE OF THE APPELLANT?	None
+There is need to also address an argument based on the decision of this Court in Sharat Babu Digumarti v. Government (NCT of Delhi) (2017) 2 SCC 18 .	None
+Section 81 of the Act reads as follows Act to have overriding effect.	None
+The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force.	None
+This Court, in Sharat Babu (supra), was dealing with a complaint under Sections 292 and 294 of the IPC and Section 67 of the Act.	None
+The central issue which arose for consideration was, whether the appellant therein, who stood discharged under Section 67 of the Act, could be proceeded under Section 292 of the IPC.	None
+Section 292 of the Code makes it an offence to sell, hire, distribute, etc., any obscene object, whatsoever.	None
+Other offences relating to dealing in obscene objects, also form the subject matter of the Section.	None
+The court referred to the definition of electronic record under Section 2(1)(t) of the Act and found it was a question relating to electronic record.	None
+Thereafter, the court referred to Section 67 of the Act which penalises publishing or transmitting obscene material in electronic form.	None
+Section 67B punishes and penalises publishing or transmitting of material depicting children in sexually explicit act, etc., in electronic form.	None
+The argument of the appellant, thus, is seen noted as hereunder We have referred to the aforesaid aspect as it has been argued by Dr Singhvi that the appellant is protected under the said provision, even if the entire allegations are accepted.	None
+According to him, once the factum of electronic record is admitted, Section 79 of the IT Act must apply ipso facto and ipso jure.	None
+The learned Senior Counsel has urged Section 79, as the language would suggest and keeping in view the paradigm of internet world where service providers of platforms do not control and indeed cannot control the acts omissions of primary, secondary and tertiary users of such internet platforms, protects the intermediary till he has the actual knowledge.	None
+He would contend that the Act has created a separate and distinct category called originator in terms of Section 2(1)(z)(a) under the IT Act to which the protection under Section 79 of the IT Act has been consciously not extended.	None
+Relying on the decision in Shreya Singhal Shreya Singhal v. Union of India, (2015) 5 SCC 1 (2015) 2 SCC (Cri) 449 , he has urged that the horizon has been expanded and the effect of Section 79 of the IT Act provides protection to the individual since the provision has been read down emphasising on the conception of actual knowledge.	None
+Relying on the said provision, it is further canvassed by him that Section 79 of the IT Act gets automatically attracted to electronic forms of publication and transmission by intermediaries, since it explicitly uses the non obstante clauses and has an overriding effect on any other law in force.	None
+Thus, the emphasis is on the three provisions, namely, Sections 67, 79 and 81, and the three provisions, according to Dr Singhvi, constitute a holistic trinity.	None
+Thereafter, the court referred to Section 81 which we have extracted, and finally, the court held as follows Section 81 of the IT Act also specifically provides that the provisions of the Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force.	None
+All provisions will have their play and significance, if the alleged offence pertains to offence of electronic record.	None
+It has to be borne in mind that IT Act is a special enactment.	None
+It has special provisions.	None
+Section 292 IPC makes offence sale of obscene books, etc.	None
+but once the offence has a nexus or connection with the electronic record the protection and effect of Section 79 cannot be ignored and negated.	None
+We are inclined to think so as it is a special provision for a specific purpose and the Act has to be given effect to so as to make the protection effective and true to the legislative intent.	None
+This is the mandate behind Section 81 of the IT Act.	None
+The additional protection granted by the IT Act would apply.	None
+We are not inclined to accept this argument based on the dicta laid down in Sharat Babu (supra).	Reasoning
+It is true that the offences were alleged to have been committed at a time when Section 79 had not been substituted, as we notice that cognizance was taken on 14.02.2006.	Reasoning
+We may notice the reasoning in paragraph 37, which reads as follows The aforesaid passage clearly shows that if legislative intendment is discernible that a latter enactment shall prevail, the same is to be interpreted in accord with the said intention.	None
+We have already referred to the scheme of the IT Act and how obscenity pertaining to electronic record falls under the scheme of the Act.	None
+We have also referred to Sections 79 and 81 of the IT Act.	None
+Once the special provisions having the overriding effect do cover a criminal act and the offender, he gets out of the net of IPC and in this case, Section 292.	None
+It is apt to note here that electronic forms of transmission are covered by the IT Act, which is a special law.	None
+It is settled position in law that a special law shall prevail over the general and prior laws.	None
+When the Act in various provisions deals with obscenity in electronic form, it covers the offence under Section 292 IPC.	None
+We, in fact, notice that this Court was persuaded to place reliance on Section 79 of the Act which was inserted as a result of the substitution with effect from 27.10.2009.	Reasoning
+The provisions of Section 79 are not seen expressly extracted or referred to by the court.	Reasoning
+Section 79, even prior to its substitution, did protect the intermediary from liability for offences under the Act.	None
+This was a case where the appellant was sought to be prosecuted under Section 292 of the IPC even though he had been discharged under Section 67 of the Act.	None
+The offence was one which properly fell within the scope of Section 67 in so far as the offending matter, was contained in an electronic record, as defined.	None
+Therefore, it could be reasoned that it having been found, he had not committed the offence under Section 67 of the Act, having regard to Section 81, the prosecution under Section 292 of the IPC, may not stand since special provisions have overriding effect.	None
+That explains the statement of the law contained in paragraph 37 of the judgment, viz., when the Act in various provisions deals in obscenity in other forms, it covers the offence under Section 292 of the IPC.	None
+The premise of the judgment of this Court in Sharat Babu (supra) was that what was involved was an electronic record within the meaning of the Act.	None
+The appellant in the said case stood discharged under Section 67 of the Act.	None
+The reasoning, which has been upheld by the Court, was that the special provisions contained in the Act would override and cover a criminal act and he would get out of the net of the IPC which in the said case was Section 292.	None
+To repeat, the appellant stood discharged under Section 67 of the Act, and therefore, could not be prosecuted under Section 292 of the IPC.	None
+In this context, we must examine whether there is any provision in the Act which deals with the offence of defamation committed in the electronic form.	Issue
+In fact, in this regard, it is relevant to notice the judgment of this Court in Shreya Singhal (supra).	None
+Incidentally, the learned Senior Counsel who appeared for the appellant also appeared in the said case for some of the parties and in the summary of arguments raised by him wherein, inter alia, he contended that the existing provisions of the IPC and of the Act, i.e., Section 67, 66B, 66C, 66D, 66E and 66F adequately covers various offences.	None
+In regard to sending defamatory messages by email, the provision under the Act was shown as Section 66A and it was contended that the provision in the IPC corresponding to Section 66A was Section 500 of the IPC.	None
+This Court dealt with the matter and held, inter alia, as follows Defamation is defined in Section 499 of the Penal Code as follows Defamation.	None
+Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.	None
+Explanation 1.It may amount to defamation to impute anything to a deceased person, if the imputation would harm the reputation of that person if living, and is intended to be hurtful to the feelings of his family or other near relatives.	None
+Explanation 2.It may amount to defamation to make an imputation concerning a company or an association or collection of persons as such.	None
+Explanation 3.An imputation in the form of an alternative or expressed ironically, may amount to defamation.	None
+Explanation 4.No imputation is said to harm a persons reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his caste or of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgraceful.46.	None
+It will be noticed that for something to be defamatory, injury to reputation is a basic ingredient.	None
+Section 66A does not concern itself with injury to reputation.	None
+Something may be grossly offensive and may annoy or be inconvenient to somebody without at all affecting his reputation.	None
+It is clear, therefore, that the section is not aimed at defamatory statements at all.	None
+(Emphasis supplied)	None
+At any rate, Section 66A has been declared unconstitutional by this Court.	Reasoning
+Apart from Section 66A, there is obviously no other provision in the Act which deals with defamation in the electronic form.	Reasoning
+In that way, the subject of defamation would be governed by Section 500 of the IPC.	Reasoning
+Therefore, the reliance placed on Shreya Singhal (supra) is without any basis.	None
+ASSUMING APPELLANT IS AN INTERMEDIARY A BRIEF OVERVIEW OF THE LAW OF DEFAMATION	None
+The next question is proceeding on the basis that it is the appellant which is the intermediary within the meaning of the Act whether the appellant could be foisted with liability in a case where appellant is being proceeded against in a criminal case for having committed the offence under Section 500 read with Section 120B of the IPC.	Issue
+In this regard, let us consider the contentions of the complainant.	Arguments of Respondent
+It is first contended that the appellants role in the control of Google Groups as publisher is a question of fact.	Arguments of Respondent
+It is pointed out that Google has control on the content being uploaded by the authors.	Arguments of Respondent
+It has full freedom to remove any content without reference to anyone much less court orders.	Arguments of Respondent
+Google itself recognizes that defamation is not an accepted conduct and takes an undertaking from its users.	Arguments of Respondent
+Google cannot claim to be mere passive technology service provider which is promoting free speech.	Arguments of Respondent
+It provides various tools to create edit modify the content apart from uploading the content.	Arguments of Respondent
+It is contended that for the purpose of defamation, Google may have some defence till such time till they are not aware of the defamatory content.	Arguments of Respondent
+However, once they are made aware of the defamatory content, then, by allowing the same to continue, refusing to exercise control as platform provider, it becomes fully liable for the consequences of publishing defamatory material.	Arguments of Respondent
+Being a technology giant, is not a license to break laws.	Arguments of Respondent
+It does not provide immunity from the liability under the IPC.	Arguments of Respondent
+There is an attempt by the appellant before us to contend that even taking the averments in the posts which have been uploaded by the first accused, it would not amount to defamation.	Arguments of Petitioner
+The essence of the offence of defamation, as defined in Section 499, would consist of words either spoken or intended to be read or by signs or by visible representations making or publishing any imputation concerning any person with the intention to harm or knowing or having reason to believe that such imputation will harm the reputation of that person subject to the Exceptions and Explanations which follow the main provision.	None
+Explanation II declares that it may amount to defamation to make an imputation concerning a company or an association or collection of persons as such.	None
+Explanation IV reads as follows Explanation 4.No imputation is said to harm a persons reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his caste or of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgrace ful.	None
+It is undoubtedly true that the first Exception exempts from criminal liability, statements which are true and which are required for public good.	None
+It reads as follows First Exception.	None
+Imputation of truth which public good requires to be made or published.	None
+It is not defamation to impute anything which is true concerning any person, if it be for the public good that the imputation should be made or published.	None
+Whether or not it is for the public good is a question of fact.	None
+The 9 th Exception may be relevant.	None
+It reads as follows Ninth Exception.	None
+Imputation made in good faith by person for protection of his or others interests.	None
+It is not defamation to make an imputation on the character of another provided that the imputation be made in good faith for the protection of the interests of the person making it, or of any other person, or for the public good.	None
+Illustrations A, a shopkeeper, says to B, who manages his business Sell nothing to Z unless he pays you ready money, for I have no opinion of his honesty .	None
+A is within the exception, if he has made this imputation on Z in good faith for the protection of his own interests.	None
+A, a Magistrate, in making a report of his own superior officer, casts an imputation on the character of Z. Here, if the imputation is made in good faith, and for the public good, A is within the exception.	None
+Tenth Exception.	None
+Caution intended for good of person to whom conveyed or for public good.	None
+It is not defamation to convey a caution, in good faith, to one person against another, provided that such caution be intended for the good of the person to whom it is conveyed, or of some person in whom that person is interested, or for the public good.	None
+COMMENTS Imputation without publication In section 499 the words makes or publishes any imputation should be interpreted as words supplementing to each other.	None
+A maker of imputation without publication is not liable to be punished under that section Bilal Ahmed Kaloo v. State of Andhra Pradesh, (1997) 7 Supreme Today 127.	None
+We would not think that it would be appropriate, proper or legal for the court to accept the submission of the appellant that the post in question do not constitute defamation.	Reasoning
+This is for the reason that such an exercise would be out of bounds in the facts of this case, in particular, in a petition filed under Section 482 of the Cr.PC.	Reasoning
+As to whether it constitute defamation and as to whether it falls in any of the Explanations Exceptions, would be all matters to be decided by the court.	Reasoning
+The question which remains is everything being assumed in favour of the complainant, viz., that the first accused has posted defamatory material by uploading it on the platform and the appellant is an intermediary providing the said platform, the argument of the appellant is that even then, the appellant is not liable.	Reasoning
+We have noticed the stand of the Government of India also.	Reasoning
+An intermediary provides a platform.	Reasoning
+Millions of posts are uploaded every day.	Reasoning
+We have noticed the definition of words originator and addressee.	Reasoning
+The case of the appellant is that the originator in this case, the first accused, is the author of the alleged defamatory material.	Reasoning
+Unlike an article which is written by person A and which is got published in a newspaper or publication which is brought out by a person B, the case of the appellant is that the first accused is both the originator, and therefore, the author and he is also the publisher.	Reasoning
+Assuming everything against the appellant as aforesaid, the offence if at all has been committed, may have been committed by the first accused.	Reasoning
+The appellant seeks to wash its hands off the contents of the article as also the publication.	Reasoning
+The responsibility for authoring the material and publishing(uploading) lies at the doorstep of the fist accused.	Reasoning
+The appellant has no role at all in this matter.	Reasoning
+In such circumstances, it is the case of the appellant that having regard to the role played by the appellant, again assuming that it is the intermediary, involved in this case, it cannot be made liable.	Reasoning
+It is the further case of the appellant that at the most, liability may arise, if a party aggrieved by material, which can be understood as electronic record under the Act, approaches the appellant armed with a court order or an authority directing it to remove the offending posts.	Reasoning
+Till then, the appellant is not liable, in law, to take steps against the material.	Reasoning
+This is apart from pointing out that it is incumbent upon the complaining party to assist the intermediary by providing it with the URL so that the matter could be located and action taken.	Reasoning
+In fact, in this case, it is pointed out that the appellant, as a good gesture, upon receipt of complaint, written to parent company, which, in fact, is the intermediary and the parent company wrote back seeking URL.	Reasoning
+The actions of the appellant have been bonafide.	Reasoning
+It has no role to play in the commission of the alleged offence.	Reasoning
+It is in this context that appellant would contend that in law an intermediary cannot and should not be designated as the Competent Authority to decide upon the question as to whether any material falls foul of the law of defamation leading to the unilateral interference with the free exchange of ideas though the internet.	Reasoning
+Internet, it is pointed out, is universal, and in the words of the Government of India, which supports the appellant in this Court, a democratic medium for the free exchange of ideas.	Reasoning
+Any conferment of unilateral power upon the intermediary would introduce what is called the chilling effect.	Reasoning
+SECTION 499 OF THE IPC MAKES OR PUBLISHES DISTINCTION	None
+It is important that we notice the indispensable ingredients of the offence under Section 499 of the IPC.	None
+Section 499 reads as follows Defamation.	None
+Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter expected, to defame that person.	None
+Under the said provision, the Law Giver has made the making or publishing of any imputation with a requisite intention or knowledge or reason to believe, as provided therein, that the imputation will harm the reputation of any person, the essential ingredients of the offence of defamation.	None
+What is the meaning to be attached to the words making of an imputation and publishing of an imputation?	None
+This question has been set out with clarity in a recent judgment which is reported in Mohd.	None
+Abdulla Khan v. Prakash K. (2018) 1 SCC 615 .	None
+It was held as follows An analysis of the above reveals that to constitute an offence of defamation it requires a person to make some imputation concerning any other person Such imputation must be made either With intention, or Knowledge, or Having a reason to believe that such an imputation will harm the reputation of the person against whom the imputation is made.	None
+Imputation could be, by Words, either spoken or written, or By making signs, or Visible representations Imputation could be either made or published.	None
+The difference between making of an imputation and publishing the same is If X tells Y that Y is a criminal X makes an imputation.	None
+If X tells Z that Y is a criminal X publishes the imputation.	None
+The essence of publication in the context of Section 499 is the communication of defamatory imputation to persons other than the persons against whom the imputation is made.	None
+Khima Nand v. Emperor, 1936 SCC OnLine All 307 1937 Cri LJ 806 Amar Singh v. K.S. Badalia, 1964 SCC OnLine Pat 186 (1965) 2	None
+Cri LJ 693 WHETHER SECTION 499 OF THE IPC EXHAUSTIVE OF CRIMINAL LIBEL?	None
+We may incidentally also notice an earlier judgment of this Court in this context reported in M.C. Verghese v. T.J. Poonan and another (1969) 1 SCC 37 .	None
+The daughter of the appellant therein, who was married to the respondent (T.J. Poonan), received certain letters from her husband which the appellantfatherinlaw complained as containing defamatory statements against him.	None
+The Magistrate took the view that being a communication between husband and wife, it did not amount to defamation as there was no publication since in the eye of law, as the husband and wife are one.	None
+He also took the view that the communication between the spouses was privileged under Section 122 of the Indian Evidence Act, 1872.	None
+This Court reversed the view taken by the High Court which had upheld the view of the Magistrate though in the interregnum the Magistrates view did not find favour with the learned Sessions Judge.	None
+This Court took the view that the principle, the husband and wife are one in the eye of law, has not been adopted in its full force under our system and certainly not in our criminal jurisprudence (see paragraph 7).	None
+It is, thereafter, that the Court made following observations It must be remembered that the Penal Code, 1860 exhaustively codifies the law relating to offences with which it deals and the rules of the common law cannot be resorted to for inventing exemptions which are not expressly enacted.	None
+In Tiruvengadda Mudali v. Tripurasundari Ammal ILR 49 Mad 728 a Full Bench of the Madras High Court observed that the exceptions to Section 499 IPC, must be regarded as exhaustive as to the cases which they purport to cover and recourse can be had to the English common law to add new grounds of exception to those contained in the statute.	None
+A person making libellous statements in his complaint filed in Court is not absolutely protected in a criminal proceeding for defamation, for under the Eighth Exception and the illustration to Section 499 the statements are privileged only when they are made in good faith.	None
+There is therefore authority for the proposition that in determining the criminality of an act under the Penal Code, 1860 the Courts will not extend the scope of special exceptions by resorting to the rule peculiar to English common law that the husband and wife are regarded as one.	None
+No doubt, the Court did not express a final opinion.	None
+In the light of this discussion, we may only reiterate that the criminal offence of defamation under Section 499 of the IPC is committed when a person makes a defamatory imputation which, as explained in Mohd.	None
+Abdulla Khan (supra), would consist of the imputation being conveyed to the person about whom the imputation is made.	None
+A publication, on the other hand, is made when the imputation is communicated to persons other than the persons about whom the defamatory imputation is conveyed.	None
+A person, who makes the defamatory imputation, could also publish the imputation and thus could be the maker and the publisher of a defamatory imputation.	None
+On the other hand, a person may be liable though he may not have made the statement but he publishes it.	None
+In this case, the case of the appellant appears to be that it is indisputable that it is the first defendant who has not only authored the statements containing imputations which are allegedly defamatory but it is he who has also published it.	Reasoning
+In this regard, the parties before us have drawn our attention to case law emanating from courts other than in India.	Reasoning
+THE DEFAMATION ACTS IN ENGLAND	None
+A LOOK AT SOME DECISIONS UNDER THE SAME Before we proceed to consider the case law, a birds overview of the law of defamation, as contained in United Kingdom, may be appreciated.	None
+The Defamation Act of 1952, as contained in Sections 4,7,8,9(2) and 9(3) and Sections 16(2) and 16(3) came to be repealed by the Defamation Act of 1996.	None
+The Defamation Act of 2013 further amended the law by declaring that a statement is not defamatory unless its publication has caused or is likely to cause serious harm to the reputation of the claimant which, in the case of body that trades for profit, it was made clear that the serious harm would not arise unless there is caused serious financial loss or likelihood of such loss.	None
+Truth was declared as a defence.	None
+Certain defences were introduced.	None
+Considerations of public interest was introduced in regard to operators of website.	None
+Section 5 was enacted, which reads as follows Operators of websites This section applies where an action for defamation is brought against the operator of a website in respect of a statement posted on the website.	None
+It is a defence for the operator to show that it was not the operator who posted the statement on the website.	None
+The defence is defeated if the claimant shows that (a) it was not possible for the claimant to identify the person who posted the statement, (b) the claimant gave the operator a notice of complaint in relation to the statement, and (c) the operator failed to respond to the notice of complaint in accordance with any provision contained in regulations.	None
+For the purposes of subsection (3) (a), it is possible for a claimant to identify a person only if the claimant has sufficient information to bring proceedings against the person.	None
+Regulations may (a) make provision as to the action required to be taken by an operator of a website in response to a notice of complaint (which may in particular include action relating to the identity or contact details of the person who posted the statement and action relating to its removal) (b) make provision specifying a time limit for the taking of any such action (c) make provision conferring on the court a discretion to treat action taken after the expiry of a time limit as having been taken before the expiry (d) make any other provision for the purposes of this section.	None
+Subject to any provision made by virtue of subsection (7), a notice of complaint is a notice which (a) specifies the complainants name, (b) sets out the statement concerned and explains why it is defamatory of the complainant, (c) specifies where on the website the statement was posted, and (d) contains such other information as may be specified in regulations.	None
+Regulations may make provision about the circumstances in which a notice which is not a notice of complaint is to be treated as a notice of complaint for the purposes of this section or any provision made under it.	None
+Regulations under this section (a) may make different provision for different circumstances (b) are to be made by statutory instrument.	None
+A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.	None
+In this section regulations means regulations made by the Secretary of State.	None
+The defence under this section is defeated if the claimant shows that the operator of the website has acted with malice in relation to the posting of the statement concerned.	None
+The defence under this section is not defeated by reason only of the fact that the operator of the website moderates the statements posted on it by others.	None
+There are other provisions which need not detain us.	None
+We may, no doubt, also notice the meaning of the word publish, inter alia, as contained in Section 15 of the Defamation Act, 2013 15. publish and publication, in relation to a statement, have the meaning they have for the purposes of the law of defamation generally The Act was to apply only to England and Wales.	None
+Certain provisions were to apply to Scotland also.	None
+It may be noticed, however, that the Defamation Act, 1996, as indeed the Defamation Act, 1952, provided as follows In Section 20(2) of the Defamation Act, 1996, it is stated that nothing in the said Act affected the law relating to criminal libel.	None
+There is a similar provision in the Defamation Act, 1952.	None
+Section 17(2) of the Defamation Act, 1952 also declared that nothing in the Act affected the law relating to criminal libel.	None
+Criminal libel, however, came to be repealed by the Coroners and Justice Act, 2009.	None
+The complainant would refer to judgment in Byrne v. Deane (1937) 1 KB 818 as also Payam Tamiz v. Google Inc. (2013) EWCA CB 68 .	None
+The appellant, on the other hand, relied upon the judgment of the Queens Bench in Bunt v. Tilley (2006) EWHC 407 .	None
+There is also reference by the respondent to the judgment in Godfrey v. Demon Internet Limited (2001) QB 201 .	None
+Let us now take these cases in the chronological order and the context in which the matter arose and was decided.	None
+In Byrne (supra), the facts may be noticed.	None
+The complainant was a member of a Golf Club.	None
+The defendants were the proprietors and the female defendant was also the Secretary.	None
+The rules of the Club, inter alia, prohibited posting of any notice or placard in the Club premises without the consent of the Secretary.	None
+There were certain automatic gambling machines kept by the defendants for the use of the members of the Club.	None
+On a complaint, the machines were removed from the Club premises.	None
+Alleging that a defamatory verse was put up on the wall of the Club, the plaintiff brought an action in libel alleging publication by the defendants of matter defamatory to him.	None
+In short, it was his case that the words were meant to convey that it was the plaintiff who reported the matter to the Police which undermined his loyalty to the members of the Club.	None
+The learned Judge, who heard the civil action for damages, gave judgement to the plaintiff.	None
+He came to the conclusion that the matter complained of was defamatory.	None
+He further found that since the defendants allowed the notice to remain on the walls of the Club, over which the defendants have complete control, the publication of it was made with their approval and they had, therefore, published that libel.	None
+As regards the question whether there was publication by the defendants, the Court, by a majority, took the view that there was publication.	None
+Greer L.J. held as follows It was a proprietary club.	None
+The difference between a proprietary club and an ordinary club is that in a proprietary club the proprietor or proprietors remain in possession of the club.	None
+The two defendants are the lessees of the club and they are the occupiers of the club premises, and the walls are their walls, and in my judgment they allowed a defamatory statement to be put up on their walls and to remain on their walls in a position in which it could be read by anybody who came into the club.	None
+Undoubtedly it must have been so read not only by people who were members of the club but by people who were not members of the club, and who only came in possibly for a drink with a member or to play a game of some sort or another.	None
+Quite a number of illustrations have been put forward as illustrations which give rise to similar questions to the question that arises in this case.	None
+In my judgment the nearest case put forward is this assume that a defamatory poster was hung upon the garden rail of Mr. Smiths house which adjoins the street so that the defamatory statement can be read by every one who passes the house.	None
+Could it not be said that by allowing that poster to remain hanging upon the garden rail of his house the occupier of the house was taking part in the publication of that poster to people passing his house, when the simplest operation in the world, namely, cutting the rope by which the poster was hung upon the rail and taking the poster away, would have made the poster from that time innocuous?	None
+In my judgment the two proprietors of this establishment by allowing the defamatory statement, if it be defamatory, to rest upon their wall and not to remove it, with the knowledge that they must have had that by not removing it it would be read by people to whom it would convey such meaning as it had, were taking part in the publication of it.	None
+Slesser L.J. wrote a separate opinion wherein he took the view that complainant had failed to show publication against the male defendant.	None
+With regard to the female defendant, it was held as follows With regard to the female defendant I think it may be said although it is perhaps extending the evidence of publication rather further than has ever been done in the past in any case which I have been able to discover that there was some evidence of publication on the part of the female defendant.	None
+Greer L.J., further held as follows No notice or placard, written or printed, shall be posted in the club premises without the consent of the secretary, and her evidence is to this effect, that she knew that this alleged libel had been placed on the wall of the club.	None
+Her view was that she could see no harm in it.	None
+She said I read it.	None
+It seemed to me somebody was rather annoyed with somebody.	None
+I think having read it, and having dominion over the walls of the club as far as the posting of notices was concerned, it could properly be said that there was some evidence that she did promote and associate herself with the continuance of the publication in the circumstances after the date when she knew that the publication had been made.	None
+Greene L.J., took the view that there was evidence of publication by both the defendants.	None
+It was held as follows Now, on the substantial question of publication, publication, of course, is a question of fact, and it must depend on the circumstances in each case whether or not publication has taken place.	None
+It is said that as a general proposition where the act of the person alleged to have published a libel has not been any positive act, but has merely been the refraining from doing some act, he cannot be guilty of publication.	None
+I am quite unable to accept any such general proposition.	None
+It may very well be that in some circumstances a person, by refraining from removing or obliterating the defamatory matter, is not committing any publication at all.	None
+In other circumstances he may be doing so.	Reasoning
+The test it appears to me is this having regard to all the facts of the case is the proper inference that by not removing the defamatory matter the defendant really made himself responsible for its continued presence in the place where it had been put?	Reasoning
+I may give as an example of a case which would fall on one side of the line suppose somebody with a mallet and a chisel carved on the stonework of somebodys house something defamatory, and carved it very deeply so that the removal of it could only be effected by taking down the stonework and replacing it with new stonework.	None
+In a case of that kind it appears to me that it would be very difficult, if not indeed impossible, to draw the inference that the volition of the owner of the house had anything to do with the continued presence of that inscription on his stonework.	None
+The circumstance that to remove it would require very great trouble and expense would be sufficient to answer any such aspersion.	None
+On the other hand you have a case such as the present where the removal of this particular notice was a perfectly simple and easy thing to do involving no trouble whatsoever.	None
+The defendants, having the power of removing it and the right to remove it, and being able to do it without any difficulty at all, and knowing that members of the club when they came into the room would see it, I think must be taken to have elected deliberately to leave it there.	None
+The proper inference, therefore, in those circumstances it seems to me is that they were consenting parties to its continued presence on the spot where it had been put up.	None
+That being so it seems to me that they must be taken to have consented to its publication to each member who saw it.	None
+(Emphasis supplied)	None
+In Godfrey (supra), the case was a civil action.	None
+The complainant was a Lecturer in Physics, Mathematics and Computer Science resident in England.	None
+The defendant was an internet service provider.	None
+On the 13 th of January, 1997, some unknown person made a post in the U.S.A. in news group soc.culture.thai and stores which was carried on by the defendant.	None
+For about a fortnight, the posting was available to be read by its customers.	None
+According to the complainant, it was defamatory, inter alia, to him.	None
+It purported to emanate from the complainant though his name was misspelt.	None
+Complainant claimed it to be a forgery.	None
+He sent a letter to the Managing Director of the defendantcompany about the posting being a forgery and disowning responsibility of the same, he requested removal of the same from the server.	None
+It was not disputed by the defendant that it could have obliterated the post after receiving the request.	None
+The court examined the matter thereafter, on the basis of the governing law, viz., Defamation Act, 1996.	None
+The following discussion is relevant The law	None
+The governing statute is the Defamation Act 1996.	None
+Section 1, which is headed Responsibility for publication, provides In defamation proceedings a person has a defence if he shows that (a) he was not the author, editor or publisher of the statement complained of, (b) he took reasonable care in relation to its publication, and (c) he did not know, and had no reason to believe, that what he did caused or contributed to the publication of a defamatory statement.	None
+It should be noted that for the defence to succeed (a) and (b) and (c) have to be established by the defendant.	None
+Section 1 continues For this purpose publisher has the following meanings, which are further explained in subsection (3) publisher means a commercial publisher, that is, a person whose business is issuing material to the public, or a section of the public, who issues material containing the statement in the course of that business.	None
+A person shall not be considered the author, editor or publisher of a statement if he is only involved(a) in printing, producing, distributing or selling printed material containing the statement (c) in processing, making copies of, distributing or selling any electronic medium in or on which the statement is recorded, or in operating or providing any equipment, system or service by means of which the statement is retrieved, copied, distributed or made available in electronic form (e) as the operator of or provider of access to a communications system by means of which the statement is transmitted, or made available, by a person over whom he has no effective control.	None
+In a case not within paragraphs (a) to (e) the court may have regard to those provisions by way of analogy in deciding whether a person is to be considered the author, editor or publisher of a statement In determining for the purposes of this section whether a person took reasonable care, or had reason to believe that what he did caused or contributed to the publication of a defamatory statement, regard shall be had to(a) the extent of his responsibility for the content of the statement or the decision to publish it, (b) the nature or circumstances of the publication, and (c) the previous conduct or character of the author, editor or publisher.	None
+In my judgment the defendants were clearly not the publisher of the posting defamatory of the plaintiff within the meaning of section 1(2) and (3) and incontrovertibly can avail themselves of section 1(1)(a).	None
+However the difficulty facing the defendants is section 1(1)(b) and (c).	None
+After 17 January 1997, after receipt of the plaintiffs fax, the defendants knew of the defamatory posting but chose not to remove it from their Usenet news servers.	None
+In my judgment this places the defendants in an insuperable difficulty so that they cannot avail themselves of the defence provided by section 1.	None
+(Emphasis supplied)	None
+The court purported to follow the judgment in Byrne (supra) and held as follows The defendants chose to store soc.culture.thai postings within their computers.	None
+Such postings could be accessed on that newsgroup.	None
+The defendants could obliterate and indeed did so about a fortnight after receipt.	None
+(Emphasis supplied)	None
+The court finally concluded that the plaintiffs summons to strike out parts of the defence as disclosing no sustainable defence which was to the effect that in common law, they were not publishers of the internet posting.	None
+The plaintiffs summons was allowed to strike out the defence.	None
+Now, we may turn to Bunt (supra) decided on 10.03.2006 by the Queens Bench Division of the High Court.	None
+Defendants 4 to 6 in the civil proceeding were internet service providers.	None
+The service providers applied under Civil Procedure Rules (CPR) 3.4(2) and (CPR) 24 for an order to the High Court.	None
+The claim of the plaintiff was based on the allegation that the individual defendants published the offending words through the services provided by the internet service providers.	None
+In paragraph 7, the Court considered it necessary to consider the defence relied upon by the parties which, in fact, was admissible for the purpose of CPR Part 24.	None
+The court referred to the decision in Godfrey (supra).	None
+The court also held, inter alia, as follows Publication is a question of fact, and it must depend on the circumstances of each case whether or not publication has taken place see e g Byrne v Deane 1937 1 KB 818, 837838, per Greene LJ.	None
+The analogies that were held to be inappropriate in Godfrey v Demon Internet Ltd might yet be upheld where the facts do not disclose onward transmission with knowledge of the defamatory content.	None
+As Dr Collins observes in The Law of Defamation and the Internet, para 15.43 Mere conduit intermediaries who carry particular Internet communications from one computer to another are analogous to postal services and telephone carriers in the sense that they facilitate communications, without playing any part in the creation or preparation of their content, and almost always without actual knowledge of the content.	None
+Such an approach would tend to suggest that at common law such intermediaries should not be regarded as responsible for publication.	None
+Indeed, that is consistent with the approach in Lunney where the New York Court of Appeals drew an analogy between an ISP and a telephone company which one neither wants nor expects to superintend the content of his subscribers conversations.	None
+xxx	None
+xxx	None
+xxx	None
+I have little doubt, however, that to impose legal responsibility upon anyone under the common law for the publication of words it is essential to demonstrate a degree of awareness or at least an assumption of general responsibility, such as has long been recognised in the context of editorial responsibility.	None
+As Lord Morris commented in McLeod v St Aubyn 1899 AC 549, 562 A printer and publisher intends to publish, and so intending cannot plead as a justification that he did not know the contents.	None
+The appellant in this case never intended to publish.	None
+In that case the relevant publication consisted in handing over an unread copy of a newspaper for return the following day.	None
+It was held that there was no sufficient degree of awareness or intention to impose legal responsibility for that publication.	None
+Of course, to be liable for a defamatory publication it is not always necessary to be aware of the defamatory content, still less of its legal significance.	None
+Editors and publishers are often fixed with responsibility notwithstanding such lack of knowledge.	None
+On the other hand, for a person to be held responsible there must be knowing involvement in the process of publication of the relevant words .	None
+It is not enough that a person merely plays a passive instrumental role in the process.	None
+(See also in this context Emmens v Pottle (1885) 16 QBD 354, 357, per Lord Esher MR.)	None
+xxx	None
+xxx	None
+xxx	None
+In so far as the claimant seeks support in Godfrey Demon Internet Ltd 2001 QB 201, there are plainly significant distinctions.	None
+Morland J deprived the ISP in that case from protection under section 1 of the 1996 Act because it had continued publication of the same defamatory statements after Mr Godfreys letter had been received, asking for them to be removed from the Usenet news server.	None
+Here, by contrast, the claimant is relying upon separate postings.	None
+In these there is no reference to batteries, but rather to suggestions of fraud and kiddie porn.	None
+There are no pleaded facts to suggest any knowing participation by AOL in the publication of these words.	None
+Ms Phillips accordingly submits that an ISP should not become liable as a publisher (especially for postings on a site which it does not host) simply because it has been previously told of wholly unrelated allegedly defamatory statements, not necessarily even by the same author.	None
+That is a powerful argument which is relevant, as I have said, both to the fundamental issue of publication at common law and to statutory defences which I shall have to consider later.	None
+xxx	None
+xxx xxx	None
+In all the circumstances I am quite prepared to hold that there is no realistic prospect of the claimant being able to establish that any of the corporate defendants, in any meaningful sense, knowingly participated in the relevant publications.	None
+His own pleaded case is defective in this respect in any event.	None
+More generally, I am also prepared to hold as a matter of law that an ISP which performs no more than a passive role in facilitating postings on the Internet cannot be deemed to be a publisher at common law.	None
+I would not accept the claimants proposition that this issue can only be settled by a trial, since it is a question of law which can be determined without resolving contested issues of fact.	None
+(Emphasis supplied)	None
+Thereafter, the Court also referred to the Electronic Commerce Directive (Regulations), 2002.	None
+Still further, the Court referred in detail to the witness statement of the Director (Technical and Operations) in AOL There is no expert challenge to that evidence, and I have no reason to doubt that it represents the true position.	None
+How then does the claimant propose to overcome the protection claimed by the fourth and fifth defendants under these Regulations?	None
+As I have said, he relies on simple logic.	None
+He does not rely on any expert report.	None
+I turn therefore to his case as clarified in the light of the order of Gray J.	None
+It is necessary to consider para 19 of the amended particulars of claim which advances a proposition to the effect that there is an obligation to gatekeep its conduit.	None
+The nub of this submission appears to be contained in subparas (i) and (j) An ISP providing a leased line connection to a customer has an extremely good argument under both the Defamation Act 1996 and also the Electronic Commerce Directive 2002 that it is no more than a conduit, that it has no knowledge or control over what passes through that conduit, and that the entire responsibility for what does pass through that conduit rests with the customer who has purchased it, as it is the customer and not the ISP who acts as a gatekeeper for that conduit.	None
+An ISP providing a standard domestic consumer or SOHO Internet access package to a customer has no possible hope of successfully arguing that it is a mere conduit and therefore immune from that law, as all content originates from within their own network, instead of merely passing through it in Via fashion from one network to another.	None
+In these circumstances not only is the ISP most definitely acting as sole gatekeeper between the source of the defamatory material and the Internet, they also provide a bundle of other services each of which clearly falls foul of the other provisions of the Electronic Commerce Directive 2002 which, for example, only allows the minimum level of cacheing technically necessary for the underlying technology of message transmission to function.	None
+The notion of a gatekeeper appears to derive from the claimant himself it is nowhere to be found in the regulations.	None
+xxx	None
+xxx xxx	None
+In conclusion, I am quite satisfied that the claims against these applicants should be struck out in accordance with CPR Pt 3, and indeed that there would be no realistic prospect of success on any of the causes of action.	None
+Thus the criteria under CPR	None
+Pt 24 would also be fulfilled.	None
+At this juncture, it is necessary also to refer to CPR 3.4(2) Power to strike out a statement of case 3.4.(2)	None
+The court may strike out(GL) a statement of case if it appears to the court (a) that the statement of case discloses no reasonable grounds for bringing or defending the claim (b) that the statement of case is an abuse of the courts process or is otherwise likely to obstruct the just disposal of the proceedings or (c) that there has been a failure to comply with a rule, practice direction or court order.	None
+In Richardson (supra), decided on 02.11.2015, the claimant sought damages in respect of publication on a Facebook profile and a blog post on the Google blogger service.	None
+The profile and the blog post were purportedly created by that claimant but the claimant complained that they were fake being created by an imposter.	None
+She claimed that both were defamatory and violated her right to respect for her private life under Article 8 of the European Convention on Human Rights.	None
+Proceedings were commenced against Facebook U.K. in respect of the profile they described as the Facebook action and against Google U.K. Limited in respect of the blog post, shown as the Google action.	None
+The action came to be dismissed.	None
+The principle ground was that the suit was against the company which was not responsible for the publication which meant that she had prosecuted the case against the wrong defendant.	None
+In appeal, she cited certain issues to be referred to the Court of Justice of the European Union.	None
+The Court referred to Bunt (supra), Godfrey (supra) and Byrne (supra).	None
+The Court held as follows The underlying rationale of the decision in Byrne v Deane, that the defendants were responsible for publication, was that they were in control of the notice board and had the power to act so as to remove a posting by a third party which was unauthorised and wrongful by failing to exercise that power in the knowledge of the posting they became liable for its continued publication.	None
+This rationale is plainly capable of applying to some of those involved in the provision of internet services and social media platforms.	None
+(Emphasis supplied)	None
+Thereafter, the Court went on to notice that the Defamation Act, 1996, mitigated the rigor of the common law principles by providing a defence for those who by application of those principles were publishers of common law.	None
+Court further went on to hold that internet service providers and others are not responsible for publication according to the common law principles discussed, that is to say, who were not publishers at common law, had no need to take resort under the Defamation Act.	None
+The court went on to refer to Defamation Act, 2013 which came into force on 01.01.2014.	None
+Further, the court held as follows The pleading acknowledges on its face that Facebook Inc owns the Facebook Service and the associated website.	None
+It appears to adopt the statement in the terms of service that Facebook Ireland Ltd is, according to the terms of service, responsible for processing data outside the US and Canada.	None
+So far as FBUK is concerned, there is an allegation that it was notified of the offending postings.	None
+However, the pleading wholly fails to advance against FBUK any clear or coherent case that it has or had any form of control over any aspect of the content of the Facebook Service, let alone the Profile.	None
+The allegation that FBUK was notified of the claimants complaint goes beyond what is alleged earlier in the pleading, where notification is said to have been given to the Facebook Service and Facebook.	None
+It also appears to be factually untenable.	None
+But even if it were true it could not, in the absence of an allegation that FBUK had the power or ability to control content, form a proper basis for the attribution of responsibility for publication on the basis of Byrne v Deane principles.	None
+The court further observed that on the evidence, the claimant had known Byrne (supra) without any prospect of success.	None
+In this regard, the court relied on the evidence led which was to the effect that the claim was fundamentally defective because Facebook U.K. Limited had no involvement or responsibility for the Facebook service.	None
+The material further was to the effect that the Facebook service was operated by Facebook Inc., a corporation existing under the laws of the United States.	None
+Facebook Ireland Limited, a company organized and existing under the laws of the Republic of Ireland has explained in its terms of service that users outside of the United States of America and Canada contracted with the Facebook Ireland Limited .	None
+The material was to the effect that Facebook U.K. Limited was a separate and distinct entity.	None
+Facebook U.K. Limiteds sole corporate purpose is public relation, consultancy, and communications in the United Kingdom.	None
+There was also reference to decisions of English Courts previously finding that Facebook U.K. Limited do not control or operate the Facebook services.	None
+The court took the view that Facebook U.K. Limited persuaded it that if there were a trial, it would inevitably demonstrate that it was not responsible.	None
+An attempt was made by the claimant to draw support from Google Spain SL (supra) decision.	None
+The argument appears to have been that on the basis of the said decision, Facebook Inc. and its subsidiaries were to be treated as a single economic unit and Facebook U.K. Limited should also be responsible for the publication of the profile.	None
+The court rejected the contention.	None
+One of the reasons given was that Google Spain SL (supra) was a decision which was based on the scope and application of the data protection directions.	None
+The court took the view that the decision in Google Spain SL (supra) had nothing to say about the domestic law of responsibility of publication in defamation.	None
+It was a matter to be determined by the common law and the Defamation Acts.	None
+It was further found that claimant had misunderstood the relevant aspect of the Google Spain SL (supra) decision.	None
+It was found that the Court of Justice of European Union (CJEU) did not hold that parent and subsidiary companies are to be treated as a single unit.	None
+Google Spain SL (supra) revolved around the interpretation and application of Article 4(1) of the Directive.	None
+The court went on to hold that the controller within the meaning of the directives was Google Inc In Google Spain SL (supra), court held that Google Spain was not a data controller.	None
+On the one hand, the appellant sought to draw support from Richardson (supra) whereas, on the other hand, the complainant laid store by Google Spain SL (supra).	None
+We have noticed the context in which the questions arose.	None
+As far as English decision is concerned, it was a civil action.	Reasoning
+The material before the learned Judge who allowed the application by Facebook U.K. Limited and Google U.K. was apparently in terms of the procedural laws, perhaps akin to Order VII Rule 11 of the Code of Civil Procedure, 1908.	Reasoning
+More importantly, there was material before the court even in dismissing the claims on the application of the defendants.	Reasoning
+We are, in this case, concerned with the ambit of jurisdiction under Section 482 of the Cr.PC.	Reasoning
+We also notice that the decision rendered in Google Spain SL (supra) appears to have turned on the scope of the directive as noticed in Richardson (supra).	Reasoning
+EFFECT OF SUBSTITUTION OF SECTION 79 OF THE ACT Section 79 of the Act came to be substituted with effect from 27.10.2009.	None
+In fact, the effect of substitution of a provision has been dealt with by this Court in the decision in State of Rajasthan v. Mangilal Pindwal (1996)5 SCC 60 AIR 1996 SC 2181 Similarly in Crawfords Interpretation of Laws it has been said Effect of Repeal, Generally.	None
+In the first place, an outright repeal will destroy the effectiveness of the repealed act in futuro and operate to destroy inchoate rights dependent on it, as a general rule.	None
+In many cases, however, where statutes are repealed, they continue to be the law of the period during which they were in force with reference to numerous matters.	None
+(pp. 640641)11.	None
+The observations of Lord Tenterden and Tindal, C.J. referred in the abovementioned passages in Craies on Statute Law also indicate that the principle that on repeal a statute is obliterated is subject to the exception that it exists in respect of transactions past and closed.	None
+To the same effect is the law laid down by this Court.	None
+(See Qudrat Ullah v. Municipal Board (1974) 1 SCC 202 (1974) 2	None
+SCR 530 , SCR at p. 539)	None
+This means that as a result of repeal of a statute the statute as repealed ceases to exist with effect from the date of such repeal but the repeal does not affect the previous operation of the law which has been repealed during the period it was operative prior to the date of such repeal.	None
+In this case, the complaint itself is dated 21.01.2009.	Reasoning
+The sworn statement of Deputy Manager (Legal) of the complainant is recorded on 27.02.2009.	None
+The sworn statement reads as follows I am the complainant herein.	None
+I am working a1s Deputy Managerlegal in the complainant company.	None
+Complainant company manufactures Asbestos Cement sheets and it is having various manufacture units throw out India.	Facts
+Accused No.1 is a coordinator of Ban Asbestos India a Group hosted by Accused No.2 and publishes articles in the group regarding various issues on 21 st November, 2008 an article was published in A2 group as Poisoning the system Hindustan times.	None
+Complainant was surprised to note that article is aimed at complainant company and also against renowned politicians of the country i.e. Mr. G. Venkat Swamy and Smt.	None
+Sonia Gandhi where as these people have nothing to do with the complainant company and again on 31 st July, 2008 an article was captioned A2 Group as Visaka Asbestos Industries making gains both articles contains defamatory statements against the complainant which is available in the cyber space in the form of an article for world wide audience.	None
+The complainant submits acts and deeds of the accused not only harm the complainant company but also integrity of the working people.	None
+Complainant humbly submits that there are other groups like Everest Group, Ramco Group and Birla Group which are also engaged in the same group.	None
+But the accused No.1 unnecessarily dragged the complainant and the politicians of the country with malicious intention.	None
+The complainant further submits that A1 trying to bring down the complainant image by running hate campaign against the complainant through the above said articles.	None
+After seeing this article the complainant has sent notice dated 10.12.2008 through Registered Post which A1 returned unserved and the Fax was received by both the accused.	None
+The above article caused damage to the reputation of the complainant.	None
+A1 with malafide intention to cause damage to the reputation to complainant has published such articles.	None
+I further submit that the acts and deeds of the accused being committed in violation of the fundamental rights and the action on the part of the accused in making such defamatory statements are premeditated and intended to lower the image cause defamation in the eyes of public knowing fully well that the statements made there in are false and the complainant company and others are being targeted by the accused with an hidden agenda.	None
+It is therefore pay the Honble Court to punish the accused according to law.	None
+It is seen that the Magistrate has issued summons to the appellant vide Annexure P5 calling upon him to appear before the Court on 09.09.2009.	Reasoning
+If that be so, not only was the complaint filed at the time when Section 79, in its erstwhile avtar, was in force before the present provision was enforced, cognizance thereunder was also taken.	Reasoning
+If that be so, the question of exemption from liability may fall to be decided under Section 79 of the Act as it stood and not under the substituted provision.	Reasoning
+WHETHER APPELLANT NOT LIABLE AS IT IS ONLY A SUBSIDIARY As far as the question whether being a subsidiary of Google LLC, the appellant is an independent body which is not to be mulcted with liability, we would think it is not a matter to be gone into in Section 482 of the Cr.PC.	Reasoning
+We have noticed the stand of the Government of India also as also of the complainant.	Reasoning
+FINDINGS OF HIGH COURT REGARDING COMPLAINANTS NOTICE AND CONDUCT OF THE APPELLANT In the impugned judgment, the learned Judge has proceeded to refer to the notices, which was, according to the complaint, issued, calling upon the appellant to remove the objectionable post.	Reasoning
+It is found that the appellant did not move its little finger to stop dissemination of the unlawful and objectionable material.	Reasoning
+Therefore, the appellant cannot claim exemption under either Section 79 of the Act, as it stood originally, or Section 79 of the Act, after the amendment which took effect from 27.10.2009.	Reasoning
+It was further found that as per Section 79(3), as amended, the exemption cannot be applied by any court and claimed by an intermediary in case an intermediary entered into any conspiracy in respect thereof.	Reasoning
+It is in this regard that we may notice that there is a definite case for the complainant that there was a conspiracy between the appellant and the first accused as it is alleged in the complaint that the accused, in connivance with each other, have disseminated the information with malafide intention.	Reasoning
+There is also reference to Section 120B of the IPC besides Sections 500, 501 read with Section 34 of the IPC.	Reasoning
+As far as the view expressed in the impugned order that the appellant cannot claim any exemption under Section 79 of the Act after the amendment, is concerned, we are of the view that it appears to be in the teeth of the pronouncement of this Court in Shreya Singhal (supra).	Reasoning
+Section 79, as substituted, came to be read down to mean that it is not sufficient if a notice is given to delete a post to the intermediary.	Reasoning
+The applicant, who seeks a removal, must be armed with a court order.	Reasoning
+In this case, there is no case for the complainant that when the removal was sought of the objectionable post, there was any decision of any competent court or that there was any directive of a competent authority to remove the post.	Reasoning
+Therefore, in the light of Shreya Singhal (supra), the finding, clearly of the High Court, in this regard, appears to be unsustainable and we hold so.	Reasoning
+The finding by the High Court that in the case on hand, in spite of the complainant issuing notice, bringing it to the notice of the appellant about the dissemination of defamatory matter on the part of the first accused through the medium of appellant, appellant did not move its little finger to block the said material to stop dissemination and, therefore, cannot claim exemption under Section 79 of the Act, as it originally stood, is afflicted with two flaws.	Reasoning
+In the first place, the High Court itself has found that Section 79, as it originally was enacted, had nothing to do with offences with laws other than the Act.	Reasoning
+We have also found that Section 79, as originally enacted, did not deal with the effect of other laws.	Reasoning
+In short, since defamation is an offence under Section 499 of the IPC, Section 79, as it stood before substitution, had nothing to do with freeing of the appellant from liability under the said provision.	Reasoning
+Secondly, there is a case for the appellant that on receipt of notice, the appellant, as a gesture, forwarded its complaint to its Parent Company Google LLC which called for the details by its letter dated 06.01.2009.	Reasoning
+The complaint came to be filed on 21.01.2009.	Reasoning
+We do not think that the High Court was justified, therefore, in entering findings in the manner it was done.	Reasoning
+Further, the High Court has not taken into consideration the distinction between blocking and a takedown.	Reasoning
+Even Section 79, as substituted with effect from 27.10.2009, denies the benefit of the exemption in a case where there is a conspiracy between the intermediary or abetting or aiding or inducing or otherwise in the commission of the unlawful act.	Reasoning
+Again, we notice that the case in the complaint is that there was connivance between the accused.	Reasoning
+This is not a matter which we feel could be considered to be proceeded under Section 482 of the Cr.PC.	None
+We may also notice that in the Civil Suit also, the complainant maintains that the appellant is the service provider and it has abused the services provided by it (see paragraph 11 of the plaint).	None
+Appellant is, undoubtedly, the second defendant whereas Google Inc. has also been made a party as third defendant.	None
+We say this as appellant has a case that in the Civil Suit, the complainant has set up a case that it is Google LLC which was the actual service provider.	None
+PUBLICATION	None
+If defamatory matter is published as to who published it, is a question of fact.	None
+As already noted, publication involves bringing defamatory matter to the knowledge of a person or persons other than the one who is defamed.	Reasoning
+We would approve of the principles laid down by Greene L.J. in Byrne (supra) that in some circumstances, a person by refraining from removing or obliterating the defamatory matter, is not committing any publication at all.	Reasoning
+In other circumstances, he may be doing so.	Reasoning
+The test, it appears to me is this having regard to all the facts of the case, is the proper inference that by not removing the defamatory matter, the defendant really made himself responsible for its continued presence in the place where it has been put?	Reasoning
+Whether there is publication, indeed involves asking the question also as noted by the learned Judge, as to whether there was power and the right to remove any such matter.	Reasoning
+If despite such power, and also, ability to remove the matter, if the person does not respond, it would amount to publication.	Reasoning
+The said principle, in our view, would hold good even to determine whether there is publication under Section 499 of the IPC.	Reasoning
+The further requirement, no doubt, is indispensable, i.e., it must contain imputations with the intention to harm or with knowledge or having reasons to believe that it will harm the reputation of the person concerned.	None
+In this case, the substantial complaint of the complainant appears to be based on the refusal by the appellant to remove the matter after being notified.	None
+Publication would be the result even in the context of a medium like the internet by the intermediary if it defies a court order and refuses to takedown the matter.	Reasoning
+This, undoubtedly, is the position even under the decision in Shreya Singhal (supra) which has read down Section 79(3)(b) and the Intermediary Rules already noted.	None
+In this regard, we may notice the following statement in the complaint  Complainant most humbly and respectfully submits that a notice to withdraw such articles was issued by the Complainant through it counsel on 09/12/2008, requesting Accused No. 1 2 to withdraw the above said articles and to render unconditional apology and to pay a compensation of Rs.20.00 Cr.	None
+(Rupees Twenty Crores only) jointly and severally for the damage cause to Complainants reputation, within 15 days from the date of the receipt of the notice.	None
+In the said notice the Complainant also invited Accused No. 1 to visit the plants of the Complainant and requested to observe the way in which the products are manufactured and then come to a conclusion based on facts and science, office copy of the notice is filed herewith for kind perusal of this Honble Court.	None
+The Notice was sent under Registered Post with Acknowledgment Due (R.P.A.) on 10/12/2008, the receipt of R.P.A.D. is filed herewith for kind perusal of this Honble Court.	None
+Complainant most humbly and respectfully submits that through the said notice, the accused were reminded that their acts tantamount to the offence punishable under Section 1208, 500 501 of Indian Penal Code.	None
+The R.P.A.D. Notice sent to Accused No. 1 returned unserved as the Accused managed to return the same as left without address and the same is filed herewith for the kind perusal of this Honble Court.	None
+As a precaution, the complainant on 29.12.2008 faxed the said notice to the accused No. 1s Office at Delhi, receipt of Fax is filed herewith for kind perusal of this Honble Court and complainant on 17.12.2008 faxed the said notice to the accused No	None
+. 2s Office at Bangalore, receipt of the fax is filed herewith for kind perusal of this Honble Court.	None
+Notice sent to the Bangalore Office of the Accused No. 2 was duly served and the acknowledgment card is filed herewith as a proof of the same for the kind perusal of this Honble Court.	None
+We have also noticed that in the statement given by the Officer of the complaint before the Magistrate, there is reference to the dispatch of the notice.	None
+As noted by us, in answering the question whether there has been publication for the purpose of criminal libel also on the basis that despite the defamatory matter being notified, it is not removed, the analogy of the wall of a club or notice board of a club may not be as such available when it comes to medium like the internet.	Reasoning
+We have noticed that in Byrne (supra), the test would also be whether the party having the power to remove the allegedly defamatory matter and also the right to remove it and being able to do it without any difficulty defies and rejects the request.	Reasoning
+The example of the notice board or a wall of a club, as was the case in Byrne (supra), is not strictly available when we are asked to apply it as such in the case of medium like internet.	Reasoning
+As was noted in Bunt (supra), in Godfrey (supra), the receipt of the letter requesting for obliterating the post was not in dispute and more importantly that it could have obliterated the post, was again not in controversy.	Reasoning
+For deciding whether there is publication, we see merit in the exposition of law made by the English Courts as aforesaid.	Reasoning
+We have noticed that what is declared a crime in Section 499 of the IPC is the making or publishing of matter which defames, as described in the Section.	Reasoning
+The making or publication must be also accompanied with the intention or knowledge requisite as mentioned in the Section to constitute that act a crime.	Reasoning
+There was a notice, admittedly received from the complainant by the appellant, dated 09.12.2008, calling upon the appellant to, inter alia, remove the controversial post (See paragraph 9 of the Petition under Section 482 of the Cr.PC).	Reasoning
+It is the appellants case that since it did not control the services and as the notice did not concern its activities, the appellant forwarded the legal notice to its Parent Company for its response.	Arguments of Petitioner
+Appellant further contended before the High Court that the Parent Company, in turn, responded to the complainant on 06.01.2009.	Arguments of Petitioner
+Since, the notice issued by the complainant did not denote the space and services which allegedly host the defamatory articles, the complainant was asked to provide the exact details.	Arguments of Petitioner
+148.	Arguments of Petitioner
+It is again the appellants case that the complainant, however, proceeded to file the complaint on 21.01.2009.	None
+We will take the appellants case as it is projected.	Reasoning
+Thereafter, we will test it with reference to the jurisdiction under Section 482 of the Cr.PC as to whether this is a matter which can be gone into under Section 482.	Reasoning
+To elaborate, we hold As noticed by us, it can be safely concluded that the argument of the appellant appears to be acting on the basis of the notice sent by the complainant to the appellant, appellant did not proceed to remove the objectionable material from the internet.	Reasoning
+The reason for doing this is that according to the appellant, appellant is not the intermediary and the intermediary is the Parent Company and, accordingly, it forwarded the complaint of the complainant in the notice dated 09.12.2008 to its Parent Company.	Reasoning
+It may not be possible for this Court to find that the High Court was wrong in not proceeding on the basis that the appellant is not the intermediary.	Reasoning
+The defence set up by the appellant in this case, is not a matter which can be gone into in proceedings under Section 482 of the Cr.PC.	Reasoning
+As things stand, in other words, consequent upon the notice sent to the appellant by the complainant on 09.12.2008, the appellant had refused to or has not complied with the request on the part of the complainant.	Reasoning
+As to whether the appellant was justified in not complying with the request, involves answering the question as to whether the appellant was the intermediary, which again, in turn, as we have already held, may not be permissible in proceedings under Section 482 of the Cr.PC.	Reasoning
+Therefore, this is not an aspect which can form the basis for the court interfering in Section 482 of the Cr.PC.	Reasoning
+As to whether there is justification for the Parent Company in requiring the complainant to provide the URL so that the offending post could be identified and dealt with and dehors it whether it could remove the post, is again a matter, which in our view, it may not be possible for the appellant to persuade us to hold, could be gone into the proceedings under Section 482 of the Cr.PC.	Reasoning
+This also is on the basis that the Parent Company is the intermediary.	Reasoning
+To make matters even more clear, even proceeding on the basis that the first accused is the originator, as defined in the Act, of the allegedly defamatory matter, and the first accused is not only the author but is also the publisher of allegedly defamatory matter, and again proceeding on the basis that it is the appellant, who is the intermediary and not its Parent Company, the refusal on the part of the appellant to remove the post, may amount to publication on the basis of the principle enunciated in Bryne (supra) and as applied to medium of internet in Godfrey (supra), as later explained, however, in Bunt (supra).	Reasoning
+In other words, there may be publication within the meaning of Section 499 of the IPC even in the case of an internet operator, if having the power and the right and the ability to remove a matter, upon being called upon to do so, there is a refusal to do so.	Reasoning
+This is, no doubt, subject to Shreya Singhal (supra)where it applies.	Reasoning
+It is also clear that to constitute the offence under Section 500 of the IPC, mere publication would not suffice.	Reasoning
+As we have noted, we cannot go into that aspect on the basis of the notice sent on 09.12.2008 by the complainant on account of the obstacles which we have pointed out earlier.	Reasoning
+In other words, the disowning of the liability to remove the post is inextricably intertwined with the appellants denial of it being the intermediary.	Reasoning
+Also, the question as to whether the demand for the URL and justification for not removing, based on the same being questions essentially relating to the facts, cannot be gone into in Section 482 proceedings.	Reasoning
+The only aspect, which really remains, is the aspect that even accepting that the appellant is an intermediary and it had the power otherwise to accede to the request of the appellant to remove the offending material, the socalled right or power of the appellant is really not a power and the right, but is nothing but a mere illusion as assuming such powers or exercising such a right would involve conferring of unilateral and impermissible adjudicatory power, contrary to the regime of fundamental right of free expression so indispensable to the continued efficacy of the internet as an open democratic medium.	Reasoning
+In other words, proceeding on the basis of the assumption that the appellant is the intermediary and that it stood alerted by the complainant by letter dated 09.12.2008, the appellant has not removed the offensive posts though it could technically remove it, therefore, it amounted to publication and this publication attracts Section 499 of the IPC.	Reasoning
+The argument, however, is even in Section 482 of the Cr.PC, the court must qualify the right and the power of the appellant even assuming to be the intermediary to act freely as it would opposed to the principles which have been evolved in regard to the internet service provider that it is not open to it to unilaterally decide as to what matter should be removed and it can act so as to remove on the basis of the request only if there is a court order.	Reasoning
+Any other view would make it a despot strangling the free flow of ideas which is what the internet is all about.	Reasoning
+The problem arises in this way however.	None
+It is while considering a challenge to Section 79 of the Act, after it was substituted with effect from 27.10.2009 and considering the Rules made in the year 2011 also, and a challenge to the same also, that in Shreya Singhal (supra), the provisions were read down to mean that Section 79(3)(b) of the Act and Rule 3(4) of the Rules, would require an internet service operator to takedown thirdparty information not on mere knowledge of objection to its continuance but after there has been an impartial adjudication as it were by a court.	Reasoning
+To focus more on the problem, it must be pointed out that in the facts of this case, the acts constituting the alleged offence under Section 499 of the IPC, were done not when Section 79, after its substitution, was in place.	Reasoning
+The Rules were enacted in the year 2011.	Reasoning
+In such circumstances, what we are asked to do is to import in the principles into the factual matrix when Section 79 was differently worded and in proceedings under Section 482 of the Cr.PC.	Reasoning
+It is, undoubtedly, true that Article 19(1)(a) and Article 19(2) of the Constitution of India were very much available in 2008 and 2009 though Section 79 was in its erstwhile avtar.	Reasoning
+In other words, will it not be open to the appellant, assuming it to be the intermediary, to contend that it cannot be called upon to remove, defamatory matter comprised in any thirdparty information without there being a court order?	None
+It is here that we would remind ourselves that we are called upon in this case to decide the correctness and legality of the order of the High Court passed in the proceedings under Section 482 of the Cr.PC.	None
+This contention, as such, has not been raised.	Reasoning
+We notice, in fact, that in the very first ground, however, before the High Court, it is contended that the appellant has no role.	Reasoning
+It has no control over the services provided on the website.	Reasoning
+Thereafter, it is contended that even the employees of the Parent Company do not have the ability to remove the content posted on the blog without an order from a court of competent jurisdiction.	Reasoning
+It is the further case before the High Court that under the law of United States of America which governed the functioning of the Parent Company, it is not obliged or required to remove any allegedly defamatory content without the court order.	Reasoning
+There was no contention taken that on the basis that even if appellant is assumed to be the intermediary, the continuance of the articles after a request by the complainant to remove it, would not constitute publication at the hands of the appellant for the reason that it will not constitute publication as there is no court order in India.	Reasoning
+It was also, no doubt, true that the decision of this Court in Shreya Singhal (supra) was rendered nearly five years after the impugned judgment of the High Court.	Reasoning
+As already noticed, what was laid down in Shreya Singhal (supra) was premised upon the challenge to Section 79(3)(b) which replaced the erstwhile avtar of Section 79 and also a challenge to the Intermediary Rules of 2011, both of which provisions came to be read down by the court.	None
+What appellant is asking this Court to do is to decide the point which is not even raised as such before the High Court.	None
+Having noticed the exact ground taken before the High Court, it relates to the inability of the Parent Company to remove the post without the court order.	Reasoning
+However, we feel that this is a question which can be, independent of the non availability of the protection under Section 79 of the Act in its erstwhile avtar, pursued by the appellant.	Reasoning
+This is a matter which we leave it open to the appellant to urge before the Court.	None
+There is a complaint by the appellant that the Magistrate did not have territorial jurisdiction over the appellant and the procedure under Section 203 of the Cr.PC should have been followed.	Reasoning
+We noticed that this contention was not raised before the High Court.	Reasoning
+We further noticed that on this ground alone, in the facts of this case, after nearly a decade of the matter pending in this Court, it would be unjust to remand the matter back to the Magistrate, which we must indeed note, was one of the submissions of the appellant.	Reasoning
+The upshot of the above discussion is as follows We reject the contention of the appellant that the High Court should have acted on the Google LLC conditions and found that the appellant is not the intermediary.	Decision
+We hold that this is a matter for trial.	None
+We hold that Section 79 of the Act, prior to its substitution, did not protect an intermediary in regard to the offence under Section 499/500 of the IPC.	None
+We set aside the findings by the High Court regarding the alleged refusal of the appellant to respond to the notice to remove.	None
+We make it clear, however, that it is for the Court to decide the matter on the basis of the materials placed before it, and taking into consideration, the observations contained in this judgment.	Decision
+We leave open the contentions of the parties except those which we have finally pronounced upon.	None
+Subject to the above, the Magistrate shall proceed with the complaint.	Decision
+The appeal stands disposed of as aforesaid.	Decision

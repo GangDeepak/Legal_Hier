@@ -1,0 +1,156 @@
+ K. JAIN, J. Leave granted in S.L.P. (C) Nos. 875 of 2008, 10759 of 2010 and 6501 of 2011.	None
+This batch of appeals, by grant of leave, arises out of judgments dated 26th August, 2002 in C.E.R. No. 11 of 2001, 11th April, 2007 in C.E.A. No. 10 of 2004, 8th September, 2009 in C.E.A. No. 6 of 2003 and 25th October, 2010 in C.E.R. No. 51 of 2002 passed by the High Court of Judicature at Allahabad.	Issue
+By the impugned judgments, rendered in the reference applications filed by the assessee, under Section 35H of the Central Excise Act, 1944 (for short the Act), the questions referred by the Customs, Excise and Gold (Control) Appellate Tribunal, as it then existed, (for short the Tribunal) have been answered in favour of the revenue.	Issue
+In order to comprehend the controversy at hand, a few material facts may be noticed.	None
+At the outset, it may be noted that these appeals relate to the period between August 1992 to June 1996.	None
+The appellant assessee, a body corporate, claiming to be pioneers in the concept of flexible packaging, is engaged in the manufacture of various types of packaging machines, marketed as Automatic form fill and seal machines (for short FS machines), classified under chapter heading 8422.00 of the Schedule to the Central Excise Tariff Act, 1985 (for short the Tariff Act).	Facts
+The literature placed on record shows that the assessee has prototype models of FS machines with technical details like web width, Roll diameter, Core diameter, typical material range, the type of material to be packed, etc.	Facts
+According to the assessee, the machines are made to order, inasmuch as all the dimensions of the packaging sealing pouches, for which the FS machine is required, are provided by the customer.	Facts
+The purchase order contains the following inspection clause Inspection Trial will be carried out at your works in the presence of (sic) our Engineer before dispatch of equipment for the performance of the machine.	None
+Flexible Laminated Plastic Film in roll form Poly Paper which are duty paid, falling under chapter headings 3920.38 and 4811.30 of the Schedule to the Tariff Act, are used for testing, tuning and adjusting various parts of the FS machine in terms of the aforeextracted condition in the purchase order.	None
+As the machine ordered is customer specific, if after inspection by the customer it is found deficient in respect of its operations for being used for a particular specified packaging, it cannot be delivered to the customer, till it is readjusted and tuned to make it match with the required size of the pouches as per the customers requirement.	Facts
+On completion of the above process and when the customer is satisfied, an entry is made in the RG 1 register declaring the machine as manufactured, ready for clearance.4.	Facts
+The assessee filed declarations and availed of the benefit of Modvat credit in respect of the Flexible Laminated Plastic Film in roll form Poly Paper used for testing the FS machine.	Facts
+On 4th March, 1993, a notice was issued to the assessee to show cause as to why the benefit of Modvat credit on the above goods be not denied, on the ground that they have used the said material for the purpose of testing the final product i.e. the FS machine which cannot be treated as inputs as stipulated in Rule 57A of the Central Excise Rules, 1944 (for short the Rules).	Facts
+On a similar ground, a number of show cause notices were issued to the assessee covering the period from August 1992 to June 1996.	Facts
+The assessees reply to the show cause notices did not find favour with the adjudicating authority, who accordingly, denied the benefit of Modvat credit on the said items.	Facts
+Appeals preferred by the assessee before the Commissioner (Appeals) and the Tribunal were also dismissed.5.	Facts
+Aggrieved thereby, the assessee filed applications seeking reference to the High Court on the questions proposed.	Facts
+However, having failed to persuade the Tribunal that its orders gave rise to questions of law, the assessee moved the Allahabad High Court, praying for a direction to the Tribunal for reference.6.	Facts
+The High Court partly allowed the application and directed the Tribunal to draw a statement of the case and refer the following questions of law for its opinion Q1)	None
+Whether, in the circumstances of the present case, facts of which are not in dispute, duties paid on material, namely, plastic films poly paper used for testing machines for forming commercial technical opinion as to their marketability excisability would be eligible to be taken as credit (sic) under rule 57A read with relevant notification?Q2)	Facts
+Whether such use of material in testing in view of the purposes mentioned above, could be said to be used (sic) in the manufacture of or use in relation to the manufacture of the final products viz., Machines as assembled?	None
+As aforesaid, the High Court has answered both the questions in the negative, opining that testing the performance of a final product is not a process of manufacture and therefore, materials used for testing the performance of the FS machine cannot be termed as inputs for the purpose of allowing Modvat credit.	Facts
+According to the High Court, anything required to make the goods marketable must form a part of the manufacture and any raw material or any materials used for the same would be a component part of the end product.	Facts
+It has observed that materials used after manufacture of the final product, viz.	Facts
+the FS machine, is complete, is only to detect the deficiency in the final product and therefore, could not be the goods used in or in relation to the manufacture of the final product within the meaning of Rule 57A of the Rules.	Facts
+Hence the present appeals by the assessee.8.	Facts
+Assailing the opinion of the High Court, Mr. Rajesh Kumar, learned counsel appearing on behalf of the assessee submitted that the expression in or in relation to used in Rule 57A of the Rules is very wide and is used to expand the scope, meaning and content of the expression inputs so as to include all inputs so long as these are used in or in relation to the manufacture of finished excisable goods.	Arguments of Petitioner
+It was argued that since the machines are tailor made, as per the specifications provided by a customer to achieve a distinct and different result, it is of no use to any other customer.	Arguments of Petitioner
+Therefore, unless each individual machine is tested by using the flexible plastic films in the presence of the customer or his representative, as per the terms of the contract, to satisfy him that it is capable of being used for a particular packing as specified by him, the process of manufacture of the final product cannot be said to be complete.	Arguments of Petitioner
+It was contended that the testing of the machine being an integral process of the manufacture and marketability of the final product, particularly in terms of the specific condition in the contract, the claim for Modvat credit was admissible on flexible plastic films consumed in the testing of the FS machines.	Arguments of Petitioner
+It was stressed that to avail of the Modvat credit in respect of an input, it is not necessary that such input must be physically present in the finished product.9.	Arguments of Petitioner
+In support of the proposition that the material used in testing, for the purpose of verification of certain characteristics of the final product, is an input in or in relation to the manufacture, learned counsel placed reliance on the decisions of this Court in Commissioner of Income Tax, Kerala, Vs.	Arguments of Petitioner
+Tara Agencies ((2007) 6 SCC 429 ), Maruti Suzuki Ltd.	Arguments of Petitioner
+Vs.	Reasoning
+Commissioner of Central Excise, DelhiIII ((2009) 9 SCC 193 2009 (240) E.L.T. 641 (S.C.)), National Leather Cloth Manufacturing Company Vs.	Arguments of Petitioner
+Union of India Anr.	Arguments of Petitioner
+((2010) 12 SCC 218 2010 (256) E.L.T. 321 (S.C.)) and a decision of the Bombay High Court in	Arguments of Petitioner
+Tata Engineering Locomotive Co. Ltd.	Arguments of Petitioner
+Vs.	Reasoning
+Commr.	Arguments of Petitioner
+Of C. Ex., Pune (2010 (256) E.L.T. 56 (Bom.)).10.	Arguments of Petitioner
+Per contra, Mr. Mukul Gupta, learned senior counsel appearing for the revenue, supporting the decision of the High Court, contended that Modvat credit is available only on the inputs which are actually used in the manufacture of the final product.	Arguments of Respondent
+According to the learned counsel, testing of a machine can take place only after the manufacture of the machine is complete and therefore, any goods used in a process subsequent to the completion of the process of manufacture cannot be termed as inputs within the meaning of Rule 57A of the Rules.	Arguments of Respondent
+Before analysing the rival submissions, it would be appropriate to refer to the relevant statutory provisions.	None
+The Modvat scheme, introduced with effect from 1st March 1986, was aimed at allowing credit to the manufacturers for the excise duty paid by them in respect of the inputs used in the manufacture of the finished product.	None
+Rules 57A and 57C of the Rules, which make a manufacturer eligible to avail of the credit for the duty paid on the inputs read as follows RULE 57A Applicability.	None
+(1) The provisions of this section shall apply to such finished excisable goods (hereinafter referred to as the final products) as the Central Government may, by notification in the Official Gazette, specify in this behalf, for the purpose of allowing credit of any duty of excise or the additional duty under Section 3 of the Customs Tariff Act, 1975 (51 of 1975), as may be specified in the said notification (hereinafter referred to as the specified duty) paid on the goods used in or in relation to the manufacture of the said final products whether directly or indirectly and whether contained in the final product or not (hereinafter referred to as the inputs) and for utilising the credit so allowed towards payment of duty of excise leviable on the final products, whether under the Act or under any other Act, as may be specified in the said notification, subject to the provisions of this section and the conditions and restrictions that may be specified in the notification Provided that the Central Government may specify the goods or classes of goods in respect of which the credit of specified duty may be restricted.	None
+Explanation.	None
+For the purposes of this rule, inputs includes (a) inputs which are manufactured and used within the factory of production, in or in relation to, the manufacture of final products, (b) paints and packaging materials, (c) inputs used as fuel, (d) inputs used for generation of electricity, used within the factory of production for manufacture of final products or for any other purpose, and (e) accessories of the final product cleared alongwith such final product, the value of which is included in the assessable value of the final product, but does not include machines, machinery, plant, equipment, apparatus, tools, appliances or capital goods as defined in rule 57Q used for producing or processing of any goods or for bringing about any change in any substance in or in relation to the manufacture of the final products packaging materials in respect of which any exemption to the extent of the duty of excise payable on the value of the packaging materials is being availed of for packaging any final products (iii) packaging materials or containers, the cost of which is not included in the assessable value of the final products under section 4 of the Act and crates and glass bottles used for aerated waters.	None
+(2) Notwithstanding anything contained in subrule (1), the Central Government may, by notification in the official Gazette, declare the inputs on which declared duties of excise or additional duty (hereinafter referred to as declared duty) paid shall be deemed to have been paid at such rate or equivalent to such amount as may be specified in the said notification and allow the credit of such declared duty deemed to have been paid in such manner and subject to such condition as may be specified in the said notification even if the declared inputs are not used directly by the manufacturer of final products declared in the said notification, but are contained in the said final products.	None
+Explanation.  	None
+For the purposes of this subrule, it is clarified that even if the declared inputs are used directly by a manufacturer of final products, the credit of the declared duty shall, notwithstanding the actual amount of duty paid on such declared inputs, be deemed to be equivalent to the amount specified in the said notification and the credit of the declared duty shall be allowed to such manufacturer.	None
+Rule 57C. Credit of duty not to be allowed if final products are exempt.	None
+No credit of the specified duty paid on the inputs used in the manufacture of a final product (other than those cleared either to a unit in a Free Trade Zone or to a hundred per cent Export Oriented Unit) or to a unit in an Electronic Hardware Technology Park or to a unit in Software Technology Parks or supplied to the United Nations or an international organisation for their official use or supplied to projects funded by them, on which exemption of duty is available under notification of the Government of India in the Ministry of Finance (Department of Revenue) No.108/95Central Excises, dated the 28th August, 1995 shall be allowed if the final product is exempt from the whole of the duty of excise leviable thereon or is chargeable to nil rate of duty.	None
+It is manifest that Rule 57A of the Rules entitled a manufacturer to take credit of the Central Excise duty paid on the inputs used in or in relation to the manufacture of the final product provided that the input and the finished product are excisable goods and fall under any of the specified chapters in the tariff schedule.	Reasoning
+It is pertinent to note that vide Notification No.28/95C.E. (N.T.), dated 29th June 1995, the said Rule was amended and the phrase whether directly or indirectly and whether contained in the final product or not was inserted.	Reasoning
+There is no dispute that in the instant case, both the FS machines and the flexible laminated plastic film and poly paper are excisable.	Reasoning
+Therefore, the short question for consideration is whether the said material on which Modavt credit is claimed by the assessee, not physically used in the manufacture of the said machine but used for testing the FS machines would be covered within the sweep of the expression in or in relation to the manufacture of the final products, as appearing in Rule 57A of the Rules.	Reasoning
+In short, the bone of contention is as to what meaning is to be assigned to the expression in relation to the manufacture of final products.	Reasoning
+In our opinion, apart from the fact that the amended Rule itself contemplates that physical presence of the input, in respect of which Modvat credit is claimed, in the final product is not a prerequisite for such a claim, even otherwise this issue is no longer resintegra.	Reasoning
+In Collector of Central Excise Ors.	Reasoning
+Vs.	Reasoning
+Solaris Chemtech Ltd.	Reasoning
+Ors.	Reasoning
+((2007) 7 SCC 347 2007 (214) E.L.T. 481 (S.C.)), this Court while examining the scope and purport of the expression in or in relation to the manufacture of the final products observed that these words have been used to widen and expand the scope, meaning and content of the expression inputs so as to attract goods which do not enter into finished goods.	Reasoning
+Speaking for the Bench, S.H. Kapadia, J. (as his Lordship then was) held as follows Lastly, we may point out that in order to appreciate the arguments advanced on behalf of the Department one needs to interpret the expression in or in relation to the manufacture of final products.	None
+The expression in the manufacture of goods indicates the use of the input in the manufacture of the final product.	None
+The said expression normally covers the entire process of converting raw materials into finished goods such as caustic soda, cement, etc.	None
+However, the matter does not end with the said expression.	None
+The expression also covers inputs used in relation to the manufacture of final products.	None
+It is interesting to note that the said expression, namely, in relation to also finds place in the extended definition of the word manufacture in Section 2(f) of the Central Excises and Salt Act, 1944 (for short the said Act).	None
+It is for this reason that this Court has repeatedly held that the expression in relation to must be given a wide connotation.	None
+The Explanation to Rule 57A shows an inclusive definition of the word inputs.	None
+Therefore, that is a dichotomy between inputs used in the manufacture of the final product and inputs used in relation to the manufacture of final products.	None
+The Department gave a narrow meaning to the word used in Rule 57A.	None
+The Department would have been right in saying that the input must be raw material consumed in the manufacture of final product, however, in the present case, as stated above, the expression used in Rule 57A uses the words in relation to the manufacture of final products.	None
+The words in relation to which find place in Section 2(f) of the said Act have been interpreted by this Court to cover processes generating intermediate products and it is in this context that it has been repeatedly held by this Court that if manufacture of final product cannot take place without the process in question then that process is an integral part of the activity of manufacture of the final product.	None
+Therefore, the words in relation to the manufacture have been used to widen and expand the scope, meaning and content of the expression inputs so as to attract goods which do not enter into finished goods.	None
+In J.K. Cotton Spg.	None
+Wvg.	None
+Mills Co. Ltd. v. STO (AIR 1965 SC 1310 )	None
+this Court has held that Rule 57A refers to inputs which are not only goods used in the manufacture of final products but also goods used in relation to the manufacture of final products.	None
+Where raw material is used in the manufacture of final product it is an input used in the manufacture of final product.	None
+However, the doubt may arise only in regard to use of some articles not in the mainstream of manufacturing process but something which is used for rendering final product marketable or something used otherwise in assisting the process of manufacture.	None
+This doubt is set at rest by use of the words used in relation to manufacture.	None
+(Emphasis supplied by us)	None
+In Collector of Central Excise, Jaipur Vs.	None
+Rajasthan State Chemical Works, Deedwana, Rajasthan ((1991) 4 SCC 473 1991 (55) E.L.T. 444 (S.C.)), to which a reference was made in Solaris Chemtech Limited (supra), this Court had held that any operation which results in the emergence of the manufactured goods would come within the ambit of the term manufacture.	None
+This is because of the words used in Rule 57A, namely, goods used in or in relation to the manufacture of final products.	None
+At this juncture, it would also be apposite to refer to Circular No.33/33/94/CX.8, dated 4th May 1994, issued by the Central Board of Excise and Customs, relating to the Modvat scheme.	None
+The relevant part of the Circular reads as under Subject Instruction regarding Modvat Scheme.	None
+With a view to consolidate the instructions and streamline of procedures, the following instructions are issued in supersession of all the instructions issued on or before 31st December, 1993, in relation to Modvat  Modvat credit is available for all excisable goods used as inputs in or in relation to the manufacture of finished goods.	None
+It is, therefore, clarified that the input credit is admissible whether such input is physically present in the finished excisable goods or not so long such inputs are used in or in relation to the manufacture of finished excisable goods.	None
+In this connection definition of the term manufacture as propounded by the Supreme Court in the Empire Industrys case1985 (20) E.L.T. 179 and C.C.E. v. Rajasthan State Chemical case  1991 (55) E.L.T. 444, 448 (S.C.) are quite relevant.	None
+(Emphasis supplied)	None
+It is trite to state that manufacture takes place when the raw materials undergo a series of changes and transformation that result in the formation of a commercially distinct commodity having a different name, character and use.	None
+It is equally well settled that physical presence of an input in the final finished excisable goods is not a prerequisite for claiming Modvat credit under Rule 57A of the Rules.	None
+It may very well be indirectly related to manufacture and still be necessary for the completion of the manufacture of the final product.	None
+It needs little emphasis that the process of manufacture is complete only when the product is rendered marketable.	None
+Thus, manufacture is intrinsically integrated with marketability.	None
+In this regard it would be profitable to refer to the following observations of this Court in Union of India Ors.	None
+Vs.	Reasoning
+Sonic Electrochem (P) Ltd. Anr.	None
+((2002) 7 SCC 435 )	None
+We do not consider it necessary to discuss the cases on the question of marketability, as this Court has dealt with all relevant cases in A.P. SEB case ((1994) 2 SCC 428 ).	None
+In that case, the question was whether electric poles manufactured with cement and steel for the appellant Board were marketable.	None
+After considering various cases on the question of marketability of goods, Jeevan Reddy, J., speaking for the Court, summed up the position thus (SCC p. 434, para 10).	None
+It would be evident from the facts and ratio of the above decisions that the goods in each case were found to be not marketable.	None
+Whether it is refined oil (nondeodorised) concerned in Union of India v. Delhi Cloth and General Mills Co. Ltd. (AIR 1963 SC 791 ) or kiln gas in South Bihar Sugar Mills Ltd. v. Union of India (AIR 1968 SC 922 ) or aluminium cans with rough uneven surface in Union Carbide India Ltd. v. Union of India ((1986) 2 SCC 547 ) or PVC films in Bhor Industries Ltd. v. CCE ((1989) 1 SCC 602 ) or hydrolysate in CCE v. Ambalal Sarabhai Enterprises (P) Ltd. ((1989) 4 SCC 112 ) the finding in each case on the basis of the material before the Court was that the articles in question were not marketable and were not known to the market as such.	None
+The marketability is thus essentially a question of fact to be decided on the facts of each case.	None
+There can be no generalisation.	None
+The fact that the goods are not in fact marketed is of no relevance.	None
+It may be noticed that in the cases referred to in the passage, quoted above, the reasons for holding the articles not marketable are different, however, they are not exhaustive.	None
+It is difficult to lay down a precise test to determine marketability of articles.	None
+Marketability of goods has certain attributes.	None
+The essence of marketability is neither in the form nor in the shape or condition in which the manufactured articles are to be found, it is the commercial identity of the articles known to the market for being bought and sold.	None
+The fact that the product in question is generally not being bought and sold or has no demand in the market would be irrelevant.	None
+The plastic body of EMR does not satisfy the aforementioned criteria.	None
+There are some competing manufacturers of EMR.	None
+Each is having a different plastic body to suit its design and requirement.	None
+If one goes to the market to purchase the plastic body of EMR of the respondents either for replacement or otherwise one cannot get it in the market because at present it is not a commercially known product.	None
+For these reasons, the plastic body, which is a part of EMR of the respondents, is not goods so as to be liable to duty as parts of EMR under para 5(f) of the said exemption notification.	None
+(Emphasis supplied by us)	None
+In Collector of Central Excise, CalcuttaII	Reasoning
+Vs.	Reasoning
+M s Eastend Paper Industries Ltd. ((1989) 4 SCC 244 ), the assessee was manufacturing different kinds of paper.	None
+A question arose whether the wrapping paper manufactured and used for wrapping the finished product is a part of manufacture.	None
+It was held that wrapping of finished product by wrapping paper is process incidental and ancillary to completion of the manufactured product under Section 2 (f) of Act.	None
+Thus, the Court held that, anything required to make goods marketable, must form a part of manufacture and any raw material or any material used for same would be a component part of the final product.	Facts
+In Dharampal Satyapal Vs.	None
+Commissioner of Central Excise, DelhiI, New Delhi ((2005) 4 SCC 337 ), the term marketable has been held to mean saleable, as under 18Marketability is an attribute of manufacture.	None
+It is an essential criteria for charging duty.	None
+Identity of the product and marketability are the twin aspects to decide chargeability.	None
+Dutiability of the product depends on whether the product is known to the market.	None
+The test of marketability is that the product which is made liable to duty must be marketable in the condition in which it emerges.	None
+Marketable means saleable.	None
+The test of classification is, how are the goods known in the market.	None
+These tests have been laid down by this Court in a number of judgments including Moti Laminates (P).	None
+Ltd. v. CCE ((1995) 3 SCC 23 ), Union of India v. Delhi Cloth General Mills Co. Ltd. ((1997) 5 SCC 767 ) and Cadila Laboratories (P) Ltd. v. CCE ((2003) 4 SCC 12 ).	None
+Thus, if a product is not saleable, it will not be marketable and consequently the process of manufacture would not be held to be complete and duty of excise would not be leviable on it.	Reasoning
+The corollary to the above is that till the time the step of manufacture continues, all the goods used in relation to it will be considered as inputs and thus, entitled to Modvat credit under Rule 57A of the Rules.	Reasoning
+In the present case, as aforesaid, each machine is tailor made according to the requirements of individual customers.	Reasoning
+If the results are not in conformity with the order, then the machine loses its marketability and is of no use to any other customer.	Reasoning
+Thus, the process of manufacture will not be said to be complete till the time the machines meet the contractual specifications and that will not be possible unless the machines are subjected to individual testing.	Reasoning
+Even though the revenue has alleged that the process of manufacture is complete as soon as the machine is assembled, yet it has not discharged the onus of proving the marketability of the machines thus assembled, prior to the stage of testing.	None
+Moreover, as has been held in the case of Hindustan Zinc Ltd. Vs.	None
+Commissioner of Central Excise, Jaipur ((2005) 2 SCC 662 ), the burden of proving whether a particular product is marketable or not is on the department and in the absence of such proof it cannot be presumed to be marketable.	None
+In the absence of the revenue having adduced any such evidence or contorted the assessees claim that the machines cannot be sold unless testing is done with some alternative evidence as to their marketability, the stand of the revenue cannot be accepted.	None
+Thus, in our opinion the process of testing the customised FS machines is inextricably connected with the manufacturing process, in as much as, until this process is carried out in terms of the aforeextracted covenant in the purchase order, the manufacturing process is not complete the machines are not fit for sale and hence not marketable at the factory gate.	Reasoning
+We are, therefore, of the opinion that the manufacturing process in the present case gets completed on testing of the said machines and hence, the aforestated goods viz.	Reasoning
+the flexible plastic films used for testing the FS machines are inputs used in relation to the manufacture of the final product and would be eligible for Modvat credit under Rule 57A of the Rules.	Reasoning
+In view of the aforegoing discussion, the opinion rendered by the High Court on the questions referred by the Tribunal cannot be sustained.	Decision
+We hold that the process of testing the customised machines is integrally connected with the ultimate production of the final product viz.	Decision
+the FS machines and therefore, that process is one in relation to the manufacture, falling within the sweep of Rule 57A of the Rules.	Decision
+Consequently, the appeals are allowed and the impugned orders are set aside, leaving the parties to bear their own costs.	None

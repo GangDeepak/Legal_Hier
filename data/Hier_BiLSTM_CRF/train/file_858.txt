@@ -1,0 +1,58 @@
+ Leave granted.	None
+The Respondent No. 2 State of Orissa, issued notice inviting tenders through eprocurement for construction of model school building at Madhapur under Sukinda Block in Jaipur District, Orissa.	Facts
+The approximate cost of the project was Rs. 280 lakhs.	Facts
+The Appellant and Respondent No. 1 submitted their bids.	Facts
+On opening of the technical bids, the bid of Respondent No. 1 was rejected.	Facts
+The Evaluation Committee was of the view that Respondent No. 1s bid was accompanied by joint venture agreement instead of a subcontract.	Facts
+Since this was expressly barred, the bid was rejected.	Facts
+The Appellants bid was found to be in compliance and accordingly the final bid was opened.	Facts
+The Respondent No. 1 filed the writ petition before the High Court of Orissa inter alia, praying for setting aside of the rejection of his bid and a declaration that the tender quoted by the Appellant was invalid.	Facts
+The main contention against the Appellant was that the Appellant firm did not have the necessary experience of five financial years in the past period in its own name.	Facts
+According to the Respondent the experience claimed by the Appellant was the experience of one of its partners who had adequate, experience to the extent of five years.	Facts
+This according to the Respondent, could not be taken as the experience of the partnership firm.	Facts
+This contention apparently found favour with the High Court which however held that vide Section 14 of the Partnership Act, 1932, the experience was not the property of the firm and observed as follows A plain reading of the provision leads us to an irresistible conclusion that any property of the individual partner cannot be the property of the partnership firm, unless a contrary intention appears.	Facts
+Experience of one partner namely, Ramesh has is also an asset and it can be termed as property, so his property cannot be taken to be the property of the partnership firm for the clearcut provision of Section 14 of Partnership Act In the view of the matter, opposite party, No. 5 does not have the requisite experience to be eligible to submit tender with respect to the work in question.	Facts
+Since the Petitioner and opposite party No. 5 are not eligible for different reasons, the entire tender process has to be set aside and direction should be given for retender.	Facts
+Accordingly, the award of the contract in favour of the Appellant was set aside.	Issue
+The Appellant is in appeal against the said order.	Issue
+The only issue is whether the experience of one of the partners of the Appellant firm could have been treated to be experience of the firm itself and, therefore, whether the Appellants bid was valid.	Issue
+Clause 111 (g) of the Detailed Tender Call Notice (DTCN) prescribes the following requirement or experience as follows 111(g).	None
+The intending tenderer (s) should have executed similar nature of work worth 40 of the estimated cost put to tender during any three financial years of the last preceding five years.	None
+In case of contract spanning for more than one financial year, the break up of execution of work in each of financial year should be furnished need to be furnished by the bidder as per Schedule D. (Similar nature of works means construction of buildings inclusive of electrical installations and P.H. works.)	None
+There is no doubt that the intending tenderer is the Appellant firm which is a registered partnership firm comprising of four persons.	Reasoning
+It is also not in dispute that the State Government found one of the partners, namely, Shri Ramesh Das as having the requisite experience in terms of Clause 111(g) and taking his experience to be the experience of the partnership firm the State considered the Intending tenderer qualified and awarded the contract.	Reasoning
+The Learned Counsel for the Appellant submitted that the High Court committed a serious error in distinguishing the decision of this Court in New Horizons Limited and Another Vs. Union of India (UOI) and Others, from the present case.	Arguments of Petitioner
+It was further submitted that the fact that the experience of a partner is the experience of the partnership firm is the foundation of the decision in New Horizons Limited and Anr.	Arguments of Petitioner
+(supra) on the basis of which this Court held that the experience of one of the constituents of the joint venture is the experience of a joint venture.	Arguments of Petitioner
+Further, according to the Learned Counsel for the Appellant the High Court fell into grave error in holding that experience is something that cannot belong to the firm as an asset and for this purpose relied on the provisions of the Partnership Act, 1932, with regard to property and came to the conclusion that experience cannot belong to a partnership firm in the sense an asset belongs to it.	Arguments of Petitioner
+8. Learned Counsel for the Respondent No. 1, however, supporting the judgment of the High Court has submitted that a partnership firm cannot be said to acquire the experience of any of its partners and, therefore, there was no error in the judgment of the High Court.	Arguments of Respondent
+We find that the matter is no more resintegra and is covered by the decision of this Court in New Horizons Limited and Anr.	Reasoning
+(supra).	Reasoning
+In that case, the Court was considering whether the joint venture firm which had submitted a tender was entitled to have the experience of one of its constituents counted as the necessary experience required by the tenderer.	Reasoning
+The Tender Evaluation Committee had ignored the experience on the ground that the said experience was not in the name of Nabadurga Construction Limited but of its constituents and, therefore, New Horizons Limited and Anr.	Reasoning
+(supra) did not fulfill the conditions about the eligibility of the award for the contract.	Reasoning
+This Court in para 23 of New Horizons Limited and Anr.	Reasoning
+(supra) observed as follows Even if it be assumed that the requirement regarding experience as set out in the advertisement dated 22.4.1993 inviting tenders is condition about eligibility for consideration of the tender, though we find no basis for the same, the said requirement regarding experience cannot be construed to mean that the said experience should be of the tenderer in his name only.	Reasoning
+It is possible to visualise a situation where a person having past experience has entered into a partnership and the tender has been submitted in the name of the partnership firm which may not have any past experience in its own name.	Reasoning
+That does not mean that the earlier experience of one of the partners of the firm cannot be taken into consideration.	Reasoning
+This Court further observed that Once it is held that NHL is a joint venture, as claimed by it in the tender, the experience of its various constituents, namely, TPI, LMI and WML as well as IIPL had to be taken into consideration if the Tender Evaluation Committee had adopted the approach of a prudent businessman.	Reasoning
+This Court was of the view that the experience of a joint venture is akin to the experience of a partnership and further observed as under The expression joint venture is more frequently used in the United States.	Reasoning
+It connotes a legal entity in the nature of a partnership engaged in the joint undertaking of a particular transaction for mutual profit or an association of persons or companies jointly undertaking some commercial enterprise wherein all contribute assets and share risks.	Reasoning
+It requires a community of interest in the performance of the subjectmatter, a right to direct and govern the policy in connection therewith, and duty, which may be altered by agreement, to share both in profit and losses.	Reasoning
+Having regard to the decision, we find that the Tender Evaluation Committee had rightly decided to take into account the experience of Shri Ramesh Das one of the partners of the Appellant firm and on that basis held the Appellant to be eligible.	Reasoning
+Blacks Law Dictionary, relied on by the Learned Counsel for the Appellant gives the following meaning of experience as follows Experience.  	None
+A state, extent, or duration of being engaged in a particular study or work the real life as contrasted with the ideal or imaginary.	None
+A word implying skill, facility, or practical wisdom gained by personal knowledge, feeling and action, and also the course or process by which One attains knowledge or wisdom.	None
+It is clear that the view of the High Court that experience is something which cannot be an asset of the firm and, therefore, not capable of being attributed to a firm is not correct.	Reasoning
+It is settled law that a partnership has been held to be a compendious name for its partners and that experience is a human attribute which does not form part of the assets or property of the firm in the usual sense.	Reasoning
+This is also obvious since it is not, and in any case not capable of, distribution as assets on the dissolution of the firm.	Reasoning
+This Court in New Horizons Limited and Anr.	Reasoning
+(supra) considered the extent of experience in a partnership as follows While considering the requirement regarding experience it has to be borne in mind that the said requirement is contained in a document inviting offers for a commercial transaction, The terms and conditions of such a document have to be construed from the standpoint of a prudent businessman.	Reasoning
+When a businessman enters into a contract whereunder some work is to be performed he seeks to assure himself about the credentials of the person who is to be entrusted with the performance of the work.	Reasoning
+Such credentials are to be examined from a commercial point of view which means that if the contract is to be entered with a company he will look into the background of the company and the persons who are in control of the same and their capacity to execute the work.	Reasoning
+He would go not by the name of the company but by the person behind the company.	Reasoning
+While keeping in view the past experience he would also take note of the present state of affairs and the equipment and resources at the disposal of the company.	Reasoning
+In this view of the matter, we are of the view that the appeal must be allowed The Learned Counsel for the Appellant also raised the issue about the ineligibility of the Respondent No. 1.	Decision
+In the view we have taken we see no reason to decide the same, in the result, the appeal is allowed.	Decision
+The impugned order dated 17.07.2012 passed by the High Court in Writ Petition (C) No. 6135 of 2012 is set aside.	Decision
+There shall be no order as to costs.	Decision

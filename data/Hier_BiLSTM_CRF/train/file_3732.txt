@@ -1,0 +1,75 @@
+ Sikri, J.1.	None
+This is an appeal on certificate granted by the Gujarat High Court under S. 66A (2) of the Indian Incometax Act, 1922, hereinafter referred to as the Act, and involves the interpretation of S. 16(3)(a)(iii) and S. 16(3) (a)(iv) of the Act.	Issue
+The facts are not in dispute and it is not necessary to record the findings of the Incometax Officer and the Assistant Appellate Commissioner.	Issue
+It is sufficient to extract the relevant facts from the order of the Appellate Tribunal.2.	None
+The respondent, Keshavalal Lallubhai Patel, hereinafter referred to as the assessee, was assessed till the assessment year 195253 (Accounting year ending March 31, 1952) as an individual.	Facts
+On April 18, 1951, he swore an affidavit before the Deputy Nazir, District Court, Ahmedabad, throwing all his selfacquired properties, mentioned in the affidavit, into the common hotchpotch of the Hindu undivided family, consisting of himself and his two sons.	Facts
+The assessee had a wife and two sons, one a major and the other a minor.	Facts
+However, no entries in the books were passed.	Facts
+On June 12, 1951, an oral partition was effected between the several members of the Hindu undivided family, and consistent with this partition, entries in the books were made.	Facts
+A joint declaration was made by the assessee, his wife and the major son on June 26, 1951, before the District Court.	Facts
+Later, a joint statement was made on December 5, 1951, before the Revenue Court.	Facts
+Properties were transferred thereafter in accordance with this arrangement to the means of the several members of the family.3.	Facts
+For the assessment year 195253, the assessee claimed that assessment should be made taking into consideration the conversion of the selfacquired into joint family property and the subsequent partition.	Facts
+The Appellate Tribunal confirmed the order of the Incometax Officer and Assistant Appellate Commissioner disallowing the claim of the assessee on the ground that throwing into the hotchpotch ones selfacquired property, and a subsequent partition amongst the members of the Hindu undivided family is an indirect transfer of the property within the meaning of S. 16(3) of the Act.	Facts
+The Appellate Tribunal at the instance of the assessee referred the following question to the High Court Whether on the facts and circumstances of this case the throwing into the hotchpotch of the applicants selfacquired property and the subsequent partition among the members of the Hindu undivided family is an indirect transfer of property so far as the wife and minor son are concerned, within the meaning of Section 16(3)(a)(iii) and (iv) of the Incometax Act?4.	Facts
+The High Court answered the above question in favour of the assessee.	None
+As stated above, it granted a certificate under S. 66A (2) of the Act.5.	Facts
+Mr. Rajagopala Sastri, the learned counsel for the Revenue, urges before us that it is a clear case of indirect transfer by the assessee, within S. 16(3) (a)(iii) and S. 16(3) (a)(iv) of the Act.	Arguments of Petitioner
+He does not dispute the genuineness of the transactions.	Arguments of Petitioner
+He says Look at the position antecedent to the affidavit dated April 18, 1951.	None
+The property in dispute belonged to the assessee.	None
+Then look at the position after the partition.	Arguments of Petitioner
+The properties come to be held by the wife and the minor son.	Arguments of Petitioner
+These two facts, according to him, show that there was a transfer, and it was an indirect transfer because the joint Hindu family had been utilised only as a conduit pipe by the assessee to transfer properties to the wife and the minor son.6.	Arguments of Petitioner
+Section 16 (3)(a)(iii) and (iv) read as follows 16 (3)  	None
+In computing the total income of any individual for the purpose of assessment, there shall be included  (a) so much of the income of a wife or minor child of such individual as arises directly or indirectly (iii) from assets transferred directly or indirectly to the wife by the husband otherwise than for adequate consideratior in connection with an agreement to live apart or(iv) from assets transferred directly or indirectly to the minor child, not being a married daughter, by such individual otherwise than for adequate consideration .	None
+7. Mr. Viswanatha Sastri, the learned counsel for the assessee, contends that in this case there is no transfer in the strict sense, and as it is a taxing statute, the provisions should be construed strictly.	Arguments of Respondent
+He says that neither the act of throwing the selfacquired property into the hotchpotch, nor the partition of joint family property was a transfer within the meaning of S. 16(3)(a)(iii) or S. 16(3)(a)(iv).	Arguments of Respondent
+If the legislature wanted to rope in these acts, it could have used another word, such as arrangement.8.	Arguments of Respondent
+Apart from authority, looking at the language of S. 16(3) (a)(iii), following two conditions must be satisfied before the said provision can be applied (1) Assets must be transferred by the husband to the wife(2) the assets must be transferred directly of indirectly.	None
+Two questions arise is the word transfer used in the technical sense or in the popular sense?	None
+And, secondly, what is comprehended in the word indirectly?9.	None
+Some assistance is derived in ascertaining the meaning of the word transfer by looking at the language of S. 16 (1)(c).	Reasoning
+In that clause, the legislature uses the words settlement, disposition and transfer, and in the expression settlement or disposition is included any disposition, trust, covenant, agreement or arrangement.	Reasoning
+In this clause, the word transfer is clearly used in the strict sense.	Reasoning
+If the legislature were minded to include an arrangement or agreement, not amounting to transfer, in S. 16(3)(a)(iii), it could have used these words.	Reasoning
+It seems to us that the word transfer has been used in the strict sense and not in the sense of including every means by which the property may be passed from one to another.	None
+This conclusion is reinforced by the consideration that, as observed by this Court in Philip John Plasket Thomas v. Commr. of Incometax, Calcutta, (1963) 49 ITR (SC) 97 (AIR 1964 SC 587 ) S.16(3) creates an artificial income and must be construed strictly.10.	None
+Coming now to the expression directly or indirectly there does not seem to be any doubt that the legislature meant to rope in indirect transfers.	None
+One example is furnished by Commr. of Incometax v. C. M. Kothari, (1963) 49 ITR (SC) 107 (AIR 1964 SC 331 ).	None
+But there must still be a transfer of assets.	None
+The word indirectly does not destroy the significance of the word transfer.11.	None
+Mr. Rajagopala Sastri relies strongly on the decision of this Court in (1963) 49 ITR (SC) 107 (AIR 1964 SC 331 ).	Arguments of Petitioner
+But in our opinion that case is clearly distinguishable and does not assist us in this case.	Arguments of Petitioner
+In that case, C. M. Kothari and his sons were both desirous of putting Rs. 30,000 in the hands of their wives to enable them to buy a share in a house.	Arguments of Petitioner
+Instead of directly gifting the amount, they hit upon the following device C. M. Kothari would gift Rs. 30,000 to the daughterinlaw and the son would gift Rs. 30,000 to the mother.	Arguments of Petitioner
+This Court held that it was a palpable device and a trick and the two cross transactions amounted to an indirect transfer within S.16(3)(a)(iii).	Arguments of Petitioner
+In effect, this Court held that the father used his son as a conduit pipe and the son used his father as a conduit pipe to gift Rs. 30,000 each.	Arguments of Petitioner
+Mr. Sastri relies on the words chain of transfers used by Hidayatullah, J., in the following sentence A chain of transfers, if not comprehended by the word indirectly would easily defeat the object of the law which is to tax the income of the wife in the hands of the husband, if the income of the wife arises to her from assets transferred by the husband.	Arguments of Petitioner
+But in the context they refer to the crossgifts, if we may so call the two gifts of Rs. 30,000 each.	None
+These are transfers in the strict sense of the term.	Reasoning
+In the present case there are no crossgifts.	None
+We have, on the other hand, in this case, a throwing of property into the hotchpotch and a partition of the JHF property.	Reasoning
+As will be pointed out later, the latter at any rate is not a transfer at all.12.	None
+This takes us to the facts of this case, and the question arises whether there is any transfer of assets in the strict sense.	Issue
+There is some difference of opinion whether the act of throwing selfacquired property into the hotchpotch is a transfer or not.	Reasoning
+We need not settle this controversy in this case.	Reasoning
+Let us assume that it is.	Reasoning
+But, is a partition of joint Hindu family property a transfer in the strict sense?	Reasoning
+We are of the opinion that it is not this was so held in Gutta Radhakrishnayya v. Gutta Sarasamma, ILR (1951)	Reasoning
+Mad 607 (AIR 1951 Mad 213 ) Subba Rao, J., then a Judge of the Madras High Court, after examining several authorities, came to the conclusion that partition is really a process in and by which a joint enjoyment is transformed into an enjoyment in severalty.	Reasoning
+Each one of the sharer had an antecedent title and therefore no conveyance is involved in the process as a conferment of a new title is not necessary.	Reasoning
+The Madras High Court again examined the question in M. K. Stremann v. Commr. of Income Tax, Madras, (1961) 41 ITR 297 (AIR 1962 Mad 26 ) with reference to S. 16 (3)(a)(iv).	Reasoning
+It observed that obviously no question of transfer of assets can arise when all that happens is separation in status, though the result of such severance in status is that the property hitherto held by the coparcenary is held thereafter by the separated members as tenantsincommon.	Reasoning
+Subsequent partition between the divided members of the family does not amount either to a transfer of assets from that body of the tenantsincommon to each of such tenantsincommon.13.	Reasoning
+The Punjab High Court came to the same conclusion in Jagannath v. State of Punjab, 64 Pun LR 22.	Reasoning
+Agreeing with these authorities, we hold that when the joint Hindu family property was partitioned, there was no transfer of assets within S. 16 (3)(a)(iii) and (iv) to the wife or the minor son.14.	Reasoning
+Mr. Rajagopala Sastri finally contended that we must look at the substance of the transaction.	Arguments of Petitioner
+But as pointed out by Lord Normand in Potts Executors.	Reasoning
+v. Commr.	Reasoning
+of lnland Revenue, (1952)	Reasoning
+32 Tax Cas 211 the Court is not entitled to say that for the purposes of taxation the actual transaction is to be disregarded as machinery and that the substance or equivalent financial results are the relevant consideration.	Reasoning
+It may indeed be said that if these loose principles of construction had been liberally applied, they would in many instances have been adequate to deal with tax evasion and there would have been less frequent cause for the intervention of Parliament.15.	Reasoning
+In the result the appeal fails and is dismissed with costs.16.	Decision
+Appeal dismissed.	None

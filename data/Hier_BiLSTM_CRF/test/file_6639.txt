@@ -1,0 +1,223 @@
+ Oral Judgment1.
+In these Appeals which have been filed by the Revenue, the challenge is to the order of the Income Tax Appellate Tribunal holding that the provisions of Section 2(22)(e) of the Income Tax Act,1961(for short I. T. Act) cannot be invoked as the assessee company was not a shareholder in the lending company.
+The argument in all these Appeals on behalf of the Revenue is that, though the assessee is a common shareholder with controlling stake in the lending company, the Tribunal found that Section 2(22)(e) of the I. T. Act, is not attracted and this finding raises a substantial question of law.2.
+It was then contended that the Income Tax Appellate Tribunal has applied the ratio of its own special bench decision in the case of Assistant Commissioner of Income Tax v s Bhaumik Colour Pvt Ltd reported in 2009 (313) ITR (AT)146(Mumbai)(SB), equally the Income Tax Appellate Tribunal has proceeded on the footing that the view taken in the case of Bhaumik Colour Pvt Ltd(supra) has been approved by the Division Bench of this Court in the case of Commissioner of Income Tax v s. Universal Medicare Pvt Ltd reported in 2010(324)
+ITR 263 (Bom).3.
+When each of these Appeals had appeared for admission on different dates, it was requested that they may not be disposed of by applying the ratio of this Courts judgment in Universal Medicare Pvt Ltd (supra) because the Revenue wants to urge that the view taken in the Universal Medicares case requires reconsideration.4.
+Since this was the request coming from the Revenue in all Appeals, we decided with the consent of the Revenue to place these matters on a single working day so that on this limited point we can hear the counsel appearing for the Revenue and equally that of the assessee.
+It is admitted position that if we hold that the judgment in the case of Universal Medicare (supra) does not require reconsideration, then, the individual appeals have to be decided against the Revenue by upholding the view taken by the Income Tax Appellate Tribunal.5.
+It is on this footing that the matters were placed today.6.
+Mr. Gupta, learned Senior Counsel appearing on behalf of the Revenue would submit that insofar as the facts in Income Tax Appeal No. 114 of 2012 are concerned, the reasoning of the Tribunal travels much beyond the section.
+In his submission, the Tribunals reading of the section namely 2(22)(e) of the I. T. Act, is plainly incorrect.
+There is no requirement of the assessee, in this case, being a shareholder in the recipient concern within the meaning of Section 2 (22) (e) of the I. T. Act.
+The assessee is not required to be a shareholder therein.
+The lender is a company within the meaning of Clause (e).
+According to Mr. Gupta, shareholder of the lender company is also closely connected with the concern which is a recipient of the loan or advance.
+Therefore, the recipient being required to be a registered shareholder of the lender company, cannot be spelled out from the provision in question.
+He also then submits that the judgment in the case of Universal Medicare is distinguishable on facts.
+There, the assessee was not the recipient of the loan or advance in money.
+Thus, the Division Bench of this Court in Universal Medicare was not required to go into the second aspect of the matter.
+The Division Bench, yet, answered the second question framed by it and termed as a substantial question of law.
+Though that is based on the findings of the Tribunal, particularly, as to whether the recipient was required to be a shareholder of the recipient, all such findings and observations are in the nature of obiter dictum.
+They are not binding on this Court.
+Therefore, this Court is free to take an independent view.
+In any event, if this Court is not inclined to agree with the Division Bench in the case of Universal Medicare, then, the matter can be referred to a larger bench.7.
+In supporting the above arguments, Mr. Gupta places heavy reliance upon a circular which has been issued and which according to him, fully sets out the intent of the legislature.
+Mr. Gupta submits that the Finance Act, 1987 was amended with effect from 1st April 1988.
+Inviting our attention to subclause(e), as it stood before the amendment, and thereafter, Mr. Gupta would submit that the judgments rendered including by the Division Bench of this court and the Special Bench of the Tribunal ignore completely the fact that with deletion of Sections 104 to 109 there was a likelihood of closely held companies not distributing their profits to shareholders by way of dividends but by way of loans or advances so that these are not taxed in the hands of the shareholders.
+To forestall this manipulation, the amendment has been made and full effect therefore must be given to the amended provisions or else, the intent of the legislature would be completely frustrated and defeated.
+He, therefore, submits that the view in consonance with the intent of the legislature is reflected in this circular and though it may not have a binding effect, it affords sufficient guide and assists this Court in interpreting the provisions.8.
+He has taken us through the judgments rendered by the Special Bench of the Tribunal and equally in the case of Universal Medicare.9.
+The argument of Mr. Gupta has been adopted by the other counsel appearing for the Revenue namely Mr. Malhotra, Mr. Pinto, Mr. Suresh Kumar and Mr. Ahuja.10.
+On the otherhand, Ms. Vissanjee, appearing on behalf of the assessee supported by other counsel would urge that the view taken by this Court in the case of Universal Medicare is the only view possible.
+It is submitted on behalf of the assessee that even after the amendment and insertion of the words with regard to beneficial ownership of shares, the position in law is not altered.
+The view taken that the recipients must satisfy the requirement of being a shareholder, is the correct view of the legal provision and requires no alteration, all the more when the Special Bench judgment of the Tribunal in the case of Bhaumik Colour Pvt Ltd (supra) stands approved not only by the Division Bench of this Court, but several High Courts namely Delhi High Court, Rajasthan High Court, Allahabad High Court and High Court of Jammu and Kashmir.
+It is submitted that the judgments rendered by these High Courts and particularly the Delhi High Court would show that there is nothing erroneous and this circular, therefore, cannot override the clear legal provision.
+The wording thereof cannot be ignored by preferring the language of the circular.
+That would mean the Court interprets the legal provisions in the light of their understanding of the executive or revenue.
+It is submitted that interpretation of a legal provision is the duty and function of the Court.
+Such circulars, therefore, have no binding force or effect and the Court must go by the language of the statute.11.
+Reliance is placed upon the judgments which have been compiled before us by the assessees counsel.12.
+With the assistance of the learned Senior Counsel appearing for the Revenue and the assessees, we have perused Section 2 (22) (e) of the I. T. Act.
+The same reads thus2 (22) dividend includes(a) .(b)
+(c) .(d)
+(e) any payment by a company, not being a company in which the public are substantially interested, of any sum (whether as representing a part of the assets of the company or otherwise) made after the 31st day of May, 1987 , by way of advance or loan to a shareholder, being a person who is the beneficial owner of shares (not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits) holding not less than ten per cent of the voting power, or to any concern, in which such shareholder is a member or a partner and in which he has a substantial interest (hereafter in this clause referred to as the said concern) or any payment by any such company on behalf, or for the individual benefit, of any such shareholder, to the extent to which the company in either case possesses accumulated profits.but dividend does not include(i) a distribution made in accordance with subclause (c) or subclause (d) in respect of any share issued for full cash consideration, where the holder of the share is not entitled in the event of liquidation to participate in the surplus assets (ia) a distribution made in accordance with subclause (c) or subclause (d) in so far as such distribution is attributable to the capitalised profits of the company representing bonus shares allotted to its equity shareholders after the 31st day of March, 1964 , and before the 1st day of April, 1965 (ii) any advance or loan made to a shareholder or the said concern by a company in the ordinary course of its business, where the lending of money is a substantial part of the business of the company(iii) any dividend paid by a company which is set off by the company against the whole or any part of any sum previously paid by it and treated as a dividend within the meaning of subclause (e), to the extent to which it is so set off.
+Explanation1
+The expression accumulated profits, wherever it occurs in this clause, shall not include capital gains arising before the 1st day of April, 1946 , or after the 31st day of March, 1948 , and before the 1st day of April, 1956 .Explanation2
+The expression accumulated profits in subclauses (a), (b), (d) and (e), shall include all profits of the company up to the date of distribution or payment referred to in those subclauses, and in sub clause (c) shall include all profits of the company up to the date of liquidation, but shall not, where the liquidation is consequent on the compulsory acquisition of its undertaking by the Government or a corporation owned or controlled by the Government under any law for the time being in force, include any profits of the company prior to three successive previous years immediately preceding the previous year in which such acquisition took place.
+Explanation3.
+For the purposes of this clause,(a) concern means a Hindu undivided family, or a firm or an association of persons or a body of individuals or a company(b) a person shall be deemed to have a substantial interest in a concern, other than a company, if he is, at any time during the previous year, beneficially entitled to not less than twenty per cent of the income of such concern13.
+A bare perusal thereof, would indicate that term dividend includes any distribution by a company of accumulated profits, any distribution to its shareholders by a company of debentures, debenturestock, or deposit certificates in any form, whether with or without interest, any distribution made to the shareholders by the company on its liquidation, any distribution made to the shareholder by a company on the reduction of its capital and all this is dealt with by clauses (a) to (d) of Section 2(22) of the I. T. Act.14.
+Then comes clause (e) which says that any payment by a company and not being a company in which the public are substantially interested, of any sum (whether as representing a part of the assets of the company or otherwise) made after 31st May 1987, but by way of advance or loan to a shareholder being a person who is the beneficial owner of the shares not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits holding not less than 10 of the voting power.
+This is one category and second one is a payment by way of advance or loan to any concern in which such shareholder is a member or partner and in which he has substantial interest.
+The third category is any payment by any such company for individual benefit of any such shareholders to the extent of which the company in either case possesses accumulated profits.15.
+Later part of this definition states as to what is not included in dividend and the legislature has carefully specified that any advance or loan made to a shareholder or concern in which shareholder is a member or partner and in which he has substantial interest, by the company in ordinary course of his business where the lending of money is a substantial part of the business of the company or any dividend paid by a company which is set off by the company against the whole or any part of sum previously paid by it and treated as a dividend within the meaning of subclause (e) to the extent to which it is so set off, is not dividend within the meaning of this definition.16.
+We are strictly not concerned with clauses (iv) and (v) which payments are not termed as dividend or Explanations 1 and 2.
+Explanation (3) states that for the purpose of this clause namely clause (a) concern means a Hindu undivided family or a firm or an association of persons or a body of individuals or a company.
+The explanation also states and explains that a person shall be deemed to have a substantial interest in a concern, other than a company, if he is, at any time during the previous year, beneficially entitled to not less than 20 of income of such concern.17.
+We would, for the sake of appreciation of the rival contentions note the facts in the Appeal which is styled as Income Tax Appeal No.114 of 2012.
+There, return of income was filed by the assessee declaring total income of Rs.3,77,11,467/.
+The return was processed under Section 143(1) of the I. T. Act.
+The assessment was subsequently rectified determining the assessed income at Rs.3,32,31,204/.
+The case was selected for scrutiny.
+The assessee company is engaged in the business of manufacture and sale of printed Aluminum Collapsible Tubes and Auxiliary Machine used in manufacture of tube.
+What is relevant and material for our purpose is disallowance under Section 2(22)(e) of the I. T. Act.
+During the assessment year under consideration namely 20062007, credit entries were found in the books of the assessee company.
+M s Bhavin Containers Pvt Ltd, M s Patel Aluminium Pvt Ltd, M s. Lans Metal Pvt Ltd and M s. Patcart Packaging Pvt Ltd had lent an advanced monies to the assessee company.
+One M. I. Patel, Director of the Assessee company holds more than 10 of equity shares in all the companies noted above.
+He also holds more than 20 of the shares of the assessee company.
+The Assessing Officer perused the balance sheet of the respective companies and it revealed that the reserves and surpluses in all these companies are more than the amount standing to the credit of these companies.
+This is the position in the case of all companies except M s. Patcart Packaging Pvt Ltd and that is how he arrived at the conclusion that the requirement of Section 2(22) (e) of the I. T. Act is satisfied and the balance namely credit entries found in the books of the assessee company were considered for disallowance under Section 2(22)(e) of the Act.18.
+Aggrieved and dissatisfied with the adverse order passed by the Assessing Officer also to the above effect so also initiation of proceedings for imposition of penalty that the matter was carried in Appeal interalia on this ground.
+We are not concerned with the other disallowances made by the Assessing Officer and which were also subject matter of the Appeal before the Commissioner of Income Tax, Mumbai.
+In the appellate order, the Commissioner noted ground no.6 which is the addition made of Rs.96,16,924/ as deemed dividend.
+The Commissioner referred to the factual position and the arguments and found that the impugned credit balances are not the sums received from the related concern, having common shareholders as a loan or advance so that it could attract the provisions of Section 2(22) (e) of the I. T. Act.
+The credit balances represent cost of goods or services received by the Appellants and which cannot be treated as an advance or loan.
+Holding thus, he could have concluded that the credit entries are not covered by this provision and the payment does not fall therein.
+However, he assumed that the share holding pattern is such that the provisions of Section 2(22)(e) will be attracted, but concluded that the other argument, namely, deemed dividend can be assessed only in the case of a person who is a shareholder of the lender company and not in the hands of the person other than the shareholder, deserves acceptance.
+That is how paragraph nos.6.3 and 6.4 of the order of the Commissioner would read.
+In coming to this conclusion, he relied upon the order of the special bench of the Tribunal in the case of Assistant Commissioner of Income Tax v s Bhaumik Colour Pvt Ltd.19.
+The result of this discussion was that the Commissioner of Income Tax(Appeals) partly allowed the Appeal of the assessee.20.
+The Deputy Commissioner of Income Tax (Revenue) carried the matter in Appeal.
+The Income Tax Appellate Tribunal, in Income Tax Appeal No.1597 of Mum/2010 and in dealing with this ground, in paragraph no.6 of the order dated 13th April 2011, held as underThe second ground is that the CIT(A) erred in deleting the addition of Rs.96,16,924/made under section 2(22) (e) of the Income Tax Act, 1961.
+On this point there is an order of the Tribunal in the case of DCIT v s M s. Patel Aluminium Pvt Ltd in ITA No.1598/Mum/2010 dated 19.01.2011.
+The controversy in this case was whether an addition for deemed dividend can be made in the hands of the recipient of the amount even though he is not a shareholder of the lender company.
+It was held, following the decision of the Special Bench of the Tribunal in the case of ACIT v s Bhaumik Colour P. Ltd (2009) 313 ITR (AT) 146 (Mum)(SB) that in order to attract the applicability of section 2 (22) (e) the recipient of the amount from the company has to be a registered shareholder of the company.
+In the present case the following credit balances were shown in the assessees account in the following companies(i)M s. Bhavin Containers P.LtdRs.38,75,412/(ii)M s.Patel Aluminium Pvt LtdRs.93,978/(iii)M s Lans Metal Pvt LtdRs.28,94,357/(iv)M s. Patcart Packaging Pvt LtdRs.44,31,466/
+The finding of the CIT(A) is that the assessee is not a shareholder in any of the aforesaid companies.
+According to the Assessing Officer, one M. I. Patel who was a director of the assessee company held more than 10 of the equity shares of the above four companies and he also held more than 20 of the shares of the assessee company.
+But even the Assessing Officer has not found that the assessee company was a shareholder of any of the four companies.
+In such circumstances the CIT(A) was right in deleting the addition made under section 2(22)(e) following the order of the Special Bench cited above.
+It is also to be noted that the reasoning of the Special Bench has been upheld by the Honble Bombay High Court in the case of CIT vs. Universal Medicare Private Limited (2010) 324 ITR 263(BOM) .
+Both the order of the Special Bench and the judgment of the Honble Bombay High Court have been noticed and followed in the order of the Tribunal in the case of M s. Patel Aluminium Pvt Ltd(supra).
+Respectfully following the judgment of the Honble Bombay High Court, we confirm the decision of the CIT(A) and dismiss the second ground.21.
+As a result of the above quoted conclusion the Revenues Appeal was dismissed.22.We find that in identical factual position, the Revenue in the case of Universal Medicare formulated two questions and termed them as substantial questions of law.
+They were posed for consideration and determination of this Court.
+They were pressed during the course of arguments, as well.
+The judgment in the case of Universal Medicare takes note of the questions of law and particularly, question no.2.
+The ratio of the decision of the special bench of the Tribunal in the case of Bhaumik Colour Pvt Ltd., was also a question posed for answer by this Court in Universal Medicare (supra).23.
+Thereafter, the Tribunals findings have been referred to at page no.267 of the report.
+In paragraph no.7, the Division Bench referred to the definition of the term dividend as appearing in the I. T. Act and which we have reproduced above, and then held as underThe Tribunal in Appeal has reversed the findings of the Commissioner of Income Tax (Appeals) on two counts.
+Firstly, the Tribunal held that the provisions of Section 2(22)(e) would be attracted if a loan was taken by the shareholder from any closely held company.
+In the present case, the Tribunal noted that the amount was part of a fraud committed on the assessee and the transaction was not reflected in its books of account.
+In the circumstances, Section 2(22)(e) was held not to apply.
+Secondly, the Tribunal held that even otherwise, the amount would have to be taxed in the hands of the shareholder who obtained the benefit and not in the hands of the assessee.7.
+Under Section 56, income of every kind which is not to be excluded from the total income under the Act is chargeable to income tax under the head income from other sources, if it is not chargeable to income tax under any of the heads specified in items (a) to (e) of Section 14.
+Under Clause (1) of subsection (2), income by way of dividend is chargeable to income tax under the head income from other sources.
+Section 2(22) provides an inclusive definition of the expression dividend for the purposes of the Act.
+Section 2(22)(e) is as follows(22) dividend includes(a) to (d)(e) any payment by a company, not being a company in which the public are substantially interested, or any sum (whether as representing a part of the assets of the company or otherwise) made after the 31st day of May, 1987, by way of advance or loan to a shareholder, being a person who is the beneficial owner of shares (not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits) holding not less than ten per cent of the voting power, or to any concern in which such shareholder is a member or a partner and in which he has a substantial interest (hereafter in this clause referred to as the said concern) or any payment by any such company on behalf, or for the individual benefit, of any such shareholder, to the extent to which the company in either case possesses accumulated profits 8.
+Clause (e) of Section 2(22) is not artistically worded.
+For facility of exposition, the contents can be broken down for analysis (i) Clause (e) applies to any payment by a company not being a company in which the public is substantially interested of any sum, whether as representing a part of the assets of the company or otherwise made after the 31 May 1987 (ii) Clause (e) covers a payment made by way of a loan or advance to (a) a shareholder, being a beneficial owner of shares (not being shares entitled to a fixed rate of dividend whether with or without a right to participate in profits) holding not less than ten per cent of the voting power or (b) any concern in which such shareholder is a member or a partner and in which he has a substantial interest (iii) Clause (e) also includes in its purview any payment made by a company on behalf of or for the individual benefit, of any such shareholder (iv) Clause (e) will apply to the extent to which the company, in either case, possesses accumulated profits.
+The remaining part of the provision is not material for the purposes of this Appeal.
+By providing an inclusive definition of the expression dividend, Clause 2(22) brings within its purview items which may not ordinarily constitute the payment of dividend.
+Parliament has expanded the ambit of the expression dividend by providing an inclusive definition.9.
+In order that the first part of Clause (e) of Section 2(22) is attracted, the payment by a company has to be by way of an advance or loan.
+The advance or loan has to be made, as the case may be, either to a shareholder, being a beneficial owner holding not less than ten per cent of the voting power or to any concern to which such a shareholder is a member or a partner and in which he has a substantial interest.
+The Tribunal in the present case has found that as a matter of fact no loan or advance was granted to the assessee, since the amount in question had actually been defalcated and was not reflected in the books of account of the assessee.
+The fact that there was a defalcation seems to have been accepted since this amount was allowed as a business loss during the course of assessment year 20062007.
+Consequently, according to the Tribunal the first requirement of there being an advance or loan was not fulfilled.
+In our view, the finding that there was no advance or loan is a pure finding of fact which does not give rise to any substantial question of law.
+However, even on the second aspect which has weighed with the Tribunal, we are of the view that the construction which has been placed on the provisions of Section 2(22) (e) is correct.
+Section 2(22)(e) defines the ambit of the expression dividend.
+All payments by way of dividend have to be taxed in the hands of the recipient of the dividend namely the shareholder.
+The effect of Section 2(22) is to provide an inclusive definition of the expression dividend.
+Clause (e) expands the nature of payments which can be classified as a dividend.
+Clause (e) of Section 2(22) includes a payment made by the company in which the public is not substantially interested by way of an advance or loan to a shareholder or to any concern to which such shareholder is a member or partner, subject to the fulfillment of the requirements which are spelt out in the provision.
+Similarly, a payment made by a company on behalf, of for the individual benefit, of any such shareholder is treated by Clause (e) to be included in the expression dividend.
+Consequently, the effect of Clause (e) of Section 2(22) is to broaden the ambit of the expression dividend by including certain payments which the company has made by way of a loan or advance or payments made on behalf of or for the individual benefit of a shareholder.
+The definition does not alter the legal position that dividend has to be taxed in the hands of the shareholder.
+Consequently in the present case the payment, even assuming that it was a dividend, would have to be taxed not in the hands of the assessee but in the hands of the shareholder.
+The Tribunal was, in the circumstances, justified in coming to the conclusion that, in any event, the payment could not be taxed in the hands of the assessee.
+We may in concluding note that the basis on which the assessee is sought to be taxed in the present case in respect of the amount of Rs. 32,00,000/ is that there was a dividend under Section 2(22)(e) and no other basis has been suggested in the order of the Assessing Officer.
+We are of the opinion that the Revenue cannot urge before us that the conclusion rendered by the Division Bench in the case of Universal Medicare on the second aspect which had weighed with the Tribunal in that case, is merely an observation or in the nature of obiter dictum and that cannot be said to be the ratio of the judgment is the first contention before us.
+We are unable to accept this contention for more than one reason.
+The Universal Medicares case also was a Revenues appeal.
+In Universal Medicare, the Court was dealing with three questions termed as substantial questions of law on behalf of the Revenue.
+The Revenue specifically urged that the Tribunals findings on the first as well as the second aspect are erroneous and raised substantial questions of law.
+It was contended that the Tribunal could not have arrived at a factual conclusion that Section 2 (22) (e) could not be attracted.
+If a loan was taken by a shareholder from any closely held company and findings of fact are that the amount was a part of the fraud committed on the assessee and the transaction was not reflected in its books of accounts would not mean that Section 2(22)(e) is not applicable or attracted.
+The Tribunal held that it does not apply in the light of such factual position.
+However, it was also urged that the Tribunals second conclusion that even if the factual aspect denotes payment within the meaning of Section 22(2) (e) of the I. T. Act, that would have to be taxed in the hands of the shareholder who obtained the benefit and not in the hands of the assessee, raises substantial questions of law.24.
+It is in that regard that the above reproduced observations of the Honble Division Bench have been made.
+The Division Bench held that even on the second aspect, the construction which has been placed on the provision (Section 2(22)(e)) by the Tribunal is correct.
+All payments by way of dividend have to be taxed in the hands of the recipient of the dividend namely the shareholder.
+The section provides inclusive definition of term dividend and rather explaining the nature of payment which can be classified as such, therefore, the Division Bench concluded that this definition does not alter the legal position that dividend has to be taxed in the hands of the shareholder.
+In the facts of the case noted by the Division Bench assuming the payment was dividend, it would have to be taxed not in the hands of the asseessee namely Universal but in the hands of the shareholder.25.
+Once the correctness of this conclusion is put in issue before us and it is strenuously urged that it requires reconsideration, then, we cannot accept the first contention of the Revenue that the observations in the Division Bench judgment on the second aspect are mere obiter dictum and not a ratio and thus binding on us.
+They are a binding precedent as the Division Bench was directly called upon to answer the question based on the second aspect or the conclusion on the second point ground urged before the Tribunal.26.
+It is then urged that the Division Bench judgment in Universal Medicare does not take into consideration the amendments that have been made to the statute from time to time.
+It is urged that the amendment specifically refers to a person who is a beneficial owner of the shares.
+It is submitted that there are several words which have been substituted by the amendment.
+The words being a person who is a beneficial owner of share, therefore, cannot be given the same meaning as is assigned to it in the judgment delivered by the Honble Supreme Court in the case of Rameshwarlal Samwarmal Vs. CIT (Assam) reported in (1979) 122
+ITR page 1.
+In other words, any interpretation of the provision prior to its amendment cannot serve as a guide even if the same fall for interpretation again.
+The Court will have to bear in mind that the legislature steppedin to amend the subclause with some definite intent and purpose.
+The purpose was not to allow circumvention or bye passing a statute like the I. T. Act 1961.
+Therefore, any reference to the position of the shareholders members of a company as is to be found in the Indian Company Act, 1956 is wholly unwarranted and uncalled for.
+The words shareholder being a person who is the beneficial owner of the assessee, therefore, must receive an interpretation in consonance with the legislative intent.
+That being not to restrict it to a shareholder registered as such, that we will have to take a second look at the view taken by this Court in Universal (supra).
+This argument is opposed by the counsel of the assessee by pointing out not only the judgment in the Universal Medicare takes care of all these aspects but interpretation placed on the provision in that judgment has found favour with several High Courts and the leading judgment of the Delhi High Court which follows the view taken in Universal Medicare is relied upon.27.
+We have perused the provision carefully and equally the judgment in the case of Universal Medicare and the view following the same rendered by several High Courts.
+We are of the opinion that there is no merit in the contentions of the Revenue that Universal Medicare was either erroneously decided or that the view taken in Universal Medicare requires reconsideration.
+In that regard, we must not brush aside the binding precedent or the judgment of a coordinate bench simply because some of the arguments canvassed before us were either not canvassed or if canvassed were not considered.
+The binding precedent can be ignored only if it is perincuriam.
+Such is not the stand before us.
+All that is urged is several facets and which emerge from a reading of section namely Section 2(22) together with its subclauses have not been noticed by the Division Bench while deciding Universals case.28.
+We are unable to agree with the Revenue in this behalf.
+What we have noted is that the legislature has incorporated and inserted the definition of the term dividend.
+It is made inclusive of distribution of profits, any distribution to the shareholders by a company of debentures, debenturestock, or deposit certificate in any form, or distribution made to the shareholders upon liquidation of a company.
+Equally, amount distributed on reduction of capital is termed as dividend.
+What is also then included is a payment made by a company to its shareholder.
+That is by way of advance or loan to him.
+This is included so as to visit the shareholder with a liability to pay tax.
+It is eventually, the shareholder who will pay tax on the same.
+The shareholder cannot escape that liability merely because the loan or advance has been made over to any concern in which such shareholder is a member or a partner and in which he has substantial interest.
+Earlier, legislature noted that the shareholder would receive the sum from a company and which is not strictly falling within the concept of dividend.
+Firstly, because that was received by way of advance or loan, secondly, an attempt was made to show that the advance or loan is not to the shareholder who is registered as such but to a concern in which he is a member or a partner and in which he may have a substantial interest but that cannot be termed as advance or loan to the shareholder.
+With a view to take care of such stand of the shareholders and not allow them to escape the liability to pay tax that the definition came to be broadly worded by indicating therein the reference to any concern.
+Equally, any payment made by such company on behalf of the shareholder or for individual benefit of any shareholder to the extent to which the company in other case possesses accumulated profits has also been brought in.
+Thus, in addition to distribution of accumulated profit, debenture stock or deposit certificate etc, a payment of the aforesaid nature has been termed as dividend and included in the definition.
+At the same time, the legislature has taken care not to include any advance or loan made to a shareholder or the said concern in which such shareholder is a member or a partner and in which he has substantial interest in the ordinary course of the business of the company and where lending of money is substantial part of the business of the company.
+Equally, any dividend paid by the company which is set off by the company against the whole or any part of any sum previously paid by it and treated as a dividend within the meaning of subclause (e), to the extent to which it is so set off, is also excluded advisedly.29.
+We are also of the opinion that any reference to Explanation3 and particularly the definition of term concern will not advance or carry the Revenues case any further.
+Eventually, it is the shareholder who is registered as such who is entitled to receive the dividend.
+Merely because the payment is made to him by way of advance or loan was not termed as such earlier that the legislature has inserted such a payment in the definition of the term dividend and made the definition wide and broad so also inclusive.30.
+We do not see how with this legal position and the status of the shareholder recognized in law can be ignored while interpreting Section 2 (22) (e) of the I. T. Act.
+Precisely, this is what has been done by this Court in the judgment rendered in the case of Universal Medicare.
+It is not necessary for us to make a detailed reference to the order of the Special Bench of the Tribunal in the case of Bhaumik Colour Pvt Ltd. Suffice it to hold that the view taken by this Court in the case of M s. Universal Medicare does not require any reconsideration.
+We are not in agreement with Shri Gupta that the definition does not contemplate or does not stipulate any requirement of assessee being a shareholder of the assessee like the one in the present case.
+The view taken in the present case that the recipient assessee was not a shareholder, thus is in consonance with the legal position noted by us hereinabove.31.
+We are of the further view that this Court merely restated this principle and which remains unaltered throughout from the case of Rameshwarlal Sanwarmal v s Commissioner of Income Tax reported in 1980 (122) I. T. R. page 1 (SC).
+The Honble Supreme Court held that it is only where a loan is advanced by the company to the registered shareholder and other conditions set out in Section 2 (6A) (e) of the then prevailing I.T. Act 1922 are satisfied that the amount of the loan would be liable to be regarded as deemed dividend within the meaning of that provision.
+The loan granted to the beneficial owner of the share, who is not registered shareholder would not fall within the meaning of Section 2 (6A) (e) of the I. T. Act.
+What the section is designed to strike at is advance or loan to a shareholder and the word shareholder can mean only the registered shareholder.
+The Honble Supreme Court following the judgment in the case of Commissioner of Income Tax v s C. P. Sarathy reported in 1972 (83) ITR 170(SC) held that the beneficial owner of shares whose name does not appear in the register of the shareholders of the company cannot be said to be a shareholder though he may be beneficially entitled to the shares but he is not a shareholder.
+Mr. Gupta, appearing before us for the Revenue would submit that much water has flown after the decision in the case of Rameshwarlal and C. P. Sarathy(supra) because the provision has been amended since then.
+The fiction therefore must be carried to its logical end and its purpose should not be defeated by narrow construction as was placed on the provision prior to its amendment.
+In other words, the amendment was brought in only because of such view having taken earlier, is his submission.32.
+We are unable to accept it because of the consistent view taken and that even if the words as noted by us hereinabove have been inserted in the definition so as to make reference to the beneficial owner of the shares, still the definition essentially covers the payment to the shareholder and the position of the shareholder as noted in the Supreme Courts decision, cannot undergo any change.
+That legal position and status of the shareholder being the same, we do not see how the view prevailing from Commissioner of Income Tax v s C. P. Sarathy(supra) is in any way said to be changed.
+That is how all the judgments subsequent thereto have been rendered.
+The reliance placed by Ms. Vissanjee on the judgment of the Division Bench of this Court in the case of Commissioner of Income Tax, Patiala v s Shahzada Nand and Sons and Ors, reported in (1966) 177 ITR 393, is therefore, apposite.
+Equally, her reliance on the judgment of the Division Bench of Delhi High Court is well placed.
+We have noted that the Delhi High Court and even after exhaustive amendment to Section 2(22)(e) held that the payment made to any concern would not come within the purview of this subclause so long as it contemplated shareholders.
+The Division Bench of Delhi High Court has made detailed reference to all the decisions in the field.
+It has also referred to the order passed by the Special Bench of the Tribunal in arriving at the same conclusion.
+In the Commissioner of Income Tax v s Ankitech Pvt Ltd reported in 2012 (340) ITR page 14, the Honble Delhi High Court referred to both Sarathy Mudaliar and Rameshwarlal Sanwarmal (supra), extensively.
+It also referred to the arguments of the Revenue which are somewhat similar to those raised before us.
+It is in dealing with these arguments that the Division Bench concluded that all the three limbs of the section analyzed in Universal Medicare denote the intention that closely held companies namely companies in which public are not substantially interested which are controlled by a group of members, even though having accumulated profits would not distribute such profit as dividend because if so distributed the dividend income would become taxable in the hands of the shareholders.
+Instead of distributing accumulated profits as dividend, companies distribute them as loan or advances to shareholders or to concern in which such shareholders have substantial interest or make any payment on behalf of or for the individual benefit of such shareholder.
+In such an event, by the deeming provision, such payment by the company is treated as dividend.
+The purpose is to tax dividend in the hands of the shareholder.33.
+We do not see how such a view taken by the Delhi High Court and which reaffirms that of this Court in Universal Medicare can be said to be contrary to the legal fiction or the intent and purpose of the legislature in enacting it.
+The view taken by the Delhi High Court in the Commissioner of Income Tax v s Ankitech Pvt Ltd (supra) has thus our respectful concurrence.34.
+We do not make reference to the other judgments because this line of reasoning has been followed in the same.
+It is not necessary to multiply our judgment by making reference to each of the orders following the judgment in Ankitech Pvt Ltd and rendered by Delhi High Court or by the Allahabad High Court and Gujrat High Court.35.
+We are of the view that so long as the Tribunal in the matters and the Appeals which are brought before us holds that the assessee company before it was not a shareholder in any of the entities which have advanced and lent sums, then, the addition is required to be deleted and following the judgment in Universal Medicare (supra) of this Court.
+Such a view taken in the present case by the Tribunal, therefore, cannot be termed as perverse or vitiated by any error of law apparent on the face of record.
+The Appeal, therefore, does not raise any substantial question of law.36.
+Our judgment passed today, shall cover all such cases in which recipient is not shareholder of the lender company.
+The Appeals raising such grounds, therefore, would follow this order and even they would stand dismissed as they do not raise any substantial question of law.37.
+Equally, if the payment cannot be termed as loan or advance to the shareholder, then, even such a view cannot be termed in the given facts and circumstances and without anything more as perverse or vitiated by error of law apparent on the face of the record.
+Even the Appeals impugning such orders of the Tribunal, therefore, will have to be dismissed and they accordingly stand dismissed.38.
+In the light of the above all the Appeals which raise similar questions as noted by us in the judgment delivered today, would stand disposed of by this order.

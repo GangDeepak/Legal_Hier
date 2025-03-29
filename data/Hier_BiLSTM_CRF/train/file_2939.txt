@@ -1,0 +1,102 @@
+ P. JEEVAN REDDY, J. These appeals are preferred against the judgment of the Karnataka High Court answering the question referred to it, at the instance of the Revenue, in favour of the Revenue and against the assessee.	Issue
+The question referred under section 256 of the Income Tax Act. 1961, read as follows Whether on the facts and in the circumstances of the case, the Tribunal was right in holding that the sum of Rs. 1.79, 742 could not be disallowed under section 40 (c) of the Income Tax Act, 1961.	Issue
+(The above question related to Assessment Year 197475.	None
+The question referred for A.Y. 197576 was identical except in the matter of amount).	Issue
+since the facts in all the appeals are identical it would be sufficient to notice the facts in C.A. Nos. 6092 and 6092a of 1990 Prakash Beedis (P) Ltd. v. CIT2.	Issue
+Prior to July 15, 1972, a partnership firm called K. M. Anand Prabhu Sons, Mangalore, consisting of three partners  K. M. Vishnudas Prabhu, K. M. Ramdas Prabhu and K. M. Shankar Prabhu, was engaged inter alia in the business of manufacturing and sale of beedis under the brand name Mangalore Prakash Beedies.	Facts
+On May 20, 1972 a private limited company called Prakash Beedis Limited (the assessee appellant herein), was incorporated with its registered office at mangalore.	Facts
+One of its objects was to take over the business of the aforesaid firm.	Facts
+Under an agreement dated July 15, 1972 between the firm and the company, the firm sold its rights and assets to the company on the terms and conditions set out therein.	Facts
+Clause 4(a) of the agreement, which alone is material for the purposes of these appeals reads For the use of the trade name the company shall pay royalty to the Vendor at the rate of 10 ps.	Facts
+for every thousand beedis sold by the company by using the trade name of the vendor.	Facts
+The royalty shall be worked out at the end of each quarter ending on March, June, September and December, on the sales made during each quarter.	Facts
+The royalty fixed hereby shall not be varied for a period of one year and may be reviewed and or revised thereafterwards from time to time.	Facts
+The assessee was making payments to the firm every year on account of royalty in terms of the said clause4.	Facts
+The three partners aforesaid of the firm were also the directors of the assesseecompany5.	Facts
+For the assessment years 197475 and 197576, the assessee claimed deduction of the amount paid by it to the firm on account of royalty in terms of Clause 4(a) of the agreement.	Facts
+The amounts paid during the accounting years relevant to the said assessment years were Rs. 3, 16, 526 and Rs. 3, 95, 742 respectively.	Facts
+The ITO allowed the deductions as claimed6.	Facts
+In exercise of the powers conferred on him by section 263, the Commissioner of Income Tax initiated (suo motu) proceedings for revising the said assessments insofar as the aforesaid deductions were concerned.	Facts
+After hearing the assessee, he passed orders on September 16, 1976 whereunder he disallowed payments to the firm over and above the ceiling prescribed in section 40(c).	Facts
+The assessee preferred appeals to the Tribunal against the orders of the ITO (sic CIT).	Facts
+The appeals were allowed and the orders of the ITO restored.	Facts
+On reference, the High court answered the question in the negative i.e., in favour of the Revenue and against the assessee, on the following reasoning the three directors of the assesseecompany were also the partners in the firm to which royalty payments were made.	Facts
+In law, a firm has no separate legal existence it is not a juristic person or a distinct legal entity.	Facts
+It is merely a collection or association of the individuals for carrying on a business.	Facts
+Merely because the firm is assessable entity under the Income Tax Act it does not follow that it is a juristic or legal entity.	Facts
+It must, therefore, be held that the payments made to the firm are in reality payments made to the directors.	Facts
+Such payments clearly attract and fall within the mischief of section 40(c).	Facts
+The commissioner was right in saying so and the opinion of the Tribunal to the contrary is unsustainable in law7.	Facts
+In these appeals, S Shri.	Arguments of Petitioner
+Harish N. Salve and Rohinton Nariman assailed the correctness of the view taken by the High Court.	Arguments of Petitioner
+They submitted firstly that the payments were made not to the directors of the assessee but to a firm which was a separate entity.	Arguments of Petitioner
+A payment to a firm is not ipso facto a payment to the partners, directly or indirectly.	Arguments of Petitioner
+In a firm there may be other partners besides the directors of the assesseecompany.	Arguments of Petitioner
+It may also happen that the firm has no income to distribute because of the losses incurred by it which are setoff against the income so received.	Arguments of Petitioner
+The High court was in error in holding that a payment to firm is a payment to the partners.	Arguments of Petitioner
+Assuming that a partnership firm is not a separate juristic entity distinct from its partners, even so the payments were made to the said three persons not in their capacity as directors (qua directors)	Arguments of Petitioner
+but in consideration of a valuable right parted by them in favour of the assessee company.	Arguments of Petitioner
+such payments do not and cannot fall within the mischief of Section 40(c).	Arguments of Petitioner
+section 40(c) was never intended to take in such payments.	Arguments of Petitioner
+A company may take on lease the house of its director for its legitimate business purposes and pay rent which is reasonable having regard to the market conditions, or it may pay even less than the market rate of rent.	Arguments of Petitioner
+Whether the rent paid by the company to its director in such a case falls within Section 40(c), ask the counsel.	Arguments of Petitioner
+Another illustration given by the counsel is where a director supplies raw material to the assesseecompany for a price which is the appropriate market price.	Arguments of Petitioner
+Would such payment also fall under Section 40(c)	Arguments of Petitioner
+they ask.	Arguments of Petitioner
+The Budget speech of the Finance Minister in the Parliament, while introducing the said provision, is relied upon in support of their contention.	Arguments of Petitioner
+It is also argued that the words Remuneration benefit or amenity occurring in Section 40(c) must be read having regard to the context in which they occur applying the principle noscitur a sociis (recognition of associated words).	Arguments of Petitioner
+If so read, the payments in question can never fall within the ambit of the said words8.	Arguments of Petitioner
+Shri Ahuja, the learned counsel for the Revenue justified the reasoning and approach of the High Court having regard to the clear language employed in clause (c) The genuineness or validity of the agreement between the assesseecompany and the firm is not disputed.	None
+The factum of payments made on account of royalty in terms of Clause 4(a) of the said agreement is also not disputed.	None
+It is also not disputed that in the beedi trade, brand name carries significant business value.	None
+It is necessary to keep this factual context in mind while examining the question at issue.	None
+section 40(c) read as follows during the relevant assessment years Notwithstanding anything to the contrary in Section 30 to 39, the following amounts shall not be deducted in computing the income chargeable under the head Profits and gains of business or profession, (a) (b) (c) in the case of any company (i) any expenditure which results directly or indirectly in the provision of any remuneration or benefit or amenity to a director or to a person who has a substantial interest in the company or to a relative of the director or of such person, as the case may be(ii) any expenditure or allowance in respect of any assets of the company used by any person referred to in subclause (i) either wholly or partly for his own purposes or benefitif in the opinion of the Income Tax Officer any such expenditure or allowance as is mentioned in subclauses (i) and (ii) is excessive or unreasonable having regard to the legitimate business needs of the company and the benefit derived by or accruing to it therefrom, so, however, that the deduction in respect of the aggregate of such expenditure and allowance in respect of any one person referred to in subclause (i) shall, in no case, exceed (A) where such expenditure or allowance relates to a period exceeding eleven months comprised in the previous year, the amount of seventytwo thousand rupees(B) where such expenditure of allowance relates to a period not exceeding eleven months comprised in the previous year, an amount calculated at the rate of six thousand rupees for each month or part thereof comprised in that periodProvided that in a case where such person is also an employee of the company for any period comprised in the previous year, expenditure of the nature referred to in clauses (i), (ii), (iii) and (iv) of the second proviso to clause (a) of subsection (5) of section 40A shall not be taken into account for the purposes of subclause (A) or subclause (B), as the case may be(iii) Explanation.  	None
+The provisions of this clause shall apply notwithstanding that any amount not to be allowed under this clause is included in the total income of any person referred to in subclause(i) The Budget Speech of the Finance Minister, insofar as it mentions the reasons for introduction of clause (c) of Section 40, reads as follows I am firmly of the view that the fiscal instrument must be deployed to discourage payment of high salaries and remunerations which go ill with the norms of egalitarian society.	None
+I accordingly propose to impose a ceiling on the remuneration of company employees which would be deductible in the computation of taxable profits.	None
+The ceiling is being set at Rs. 5000 per month.	None
+Together with the existing ceiling of Rs. 1000 per month in the case of perquisites, the allowable overall ceiling on remuneration and perquisites, for purposes of taxation, will be at Rs. 6000 per month The object behind the provision undoubtedly was to discourage and disallow payment of high salaries and remunerations which go ill with the norms of egalitarian society.	None
+The provision was, of course, not confined to the directors.	Reasoning
+It took in relatives of directors, persons having substantial interest in the company and their relatives.	Reasoning
+The clause vested in the ITO the power to determine whether any such expenditure or allowances as is mentioned in the said clause was excessive or unreasonable having regard to the legitimate business needs of the company and the benefit derived by or accruing to it therefrom.	Reasoning
+In addition to it, a ceiling was also prescribed beyond which such expenditure or allowance could not go in any event12.	Reasoning
+At this juncture, it would be appropriate to notice the provision contained in subsection (2) of Section 40A. Clause (a) of subsection (2) provides that where the assessee incurs any expenditure in respect of which payment has been made or is to be made to any person referred to in clause (b) of the subsection, and the Income Tax Officer is of the opinion that such expenditure is excessive or unreasonable having regard to the fair market value of the goods, services or facilities for which the payment is made or the legitimate needs of the business or profession of the assessee or the benefit derived by or accruing to him therefrom, so much of the expenditure as is so considered by him to be excessive or unreasonable shall not be allowed as deduction.	Reasoning
+Clause (b) mentions the categories of persons to whom the provision in Clause (a) applies.	Reasoning
+It includes directors of the company and their relatives among others.	Reasoning
+Clause (b) also takes in any payment to any company, fire, association of persons or Hindu undivided family of which a director, partner of member, as the case may be, has a substantial interest in the business or profession of the assessee.	Reasoning
+In short, the net is cast very wide to ensure that excessive or unreasonable payments are not made to the persons in control of the affairs of the assessee in the name of paying for the goods, services and facilities rendered, supplied or extended by them, as the case may be13.	Reasoning
+That the payments made by the assesseecompany to the firm on account of royalty in terms of clause (4) (a) of the agreement fall within the meaning of the expression expenditure in subclause (i) of clause (c) is not disputed.	Reasoning
+The observations in CIT v. Indian Engineering and Commercial Corpn.	Reasoning
+(P) Ltd.	Reasoning
+( 1993 (3) SCC 246 1993 (2) JT 683) do not say otherwise.	Reasoning
+That case arose under section 40A(5).	Reasoning
+The payments in question were made to the directors by way of commission on sales.	Reasoning
+The question was whether the said payments fell within subclause (ii) of clause (a) of subsection (5) of Section 40A. It was held that they did not.	Reasoning
+While holding so it was observed that it is difficult to say that payment of a certain cash amount by way of commission on sales, directly to an employee, can be said to fall within the Revenues argument that the said payment constituted perquisites within the meaning of subclause (ii) of clause (a) of Section 40A(5).	Reasoning
+The observations are clearly confined to the said subclause and have no relevance to any other provision in the Act.	Reasoning
+The observations cannot be read dissociated from their context.	Reasoning
+Coming back to the provisions of Section 40(c) and the facts of the case before us, the only question is whether the royalty payments to the firm fell within clause (c).	Reasoning
+We assume for the purpose of this argument that in this case, payments to firm were payments to partners.	Reasoning
+Even so, we think that the said payments did not fall within clause (c).	Reasoning
+The payments were made in consideration of a valuable right parted by the firm partners directors of the assesseecompany in favour of the assessee.	Reasoning
+so long as the agreement whereunder the said payments were made is not held to be a mere device or a mere screen, the said payments cannot be treated as payments made to the directors as directors (qua directors).The payments were made by way of consideration for allowing the assessee to use a valuable right belonging to them viz., the brand name.	Reasoning
+Such a payment may be liable to be scrutinised under subsection (2) of section 40A, but it certainly did not fall within the four corners of Section 40(c)14.	Reasoning
+In T. T. (P) Ltd. v. ITO ( 1980 (121) ITR 551 (Kant)) a bench of Karnataka High Court comprising D. M. Chandrashekhar, C.J. and E. S. Venkataramiah, J. has taken a view which accords with the one taken by us.	Reasoning
+Speaking for the Bench, E. S. Venkataramiah, J. (as he then was) observed A close reading of the above provision shows that Section 40(c) refers to an expenditure incurred by making periodical payments to a person mentioned in that clause apparently for any personal service that may be rendered by him.	Reasoning
+It cannot have any reference to payments made by the assessee for all kinds of services or facilities referred to in Section 40a(2)(a).	Reasoning
+It is argued that the proviso thereto suggests that any expenditure incurred for any kind of service which is referred to in the main part of section 40A(2)(a) and the expenditure referred to in Section 40(c) belong to the same category.	Reasoning
+This contention is not correct.	Reasoning
+The expression services in section 40A(2)(a) is an expression of wider importIf the remuneration, benefit or amenity referred to in Section 40(c) is treated as the same as what is paid in return for the goods, services or facilities then irrespective of the fair market value of the goods, services and facilities provided by a person who may be a director or a person who has a substantial interest in the company or a relative of the director or of such person, as the case may be, only a maximum of Rs. 72, 000 can be allowed to be deducted in computing the income of the company in any one year.	Reasoning
+We do not think that Parliament ever intended that such a result should follow.	Reasoning
+The goods, services and facilities referred to in Section 40A(2)(a)	Reasoning
+are those which have a market value and which are commercial in character.	Reasoning
+Many of the services and facilities referred to above are those which are nowadays provided by independent organisations.	Reasoning
+The said decision has been followed by the Punjab and Haryana High court in CIT v.	Reasoning
+Avon Cycles (P) Ltd. ( 1980 (126) ITR 448 1980 TaxLR 148 (PH HC))	Reasoning
+The Calcutta High Court has also taken a similar view in India Jute Co. Ltd. v. CIT ( 1989 (178) ITR 649 (CAl) Mr. Ahuja, learned counsel for the Revenue submitted that the argument of the assessee that only the payments made to directors as directors fall within clause(c) and not the other payments, becomes inapt when the payments are made to the relatives of the directors or to persons holding substantial interest in the assesseecompany or their relatives.	Arguments of Respondent
+The ceiling prescribed in clause (c) cannot also be applied to such persons  says the counsel.	Arguments of Respondent
+The answer perhaps lies in the clause itselfin the power vested in the ITO to determine whether any expenditure or allowance is excessive or unreasonable having regard to the legitimate business needs of the company and the benefit derived by the assessee or accruing therefrom.	Reasoning
+Any payment to a relative of a director or other persons mentioned in clause(c) will necessarily be examined applying the above test and if it is found that they are unwarranted, unreasonable or excessive, they will be disallowed.	Reasoning
+Since such a situation does not arise herein, we need not pursue the argument further For the above reasons, we are of the opinion that the judgment under appeal cannot be sustained.	None
+It must be held that he payments in question did not fall within section 40(c).	Decision
+Accordingly, the appeals are allowed, the judgment of the High Court is set aside and the question referred to the High Court is answered in the affirmative, i.e., in favour of the assessee and against the revenue.	Decision
+No costs.	Decision

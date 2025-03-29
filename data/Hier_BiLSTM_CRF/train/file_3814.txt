@@ -1,0 +1,44 @@
+ Sikri, J.1.	None
+This appeal by special leave is directed against the judgment of the Gujarat High Court in a Sales Tax Reference made to it by the Gujarat Sales Tax Tribunal.	Issue
+Two questions were referred by the said tribunal to the High Court1.	None
+Whether in the facts and circumstances of the case, the purchase of the raw cotton by the applicant Mill could be said to have been intended for use in the production of cotton seeds for sale within the meaning of Cl (ii) of R. 6 of the Bombay Sales Tax (Exemption, Setoff and Composition ) Rules, 1954.2.	Issue
+Whether the applicant Mill is entitled under R. 12(1) to a refund of the purchase tax paid by it.2.	Issue
+The facts set out in the statement of the case by the Tribunal are briefly as followsThe respondent is a manufacturer of cotton textile, particularly of coarse and medium variety cloth.	Facts
+During the assessment period from April 1, 1955 to March, 31 of 1956 it purchased unginned cotton worth Rs. 5,93,266 from unregistered dealers and paid purchase tax of Rs. 5,932 under S. 10 (a) of the Bombay Sales Tax Act, 1953.	Facts
+The cotton was ginned and pressed by the respondent, the ginned cotton was used in the manufacture of cotton textiles while the cotton seeds were sold by it.	Facts
+During the course of assessment proceedings the respondent applied for refund of purchase tax paid on the unginned cotton under the Bombay Sales Tax ( Exemption, Setoff and Composition) Rules, 1954, (hereinafter referred to as the Rules).	Facts
+The Sales Tax Officer refused to allow any refund on the ground that the conditions of R. 12 (1) read with R. 6(ii) of the Rules had not been fulfilled.	Facts
+The Assistant Collector of Sales Tax on appeal confirmed the order of the Sales Tax Officer on the ground that Rule 6 (ii) is not applicable when subsidiary or incidental product alone is sold and the main product is used in the manufacture of other goods.	Facts
+Looking to the wording of the aforesaid rule, all the products of the unprocessed goods should be sold.3.	Facts
+The respondent filed a revision before the Deputy Commissioner of Sales Tax, who also upheld the order of the Sales Tax Officer.	Facts
+The respondent then filed a revision before the Gujarat Sales Tax Tribunal.	Facts
+The Tribunal rejected the revision on the ground that the purpose underlying the applicants purchases was primarily the production of ginned cotton for manufacture.	Facts
+The cotton seeds which form the byeproduct of the ginning process would no doubt have to be sold because the Mill has no use for them.	Facts
+But that does not mean that the purpose for which unginned cotton was purchased was the sale of cotton seeds.	Facts
+It is not reasonable to suppose that a textile mill purchases unginned cotton for the purpose of selling the cotton seeds.	Facts
+At the instance of the respondent as already stated, the Tribunal referred the case to the High Court.	Facts
+The High Court answered question No. 2 in the affirmative but did not answer question No. 1 on the ground that the answer to the question was not relevant for the purpose of determining the matter in controversy.4.	Facts
+Mr. Ganapathy Iyer, the learned counsel for the appellant, contends before us that the Sales Tax authorities were right in refusing to allow a refund to the respondent and that the High Court erred in answering the second question in favour of the respondent.	Arguments of Petitioner
+In order to appreciate the contentions of the parties, it is necessary to set out Rs. 6 and 12 and the schedule to the Rules.6.	Arguments of Petitioner
+Classes of sales on which general sales tax shall not be payable.	None
+The general sales tax leviable under S. 9 shall not be payable in respect of the following classes of sales.(i)	None
+xx xx	None
+xx xx(ii)	None
+Sales of any goods falling under any entry specified in column 1 of the Schedule hereto to a dealer who holds a licence under S. 12 who furnishes to the selling dealer a certificate in Form (4) declaring that the goods sold to him are intended to be used by him in producing any goods falling under the corresponding entry in column 2 of the said Schedule for sale.	None
+SCHEDULEGoods from which the goods specified in column 2 are producedGoods produced12I. Cotton in Pod unginned or unpressed cotton.	None
+Unginned cotton ginned or pressed cotton cotton seeds12.	None
+Refund and remission of purchases tax in certain cases(1) Where a dealer who has purchased any goods specified in Clause (i) or (ii) of Rule 6 shows to the satisfaction of the Collector that they have been used by him for the purpose specified in the said clause, the Collector shall on application for refund made by the dealer in the manner specified in Rule 25 of the Bombay Sales Tax (Procedure) Rules, 1954 refund to such dealer the amount of purchase tax paid by him in respect of such purchase or where the amount of purchase tax payable under Cl.	None
+(a) of S. 10 in respect of such purchase has not yet been paid, the collector shall by order remit the amount so payable5.	None
+Mr. Ganapathy Iyer contends that when R. 12 speaks of the purpose specified in Cl.(ii) of R. 6 it means the purpose of producing any goods falling under the corresponding entry in column 2 of the said Schedule for sale.	Arguments of Petitioner
+In other words, he says that the purpose must be of producing unginned cotton, ginned or pressed cotton or cotton seeds for sale, and if any of these goods are produced but not sold then R. 12 does not apply.6.	Arguments of Petitioner
+Mr. Shroff, on the other hand, contends that the words purpose specified in the said clause only mean the purpose of producing any goods falling under the corresponding entry in column 2 of the Schedule, and he wants us to omit from consideration the words for saleWe agree with Mr. Ganapathy Iyer that the purpose must be the purpose of producing goods  unginned cotton, ginned of pressed cotton, cotton seeds  for sale, and the words for sale must be given effect to.7.But even if this contention of Mr. Ganapathy Iyer is accepted, the respondent would still in our opinion be entitled to refund under R. 12 (i) Rule 6 speaks of the intention at the time of the purchase but R. 12 does not incorporate that intention by referring to the purpose specified in R.6(ii).	Arguments of Respondent
+The intention at the time of the purchase is irrelevant for the purpose of R. 12.	Reasoning
+In R.6(ii) intention was relevant because the purchasing dealer had to furnish to the selling dealer a certificate in Form (4) declaring that the goods sold to him were intended to be used by him for producing any of the goods falling under the corresponding entry in Column 2 of the said schedule for sale.	Reasoning
+But when the respondent paid the purchase tax on unginned cotton under S. 10 (a) of the Act, he paid it because he purchased the same from persons who were not registered dealers and there was no question of furnishing any certificate at the stage.	Reasoning
+As the High Court observed, what is necessary is that goods should has been actually used for the purpose specified viz.	Reasoning
+the production of any of the goods aforementioned for sale.	Reasoning
+These conditions have been satisfied in this case because unginned cotton was used for the purpose of producing one of the goods specified in column 2 namely, cotton seeds.	Reasoning
+Consequently, the respondent is entitled to a refund under R.12 and the High Court was right in answering the second question in the affirmative.	Reasoning
+We also agree with the High Court that in view of its answer to question No. 2 it is not necessary to answer question No.1.8.	Reasoning
+In the result the appeal fails and is dismissed with costs here and in the High Court.9.	Decision
+Appeal dismissed.	None

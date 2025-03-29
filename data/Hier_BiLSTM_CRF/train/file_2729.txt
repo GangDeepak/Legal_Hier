@@ -1,0 +1,123 @@
+ SUHAS C. SEN, J.	None
+The point that falls for determination in this case is whether a sum of Rs. 79 lakhs representing debenture redemption reserve was includible in computing the capital of the assesseecompany for the purpose of Companies (Profits) Surtax Act, 1964.	Issue
+The High Court took the view that the amount set apart to redeem the debentures has to be treated as provision and not as reserve.	Facts
+The facts stated by the High Court in this regard are as follows From the balance sheets for the said periods, we find that in the calendar year 1965, the development rebate reserve was Rs. 79,00,000.	Facts
+However, in the next calendar year 1966, which is relevant to the asst.	Facts
+yr. 196768, the figure of debenture redemption reserve has gone up to Rs. 1,12,00,000.	Facts
+A perusal of the balance sheet further shows that the assesseecompany had floated and actually issued 61/2 per cent secured redeemable mortgage debentures, as pointed out earlier, against the security of land, buildings and machinery of the company and a floating charge on the undertaking.	Facts
+None of these debentures appear to have been redeemed during the relevant previous years.	Facts
+There is no dispute regarding any of these facts.	Facts
+In these circumstances, it clearly appears to us that the debenture redemption reserve must be regarded as a provision made by the assesseecompany to enable it to redeem the said debentures when they became due for redemption.	Facts
+Since the aggregate amount of such debentures is much larger than the amount of the debenture redemption reserve, we fail to see how it can be said that there was any excess as such in this appropriation which could be taken as reserve.	Facts
+It is true that all the debentures had not become redeemable during the relevant previous years, but that does not make any difference because an amount set aside to meet a future liability, which was certain to come into existence, as in this case, must be, regarded as a provision and not as a reserve.	Facts
+We are of the view that the High Court has come to a correct conclusion.	Reasoning
+The basic principle is that an amount set apart to meet a known liability cannot be regarded as reserve, provision and reserve have been defined in Part III, Sch.	Reasoning
+VI of the Companies Act itself 7.	None
+(1) For the purposes of Part I and II of this Schedule, unless the context otherwise requires  (a) the expression provision shall, subject to subcl.	None
+(2) of this Clause, mean any amount written off or retained by way of providing for depreciation, renewals or diminution in value of assets, or retained by way of providing for any known liability of which the amount cannot be determined with substantial accuracy (b) the expression reserve shall not, subject as aforesaid, include any amount written off or retained by way of providing for depreciation, renewals or diminution in value of assets or retained by way of providing for any known liability (c) the expression capital reserve shall not include any amount regarded as free for distribution through the PL a c and the expression revenue reserve shall mean any reserve other than a capital reserve and in this subclause the expression liability shall include all liabilities in respect of expenditure contracted for and all disputed or contingent liabilities.	None
+Where  (a) any amount written off or retained by way of providing for depreciation, renewals or diminution in value of assets, not being an amount written off in relation to fixed assets before the commencement of this Act or (b) any amount retained by way of providing for the known liability is in excess of the amount which in the opinion of the directors is reasonably necessary for the purpose, the excess shall be treated for the purposes of this Schedule as a reserve and not as a provision.	None
+The definition clearly indicates that if an amount is retained by way of providing for any known liability that amount shall not be treated as reserve.	Reasoning
+Clause 7(2)(b) makes it clear that only an amount which is in excess of what is reasonably necessary for meeting a known liability shall be treated as reserve and not as provision.	Reasoning
+The directors will have to form an opinion as to what is reasonably necessary for meeting the known liability of a company.	Reasoning
+The opinion of an accountant or an auditor or a lawyer is quite immaterial for this purpose.	Reasoning
+The finding of fact in this case is that the amount set apart for redemption of debentures is less than the companys liability on this account.	Reasoning
+Therefore, the answer to the question raised must be that the amount of Rs. 79 lakhs representing debenture redemption reserve cannot be included in the capital of the company for the purpose of surtax assessment.	Reasoning
+The facts stated in the judgment of the High Court go to show that the amount was not larger than the amount which had to be paid for redemption of the debentures.	Reasoning
+Therefore, there is no question of any excess provision in this case.	Reasoning
+In the case of Vazir Sultan Tobacco Co. Ltd., Hyderabad and Others Vs.	Reasoning
+Commissioner of Income Tax, Andhra Pradesh, Hyderabad, , it was held that provision and reserve had not been defined under the Companies (Profits) Surtax Act, 1964.	Reasoning
+Therefore, the two concepts reserve and provision which are fairly well known in commercial accountancy and which are used under the Companies Act dealing with preparation of balance sheets and PL a cs, will have to be gathered from the meaning attached to them by the Companies Act itself.	Reasoning
+Moreover, in Vazir Sultans case (supra), it was pointed out that even if a sum of money which had been set apart for a certain purpose was held not to be a provision, it did not automatically follow that it would be a reserve.	Reasoning
+It was held But it is clear beyond doubt that if any retention or appropriation of a sum is not a provision, that is to say, if it is not designated to meet depreciation, renewals or diminution in value of assets or any known liability, the same is not necessarily a reserve.	Reasoning
+We are emphasising this aspect of the matter because during the hearing almost all counsel for the assessees strenuously contended before us that once it was shown or became clear that the retention or appropriation of a sum out of profits and surplus was for an unknown liability or for a liability which did not exist on the relevant date, it must be regarded as a reserve.	Reasoning
+The fallacy underlying the contention becomes apparent if the negative and nonexhaustive aspects of the definition of reserve are borne in mind.	Reasoning
+It has been contended by Shri T. A. Ramachandran on behalf of the assessee that what is set apart for meeting the current years known or estimated liability will be provision.	Arguments of Petitioner
+An amount set apart for future use will not be provision.	Arguments of Petitioner
+This argument is without any merit.	Reasoning
+It goes against the very definition of provision and reserve provided by the Companies Act.	Reasoning
+In the form of balance sheet in Sch.	Reasoning
+VI of the Companies Act provisions have to be made, inter alia, for contingencies, provident fund scheme, insurance, pension and staff benefit schemes.	Reasoning
+Amounts set apart for the aforesaid purposes will mostly be for future use.	Reasoning
+Question of payment of pension or provident fund can only arise when an employee retires.	Reasoning
+Mr. Ramachandran advanced another argument that there was no present liability to pay any amount to the debentureholders.	Arguments of Petitioner
+That liability will arise only when the amount falls due for payment.	Arguments of Petitioner
+Therefore, there was no existing liability for redeeming the debentures in the relevant year of account.	Arguments of Petitioner
+6.	None
+We are unable to uphold this argument.	Reasoning
+The liability to repay arises the moment the money is borrowed.	Reasoning
+The amount borrowed may be repayable immediately or in future.	Reasoning
+The date of repayment of loan may be deferred by agreement but the obligation or the liability to repay will not cease on that account.	Reasoning
+The obligation is a present obligation Debitum in praesenti, solvendum in future.	Reasoning
+This aspect of the matter was explained in the judgment of this Court in Kesoram Industries and	Reasoning
+Cotton Mills Ltd.	Reasoning
+Vs.	Reasoning
+Commissioner of Wealth Tax, (Central) Calcutta, By issuing the debentures, the company had taken a loan against the security of its assets.	Reasoning
+This loan may not be repayable in the year of account.	Reasoning
+But the obligation to pay the loan is a present obligation.	Reasoning
+Any money set apart in the account of the company to redeem the debentures must be treated as moneys set apart to meet a known liability.	Reasoning
+The debentures will have to be shown in the companys balance sheet of the year as liability.	Reasoning
+In the case of Commissioner of Income Tax Vs.	Reasoning
+Peico Electronics and Electricals (Formerly Philips India Ltd.), , the Calcutta High Court held that the debenture redemption reserve will have to be treated as a reserve and not provision because, none of the debentures became redeemable during the accounting period.	Reasoning
+The liability to redeem the debenture was a future liability.	Reasoning
+The debentures had been separately shown in the balance sheet as a liability.	Reasoning
+The reserve had been created by appropriation of profits and not by way of a charge on Revenue.	Reasoning
+We are of the view that this approach is erroneous and overlooks the definitions of provision and reserve given in the Companies Act.	Reasoning
+The debentures were nothing but secured loans.	Reasoning
+Merely because, the debentures were not redeemable during the accounting period, the liability to redeem the debentures did not cease to exist.	Reasoning
+It was redeemable or repayable at a future date.	Reasoning
+But it was a known liability.	Reasoning
+In the form of balance sheet prescribed by the Act in Sch. VI, the secured loans have to be shown under the heading liabilities.	Reasoning
+Secured loans include (1) debentures, (2) loans and advances from banks, (3) loans and advances from subsidiaries and (4) other loans and advances.	Reasoning
+The secured loans might not be immediately repayable, but the liability to repay these loans was an existing liability and has to be shown in the companys balance sheet for the relevant year of account as a liability.	Reasoning
+Amounts set apart to pay these loans cannot be reserve.	Reasoning
+The interpretation clause of the balance sheet in Sch.	Reasoning
+VI of the Companies Act specifically lays down that reserves shall not include any amount written off or retained by way of providing for a known liability.	Reasoning
+The Delhi High Court in the case of Commissioner of Income Tax Vs. Modi Industries Ltd., also took the view that the amount set apart out of profits to redeem the debentures had to be treated as reserves because, there was no liability in the current year to redeem the debentures.	Reasoning
+We are unable to agree with this view for the reasons given earlier in the judgment.	Reasoning
+Apart from this, the argument that found favour with the Courts in the cases of Pieco Electronics Electricals and Modi Industries Ltd. (supra) that if the retention or appropriation of a sum out of profits and surpluses was for an unknown liability or for a liability which did not exist on the relevant date it must be regarded as a reserve, was specifically rejected by this Court in Vazir Sultans case (supra).	None
+This argument of the assessee was held to be fallacious (Page 571 of the report).	None
+There is another aspect of this case.	None
+In the prescribed form of balance sheet, under the heading reserves and surpluses seven types of reserves have to be shown Capital reserves, Capital redemption reserve.	None
+Share premium account Other reserves, Surplus, i.e., balance in profit and loss account.	None
+Proposed additions to reserves.	None
+Sinking funds.	None
+However, for the purpose of computation of capital of a company under the Companies (Profits) Surtax Act, 1964, items 5, 6 and 7 will not be treated as reserves.	None
+The Second Schedule of the Surtax Act lays down the rules for computation of the capital.	None
+Rule 1 contains an Explanation to the following effect Explanation.  	None
+For the removal of doubts it is hereby declared that any amount standing to the credit of any account in the books of a company as on the 1st day of the previous year relevant to the assessment year which is of the nature of Item (5) or Item (6) or Item (7) under the heading reserves and surplus or of any item under the heading current liabilities and provisions in the column relating to liabilities in the form of balance sheet given in Part I of Sch.	None
+VI to the Companies Act, 1956 (1 of 1956), shall not be regarded as a reserve for the purposes of computation of the capital of a company under the provisions of this Schedule.	None
+In Batlibois Advanced Accountancy, 27th Edn. p. 678, the nature of a sinking fund is explained as under Sinking fund.  	None
+A sinking fund is a fund created with the object of providing means for the redemption of liabilities like debentures or any other loan.	None
+It is formed by setting aside, half yearly or yearly, a fixed sum of money for a definite period, such sum to be invested at compound interest, so that at the end of the period, the annual amounts, with accumulations of interest, will be sufficient to discharge a prescribed loan.	None
+In such a case, the amount set aside should not be debited to revenue account but to a net revenue account or profit loss appropriation account, as being rather in the nature of an allocation of profits than a charge against them A sinking fund created for redemption of debentures will not be treated as reserve even though (1) it has to be shown as reserve in the balance sheet and (2) the amount kept in this fund is in the nature of allocation of profits and not a charge against them.	None
+It is difficult to see, in the context of this rule in the Second Schedule, why a debenture redemption reserve is to be treated as reserve on the ground that the amounts set apart for redemption of debentures are not in the nature of a charge against profits but merely appropriation of profits.	Reasoning
+In Pieco Electronics Electricals case (supra), one of the grounds which weighed with the Court was the argument that the sinking fund has to be utilised by making investments and did not form part of the working capital of the company but the amount lying to the credit of debenture redemption reserve was available to the company to be used as working capital.	Reasoning
+We fail to comprehend this distinction.	Reasoning
+What has to be computed under r. 1 of the Second Schedule of the Surtax Act is the capital of the company and not its working capital.	Reasoning
+The amount shown as sinking fund may be invested in a fruitful way so that the principal and gains from the investments taken together will enable the company to pay off its debts.	Reasoning
+Investment of monies standing to the credit of the sinking fund is nothing but utilisation of the companys assets for the discharge of its liabilities.	Reasoning
+There is no rational explanation why a sinking fund for redemption of debentures will not be a reserve but a debenture redemption reserve created with the same purpose will be treated as reserve and included in computation of capital of the company for surtax purposes.	Reasoning
+A construction which leads to absurdity should be avoided.	Reasoning
+The basic principle is that any amount retained by way of providing for a known liability will not be reserve.	Reasoning
+Expln.	Reasoning
+to r. 1 of the Second Schedule of the Surtax Act takes this principle to its logical conclusion by providing that even a sinking fund, which has to be shown as a reserve in the prescribed form of balance sheet, will not be treated as reserve for the purpose of computation of capital.	Reasoning
+It is further to be noted that the surplus and unallocated balance in the PL a c has been specifically excluded from reserves for computation of capital under the Surtax Act.	Reasoning
+Therefore, availability of the amount for utilisation as working capital of the company or for distribution of dividend cannot be a criterion for deciding whether a particular amount retained from the profits of the company will be treated as its reserve or not.	Reasoning
+In the premises, we are of the view that the judgment under appeal was rightly decided.	Reasoning
+We are unable to uphold the contrary decisions in the cases of Pieco Electronics Electricals and Modi Industries Ltd. (supra).	None
+This appeal is, therefore, dismissed.	Decision
+There will be no order as to costs.	Decision
+Civil Appeal Nos. 2/95, 198/89, 432/89 and 433/89 Appeals are dismissed in view of the above decision.	Decision
+There will be no order as to costs.	Decision
+Civil Appeal No. 2970/81 In this appeal, we are concerned with the following question Whether, on the facts and in the circumstances of the case, the sums of Rs. 38,98,970 and Rs. 6,66,159 constituted reserve and was required to be taken into account in the computation of the capital under the Super Profits Tax Act, 1963.	Issue
+However, we are concerned in this appeal only with the amount of Rs. 6,66,159 which was appropriated to gratuity reserve.	None
+The question is whether this should be treated as reserve or provision.	Reasoning
+The point is wellsettled by the decision of this Court in the case of Vazir Sultan (supra).	Reasoning
+The answer to the question will be that the amount of Rs. 6,66,159 will have to be treated as provision and not reserve.	Reasoning
+We answer the question accordingly.	Decision
+The order of the High Court to the above extent is set aside.	Decision
+A point has been taken on behalf of the respondents that the amount was more than what was actually required to be set apart as liability for gratuity.	Arguments of Respondent
+We are not expressing any opinion as to that because that is a question of fact.	Decision
+It does not appear from the High Courts order or the question raised that this point was at all in issue before the Court or the Tribunal.	Decision
+The assessee can raise this question, if it can lawfully do so, before the Tribunal.	Decision
+The appeal is allowed.	Decision

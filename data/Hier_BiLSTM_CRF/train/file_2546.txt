@@ -1,0 +1,378 @@
+ Jagannadha Rao, J. Leave granted.	None
+The appellant Federal Bank at Bombay was the 3rd defendant in the suit and has a branch at Pune.	Issue
+It has preferred this appeal against the order of the High Court dated 8.10.1999 summarily dismissing the appellants appeal AFO No. 818 of 1999.	None
+The appeal was preferred against the order of the trial Court dated 29.4.1999 whereby the trial Court had confirmed an ex parte interim injunction dated 20.5.1998 granted by it earlier, rejecting the appellants application to vacate the same.	None
+The matter relates to a Letter of Credit issued by the 2nd defendant, Bank of Maharashtra, Pune (3rd respondent) at the instance of the plaintiffbuyers (1st respondent), M s. V.M. Jog Engineering Co., Pune.	None
+The sellers are M s. Jaswant Steel, Nagpur (1st defendant)(1st respondent).	None
+The appellant Federal Bank was the Negotiating Bank (3rd defendant) while the 3rd respondent, Bank of Maharashtra was the Issuing Bank.	None
+The main point arising in the case can be stated briefly as follows The appellant, the Negotiating Bank received documents from the sellers which included five delivery challans purportedly signed by the buyers officers acknowledging receipt of goods.	Facts
+The seller sent a Bill of Exchange for encashment against the Letter of Credit for 2 crores, taken out by the buyers.	Facts
+The appellant sent the Bill of Exchange, with endorsement of the buyers and the Letter of Credit and the connected documents including the delivery challan  as received from the Seller  the Issuing Bank and got the genuineness of the documents confirmed.	Facts
+The Negotiating Bank then released Rs. 1,94,39,252 in favour of the sellers on 25.3.1998, after deducting its commission.	Facts
+But the buyers have obtained a temporary injunction against the Issuing Bank from honouring the Letter of Credit.	Facts
+This has resulted in the appellant Negotiating Bank not being able to obtain reimbursement from the Issuing Bank.	Facts
+The trial Court and the High Court, after noting that the Negotiating Bank had released to the seller the above sum upon due certification of the sellers documents by the Issuing Bank  have thus precluded the Negotiating Bank from getting reimbursement from the Issuing Bank.	Facts
+One other peculiar feature of the case is that while the appellant , Negotiating Bank was impleaded as the 3rd defendant in the suit, specific relief was not sought against it either in the suit or in the interlocutory application.	Facts
+In fact, it was stated by the plaintiffpurchaser that the Negotiating Bank need not be heard in the interlocutory application and that the said Bank had no locus standi.	Facts
+Both the courts below thought it fit to accept this contention and grant injunction under Order 39 Rule 1, Code of Civil Procedure restraining the Issuing Bank from paying any amount to anybody under the Letter of Credit, pending suit.	Facts
+In the plaint or in the interlocutory application, the plaintiff has not alleged fraud or forgery against the Negotiating Bank nor even knowledge of the fraud forgery which is alleged against the sellers in respect of the delivery challans.5.	Facts
+Aggrieved by the order of temporary injunction passed under Order 39 Rule 1 CPC, the Negotiating Bank has come up in appeal.	None
+As the case involves issues relating to Banking Practice and interpretation of the Uniform Customs and Practice of Documentary Credits (1983) (hereinafter called the UCP) issued by the International Chamber of Commerce,  relied upon by the Negotiating Bank in detail  we propose to deal with the articles in UCP (1983 revision) and their relevance. ?	None
+3?3	Facts
+The following are the facts  The plaintiff(buyers) at Pune entered into a contract in February 1998 with the sellers at Nagpur for purpose of 1450 M.T. of reinforment steelbars and structualsteel, conforming to IS1786.	None
+These were needed for the buyers works at two projects, one at Palm Beach, Andheri and another for a flyover project at Bombay.	Facts
+Two purchase orders (Nos. 104, 105) for supply of 1450 MT were placed upon the sellers by the buyers on 7.2.1998 for each of these projects.	Facts
+The time for supply of material was 31.3.1998.	Facts
+The buyer availed of a Letter of Credit dated 19.2.1998 from the Issuing Bank to the tune of Rs. 2 crores with negotiation initially to be restricted to the State Bank of India, Wardha.	Facts
+The expiration date was 31.3.1998 but was extended upto 30.4.1998.8.	Facts
+The Letter of Credit issued by the Issuing Bank on 19.2.1998 listed out the various documents which had to be produced by the sellers for payment under the Letter of Credit opened by the buyer with the Issuing Bank	Facts
+These were described as follows (1).	None
+The Beneficiary drafts drawn on the applicant without recourse to the drawer and marked under Bank of Maharashtra, Tilak Road, Pune branch inland L C No. 1/98 dated 19.2.1998 for 100 of the Invoice value at 90 days usance from the date of receipt of material at Andheri and Palm Beach, Marg Bridge, Near Nerul, Navi Mumbai sites.(2)	None
+Invoices signed by the beneficiary or his constituted agent in copies of gross value of the goods certifying goods are as per order indent and evidencing despatch of the undernoted goods.(3) Receipt dated not later than 31.3.1998 marked freight prepaid.(4)	None
+(4) (5) Copies of Octroi receipts for the amount claimed in invoice.(7)	None
+Copy of Weigh Slip for empty and Loaded transport vehicle.(8) Photocopy of Manufacturers test certificate.(9) Copy of Delivery Challanscuminvoices issued by	None
+Jaswant Steel Rolling Mills Pvt. Ltd. duly signed by Project Authorities with an endorsement as the material received in good condition and indicating the date of receipt of material at sites.	None
+Thereafter, it is stated in the L C in clause 10 last date of Negotiation of documents 20.4.1998 but not later than 20 days from despatches.	None
+(This clause was later deleted on 19.3.1998 when the appellant was nominated as Negotiating Bank in place of the State Bank of India).	None
+The Special Instructions in the L C for the Negotiating Bank were as follows Special instructions for the negotiating Bank.	None
+Negotiations under this credit are restricted to State Bank of India Hinganghat, Distt.	None
+Wardha (M.S.)2. Negotiations should be marked separately on the back of the documentary credit N.A.3.	None
+To reimburse themselves, the negotiating bank will send us the full set of original documents by Registered Post alongwith a certificate of compliance of the terms and conditions of the credit and request for demand drafts pay order.4. 5. 6.	None
+Totally drawing under this credit should not exceed Rs. 2,00,00,000 (Rupees two crores only)It was lastly stated in the L C as follows This credit carries our confirmation and we hereby engage with the drawers endorsers and or bona fide holders of draft(s) drawn under and negotiated in conformity with the terms and conditions of this credit will be duly honoured on presentation of documents or at maturity.	None
+Except as otherwise expressly stated, this credit is subject to Uniform Customs and Practice for documentary credits (1983 Revision), International Chamber of Commerce, Publication No. 400.Yours faithfully,for Bank of MaharashtraCopy to (1) State Bank of IndiaHinganghat BranchDistt.	None
+Wardha (M.S.)(2) V.M. Jog Engineering Ltd.Pune.	None
+Thus the L C confirms the rights of bona fide holders of the drafts that may be issued by the drawerssellers and to honour on presentation of documents or at maturity.	None
+it is also clear that the L C is subject to UCP (1983 revision).11.	Facts
+For the purposes of the main point arising in the case, it is important to note clause 9 of the Letter of Credit.	Facts
+That clause requires that one of the document to be produced by the seller for payment should be the copies of the delivery challanscuminvoices issued by Jaswant Steel Rolling Mills Pvt. Ltd. (plaintiffbuyer) duly signed by Project Authorities, with an endorsement that the material was recovered in good condition and indicating the date of receipt of material at sites.12.	Facts
+On 19.3.1998, the appellant became the Negotiating Bank in the place of State Bank of India.	Facts
+The Issuing Bank informed the seller that the Negotiating Bank would be the Federal Bank (appellant) and not the State Bank of India.	Facts
+Further, it was stated that clause 10 of the Letter of Credit (referred to above) stood deleted.13.	Facts
+On the same day, 19.3.1998 the seller sent a Bill of Exchange (called technically as a Draft) to its dealer at Visakhapatnam against the Letter of Credit No. 1/98 dated 19.2.1998 stating as follows At 90 (ninety) days from the date of invoice pay to M s.	Facts
+The Federal Bank Ltd., Bombay Samachar Marg, Fort, Mumbai of order a sum of Rs.	None
+2,00,00,000/ (Two cores only) towards value of material given as below DD inv.	None
+No. , Date , Amount 104 , 19.2.1998 , Rs. 1,00,00,000/ 105 , 19.2.1998 , Rs. 1,00,00,000/Sd For Jaswant Steel Rolling Ltd.	None
+This was addressed to the sellers agent at Vijag Steel Plant.	None
+Copies were sent to purchaser (plaintiff).	None
+This Bill of Exchange contains endorsements purportedly signed by the VicePresident of the buyers as follows Accepted for payment on maturity Sd VicePresident (Accounts)for V.M. Jog Engineering Co. (Buyer)andWe confirm having received the despatch documents Sd  VicePresident (Accounts) for V.M. Jog Engineering Co. (Buyer)	None
+It will be noticed that ninety days from 19.2.1998 would be 20.5.1998.	None
+That would be the date on which the Negotiating Bank could claim from the Issuing Bank, the monies if any, it might have paid to the seller.	Facts
+?	Facts
+3d?3 .	Facts
+But, it is the contention of the buyerplaintiff that the first despatch of the goods was on 28.8.1998 and that payment would be due to the Negotiating Bank only on 26.6.1998.	Facts
+The appellantBank on the other hand contended that once the Vice President of the buyer company confirmed the despatch document dated 19.2.1998, ninety days would expire by 20.5.1998 and the appellantBank, in case it paid to the sellers under the Bill of Exchange issued by the sellers, the appellant should be repaid on 20.5.1998 and not on 26.6.1998.16.	Facts
+On 20.3.1998, the sellers wrote to the appellantBank (through their dealers at Visakhapatnam, Shriram Investment Services Ltd.) to discount the Bill of Exchange for Rs. 2 crores and pay the proceeds.	None
+The bill along with other documents so sent by or on behalf of the sellers were received by the appellantBank.	None
+The above letter of the sellers to the appellantBank reads as follows Please find enclosed herewith the documents drawn under Bank of Maharashtra, Pune L C No. 1/98 dated 19.2.1998.	None
+Drawer , Jaswant Steel Rolling Mills Pvt.	None
+Ltd.	None
+Nagpur (sellers) Drawee , V.M. Jog Engineering Ltd., Pune (buyers) Amount Rs.	None
+2,00,00,000/ (Rupees two crores only)	None
+Usance 90 days Due date Kindly discount the same 15.25 p.a. and issue the cheque in favour of the Federal Bank  	None
+A c. Jaswant Steel Rolling Mills Pvt.	None
+Ltd. payable at Mumbai In other words, the seller demanded payment on the Bill of Exchange against the L C by producing these documents before the Negotiating Bank.	None
+The Negotiating Bank was to pay the amount minus its commission.	None
+It could draw the released amount from the Issuing Bank on the 90th day from 19.2.1998 the date of despatch document i.e. 20.5.1998.	None
+The appellantNegotiating Bank then took the extra precaution of sending to the Issuing Bank  the L C and the documents sent by the sellers for confirmation.	None
+This is stated to be part of the Banking practice.	None
+The letter dated 20.3.1998 by the appellant (Negotiating Bank) to the Issuing Bank stated that they were enclosing the original Letter of Credit for 2 crores, Usance 90 days, due date 20.5.1998 (they were counting 90 days from 19.2.1998) and that they were enclosing the documents sent to them by sellers along with L C Draft dated 19.3.1998	Facts
+Invoice dated 19.2.1998(5 sheets)L R Delivery Challan dated 19.2.1998 (5 sheets)L C Above L C in original is enclosed.	None
+Please return the same with the signatures duly verified and certified.	None
+It was also said in the said letter by the Negotiating Bank that they have negotiated the documents today and they confirm having noted the drawings on the original L C.	None
+The letter of the Negotiating Bank further states Instructions Acknowledge receipt quoting your and our reference number.2.	None
+Confirm due date of payment.3.	None
+Verify and certify the signatures on the L C and confirm that the signatories on the L C have the required authority to issue the same.4.	None
+Confirm that the documents are in order and payment will be made on due date.	None
+Reimbursement (i) Remit Bill amount on due date itself by your Pay Order drawn in our favour.(ii)	None
+Remit Bill amount by Telephonic Telegraphic transfer (TT) through your branch at Bombay with instructions to reimburse to us on due date itself.	None
+We have already stated that the Bill of Exchange (or draft) was also sent by the sellers to the Negotiating Bank, through their dealer.	None
+This Bill was one of the documents thus received by the Negotiating Bank.	None
+It contained the two endorsements purported to have been made by or behalf of the buyers (to which we have already made reference) and purporting to be signed by the Vice President (Accounts) of the buyers.	None
+These endorsements read as follows Accepted for the payment on maturity.	None
+Sd  Vice President (Accounts)	None
+For V.M. Jog Engineering Ltd. (buyers)	None
+We confirm having received the despatch documents.	None
+Sd  Vice President (Accounts)	None
+For V.M. Jog Engineering Ltd. (buyers) As far as proof of delivery of the despatched goods is concerned, the position was as follows.	None
+Among the documents accompanying the L C were the five invoices dated 19.2.1998 (5 sheets) and the five delivery challans dated 19.2.1998 (5 sheets).	None
+The five delivery challans contained the signature of one Mr. P. Waghmode who purported to sign on behalf of the buyers and two of the five delivery challans purportedly contained the countersignatures of the Vice President (Accounts) of the buyer dated 21.2.1998 and 23.2.1998 respectively.	None
+The office stamp of the buyers company was found on all the five delivery challans.	None
+The endorsement of Mr. Waghmode on the delivery challans also stated that goods were received in good condition.	None
+The Issuing Bank, after receiving the documents, wrote back to the Negotiating Bank in its crucial letter on 23.3.1998 as follows  Re Our inland L C No. 1/98 dated 19.2.1998 For Rs.	None
+2,00,00,000/ fvg.	None
+Jaswant Steel Rolling Pvt.	None
+Ltd.	None
+We have received the abovesaid L C in original along with your covering letter.	None
+We have confirmed the due date on 20.5.1998 and the documents are in order and payment of the abovementioned L C 1/98 will be made on 20.5.1998.	None
+We have verified and certified the signatures on the L C and confirm that the signatories to the L C have the required authority to issue the same.	None
+We returned herewith the abovementioned L C 1/98.	None
+In other words, the Issuing Bank certified the signatures and assured the Negotiating Bank, that it would reimburse the Negotiating Bank on the due date, 20.5.1998.	None
+Obviously, the Issuing Bank proceeded on the basis that the delivery was on 19.2.1998 as stated in the document (and not on 28.3.1998, as contended by the buyers in the plaint).	None
+On the basis of the above letter dated 23.3.1998 sent by the Issuing Bank to the Negotiating Bank, the letter discounted the Bill of Exchange drawn from the seller and paid Rs. 1,94,39,252 under the L C on 25.3.1998 to the sellers.23.	Facts
+On 24.3.1998 the Negotiating Bank wrote to the Issuing Bank that the latter had returned the L C, along with confirmation and also the documents.	Facts
+It said that the Negotiating Bank shall be delivering the documents again to the Issuing Bank on due date and that the same is returned herewith which you may kindly acknowledge.	Facts
+Encl.	Facts
+as above.	Facts
+(A contention was raised by the Issuing Bank in its affidavits in the trial Court that by this letter, the Negotiating Bank was agreeing to send some other documents and they were not sent later at the time of seeking reimbursement on 20.5.1998).24.	Facts
+The Negotiating Bank, having parted with Rs. 1,94,39,252 upon confirmation of the genuineness of the documents by the Issuing Bank, was waiting to claim reimbursement by the Issuing Bank on the due date, 20.5.1998.25.	Facts
+But then, there was a sudden surprise.	Facts
+It received a letter from the Issuing Bank on 19.5.1998 that the Issuing Bank had found on scrutiny in May 1998, that the Negotiating Bank had not submitted (1) Delivery challancuminvoices issued by sellers duly signed by project authorities with an endorsement that the material is received in good condition and indicating that the date of receipt of material at sites as per clause No. 10 of our L C. (2) All relevant motor transport receipts as per clause No. 3 of our L C. They stated that after receipt of the above documents as per terms of L C, they would be able to consider further.	Facts
+This has obvious referred (reference ?) to clause 9 of the L C extracted above.	Facts
+On 20.5.1998, there was a further letter by the Issuing Bank to the Negotiating Bank that (1) As per special instructions for the Negotiating Bank, clause No. 3 of our L C, full set of original documents along with a certificate of compliance of the terms and conditions of credit is not received by us.	None
+Original L C, duly discharged has not been received by us.	None
+You are requested to send the above documents.	None
+According to the appellant, by the letter the Issuing Bank was going back on its earlier certification and assurance to reimburse the appellant as per its letter dated 23.3.1998 addressed to the Negotiating Bank.	Arguments of Petitioner
+Meanwhile, the Issuing Bank had alerted the buyers on 15.5.1998 that the Negotiating Bank had produced certain documents purportedly dated 19.2.1998 containing an endorsement that the material was received in good condition as per order.	None
+The buyers stated in their plant that it was only then that they learnt at that the sellers had committed forgery by showing that one Mr. P. Waghmode, had made the said fraudulent endorsements on the demand vouchers on behalf of the buyers.	None
+They contended that there was nobody by the name Mr. P. Waghmode in their service much less with necessary authorisation, to act or receive the goods on behalf of the buyers.	None
+They stated that on 17.5.1998, Mr. Bhapkar, Project Manager of the buyers visited the factory of the sellers and found that only 654 MT of steel was shown in the sellers accounts as having been supplied and not the full quantity.	None
+A further contention was that, in fact, only 523 MT was supplied and not 654 MT.	None
+On 18.5.1998, the buyers informed the Issuing Bank that forgeries had been committed by some persons in the documents presented to the Issuing Bank.	None
+The buyer was conscious that on 20.5.1998, the Negotiating Bank would press for payment from the Issuing Bank.	None
+The buyer then filed the suit against the sellers (1st defendant), the Issuing Bank (2nd defendant) and the Negotiating Bank (3rd defendant) for permanent injunction.	None
+No specific relief was claimed against the Negotiating Bank but it was prayed that the Issuing Bank should not release any amount under the L C. In the entire body of the plaint there is no allegation imputing any fraud to the Negotiating Bank, much less even knowledge of fraud.	None
+Allegations of fraud and forgery were made only against the sellers.	None
+In the interlocutory application, though injunction was prayed against the Issuing Bank, the Negotiating Bank was not brought into the array.	None
+Injunction was obtained on 20.5.1998 by the buyers against the Issuing Bank not to honour the L C.	None
+The said Bank then wrote on 20.5.1998 to the Negotiating Bank that in view of the Courts order, they would not be able to release any amount in favour of the Negotiating Bank, after the due date i.e. 20.5.1998.	None
+It was only then that the Negotiating Bank came to know that though it had been impleaded in the suit as the 3rd defendant, it had not been impleaded in the application for injunction.	None
+It moved the Court for vacation of the order stating that they had sent the L C and documents including the delivery challans dated 19.2.1978 to the Issuing Bank for due checking and that the Issuing Bank in their crucial letter dated 23.3.1998 had certified the genuineness of the endorsements on the L C and the signatures on the documents.	None
+Further, the Bill of Exchange drawn by the sellers against the L C contained the signatures of the Vice President of the buyers (we have already extracted the endorsement) and the delivery challans were signed by Mr. P. Waghmode, with the endorsement received material in good condition and two of these endorsements were countersigned by Vice President of the buyer with his stamp and that once the Issuing Bank had certified the above documents presented by the sellers to the Negotiating Bank, the Negotiating Bank could not but pay the sellers and they had paid Rs. 1,94,39,252 to the sellers on 25.3.1998.	Facts
+The Negotiating Bank pointed out that no allegations of fraud or forgery were made against it nor even knowledge thereof attributed to it.	None
+On these facts, the trial Court refused to vacate the injunction in its order dated 29.4.1999.	Facts
+This order was confirmed by the High Court.	Facts
+The Negotiating Bank has come up in appeal by Special Leave.31.	Facts
+In this appeal, we have heard the submissions of learned counsel for the appellant Sri S. Ganesh and of the learned senior counsel for the buyers Sri V.A. Mohta and of Sri Rajesh Kumar, for the Bank of Maharashtra. ?	Facts
+3?3 Learned Counsel for the appellant Sri S. Ganesh contended that the plaintiffbuyers had deliberately not impleaded the appellant in the injunction application and they obtained injunction in collusion with the Issuing Bank.	Arguments of Petitioner
+They could not have stated in the trial Court that the Negotiating Bank need not be heard.	Arguments of Petitioner
+Learned Counsel pointed out that no allegation of fraud was made in the plaint nor in the injunction application against the Negotiating Bank and the allegations were made only on the sellers for allegedly committing forgery of documents.	Arguments of Petitioner
+Learned Counsel pointed out that not even knowledge of fraud or forgery was attributed to the appellant.	Arguments of Petitioner
+The appellant had obtained, by way of caution, the confirmation from the Issuing Bank as per Banking Practice in regard to the genuineness of the endorsements on the Bill of Exchange and L C and on the documents (including the delivery challans) produced by the sellers and that the Issuing Bank had confirmed the genuineness of the same and had, in fact, promised to reimburse the Negotiating Bank on the due date i.e. 20.5.1998 (i.e. 90th day after the date of delivery 19.2.1998).	Arguments of Petitioner
+The Bill of Exchange was also signed by the Vice President of the buyer and necessary endorsement was made.	Arguments of Petitioner
+Counsel also referred as to Articles of the Uniform Customs and Practice for Documentary Credits (1983 Revision) which stood incorporated in the Letter of Credit dated 19.2.1998 (and in particular Article 16(b) and (e)) and pointed out that even in cases where Issuing Bank did not refuse to certify the documents in reasonable time, the Article states that the Issuing Bank shall be precluded from claiming that the documents are not in accordance with the terms and conditions of the credit.	Arguments of Petitioner
+Here, on facts, there is an express acceptance of the genuineness of the documents and this is an afortiori case.	Arguments of Petitioner
+The Banks are governed by a separate contract and were not concerned with disputes as to nonperformance  or nondelivery of goods  by the seller to the buyer.	Arguments of Petitioner
+On the other hand, the learned counsel for the Issuing Bank, Sri Rajesh Kumar contended before us (and in their written submissions) that it was true that on 23.3.1998 the Issuing Bank had certified to the Negotiating Bank that the documents were in order.	Arguments of Respondent
+But when in May, 1998, the Negotiating Bank claimed to be reimbursed, the Issuing Bank scrutinised and it was revealed that the documents were not in order.	Arguments of Respondent
+It also contended that the primary duty to verify the documents was that of the Negotiating Bank and that the confirmation obtained from the Issuing Bank was of no value.34.	Arguments of Respondent
+Sri V.A. Mohta, learned senior counsel for the buyersplaintiff wanted to contend that the injunction obtained by the plaintiff had to be maintained.	Arguments of Respondent
+Learned counsel was confronted with his clients stand in the trial Court that the Negotiating Bank had no concern with the injunction.	Arguments of Respondent
+Learned senior Counsel was told that in view of the peculiar stand taken by his client in the trial Court, in case this Court declared that the injunction would not come in the way of the Negotiating Bank getting reimbursed by the Issuing Bank, his clients would not have any objection to it.	Arguments of Respondent
+Counsel, however, submitted that, in that event, the Issuing Bank should not debit the buyer for the amount the said Bank would reimburse to the Negotiating Bank.	Arguments of Respondent
+Counsel was informed that question does not arise in this appeal.	Arguments of Respondent
+The following points arise for consideration in this appeal In the context of the need for Banks to take reasonable care to scrutinise the documents produced before it for honouring the L C, what is the relevance of the UCP Code issued by the International Chamber of Commerce, which was here expressly incorporated in the L C ?	Issue
+(2) If it is the case of the plaintiffbuyer that there is fraud on the part of the sellers in relation to the documents and if it is not its case that the Negotiating Bank was guilty of fraud or had knowledge of fraud by the seller, could the Negotiating Bank not seek reimbursement from the Issuing Bank, as a holder in due course of the Bill of Exchange, against the L C ?	Issue
+(3) Whether, once the Issuing Bank had certified the documents which were presented to the Negotiating Bank by the sellers, the said Bank could turn round and refuse reimbursement on the ground that on further scrutiny made by its  long after the Negotiating Bank partied with monies  was not correct or was mistaken ?	Issue
+Point 1	None
+This point mainly deals with the UCP Code (1983 Revision) which was incorporated by reference into the L C. As the interpretation of the UCP is commercially of considerable importance, we would like to dal with the relevance of the UCP Code in some detail.	None
+This court had occasion in United Commercial Bank v. Bank of India, 1981(2) SCC 766 (at 780) to refer to the Uniform Customs and Practices for Documentary Credits (UCP for short) by which the General provisions and Definitions and the Articles following are to apply to all documentary credit and binding upon all parties thereto unless otherwise expressly agreed.	None
+The UCP states that it shall be deemed incorporated into each documentary credit if there are words in the Credit indicating that such credit was issued subject to Uniform Customs and Practices of Documentary Credits.	None
+The UCP has been formulated by the International Chamber of Commerce.	None
+Prof. R.M. Goode described it as the most successful harmonising measure in the history of international commerce.	None
+Prof. E.P. Ellinger stated that the UCP was the result of necessity and the need for use of banks as agents in international trade.	None
+The first UCP was drafted in 1929, the next one in 1933, then in 1951, 1962 and 1974 1983.	None
+The 1983 version (relevant in the case before us) was used in 170 countries.	None
+(It was revised in 1990 and 1993).	None
+(The New York version of its revised in 1998).	None
+(See Principles of International Trade Law by Indira Carr, 2nd Ed., 1999).	None
+In the absence of incorporation, the UCP will not apply but it can be taken into account as part of mercantile customs and practices and most of it is also treated as part of common law, barring a few differences.	None
+If an express term in the contract contradicts the UCP terms, the contract prevails.	None
+Mustill, J. in Royal Bank of Scotland Plc.	None
+v. Cassa di Ris parimio Delle Provincie Lombard, 1993 Financial Times 21 Jan. 1992, said it must be recognised that (the UCP) terms do not constitute a statutory code.	None
+As the title marks clear, they constitute a formulation of customs and practices, which the parties to a Letter of Credit can incorporate into their contracts by reference.	None
+If it is found that the parties have explicitly agreed such a term, then the search need go no further, since any contrary provision in UCP must yield to the parties expressed intention.	None
+We are here concerned with the Uniform Commercial Practice of Documentary Credits, 1983 (which is referred to in the L C).	None
+It states in Article 3 credits, by their nature are separate transactions from the sales or other contract(s) on which they may be based and banks are in no way concerned with or bound by such contract(s), even if any refuse whatsoever to such contract(s) is included in the credit.	None
+Article 4 states that In credit operations, all parties concerned deal in documents, and not in goods, services and or other performances to which the documents may relate.	None
+This is also declared by this Court in several cases.	None
+Article 10 refers to the duty of the Bank to honour the commitment.	None
+It states An irretrievable credit constitutes a definite undertaking of the Issuing Bank, provided that the stipulated documents are presented and that the terms and conditions of the credit are complied with (i) if the credit provides for sight payment  to pay, or that payment will be made (ii) if the credit provides for deferred payment  to pay or that payment will be made on the date(s) determinable in accordance with the stipulations of the creditor, (iii) if the credit provides for acceptance  to accept drafts drawn by the beneficiaries if the credit stipulates that they are to be drawn on the Issuing Bank, or to be responsible for that acceptance and payment at maturity if the credit stipulates that they are to be drawn on the applicant for the credit or any other drawee stipulated in the credit (iv) if the credit provides for negotiation  to pay without recourse to drawer and or bona fide holders, drafts drawn by the beneficiary, at sight or at a tenor, on the applicant for the credit or on any other drawee stipulated in the credit other than the Issuing Bank itself, or to provide for negotiation by another bank and to pay as above, if such negotiation is not affected (b)(c)(d) Article 11(a) stipulates that All credits must clearly indicate whether they are available by sight payment, by deferred payment, by acceptance or by negotiation Clause (b) states that All credits must nominate the bank (nominated Bank) which is authorised to pay (paying bank), or to accept drafts (accepting bank), or to negotiable (negotiating Bank) unless the credit allows negotiation by any bank (Negotiating Bank).	None
+(c)Clause (d) of Article 11 is relevant and it reads Article 11(d) By nominating a bank other than itself or by allowing for negotiation by any bank or by authorising or requesting a bank to add its confirmation, the issue bank authorises such bank to pay, accept or negotiate, as the case may be, against documents which appear on their face to be in accordance with the terms and conditions of the credit and undertakes to reimburse such bank in accordance with the provisions of these Articles.	None
+It is, therefore, clear that under Article 11(d), it is sufficient if the negotiating bank is satisfied that the documents which appear on their face to be in accordance with the terms and conditions of the credit.	None
+If the Negotiating Bank then pays, the Issuing Bank is bound to reimburse the Negotiating Bank.	None
+We have to refer to another important Article, i.e. Article 15, which concerns the reasonable care with which documents have to be examined.	None
+This Article has relevance on the question of fraud.	None
+It refers to the safeguards to be taken by the Bank.	None
+It states Article 15 Bank must examine all documents with reasonable care to ascertain that they appear on their face to be in accordance with the terms and conditions of the credit.	None
+Documents which appear on their face to be inconsistent with one another will be considered as not appearing on their face to be in accordance with the terms and conditions of the credit.	None
+Once the Bank takes such reasonable care as above stated, Article 16 states that the Bank will have to be reimbursed by the party giving such authority.	None
+Clause (b) of Article 16 states that refusal by the Issuing Bank to pay must be on the documents alone as appear on their face to be inconsistent with the terms and conditions of the credit.	None
+At common law, the position is no different.	None
+The principle of reasonable care has been applied by Lord Diplock in Gian Singh and Co. Ltd. v. Banque de LIndochine, 1974(1) WLR 1234.	None
+The Bank has to examine with reasonable care to ascertain if they appear on their face to be in accordance with the terms and Letters of Credit.	None
+In that case, the reference was made to Article 7 of the UCP (1962).	None
+It was observed that the said Article did not more than restate the duty of the bank at common law.	None
+It was further held that in the ordinary course, visual inspection of the actual documents presented is all that is called for.	None
+(p. 1252).	None
+In Basse and Selve v. Bank of Australia, 1904(20)	None
+TLR 431 90 L.T. 618, the defendantBank was instructed to negotiate the drafts of a shipper in Sydney against a Certificate of Dr. Helms for 100 tons of Cobalt ore analysis not less than 5 pretoxide.	None
+The shipper shipped worthless ore which was described in the bill of loading as P.M. 2680 bags containing 100 tons of Cobalt ore.	None
+The sample initially submitted did not refer to the bill of lading goods.	None
+But later, the shipper marked the sample in the same way as the goods were described in the Ball of lading quantity and obtained a second certificate showing satisfactory tests of a sample of Cobalt ore marked P.M. 2680 bags representing 100 tons.	None
+The Bank this time accepted the shippers drafts and was held to be entitled to recover from the plaintiffs.	None
+The certificate on its face was regular and came within the meaning of the mandate.	None
+Bigham, J. said Once they were in touch with the right man, the defendants only remaining duty was to see that the documents which be brought purported on their face to be documents described in the mandate.	None
+It was no part of their duty to verify the genuineness of the documents.	None
+All that is therefore necessary is to examine with reasonable care if the documents on their face conformed to the terms and conditions of the L C. One other important Article that is important on the question of reasonable care of the Bank in examining the documents is Articles 17.	None
+It reads Article 17 Banks assume no liability or responsibility for the form, sufficiency, accuracy, genuineness, falsification or legal effect of any document, or for the general and or particular conditions stipulated in the documents or superimposed thereon nor do they assume any liability or responsibility for the description, quantity, weight, quality, condition, packing, delivery, value or existence of the goods represented by any document, or for the good faith or acts and or omissions, solvency, performance or standing of the consignor, the carriers, or the insurers of the goods or any other person whomsoever.	None
+This shows that the Bank does not  if it is not clear from the face of the documents  owe any liability or responsibility for the falsity of the documents.	None
+(However, we shall presently deal with the question of fraud separately).	None
+Learned Counsel for the appellant Sri Ganesh has contended that if the Issuing Bank does not certify the documents within reasonable time, it will be deemed that it had accepted the documents.	Arguments of Petitioner
+Counsel relied on clauses (c) and (e) of Article 16.	None
+Clause (c) states Article 16(c)	None
+The Issuing Bank shall have reasonable time in which to examine the documents and to determine as above whether to take up or to refuse the documents.	None
+If the Issuing Bank does not return them within reasonable time, it may be deemed that it has ratified the genuineness of the documents.	None
+These clauses are based on principles of common law.	None
+In Hansson v. Hamel and Horley Ltd., 1922(2) AC 36 (HL), Lord Sumner stated (at p. 46) these documents have to be handled by the banks, they have to be taken up or rejected promptly and without any opportunity for prolonged inquiry.	None
+Two judgments as to whether the Issuing Bank can consult its customer appear to be conflicting.	None
+In Bankers Trust Co. v. State Bank of India, 1991 Lloyds Rep. 443, it was held that the Bankers Trust was barred from refusing the documents because it had taken unreasonable time to examine and reject them, some nine days.	None
+By that time the State Bank of India had paid to the Steel Authority of India.	None
+There were no doubt, 967 sheets to be verified.	None
+But it was held that the time taken to consult the customer could not be excluded.	None
+A different view was expressed earlier in Cooperative Centrale etc. v. Sumitomu Bank Ltd., The Royan, 1987(1) Lloyds Rep. 354 (on appeal, see 1988(2) Lloyds Rep. 250).	None
+However, Article 14(c) of the UCP (1993 Revision) appears to accept the view in the Bankers Trust case for it says that if the Bank approaches the applicant for waiver of discrepancy that shall not extend the seven days time set in Article 13(b) of the UCP (1993 Revision).	None
+In deciding whether the time taken is reasonable or not, English Courts used to take into account banking practice.	None
+The Banks in England, normally used to take three days.	None
+Bankers Trust Ltd. v. State Bank of India, 1991(2)	None
+Lloyd 443) (supra).	None
+Clause (d) of Article 16 of the 1983 Revision states that, if the issuing bank decides to refuse, it must give notice to the bank from which it received the documents or to the beneficiary, if it directly received from him.	None
+Such notice must state the discrepancies in respect of which the Issuing Bank refuses the documents and must also state whether it is holding the documents at the disposal of or is returning them to, the presentator (remitting bank or the beneficiary, as the case may be).	None
+Subclause (3) reads Article 16(e)	None
+If the Issuing Bank fails to act in accordance with the provisions of paragraphs (c) and (d) of this Article and or fails to hold the documents at the disposal of, or to return them to, the presentator, the issuing Bank shall be precluded from claiming that the documents are not in accordance with the terms and conditions of the credit.	None
+Thus, where the Issuing Bank does not respond within reasonable time it cannot, under the UCP, dispute the documents later.	None
+This subclause (e) of Article 16 has been relied upon heavily by the learned counsel for the appellant to show that where the Issuing Bank expressly accepts the documents sent by the Negotiating Bank, no other question can arise.	Arguments of Petitioner
+As to what type of documents are to be accepted as originals Articles 22(c) states that unless otherwise stipulated in the credit, banks will accept as original documents produced or appearing to have been produced (i) by reprographic system, (ii) by or as the result of, automated or computerised system, (iii) as carbon copies  provided if these type of documents are marked as originals, provided they have been, where necessary, authenticated.	None
+Under Article 20(b) of the UCP 1993 Revision, unless otherwise stipulated in the Credit, banks will also accept as an original document, a document produced or appearing to have been produced  (i) by reprographic, automated or compuerised systems (ii) as carbon copies, provided that it is marked as original and, where necessary, appears to be signed.	None
+Recently in Karaganda Ltd. v. Midland Bank, 1999(1) All ER 801 (Commercial Court) (CA) the Court of Appeal affirmed the judgment of the High Court in a case involving the meaning of the word original.	None
+There the document were produced by word processor and laser printed on headed paper without bearing the word original.	None
+The Midland Bank refused to treat the copy of the insurance policy as the L C required original insurance policy or certification.	None
+The Bank relied upon Glencore International AG v. Bank of China, 1996(1) Lloyds Rep. 135 to say that the absence of the word original in any document produced on a word processor was a document produced by a computerised system within Article 20(b) and was required to be marked as original.	None
+But this case was distinguished by the High Court (See 1998 Lloyds Rep. Bank 173 (1997 Current Law Year Book 328).	None
+It was held by the learned Judge that a document could be regarded as marked as original if, either it was expressly marked with the word original, or if it was a necessary implication of the terms and markings of the document that it was original.	None
+Here, the document complied with the latter test and therefore conformed to the credit.	None
+On appeal, the Court of Appeal, as recently as 1999, accepted this view holding that a document containing all the details of the contract and which was patently not a reprographic or carbon copy of another document could constitute an original for purposes of the UCP 1993 Revision.	None
+We are only referring to the view of the English Court as a mark of interest.	None
+That question does not, however, arise in this case.	None
+As to the source from which the documents emanate, Article 23 states that  where documents (other than transport documents, insurance documents and commercial invoices called for) are called for, the credit should stipulate by whom such documents are to be issued and their wording or debtor content.	None
+If the credit does not so stipulate, banks will accept such documents as presented, provided that their debtor content makes it possible to relate the goods and or servicing (services ?) referred to therein to those referred to in the commercial invoice(s) presented, or to those referred to in the credit if the credit does not stipulate presentation of a commercial invoice.	None
+With regard to expiry date and presentation, Articles 46 to 48 deal with the principles applicable.	None
+Before parting with Point 1, we may add that the UCP (1983 revision) or even the 1993 Revision did not refer to fraud as an exception.	None
+That is why Indira Carr says in International Trade Law, 2nd Ed. 1999 at pp. 256267) that the UCP is not comprehensive as it does not address itself to the effect of fraud or illegality in the documentary credit arrangement.	None
+We may here add that the Uniform Civil Code (USA) in clause (2) of Articles 5114 specifically refers to forgery and fraud.	None
+This US Code was noticed by Jagannath Shetty, J. in UP Cooperative Federation ltd. v. Singh Consultant and Engineers P. Ltd., 1988(1)	None
+SCC 174 (at p. 48).	None
+Points 2 and 3 We have set out the facts in sufficient detail to highlight that the plaintiffbuyers have no plea that the Negotiating Bank which paid the monies to the sellers committed any fraud.	None
+The allegations in the plaint are that the sellers in connivance with some persons presented forged or false documents to the Negotiating Bank which include deliveryvouchers purportedly issued and signed on behalf of the buyers (signed by one Mr. Waghmode and countersigned by its Vice President (Accounts), the case of the buyers was, however, that Mr. Waghmode was not in their service nor authorised to issue any such vouchers.	None
+In several judgments of this Court, it has been held that Courts ought not to grant injunction to restrain encashment of Bank guarantees or Letter of Credit.	None
+Two exceptions have been mentioned  (i) fraud and (ii) irretrievable damage.	None
+If the plaintiff is prima facie able to establish that the case comes within these two exceptions, temporary injunction under Order 39, Rule 1, CPC can be issued.	None
+It has also been held that the contract of the Bank guarantee or the Letter of Credit is independent of the main contract between the seller and the buyer.	None
+This is also clear from Arts.	None
+3 and 4 of the UCP (1983 Revision)	None
+.	None
+In case of an irrevocable Bank guarantee or Letter of Credit the buyer cannot obtain injunction against the Banker on the ground that there was a breach of the contract by the seller.	None
+The Bank is to honour the demand for encashment if the seller prima facie complies with the terms of the Bank Guarantee or Letter of Credit, namely, if the seller produces the documents enumerated in the Bank Guarantee or Letter of Credit.	None
+If the Bank if satisfied on the face of the documents that they are in conformity with the list of documents mentioned in the Bank Guarantee or Letter of Credit and there is no discrepancy, it is bound to honour the demand of the seller for encashment.	None
+While doing so it must take reasonable care.	None
+It is not permissible for the Bank to refuse payment on the ground that the buyer is claiming that there is a breach of contract.	None
+Nor can the Bank try to decide this question of breach at that stage and refuse payment to the seller.	None
+Its obligation under the document having nothing to do with any dispute as to breach of contract between the seller and the buyer.	None
+As to its knowledge of fraud or forgery, we shall presently deal with it.	None
+Knowledge of fraud Decided cases hold that in order to obtain an injunction against the Issuing Bank, it is necessary to prove that the Bank had knowledge of the fraud.	None
+Kerr, J. said in R.D. Harbottle (Mercantile) Ltd. v. National Westminster Bank Ltd., 1978 (Q.B. 146 (at 155) that irrevocable Letters of Credit are the life blood of international commerce.	None
+He said Except possibly in clear cases of fraud of which the banks have notice, the courts will have the merchants to settle their disputes under the contracts by litigation or arbitration Otherwise, trust in international commerce could be irreparably damaged.	None
+Denning M.R. stated in Edward and Owen Engineering Ltd. v. Barclays Bank International Ltd., 1978 Q.B. 159 that the only exception is where there is a clear fraud of which the bank had notice.	None
+Browne, LJ. said in the same case but it is certainly not enough to allege fraud, it must be established and in such circumstances, I should say, very clearly established.	None
+In Bolvinter Oil S.A. v. Chase Manhattan Bank, 1984(1) All.	None
+E.R. 351 at p. 352, it was said where it is proved that the Bank knows that any demand for payment already made or which may thereafter be made, will clearly be fraudulent.	None
+But the evidence must be clear, both as to the fact of fraud and as to the banks knowledge.	None
+It would certainly not be sufficient that this rests upon the uncorroborated statement of the customer, for irreparable damage can be done to a banks credit in the relatively brief time before the injunction is vacated.	None
+Thus, not only must fraud be clearly proved but so far as the Bank is concerned, it must prove that it had knowledge of the fraud.	None
+In United Trading Corpn.	None
+S.A. v. Allied Ards Bank, 1985(2) Lloyds Rep. 554, it was stated that there must be proof of knowledge of fraud on the part of the Bank at any time before payment.	None
+It was also observed that it would be sufficient if the corroborated evidence of the plaintiff usually in the form of contemporary documents and the unexplained failure of a beneficiary to respond to the attack, lead to the conclusion that the only realistic inference to draw was fraud.	None
+In Guarantee Trust Co. of New York v. Hannay, 1918(2)	None
+K.B.	None
+623 (KB), the Banker accepted the document without any knowledge of fraud or falsify (falsity ?)	None
+and it was held that the defendants could not counterclaim from the Bank.	None
+However, it would be the Bankers duty to refuse the documents which on their face bear signs of having been altered (See Re Saloman and NandSZus, 1899(92)	None
+L.T. 325.	None
+That was a c.i.f. contract.	None
+This Court in ITC Ltd. v. Debts Record Appellate Tribunal, 1998(2) SCC 70 (at 79) 1998(1)	None
+RRR 391 (SC) also held that knowledge of the Bank as to the fraud or forgery had to be prima facie established.	None
+The foundation of English law in this area is the American case of SZtejn v. J. Heney Schroder Banking Corpn., 1941(31) NYS 2d 631.	None
+(Extensive details of this case are available in Documentary Credits by Raymond Jack, 1991 pp. 19192).	None
+This case has been cited in more than one judgement of this Court and the English Courts but we shall give more facts of that case and the principle of holder in due course laid down therein which arises in the case before us, as per the appellants pleadings.	None
+In that case, the applicant for a credit (i.e. the buyer) claimed injunction against the Issuing Bank Schroder Banking Corporation to prevent it paying on the documents which had been presented.	None
+The credit had been advised to the seller in India by the issuing Banks correspondent in India, the Chartered Bank of India, Australia and China.	None
+The correspondent had not confirmed the credit.	None
+The applicant alleged that what had been shipped was rubbish rather than the bristles contracted to be supplied.	None
+The Chartered Bank (the Collecting Bank) which received the documents from the seller for collection, applied for dismissing the buyers claim.	None
+(This was a proceeding similar to Order 7 Rule 11 CPC) for an injunction on the ground that there was no cause of action.	None
+The buyers, in their application for injunction, informed the Issuing Bank about the fraud of the sellers.	None
+For the purpose of hearing that application of the Collecting Bank, the Court assumed the facts stated in the application of the buyer as to fraud to be true.	None
+(Otherwise, this was a difficult burden of proof normally).	None
+Shientag, J. held that  Where the sellers fraud has been called to the banks attention before the drafts and documents have been presented for payment, the principle of the independence of the banks obligation under the Letter of Credit should not be extended to protect the unscrupulous seller.	None
+It is true that even though the documents are forged or fraudulent, if the issuing bank has already paid the draft before receiving notice of the sellers fraud, it will be protected if it exercised reasonable diligence before making such payment.	None
+The facts, as stated above, were that the sellers had drawn the draft under the letter of Credit to the order of the Chartered Bank of India, Australia and China and delivered the draft and the fraudulent documents to the said Chartered Banks Branch at Caunpore for collection on account of the sellers.	None
+The Chartered Bank could not compel the issuing Bank, Schroder Banking Corporation, to pay by seeking a dismissal of the buyers application by way of a demurrer.	None
+The plaintiff was entitled to injunction for it had brought the allegation to the knowledge of the Issuing Bank, before the payment was made.	None
+Shientag, J. further observed As one Court has stated Obviously, when the issuer of a Letter of Credit knows that a document, although correct in form, is, in point of fact, false or illegal, he cannot be called upon to recognise such a document as complying with the terms of a Letter of Credit. ?	None
+3?3	Facts
+No hardship will be caused by permitting the bank to refuse payment where fraud is claimed, where the merchandise is not merely inferior in quality but consists of worthless rubbish, where the draft and the accompanying document are in the hands of one who stands in the same position as the fraudulent seller, where the bank has been given notice of fraud before being presented with the drafts and documents for payment, and where the bank itself does not wish to pay pending an adjudication of the rights and obligations of the other parties.	None
+The Court also noticed that, on facts, the collecting Bank, Chartered Bank was not a holder in due course but were a mere agent for collection for the account of the seller who was charged by the buyer with fraud.	None
+Therefore, the Chartered Banks motion to dismiss the complaint (similar to Order 7 Rule 11 CPC) must be denied.	None
+Shientag, J. referred to the principle of holder in due course and said as follows If it had appeared from the face of the complaint that the bank presenting the draft for payment (i.e. Chartered Bank) was a holder in due course, its claim against the Bank issuing the letter of credit would not be defeated even though the primary transaction was tainted by fraud.	None
+This passage lays down the law as to when a person becomes a holder in due course in the case of a fraud by the sellers.	None
+This last paragraph from the judgment of Shientag, J. is directly applicable to the facts of the case.	None
+Applying the said principle, we may state that if the appellant Federal Bank was merely a collecting Bank or agent which had approached the Bank of Maharashtra (the Issuing Bank) and if the Issuing Bank was sought to be restrained by the buyer before payment was made by the Issuing Bank to the Collecting Bank, the Collecting Bank could not have compelled the Issuing Bank to release the money for collection if the buyer informed the Issuing Bank in his plaint that the documents to be presented to it by the Collecting Bank were forged or fraudulent.	None
+But where, on the other hand, the Negotiating Bank, i.e. the Federal Bank (appellant), has said on the basis of a clearance given by the Issuing Bank as to genuineness of documents, and seeks reimbursement, then the Negotiating Bank is in the position of a holder in due course and can claim that the suit of the buyer must fail if it sought to restrain the Issuing Bank from reimbursing the Negotiating Bank.	None
+These principles prima facie flow from Shientag, J.s judgment which has been followed both in England and by this Court, in several cases.	None
+Legal relation of a Negotiating Bank visavis the Issuing Bank	None
+The contract between the Issuing Bank and the paying or negotiating (intermediary) banker may partake of a dual nature.	Reasoning
+The relationship is mainly that of principle and agent, mandator and mandatory.	Reasoning
+In other that he may claim reimbursement for any payment he makes under the credit or the indemnity of an agent, the intermediary banker must obey strictly, the instructions he receives, for by acting on them, he accepts them and thus enters into contractual relations with the Issuing Bank.	Reasoning
+The instructions may take the form of an authority either to pay against documents or drafts accompanied by document, or to negotiate drafts drawn either on the Issuing Bank or on the buyer.	Reasoning
+The authority may be accompanied by instructions to the intermediary banker to confirm the credit, that is, to place himself in binding contractual relationship with the beneficiary.	Reasoning
+There is ordinarily no privity between the intermediary banker and the buyer.	Reasoning
+But the intermediary banker, though initially the agent of the Issuing Bank, may also act as principal in relation to him.	Reasoning
+(Pagets Law of Banking, 9th Ed., 1982 pp. 543, 544).	Reasoning
+A.G. Davis in his The Law Relating to Commercial Letters of Credit (2nd Ed.)	None
+(1954) (p. 92 et see) deals with the rights of a Negotiating Bank.	None
+These rights are partly based on the law relating to negotiable instruments and partly on the law applicable strictly to letters of credit.	None
+So far as the rights of the Negotiating Bank against the seller are concerned, his position will be that as in the case of a bill of exchange as against the drawer.	None
+The author deals with its rights against the seller as a holder in due course unless the seller drew the bill sans recourse.	None
+He also deals with the risks of the Negotiating Bank in cases of revocable credits.	None
+But so far as irrevocable credits are concerned, he says that the terms of the credit have to be looked into.	None
+Some terms indeed contain an undertaking by the Issuing Bank with the seller and purchasers for value of drafts on credits, to honour those drafts if, of course, the terms of the credit are complied with.	None
+He says But even in the absence of express words, a promise in favour of such third persons may be implied from the terms of the Letter of Credit and surrounding circumstances where an intermediary banker pays against documents other than those for which the credit calls and tenders them to the issuing banker, he may nevertheless be able to recover from the issuing banker if the latter delays in deciding whether he will repudiate or accept.	None
+Roche, J. in Westminster Bank Ltd. v. Banca Nazionale di Credito, 1928(32) LL Rep. 306 at 312 said if parties keep documents which are sent (to) themin consequence of some mandate which they themselves have issued, and keep them for an unreasonable time, that may amount to a ratification of what has been done as being done within their mandate.	None
+The issuing Bank, as principal may ratify the acts of its agent, the corresponding bank which is its agent and by doing so, relieve the corresponding bank of a liability it would otherwise have.	None
+65 One ruling referred to by the learned counsel Shri S. Ganesh for the appellant is directly in point.	Reasoning
+In Virgo Steels v. Bank of Rajasthan, AIR 1998 Bom.	Reasoning
+82 .	Reasoning
+In that case, the UCO Bank issued a Letter of Credit at request of Virgo Steel in favour of	Reasoning
+Western Ministeel Ltd.	None
+It provided that documents under the credit could be negotiated through any Bank.	Reasoning
+The drawer drew the Bill of Exchange which was negotiated by the Bank of Rajasthan.	Reasoning
+On receipt of the said drafts, the Bank of Rajasthan wrote to the UCO Bank, sending the documents for its confirmation.	Reasoning
+The UCO Bank confirmed the signature of the partner as per their records and said that they could release payment directly to the Bank of Rajasthan.	Reasoning
+Subsequently, the UCO Bank found that Virgo Steels, in connivance with some officials of the Branch, got the L Cs opened much in excess of the limit authorised by UCO Bank.	Reasoning
+The UCO Bank disowned liability to pay the Bank of Rajasthan on due date.	Reasoning
+M.B. Shah, J. (as he then was) speaking for the Bench, rejected the plea of UCO Bank and found it liable to the Bank of Rajasthan.	Reasoning
+It was held Whether the drawer or the acceptor or some officers of the UCO Bank committed fraud would hardly be a defence for nonpayment of the amount due to the Bills of Exchanges negotiated by the Bank of Rajasthan, a third party.and thatUCO bank has never raised any contention that some officers of Bank of Rajasthan, which is altogether a third party, was involved in any alleged fraud or conspiracy.	Reasoning
+The Court relied upon a circular of the Reserve Bank of India dated 1.4.1992.	Reasoning
+UCO Bank was held bound by its own confirmation of the documents.	Reasoning
+We are in respectful agreement with the judgment.66.	Reasoning
+In view of the above reasons, this appeal is to be allowed.67.	Reasoning
+Sumarising, we hold that when the plaintiff buyer has no case that the appellantNegotiating Bank had any knowledge of fraud, and when it took precaution in getting clearance for the document from the issuing Bank on 20.3.1998 and such clearance was given on 23.3.1998 by the latter, it was not open to the Issuing Bank to contend that on fresh scrutiny in May, 1998, it found that the documents were not in conformity with the letters of Credits or that the buyer had so informed them.	Reasoning
+Prima facie, the appellant was in the position of a holder in due course.	Reasoning
+Points 2 and 3 are decided in favour of the appellant.	Reasoning
+For the aforesaid reasons, we allow the appeal and vacate the temporary injunction granted in favour of the plaintiff against the Bank of Maharashtra in so far as the said injunction precluded the Bank of Maharashtra from reimbursing the appellantFederal Bank.	Decision
+It is clarified that the said injunction will not come in the way of the Bank of Maharashtra from complying with its obligation to reimburse the Federal Bank.	Decision
+The appeal is allowed.	Decision
+No costs.69.	Decision
+Before parting with the case, we may state that we are now living in an era of advanced technology of email and internet.	Decision
+It is possible that in the near future we must take greater care and impose less rigorous standards of proof of fraud for otherwise plaintiffs might find it impossible to make out a serious liable issue or prima facie case.	Decision
+Indira Carr says that documentary fraud is on the increase and more so, due to electronic data transfers.	Decision
+She says there is a case for a fresh reassessment of the narrow exception of fraud (Principles of International Trade Law, 2nd Ed., 199 p. 298).Appeal allowed.	Decision

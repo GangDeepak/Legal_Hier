@@ -1,0 +1,350 @@
+ Shelat, J. 1.	None
+By a reference dated September 17, 1965, the Government of West Bengal referred to the Sixth Industrial Tribunal the following question for adjudication Whether computation of bonus in respect of the accounting year ending 31st March, 1965, payable to the employees is in accordance with the Payment of Bonus Ordinance?	Facts
+If not, what should be the quantum of bonus for the employees?	Facts
+2.	None
+The dispute between the appellant company and its employees arose in the following manner.	Facts
+The companys accounting year is from 1st April to 31st March of the following year and its books of account are maintained on the mercantile system of accounting.	Facts
+The company computed the amount of bonus payable to its employees under the Payment of Bonus Ordinance which was promulgated on May 20, 1965 and furnished on July 5, 1965 copies of its computation to the three respondent Unions representing its employees.	Facts
+The available surplus and allocable surplus, according to this computation, were Rs. 49.96 lacs and Rs. 29.98 lacs respectively.	Facts
+On this basis the company declared the bonus at 13,28 per cent of the total wages paid to the employees.	Facts
+According to this computation, the gross profits came to Rs. 2,70,64,234.	Facts
+Out of this the company deducted the following amounts allowed under the Ordinance, namely Rs. 28,64,000as depreciation admissible under the Income Tax Act 1961.	Facts
+Rs.	None
+9,00,000as development rebate Rs.	None
+1,36,33,000as direct taxes Rs.	None
+1,50,000as dividend on preference shares Rs. 23,37,000as	Facts
+interest at 8.5 p. c. on paidup capital Rs.	None
+17,80,358as interest at 6 p. c. on reserves.	None
+Thus the available surplus came to Rs. 49,96,876, sixty per cent of which, namely, Rs. 29,98,125 was the allocable surplus.	None
+The employees disputed the computation contending that the company had wrongly reduced the gross profits an the available surplus and that the following amounts should be added back, viz., provision for gratuity Rs. 18,38,605 and provision for doubtful debts Rs. 50,000.	Facts
+They also challenged deduction of interest on the reserves on the ground that the capital reserve of Rs. 57,00,151 was artificially arrived at by a mere revaluation of the companys fixed assets as on April 1, 1956.	Facts
+They also disputed the figures of depreciation, development rebate and direct taxes deducted by the company while working out the available surplus.	Facts
+3. Parliament in the meantime passed the Payment of Bonus Act, 1965 which by Section 40 repealed the Ordinance but which saved all things done and action taken under the Ordinance as having been done or taken under the Act.	Facts
+On September 27, 1965 the company paid, subject to the result of the reference, bonus at the rate of 13.28 per cent of the wages including dearness allowance to its employees.	Facts
+4.	None
+In its award the Tribunal allowed Rs. 23,48,226 instead of Rs. 28,82,261 claimed by the company as depreciation.	Facts
+Similarly it allowed only Rs 7. lacs instead of Rs. 8,87,371 claimed by the company as development rebate.	Facts
+As regards Rs. 18.38 lacs claimed under the head of gratuity, the Tribunal held that that amount was not a reserve but a provision and, therefore, was not liable to be added back.	Facts
+But it held that the company could deduct only Rs. 10 lacs and odd as also Rs. 1.31 lacs and Rs. 87,000 and odd actually paid during the year to employees who retired during that year and added back the balance of Rs. 6 lacs to the gross profits.	Facts
+Except for these amounts, the Tribunal accepted the rest of the companys computation.	Facts
+In the result the Tribunal found the available surplus and the allocable surplus to be 54 lacs and odd and Rs. 32.42 lacs respectively, and directed payment of bonus at 14.55 per cent of the total wages.	Facts
+Both the Unions and the Company obtained special leave and filed appeal challenging the correctness of the Award.	Facts
+5.	None
+In the profit and loss account for the year 196465, the Company had shown Rs. 17 crores and odd as gross receipts and out of that amount had deducted diverse amounts as expenditure including the sum of Rs. 23,48,226 by way of depreciation.	None
+In its computation filed before the Tribunal, the Company, however, claimed depreciation at Rs. 28.82 lacs worked out by its auditors in accordance with the provisions of the Incometax Act, 1961.	None
+The Unions disputed this amount on the ground (1) that there was no evidence that the amount of depreciation came to Rs. 28.82 lacs and (2) that since the profit and loss account mentioned Rs. 23.48 lacs as depreciation, the company could claim that amount only.	None
+The Tribunal accepted the Unions contention stating that there was nothing to show that the company through mistake had shown Rs. 23.48 lacs as depreciation in the profit and loss account and that subsequently on finding out the mistake it had revised in its computation depreciation at Rs. 28.82 lacs.	None
+The Tribunal, as we shall presently show, was in error in confusing depreciation claimed by it as a deduction under Section 6 of the Act and in thinking that the company had made or claim to have made a mistake and was trying to correct such mistake.	None
+6.	Arguments of Respondent
+Under Section 205 (1) of the Companies Act, 1956, no dividend can be declared or paid by a company for any financial year except out of profits arrived at after providing for depreciation in accordance with subsection (2).	None
+Subsection (2) provides different methods of calculating depreciation, one of which is to calculate it by dividing 95 per cent of the original cost of each of the depreciable asset by a specified period in respect of each such asset.	None
+The depreciation deducted in the expenditure column in the P. and L. account, therefore, was the depreciation worked out under Section 205 (2) of the Companies Act.	None
+Under Section 2 (18) of the Bonus Act, gross profits mean gross profits calculated under Section 4.	None
+In the case of companies other than a banking company, gross profits under Section 4 are to be computed in the manner laid down in the 2nd Schedule.	None
+That Schedule requires adding back to the net profit shown in the P. and L. account the amount of depreciation deducted in that account while computing gross profits.	None
+Obviously, the depreciation so to be added back is the one worked out by the company under Section 205 (2) of the Companies Act.	None
+Section 6 of the Bonus Act provides that having arrived at the gross profits under Section 4 read with the 2nd Schedule, the Company is entitled to deduct therefrom depreciation admissible under Section 32 (1) of the Incometax Act, that is, such percentage on the written down value as may, in the case of each of the classes of assets be prescribed.	None
+7.	Arguments of Respondent
+The fact that the company while preparing its P. and L. Account and its computation (Ex. 6) produced before the Tribunal, had kept the distinction between depreciation worked out under the Companies Act and the one to be worked out under the Incometax Act for the purposes of the Bonus Act is clear from the evidence of its witness, Verma.	None
+It was for this reason that Rs. 23 lacs and odd were shown as depreciation in the P. and L. Account while in the computation (Ex. 6) the company claimed Rs. 28.64 lacs as depreciation.	None
+There was, therefore, no question of the company having made any mistake in calculating depreciation in the P. and L. Account or its trying to amend trial mistake as erroneously thought by the Tribunal.	None
+The only mistake the company claimed it had made was that the true figure of depreciation deductible under Section 6 (a) of the Bonus Act was Rs. 28.82 lacs and not Rs. 28.64 lacs.	None
+The Company produced a certificate of its auditors (Ex. U2) dated December 20, 1965 wherein the auditors certified that on the records produced before them the true figure of depreciation would be the revised figure of Rs. 28.82 lacs and not Rs. 28.64 lacs.	None
+But the controversy between the parries was not confined to the difference between these two figures.	None
+There were three figures for depreciation before the Tribunal, Rs. 23 lacs and odd shown in the P. and L. Account, Rs. 28.64 lacs shown in the computation and Rs. 28.82 lacs subsequently claimed by the company as the revised figure of depreciation.	None
+The last two figures were taken by the company from its auditors certificate certifying first Rs. 28.64 lacs and, later on, revising that figure to Rs. 28.82 lacs on certain further records and information produced before them.	None
+The evidence of Verma shows clearly that the Unions disputed the Companys calculations of depreciation.	None
+When questioned by them, Verma could only say that the calculations were done not by him but by the Secretarial Department and, therefore, was not in a position to answer questions in that regard .	None
+No witness from the Secretarial Department was produced.	None
+As regards their books and records produced before the auditors, his only answer was So far as books and records mentioned in the first part of Ext.	None
+U 2 are concerned, the books and records relating to the branches were produced before the representatives of the auditors firm there, and the other books and records were produced there before the auditors firm.	None
+So far as the records mentioned in the second part of the certificate are concerned, they are different records.	None
+The informations and explanations given to the auditors were given verbally after consulting our books of accounts.	None
+These books and records not having been produced or disclosed, there was obviously no opportunity to the Unions to verify either of the two figures, viz., Rs. 28.64 lacs or Rs. 28.82 lacs.	None
+It is true that Verma said that the calculations shown to the auditor could be produced but he qualified the offer by saying that that would be done if the Tribunal required.	None
+8.	None
+Since the company claimed the deduction of depreciation, it stands to reason thatthe burden of proof that the depreciation claimed by it was the correct amount in accordance with the Incometax Act was on the Company and that burden the company must discharge once its figures were challenged.	None
+But it was contended that once the company produced its auditors certificate that should be sufficient and must be accepted and that the Tribunal should not insist either on the auditors proving their certificate or on the company proving depreciation on each and every item of depreciable asset.	None
+Such an enquiry before the Tribunal, it was argued, would be a harassing and prolonged enquiry, not contemplated in industrial adjudication and, therefore, the Tribunal ought to have accepted as correct Rs. 28.82 lacs certified by the auditors.	None
+Under Section 23 of the Act the presumption of accuracy is allowed only to the balancesheet and the P. and Loss Account of companies.	None
+No such presumption is provided for by the Act to auditors certificates.	None
+Speaking of rehabilitation amount deductible as a prior charge under the Full Bench formula while working out the available surplus this Court in Khandesh Spg. and Wvg.	None
+Mills Co., Ltd., Jalgaon v. Rashtriya Girni Kamgar Sangh, Jalgaon, 19602 SCR 841 (AIR 1960 SC 571 ) observed at page 847 (of SCR)(at p. 574 of AIR) as follows The importance of this question (the procedure to be followed for ascertaining facts) in the context of fixing the amount required for rehabilitation cannot be overestimated.	None
+The item of rehabilitation is generally a major item that enters into the calculations for the purpose of ascertaining the surplus and, therefore, the amount of bonus.	None
+So there would be a tendency on the part of the employer to inflate this figure and the employees to deflate it.	None
+The accounts of a company are prepared by the management.	None
+The balancesheet and the profit and loss account are also prepared by the companys officers.	None
+The labour have no concern in it.	None
+When so much depends on this item, the principles of equity and justice demand that an Industrial Court should insist upon a clear proof of the same and also give a real and adequate opportunity to the labour to canvass the correctness of the particulars furnished by the employer.	None
+The necessity of proper proof of the correctness of statements in the balancesheet was repeated in Petlad Turkey Red Dye Works Co., Ltd. v. Dyes and Chemical Workers Union, 19602 SCR 906 at p. 909(AIR 1960 SC 1006 at p. 1007).	None
+These observations made with regard to balancesheets and P. and L. Accounts would equally apply to statements made in the auditors certificates prepared on the instructions and information supplied to them by employers.	None
+Mere production of auditors certificate, especially when it is not admitted by labour, not by the auditors but by the employees of the company who admitted not have been concerned with its preparation or the calculations on which it was based would not be conclusive.	None
+We do not say that in such a case the Tribunal should insist upon proof of depreciation on each and every item of the assets.	None
+It should, however, insist on some reasonable proof of the correctness of the figure of depreciation claimed by the employer either by examining the auditors who calculated and certified it or by some other proper proof.	None
+Depreciation in some cases would be of a large amount affecting materially the available surplus.	None
+Fairness, therefore, requires that an opportunity must be given to the employees to verify such figures by crossexamination of the employer or his witnesses who have calculated depreciation amount.	None
+Notwithstanding the Unions challenge to the figure of depreciation claimed by the company, the only thing that the company did was to examine Verma, who admittedly had nothing to do with its calculation, and to produce through him the said certificate.	None
+In our view, that was neither proper nor sufficient.	None
+The proper course for the Tribunal in such a case was to insist upon the company adducing legal evidence in support its claim instead of taking the figure of depreciation from the P. and L. Account which was not worked out in accordance with the Incometax Act but under Section 205 of the Companies Act, and saying that the Company had failed to prove that it was a mistaken figure.	None
+In our view, the question as to the correct amount of depreciation must go back to the Tribunal for a fresh decision.	None
+The Tribunal should give opportunity to the Company to prove its claim for depreciation by reasonable proof and to the Unions to test such evidence by crossexamination or otherwise.	None
+9.	None
+An error of the same type seems to have been committed by the Tribunal in the matter of development rebate.	None
+It allowed Rs. 7 lacs as development rebate instead of Rs. 8.87 lacs claimed by the Company.	Facts
+Under Section 33 of the Incometax Act, an assessee is allowed by way of development rebate a certain percentage of the cost of machinery or plant depending on the date of its installation.	None
+Section 34 (3) of that Act provides, however, that the said allowance shall not be given unless an amount equal to 75 per cent of the development rebate to be allowed is debited to the P. and L. Account of the relevant previous year and credited to a reserve account to be utlised by the assessee in the 8 years next following for the purposes of the undertaking.	None
+Accordingly, the Company appropriated Rs. 7 lacs to the development rebate reserve as it was bound to do if it wanted to claim development rebate.	None
+The Company took the round figure of Rs. 9 lacs instead of Rs. 8.87 lacs for development rebate and credited Rs. 7 lacs, being 75 per cent thereof to the development rebate reserve.	None
+Under the Second Schedule to the Bonus Act, read with Section 4 thereof, the Company is required while computing its gross profit to add the development rebate and as footnote 1 in that Schedule shows to the extent charged to profit and loss account, that is Rs. 7 lacs.	None
+Under Section 6 (b) of the Bonus Act, the Company is entitled, however, to deduct out of the gross profits arrived at under Section 4, the whole or the development rebate admissible under the Incometax Act, i. e., the amount, 75 per cent of which comes to Rs. 7 lacs.	None
+The error which the Tribunal fell into was in mixing up the development rebate reserve to which the Company had to appropriate Rs. 7 lacs in P. and L Account and the development rebate of Rs.8.87 lacs allowable to it under Section 6 of the Act.	None
+Mr. Chari for the Unions fairly conceded that he could not challenge this position.	None
+There was, therefore, no justification for the Tribunal to allow Rs. 7 lacs only instead of Rs. 8.87 lacs as development rebate.	None
+10.	None
+The next question relates to a sum of Rs. 18.38 lacs , being the estimated liability under two gratuity schemes framed by the Company, which was deducted from the gross receipts in the P. and L. account.	None
+In 1960 the Company introduced a gratuity scheme for its employees other than its officers.	None
+Under that scheme gratuity was payable on the termination of an employees service either due to retirement, death or termination of service, the amount of gratuity payable being dependent on his wages at that time and the number of years of service put in by him.	None
+The Company had worked out on an actuarial valuation its estimated liability and made provision for such liability not all at once but spread over a number of years.	None
+Thus in 195960, 196061 and 196162 the .Company allocated towards this liability Rs. 5 lacs, Rs. 10 lacs and Rs. 5 lacs respectively from out of the profits, debiting these amounts in the profit and loss account.	None
+In all Rs. 40 lacs have so far been provided in the aforesaid manner against the said liability.	None
+The practice followed by the Company is that every year the Company works out the additional liability incurred by it on the employees putting in every additional year of service.	None
+Whenever on employee retires, the amount of gratuity payable to him is debited against the amount provided for as aforesaid.	None
+The amount so paid is not debited in the P. and L. Account as an outgoing or expenditure but against the estimated liability provided as aforesaid.	None
+In 196465, the company introduced a similar gratuity scheme for its officers.	None
+According to the Company, the estimated liability under this scheme was worked out at Rs. 20 lacs.	None
+But instead of providing the whole for it, it provided only Rs. 11.31 lacs.	None
+It also provided Rs. 7 lacs under the scheme for its nonofficers against the liability for service put in by them in that year.	None
+Out of Rs. 18.38 lacs so provided, the Company paid as gratuity Rs. 1,31,585 and Rs.87,295 to officers and other employees who retired during 196465, debiting, as aforesaid, these amounts not as an outgoing or expenditure but against the said amounts of Rs. 11 lacs and Rs.7 lacs.	None
+The Company claimed that it was entitled to deduct the balance of Rs.16 lacs from the gross receipts in the P. and L. Account while working out its net profit.	None
+the Unions contended that the Company could deduct from the gorss receipts only Rs. 1.31 lacs and Rs. 87,000 and odd actually paid during the year.	None
+The Company, on the other hand, maintained that what it had done was legitimate and was warranted by the principles of accountancy and, therefore, the whole amount of Rs. 18.38 lacs was deductible in arriving at its net profits.	None
+What the Tribunal did, however, was that instead of squarely facing this controversy, it held that as the Company had in the former years debited Rs. 5 lacs, e.g., in 195960 and 196162, it would allow only Rs. 5 lacs for each of the two schemes.	None
+Thus it allowed Rs. 10 lacs as debitable in the P. and L. Account in addition to the said Rs. 1.31 lacs and Rs. 87,000 and disallowing the balance of Rs. 6 lacs added back that amount in the net profits shown in the P. and L. Account.	None
+11.	None
+The contention of Mr. Chari was twofold (1) that the amount which could be debited was that which was actually paid and the Company was not entitled to debit in the P. and L. Account any amount worked out by it as estimated liability.	Arguments of Petitioner
+The Tribunal, therefore, was not justified in allowing the Company to debit any such amount and that the Tribunal arbitrarily fixed Rs. 10 lacs and allowed wrongly that amount to be deducted and (2) even if such estimated liability was debitable, the appropriation amounted to a reserve and under the Bonus Act such a reserve had to be added back while working out the gross profits under the 2nd Schedule to the Act.12.	Arguments of Petitioner
+Two questions, therefore, arise (1) whether it is legitimate in such a scheme of gratuity to estimate the liability on an actuarial valuation and deduct such estimated liability in the P. and L. account while working out its net profits and (2) if it is, whether such appropriation amounts to a reserve or a provision.	Issue
+If it is a reserve, obviously the amount has to be added back while computing the gross profits.	None
+But in that event the Company would be entitled to interest thereon at 6 per cent per annum under Item 1 (iii) of the Third Schedule to the Act.	None
+In the case of an assessee maintaining his accounts on mercantile system, a liability already accrued, though to be discharged at a future date, would be a proper deduction while working out the profits and gains of his business, regard being had to the accepted principles of commercial practice and accountancy.	None
+It is not as if such deduction is permissible only in case of amounts actually expended or paid.	None
+Just as receipts, though not actual receipts but accrued due or brought in for incometax assessment, so also liabilities accrued due would be taken into account while working out the profits and gains of the business.	None
+A Company carrying on business of buying land and selling it after development sold certain plots, received a part of the price but entered the whole of the price receivable as it maintained its books of accounts on mercantile method.	None
+It also debited a certain sum, being the estimated expenditure for the developments it undertook to carry out within six months from the execution of the sale deeds although no part of such expenditure was actually incurred during that year.	None
+It was held that having regard to the accepted commercial practice and trading principles and there being no prohibition against it in the Incometax Act, deduction of such estimated liability even though it did not come under any specific provisions of Section 10 (2) of the Incometax Act, 1922 was permissible(See Calcutta Co., Ltd v. Commr.	None
+Of Incometax, West Bengal, 19601 SCR 185 (AIR 1959 SC 1165 ).)	None
+Such a deduction of an accrued liability though not actually paid is not confined to the IncomeTax Act only but is also permissible under the Wealth Tax Act, 1957.	None
+In Commissioner of Wealth Tax (Central) Calcutta v. Standard Vacuum Oil Co. Ltd., 19662 SCR 317 (AIR 1966 SC 995 ) demands in respect of payment of tax under Sec.	None
+18A of the Incometax Act, 1922 were made against the assessee company for 195657.The final instalment of Rs. 47 lacs and odd for each of the two years was outstanding on the respective valuation dates.	None
+The question was whether the demand for such tax could be deducted while determining the net wealth of the Company.	None
+This Court held that a debt is owed when an order is passed under Section 18A and a notice of demand is sent.	None
+The amount mentioned in the notice begins to be owed till a new figure is substituted by the assessee under Section 18A (2) of the Incometax Act.	None
+But till that is done, the amount is ascertained and there is a statutory liability to pay the amounts mentioned in the order under Section 18A (1) and were debts on the valuation dates and, therefore, deductible for the purpose of arriving at the Companys net wealth.	None
+The Court also held that a condition subsequent, the fulfillment of which may result in the reduction or even extinction of the liability would not have the effect of converting that liability into a contingent liability.	None
+The decision, no doubt, turned on the meaning of debt as defined by Section 2 (m) of the Wealth Tax Act, the Court there holding that the statutory liability to pay the amount mentioned in the order commenced when the demand notice was served and, therefore, the liability did exist in praesenti.	None
+In Kesoram Industries and Cotton Mills Ltd. v. Commr. of Wealth Tax (Central) Calcutta, 19662 SCR 688 (AIR 1966 SC 1370 ) also a case under the Wealth Tax Act, the appellant company showed in its P. and L. Account two amounts (1) the amount of dividend proposed to be distributed for that year, and (2) another sum as a provision for tax liability under the Incometax Act, 1922.	None
+The question was whether these two sums were debts and could be deducted while computing the Companys net wealth.	None
+It was held that the dividend amount was not a debt as on the valuation date nothing more than a recommendation by the Directors had taken place.	None
+But as regards the estimated tax liability, it was held that it was a debt inasmuch as the liability to pay the tax was in praesenti though payable in futuro and was in respect of an ascertainable sum of money.	None
+In Standard Mills Co. Ltd. v. Commissioner of Wealth Tax, Bombay, 19671 SCR 768 (AIR 1967 SC 595 ) the decision turned on the question whether an estimated liability under gratuity schemes framed under Industrial awards amounted to debts and could be deducted while computing the net wealth.	None
+On reliance having been placed on Southern Railway of Peru Ltd. v. Owen 1957 AC 334, a decision to which we shall presently come, the Court observed at p. 773 that that decision had no relevance to the question before it as the House of Lords in that decision was concerned in determining the deductibility of the present value of a liability which may arise in future in the computation of taxable income for the relevant year under the Income Tax laws.	None
+The Court held, in view of the terms of Section 2 (m) of the Wealth Tax Act, that as the liability to pay gratuity was not in praesenti but would arise in future on the termination of service i.e. on retirement, death or termination the estimated liability under the schemes would not be a debt and, therefore, could not be deducted while computing the net wealth.	None
+These observations show that the Court was of the view that though such a liability is a contingent liability and therefore not a debt under Section 2 (m) of the Wealth Tax Act, it would be deductible under the Income Tax Act, while computing the taxable profits.	None
+In the instant case, the question is not whether such estimated liability arising under the gratuity schemes amounts to a debt or not.	None
+The question that concerns us is whether while working out the net profits a trader can provide from his gross receipts his liability to pay a certain sum for every additional year of service which he receives from his employees.	None
+This in our view, he can do, if such liability is properly ascertainable and it is possible to arrive at a proper discounted present value.	None
+Even if the liability is a contingent liability, provided its discounted present value is ascertainable, it can be taken into account.	None
+Contingent liabilities discounted and valued as necessary can be taken into account as trading expenses if they are sufficiently certain to be capable of valuation and if profits cannot be properly estimated without taking them into account.	None
+Contingent rights, if capable of valuation, can similarly be taken into account as trading receipts where it is necessary to do so in order to ascertain the true profits (see C. N. Beattis Elements of the Law of Income and Capital Gains Taxation, 8th ed. 54).	None
+13.	None
+In 1957 AC 334, the House of the Lords was concerned with the problem similar to the one before us and, therefore, the observations made there would be of assistance.	None
+An English Company operating a railway in Peru was under the laws of that country liable to pay its employees compensation on the termination of their services either by dismissal or on termination of service by notice or on such termination by death or efflux of contractual time.	None
+The compensation so paid was an amount equivalent to one months salary at the rate in force at the date of determination of every year of service.	None
+The company claimed to be entitled to charge against each years receipts the cost of making provision for the retirement payments which would ultimately be thrown on it, calculating the sum required to be paid to each employees if he retired without forfeiture at the close of the year and setting aside the aggregate of what was required in so far as the year had contributed to the aggregate.	None
+The House of Lords rejected the deductions on the ground that in calculating the deductions the company had ignored the factor of discount.	None
+But their Lordships recognised the principle that the company was entitled to charge against each years receipts the cost of making provision for the retirement payments which would ultimately be payable as the company had had the benefit of the employees services during that year provided the present value of the future payments could be fairly estimated.	None
+The contention on behalf of the Crown was very nearly the same as the one before us, Counsel conceded, that a trader computing his taxable profits for a particular year may properly deduct not only the payments actually made to his employees but also the present value of any payments in respect of their services in that year to be made in a subsequent year if it can be satisfactorily estimated.	None
+But it was argued that that proposition would not apply to that case as the company was not in any year under a definite obligation to pay its employees lump sums on the termination of their employment as in each case the right to a lump sum was contingent on certain conditions being fulfilled and so the prospective liability remained contingent until the service was actually ended.	None
+The lump sum could not be regarded as earned or payable in respect of a particular year of service and, therefore, the whole sum should be debited in the account of the last year of service.	None
+This contention was not upheld.	None
+In the course of his opinion, Lord Radcliffe cited with approval the dictum of Lord Haldane in Sun Insurance Office v. Clark, 1912 AC 443 at p. 455, namely It is plain that the question of what is or is not profit or gain must primarily be one of fact, and of fact to be ascertained by the tests applied in ordinary business.	None
+Questions of law can only arise when (as was not the case here) some express statutory direction applies and excludes ordinary commercial practice, or where, by reason of its being impracticable to ascertain the facts sufficiently, some presumption has to be invoked to fill the gap.	None
+Holding that there was no such statutory rule prohibiting the commercial practice of providing for such an estimated liability for each year, he compared the two systems and observed at pp. 351352 as follows Now the question is how ought the effects of his statutory scheme to be reflected in the appellants accounts of the annual profits arising from its trade?	None
+One way, which is certainly the simplest one, is to let the payments made fall entirely as expenses of the year of payment and ignore any question of making provision for the maturing obligation during the years of service that precede it. . . . . . . .	None
+It has one considerable advantage no element of estimate or valuation appears in the profit assessment and nothing is charged to profits except the actual cash outgoing.	None
+But, when this has been conceded, I think that there is the very serious disadvantage to be set against the inefficient method of arriving at the true profits of any one year.	None
+The retirement benefit is not obviously paid to obtain the services given in the year of retirement.	None
+The incident of retirement payments must be variable from year to year, and they may inordinately depress the profits of one year just as they may inordinately inflate the profits of another.	None
+It is true that the company carries on business from one year to another, but it is not charged on the average of its annual profits.	None
+Tax rates and allowances themselves vary and, apart from that, to charge tax on a profit unduly accelerated or unduly deferred is, in my opinion, no more respectable an achievement than to admit that the annual accounts of business do in some cases require the introduction of estimates or valuations if a true statement of profit is to be secured.	None
+Another method is that which the appellant is seeking to establish with regard to its assessments for the four years 19471950. . . . . .	None
+What the appellant claims the right to do is to charge against each years receipts the cost of making provision for the retirement payments that will ultimately be thrown upon it by virtue of the fact that it has had the benefit of its employees services during that year.	None
+As a corollary it will not make any charge to cover the actual payments made in the year in respect of retirement benefits.	None
+Only by such a method, it is said, can it bring against the receipts of the year the true cost of the services that it has used to earn those receipts.	None
+Generally speaking, this must, I think, be true.	None
+For whereas it is possible that any one of its many employees may forfeit his benefits and so never require a payment, the substantial facts of the situation are that when the company has paid every salary and wage that is due for current remuneration of the year it has not by any means wholly discharged itself of the pecuniary burden which falls upon it in respect of the years employment.	None
+Agreeing with the companys claim he observed that provision for retirement payments would give an accurate reflection of the true costs of earring the years receipts than merely charging against them the years payment to employees who retired in the year.	None
+14.	None
+That there is no rule against providing for any such contingent liability but on the contrary such a provision is permissible can be seen from the form of balancesheet in Schedule VI to the Companies Act, 1956 where provisions for taxation, dividends, provident fund schemes, staff benefit schemes and other items for which a company is contingently liable are to be treated as current liabilities and, therefore, debitable against the gross receipts.	None
+Schedule VI, Part 2, lays down the requirements of profit and loss account and Cl. 3 (ix) of it provides that a profit and loss account shall set out amongst other things the aggregate of amounts set aside or provisions made for meeting specific liabilities, contingencies or commitments.	None
+But the contention was that though Schedule VI to the Companies Act may permit a provision for contingent liabilities, the Income Tax Act, 1961 does not, for, under Section 36 (v) the only deduction from profits and gains permissible is of a sum paid by an assessee as an employer by way of his contribution towards an approved gratuity fund created by him for the exclusive benefits of his employees under an irrevocable trust.	None
+This argument is plainly incorrect because Section 36 deals with expenditure deductible from out of the taxable income already assessed and not with deductions which are to be made while making the P. and L. account.	None
+In our view, an estimated liability under gratuity schemes such as the ones before us, even if it amounts to a contingent liability and is not a debt under the Wealth Tax Act, if properly ascertainable and its present value is fairly discounted is deductible from the gross receipts while preparing the P. and L. account.	Reasoning
+It is recognised in trading circles and we find no rule or direction in the Bonus Act which prohibits such a practice.	None
+15.	None
+The next question is whether the amount so provided is a provision or a reserve.	Issue
+The distinction between a provision and a reserve is in commercial accountancy fairly well known.	None
+Provisions made against anticipated losses and contingencies are charges against profits and, therefore, to be taken into account against gross receipts in the P. and L. account and the balancesheet.	None
+On the other hand, reserves are appropriations of profits, the assets by which they are represented being retained to form part of the capital employed in the business.	None
+Provisions are usually shown in the balancesheet by way of deductions from the assets in respect of which they are made whereas general reserves and reserve funds are shown as part of the proprietors interest (see Spicer and Peglars Bookkeeping and Accounts, 15th ed.	None
+p. 42).	None
+An amount set aside out of profits and other surpluses, not designed to meet a liability, contingency, commitment or diminution in value of assets known to exist at the date of the balance sheet is a reserve but an amount set aside out of profits and other surpluses to provide for any known liability of which the amount cannot be determined with substantial accuracy is a provision (see William Pickles Accountancy, Second Edn, 192, Part III, Cl. 7, Schedule VI to the Companies Act, 1956 which defines provision and reserve).	None
+16.	None
+Under Section 23 of the Bonus Act, there is a presumption of the genuineness of the P. and L. account produced by the company unless it is challenged in the manner provided therein.	None
+The Companys case was that the estimated liability under the gratuity schemes in respect of the accounting year was ascertainable with fair accuracy under the actuarial valuation and Rs.16 lacs which it took into account while making its P. and L. account was the present discounted liability.	None
+This position does not seem to have been disputed before the Tribunal.	None
+The principal contention urged against that figure was not that the estimated liability was not ascertainable or as in the case of Southern Railway of Peru, 1957 AC 334 (supra) that it did not represent the present discounted value, but that the Bonus Act permits only the deduction of the amount actually paid during the accounting year.	None
+This was also the principal contention of Mr. Chari before us.	None
+Mr. Ramamurthi, appearing for one of the interveners, argued that though it may be possible to take into account such a contingent liability in arriving at the true profits and gains under the Income Tax Act, it would not be so under the Bonus Act as the scheme of the Act treats the accounting year as a unit and, therefore, reserves or provisions on the footing of estimated liabilities to be paid in future cannot be taken into account.	Arguments of Petitioner
+But under the Income Tax Act also the previous year is a unit and it is only the profits and gains during that year which are taxable.	Arguments of Petitioner
+If under the Income Tax Act an estimated liability ascertainable with substantial accuracy can be taken into account for arriving at the true profits and gains, there is no reason why the same cannot be done under the Bonus Act unless there is any provision therein forbidding such a practice recognised by commercial accountancy.	None
+No such provision was shown to exist in the Bonus Act.	None
+17.	None
+The Tribunal in allowing Rs. 10 lacs out of the estimated Rs. 16 lacs impliedly accepted the principle canvassed by the company.	None
+It, however, allowed only Rs. 10 lacs because it thought it to be excessive as in some prior years the Company had deducted Rs. 5 lacs.	None
+But this was not done on the ground that the estimate of Rs. 16 lacs was not warranted on any valuation.	None
+In our view, in the absence of any challenge as to the correctness of the valuation and in the absence of any challenge that such liability cannot be estimated on any fair standard, the Tribunal ought to have allowed the whole of Rs. 16 lacs to be deducted while arriving at the net profits in the P. and L. account.	None
+18.	None
+Turning now to the appeal filed by the employees two questions besides these already disposed of were raised one dealing with interest on capital reserve and the other relating to the amount of direct taxes to be deducted from the gross profits.	None
+19.	None
+As regards the first question, Vermas evidence was that the Company had revalued its fixed assets in 1956 and credited the difference of Rs. 57 lacs between its cost and the value fixed on such revaluation, to the capital reserve.	None
+The Tribunal accepted the valuation as bona fide and allowed interest on the reserve at 6 per cent in accordance with Section 6 (d) and Clause 1 (iii) of the 3rd Schedule.	None
+Mr. Charis contention was that the revaluation by the directors in 1956 was fictitious that the difference of Rs. 57 lacs was a mere book adjustment and did not add to the wealth of the Company and though that amount was transferred to the capital reserve, it was not as if any additional amount became available for the Companys business and, therefore, no interest was permissible on such an artificial amount.	None
+At first blush it would seem as if there is some force in this contention, for it would be possible for a company to deflate its gross profits by fictitiously revaluing its fixed assets at regular intervals and claiming interest on the excess by carrying such excess to capital reserve and to reduce thus labours claim to bonus.	None
+In the present case the revaluation was made as early its in 1956 and it does not appear that it was ever objected to either by the Companys auditors or by any one else concerned with the Companys management.	None
+It cannot, therefore, be legitimately said that it was done for any oblique purpose, much less with a view to defeat the labours claim to bonus.	None
+It is true that such revaluation does not bring in any tangible additional amount into the companys coffers which it can use for its business.	None
+But under Section 211 of the Companies Act every balancesheet of a company must give a true and fair view of the state of affairs of the company as at the end of the financial year.	None
+Schedule VI to the Companies Act also provides that where sums have been written off on a reduction of capital or a revaluation of assets, the balancesheet, subsequent to such reduction or revaluation must show the reduced or the increased figures as the case may be.	None
+Apart from the provisions of the Companies Act, it is a recognised principle of accountancy to transfer the increased value of assets on revaluation to a capital reserve account.	None
+Such an increased figure is an unrealised accretion in the value of a fixed asset (see Pickles Accountancy, 2nd Edn., 193 and 935).	None
+So that the fact that such an increased figure does not actually bring in any additional amount to the Company does not make the capital reserve any the less a reserve.	None
+Nor is it possible to postulate that if such a claim is allowed to be deducted, the management would go on artificially inflating the value of the fixed assets with a view to claim interest.	None
+In the first place, if such an inflation is made mala fide, the Tribunal can always disallow it.	None
+In the second place, it is hardly profitable for a company to resort to such a practice, for, under the Wealth Tax Act the company would be liable to an increased assessment.	None
+Section 7 (2) of that Act provides that where an assessee is carrying on a business for which accounts are maintained regularly, the Wealth Tax Officer may instead of determining separately the value of each asset held by the assessee determine the net value of the assets of the business as a whole having regard to the balancesheet of such business as on the valuation date.	None
+In 19662 SCR, 688 (AIR 1966 SC 1370 ) (supra) the assessee sought to argue exactly what Mr. Chari contended, namely, that the revaluation of the assets made by him did not represent the true value of the assets.	None
+That contention was rejected and this Court held that the Wealth Tax Officer was entitled to rely on such revaluation and proceed to assess on the basis of the net wealth shown as a result of such revaluation.	None
+We do not, therefore, see any justification for the apprehension felt by Mr. Chari, for, by trying to reduce the gross profits, the Company would land itself into being assessed on a higher net wealth.	None
+The Tribunal was, in our view, right in accepting the figure of Rs. 57 lacs and deducting interest thereon from the gross profits.	None
+20.	None
+There remains now the question regarding computation of direct taxes.	None
+Section 6 (c) of the Act provides subject to the provisions of Section 7, any direct tax which the employer is liable to pay for the accounting year in respect of his income, profits and gains during that year Section 7 inter alia provides For the purpose of clause (c) of Section 6, any direct tax payable by the employer for any accounting year shall, subject to the following provisions, be calculated at the rates applicable to the income of the employer or that year, The Company claimed a deduction from the gross profits of Rs. 145 lacs as direct taxes.	None
+It had made provision, however, for Rs. 130 lacs for direct taxes in the P. and L. account.	None
+In its computation it had made a provision for Rs. 136 lacs.	None
+At the stage of the evidence and arguments it contended, however, that the proper amount would be Rs. 145 lacs.	None
+It claimed that direct taxes are to be worked out under Section 6 (c) on the gross profits worked out under Section 4 less the prior charges allowable under Section 6, namely, depreciation and development rebate, but without deducting from such balance the bonus payable by the Company in the particular accounting year.	None
+The Tribunal accepted the contention and allowed Rs. 145 lacs as direct taxes to be deducted under Section 6 (c).	None
+21.	None
+This conclusion has been seriously disputed by the Unions.	None
+Mr. Charts argument was that the Act lays down its own statutory formula for working out available surplus and allocable surplus, that the deductions from gross profits allowable are those permissible under the Act, namely, depreciation admissible in accordance with the provisions of Section 32 (1) of the Income Tax Act, the development rebate and subject to the provisions of Section 7 of the Act, the amount of direct taxes which the employer is liable to pay for the accounting year in respect of his income, profits and gains during that year.	Arguments of Respondent
+Mr. Chari laid stress on the words is liable to pay and in respect of his income, gains and profits during that year and argued that inasmuch as Clause (c) incorporates the language of the Income Tax Act, it contemplates that the employer is entitled to deduct his actual tax liability.	Arguments of Respondent
+Such liability, therefore, is to be worked out in accordance with the provisions of the Income Tax Act and other relevant Acts by first arriving at the actual taxable income gains and profits under those Acts and then computing the taxes at rates provided by them for that particular accounting year.	Arguments of Respondent
+He argued that since Clause (c) is subject to the provisions of Section 7, the only departure permissible under the Act is that which is provided in Sec.	Arguments of Respondent
+7.	Arguments of Respondent
+His contention thus was that the Tribunal must start its calculations from the net profit shown in the P. and L, account which would have made provision for direct taxes and then deduct from the gross profits calculated under Section 4 the prior charges permissible under Section 6.	Arguments of Respondent
+The provision for direct taxes made in the P. and L. account would be computed after deducting from the gross receipts such deductions, allowances, reliefs, rebates, credits, etc. as are permissible under the Income Tax Act which would include the bonus amount payable during the year, for, without such deduction the P. and L. account cannot reflect the true net profit of the employer.	None
+The Companys contention, on the other hand, was that the employer is entitled to compute his tax liability without deducting first the amount of bonus he would be liable to pay from out of the amount computed under Section 4 and Section 6.	None
+Mr. Palkhiwala submitted from the different provisions of the Act that the concept of actual tax liability under the Income Tax Act is foreign to the Bonus Act inasmuch as the Bonus Act is concerned with gross profits calculated in accordance with Section 4 and Schedule II, and that Section 7 to which Section 6 (c) is made subject, militates against the concept of actual tax liability as worked out under the Income Tax Act.	None
+The contention was that prior to the enactment of the Act when available surplus was worked out under the Full Bench Formula bonus was not deducted while arriving at the amount of incometax deductible from gross profits, that Parliament could not possibly have contemplated a departure from the course followed in a number of decisions both of courts and tribunals and suddenly decided to incorporate into this Act the complicated and elaborate provisions of the Income Tax Act and throw the burden on Industrial Tribunals to work out deductions, allowances reliefs, rebates, etc. under the Income Tax Act and then finally to assess the actual tax liability, it was submitted that what has to be done by the Tribunal is first to work out gross profits under Section 4 and Schedule it and then to deduct therefrom the prior charges under Section 6 (a) and (b) and estimate direct taxes on the balance and thus arrive at the available surplus.	None
+The controversy thus is one of principle rather than on the amount deducted by the Tribunal by way of direct taxes.	None
+22.	None
+Before we attempt to resolve this controversy, it will be worth our while to recount the principle consistently followed before the passing of this Act, not with a view to interpret Section 6 (c), but to ascertain whether Parliament has made a departure from that principle and laid down a new procedure on which direct taxes are to be computed.	None
+Mr. Charis contention was that the Bonus Act is drafted on a clean slate giving a go by to the earlier principle of working out bonus, and, therefore, we must proceed on the footing of the language used in Section 6 (c).	None
+At first sight it would appear that the language of Clause (c) lends support to his contention.	None
+But acceptance of that contention would mean incorporating into the Bonus Act the elaborate and complicated provisions of not only the Income Tax Act but other Acts levying direct taxes and throwing a considerable burden on Tribunals, least equipped with working out the provisions of those Acts entailing inevitably prolonged enquiries.	None
+Therefore, we must proceed cautiously in examining the scheme of the Act before we conclude on the interpretation to be given to Section 6 (c) and Section 7. 23.	None
+It appears that some Industrial Tribunals while calculating the available surplus under the Full Bench Formula used to work out notionally the amount of bonus which they thought would be awarded and deducted that amount from the gross profits, on the remaining balance of which, income tax payable by the employer would be determined.	None
+The result of this procedure was that the amount of tax so worked out was proportionately less.	None
+Deprecating this procedure, Gajendragadkar, J. (as he then was), observed in Associated Cement Companies Ltd. Bombay v. The Workmen Employed, 1959.	None
+SCR 925 at p. 974 (AIR 1959 SC 967 at p. 993) and as follows Logically it is only after all the prior charges have been determined and deducted from the gross profits that available surplus can be ascertained and it is only after the available surplus is ascertained that the question of awarding bonus can be considered.	None
+Some tribunals seem to work out notionally the amount of bonus which they think can be awarded and placed that amount higher up in the process of making calculations before the income tax payable is determined. . .	None
+We wish to make it clear that this procedure should not be followed.	None
+In Crompton Parkinson (Works) Private Ltd., Bombay v. Its Workmen, 1959 Supp 2 SCR 936 (AIR 1959 SC 1089 ) disapproval of the said procedure was once again voiced, Das, C. J., observing that such a procedure is certainly not giving effect to the bonus formula but amounts to ad hoc determination which may vary according to the length of the proverbial foot of the Lord Chancellor an is bound to lead to chaos and industrial unrest.	None
+In Workmen of India Explosives Ltd. v. India Explosives Ltd., 19662 Lab LJ 313 (SC) the labour relied on the report of the Directors which was to the effect that no income tax was payable on the years result and a total of Rs. 62.39 lacs made up of income tax and development rebate was being carried forward.	None
+On this report it was argued that no deduction should be made for income tax.	None
+Negativing the contention it was held that in the application of the Full Bench Formula the deduction of income tax is notional, the gross profits are arrived at by adding back certain items to the net profits and then the gross profits are reduced by making certain notional deductions, one such deduction is under the head of income tax.	None
+It was held that this deduction is not made on the actual amount payable, but what would be notionally payable on the profits determined under the Full Bench Formula and that if the argument on behalf of the labour were to be accepted the Tribunal would in effect not be applying the formula.	None
+Similar observations are to be found in several other decisions but we need not add them here.	None
+24.	None
+The question is whether the concept of notional tax liability which was adopted so long was laid aside by Parliament when it enacted Section 6 (c) and Section 7 and replaced the concept of actual tax liability.	None
+To answer this question we must examine the scheme of the Act and Schedule II.Broadly speaking, it can be safely said that Parliament has retained the main outlines of the Full Bench Formula in the Act.	None
+It maintained, for instance, the accounting year as the unit, the principle that the employer, and where it happens to be a company, the company and its shareholders and labour are earth entitled as contributories to the profits to a share therein, the deduction of certain prior charges, the concept of gross profits, etc. which were the features of the Formula.	None
+The principal change it introduced was the statutory formula of minimum and maximum and the corollary flowing therefrom of set on and set off and the doing away of rehabilitation as a prior charges, against which labour had clamoured long.	None
+But do these changes envisage the doing away of the concept of notional tax liability which the Tribunals used to work out and substituting actual tax liability by first working out the taxable income of the employer under the Income Tax Act and other Acts?	None
+The answer, of course, must be found from the provisions of the Act and not from what used to be done before its enactment.	None
+25.	None
+Sections 4, 5, 6 and 7 together with the Schedules deal with computation of gross profits and available surplus out of which 67 per cent in cases falling under Clause (a) of Section 2 (4) and 60 per cent in cases falling under Clause (b) of that subsection would be the allocable surplus.	None
+Under Schedule II, which applies to establishments which are not banking companies, the starting point is the net profit shown by the employer in his P. and L. account.	None
+The reason for doing so seems to be that the Tribunal is not expected ordinarily to reopen the P. and L. account, verify the accounts from which it is worked out or find out for itself the true net profit.	None
+Parliament was aware that Tribunals which would adjudicate disputes under the Act would be the least efficacious for such a purpose, apart from the fact that such enquiries would be prolonged and bitter enquiries.	None
+That is why Section 23 was enacted to raise a presumption about the correctness of the P. and L. account and balancesheets of companies duly certified by auditors qualified under S. 226 of the Companies Act, 1956 Since the P. and L. account would have taken into account, besides expenditure allowable under the Income Tax Act, bonus payable to labour, provisions for tax development rebate or development allowance and reserves, Item 2 of Schedule II requires these amounts to be added back, Similarly, the amounts set out in Items 3 and 4 in Schedule II are also to be added back.	None
+Item 5 provides for certain deductions such as capital receipts, capital profits, profit and receipts relating to business outside India, income of foreign concerns from investments outside India, etc.	None
+It is clear from the nature of these deductible items that they are items in which generally labour would not have made any, contribution.	None
+Having thus arrived at the gross profits, Section 6 provides for deduction of prior charges set out in Clauses (a), (b), (c) and (d).	None
+Clause (a) allows the deduction of depreciation admissible under Section 32 (1) of the Income Tax Act or a similar provision under other Acts charging direct taxes, but not depreciation unabsorbed in any earlier previous year by reason of there being no profits or gains chargeable for that year or of such profits or gains being less than the allowance allowable under Section 32 (2) of the Income Tax Act.	None
+The result is that while making his P. and L. account the employer would deduct both the depreciation allowable under Section 32 (1) as also the depreciation unabsorbed during the earlier years.	None
+The whole of such depreciation, however, has to be added back under item 2 (b) of Schedule II while computing the gross profits.	None
+Notwithstanding such adding back of depreciation allowable under both subsections (1) and (2) of Section 32 of the Income Tax Act, the depreciation deductible under Section 6 (a) of the Act is the one allowed under Section 32 (1) that is, the depreciation relating to the accounting year only and not the depreciation unabsorbed in any earlier accounting year.	None
+Similar is the position regarding bonus paid during the accounting year but which relates to the earlier accounting years.	None
+Even in the case of an employer keeping his accounts on mercantile basis, he would not get a deduction of bonus though payable but not actually paid during the accounting year.	None
+He would, however, be entitled to deduct such bonus from his taxable profits and gains as expenditure incurred wholly for the business.	None
+Under Schedule II, Item 3(a) bonus, even though paid during the accounting year, has to be added back if it is deducted in the P. and L. account.	None
+The net profit in the P. and L. account would thus not be the same as the available surplus worked out under the Act.	None
+The same is the position of losses and expenditure relating to a foreign business which though allowable under the Income Tax Act have to be added back to the net profit shown in the P. and L. account.	None
+As already stated deductions permissible under Schedule II are those items in which, it can be said that labour could have made no contribution in earning them.	None
+So far as development rebate is concerned, Section 6 (b) allows the whole of such rebate allowable under the Income Tax Act and, therefore, there would be no difficulty in working out the development rebate under this head and the Income Tax Act.	None
+26.	None
+Coming now to Clause (c) of Section 6, is it the actual taxable income, the direct tax on which is a prior charge, which is to be worked out, or the tax on the estimated balance of gross profits after deducting depreciation and development charges but without deducting the bonus payable during the year?	None
+In other words, when the Tribunal reaches the stage of Clause (c), does it have to assess the taxable income in accordance with the various provisions of the Income Tax Act just as an Income Tax Officer would do and assess the liability of income tax on such taxable income according to the rates applicable during the particular accounting year, or should it compute the balance of gross profits and as stated above and apply the said rates and estimate the amount of direct taxes and deduct them from the remaining gross profits?	None
+Bonus being payable within eight months after the close of the accounting year in cases where there is no dispute pending before an authority under Section 22 of the Act as provided by Section 19, it is hardly possible, except in rare cases, that assessment under the Income Tax Act and other such Acts would be completed by the time bonus has to be paid.	None
+Therefore, the Tribunal would not have before it the taxable income assessed by the Income Tax and other such officers.	None
+If the Unions contention were to be right, there would be two or more parallel authorities working under this Act and the Income Tax Act and other such Acts who would have to assess taxable income and the tax payable thereon, before all of whom the employer would have to prove his taxable income.	None
+Prima facie, it would seem that the Bonus Act could not intend an enquiry into the actual taxable income worked out under all the elaborate provisions relating to deductions, allowances, reliefs, rebates, etc. provided by the Income Tax Act and other such Acts.	None
+This is particularly so as in each bonus dispute the tribunal not equipped with the detailed knowledge of all such Acts would have to undertake an enquiry into the various deductions, rebates, reliefs, etc. claimable by the employer under those Acts.	None
+The fact that payment of bonus cannot brooke delay without causing hardship to labour would seem to militate against the possibility of such prolonged enquiries.	None
+27.	None
+The key to the words in S. 6 (c), namely, is liable to pay emphasised on behalf of the unions and some of the interveners lies in the opening words subject to the provisions of Section 7 in Clause (c).	None
+These words are used, whether the tax liability is to be calculated on actual taxable income or on the notional amount worked out under Sections 4 and 6 and Schedule II, because the direct taxes payable by the employer are to be calculated at the rates applicable during that year as provided by Section 7.	None
+That both such amounts cannot be the same is clear because Sec. 7 in express terms prohibits taking into account unabsorbed losses and arrears of depreciation allowable under Sec.	None
+32 (2),	None
+the exemption allowed under Section 84 and the deduction allowed under Section 101 (1) of the Income Tax Act.	None
+Similarly, where an assessee is a religious or charitable institution and its income either wholly or partially, as the case may be, is exempt under the Income Tax Act, such an employer to whom Section 32 of the Act does not apply is treated as a company in which the public are substantially interested and its income is to be assessed accordingly by the Tribunal and compute its liability for direct taxes.	None
+Clause (c) of Section 7 does away, for the purposes of Sections 6 and 7, the distinction between the liability of an individual and a Hindu Undivided Family under the Income Tax Act and provides that the income derived by such a Hindu Undivided Family is to be treated as the income of that employer as an individual.	None
+Likewise, where profits and gains of an employer include profits from export, a rebate allowed under the Income Tax Act on such profits is not to be taken into account while working out the tax liability under Section 6 (c).	None
+Also, the rebate allowed under any of the Acts levying direct taxes on sums spent on development of an industry is also not to be taken into account while computing the tax liability.	None
+It was, however, argued that the provisions of Section 7 lay down the only departure from the Income Tax Act and that except for that departure the Tribunal must assess the actual taxable income and arrive at the tax liability thereon at rates prevailing during the accounting year in question.	None
+In our view this submission is not correct.	None
+What Section 7 really means is that the Tribunal has to compute the direct taxes at the rates at which the income, gains and profits of the employer are taxed under the Income Tax Act and other such Acts during the accounting year in question.	None
+That is the reason why Section 6 (c) has the words is liable for and the words income, gains and profits.	None
+These words do not, however, mean that the Tribunal while computing direct taxes as a prior charge has to assess the actual taxable income and the taxes thereon.	None
+How can the Tribunal arrive at the amount of bonus to be paid to labour without first estimating the amount of taxes and deducting it from the gross profits and thus ascertaining the available surplus?If it were to reverse the process and first deduct bonus and ascertain the tax amount, it would have to do so on a somewhat ad hoc figure thus bringing about the same result deprecated by this Court in decisions referred to above.	None
+This and the other difficulties already pointed out must lead to the result that the Tribunal must estimate the amount of direct taxes on the balance of gross profits as worked out under Sections 4 and 6, but without deducting the bonus, then work out the quantum of taxes thereon at rates applicable during that year to the income, gains and profits of the employer and after deducting the amount of taxes so worked out arrive at the available surplus.	None
+Section 6 (c) being subject to Section 7 the computation has to be done without taking into account the items specified in Section 7 (a) and in the manner prescribed by the remaining clause of that section.	None
+This interpretation is commendable because (1) it is consistent with the words is liable to pay in S. 6 (c) (2) it is in harmony with the provisions of Sections 4 and 6 and Schedule II, and (3) it is consistent with the intention of Parliament apparent from the scheme of computation of available surplus in the Act.	None
+The Act recognises the principle laid down in the Full Bench Formula that both labour and capital are entitled to a share in the profits.	None
+That is why 40 per cent of the available surplus is left to the capital and interest is allowed to the employer on paid up and working capitals while working out the gross profits.	None
+Parliament besides was or at any rate is presumed to have been aware that depreciation allowed under the Income Tax Act would not be sufficient for rehabilitation purposes.	None
+It did away with rehabilitation as a prior charge partly because there were complaints that it was being illused but partly also because it knew that the rebate in Income Tax Act on bonus paid would go to the employer with which he could recoup the depreciation which would be larger than the one allowed under Section 32 of the Income Tax Act.	None
+In our view it was for that reason that it did not lay down that bonus is to be deducted before computing the amount on which direct taxes are to be calculated under Section 6 (c).	None
+If Parliament intended to make a departure from the rule laid down by courts and tribunals that the bonus amount should be calculated after provision for tax was made and not before, we would have expected an express provision to that effect either in the Act or in the Schedules.	Reasoning
+In our view the contention urged by the Company that the tax liability is to be worked out by first working out the gross profits and deducting therefrom the prior charges under Section 6 but not the bonus payable to the employees is right.	Reasoning
+28.	None
+In the result, the appellant Company succeeds on the questions of development rebate and the provision for gratuity amount.	Reasoning
+Its appeal on those questions is, therefore, allowed and to that extent the award is set aside.	Reasoning
+As regards the question of depreciation amount, the Tribunal will ascertain the amount afresh after giving the parties opportunity to lead such evidence as they desire and taking that amount and the amounts of development rebate and of the provision for gratuity in the light of this judgment the Tribunal will adjust its award and arrive at the quantum of bonus payable to the workmen.	Reasoning
+29.	None
+Appeal by workmen is dismissed.	Decision
+There will be no order as to costs.	Decision
+30.	None
+Order accordingly.	None

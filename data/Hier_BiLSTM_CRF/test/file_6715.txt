@@ -1,0 +1,209 @@
+ Per N. M. Jamdar, J. 1.
+The Appellant, Kaynet Finance Limited, is a memberbroker at the National Stock Exchange of India.
+The Respondent, Verona Capital Limited, was its constituent.
+Disputes arose between the parties over share transactions.
+The Respondent moved an arbitration application before the National Stock Exchange.
+The National Stock Exchange constituted an Arbitral Tribunal.
+The Tribunal awarded one claim out of four made by the Respondent and directed the Appellant to pay an amount of 17,52,47,517/ with interest.
+The Appellant challenged the Award before the learned Single Judge.
+The learned Single Judge rejected the Arbitration Petition, and the Appellant is in appeal.
+The award is challenged on two counts.
+First, the claim granted was beyond the period of limitation.
+Second, the Arbitration Application was not maintainable because the Directors of Respondent who were disqualified could not have filed the Application.
+We do not find any merit in these challenges.
+The factual backdrop and reasons for this conclusion are as follows.
+2.
+The Respondent appointed the Appellant as a stockbroker to effect transactions on the National Stock Exchange of India and Bombay Stock Exchange.
+The Respondent opened a trading account with the Appellant in January 2009.
+The Respondent commenced transactions through the Appellant around February 2009.
+The Respondent had acquired shares of Pipapvav Defence and Offshore Engineering reflected in the client muster on 31 March 2015 and those shares were lying in the Appellants Demat Account.
+It is the case of the Respondent that Reliance Infrastructure had declared intention of acquiring shares of Pipapvav Defence and Offshore Engineering and the Respondent desired to offer the shares in an Open offer.
+According to Respondent, the Appellant showed indifference and declined to transfer the shares in Demat Account.
+Concerned by the attitude of the Appellant, the Directors of Respondent made enquiries and discovered that many clients of the Appellant were having disputes with the Appellant over share transactions.
+Alarmed, the Respondent called for details of transactions carried out by the Appellant from the National Stock Exchange.
+The Respondent also acquired Trade Loss documents from the National Stock Exchange on 8 May 2017.
+According to the Respondent on verification of the accounts, the Respondent found that various false entries of debits were made.
+Besides this position, a credit balance of 17,52,47,517/ was reflected in the ledger account regarding transaction carried out on the National Stock Exchange.
+The Respondent issued a letter on 23 November 2017 demanding this amount and other losses, but the amount was not paid.
+The Respondent filed a complaint against the Appellant with the Economic Offences Wing on 12 March 2018.
+An F.I.R. was registered by the Economic Offences Wing on 22 June 2018.
+The Respondent also lodged a complaint with the Investor Services Cell of the National Stock Exchange on 26 July 2018.
+On 31 August 2018, the Respondent filed an Arbitration Application with the National Stock Exchange in FromI as per the National Stock Exchange Byelaws.
+3.
+The Respondent raised four claims.
+First was for the return of the credit balance in the ledger account of the Respondent in the Appellants book as on 31 March 2015 as 17,52,47,517/.
+The second claim was for the value of 29,58,095 shares of Pipapvav Defence and Offshore Engineering, market value of the shares being at 75.31 at the average rate as on 17 December 2015 was 22,27,74,135/.
+The third was for the amounts of losses incorrectly debited in the account of the Respondent with no transaction on the National Stock Exchange, being 47,81,53,245/.
+The fourth was for delayed payment charges debited by the Appellant in the Respondents account of 8,40,02,219/.
+The total of four claims was 96,01,77,116/. 4.
+The arbitration was conducted before the panel of arbitrators, consisting of Presiding Arbitrator and two Arbitrators, under the Byelaws, Rules Regulations of National Stock Exchange of India Ltd.
+Claim No. 2 for 22,27,74,135/ was rejected on merits by the Arbitral Tribunal.
+The Tribunal rejected claim No. 3 for 47,81,53,245/ since the transaction pertaining for the period from 9 October 2009 to 28 February 2013 and the claim was timebarred.
+The fourth claim of 8,40,02,219/ was also rejected because the claim was beyond the period of six years.
+5.
+As regards the Claim No.1 of 17,52,47,517/, (which was granted), the Appellant had raised two main defenses.
+First, this claim was barred by limitation and second, that the claim was not maintainable, having moved by the Company, i.e. Respondent whose name was struck off from the Register of Companies and whose directors stood disqualified.
+The Arbitral Tribunal found that the application was maintainable.
+On limitation, the Tribunal held that the Appellant did not dispute the amount of 17,52,47,517/ in their documents and the balance shown in the accounts of the Appellant for the year 31 March 2018 brought the claim within the extended period of limitation.
+The Arbitral Tribunal partly granted the claim of the Respondent and directed the Appellant to pay the amount of 17,52,47,517/ with simple interest at 12 till the payment and realization.
+6.
+The Appellant filed an Arbitration Petition No. 716 of 2019 under Section 34 of the Act of 1996.
+Before the learned Single Judge, the Appellant raised the issue of limitation and the maintainability of the claim.
+The learned Single Judge found no perversity in the award of the Arbitral Tribunal and that no ground was made out to set aside the award as enumerated in Section 34 of the Act of 1996.
+The learned Single Judge rejected the petition by order dated 24 June 2019.
+7.
+We have heard Mr. D. D. Madon, Learned senior advocate appearing for the Appellant, Mr. Shyam Mehta, Learned senior advocate appearing for the Respondent and Mr. Sachin Chandarana, learned counsel appearing for the National Stock Exchange of India Ltd. 8.
+The Appellant has reiterated its two main contentions.
+That is the Claim No. 1 is barred by limitation, and the arbitration application was not maintainable.
+We will first take up the aspect of limitation.
+9.
+The Arbitration application filed by the Respondent states that on 31 March 2015 the credit in the account of Appellants was 17,52,47,517/, and the arbitration application was filed on 31 August 2018.
+The Arbitral Tribunal gave the benefit of section 18 of the Limitation Act to the Respondent, relying upon the plaint in Civil Suit filed by the Appellant against the Respondent and its three directors in the City Civil Court, Mumbai on 18 July 2018.
+The suit was filed seeking recovery of a sum of approximately around 31 lakhs after adjustment of the accounts of the Respondent.
+Accounts maintained by the Appellant regarding the Respondent company were annexed to the pliant.
+The Arbitral Tribunal referred to these accounts and held that the Appellant had admitted its liability to the Respondent till 31 March 2018 and statement of claim filed on 30 August 2018 was thus within limitation.
+10. Appellant on the issue of limitation contends as follows The statement of claim filed by the Respondent mentioned the amount claimed was payable as of 31 March 2015 however, the claim was presented on 30 August 2018 clearly beyond the period of limitation of 3 years.
+The statement of claim gives no particulars as to how the period of limitation was computed or which Article of the Limitation Act was invoked and was applicable.
+Assuming, Article 1
+Part
+I of Limitation Act applies, the last trade between the parties was on 18 February 2015 and therefore the period of limitation would expire on 18 February 2018.
+If it is the case of the Respondent that period of limitation was extended because of Section 18 of the Limitation Act, view of Order VII Rule 6 of the Code of Civil Procedure (CPC) it had has to be specifically pleaded.
+There is no such pleading by the Respondent.
+The plaint of the Civil Suit filed by the Appellant, which was brought on record by the Appellant, could not have been looked into.
+Thus, in short, it was submitted that the claim granted was beyond the period of limitation, extension of limitation was not specifically pleaded, and the Arbitral Tribunal could not have referred to the plaint filed by the Appellant, and the learned Single Judge did not consider the case in the context of Order VII Rule 6 of CPC. 11.
+The first limb of the argument on limitation is that the Arbitral Tribunal could not have looked into the documents annexed to the plaint by the Appellant because of Order VII Rule 6 of the CPC in absence of pleading in the arbitration application.
+It is pertinent to note how these documents came on record.
+The Respondent had filed simpliciter claim to recover the amounts from the Appellant.
+The Appellant had filed a statement of defense, in which the Appellant had annexed a copy of plaint in Suit No. 2466 of 2018 filed on 18 July 2018 by the Appellant in the City Civil Court.
+In the suit, the Appellant had sought the amount of 31,52,370/ from the Respondent along with 18 interest.
+The reason the Appellant had annexed the plaint was because of its defense.
+The defense being that no sum is due to the Respondent and in fact Respondent owes certain sum to the appellant which is claimed in the Suit.
+Also, since the Appellant had filed a suit against the Respondent and its directors, the matter is subjudice in the competent civil court.
+These documents, thus, formed part of the proceeding before the Arbitral Tribunal.
+12.
+It is trite, that the Code of Civil procedure is not strictly applicable to the arbitral proceedings, but its fundamental principles can be invoked.
+Relevant provisions of Order VII Rule 6 of the Civil Procedure Code reads as under 6.
+Grounds of exemption from limitation law.
+Where the suit is instituted after the expiration of the period prescribed by the law of limitation, the plaint shall show the ground upon which exemption from such law is claimed Provided that the Court may permit the plaintiff to claim exemption from the law of limitation on any ground not set out in the plaint, if such ground is not inconsistent with the grounds set out in the plaint.
+As per Rule 6, if the suit is instituted after the period prescribed by the law of limitation, then the plaint must show the ground upon which exemption from such law is claimed.
+A Proviso has been inserted by the CPC (Amendment) Act 104 of 1976.
+This Proviso confers power on the court to permit the plaintiff to claim exemption from the law of limitation if the court is satisfied that such ground is not inconsistent with the grounds set out in the plaint.
+The proviso to the Rule 6 does not contain any express embargo on the court not to look into the admitted documents brought on record by the parties to determine the exemption.
+The proviso is enacted to do justice between the parties.
+It being the power of the court conferred for effective adjudication, it is not prudent whittle it down, more particularly in absence any specific embargo.
+Further in the preset case, we are concerned with arbitral proceedings.
+The arbitrators were called upon to decide whether the claim filed by the Respondent was within limitation.
+The Respondent, who had raised the ground of bar of limitation, had in its admitted documents provided the ingredient of Section 18 of the Limitation Act.
+In this context, if the arbitrators have chosen to rely on the pleading of the Respondent, and we find no perversity in the same.
+13.
+The next limb of the argument is whether the document on record showed that the period of limitation stood extended in view of Section 18 of the Limitation Act, 1963.
+Section 18 states that where, before the expiry of prescribed period for a suit or application regarding any property, an acknowledgement of liability regarding such property has been made in writing signed by the parties against whom the right is claimed, then fresh period of limitation shall be computed from the time when the acknowledgement is so signed.
+14.
+We have perused the plaint filed by the Appellant, which is part of the record.
+Annexures to the plaint are Client Financial Accounts.
+Annexure Exh. B4 onwards to the plaint is the Client Financial Accounts of Verona Capital Limited Respondent herein with Code No. 6737.
+These accounts are from 1 April 2008, and they continue onwards to 31 March 2008.
+The annexures run into almost 90 pages.
+In paragraphs 10 and 11 of the plaint, the Appellant has pleaded that the ledger accounts annexed at B1 to B4 of defendant nos.1 to 4 till the inception would show there has been extensive trade carried out in the consolidated ledger account of the defendant nos.1 to 4 over the years and none has been disputed.
+The claim of the Appellant against the Respondent is based on the consolidated ledger accounts of defendant nos.1 to 4, who included Priti Vora, Mansi Vora, Mridula Vora and Respondent Verona Capital Ltd.
+In the ledger account regarding the defendant no.4, for the April 2015, the amount of 17,52,47,517/ was reflected.
+This position was continued throughout the accounts till 31 March 2018.
+Therefore, it cannot be any dispute that as on 31 March 2018, the Appellant had admitted liability of 17,52,47,517/ in favour of the Respondent.
+Since there was a clear acknowledgement throughout in the admitted ledger accounts maintained by the Appellant, even as of 31 March 2018, the application filed on 31 August 2018 was within limitation.
+In conclusion, the ground of limitation raised by the Appellant is rejected.
+15.
+The second ground urged was of maintainability of the arbitration application filed in the Stock Exchange.
+Facts pertaining to this ground of challenge are these.
+A notification striking off the name of the Respondent from the Register of Companies under Section 248 (5) of the Companies Act of 2013 was issued on 18 August 2017.
+On 7 September 2017, a notification was issued declaring Directors of the Respondent as disqualified under Section 164 (2) (a) of the Act of 2013 for failure of the Respondent company to file the financial statements and annual returns for three years.
+The Respondent moved National Company Law Tribunal (NCLT).
+The arbitration claim was filed by the Respondent on 31 August 2018 through Director Ms. Mansi Vora.
+On 30 October 2018, the National Company Law Tribunal (NCLT) restored the Respondentcompanys name to the Register of the Companies.
+The application filed by the Appellant for intervention before the NCLT was dismissed.
+Position is that once the name of the company is restored to the Register of the Companies, it is deemed to have never been struck off.
+Therefore, the question would whether the Directors of the Respondent who were disqualified under Section 164 (2) (a) of the Act of 2013 could present the Reference before the Arbitral Tribunal on 31 August 2018.
+16.
+According to the Appellant, at the time of the Reference, the name of the Respondent was struck off, and the Company was dissolved.
+The Arbitration Application was filed on behalf of the Respondent by Ms. Mansi Vora, who was disqualified as Director of the Company, the other Directors were also disqualified, and thus the claim made in the Companys name was not maintainable.
+It was contended that the Arbitral Tribunal failed to consider that even though the Company was restored to Register of Companies, the Directors continued to be disqualified and the learned Single Judge was in error on relying on Section 250 and 252 of the Act of 2013.
+The Respondent assert that the reference was maintainable.
+17.
+The arguments on the legal position on this aspect center around Section 164 and 167 of the Act of 2013.
+For ready reference, relevant parts thereof are reproduced as under 164.
+Disqualifications for appointment of director.
+(1) A person shall not be eligible for appointment as a director of a company, if (a) he is of unsound mind and stands so declared by a competent court (b) he is an undischarged insolvent (c) he has applied to be adjudicated as an insolvent and his application is pending (d) he has been convicted by a court of any offence, whether involving moral turpitude or otherwise, and sentenced in respect thereof to imprisonment for not less than six months and a period of five years has not elapsed from the date of expiry of the sentence Provided that if a person has been convicted of any offence and sentenced in respect thereof to imprisonment for a period of seven years or more, he shall not be eligible to be appointed as a director in any company (e) an order disqualifying him for appointment as a director has been passed by a court or Tribunal and the order is in force (f) he has not paid any calls in respect of any shares of the company held by him, whether alone or jointly with others, and six months have elapsed from the last day fixed for the payment of the call (g) he has been convicted of the offence dealing with related party transactions under section 188 at any time during the last preceding five years or (h) he has not complied with subsection (3) of section 152.
+(2) No person who is or has been a director of a company which (a) has not filed financial statements or annual returns for any continuous period of three financial years or (b) has failed to repay the deposits accepted by it or pay interest thereon or to redeem any debentures on the due date or pay interest due thereon or pay any dividend declared and such failure to pay or redeem continues for one year or more shall be eligible to be reappointed as a director of that company or appointed in other company for a period of five years from the date on which the said company fails to do so.
+Provided that where a person is appointed as a director of a company which is in default of clause (a) or clause (b), he shall not incur the disqualification for a period of six months from the date of his appointment.
+(3) 167.
+Vacation of office of director.
+(1) The office of a director shall become vacant in case (a) he incurs any of the disqualifications specified in section 164 Provided that where he incurs disqualification under subsection (2) of section 164, the office of the director shall become vacant in all the companies, other than the company which is in default under that subsection.
+(b) to (h)(2) (3)(4) Appellant contends that as per Section 167(1), the office of a director shall become vacant if he incurs the disqualifications specified in section 164 and, therefore, such a director ceases to function as a director.
+The Respondent contends there is no ipso facto vacation of the office of a director disqualified under Section 164(2)(a) nor he stands denuded of all powers to act on behalf of the company in default and the consequence is only of restrictions on reappointment of such director.
+Respondent contends that directors disqualified under Section 164(2)(a), can represent the company, and, for instance, can file arbitration references.
+18.
+In the case at hand, the disqualification of the Directors is under Section 164(2)(a) of the Act 2013.
+So the discussion is in the context of this provision.
+A casual glance at Section 167 does create an impression that the office of the director, who is disqualified under all categories of Section 164 will fall vacant.
+There is a reference in Section 167(1)(a) to Section 164.
+The question is whether the reference is to Section 164(1) or Section 164(2) or both.
+19.
+The purpose of interpretation of statute is to ascertain the intention of the Parliament.
+At first instance, the court would go by plain words of the statute.
+However if juxtaposition of two provisions in a statute, literally read, would lead to absurd and unintended results then the provisions will have to be harmoniously read.
+20.
+For the purpose of disqualification, Section 164 of the Act of 2013 can be divided in two parts.
+They are Subsection (1) and Subsection (2).
+Subsection (1) relates to disqualification of a person for appointment as a director.
+The disqualifications listed are, to put in general terms unsound mind insolvency conviction for offences involving moral turpitude with imprisonment not less than six months order of disqualification passed by a court conviction for an offence of related party transaction.
+If a person has suffered these consequences, then he cannot be appointed as a director.
+The second category of disqualification is in Subsection (2).
+This Subsection disqualifies a person who is or has been director of a company which has not filed financial statements or annual returns or has failed to repay the deposits.
+Thus first part deals with disqualifications for appointment and second part deals with a director of a company in default.
+This analysis is to point out that there are two different categories envisaged under Section 164.
+21.
+The consequence of being a director of a company which has not filed financial statements or annual returns as envisaged under Section 164(2)(a) is provided in Section 164(2) itself.
+The consequence is that such a director will not be eligible for reappointment as a director of a company in default or any other company for a period of five years from the date defaulting company has failed to fulfill the requirement.
+If it is interpreted that the directors of a company which has not filed its financial statements for the stipulated period are not only disqualified for reappointment but their offices will stand vacant, it will create a vacuum.
+The offices of directors of such a company would forthwith fall vacant and the cause of such company cannot be proceeded with by the directors.
+Directors would not be able to take steps even if company is restored to Register of Companies and defend it in the court of law or in arbitration.
+It could not have been the intention of the law to create an absurdity.
+Therefore, Section 167(1)(a) will have to be read down to mean that the reference to Section 164 in Section 167(1)(a) is not to the contingencies provided in the second part i.e. Subsection (2) of Section 164.
+A question may arise that how Section 167 can then be reconciled with Section 164(1) because this section deals with disqualification for appointment.
+It may be contended that if a person cannot be appointed as a director, then there cannot be a vacation of his office.
+However, Section 164 (1) does not deal only with disqualification for initial appointment, it also contemplates a sitting director.
+Because it cannot be the position that a disqualification applicable for appointment as a director, such as unsound mind and conviction, cannot disqualify a director who has incurred such a disqualification after he has become a director.
+Therefore, harmoniously read, the interplay between Section 164 and 167 is that the office of a director of a company will not automatically fall vacant if a director of a company incurs any of the disqualifications enumerated in Section 164(2) of the Act of 2013.
+22.
+Next debate on this aspect was on the implication of the proviso is inserted in Section 167 of the Act 2013 by Act 1 of 2018 with effect from 7 May 2018.
+It states that that where a person incurs disqualification under subsection (2) of section 164, the office of the director shall become vacant in all the companies, other than the company in default.
+The argument of the Appellant is that this position was brought out on 7 May 2018 and it would not assist the directors of the Respondent before the date.
+This argument is incorrect.
+The legislative intent prior to the incorporation of the proviso, was not to declare that the office of the director covered in contingencies under Section 164(2)(a) to become vacant forthwith and the only embargo was on the eligibility for reappointment.
+The proviso introduces a mandate from 7 May 2018, that a director of a company which has failed to file its financial statements or annual returns for a continuous period of three financial years, cannot continue as a director of the other companies.
+The contention of the Appellant that the proviso relaxed the position in favour those directors who were disqualified under Section 164(2)(a) and now vacation of office is restricted only to companies other than in default, is incorrect.
+The position is other way round.
+Prior to proviso there was no automatic vacation of office of director falling under Section 164(2)(a).
+By the proviso, a sanction is now imposed that such directors will not only be ineligible for reappointment, but if they are holding office as director in other companies, that office will fall vacant.
+Again the legislative intent reiterated, that as far the company in default, the office of its directors will not automatically fall vacant.
+23.
+We, therefore, reject the contention of the Appellant that the Arbitration Application filed on behalf of the Respondent by its Directors who were disqualified was not maintainable.
+The office of these Directors had not fallen vacant on their disqualification, and they could represent the Respondent.
+24.
+We also have to be mindful that we are deciding this question in the proceedings taken out to set aside an arbitral award.
+We note the conduct of the Appellant, which has been considered by the single judge, that the Appellant has filed a civil suit against the Respondent seeking relief is sought against the Respondentcompany and the directors in its private capacity.
+The Respondent (defendant no. 4 in the Suit) as on July 2018 is described as a company registered under the Companies Act.
+It is mentioned in the plaint that the name of Respondent is struck off from the Register of Companies and, however, because of Section 250 of the Act of 2013, the suit is maintainable.
+After having sued the Respondent in the Civil Court as a company, a juristic entity, the Appellant contends that Respondent cannot be represented by any of its directors in the Arbitration.
+As rightly pointed out by the Respondent, if the argument of the Appellant is to be accepted, it will lead to an absurd position where the Respondent cannot even defend the suit, and the Arbitration Petition and present Appeal.
+25.
+Further, even if the Arbitral Tribunal committed a legal error in entertaining the application, that error cannot straightway lead to setting aside the award.
+The law declared by the Supreme Court is that the phrase Patent illegality appearing on the face of the award, which refers to such illegality as goes to the root of the matter but which does not amount to mere erroneous application of the law.
+In short, what is not subsumed within the fundamental policy of Indian law, namely, the contravention of a statute not linked to public policy or the public interest, cannot be brought in by the backdoor when it comes to setting aside an award on the ground of patent
+illegality.1 We do not find that in the present case, assuming there is a legal error, it falls within the test laid by the Supreme Court.
+26.
+Both the grounds urged before us are devoid of merit.
+No other grounds were urged.
+27.
+The appeal is dismissed.
+28.
+As a consequence, Notice of Motion (L) No.662 of 2019 stands dismissed.

@@ -1,0 +1,106 @@
+ KULDIP SINGH J. Leave granted.	None
+Anil Kumar Sawhney filed three complaints before the Chief Judicial Magistrate, Karnal, alleging that Gulshan Rai, the accused therein, had committed an offence under section 138 of the Negotiable Instruments Act, 1881, as amended by the Banking, Public Financial Institutions and Negotiable Instruments Laws (Amendment) Act, 1988 (for short the Act ).	Issue
+The learned Magistrate issued summons in each of the three complaints to Gulshan Rai for his appearance in the said proceedings.	Facts
+Gulshan Rai challenged the orders of the learned Chief Judicial Magistrate before the Punjab and Haryana High Court by way of criminal miscellaneous petitions under section 482, Criminal Procedure Code.	Facts
+The learned single judge of the High Court quashed the proceedings on the short ground that the cheques in dispute being postdated cheques, the provisions of section 138 of the Act were not attracted and, as such, no offence was made out on the admitted facts of the criminal complaints.	Facts
+These appeals by way of special leave petitions are by Anil Kumar Sawhney against the order of the High Court.	Facts
+The appellant and the respondent were the shareholders of M s. Sai Beverages Private Limited, a private limited company having its registered office at Karnal.	Facts
+The company had two groups of shareholders, one led by the appellant and the other by the respondent.	Facts
+Disputes between the two groups of shareholders led to the filing of a civil suit at Karnal.	Facts
+Ultimately, the parties arrived at a settlement which was recorded in a deed of compromise dated March 5, 1990.	Facts
+The appellant agreed to transfer all the shares standing in the names of his groupassociates to the respondent, Gulshan Rai, for a total consideration of Rs. 10 lakhs.	Facts
+The payment was to be made by way of eight postdated cheques of different amounts.	Facts
+The suit was disposed of in terms of the settlement entered into between the parties, Some of the cheques were encashed on presentation to the bankers.	Facts
+Two cheques dated February 15, 1991, for Rs. 1 lakh each, one cheque dated April 15, 1991, for Rs. 1, 50, 000 and another cheque dated May 15, 1991, for Rs. 1, 50, 000 were returned by the banks with the endorsement not arranged forno funds .	Facts
+The appellant thereafter issued notices as contemplated under section 138 of the Act and having failed to receive the payment, filed complaints before the Chief Judicial Magistrate at Karnal.	Facts
+The Banking, Public Financial Institutions and Negotiable Instruments Laws (Amendment) Act, 1988 ( the Amendment Act ), came into force with effect from April 1, 1989.	Facts
+The Amendment Act inserted a new Chapter XVII in the Act (enacting sections 138, 139, 140 and 142).	Facts
+The Statement of Objects and Reasons given in the Amendment Act, for inserting new Chapter XVII in the Act are as under (xi) to enhance the acceptability of cheques in settlement of liabilities by making the drawer liable for penalties in case of bouncing of cheques due to insufficiency of funds in the accounts or for the reason that it exceeds the arrangements made by the drawer, with adequate safeguards to prevent harassment of honest drawers Sections 5, 6, 19, 138, 139 and 140 of the Act, to the relevant extent, are reproduced hereunder 5.	Facts
+A bill of exchange is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument. .	Facts
+.	Facts
+6. Cheque.	None
+A cheque is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.	Facts
+19.	Facts
+Instruments payable on demand.	None
+A promissory note or bill of exchange, in which no time for payment is specified, and a cheque, are payable on demand.	Facts
+138.	Facts
+Dishonour of cheque for insufficiency, etc., of funds in the account.	Facts
+Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person from out of that account for the discharge, in whole or in part, of any debt or other liability, is returned by the bank unpaid, either because of the amount of money standing to the credit of that account is insufficient to honour the cheque or that it exceeds the amount arranged to be paid from that account by an agreement made with that bank, such person shall be deemed to have committed an offence and shall, without prejudice to any other provision of this Act, be punished with imprisonment for a term which may extend to one year, or with fine which may extend to twice the amount of the cheque, or with both Provided that nothing contained in this section shall apply unless (a) the cheque has been presented to the bank within a period of six months from the date on which it is drawn or within the period of its validity, whichever is earlier (b) the payee or the holder in due course of the cheque, as the case may be, makes a demand for the payment of the said amount of money by giving a notice, in writing, to the drawer of the cheque, within fifteen days of the receipt of information by him from the bank regarding the return of the cheque as unpaid and(c) the drawer of such cheque fails to make the payment of the said amount of money to the payee or, as the case may be, to the holder in due course of the cheque, within fifteen days of the receipt of the said notice.	Facts
+Explanation.	None
+For the purposes of this section, debt or other liability means a legally enforceable debt or other liability.	None
+139.	Facts
+Presumption in favour of holder.	None
+It shall be presumed, unless the contrary is proved, that the holder of a cheque received the cheque of the nature referred to in section 138 for the discharge, in whole or in part, of any debt or other liability.	Facts
+140. Defence which may not be allowed in any prosecution under section 138.It shall not be a defence in a prosecution for an offence under section 138 that the drawer had no reason to believe when he issued the cheque that the cheque may be dishonoured on presentment for the reasons stated in that section.	Facts
+The facts are more or less undisputed.	Facts
+Out of several cheques issued postdated in March, 1990, under the deed of compromise between the parties, two of the cheques were dated February 15, 1991, one dated April 15, 1991, and the fourth dated May 15, 1991.	Reasoning
+The dispute in the present appeals is as to what is the date on which a cheque is stated to have been drawn.	Reasoning
+In other words, what is the date from which the period of six months as contemplatedunder section 138(a) of the Act is to be reckoned.	None
+The main contention raised by the respondent before the High Court was that the cheques in dispute were drawn in March, 1990, when those cheques were written and made out.	Arguments of Respondent
+The dates written on those cheques, which were postdated cheques, are not the dates when the cheques were drawn.	Facts
+According to the respondent, since the cheques were drawn in March, 1990, and those were presented before the bankers in the year 1991, the cheques had been presented to the bank beyond the period of six months from the date on which those were drawn and as such no offence was made out under section 138(a) of the Act.	Facts
+Following the judgment of a learned single judge of the Madras High Court in Babu Xavier v. Lalchand Munoth, the High Court quashed the criminal complaints against the respondent.	Facts
+The Madras High Court in Babus case interpreted section 138 of the Act in the following terms When proviso (a) to section 138 limits the applicability of the provision to cheques presented within six months of the date of drawal of the cheques, it has to be taken that it was the intention of Parliament to exclude cheques postdated or antedated beyond a period of six months from the ambit of the penal provision.	Facts
+The use of the words in proviso (a) . .	Facts
+.	Facts
+within a period of six months from the date on which it is drawn rather than within a period of six months from the date the cheque bears and the use of words or within the period of its validity, whichever is earlier rather than the words or within the period of its validity, whichever is later would make this intention explicit.	Facts
+Postdated cheques, though legal, are real anomalies in the commercial world.	None
+They are payable on demand and negotiable even between the dates of issue and the dates shown on them.	Facts
+The holder of such a cheque, duly negotiated to him, even before the date the cheque bears, is indeed a holder in due course under the Act.	Facts
+Yet, when presented to the bank before the ostensible date, the banker does not honour the cheque but returns them.	Facts
+The unpaid banker who honours the cheque, without noticing the date the cheque bears, does so, at his risk, since he is bound to suffer loss, if the drawer of the cheque countermands the cheque before the date of the cheque, by a stop payment order or he dies or becomes insolvent before the above date.	Facts
+The position of a holder in due course of such a cheque is just the same.	Facts
+Yet, the law is that a cheque otherwise valid does not become invalid merely by reason of its being either postdated or antedated.	Facts
+When, therefore, a person receives a cheque, postdated or antedated beyond the period of six months, he should be deemed to receive it with the knowledge that, in the event of dishonour for want of funds, section 138 of the Act would not help him.	Facts
+This obviously is the intention of Parliament.	Facts
+It follows from the above discussion that a cheque is drawn on the date when the drawer signs the cheque, complete in its form.	Facts
+On such an interpretation, cheques postdated or antedated beyond the period of six months from the date the cheques bear would be out of the purview of section 138 of the Act.	Facts
+On behalf of the appellant a Division Bench judgment of the Kerala High Court in Manoj K. Seth v. R. J. Fernandez which took a contrary view, was cited.	Arguments of Petitioner
+The Kerala High Court did not agree with the judgment of the Madras High Court in Babus case and interpreted section 138 of the Act in the following terms Interpretation of section 138 of the Act to discover the liability arising from dishonouring of a postdated cheque has to be with due regard to the said character of a postdated cheque and the scope of clause (a) of the proviso to section 138 cannot be considered in isolation.	None
+The statute has to be construed with reference to the context and other clauses of Act to make it consistent.	None
+The very object of the provision is to enhance the acceptability of cheques by making the drawer liable for penalty in case the cheque bounces for the reasons mentioned in the said section.	None
+If a postdated cheque is considered to be drawn on the date of its delivery, the drawer of such a cheque can defeat section 138 of the Act by showing a date beyond six months of its delivery.	None
+In the circumstances an interpretation which will bring about such a result cannot be adopted.	None
+The object of the section is to make drawer of the cheque subject to penalty when the cheque bounces on the ground mentioned in the section.	None
+The rigour of the section itself reveals the intention of the Legislature.	None
+Enough safeguards are provided in the section itself to protect honest drawers.	None
+An offence under section 138 of the Act would be committed only when a cheque drawn for payment of any debt or liability is returned by the bank unpaid and the drawer fails to make payment of the said amount within 15 days of the notice of dishonour.	Reasoning
+One of the elements to be satisfied is that the cheque should have been returned unpaid.	None
+It goes without saying that such return of the cheque by the drawee could only be on presentation that is when he is capable of presenting the same for encashment.	None
+In the case of a postdated cheque as noted earlier, the same can be presented only on or after the date of the cheque.	None
+The question as to when a postdated cheque can be considered to have been drawn for the purpose of section 138 of the Act cannot be dealt with independently of the right to present the same.	None
+In relation to the drawer and drawee, a postdated cheque becomes operative only from the date of the cheque when alone the same is intended to be honoured.	None
+A postdated cheque for the purpose of clause (a) of the proviso to section 138 of the Act has to be considered to have been drawn on the date it bears and in this case, since the cheque was presented within six months of the date of the cheque, it cannot be said that the condition in the said proviso is not satisfied.	None
+In view of the above, with respect, we are unable to agree with the view taken in Babu Xaviers case 1990 TLNJ (Crl) 121, since reported in referred to earlier.	None
+The Punjab and Haryana High Court in the impugned judgment followed the Madras High Court view and did not agree with the Division Bench of the Kerala High Court.	Reasoning
+We do not agree with the reasoning and the conclusions reached by the Madras High Court which have been followed by the learned single judge of the Punjab and Haryana High Court in the impugned judgment.	Reasoning
+Both the High Courts fell into patent error in holding that the provisions of section 138 of the Act are not applicable to postdated cheques.	Reasoning
+The interpretation placed by the High Courts on section 138 of the Act is not only contrary to the plain language of the various provisions of the Act but is also contrary to the Objects and Reasons of the Amendment Act.	Reasoning
+The said interpretation, if accepted, would defeat the very purpose of inserting Chapter XVII in the Act.	Reasoning
+Sections 5 and 6 of the Act define bill of exchange and cheque .	Reasoning
+A bill of exchange is a negotiable instrument in writing containing an instruction to a third party to pay a stated sum of money at a designated future date or on demand.	Reasoning
+A cheque , on the other hand, is a bill of exchange drawn on a bank by the holder of an account payable on demand.	Reasoning
+Thus, a cheque under section 6 of the Act is also a bill of exchange, but it is drawn on a banker and is payable on demand.	Reasoning
+It is, thus, obvious that a bill of exchange even though drawn on a banker, if it is not payable on demand, it is not a cheque.	Reasoning
+A postdated cheque is only a bill of exchange when it is written or drawn, it becomes a cheque when it is payable on demand.	None
+The postdated cheque is not payable till the date which is shown on the face of the said document.	Reasoning
+It will only become cheque on the date shown on it and prior to that it remains a bill of exchange under section 5 of the Act.	Reasoning
+As a bill of exchange a postdated cheque remains negotiable but it will not become a cheque till the date when it becomes payable on demand .It is clear from section 19 that a cheque is an instrument which is payable on demand.	Reasoning
+A postdated cheque, which is not payable on demand till a particular date, is not a cheque in the eyes of law till the date it on which becomes payable on demand.	None
+An offence to be made out under the substantive provisions of section 138 of the Act it is mandatory that the cheque is presented to the bank within a period of six months from the date on which it is drawn or within the period of its validity, whichever is earlier.	Reasoning
+It is the cheque drawn which has to be presented to the bank within the periods specified therein.	Reasoning
+When a postdated cheque is written or drawn it is only a bill of exchange and as such the provisions of section 138(a) are not applicable to the said instrument.	None
+The postdated cheque becomes a cheque under the Act on the date which is written on the said cheque and the sixmonth period has to be reckoned for the purposes of section 138(a) from the said date.	None
+One of the main ingredients of the offence under section 138 of the Act is, the return of the cheque by the bank unpaid.	Reasoning
+Till the time the cheque is returned by the bank unpaid, no offence under section 138 is made out.	Reasoning
+A postdated cheque cannot be presented before the bank and as such the question of its return would not arise.	None
+It is only when the postdated cheque becomes a cheque , with effect from the date shown on the face of the said cheque, the provisions of section 138 come into play.	Reasoning
+The net result is that a postdated cheque remains a bill of exchange till the date written on it.	None
+With effect from the date shown on the face of the said cheque it becomes a cheque under the Act and the provisions of section 138(a) would squarely be attracted.	Reasoning
+In the present case, the postdated cheques were drawn in March, 1990, but they became cheques in the year 1991 on the dates shown therein.	Reasoning
+The period of six months, therefore, has to be reckoned from the dates mentioned on the face of the cheques.	Reasoning
+Even otherwise we agree with the reasoning adopted by the Division Bench of the Kerala High Court.	Reasoning
+Section 138 has to be construed with reference to the context.	Reasoning
+If the object of bringing section 138 of the Act on the statute has to be fulfilled then the only interpretation which can be given to clause (a) of the proviso to section 138 of the Act is that a postdated cheque shall be deemed to have been drawn on the date it bears.	None
+We allow the appeals and set aside the impugned judgment of the High Court dated January 21, 1992.	Decision
+The learned Chief Judicial Magistrate, Karnal, shall now proceed with the complaints pending before him in accordance with law.	Decision

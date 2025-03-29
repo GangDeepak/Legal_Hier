@@ -1,0 +1,92 @@
+ B. Sinha, J. Leave granted.	None
+Application of Section 14 of the Limitation Act, 1963 in a proceeding under Section 34 of the Arbitration and Conciliation Act, 1996 (for short, the Act) is in question in this appeal which arises out of a judgment and order dated 31.1.2005 passed by the High Court of Karnataka at Bangalore in Miscellaneous First Appeal No.717 of 2004 whereby and whereunder the objection filed by the appellant herein under Section 34 of the Act was held to be barred by limitation.	Issue
+Bereft of all unnecessary details, the fact of the matter is as under The parties hereto entered into a contract of construction of an indoor stadium on or about 21.5.1993.	Facts
+The said contract contained a clause pertaining to resolution of dispute between the parties by the Superintending Engineer, PWD, Gulbarga contained in clause 30 of the contract, which reads as under The decision of the Superintending Engineer of the Gulbarga Circle for the time being shall be final, conclusive, and binding on all parties to the contract upon all questions relating to the meaning of the specifications, designs, drawings and instructions herein before mentioned and as to the quality of workmanship or material used on the work, or as to any other question, claim, right, matter, or thing whatsoever, in any way arising out of, or relating to the contract, designs, drawings, specifications, estimates, instructions, orders or those conditions or otherwise concerning the works or the execution, or, failure to execute the same, whether arising during the progress of the work, or after the completion or abandonment thereof in case of dispute arising between the contractor and Gulbarga University.	Facts
+The parties filed their claims and counter claims before the said authority.	None
+A purported award was passed in terms thereof on or about 30.7.1999.	Facts
+However, a copy thereof was not supplied to the respondent.	Facts
+Respondent filed a writ petition before the High Court of Karnataka for issuance of a writ of or in the nature of mandamus directing the said authority to supply it a copy of the said award.	Facts
+The writ petition was filed on 17.2.2000.	Facts
+It was allowed by an order dated 13.6.2000 whereby and whereunder the Superintending Engineer was directed to furnish a copy of his decision to the respondent.	Facts
+Pursuant thereto, the same was furnished on 19.8.2000.	None
+Treating the said award to be one made under the Act as also on the premise that no objection thereto was filed by the appellants in the court of Principal Civil Judge within the period prescribed for questioning the validity thereof and, thus, became an executable decree, an execution application was filed on or about 18.9.2000.	Facts
+An objection thereto was filed by the appellant herein purported to be under Section 47 of the Code of Civil Procedure.	Facts
+The said objection was dismissed.	Facts
+A Revision Application was filed there against and by a judgment and order dated 30.11.2001, it was held by the High Court that the said clause does not constitute an arbitration agreement.	None
+A special leave petition was filed there against by the respondent and in a decision of Three Judge Bench of this Court, since reported in Mallikarjun v. Gulbarga University (2004) 1 SCC 372 , the decision of the High Court was reversed holding that clause 30 constituted an arbitration agreement.	Facts
+This Court, in support of the said decision, noticed an earlier decision of this Court in Bharat Bhushan Bansal v. U.P. Small Industries Corporation Limited (1999) 2 SCC 166 , stating A bare comparison of clause 30 of the contract agreement involved in the present matter and clauses 23 and 24 involved in Bharat Bhushan Bansal case would show that they are not identical.	None
+Whereas clause 30 of the agreement in question provides for resolution of the dispute arising out of the contract by persons named therein in terms of clause 24, there was no question of decision by a named person in the dispute raised by the parties to the agreement.	None
+The matters which are specified under clauses 23 and 24 in Bharat Bhushan Bansal case were necessarily not required to arise out of the contract, but merely claims arising during performance of the contract.	None
+Clause 30 of the agreement in the present case did provide for resolution of the dispute arising out of the contract by the Superintending Engineer, Gulbarga Circle, Gulbarga.	None
+For that reason, the case relied upon by the learned counsel for the respondent is distinguishable.	None
+Once clause 30 is constituted to be a valid arbitration agreement, it would necessarily follow that the decision of the arbitrator named therein would be rendered only upon allowing the parties to adduce evidence in support of their respective claims and counterclaims as also upon hearing the parties to the dispute.	Reasoning
+For the purpose of constituting the valid arbitration agreement, it is not necessary that the conditions as regards adduction of evidence by the parties or giving an opportunity of hearing to them must specifically be mentioned therein.	Reasoning
+Such conditions, it is trite, are implicit in the decisionmaking process in the arbitration proceedings.	Reasoning
+Compliance with the principles of natural justice inheres in an arbitration process.	Reasoning
+They, irrespective of the fact as to whether recorded specifically in the arbitration agreement or not are required to be followed.	Reasoning
+Once the principles of natural justice are not complied with, the award made by the arbitrator would be rendered invalid.	Reasoning
+We, therefore, are of the opinion that the arbitration clause does not necessitate spelling out of a duty on the part of the arbitrator to hear both parties before deciding the question before him.	Reasoning
+The expression decision subsumes adjudication of the dispute.	Reasoning
+Here in the instant case, it will bear repetition to state, that the disputes between the parties arose out of a contract and in relation to matters specified therein and, thus, were required to be decided and such decisions are not only final and binding on the parties, but they are conclusive which clearly spells out the finality of such decisions as also their binding nature.	Reasoning
+A clause which is inserted in a contract agreement for the purpose of prevention of dispute will not be an arbitration agreement.	Reasoning
+Such a provision has been made in the agreement itself by conferring power upon the EngineerinCharge to take a decision thereupon in relation to the matters envisaged under clauses 31 and 32 of the said agreement.	Reasoning
+Clauses 31 and 32 of the said agreement provide for a decision of the EngineerinCharge in relation to the matters specified therein.	Reasoning
+The jurisdiction of the EngineerinCharge in relation to such matters are limited and they cannot be equated with an arbitration agreement.	Reasoning
+Despite such clauses meant for prevention of dispute arising out of a contract, significantly, clause 30 has been inserted in the contract agreement by the parties.	Reasoning
+The very fact that clause 30 has been inserted by the parties despite the clauses for prevention of dispute is itself a pointer to the fact that the parties to the contract were ad idem that the dispute and differences arising out of or under the contract should be determined by a domestic tribunal chosen by them.	Reasoning
+Appellant thereafter filed an application in terms of Section 34 of the Act before the Principal Civil Court on 8.12.2003.	Arguments of Respondent
+The same was held to be barred by limitation.	Arguments of Respondent
+An appeal preferred there against by the appellant before the High Court has been dismissed by reason of the impugned judgment, stating The learned counsel for the respondent has drawn our attention to the decision reported in AIR 2001 SC 4010 in the case of UNION OF INDIA v. M S. POPULKAR CONSTRUCTIONS COMPANY.	Arguments of Respondent
+In the said decision, the Apex Court has clearly laid down that the provisions of Section 5 of Limitation Act are not applicable to an application filed challenging the award under Section 34 and as such there was no scope for assessing sufficiency of the cause for the delay beyond and period prescribed in the proviso to Section 34.	Arguments of Respondent
+In the light of this judgment and in the facts and circumstances of the case as adverted to above, we are of the clear view that the petition filed before the Court below under Section 34 was clearly barred by time and the findings arrived at and conclusions reached by the Court below while dismissing the petition on the ground, does not call for any interference as it does not suffer from any infirmity in law.	None
+Dr. M.P. Raju, learned counsel appearing on behalf of the appellant, would contend that the earlier decision of this Court in Union of India v. M s. Popular Constructions Company AIR 2001 SC 4010 , whereupon reliance has been placed by the High Court has since been revisited by this Court in State of Goa v. Western Builders (2006) 6 SCC 239 , holding The question is whether Section 14 of the Limitation Act has been excluded by this special enactment i.e. the Arbitration and Conciliation Act, 1996.	Issue
+Section 43 of the Arbitration and Conciliation Act, 1996 clearly says that the Limitation Act, 1963 shall apply to arbitration as it applies to the proceedings in the court.	Arguments of Petitioner
+15.	Arguments of Petitioner
+Therefore, general proposition is by virtue of Section 43 of the Act of 1996 the Limitation Act, 1963 applies to the Act of 1996 but by virtue of subsection (2) of Section 29 of the Limitation Act, if any other period has been prescribed under the special enactment for moving the application or otherwise then that period of limitation will govern the proceedings under that Act, and not the provisions of the Limitation Act.	Arguments of Petitioner
+In the present case under the Act of 1996 for setting aside the award on any of the grounds mentioned in subsection (2) of Section 34 the period of limitation has been prescribed and that will govern.	Arguments of Petitioner
+Likewise, the period of condonation of delay i.e. 30 days in the proviso.	Arguments of Petitioner
+16.	Arguments of Petitioner
+But there is no provision made in the Arbitration and Conciliation Act, 1996 that if any party has bona fidely prosecuted its remedy before the other forum which had no jurisdiction then in that case whether the period spent in prosecuting the remedy bona fidely in that court can be excluded or not.	Arguments of Petitioner
+As per the provision, subsection (3) of Section 34 which prescribes the period of limitation (3 months) for moving the application for setting aside the award before the court then that period of limitation will be applicable and not the period of limitation prescribed in the Schedule under Section 3 of the Limitation Act, 1963.	Arguments of Petitioner
+Thus, the provision of moving the application prescribed in the Limitation Act, shall stand excluded by virtue of subsection (2) of Section 29 as under this special enactment the period of limitation has already been prescribed.	Arguments of Petitioner
+Likewise the period of condonation of delay i.e. 30 days by virtue of the proviso.	Arguments of Petitioner
+17.	Arguments of Petitioner
+Therefore, by virtue of subsection (2) of Section 29 of the Limitation Act what is excluded is the applicability of Section 5 of the Limitation Act and under Section 3 read with the Schedule which prescribes the period for moving application.	Arguments of Petitioner
+18.	Arguments of Petitioner
+Whenever two enactments are overlapping each other on the same area then the courts should be cautious in interpreting those provisions.	Reasoning
+It should not exceed the limit provided by the statute.	Reasoning
+The extent of exclusion is, however, really a question of construction of each particular statute and general principles applicable are subordinate to the actual words used by legislature.	Reasoning
+Referring to Popular Construction (supra) and National Aluminimum Co. Ltd. v. Pressteel Fabrications (P) Ltd. (2004 (1) SCC 540 , it was held Therefore, in the present context also it is very clear to us that there are no two opinions in the matter that the Arbitration and Conciliation Act, 1996 does not expressly exclude the applicability of Section 14 of the Limitation Act.	None
+The prohibitory provision has to be construed strictly.	Reasoning
+It is true that the Arbitration and Conciliation Act, 1996 intended to expedite commercial issues expeditiously.	Reasoning
+It is also clear in the Statement of Objects and Reasons that in order to recognise economic reforms the settlement of both domestic and international commercial disputes should be disposed of quickly so that the countrys economic progress be expedited.	Reasoning
+The Statement of Objects and Reasons also nowhere indicates that Section 14 of the Limitation Act shall be excluded.	Reasoning
+But on the contrary, intendment of the legislature is apparent in the present case as Section 43 of the Arbitration and Conciliation Act, 1996 applies the Limitation Act, 1963 as a whole.	Reasoning
+It is only by virtue of subsection (2) of Section 29 of the Limitation Act that its operation is excluded to that extent of the area which is covered under the Arbitration and Conciliation Act, 1996.	Reasoning
+Our attention was also invited to the various decisions of this Court interpreting subsection (2) of Section 29 of the Limitation Act with reference to other Acts like the Representation of the People Act or the provisions of the Criminal Procedure Code where separate period of limitation has been prescribed.	Reasoning
+We need not overburden the judgment with reference to those cases because it is very clear to us by virtue of subsection (2) of Section 29 of the Limitation Act that the provisions of the Limitation Act shall stand excluded in the Act of 1996 to the extent of area which is covered by the Act of 1996.	Reasoning
+In the present case under Section 34 by virtue of subsection (3) only the application for filing and setting aside the award a period has been prescribed as 3 months and delay can be condoned to the extent of 30 days.	Reasoning
+To this extent the applicability of Section 5 of the Limitation Act will stand excluded but there is no provision in the Act of 1996, which excludes operation of Section 14 of the Limitation Act.	Reasoning
+If two Acts can be read harmoniously without doing violation to the words used therein, then there is no prohibition in doing so.	None
+The ratio laid down in the said decision has since been reiterated in Union of India Anr.	None
+v. Bhavna Engineering Co. 2007 (5) RAJ 458, stating This Court in a recent judgment rendered in State of Goa Vs.	None
+Western Builders, (2006) 6 SCC 239 , held that Section 14 of the Limitation Act, 1963 is applicable in the Arbitration and Conciliation proceedings.	Reasoning
+Having gone through the various facts, we are of the view that the mistake committed by the appellant in approaching the Madhya Pradesh High Court and the Bombay High Court is bona fide.	Reasoning
+We, therefore, condone the delay.	Reasoning
+In the facts of this case and in the interest of justice, we, however, think it proper that the Section 34 Application pending before the Additional District Judge, Gwalior be transferred to the Bombay High Court.	Reasoning
+The application will be decided on merits expeditiously.	Reasoning
+Parties are at liberty to urge all the contentions before that Court.	Reasoning
+There cannot be any doubt whatsoever that in terms of subsection (2) of Section 34 of the Act, an arbitral award may be set aside only if one of the conditions specified therein is satisfied.	None
+Subsection (3) of Section 34 provides for the period of limitation within which an application under Section 34 of the Act is to be filed.	None
+The proviso appended thereto empowers the court to entertain an application despite expiry of the period of limitation specified therein, namely, three months.	None
+No provision, however, exists as regards application of Section 14 of the Limitation Act.	None
+This Court, as noticed hereinbefore in Western Builders opined that subsection (2) of Section 29 thereof would apply to an arbitration proceedings and consequently Section 14 of the Limitation Act would also be applicable.	None
+We are bound by the said decision.	None
+Once it is held that the provisions of Section 14 of the Limitation Act, 1963 would apply, it must be held that the learned Trial Judge as also the High Court has committed an error in not applying the said provisions.	None
+The question, however, as to whether the period spent by the appellant in prosecuting the aforementioned proceedings should be excluded or not is a matter which must fall for decision before the Principal Civil Court.	None
+The necessary corollary of the aforementioned finding is that as to whether the appellant had been prosecuting, with due diligence another proceeding or not would fall for consideration before the Principal Civil Court.	None
+The impugned judgment of the High Court, therefore, cannot be sustained.	Decision
+It is set aside accordingly.	Decision
+The matter is remitted to the Principal Civil Court for consideration of the matter afresh in the light of observations made hereinbefore.	Decision
+The appeal is allowed accordingly.	Decision
+However, in the facts and circumstances of this case, there shall be no order as to costs.	Decision

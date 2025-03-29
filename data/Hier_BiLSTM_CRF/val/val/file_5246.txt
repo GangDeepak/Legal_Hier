@@ -1,0 +1,163 @@
+ Dr. Dhananjaya Y Chandrachud, J. 1.
+The appellate jurisdiction of this Court under Section 62 of the Insolvency and Bankruptcy Code, 2016 (IBC) has been invoked to challenge the judgement and order of the National Company Law Appellate Tribunal (NCLAT or Appellate Tribunal) dated 19 October 2020.
+The NCLAT affirmed the decision of the National Company Law Tribunal (NCLT or Adjudication Authority) dated 9 July 2020, holding that in view of the provisions of Section 10A, which have been inserted by Act 17 of 2020 (the Amending Act) with retrospective effect from 5 June 2020, the application filed by the appellant as an operational creditor under Section 9 was not maintainable.
+2. Some of the salient facts set out in the appeal are being adverted to in order to indicate the broad contours of the controversy.
+The issue involved raises a question of law.
+Hence, while setting out the facts as set up in the appeal, we need to clarify that the factual dispute has not arisen for adjudication.
+3.
+The appellant claims that a sum of INR 104,11,76,479 is due and payable to him pursuant to his resignation from all capacities held by him in the respondent in accordance with the various Employment Agreements Incentive Agreements entered into by him with the respondent during his tenure as Chairman and Managing Director.
+The appellant entered into an Employment Agreement with the respondent on 16 July 2009.
+Another Employment Agreement was entered into on 16 December 2013, effective from 1 January 2014, which superseded the previous agreement.
+The Employment Agreement dated 16 December 2013 was coupled with an Incentive Agreement signed on the same date.
+The Incentive Agreement is stated to have been amended and restated on 17 April 2015, along with a further amendment through a Side Letter dated 20 April 2015.
+Further, the new Employment Agreement was amended through a Letter Amendment No. 1 dated 17 April 2015.
+4.
+On 21 January 2020, the appellant submitted his resignation to the respondent and its parent entity, detailing the entitlements which he claimed under the Employment and Incentive Agreements.
+On 28 January 2020, the respondent acknowledged receipt of the letter of resignation and requested the appellant to continue in employment beyond the 60 days notice period stipulated in the Employment Agreement.
+According to the appellant, he agreed to continue to provide his services to the respondent till 30 April 2020.
+There was an exchange of communications between the parties and, according to the appellant, by an email dated 27 March 2020, the respondent confirmed the payments which were due and payable to him under the letter of resignation (except for point 12).
+The appellant is stated to have addressed a final reminder by an email dated 27 April 2020, three days prior to the extended notice period came to an end.
+5.
+On 28 April 2020, a termination letter was addressed to the appellant.
+The appellant issued a demand notice on 30 April 2020 in Form 3 of the IBC.
+The demand notice specified that the date of default was 30 April 2020.
+6.
+On 11 May 2020, the appellant filed an application(IBA/215/2020) under Section 9 of the IBC on the ground that there was a default in the payment of his operational dues.
+During the pendency of the application, an Ordinance(Ordinance 9 of 2020 (the Ordinance)) was promulgated by the President of India on 5 June 2020 by which Section 10A was inserted into the IBC.
+Section 10A reads as follows 10A. Suspension of initiation of corporate insolvency resolution process.
+Notwithstanding anything contained in sections 7,9 and 10, no application for initiation of corporate insolvency resolution process of a corporate debtor shall be filed, for any default arising on or after 25th March, 2020 for a period of six months or such further period, not exceeding one year from such date, as may be notified in this behalf Provided that no application shall ever be filed for initiation of corporate insolvency resolution process of a corporate debtor for the said default occurring during the said period.
+Explanation For the removal of doubts, it is hereby clarified that the provisions of this section shall not apply to any default committed under the said sections before 25th March, 2020.
+7.
+The respondent filed an application(IA 395 of 2020) seeking the dismissal of the appellants application on the basis of the newly inserted provisions of Section 10A. The NCLT upheld the submission of the respondent, holding that a bar has been created by the newly inserted provisions of
+Section 10A.
+This decision has been upheld in appeal by the NCLAT.
+8.
+The issue which falls for determination in this appeal is whether the provisions of Section 10A stand attracted to an application under Section 9 which was filed before 5 June 2020 (the date on which the provision came into force) in respect of a default which has occurred after 25 March 2020.
+Before proceeding to discuss the rival submissions, it is necessary to preface the discussion with reference to three significant dates which have a bearing on the present proceedings 30 April 2020 date of default as set up in Form 3 11 May 2020 date of institution of the application under Section 9 and 5 June 2020 date on which Section 10A was inserted in the IBC.9.
+The date of default is crystalized as 30 April 2020 in the demand notice issued by the appellant in Form 3, which is prescribed under Rule 5 of the Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016.
+The statutory form provides for a disclosure of the particulars of the operational debt.
+The disclosure which has been made by the appellant includes the amount claimed in default and the date of default, as tabulated below Table 10.
+SubSection (1) of Section 8 of IBC stipulates 8.
+Insolvency resolution by operational creditor.(1) an operational creditor may, on the occurrence of a default, deliver a demand notice of the unpaid operational debt or a copy of an invoice demanding payment of the amount involved in the default to the corporate debtor in such form and manner as may be prescribed.
+Under Section 9(1), the operational creditor may file an application before the Adjudicating Authority for initiating the Corporate Insolvency Resolution Process (CIRP), after the expiry of a period of ten days from the date of delivery of the notice (or invoice demanding payment) under subSection (1) of Section 8, if the operational creditor does not receive payment from the corporate debtor or a notice of the dispute under subSection (2) of Section 8.
+The appellant having specified 30 April 2020 as the date of default, this appeal must proceed on that basis.
+It is necessary to make this clear at the outset because an attempt has been made during the course of the submissions by Mr Neeraj Kishan Kaul, learned Senior Counsel appearing on behalf of the appellant, to submit that though the demand notice mentions the date of default as 30 April 2020, the actual first date of default was 21 January 2020 when the letter of resignation was tendered and that the second date of default was 23 March 2020 when the sixty days notice period from the letter of resignation submitted by the appellant concluded.
+This attempt to set back the date of default to either 21 January 2020 or 23 March 2020 is plainly untenable for the reason that it is contrary to the disclosure made by the appellant in the demand notice which has been issued in pursuance of the provisions of Section 8(1) and Section 9 of the IBC.
+The demand notice triggers further actions which are adopted towards the initiation of the insolvency resolution process.
+The question which needs to be resolved is whether Section 10A would stand attracted to a situation such as the present where the application under Section 9 was filed prior to 5 June 2020, when Section 10A was inserted, and in respect of a default which has taken place after 25 March 2020.
+11.
+Mr Neeraj Kishan Kaul submits that (i) Section 10A creates a bar to the filing of applications under Sections 7, 9 and 10 in relation to defaults committed on or after 25 March 2020 for a period of six months, which can be extended up to one year (ii) The Ordinance and the Act which replaced it do not provide for the retrospective application of Section 10A either expressly or by necessary implication to applications which had already been filed and were pending on 5 June 2020 (iii) Section 10A prohibits the filing of a fresh application in relation to defaults occurring on or after 25 March 2020, once Section 10A has been notified (i.e., after 5 June 2020) (iv) Section 10A uses the expressions shall be filed and shall ever filed which are indicative of the prospective nature of the statutory provision in its application to proceedings which were initiated after 5 June 2020 and (v) The IBC makes a clear distinction between the initiation date under Section 5(11) and the insolvency commencement date under Section 5(12).
+12.
+On the above premises, it has been submitted that Section 10A will have no application.
+Mr Kaul also urged that in each case it is necessary for the Court and the tribunals to deduce as to whether the cause of financial distress is or is not attributable to the Covid19 pandemic.
+In the present case, it was asserted that the onset of Covid19, which was the reason for the insertion of Section 10A, has nothing to do with the default of the respondent to pay the outstanding operational debt of the appellant, which owes its existence even before the onset of the pandemic.
+Hence, it has been submitted that the event of default (30 April 2020) in the notice of demand cannot be read in isolation.
+13.
+Opposing the above submissions, it has been urged by Mr Gopal Jain, learned Senior Counsel on behalf of the respondent, that (i) The legislative intent in the insertion of Section 10A was to deal with an extraordinary event, the outbreak of Covid19 pandemic, which led to financial distress faced by corporate entities (ii) Section 10A is prefaced with a nonobstante clause which overrides Sections 7, 9 and 10 and (iii) Section 10A provides a cutoff date of 25 March 2020 and it is evident from the substantive part of the provision, as well as from the proviso and the explanation, that no application can be filed for the initiation of the CIRP for a default occurring on and after 25 March 2020, for a period of six months or as extended upon a notification.
+14.
+The rival submissions can now be considered.
+15.
+The financial distress caused by the outbreak of Covid19 provides the backdrop to the insertion of Section 10A.
+The underlying rationale for the insertion of Section 10A has been explained in the recitals to the Ordinance, which are extracted below AND WHEREAS COVID19 pandemic has impacted business, financial markets and economy all over the world, including India, and created uncertainty and stress for business for reasons beyond their control AND WHEREAS a nationwide lockdown is in force since 25th March, 2020 to combat the spread of COVID19 which has added to disruption of normal business operations AND WHEREAS it is difficult to find adequate number of resolution applicants to rescue the corporate person who may default in discharge of their debt obligation AND WHEREAS it is considered expedient to suspend under sections 7, 9 and I 0 of the Insolvency and Bankruptcy Code, 2016 to prevent corporate persons which are experiencing distress on account of unprecedented situation.
+being pushed into insolvency proceedings under the Court for some time AND WHEREAS it is considered expedient to exclude the defaults arising on account of unprecedented situation for the purposes of insolvency proceeding under this Code (emphasis supplied) 16.
+Section 10A is prefaced with a nonobstante provision which has the effect of overriding Sections 7, 9 and 10.
+Section 10A provides that (i) no application for the initiation of the CIRP by a corporate debtor shall be filed (ii) for any default arising on or after 25 March 2020 and (iii) for a period of six months or such further period not exceeding one year from such date as may be notified in this behalf The proviso to Section 10A stipulates that no application shall ever be filed for the initiation of the CIRP of a corporate debtor for the said default occurring during the said period.
+The explanation which has been inserted for the removal of doubts clarifies that Section 10A shall not apply to any default which has been committed under Sections 7, 9 and 10 before 25 March 2020.
+17.
+Section 10A makes a reference to the initiation of the CIRP.
+Clauses (11) and (12) of Section 5 of the IBC define two distinct concepts, namely (i) the initiation date and (ii) the insolvency commencement date.
+18.
+The initiation date is defined in Section 5(11) in the following terms 5(11) initiation date means the date on which a financial creditor, corporate applicant or operational creditor, as the case may be, makes an application to the Adjudicating Authority for initiating corporate insolvency resolution process The expression insolvency commencement date is defined in Section 5(12) in the following terms 5(12) insolvency commencement date means the date of admission of an application for initiating corporate insolvency resolution process by the Adjudicating Authority under sections 7, 9 or section 10, as the case may be 19.
+Section 5(11) stipulates that the date on which a financial creditor, corporate applicant or operational creditor makes an application to the adjudicating authority for initiating the CIRP is the initiation date.
+Distinguished from this is the insolvency commencement date, which is the date on which the application for initiating the CIRP under Sections 7, 9 or 10, as the case may be, is admitted by the Adjudicating Authority.
+20.
+The substantive part of Section 10A adverts to an application for the initiation of the CIRP.
+It stipulates that for any default arising on or after 25 March 2020, no application for initiating the CIRP of a corporate debtor shall be filed for a period of six months or such further period not exceeding one year from such date as may be notified in this behalf.
+The expression from such date is evidently intended to refer to 25 March 2020
+so that for a period of six months (extendable to one year by notification) no application for the initiation of the CIRP can be filed.
+The submission of the appellant is that the expression shall be filed is indicative of a legislative intent to make the provision prospective so as to apply only to those applications which were filed after 5 June 2020 when the provision was inserted.
+Such a construction cannot be accepted.
+21.
+The date of 25 March 2020 has consciously been provided by the legislature in the recitals to the Ordinance and Section 10A, since it coincides with the date on which the national lockdown was declared in India due to the onset of the Covid19 pandemic.
+In Sardar Inder Singh vs State of Rajasthan 1957 SCR 605 , the Rajpramukh promulgated the Rajasthan (Protection of Tenants) Ordinance (9 of 1949) on 21 June 1949 which, inter alia, provided for the reinstatement of tenants who had been in occupation on 1 April 1948 but had been subsequently dispossessed.
+When it was challenged before the Supreme Court, the Constitution bench, speaking through Justice T L Venkatarama Ayyar, relied on the recital in its preamble while interpreting its provisions.
+The Court held that 11.
+In the present case, the preamble to the Ordinance clearly recites the state of facts which necessitated the enactment of the law in question, and Section 3 fixed the duration of the Act as two years, on an understanding of the situation as it then existed.
+At the same time, it conferred a power on the Rajpramukh to extend the life of the Ordinance beyond that period, if the state of affairs then should require it.
+When such extension is decided by the Rajpramukh and notified, the law that will operate is the law which was enacted by the legislative authority in respect of place, person, laws, powers, and it is clearly conditional and not delegated legislation as laid down in Queen v. Burah (18778) 5 IA 178, 180, 194, 195 and must, in consequence, be held to be valid (4) We shall next consider the contention that the provisions of the Ordinance are repugnant to Article 14 of the Constitution, and that it must therefore be held to have become void.
+In the argument before us, the attack was mainly directed against Sections 7(1) and 15 of the Ordinance.
+The contention with reference to Section 7(1) is that under that section landlords who had tenants on their lands on April 1, 1948, were subjected to various restrictions in the enjoyment of their rights as owners, while other landlords were free from similar restrictions.
+There is no substance in this contention.
+The preamble to the Ordinance recites that there was a growing tendency on the part of the landholders to eject tenants, and that it was therefore expedient to enact a law for giving them protection and for granting relief to them, the Legislature had necessarily to decide from what date the law should be given operation, and it decided that it should be from April 1, 1948.
+That is a matter exclusively for the Legislature to determine, and the propriety of that determination is not open to question in courts.
+We should add that the petitioners sought to dispute the correctness of the recitals in the preamble.
+This they clearly cannot do.
+Vide the observations of Holmes, J. in Block v. Hirsh (1920) 65 LEd 865 (1920) 256 US 135.
+12.
+A more substantial contention is the one based on Section 15, which authorises the Government to exempt any person or class of persons from the operation of the Act.
+It is argued that that section does not lay down the principles on which exemption could be granted, and that the decision of the matter is left to the unfettered and uncanalised discretion of the Government, and is therefore repugnant to Article 14.
+It is true that that section does not itself indicate the grounds on which exemption could be granted, but the preamble to the Ordinance sets out with sufficient clearness the policy of the legislature and as that governs Section 15 of the Ordinance, the decision of the Government thereunder cannot be said to be unguided (emphasis supplied) 22.
+The language of the provision is not always decisive to arrive at a determination whether the provision if applicable prospectively or retrospectively.
+Justice G.P. Singh in his authoritative commentary on the interpretation of statutes, Principles of
+Statutory Interpretation(G.P.
+Singh, Principles of Statutory Interpretation (1st edn., Lexis Nexis 2015)) , has stated that In deciding the question of applicability of a particular statute to past events, the language used is no doubt the most important factor to be taken into account but it cannot be stated as an inflexible rule that use of present tense or present perfect tense is decisive of the matter that the statute does not draw upon past events for its operation.
+Thus, the words a debtor commits an act of bankruptcy were held to apply to acts of bankruptcy committed before the operation of the Act.
+The words if a person has been convicted were construed to include anterior convictions.
+The words has made, has ceased, has failed and has become, may denote events happening before or after coming into force of the statute and all that is necessary is that the event must have taken place at the time when action on that account is taken under the statuteAnd the word is though normally referring to the present often has a future meaning and may also have a past signification in the sense of has been.
+The real issue in each case is as to the dominant intention of the Legislature to be gathered from the language used, the object indicated, the nature of rights affected, and the circumstances under which the statute is passed.
+(emphasis supplied) 23.
+Adopting the construction which has been suggested by the appellant would defeat the object and intent underlying the insertion of
+Section 10A.
+The onset of the Covid19 pandemic is a cataclysmic event which has serious repercussions on the financial health of corporate enterprises.
+The Ordinance and the Amending Act enacted by Parliament, adopt 25 March 2020 as the cutoff date.
+The proviso to Section 10A stipulates that no application shall ever be filed for the initiation of the CIRP for the said default occurring during the said period.
+The expression shall ever be filed is a clear indicator that the intent of the legislature is to bar the institution of any application for the commencement of the CIRP in respect of a default which has occurred on or after 25 March 2020 for a period of six months, extendable up to one year as notified.
+The explanation which has been introduced to remove doubts places the matter beyond doubt by clarifying that the statutory provision shall not apply to any default before 25 March 2020.
+The substantive part of Section 10A is to be construed harmoniously with the first proviso and the explanation.
+Reading the provisions together, it is evident that Parliament intended to impose a bar on the filing of applications for the commencement of the CIRP in respect of a corporate debtor for a default occurring on or after 25 March 2020 the embargo remaining in force for a period of six months, extendable to one year.
+Acceptance of the submission of the appellant would defeat the very purpose and object underlying the insertion of Section 10A.
+For, it would leave a whole class of corporate debtors where the default has occurred on or after 25 March 2020 outside the pale of protection because the application was filed before 5 June 2020.
+24.
+We have already clarified that the correct interpretation of Section 10A cannot be merely based on the language of the provision rather it must take into account the object of the Ordinance and the extraordinary circumstances in which it was promulgated.
+It must be noted, however, that the retrospective bar on the filing of applications for the commencement of CIRP during the stipulated period does not extinguish the debt owed by the corporate debtor or the right of creditors to recover it.
+25.
+Section 10A does not contain any requirement that the Adjudicating Authority must launch into an enquiry into whether, and if so to what extent, the financial health of the corporate debtor was affected by the onset of the Covid19 pandemic.
+Parliament has stepped in legislatively because of the widespread distress caused by an unheralded public health crisis.
+It was cognizant of the fact that resolution applicants may not come forth to take up the process of the resolution of insolvencies (this as we have seen was referred to in the recitals to the Ordinance), which would lead to instances of the corporate debtors going under liquidation and no longer remaining a going concern.
+This would go against the very object of the IBC, as has been noted by a twoJudge bench of this Court in its judgment in Swiss Ribbons (P) Ltd. v. Union of India (2019) 4 SCC 17 .
+Speaking through Justice Rohinton F Nariman, the Court held as follows 27.
+As is discernible, the Preamble gives an insight into what is sought to be achieved by the Code.
+The Code is first and foremost, a Code for reorganisation and insolvency resolution of corporate debtors.
+Unless such reorganisation is effected in a timebound manner, the value of the assets of such persons will deplete.
+Therefore, maximisation of value of the assets of such persons so that they are efficiently run as going concerns is another very important objective of the Code.
+This, in turn, will promote entrepreneurship as the persons in management of the corporate debtor are removed and replaced by entrepreneurs.
+When, therefore, a resolution plan takes off and the corporate debtor is brought back into the economic mainstream, it is able to repay its debts, which, in turn, enhances the viability of credit in the hands of banks and financial institutions.
+Above all, ultimately, the interests of all stakeholders are looked after as the corporate debtor itself becomes a beneficiary of the resolution schemeworkers are paid, the creditors in the long run will be repaid in full, and shareholders investors are able to maximise their investment.
+Timely resolution of a corporate debtor who is in the red, by an effective legal framework, would go a long way to support the development of credit markets.
+Since more investment can be made with funds that have come back into the economy, business then eases up, which leads, overall, to higher economic growth and development of the Indian economy.
+What is interesting to note is that the Preamble does not, in any manner, refer to liquidation, which is only availed of as a last resort if there is either no resolution plan or the resolution plans submitted are not up to the mark.
+Even in liquidation, the liquidator can sell the business of the corporate debtor as a going concern.
+(See ArcelorMittal ArcelorMittal (India) (P) Ltd. v. Satish Kumar Gupta, (2019) 2 SCC 1 at para 83, fn 3).
+Hence, the embargo contained in Section 10A must receive a purposive construction which will advance the object which was sought to be achieved by enacting the provision.
+We are therefore unable to accept the contention of the appellant.
+26.
+The date of the initiation of the CIRP is the date on which a financial creditor, operational creditor or corporate applicant makes an application to the adjudicating authority for initiating the process.
+On the other hand, the insolvency commencement date is the date of the admission of the application.
+This distinction is also evident from the provisions of subsection (6) of Section 7, subsection (6) of Section 9 and subsection (5) of Section 10.
+Section 7 deals with the initiation of the CIRP by a financial creditor Section 8 provides for the insolvency resolution by an operational creditor Section 9 provides for the application for initiation of the CIRP by an operational creditor and Section 10 provides for the initiation of the CIRP by a corporate applicant.
+NCLAT has explained the difference between the initiation of the CIRP and its commencement succinctly, when it observed 13.
+Reading the two definition clauses in juxtaposition, it emerges that while the first viz.
+initiation date is referable to filing of application by the eligible applicant, the later viz.
+commencement date refers to passing of order of admission of application by the Adjudicating Authority.
+The initiation date ascribes a role to the eligible applicant whereas the commencement date rests upon exercise of power vested in the Adjudicating Authority.
+Adopting this interpretation would leave no scope for initiation of CIRP of a Corporate Debtor at the instance of eligible applicant in respect of Default arising on or after 25th March, 2020 as the provision engrafted in Section 10A clearly bars filing of such application by the eligible applicant for initiation of CIRP of Corporate Debtor in respect of such default.
+The bar created is retrospective as the cutoff date has been fixed as 25th March, 2020 while the newly inserted Section 10A introduced through the Ordinance has come into effect on 5th June, 2020.
+The object of the legislation has been to suspend operation of Sections 7, 9 10 in respect of defaults arising on or after 25th March, 2020 i.e. the date on which Nationwide lockdown was enforced disrupting normal business operations and impacting the economy globally.
+Indeed, the explanation removes the doubt by clarifying that such bar shall not operate in respect of any default committed prior to 25th March, 2020.
+27.
+We are in agreement with the view which has been taken by the NCLAT for the reasons which have been set out earlier in the course of this judgment.
+We affirm the conclusion of the NCLAT.
+The appeal is accordingly dismissed.
+There shall be no order as to costs.
+28.
+Pending application(s), if any, stand disposed of.

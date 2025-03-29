@@ -1,0 +1,110 @@
+Markandey Katju, J. This appeal has been filed against the impugned judgment of the National Consumer Disputes Redressal Commission, New Delhi dated 26.3.2004 in Original Petition No.196 of 2001.	Issue
+Heard Ms. Meenakshi Midha, learned counsel for the appellant and Shri K.K. Venugopal and Shri Nageshwar Rao learned counsel for the respondent.	None
+The facts of the case were that the complainant (respondent in this appeal) had taken Insurance Policies from the appellant on 1.4.1998 in respect of its factory situated in Jauhri Nagar, Goa.	Facts
+One policy was a fire policy and the other was a consequential loss due to fire policy.4.	Facts
+On 8.1.1999 at about 3.20 p.m. there was a short circuiting in the main switch board installed in the substation receiving electricity from the State Electricity Board, which resulted in a flashover producing over currents.	Facts
+The flashover and over currents generated excessive heat.	Facts
+The paint on the panel board was charred by this excessive heat producing smoke and soot and the partition of the adjoining feeder developed a hole.	Facts
+The smoke soot along with the ionized air traveled to the generator compartment where also there was short circuiting and the generator power also tripped.	Facts
+As a result, the entire electric supply to the plant stopped and due to the stoppage of electric supply, the supply of water steam to the waste heat boiler by the flue gases at high temperature continued to be fed into the boiler, which resulted in damage to the boiler.5.	Facts
+As a result the respondent complainant approached the Insurance Company informing it about the accident and making its claim.	Facts
+Surveyors were appointed who submitted their report but the appellantInsurance Company vide letter dated 4.9.2000 rejected the claim.	Facts
+Hence the petition before the National Commission.6.	Facts
+The claimantrespondent made two claims (I) Rs.1,35,17,709/ for material loss due to the damage to the boiler and other equipments and (ii) Rs.19,11,10,000/ in respect of loss of profit for the period the plant remained closed.	Facts
+The stand of the appellant Insurance Company was that the loss to the boiler and other equipments was not caused by the fire, but by the stoppage of electric supply due to the short circuiting in the switch board.	Arguments of Petitioner
+It was submitted that the cause of the loss to the boiler and the equipments was the thermal shock caused due to stoppage of electricity and not due to any fire.	Arguments of Petitioner
+It was submitted that the proximate cause has to be seen for settling an insurance claim, which in the present case, was the thermal shock caused due to stoppage of electricity.	Arguments of Petitioner
+However, the National Commission allowed the claim of the respondent and hence this appeal.8.	Arguments of Petitioner
+Ms. Meenakshi Midha who argued this case with great ability submitted that the loss to the boiler and to the equipments did not occur due to any fire.	Arguments of Petitioner
+Hence she submitted that the claim of damages did not fall under the cover of the Insurance Policy.	Arguments of Petitioner
+She submitted that for a claim relating to fire insurance policy to succeed it is necessary that there must be a fire in the first place.	Arguments of Petitioner
+In the absence of fire the claim cannot succeed.	Arguments of Petitioner
+She submitted that in the present case (1) there was no fire and (2) in any case it was not the proximate cause of the damage.9.	Arguments of Petitioner
+On the other hand, Shri K.K. Venugopal, learned senior counsel, supported the judgment of the National Commission and stated that the judgment was correct.	Arguments of Respondent
+We have therefore to first determine whether there was a fire.	Issue
+Admittedly there was a short circuit which caused a flashover.	None
+Wikipedia defines flashover as follows A flashover is the near simultaneous ignition of all combustible material in an enclosed area.	None
+When certain materials are heated they undergo thermal decomposition and release flammable gases.	None
+Flashover occurs when the majority of surface in a space is heated to the autoignition temperature of the flammable gases.	None
+In this connection, it is admitted that the short circuit in the main switch board caused a flashover.	None
+The surveyor Shri M.N. Khandeparkar in his report has observed Flashover, can be defined as a phenomenon of a developing fire (or radiant heat source) radiant energy at wall and ceiling surfaces within a compartment In the present case, the paint had burnt due to the said flashover Such high energy levels, would undoubtedly, have resulted in a fire, causing melting of the panel board The other surveyor P.C.	None
+Gandhi Associates has stated that Fire of such a short duration cannot be called a sustained fire as contemplated under the policy.	None
+In our opinion the duration of the fire is not relevant.	Reasoning
+As long as there is a fire which caused the damage the claim is maintainable, even if the fire is for a fraction of a second.	Reasoning
+The term Fire in clause (1) of the Fire Policy C is not qualified by the word sustained.	Reasoning
+It is well settled that the Court cannot add words to statute or to a document and must read it as it is.	Reasoning
+Hence repudiation of the policy on the ground that there was no sustained fire in our opinion is not justified.15.	Reasoning
+We have perused the fire policy in question which is annexure P1 to this appeal.	Reasoning
+The word used therein is fire and not sustained fire.	Reasoning
+Hence the stand of the Insurance Company in this connection is not acceptable.	Reasoning
+Shri K.K. Venugopal invited our attention to exclusion (g) of the Insurance Policy which stated that the insurance does not cover Loss of or damage to any electrical machine, apparatus, fixture or fitting (including electric fans, electric household or domestic appliances, wireless sets, television sets and radios) or to any portion of the electrical installation, arising from or occasioned by over running, excessive pressure short circuiting, arcing selfheating or leakage of electricity from what ever cause (lightning included), provided that this exemption shall apply only to the particular electrical machine apparatus, fixtures, fittings or portion of the electrical installation so affected and not to other machines, apparatus, fixture, fittings or portion of the electrical installation which may be destroyed or damaged by fire so set up.	None
+A perusal of the exclusion clause (g) shows that the main part of the exclusion clause which protects the insurer from liability under the policy covers loss of damage to any electrical machinery, apparatus, fixture or fittings including wireless sets, television sets, radio and so on which themselves are a total loss or a damage or damaged due to short circuiting, arcing, self heating or leakage of electricity.	None
+However, the proviso to the said clause through inclusion of any other machinery, apparatus, fixture or fitting being destroyed or damaged by the fire which has affected any other appliances such as television sets, radio, etc. or electrical machines or apparatus are clearly included within the scope of the Fire Policy for whatever damage or destruction caused by the fire.	None
+If for example the short circuiting results in damage in a television set through fire created by the short circuiting in it the claim for it is excluded under the fire policy.	None
+However, if from the same fire there is a damage to the rest of the house or other appliances, the same is included within the scope of the Fire Policy by virtue of the proviso.	None
+In other words, if the proximate cause of the loss or destruction to any other including other machines, apparatus, fixtures, fittings etc. or part of the electrical installation is due to the fire which is started in an electrical machine or apparatus all such losses because of the fire in other machinery or apparatus is covered by the Policy.	None
+The main question before us now is whether the flashover and fire was the proximate cause of the damage in question.	Issue
+To understand this we have to first know the necessary facts.	None
+The insurance company pointed out the chain or sequence of events as under Shortcircuiting takes place in the INCOMER 2 of the main switchboard receiving electricity from the State Electricity Board possibly due to the entry of a vermin.	None
+Shortcircuiting results in a flashover.	None
+Shortcircuiting and flashover produced overcurrents to the tune of 8000 amperes, which in turn produced enormous heat.	Facts
+The over currents and the heat produced resulted in the expansion and ionization of the surrounding air.	None
+The electricity supply from the State Electricity Board got tripped.	None
+The paint of the Panel Board charred by the enormous heat produced above and the MS partition of the adjoining feeder connected to the generator power developed a hole.	Facts
+It also resulted in formation of smoke soot.	None
+The smoke soot and the ionized air crossed over the MS partition and entered into the compartment receiving electricity from the generator.	None
+Consequently the generator power supply also got tripped.	None
+The tripping of purchased power and generator power resulted in total stoppage of electricity supply to the plant.	None
+The power failure resulted in stoppage of water steam in the waste heat boiler.	None
+The flue gases at high temperature continued to enter the boiler, which resulted in thermal shock causing damage to the boiler tubes.	None
+In this connection, it may be noted that in its written submission before the National Commission the appellant has admitted that there was a flashover and fire.	None
+The relevant portion of the written statement of the appellant before the National Commission is as follows Para 1 of the Preliminary Objections wherein it is stated On 8th January, 99 there was a short circuitingwhich resulted in flash over The cause of loss to the boiler and equipment is the thermal shock caused due to stoppage of electricity The stoppage of electricity was due to the fireshort circuiting results in a flash over Para 3(iv) of the Preliminary Objections wherein it is stated Due to this flash over and over currents excessive heat energy was generated which resulted in the evolution of marginal fire Para 3(vi) of the Preliminary Objections wherein it is stated The surveyors observed that the experts in all the reports submitted by the complainant admitted that a flash over took place Para 3(viii) of the Preliminary Objections wherein it is stated Fire of extremely short duration followed and preceded by short circuit Para 7 of the reply wherein it is stated It is correct that on 8th January, 1999, short circuit occurred on INCOMER2 of the 3.3 KV main switch board in the electrical sub station which resulted in a flash over Para 10 of the reply wherein it is stated Due to this flash over and over currents excessive heat energy was generated which resulted in the evolution of marginal fire Para 21 of the reply wherein it is stated A reference of fire, as opposed to sustained fire, in the opinion of M s. P.C.	None
+Gandhi Associates has been made It is in this context that M s. P.C.	None
+Gandhi Associates have referred to the possible fire after the flash over being of a very short duration.	None
+Thus it is admitted in the written statement of the appellant before the National Commission that it was the flashover fire which started the chain of events which resulted in the damage.	None
+Apparently there is no direct decision of this Court on this point as to the meaning of proximate cause, but there are decisions of foreign Courts, and the predominant view appears to be that the proximate cause is not the cause which is nearest in time or place but the active and efficient cause that sets in motion a train or chain of events which brings about the ultimate result without the intervention of any other force working from an independent source.23.	Reasoning
+Thus in Lynn Gas and Electric Company vs. Meriden Fire Insurance Company Ors. 158 Mass. 570 33 N.E. 690 1893 Mass.	None
+LEXIS 345 Supreme Court of Massachusetts was concerned with a case where a fire occurred in the wire tower of the plaintiffs building, through which the wires of electric lighting were carried from the building.	Reasoning
+The fire was speedily extinguished, without contact with other parts of the building and contents, and with slight damage to the tower or its contents.	Reasoning
+However, in a part of the building remote from the fire and untouched thereby, there occurred a disruption by centrifugal force of the fly wheel of the engine and their pulleys connected therewith, and by this disruption the plaintiffs building and machinery were damaged to a large extent.	Reasoning
+It was held that the proximate cause was not the cause nearest in time or place, and it may operate through successive instruments, as an article at the end of a chain may be moved by a force applied to the other end.	Reasoning
+The question always is Was there an unbroken connection between the wrongful act and the injury, a continuous operation?	Reasoning
+In other words, did the facts constitute a continuous succession of events, so linked together as to make a natural whole, or there was some new and independent cause intervening between the wrong and the injury?24.	Reasoning
+The same view was taken in Krenie C. Frontis et al. vs. Milwaukee Insurance Company 156 Conn.	Reasoning
+492 242 A.2d 749 1968 Conn. LEXIS 629.	None
+The facts in that case were that the plaintiffs owned the northerly half of a building that shared a common wall with a factory next door.	Reasoning
+A fire broke out in the factory and damaged that building.	Reasoning
+Minimal fire damage occurred to the plaintiffs building.	Reasoning
+However, due to the damage next door, the building inspector ordered the removal of the three upper stories of the factory building, which left the common wall insufficiently supported.	Reasoning
+Due to the safety issue, the inspector ordered the third and fourth floors of plaintiffs building to be demolished.	Reasoning
+On this fact it was held that the fire was the active and efficient cause that set in motion a chain of events which brought about the result without the intervention of any new and independent source, and hence was the proximate cause of the damage.	Reasoning
+In Farmers Union Mutual Insurance Company vs. Blankenship 231 Ark.127 328 S.W2d 360 1959 Ark. LEXIS 474 76 A.L.R2d 1133 the claimants goods were damaged after a fire originated in his place of business.	None
+The goods were not damaged by the flames but by a gaseous vapour caused by the use of a fire extinguisher in an effort to put out the fire.	None
+On these facts the Supreme Court of Arkansas upheld the claim of the claimant.	None
+In Leyland Shipping Company Limited vs. Norwich Union Fire Insurance Society Limited 1917 1 K.B. 873, the facts of the case were that a ship was insured against perils of the sea during the first world war by a time policy containing a warranty against all consequences of hostilities.	None
+The ship was torpedoed by a German submarine twenty five miles from Havre.	None
+With the aid of tugs she was brought to Havre on the same day.	None
+A gale sprang up, causing her to bump against the quay and finally she sank.	None
+The House of Lords upheld the claim for damages observing that the torpedoing was the proximate cause of the loss even though not the last in the chain of event after which she sank.	None
+In Yorkshire Dale Steamship Company Ltd. vs. Minister of War Transport (The Coxwold) 1942 AC 691, 1942 2 All ER 6 during the Second World War a ship in convoy was sailing carrying petrol for use of the armed forces.	None
+There was an alteration of the course of the ship to avoid enemy action, and an unexpected and unexplained tidal set carried away the ship and she was stranded at about 2.45 a.m.	None
+It was held that the loss was the direct consequence of the warlike operation on which the vessel was engaged.	None
+In The Matter of an Arbitration between Etherington and the Lancashire and Yorkshire Accident Insurance Company 1909 1 K.B. 591 by the terms of the policy (an accident) the insurance company undertook that if the insured should sustain any bodily injury caused by violent, accidental, external and visible means, then, in case such injuries should, within three calendar months of the causing of such injury, directly cause the death of the insured, damages would be paid to his legal heirs.	Reasoning
+There was a proviso in the policy that this policy only insured against death where the accident was the proximate cause of the death.	Reasoning
+The assured while hunting had a fall and the ground being very wet he was wetted to the skin.	Reasoning
+The effect of the shock lowered the vitality of his system and being obliged to ride home afterwards, while wet, still further lowered his vitality.	Reasoning
+As a result he developed pneumonia and died.	Reasoning
+The Court of Appeal uphold the claim holding that the accident was the proximate cause of death.29.	Reasoning
+In the present case, it is evident from the chain of events that the fire was the efficient and active cause of the damage.	Reasoning
+Had the fire not occurred, the damage was also would not have occurred and there was no intervening agency which was an independent source of the damage.30.	Reasoning
+Hence we cannot agree with the conclusion of the surveyors that the fire was not the cause of the damage to the machinery of the claimant.31.	Reasoning
+Moreover in General Assurance Society Ltd. vs. Chandmull Jain Anr.	Reasoning
+AIR 1966 SC 1644 it was observed by a Constitution Bench of this Court that in case of ambiguity in a contract of insurance the ambiguity should be resolved in favour of the claimant and against the insurance company.	Reasoning
+Learned counsel for the appellant relied on the decision of the British High Court in Everett Anr.	Decision
+vs. The London Assurance S.C. 34 L.J.C.P. 299 11 Jur.	Decision
+N.S. 546 13 W.R. 862.	Decision
+By the terms of the policy the premises in question was insured against such loss or damage by fire to the property.	Decision
+It was held by the High Court that this did not cover damage resulting from the disturbance of the atmosphere by the explosion of a gunpowder magazine a mile distant from the premises insured.	Decision
+We are in respectful disagreement with the said judgment as the predominant view of most Courts is to the contrary.33.	Decision
+For the reasons given above we see no merit in this appeal and it is dismissed.	Decision
+There shall be no order as to costs.	Decision

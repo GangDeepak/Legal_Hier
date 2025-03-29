@@ -1,0 +1,97 @@
+ BEG, C.J. 1.	None
+The official liquidator attached to the High Court of Rajasthan, incharge of the liquidation of Golcha Properties (Pvt.) Ltd. (hereinafter referred to as Golcha Company ), has come up in appeal to this court by special leave against a judgment and order of a Division Bench of that High Court, passed on a special appeal from the judgment and order of a single judge of that court.	Facts
+On petitions presented on 4th July, 1966, and 30th July, 1966, by the creditors of Golcha Company, the High Court had made a compulsory windingup order on 10th May, 1968, and, on that very date, the appellant was appointed liquidator of the Golcha Company.	Facts
+The Dharti Dhan (Pvt.) Ltd. (hereinafter referred to as the Dhan Company), with its registered office at Bombay, was said to be one of the debtors of the Golcha Company to the extent of Rs. 11, 69, 043, together with interest and commission which was said to be still due on 1st August, 1969.	Facts
+Agreements dated June 25, 1966, and January 17, 1967, between the two companies regulated the method of repayment by annual instalments of Rs. 2.50, 000 according to the appellant.	Facts
+As the respondent, Dhan Company, is said to have defaulted in the payment of two of its instalments, a claim under section 446(2) of the Companies Act (hereinafter referred to as the Act ) for the recovery of a sum of Rs. 5, 00, 000 was made before the company judge of the High Court of Rajasthan by the appellant.	Facts
+On 20th September, 1969, the Registrar of Companies in Maharashtra had to file a windingup petition against the respondent, Dhan Company, in the Bombay High Court.	Facts
+The company judge in the Bombay High Court on 3rd January, 1970, directed advertisement of the windingup petition.	Facts
+The respondent, Dhan Company, appealed against the decision of the company judge and obtained an order dated 3rd February, 1970, from a Division Bench staying the operation of the order for advertisement of the windingup petition.	Facts
+An appeal against that order is said to be still pending so that a stay of those proceedings operates.	Facts
+After obtaining an order of stay of the proceeding against it in the Bombay High Court, the Dhan Company made an application under section 442(b) of the Act in the Rajasthan High Court for stay of proceedings against it under section 446(2) on the ground that a compulsory windingup petition was pending against it in the Bombay High Court.	Facts
+The object of the respondent, Dhan Company, appeared to be to obtain an indefinite stay of proceedings against it in both High Courts.	Facts
+If this is a correct inference, as it appears to us to be, the stay application under section 442(b) of the Companies Act could not be a bona fide one.	Facts
+It looks more like an abuse of the processes of the court.	Facts
+It is, therefore, not surprising that the learned company judge of the Rajasthan High Court rejected the Dhan Companys application under section 442(b) of the Act on 9th May, 1974.	Facts
+It is, however, somewhat surprising that a Division Bench of that High Court should have allowed an appeal from the judgment of the company judge and ordered stay of proceedings under section 446(2) of the Act against the respondent, Dhan Company, even though this was subjected to the condition that the appellantcompany produces the entire documentary evidence inclusive of account books, vouchers, files and other documents and papers in its possession or power relating to the claim in question, as it may desire to produce or the official liquidator desires to summon or as the learned company judge may direct in his discretion and also produces a list of witnesses that the appellantcompany may desire to examine in its defence in respect of the claim in question along with an affidavit of what each witness is likely to depose .	Facts
+Thus, the Division Bench had, while making the stay order, attempted to safeguard the interests of the Golcha Company by making an order which, in the opinion of the Division Bench, would prevent valuable evidence from being lost due to either the death or the fading memory of a witness or other causes.	Facts
+Learned SolicitorGeneral, appearing for the appellant, official liquidator of the Golcha Company, gave up the objection, taken in the special leave petition, to the maintainability of an appeal to a Division Bench from the order of the company judge in view of the provisions of section 483 of the Act, which lays down 483.	Arguments of Petitioner
+Appeals from any order made, or decision given, in the matter of the winding up of a company by the court shall lie to the same court to which, in the same manner in which, and subject to the same conditions under which, appeals lie from any order or decision of the court in cases within its ordinary jurisdiction.	None
+2.	None
+The SolicitorGeneral, however, submits that, on merits, the order of the learned company judge, dismissing the application of the Dhan Company for stay of proceedings under section 442(b) of the Act, deserves to be restored as no grounds for interference with the proper exercise of his discretion by the learned company judge existed at all.	Arguments of Petitioner
+We highly appreciate the brevity of this submission, after the SolicitorGeneral had, very rightly and properly, conceded that he could not urge that the Division Bench had no jurisdiction to hear the appeal before it.	None
+No effective answer could be given to the SolicitorGenerals submission by the learned counsel for the respondent.	None
+We will, however, deal with the strenuous arguments advanced on behalf of the respondent even if it be to disclose how untenable they are.	None
+3.	None
+Firstly, learned counsel for the respondent contends that the power to stay proceedings contained in section 442(b) of the Act is bound to be exercised when certain conditions, said to be found in the case before us, are fulfilled.	Arguments of Respondent
+This submission rests on a misapprehension of the object of section 442 which lays down 442.	None
+At any time after the presentation of a windingup petition and before a windingup order has been made, the company, or any creditor or contributory, may(a) where any suit or proceeding against the company is pending in the Supreme Court or in any High Court, apply to the court in which the suit or proceeding is pending for a stay of proceedings therein, and (b) where any suit or proceeding is pending against the company in any other court, apply to the court having jurisdiction to wind up the company, to restrain further proceedings in the suit or proceeding and the court to which application is so made may stay or restrain the proceedings accordingly on such terms as it thinks fit.	None
+4.	None
+The clear object of the section is that claims in suits and proceedings pending elsewhere which have a bearing on the companys liabilities, may be stayed only until the windingup order is made, because after the windingup order has been passed, section 446 begins to operate so as to automatically transfer with certain exceptions proceedings against the company being wound up to the court exercising the jurisdiction to wind it up.	Reasoning
+Section 446 reads 446.	None
+(1) When a windingup order has been made or the official liquidator has been appointed as provisional liquidator, no suit or other legal proceeding shall be commenced, or if pending at the date of the windingup order, shall be proceeded with, against the company, except by leave of the court and subject to such terms as the court may impose.	None
+(2) The court which is winding up the company shall, notwithstanding anything contained in any other law for the time being in force, have jurisdiction to entertain, or dispose of (a) any suit or proceeding by or against the company (b) any claim made by or against the company (including claims by or against any of its branches in India) (c) any application made under section 391 by or in respect of the company (d) any question of priorities or any other question whatsoever, whether of law or fact, which may relate to or arise in the course of the windingup of the company whether such suit or proceeding has been instituted or is instituted, or such claim or question has arisen or arises or such application has been made or is made before or after the order for the winding up of the company, or before or after the commencement of the Companies (Amendment) Act, 1960.	None
+(3) Any suit or proceeding by or against the company which is pending in any court other than that in which the winding up of the company is proceeding may, notwithstanding anything contained in any other law for time being in force, be transferred to and disposed of by that court.	None
+(4) Nothing in subsection (1) or subsection (3) shall apply to any proceeding pending in appeal before the Supreme Court or a High Court.	None
+5. Sections 442 and 446 of the Act have to be read together.	None
+It is only where the object of the two sections, when read together, is served by a stay order that the stay order could be justified.	Reasoning
+That object is to expeditiously decide and dispose of pending claims in the course of windingup proceedings.	Reasoning
+A stay is not to be granted if the object of applying for it appears to be, as it does in the case before us, merely to delay adjudication on a claim, and thereby to defeat justice.	Reasoning
+In other words, a stay order, under section 442, cannot be made mechanically, or, as a matter of course, on showing fulfilment of some fixed and prescribed conditions.	Reasoning
+It can only be made judiciously upon an examination of the totality of the facts which vary from case to case.	Reasoning
+It follows that the order to be passed must be discretionary and the power to pass it must, therefore, be directory and not mandatory.	Reasoning
+In other words, the word may used before stay in section 442 of the Act really means may and not must or shall in such a context.	Reasoning
+In fact, it is not quite accurate to say that the word may , by itself, acquires the meaning of must or shall sometimes.	Reasoning
+This word, however, always signifies a conferment of power.	Reasoning
+That power may, having regard to the context in which it occurs, and the requirements contemplated for its exercise, have annexed to it an obligation which compels its exercise in a certain way on facts and circumstances from which the obligation to exercise it in that way arises.	Reasoning
+In other words, it is the context which can attach the obligation to the power compelling its exercise in a certain way.	Reasoning
+The context, both legal and factual, may impart to the power that obligatoriness.	None
+Thus, the question to be determined in such cases always is whether the power conferred by the use of the word may has, annexed to it, an obligation that, on the fulfilment of certain legally prescribed conditions, to be shown by evidence, a particular kind of order must be made.	Issue
+If the statute leaves no room for discretion the power has to be exercised in the manner indicated by the other legal provisions which provide the legal context.	None
+Even then the facts must establish that the legal conditions are fulfilled.	None
+A power is exercised even when the court rejects an application to exercise it in the particular way in which the applicant desires it to be exercised.	None
+Where the power is wide enough to cover both an acceptance and a refusal of an application for its exercise, depending upon facts, it is directory or discretionary.	None
+It is not the conferment of a power which the word may indicates that annexes any obligation to its exercise but the legal and factual context of it.	None
+This, as we understand it, was the principle laid down in the case cited before us Frederic Guilder Julius v. Bishop of Oxford 1880 5 App Cas 214 (HL).	None
+6.	None
+Dr. Julius, in the case mentioned above, had made an application to the Bishop of Oxford against the Rector of a Parish, asking the Bishop to issue a commission under the Church Discipline Act to enquire against certain unauthorised deviations from the ritual in a Church by the Rector.	None
+The relevant statute merely conferred a power by laying down that it shall be lawful to issue a commission.	None
+The Courts of Queens Bench and of Appeal in England had differed on the question whether a mandamus from the court could go to the Bishop commanding him to issue a commission for the purpose of making the enquiry.	None
+The House of Lords held that the power to issue the commission was not coupled with a duty to exercise it in every case although there may be cases where duties towards members of the public to exercise a power may also be coupled with a duty to exercise it in a particular way on fulfilment of certain specified conditions.	None
+The statute considered there had not specified those conditions.	None
+Hence, it was a bare power to issue or not to issue the commission.	None
+Lord Blackburn said I do not think the words it shall be lawful are in themselves ambiguous at all.	None
+They are apt words to express that a power is given and as, prima facie, the donee of a power may either exercise it or leave it unused, it is not inaccurate to say that, prima facie, they are equivalent to saying that the donee may do it but if the object for which the power is conferred is for the purpose of enforcing a right, there may be a duty cast on the donee of the power, to exercise it for the benefit of those who have that right, when required on their behalf.	None
+Where there is such a duty, it is not inaccurate to say that the words conferring the power are equivalent to saying that the donee must exercise it.	None
+It by no means follows that because there is a duty cast on the donee of a power to exercise it, that mandamus lies to enforce it that depends on the nature of the duty and the position of the donee.	None
+7.	None
+The principle laid down above has been followed consistently by this court whenever it has been contended that the word may carries with it the obligation to exercise a power in a particular manner or direction.	None
+In such a case, it is always the purpose of the power which has to be examined in order to determine the scope of the discretion conferred upon the donee of the power.	Reasoning
+If the conditions in which the power is to be exereised in particular cases are also specified by a statute then, on the fulfilment of those conditions, the power conferred becomes annexed with a duty to exercise it in that manner.	Reasoning
+This is the principle we deduce from the cases of this court cited before us Bhaiya Punjalal Bhagwandin v. Dave Bhagwatprasad Prabhuprasad 1963 3 SCR 312 (SC), State of Uttar Pradesh v. Jogendra Singh 1964 2 SCR 197 (SC), Sardar Govindrao v. State of M.P 1965 1	Reasoning
+SCR 678(SC), A.C. Aggarwal, SubDivisional Magistrate, Delhi v. Mst.	Reasoning
+Ram Kali 1968 1 SCR 205(SC), Bashira v. State of U.P. 1969 1 SCR 32 (SC) and Prakash Chand Agarwal v. Hindustan Steel Ltd.	Reasoning
+1972 2 SCR 405 (SC).In the statutory provision under consideration now before us the power to stay a proceeding is not annexed with the obligation to necessarily stay on proof of certain conditions although there are conditions prescribed for the making of the application for stay and the period during which the power to stay can be exercised.	Reasoning
+The question whether it should, on the facts of a particular case, be exercised or not will have to be examined and then decided by the court to which the application is made.	Reasoning
+If the applicant can make out, on facts, that the objects of the power conferred by sections 442 and 446 of the Act can only be carried out by a stay order, it could perhaps be urged that an obligation to do so has become annexed to it by proof of those facts.	Reasoning
+That would be the position not because the word may itself must be equated with shall but because judicial power has necessarily to be exercised justly, properly and reasonably to enforce the principle that rights created must be enforced.	Reasoning
+8.	None
+In the case before us, the only right which could be said to have been created is the right to get speedier adjudication from the court where the windingup proceeding is taking place.	None
+That is the object of the provisions.	Reasoning
+On facts disclosed in this case, we find that the application seems to have been made with the object of delaying decisions on claims made.	Reasoning
+In such a case, there could be no doubt that the application should be rejected outright as the learned company judge did.	None
+9.	None
+Secondly, an attempt was made to urge that as the power to grant or not to grant or to grant a stay upon certain conditions, assuming the power to be discretionary, is to be exercised by the courts in which that discretion is vested, this court should not interfere with the exercise of discretion by the Division Bench to which an appeal from the order of the company judge lay.	Reasoning
+The effective answer to this contention is that, where the learned company judge had himself exercised his discretion on a correct appreciation of the object of the provisions of sections 442 and 446 of the Act, even though he did not state the object or refer to all the facts, the appellate court should not have interfered by granting a conditional stay without giving sufficient reasons to override the discretion of the learned company judge to refuse stay.	Reasoning
+We think that a questions of general principle arises in this case which has to be clarified so that an interference by this court under article 136 of the Constitution, in order to vindicate a correct principle and to meet the ends of justice, is called for.	Reasoning
+Thirdly, learned counsel for the respondent submitted that the order under appeal before us is not final so that we need not interfere under article 136 of the Constitution for this reason.	Reasoning
+It is true that this court does not, as a rule, interfere with interlocutory orders.	Reasoning
+It is not necessary for us to embark on this occasion on a discussion of the meaning of a final order.	Reasoning
+That is certainly a question fraught with difficulties.	Reasoning
+It is sufficient for us to observe that our powers of interference under article 136 of the Constitution are not confined to those in respect of final orders, although finality of an order is a test which this court generally applies in considering whether it should interfere under article 136 of the Constitution with it.	Reasoning
+We think that we have indicated sufficiently why, despite the fact that an order staying proceedings under section 442(b) of the Act may not, strictly speaking, be final, yet a question of general principle of wide application, as to the circumstances in which an apparently discretionary power may become annexed with a duty to exercise it in a particular way, having arisen here, we consider this to be a fitcase for interference under article 136 of the Constitution.	Reasoning
+10.	None
+Consequently, we allow this appeal and set aside the judgment and order of the Division Bench and restore that of the learned company judge.	Decision
+The parties will bear their own costs.	Decision
+11.	None
+Appeal allowed.	None

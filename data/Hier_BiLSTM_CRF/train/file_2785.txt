@@ -1,0 +1,56 @@
+THOMAS, J. This appeal by special leave is in challenge of and order passed by the Government of India, In exercise of their revisional power under the Customs Act, 1962 (for short the Act).	Issue
+As per the impugned order Government annulled the order p assed by the appellate Collector of Customs in favour of the appellant on 6.12.1978.	Issue
+Facts are, in brief, these Appellant firm ha a factory for manufacturing sewing machines and accessories at Faridabad, with an approved capacity for making both domestic as well as industrial sewing machines Appellant imports components for manufacturing such sewing machines from foreign suppliers.	Facts
+In October, 1977, appellant imported components of industrial sewing machines  rotating hooks complete with bobbin case, some of which required 1/3 H.P. and the others required 1/2 H.P. for their operation.	Facts
+According to appellant such imported components were dutiable at the rate of 40 per cent to customs duty as per item 84.41(1) of the Customs duty in accordance with it.	Facts
+But the Assistant Collector of Customs (Foreign Post), New Delhi charged higher duty by treating those goods as components for domestic sewing machines as prescribed under clause (2) of heading 84.2 of the Schedule.	Facts
+Appellant paid the higher duty under protest and goods released and later applied for refund of the excess amount paid (i.e. Rs.1, 78, 208/).	Facts
+The Assistant Collector rejected the application reiterating that the goods imported were components for domestic sewing machines.	None
+Appellant then filed a statutory appeal before the Appellate Collector of Custom who allowed the appeal holding that the goods imported were not for domestic sewing m achines and as such they were classifiable under item 84.41(1) of the Schedule.	Facts
+Thus the appellant became entitled to refund of the amount paid in excess.	Facts
+But appellant failed to get the refund applied for, inspite of pursuing the applications filed for that purpose.	Facts
+So a writ petition was filed in the High Court of Delhi for appropriate directions.	Facts
+Notice was served on the Central Government.	Facts
+They proposed to review the order for which a notice was given to the appellant to show cause why it should not be reviewed.	Facts
+Appellant submitted its detailed reply.	Facts
+Central Government after hearing the appellant passed the impugned order.	Facts
+Appellate collector concurred with the importers stand that the components were intended for industrial sewing machines on the strength of a variety of reasons and on its own satisfaction when the difference was demonstrated before him, during the time of hearing.	Facts
+He noticed that the rotating book in the industrial machine had higher speed than the domestic sewing machine and if the rotation pin of the industrial sewing machines were to be attached to the domestic sewing machines, it would not withstand the speed and would break.	Facts
+Appellate Collector, therefore.	None
+was convinced that the hooks imported by the appellant were not for domestic sewing machines and were solely and principally for use in machines operated with more than 1/4 H.P. and as such are classifiable under ICT 84.41(1).	Facts
+Government of India differed form the above conclusion, mainly on the premises that (1) the rotating hooks complete with bobbin case find their use in domestic as well as other sewing machines, but their principal use lies in domestic sewing machines, (2) the term sewing machine should have been understood in the manner it is understood in international market trade for purposes of customs classification.	Facts
+and (3) the corresponding heading in the Brussels Tariff Nomenclature (BTN) covers to w types of sewing machines, namely (a) ordinary sewing machines used in homes or by tailors or dressmakers etc (b) special machines which can be used only for certain other kinds of sewing (as enumerated therein).	Facts
+Learned counsel for the appellant contended that the Government of India have gone far beyond its powers in interfering with a fact finding arrived at by the Appellate Collector for which many extraneous materials were improperly used, At any rate the view adopted by the Appellate Collector should have been accepted as a reasonable conclusion on the facts.	Arguments of Petitioner
+According to the counsel.	None
+Item 84.41 of the Customs Tariff Schedule, which was brought into force on 1.1.1977, read thus 84.41 Sewing machines furniture specially designed for sewing machines sewing machines needles (1) Not elsewhere specified  40 (2) Domestic sewing machines  100	None
+If the imported components were for domestic sewing machines then the Central Government is right in insisting on the customs duty realised form the appellant.	Reasoning
+The language in which the item in the schedule is couched indicates that one category relates to a specific specie i.e. domestic sewing machines, and the other is a general category i.e. not elsewhere specified.	Reasoning
+Apparently the burden is on the revenue if they want to include the imported materials within the specific category to substantiate that those materials are such.	Reasoning
+The very licence granted to the appellant contains a description which cannot normally be marginalised in reaching a conclusion on this disputed aspect.	None
+A list of components to be imported during the licensing period is appended with the licence.	None
+It starts with the description that the components are for industrial sewing machines.	Reasoning
+The first item in that list is rotating hooks complete with bobbin case, which is the component involved in this case.	None
+In the letter of Credit, granted by the Foreign Exchange Branch of Syndicate Bank under which the components were imported, the commodities are described as components of industrial sewing machines.	None
+Learned counsel for the appellant produced a letter dated 832.1977, which was addressed to the Collector of Customs and Central Excise, New Delhi, by the Central Board of Excise and Customs, copy of which had been forwarded to the subordinate officers.	None
+the letter contains a reference to the minutes of the conference of Collectors of Customs on tariff classification matters, held in November, 1976.	None
+in which the Board of Central Excise and Customs agreed that the ordinary sewing machines used in the home or by tailors, dressmarkers etc. to be worked by manual labour or which require for their operation less than 1/4 H.P. may continue to be considered as domestic sewing machines whereas industrial sewing machines essentially designed for operation powered by motors of 1/4 H.P. or more would fall outside the scope of term domestic sewing machines.	None
+Much reliance is sought to be made on this circular.	None
+The only conclusion that can be arrived at, if the said circular has any use, is that the imported materials in this case are usable for industrial sewing machines.	Reasoning
+Shri Joseph Vellapally, learned senor counsel who argued for the respondents, contended that classification as for tariff cannot be determined on the basis of what the Collectors of Central Exercise customs or even what the Board of Central Excise and Customs would have thought about it because it is legislative process and its interpretation should be in accordance with law, we cannot overlook the said circular which is, at least, binding on the department as they have made it known binding on the department as they have made it known to all concerned that sewing machines covered by motors of 1/4 H.P. or more would fall outside the scope of the terms domestic sewing machines .	Arguments of Respondent
+It must be borne in mind that the heading concerned in the tariff i.e. 84.41 uses the expression domestic sewing machines and but all the other sewing machines in the residuary category not elsewhere specified.	Arguments of Respondent
+When customs officials themselves have understood that sewing machines designed for operation powered by motor of 1/4 H.P. or more would fall outside the scope of domestic sewing machines, it would be inept to suggest that they should adopt a different stand when mulcting the importer with duty unless there is a judicial pronouncement on the matter.	Arguments of Respondent
+Learned counsel for the respondent invited our attention to a reference made in the universal Encyclopedia of Machines to a (Vol.I) to the effect that the present day domestic sewing machines is usually driven by an electric motor.	None
+Hence it was contended that a particular horse power for the motor attached to the machines may or may not be decisive of the question whether a component is principally used for domestic sewing machines.	Arguments of Respondent
+True the horse power is not the only factor to determine it.	None
+Learned counsel for the respondent invited out attention to a decision of this Court in Nat Steel Equipment Private Ltd. vs. Collecutor of Central Excise, where this Court was concerned with domestic electrical appliances mentioned in explanation of tariff Item 33(c) which was in force at the relevant time.	None
+Their Lordships referred to an earlier decision of t he Gujarat High Court in Viswa Co, vs. State of Gujarat in which Bhagwati, J. (as the learned Chief Justice then was) has observed that to make an electrical appliance a domestic electric appliance what is necessary is that it must be of a kind which is generally used for household word.	None
+But in this case there is no material to show that a sewing machine fitted with the type of components imported by the appellant is generally used in household work.	None
+We find that the observations made by the Special Bench of CEGAT in Para Engineering Works, New Delhi vs. Collector of Customs, New Delhi, as more appropriate to the facts of this case.	Reasoning
+A manufacturer, importing some components of industrial sewing machines with a motor of 1/4 H.P. had to approach the Special Bench as similar question was raised by the custom officials.	Reasoning
+The Tribunal noted that each Bill of Entry pertaining to the import in that case contained reference to the invoices which were properly corelated with the bills.	Reasoning
+Those documents contain the description that the components were for industrial sewing machines.	Reasoning
+Assessment made under a different item inspite of such invoices was held to b e unsustainable.	Reasoning
+The position in this case is almost similar.	Reasoning
+From the above discussion we come to the conclusion that Government of India have wrongly exercised revisional powers by interfering with the decision of the appellate Collector.	Reasoning
+We, therefore, allow the appeal and set aside the impugned order.	Decision
+There shall be no order as costs.	Decision

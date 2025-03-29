@@ -1,0 +1,452 @@
+ B. Sinha, J The core question involved in this appeal is the effect of the application of internal circulars issued by the Department of Telecommunications (DOT) in the contracts entered into by and between the parties hereto in respect of as regards interconnection links provided by it.	Issue
+Civil Appeal Nos. 63416342 of 2003, 1 of 2004, 537 of 2004 and 2015 of 2004 involve the question of payment of charges.	Facts
+Civil Appeal No. 6375 of 2003 involves the question as to the effect of premature surrender of fifteen leased circuits of 2 MBPS which had been obtained by BPL from DOT during the period January 1997 to June 1998.	Facts
+Civil Appeal No. 3448 of 2006 involves a dispute in relation to minimum guarantee period for 2 MBPS leaded lines.3.	Facts
+Judgments were delivered by the Telecom Disputes Settlement and Appellate Tribunal, New Delhi (TDSAT) on various dates, viz., 1.04.2003, 17.02.2003, 8.09.2003 and 3.03.2006.4.	Facts
+Before, however, we consider the views taken by the Tribunal, we may notice the facts involved in each of the case separately.	Facts
+Civil Appeal Nos. 634142 of 2003DOT circulated a booklet commercial information on leased circuits clearly providing for that the rent and guarantee charges for leased circuits would be on capital cost basis and only after the guarantee period has expired, it would be on capital cost or flat rate whichever is higher.	Facts
+Clause 7.0 of the said booklet provides for rent and guarantee charges to the following effect 7.0 R G Charges.	Facts
+R G charges (per annum) will be levied on percentage basis of the capitalcost for cable system.	Facts
+After the expiry of RG period standard flat rate rental or rental calculated on capital cost basis (whichever is higher) shall be levied.	Facts
+A specific hiring contract will be executed with the Guarantor (Subscriber).In contributory works the installation and maintenance charges are levied on percentage of capital cost of the Apparatus and Plant.	Facts
+Contribution Works has been defined in the Posts and Telegraphs Financial Handbook as under(xi) Contribution Works  	Facts
+This term is applied to works of construction or repair the cost of which is met, not out of funds of the Department, but out of funds supplied by private persons, local bodies, other Government Departments, etc.	Facts
+Respondents herein are providers of cellular mobile services.	None
+They did not have the requisite infrastructure.	Facts
+DOT had the requisite infrastructure to provide interconnecting links circuits and other resources.	Facts
+Respondents entered into a licence agreement with the Government of India for operating providing cellular services in the State of Kerala.	Facts
+Similar agreement were entered into for interconnection links in other parts of the country.	Facts
+Basically we are concerned with Clause 4.1 of the said agreement, which reads as under The resources required for operation of the services for extending them over the network of the DOT and MTNL and any other service provider licensed by the Authority will be mutually agreed between the parties and shall be listed.	Facts
+The resources may refer to include but not limited to physical junctions, PCM derived channels, private wires, leased lines, data circuits, other communication elements.	Facts
+The Licensee shall apply for and obtain from the DOT the determined resources.	Facts
+The operation and charge of the traffic passed through these resources shall be treated on the basis of the prevalent rules and the guidelines of the DOT on the subject.	None
+Allegedly, pursuant to the instructions issued by the DOT, the respondents imported equipment worth Rs. 30 lakhs.	None
+The said equipments were to be installed.	Facts
+The DOT issued a letter on 2.08.1996 stating that such equipments could be installed and, furthermore, suggested that the required digital microwave equipment should be installed on contribution work basis.	Facts
+However, it is beyond any cavil of doubt that owing to resistance to the said move and resorting to strike by the employees of DOT, the respondents were not allowed to install the imported equipments in their premises.	Facts
+It is stated that the said equipments went waste.	Facts
+By a letter dated 27.09.1996, the DOT communicated that the charges for interconnection of cellular mobile telephone network would be calculated as per standard DOT terms.	Facts
+Although it had earlier been communicated that the respondent could put up its own equipment under contribution work basis, it was to be allowed to take the equipment on rent and guarantee basis.	Facts
+The rent and guarantee period was for ten years.	Facts
+Pursuant to and in furtherance of the said lease agreements, the DOT installed the required equipment and raised bills on the capital cost basis of the equipment.	Facts
+One of the sample bills, which had been raised being Bill dated 5.06.1998, is as under Government of IndiaDepartment of TelecommunicationsThiruvananthapuram Telecom DistrictTelephone No.	Facts
+Consumer No.	Facts
+Bill No. PageBPL Cellular Mobile SVCBILL DATE BPL US West Cellular Communication Services Ltd.17.7.98	Facts
+IVth floor, CoBank Towers, P.O. StampPalayam, TVMDUE DATE31.7.98PAY BY DATE RENTAL FROM 7.2.98 TO 6.2.995.8.98 CALLS FROM TOOPENING CLOSING METERED CREDIT DEBITFREEMETER RDG METER RDG CALLS CALLS CALLSCALLSRent for the 20 pr PCM cable RENTAL 1,05,315 providedFor extending one 2 MB stream fromHotel Sibra, MC Road to MC xgeMETEREDCALLSEgpt  61525 TRUNK CALLSCable  43790 OVERSEASCALLSPHONO GRAMSRent for end link at TVM. Pl.	Facts
+Note DEBITS	Facts
+TAXESthis is due from Feb. 98.	Facts
+Bill is GROSS AMT.raised only now Sd  27/7 CREDITSPayment approved Amount payable 1,05,315Sd  on or beforeL. HERBERT 5.8.98Head Network Surcharge 2000For delayedPaymentAmount payable	Facts
+1,07,315if paid on or after6.8.98ArrearsSd ACCOUNTS OFFICER(TR)	None
+Indisputably, the Telecom Regulatory Authority of India (TRAI) issued a tariff order covering the situations where lease circuits were required to be provided.	Facts
+In the said tariff order, the tariffs were applicable with effect from 1.04.1994.	Facts
+Moreover, these rates were applicable only if the leased circuits are provided through utilization of spare capacity.	Facts
+It was further held that where lease circuits were not available, as in the present case, and the leased circuits had to be installed, the charges would be on rent and guarantee basis.	Facts
+The said tariff order was to have a prospective operation.	Facts
+As regards the prevailing tariffs, it was expressly provided that the tariffs specified in the tariff order would replace the existing tariff from the date of implementation, which was 1.04.1999.	Facts
+The said tariff order was issued under Section 11(2) of the TRAI Act, 1997.	Facts
+Indisputably, the amount charged by the DOT on an annual rental basis for the systems rented out to the respondents was higher than the rates prescribed in the tariff order.	Facts
+DOT issued a circular dated 13.04.1999 that the tariff order would not be applicable to old cases under rent and guarantee basis.	Facts
+On or about 7.05.1999, DOT informed the local office that the charges which should be billed against the respondents should be as per the standard DOT terms, i.e., either on capital cost basis or flat rate basis, whichever is higher.	Facts
+It is on the said premise, the bills were raised on flat rate basis, the effect whereof, as contended by the respondents, is that they were required to pay annual rent of Rs.	Facts
+1,62,50,000/ as against the prevailing annual rent of Rs. 39,87,762/. Such demands admittedly were raised only in the State of Kerala and nowhere else in the country.	Facts
+Such additional demands were raised on the service providers.	Facts
+A large number of correspondences passed between the parties.	Facts
+However, we may notice that by a letter dated 19.08.1999, DOT stated that a sum of Rs.5,77,025/ per annum should be paid by the respondents.	Facts
+A detailed calculation was also submitted therewith.	Facts
+The said computation was accepted by the respondents.	Facts
+However, according to the appellant, the demand was wrongly made at Rs.15,00,000/ per annum as against the said demand of Rs.5,77,025/. Questioning the basis for making such demands, a writ petition was filed.	Facts
+However, ultimately the same was withdrawn.	Facts
+Respondents filed an application in terms of Section 14 of the TRAI Act before the TDSAT inter alia on the premise that the flat rate basis purported to be in terms of the internal circulars having no force of law, the same could not have been the basis for making the demands.	Facts
+It, inter alia, prayed for the following reliefs Set aside the revised demand raised by the DOT Respondents on flat rate basis instead of on capital cost basis as originally charged.(b) Direct the respondents to give retrospective effect to AnnexureX i.e. DOTs new Tariff Circular 4/99 dated 13.4.99 so as to make it applicable to leased circuits commissioned under RG basis prior to 1.4.99 also(c) Direct the respondents to pay damages for the loss sustained by the petitioner due to wasting of the NOKIA SDH Optimux equipment worth Rs. 30 lacs The said applications have been allowed by reason of the impugned orders.	Facts
+Civil Appeal No. 6375 of 2003The lease agreement in this case allegedly was to be for a minimum period of three years.	Facts
+The dispute in this case relates to premature surrender of 15 leased circuits of 2 MBPS which had been obtained by the respondent from DOT during the period January 1997 to June 1998.	Facts
+Whereas the contention of the appellant is that the minimum period during which such lease agreement has to be entered into is three years, according to the respondent, such a stipulation was not known to them till 26.11.1998 and the same was not also indicated in the booklet of DOT, viz., Commercial Information on Leased Circuits.	Facts
+It was furthermore contended that the internal circulars could not have the force of law.	Facts
+Civil Appeal Nos. 537 of 2004 and 2015 of 2004C.G. FAXEMAIL (P) Ltd. is an email provider.	Facts
+For its commercial services, it had secured leased data circuits.	Facts
+A meeting of Email Service Operations was held with the Chairman of Telecom Commission on 29.01.1996 to discuss various issues relating to email services, the minutes whereof were issued on 02.02.1996.	Facts
+The minutes relating to the relevant item reads as under Item No. 1EMail service providers are charged two times the rental of the pointtopoint circuit which is exorbitant.	Facts
+It is not economically viable to provide the services at such high tariff of the leased circuits.	Facts
+DecisionIt was informed that a Committee headed by Sr. DDG(CS) is deliberating the tariff structure for CUG networks.	Facts
+The Committee has been asked to take care of the issue and give an early recommendation.	Facts
+Action Sr.DDG(CS) Respondents herein filed applications before TRAI as the rates which were being charged from them have been doubled, inter alia, on the premise that they come within the purview of close user group service.	None
+It came to the conclusion that the service provided by the respondents does not come within the purview of close unit group service, stating The DOT, vide their letter No.10610/94PHC dated 13.7.1995 had issued an order stating that the leased lines in respect of the networks set up by licensees of Value Added Services will continue to be charged at a rate, which was double the rate applicable for point to point leased circuits of all types.	Facts
+There is no doubt that Email services fall under the category of Value Added Services and as the rental charge for leased circuits provided to the network providers of valued added services had been fixed by the DOT in their order dated 13th July, 1995, we come to the conclusion that leased circuits for Email providers has been charged correctly as per the extant orders.	Facts
+While holding the view, however, we are constrained to take adverse notice of the fact that the respondents R1 and R2 did not refer to proper documents and that too even after repeated queries from the Bench.	Facts
+Having found so, however, the members came across two circulars being dated 13.7.1995 and 22.11.1996 and placed the matters for further hearing.	Facts
+Relying on the said circulars, the TRAI held After the hearing was over, we came across certain documents filed by the DOT in an earlier petition clearly indicating that value added network licensees, which included E mail licensees, were to be provided leased circuits.	Facts
+We then decided to call for a rehearing on this issue and placed the documents on record.	Facts
+These documents are of July 13, 1995 and November, 21, 1996 bearing Nos.10610/94PHC and 1164/95PHC respectively.	Facts
+During the rehearing, the respondents accepted that the charging of double the rental for the leased circuits, provided to the Email network licensees, was based on the documents referred to above and not on the basis of their earlier interpretation of Email as being a CUG network.	Facts
+The petitioners argued that since the respondents had, in their rejoinder, interpreted Email as a CUG network, which according to them was wrong, the respondents cannot be allowed to claim double rental on grounds of another order which they failed to refer during the first hearing.	Facts
+The respondents, however, argued that even though they had earlier taken the stand that Email service was to be categorized a CUG network, they had also referred to various orders issued by the DOT and a close reading of the same would bring out the fact that the multiplication of rentals, provided for data circuits, had been in existence from 1989 itself.	Facts
+It was opined that they fall in the category of Value Added Service.	None
+An appeal was preferred thereagainst before the Tribunal which has been allowed, opining After going through the pleadings and the documents produced we have no doubts in our mind that the Respondents do not have much of a case.	Facts
+Admittedly under the terms and conditions of the licences held by them the Appellants are under an obligation to pay for the resources admitted as per the rates fixed by the Respondents.	Facts
+However, in the absence of a specific contract drawn up between both the parties to lay down specifically the resources to be obtained and the precise charges to be paid by them, one has to rely upon knowledge as may be available in public domain and on documents exchanged between the parties, viz., requests for making available certain resources and the demand notes subsequently raised by the provider of resources.	Facts
+It is an admitted fact, and it has not been contested by the Respondents, that the documents relied upon for charging double the rental were internal circulars which were not gazetted and hence not in public domain.	Facts
+The Commercial Information on Leased Circuits, which was a published documents of Dot made available to all the allottees of leased circuits and hence very much in public domain, did not contain any provision under which EMail Service Providers were to be charged double the normal rent.	Facts
+Even if it is assumed that the Appellants were aware of a particular circular issued in 1993 it cannot be stretched to argue that they were aware of all the internal circulars of DoT on this subject.	Facts
+We have verified from copies of the demand notes raised by the Respondents in response to the requests received from the Appellants that the initial demands were in conformity with the rates and tariff as indicated in the brochure Commercial Information on Leased Circuits.	None
+Civil Appeal No. 3448 of 2006Respondent herein requested DOT to provide land distance lease line on 12.8.1996 for one year.	None
+It was also stated that further period of extension will be intimated in advance.	Facts
+On or about 21st September, 1996, a request was made for extension of the said period for one year.	Facts
+Demand was made for one year only by a bill dated 26.11.1996 for Vijaywada to Hyderabad long distant charges and on 24.12.1996 for Vijaywada to Vishakhapatnam.	Facts
+The contract was, thus, concluded.	Facts
+The demands were duly paid by the respondent on 9.1.1997 and 26.12.2005.	Facts
+Various extensions were sought for only after expiry of one year.	Facts
+Those extensions were granted by DOT even on 14.9.1998.	Facts
+The details of infrastructure leased from DOT with their validity were sent.	Facts
+However, some leased lines were surrendered by the first respondent.	Facts
+Indisputably, for the first time on 13.10.1998, the DOT intimated the respondent that the minimum guarantee period was three years.	Facts
+For the said purpose, reliance was placed on internal circulars letters dated 23.6.1995.	Facts
+Bills were raised only on 20.10.1998.Civil Appeal No. 1 of 2004This case also involves the question of payment of charges as in the case of Civil Appeal No. 634142 of 2003.	Facts
+We, therefore, need not deal with the facts of this case.5.	Facts
+The main judgment was delivered by the TDSAT in Petition Nos. 13 and 16 of 2001.	Facts
+It was held The main issue agitated before the Tribunal was whether there were clearly understood contractual terms existing between the Petitioners and the Respondent for computation and calculation of annual rents payable by the Petitioners to the Respondent for facilities availed of by the Petitioners.(ii)	Facts
+An appraisal of the averments and arguments preferred by both the parties does not support the contention of the Respondents that the Petitioners were fully aware of the internal circulars and orders of DoT regarding the manner of calculation of rental for leased circuits under the Rent and Guarantee Scheme.(iii)	Facts
+The Telecommunication Manual and various other related office circulars and orders are basically for internal and official use and unless the relevant contents thereof are specifically made known to parties through agreements and or contracts it cannot be presumed that these are generally known to them.	Facts
+We have no evidence on record to indicate that the Respondent had informed the Petitioners in categorical terms that in terms of the departmental rules and regulations in force, the basis of calculation of annual rentals on RG basis would be either capital cost or flat rate, whichever is higher.(iv)	Facts
+If the department itself was oblivious of the procedural rules it had framed for its own functioning it was somewhat optimistic to presume at a later stage that the Petitioners knew of them.(v)	Facts
+We also see considerable merit in the argument of the Petitioners that nonstatutory office orders and rules cannot be superimposed on the statutory undertakings given by the Petitioners as a part of the licensing conditions under the Indian Telegraph Act and Rules framed thereunder.(vi)	Facts
+For the enforcement of such nonstatutory office orders and rules and make these binding, it would be necessary to draw up specific contracts giving in clear and unambiguous details all the terms and conditions and the responsibilities and obligations of both the contracting parties.(vii)	Facts
+As a result of what we have discussed above we hold that the action of the Respondent in revising the demands after a period of two years in respect of what were practically existing concluded contracts between the Petitioners and the Respondent was neither legal nor proper.	Facts
+The Respondent would recompute the impugned Demand Notes on the basis of existing concluded contracts at prerevised rates.	Facts
+On the findings in the said case, the TDSAT in other cases also opined that internal circulars would have no effect on the term of the concluded contract.7.	Facts
+Indisputably, the matter relating to laying down of the telegraph lines and providing phone connections including mobile is governed by the provisions of the Indian Telegraph Act, 1885.	Facts
+The said Act was enacted to amend the law relating to telegraphs in India.	Facts
+Section 7(2)(ee) thereof reads as under (ee) the charges in respect of any application for providing any telegraph line, appliance or apparatus.	Facts
+Indisputably, in exercise of its power conferred upon it under Section 7 of the Indian Telegraph Act, the Central Government framed rules known as the Indian Telegraph Rules.	Facts
+Rule 434 provides for annual rental charges for private wires and nonexchange lines which prescribes a minimum period of hire of three years.	Facts
+The relevant portion of Rule 434 reads as under Section IX.Charges for Private WiresAnnual Rental1.(a)	Facts
+Internal Private Wires Rs.	Facts
+400(b) External private wires Rs.	Facts
+Fifteen hundred (with or without relay set) per kilometer chargeable distance per annum per pair.	Facts
+Provided that in the case of private wires exceeding five kilometers of chargeable distance, the minimum period of hire shall be 3 years and the security for the service shall be regulated under Rule 445 and obtained from the subscriber before the provision of the service.2. Omitted.3.	Facts
+The chargeable distance of External Private Wires shall be 1.25 times of the radial distance between the two points to be connected.4.	Facts
+Rental for Private Wires given on casual basis for short periods shall be levied on pro rata basis at one and a half time the rates of rentals prescribed in Subsection 1 above.	Facts
+The minimum period of hire should be one month.	None
+Section X.Charges for NonExchange LinesAnnual rental1.	None
+Annual rental per pair Rs.	Facts
+Fifteen hundred per Kilometer of chargeable distance.	Facts
+Provided that in the case of nonexchange lines exceeding five kilometers of chargeable distance, the minimum period of hire shall be 3 years and the security for the service shall be regulated under Rule 445 and obtained from the subscriber before the provision of the service.2. Omitted.3.	Facts
+Omitted.	Facts
+NOTE 1.  	Facts
+The chargeable distance shall be 1.25 times of the radial distance.	Facts
+NOTE 2.  	Facts
+The above rentals will apply in case of NonExchange lines or Private wires falling within the local area of a Telephone system, even if they exceed sixteen kilometers in length by the shortest practicable route see also Rule 494 (1) and the note thereunder.	None
+Rules 475A, 478, 498 of the Indian Telegraph Rule reads as under 475A Notice of surrender of leased Telegraph Speech Circuits Before surrendering the leased Telegraph Speech circuits and terminal equipments, the party concerned shall give notice to the controlling billing authority to not less than thirty days.478.	None
+Quoting of rentals.(1)	Facts
+The rental for the exclusive use of the circuits shall be quoted at the rates then in force.(2) Where the circuits are provided by utilizing the installations, existing at the time of the application, flat rate of rentals based on radial distance shall be charged for a period of not less than three months (hereinafter referred to in this Part as the minimum guarantee period.	Facts
+XXX XXX XXX498.	Facts
+Parttime use.(1)	Facts
+A telephone circuit, if available as spare, may be leased to Newspaper Establishments or News Agencies for parttime use between 7 p.m. and 7 a.m.(2)	Facts
+The charges for the circuit provided for under subrule (1) shall be one half of the charges specified in clause (a) of subrule (1) of Rule 496.(3) Junction line between Private Exchange or Private Branch Exchanges shall not be leased on parttime basis.	Facts
+DOT had issued a circular letter dated 18.2.1991 stating Revision of percentage of rental in Rent and Guarantee cases  Rule 144 of PT Manual, Vol.	Facts
+XII, Part  I may kindly be referred to wherein rental for cables laid down in rent and guarantee basis to be charged at 18 of the capital cost or at the standard rates applicable to private wire, whichever is higher.	Facts
+The period of guarantee has been mentioned as 10 years.	Facts
+This percentage of rental probably consist of 10 depreciation (considering recovery of the cost of cable in 10 years), 7 interest and 1 maintenance.	Facts
+Now Rates Section increased the rate of interest from 7 to 10 applicable with effect from 141990.	Facts
+It is necessary that R G rental must be revised to prevent loss of revenue to the Department Indisputably, DOT had issued office order bearing No. 1/96 dated 30.01.1996 wherein it was inter alia provided The question of fixing the tariff for 34 Mbps Data circuits on Digital Media was under consideration by the Telecom Commission for some time.	Facts
+It has now been decided to fix the following tariff for 34 Mbps data circuits on Digital Media.	Facts
+These tariff will be applicable for both the national circuits and national leg of international circuits In the said circular letter, as regards tariff, it was stated IV.	Facts
+These rates will be applicable only if the circuits are provided with existing assets of the Department.	None
+In cases where new construction or installation is involved for whole or part of the circuits the rental will be calculated either on special rates taking into account the cost of construction and other relevant factors or on flat rate basis whichever is higher.	Facts
+V.	Facts
+The terminal equipment will be on RG basis, if provided by the Department.	Facts
+VI.	Facts
+The above rates will apply only if the entire 34 MBs stream is lead into DOT equipment.	Facts
+If separate streams of 64 KBps 2MBps 8 MBps are taken, the tariff applicable as for 84 KBps or 2 MBs or 8 MBs as the case may be for each system will apply.	None
+The said circular letter is not a part of the Telecommunication Manual which has been used only for official use.	None
+A copy corrected upto April, 1986 is available on records.	Facts
+They are loosely called as Rules although they do not have any statutory force.11.	Facts
+Rule 237 of the Telecommunication Manual reads as under There may be cases where telephone facilities are requisitioned and the cost of such installations is abnormal such as the opening of a telephone connection for a police station at the instance of the State Government in a remote locality, requisition of nonexchange lines outside the local area, trunk lines, PBX etc. by the Defence authorities, requisition of Public Telephones, PBXs etc.	Facts
+by private bodies for their own needs etc.	Facts
+In such cases, standard flat rates may be economical and with a view to ensure that the department gets a fair minimum return for the capital invested, rent is fixed on capital cost basis.	Facts
+In such cases guarantee is taken from the party that he will retain the facilities for a specified period at a specified rate of rental.	Facts
+In all such cases, standard flat rates are also calculated and whichever rate is higher is quoted to the party unless it is definitely laid down that standard flat rate should be charged.	Facts
+Yet again, an internal circular appears to have been issued on 3.11.1993 wherein it was laid down The above rate will be applicable	None
+only if the circuits provided with the existing long distance system of the equipment	None
+.	None
+In cases where new construction or installation involved for the whole or part of the circuit (including lead), the rental will be calculated either on special rate into account the cost of construction and other relevant factors, or on flat rate basis as above, whichever is higher.	Facts
+Besides the aforementioned, some commercial information on lease circuits has also been published in terms of Clause 7.0 of the booklet, as noticed hereinbefore.	Facts
+In Swamys Treatise on Telephone Rules under the Chapter Telecommunication Facilities on Rent and Guarantee Basis, it has been stated The Department is providing certain telecommunication facilities on the basis of a minimum period of hire.	None
+In respect of certain facilities provided at the request of the public, rent is chargeable at special rates.	None
+It will be calculated both at standard rates and on the basis of the capital cost and higher of these two amounts will be charged.	None
+Such services will have to be guaranteed for the minimum periods at the scale prescribed Rule 206 of Telecom Manual, Volume XII, Part I (Fourth Edition, 1986).	None
+Mr. Vikas Singh, learned Additional Solicitor General appearing on behalf of the appellants, would submit(i)	Arguments of Petitioner
+The Rules framed under the Indian Telegraph Act are binding on the service providers.(ii)	Arguments of Petitioner
+The lease agreement entered into by and between the parties having categorically provided that circular letters would be applicable as regards demand of the payment on flat basis being higher than the rent and guarantee (for short R G), the impugned judgment is not sustainable.(iii) From the Minutes dated 2.02.1996, it would appear that the licensees were aware of the existing circular orders.	Arguments of Petitioner
+Furthermore, although the official books are for internal use, they are available in the market having been published under the name of Swamys Treatise on Telephone Rules.(iv)	Arguments of Petitioner
+If under the contract, the BSNL was entitled to charge a higher amount, the impugned judgment is wholly unsustainable.(v)	Arguments of Petitioner
+The question is not whether the circulars have the statutory force or not but a perusal of the licence agreement would clearly go to show that the licensees agreed to pay the tariff as prescribed by DOT.(vi)	Arguments of Petitioner
+In view of clauses 4.1 and 19.5 of the licence agreement, it must be held that the prescribed rate and period would mean that as prescribed by the authorized officer of DOT from time to time.(vii)	Arguments of Petitioner
+The licencees entered into contracts with their eyes wide open and in that view of the matter as rates have been fixed by the circulars, the same are only required to be forwarded to the Bill Department so that they can raise bills in terms thereof.(viii)	Arguments of Petitioner
+In terms of the circulars, revision of rates were to be carried out by the concerned departments as would appear from the circular Nos.431/86(R(Pt) dated 17.6.1988, 24I/87PHC (Pt) 8 dated 13.11.1988, 12/89R pt dated 18.2.1991, 411/90R dated 30.9.1991	Arguments of Petitioner
+and 411/90R dated 1.4.1992 and as the respondents had been paying on the basis thereof, they cannot now be permitted to approbate and reprobate.(ix)	Arguments of Petitioner
+In regard to the minimum guarantee period, it was submitted that the agreement refers to the Rules and the circulars.	Arguments of Petitioner
+The circular dated 26.11.1988 provides that it would be for a period of three years.	Arguments of Petitioner
+The same was, however, later on reduced to one year.	Arguments of Petitioner
+But the circular dated 26.11.1998 provides that the minimum period would be for three years.	Arguments of Petitioner
+But the same has been related back to 1988.	Arguments of Petitioner
+Drawing our attention to the Resolutions dated 26.11.1998, the learned counsel would contend that the respondents were aware of the said circulars and had been acting thereupon.	Arguments of Petitioner
+In any event, the contract having been entered into in December 1995, the 1988 circular must be held to have been known to them.	Arguments of Petitioner
+Our attention in this behalf has been drawn to the stand of the DOT in response to the legal notice issued by the respondent which is to the following effect Hiring of any facility by a customer from the Department of Telecom is basically governed by certain terms and conditions such as payment of rent at prescribed rate and hiring the service facility for a minimum period.	Arguments of Petitioner
+This is generally known as terms and conditions of the hiring contract.	Arguments of Petitioner
+It may please be noted that for each and every facility provided by DOT to a customer, a minimum period of guarantee is invariably laid down, the duration of which ranges from three months to three years in the case of facilities provided by utilizing existing assets., i.e., without any new construction.	Arguments of Petitioner
+The minimum period of guarantee thus fixed for 2 Mb circuit is three years.	Arguments of Petitioner
+Even as late as on 15.4.1998, DOT has reiterated this position in its order No.1067.94PHC dated 15.4.1998.	Arguments of Petitioner
+There is no order till date amending revising this provision.	Arguments of Petitioner
+Since you had cited DOTs order 12.10.99, I did go through the same in detail with a view to find out whether it contained at least an indirect hint to indicate that there was no necessity to prescribe a minimum period of lease line beyond either three months or one year, as pointed out by you.	Arguments of Petitioner
+There are no such indications in these orders as claimed by you and resultantly I would like to make it clear in unequivocal terms and as of date the minimum period of hire for a 2 Mbps circuit, the provision of which does not involve new construction, is three years only and in case the line is surrendered by the hirer before the expiry of this minimum period, he is bound to pay rent for the unexpired minimum period of hire.	Arguments of Petitioner
+Your contention that when the requests for leasing the lines were made, demand notes were issued for paying one years rental and M s BPL cellular was not told at that time that they should keep these leased lines for a minimum period of three years also does not appear to be correct.	Arguments of Petitioner
+Normally when a demand is received for any facility, the terms and conditions are quoted to the prospective customer and only after his acceptance of the same, steps to provide the facilities are taken.	Arguments of Petitioner
+If in any exceptional case this procedure had not been followed in respect of M s BPL, it may be due to the pleading of urgency and pressure exerted by them on the respective SSA Heads for early provision of the facility, relegating the requirement of observe the prescribed procedure to a secondary stage and out of goodwill the SSA Heads might have obliged.	Arguments of Petitioner
+Even in that case, the presumption is that the hirer is aware of the commercial conditions of hiring the circuits.	Arguments of Petitioner
+Thus, it does not exempt M s. BPL from the fundamental tariff rules that prescribe a minimum period hire and payment of rent for the unexpired portion.	Arguments of Petitioner
+Mr. Shyam Divan, learned senior counsel appearing on behalf of the respondents, on the other hand, would, on the other hand, submit that the parties entered into the agreement having regard to the commercial representations made to them by DOT wherefor a booklet has been issued.	Arguments of Respondent
+It was furthermore submitted that the parties were given options, viz., (i) the licensees could purchase equipments and install the same or take lease of the equipments installed by DOT on (a) flat rate basis or (b) on capital cost (ii) the parties have entered into the agreement on the premise that the charges will have to be paid on rent and guarantee basis.	Arguments of Respondent
+The subsequent stand taken by the appellants herein to raise demands on enhanced basis relying on or on the basis of the internal circulars is wholly unsustainable.	Arguments of Respondent
+Strong reliance in this behalf has been placed on Sri Dwarka Nath Tewari and others v. State of Bihar and others AIR 1959 SC 249 , Life Insurance Corporation of India v. Escorts Ltd. and Others (1986) 1 SCC 264 and Delhi Development Authority and Another v. Joint Action Committee Allottee of SFS Flats and Others (2008) 2 SCC 672 .	Arguments of Respondent
+DOT of Government of India had the monopoly of providing telecommunication services.	None
+Indian Telegraph Act was enacted for the said purpose.	None
+The rights and liabilities of the parties have been laid down under the Act as also the Rules framed thereunder.	None
+A contract may be entered into, subject to the provisions of a statute or the rules framed thereunder.	None
+The contract, itself, may refer to the statutory provisions or refer the same by way of incorporation by reference.	None
+A contract qua contract, however, must be consensual.	None
+It must meet the statutory requirements and reasons under the provisions of the Indian Contract Act.	Reasoning
+When a contract is entered into by and between the parties, what is determinative is enforcement of the terms and conditions to be governed by the contract, subject, of course, to the application of the statute and statutory provisions.	None
+Whereas a statutory contract would be governed by a statute, other contracts would not.	None
+It is in the aforementioned context, the questions posed herein before us must be determined.	None
+For the aforementioned purpose, we may begin with the interpretation of Clause 4.1.	None
+We have noticed hereinbefore that two options were available to the respondents who intended to operate and or provide cellular services in the State of Kerala, viz., (i) buying of equipments and installing them, or (ii) DOT may install the equipments which may be licensed to the cellular service providers on rent and guarantee charges.	None
+Clause 4.1 of the licence agreement inter alia states that (i) resources must be identified and (ii) the area of operation should be mutually agreed to between the parties.	None
+It also deals with what would be included in the said provision.	None
+The last part of the said clause speaks about the operation and charge of the electronic tariff passed through these resources.	None
+It does not cover the charges for resources equipments.	None
+It does not take within its umbrage the system itself.	None
+The tariffs in regard to equipments are, therefore, not governed by the said clause.	None
+What it envisages may be call charges being the operation and charge of traffic passing through the resources.	None
+If that be so, the question of raising any demand on the basis of the circular letters did not arise at all.	None
+For the purpose of determining the questions involved in the present appeals, we may ignore the fact that pursuant to or in furtherance of the negotiations held by and between the parties, the respondents imported equipments but, for one reason or the other, as noticed hereinbefore, the same could not be installed.	Reasoning
+However, the DOT in its letter dated 30.09.1996 categorically stated that it could put up its own equipments under contribution work basis, which would mean that the charges would be on the basis of capital cost.	Reasoning
+In view of the aforementioned representations made by the DOT, the respondents had agreed to take the equipment on rent and guarantee basis which was itself calculated on capital costs.23.	Reasoning
+We are, furthermore, not concerned with the tariff order issued by TRAI.	Reasoning
+What, however, may be noticed is that even the tariff order provides for a lower tariff than the agreed rate.	Reasoning
+It will not be out of place to notice the following chart for the purpose of appreciating as to what was the agreed rate on the rent and guarantee on capital cost basis and what has been demanded Name of Date of Agreed rate Wrongly RevisionPOI commission in (rent demanded rent as g guarantee rate (RG percentage on capital flat rate of rent on cost basis) basis) per capital cost per annum annum (in (in rupees) rupees)	None
+Cochin 06.12.96 20,53,048	None
+51,00,000 248Trivandrum 07.02.97 1,05,315 15,00,000 1428(per 2 MBstream per annum)Calicut 05.08.97 3,97,800 15,00,000 377(per 2 MB stream per annum)Thrissur 07.02.97	None
+1,38,700 6,50,000 1081 (per 2 MB stream)Kottayam 06.11.97 5,77,025 15,00,000 260 (per 2 MB stream)Palakkad	None
+01.06.98 1,76,023 15,00,000 852 (per annum per 2 MB stream)Kannur 16.10.97 1,94,665 15,00,000 769 (per annum per stream)Kollam 31.12.97 1,24,734 15,00,000 1209 (per annum per stream)Alleppy 12.01.99 2,20,452 15,00,000 682 (per annum per stream)	None
+Such a huge difference in the contractual rate and the demand on the flat rate could be made provided the contract provided therefor.	None
+The difference admittedly was based upon the internal circular letters.	None
+They might have been published by some publisher but indisputably they are not statutory in nature.	None
+They have not been framed under any statute.	None
+The Indian Telegraph Act or the Rules framed thereunder do not provide for issuance of such circulars.	None
+The circular letters collected at one place are loosely called rules.	None
+They, as noticed hereinbefore, are meant for office use only.	None
+The directions contained in the said circular letters are relevant for the officers who are authorized not only to grant licences but also enter into contracts and prepare bills.	None
+The circular letters having no statutory force undoubtedly would not govern the contract.	None
+If some authorities have violated the terms of the said circulars, they might have committed misconduct, but when a contract is entered into, the parties shall be bound thereby.	None
+In Sri Dwarka Nath Tewari (supra), this Court held 9	None
+It is clear, therefore, from the portion of the preface extracted above, that Article 182 of the Code has no greater sanction than an administrative order or rule, and is not based on any statutory authority or other authority which could give it the force of law.	None
+Naturally, therefore, the learned SolicitorGeneral, with his usual fairness, conceded that the article relied upon by the respondents as having the force of law, has no such force, and could not, therefore, deprive the petitioners of their rights in the properties aforesaid.	None
+In Life Insurance Corporation of India v. Escorts Ltd. and Others (1986) 1 SCC 264 , the case involved the interpretation of Section 29(1) (b) of the Foreign Exchange Regulation Act.	None
+It was argued that according to paragraph 24A.1 of the Exchange Control Manual the same would be binding upon the Reserve Bank of India.	None
+Negativing the said contention, this Court observed There is no force whatever in this part of the submission.	None
+A perusal of the Manual shows that it is a sort of guide book for authorised dealers, money changers etc.	None
+and is a compendium or collection of various statutory directions, administrative instructions, advisory opinions, comments, notes, explanations suggestions, etc.	None
+For example, paragraph 24A.l is styled as Introduction to Foreign Investment in India.	None
+There is nothing in the whole of the paragraph which even remotely is suggestive of a direction under Section 73(3).	None
+Paragraph 24A.1 itself appears to be in the nature of a comment on Section 29(1)(b), rather than a direction under Section 73(3).	None
+Directions under Section 73(3), we notice, are separately issued as circulars on various dates.	None
+No Circular has been placed before us which corresponds to any part of paragraph 24A.l.	None
+We do not have the slightest doubt that paragraph 24A.1 is an explanatory Statement of guideline for the benefit of the authorised dealers.	None
+It is neither a statutory direction nor is it a mandatory instruction.	None
+It reads as if it is in the nature of and, indeed it is, advice given to authorised dealers that they should obtain prior permission of the Reserve Bank of India, so that there may be no later complications.	None
+It is a helpful suggestion, rather than a mandate Recently in Delhi Development Authority (supra), this Court held The stand taken by DDA itself is that the relationship between the parties arises out of the contract.	None
+The terms and conditions therefore were, therefore, required to be complied with by both the parties.	None
+Terms and conditions of the contract can indisputably be altered or modified.	None
+They cannot, however, be done unilaterally unless there exists any provision either in contract itself or in law.	None
+Novation of contract in terms of Section 60 of the Contract Act must precede the contract making process.	None
+The parties thereto must be ad idem so far as the terms and conditions are concerned.	None
+If DDA, a contracting party, intended to alter or modify the terms of contract, it was obligatory on its part to bring the same to the notice of the allocate.	None
+Having not done so, it, relying on or on the basis of the purported office orders which is not backed by any statute, new terms of contract could not be thrust upon the other party to the contract.	None
+The said purported policy is, therefore, not beyond the pale of judicial review.	None
+In fact, being in the realm of contract, it cannot be stated to be a policy decision as such.80.	None
+A definite price is an essential element of binding agreement.	None
+A definite price although need not be stated in the contract but it must be worked out on some premise as was laid down in the contract.	None
+A contract cannot be uncertain.	None
+It must not be vague.	None
+Section 29 of the Indian Contract Act reads as underSection 29  Agreements void for uncertaintyAgreements, the meaning of which is not certain, or capable of being made certain, are void.	None
+A contract, therefore, must be construed so as to lead to a conclusion that the parties understood the meaning thereof.	None
+The terms of agreement cannot be vague or indefinite.	None
+No mechanism has been provided for interpretation of the terms of the contract.	None
+When a contract has been worked out, a fresh liability cannot thrust upon a contracting party.	None
+See also New India Assurance Company Ltd. v. Nusli Neville Wadia and Anr.	None
+(2007) 14 SCALE 556 .25.	None
+In view of the aforementioned law laid down by this Court, there cannot be any doubt whatsoever that the circular letters cannot ipso facto be given effect to unless they become part of the contract.	Reasoning
+We will assume that some of the respondents knew thereabout.	Reasoning
+We will assume that in one of the meetings, they referred to the said circulars.	Reasoning
+But, that would not mean that they are bound thereby.	Reasoning
+Apart from the fact that a finding of fact has been arrived at by the TDSAT that the said circular letters were not within the knowledge of the respondents herein, even assuming that they were so, they would not prevail over the public documents which are the brochures, commercial information and the tariffs.26.	Reasoning
+If the parties were ad idem as regards terms of the contract, any change in the tariff could not have been made unilaterally.	Reasoning
+Any novation in the contract was required to be done on the same terms as are required for entering into a valid and concluded contract.	Reasoning
+Such an exercise having not been resorted to, we are of the opinion that no interference with the impugned judgment is called for.27.	Reasoning
+For invoking clauses 4.1 and 19.5 of the licence agreement, we may notice that the word prescribed is not defined.	Reasoning
+It has not been defined even in the Indian Telegraph Act.	Reasoning
+It has not been defined in the licence.	Reasoning
+The said provision unlike clause 18.14 does not use the words from time to time.	Reasoning
+A contract entered into by the parties, it will bear a repetition to state, must be certain.	Reasoning
+It must conform to the provisions of the Indian Contract Act.	Reasoning
+Ordinarily, the word prescribed would mean prescribed by Rules.	Reasoning
+Section 7(2)(ee) of the Indian Telegraph Act provides for the Rule making power for the purpose of laying down the tariff.	Reasoning
+We may not be understood to be laying down a law that in absence of any statutory rule framed under the Indian Telegraph Act, no contract can be entered into.	Reasoning
+In absence of any statutory Rule governing the field, the parties would be at liberty to enter into any contract containing such terms and conditions as regards the rate or the period stipulating such terms as the case may be.	Reasoning
+The matter might have been different if the parties had entered into an agreement with their eyes wide open that the circular letter shall form part of the contract.	Reasoning
+They might have also been held bound if they accepted the new rates or the periods either expressly or sub silentio.	Reasoning
+When on the basis of terms of the contract, different rates can be prescribed, the same must be expressly stated.	Reasoning
+When the word prescribed is not defined, the same, in our opinion, would mean that prescribed in accordance with law and not otherwise.	Reasoning
+The respondent had two options.	Reasoning
+They were asked to choose one.	Reasoning
+Thus, a representation was made that they would be entitled to obtain lease the equipments (resources) at an RG basis.	Reasoning
+Payments have been made on that basis.	Reasoning
+The question which would arise for consideration is as to whether the basis of making a demand itself can be changed.	Reasoning
+The answer to the said question, in our opinion, must be rendered in negative.	Reasoning
+Section 8 of the Indian Contract Act reads as under Section 8.	None
+Acceptance by performing conditions, or receiving consideration Performance of the conditions of a proposal, or the acceptance of any consideration for a reciprocal promise which may be offered with a proposal, is an acceptance of the proposal.	None
+It provides the acceptance of the proposal by conduct as against other modes of acceptance.	None
+It can be divided in two parts  (1) performance of the conditions of a proposal and (2) acceptance of any consideration for a reciprocal promise which may be offered with a proposal.	None
+The latter corresponds to general divisions of proposals into those which offer a promise in exchange for an act or acts and those which offer a promise for exchange for a promise.	None
+The bills were raised on the basis of the said premise.	None
+They were accepted.	None
+The promise on the part of the appellant was acted upon by the respondent.	None
+Appellants, thus, now should not ordinarily be permitted to take a different stand.	None
+This aspect of the matter was considered in Amrit Banspati Co. Ltd. v. Union of India AIR 1966 All.104	None
+wherein it was stated Section 8 of the Contract Act provides that performance of the conditions of a proposal, or the acceptance of any consideration for a reciprocal promise which may be offered with a proposal is an acceptance of the proposal.	None
+The language of the section is rather vague but its meaning is clear.	None
+It is based on the principle that if an offer is made subject to a condition, the offence cannot accept the benefit under the offer without accepting the condition.	None
+He cannot take the attitude, I shall accept the benefit but reject the condition.	None
+In The Union of India v. Rameshwarlall Bhagchand AIR 1973 Gauhati 111, it was stated Section 8 provides that performance of the conditions of a proposal, or the acceptance of any consideration for a reciprocal promise which may be offered with a proposal, is an acceptance of the proposal.	None
+According to Section 2(a) of the Contract Act when one person signifies to another his willingness to do or to abstain from doing anything, with a view to obtaining the assent of that other to such act or abstinence, he is said to make a proposal and Clause (b) of Section 2 states that when the person to whom the proposal is made signifies his assent thereto.	None
+The proposal is said to be accepted.	None
+A proposal when accepted becomes a promise.	None
+Section 2(f) enacts that promises which form the consideration or part of the consideration for each other are called reciprocal promises.	None
+It was furthermore observed Some English decisions were referred to with approval in the Patna case relied upon by Shri Dam, I think that those cases have no bearing on and relevancy to Section 8 of the Act.	None
+It is mentioned on page 59 of the Pollock and Mullas Commentary on the Indian Contract Act, 8th Edn., that nothing like the terms of Section 8 occurs in the original draft of the Indian Law Commissioners, nor, so far as known to us, in any authoritative statement of English Law and that the terms of the section appear to have been taken from the draft Civil Code of New York with slight verbal alteration.	None
+It follows from these excerpts that the English law has no provision parallel to Section 8 of the Act and as such recourse to English decisions for determining the scope of Section 8 may not be very apposite.	None
+Section 7 and 9 of the Indian Contract Act describe the various modes in which proposal may be accepted and if I may say so, Section 8 provides the acceptance of a proposal by conduct as against other modes of acceptance, such as verbal or written communication contemplated by Sections 7 and 9.	None
+Therefore, in a way Section 8 provides undoubtedly a uniue provision in the Indian Contract Act.	None
+It embraces a case to cite an instance of a reward offered for the finder of a lost article.	None
+If a person restores found article to the one who offered the reward, without accepting the latters proposal in any other manner, the act or conduct or restoration itself is considered sufficient acceptance of the proposal to merit the reward.	None
+True that it is an ordinary rule of law that an acceptance of an offer made ought to be notified to the person who makes the offer.	None
+But since such notification is required for the benefit of the person making the offer the latter may dispense with notice to himself if he deems that course to be desirable.	None
+If the person making the offer to another intimates him expressly or impliedly a particular mode of acceptance the offeree can adopt that mode to conclude a binding bargain.	None
+If a man writes to another to send him certain goods, then the dispatch of goods would surely amount to acceptance of the offer.	None
+In Life Insurance Corporation of India v. Raja Vasireddy Komalavalli Kamba AIR 1984 SC 1014 , this court on acceptance of provisions as envisaged under Section 7 and 8 of the Indian Contract Act, 1872 opined Acceptance must be signified by some act or acts agreed on by the parties or from which the law raises a presumption of acceptance.	None
+Chitti on Contract at page 135 talks about the criteria where the agreement would not be held to be in reply to acts, further agreement is required.	None
+It was stated Even an agreement for sale of land dealing only with the barest essentials may be regarded as complete if that was the clear intention of the parties.	None
+Thus in Perry v. Suffields Ltd. (1915) 2 Ch.187 an offer to sell a publichouse with vacant possession for 7,000 was accepted without qualification.	None
+It was held that there was a complete contract even though many important points, e.g. the date for completion and the question of paying a deposit, were left open.	None
+In another case, a buyer and seller of corn feed pallets had reached agreement on the cardinal terms of the deal product, price, quantity, period of shipment, range of loading ports and governing contract terms.	None
+The agreement was held to have contractual force even though the parties had not yet reached agreement on a number of other important points, such as the loading port, the rate of loading and certain payments (other than the price) which might in certain events become payable under the contract.	None
+And a publishers oral commitment to publish a book has been held to amount to a binding contract, even though no details were specified in the agreement and nothing more precise was said about the authors remuneration than that he was to be paid a royalty to be agreed, or in default of agreement a fair one.	None
+In all these cases, the courts took the view that the parties intended to be bound at once in spite of the fact that further significant terms were to be agreed later and that even their failure to reach such agreement would not invalidate the contract unless without such agreement it was unworkable or too uncertain to be enforced.	None
+In the instant case, the resources to be leased out were subject to agreement.	Reasoning
+The terms were to be mutually agreed upon.	Reasoning
+The terms of contract, in terms of Section 8 of the Contract Act, fructified into a concluded contract.	Reasoning
+Once a concluded contract was arrived at, the parties were bound thereby.	Reasoning
+If they were to alter or modify the terms thereof, it was required to be done either by express agreement or by necessary implication which would negate the application of the doctrine of acceptance sub silentio.	Reasoning
+But, there is nothing on record to show that such a course of action was taken.	Reasoning
+The respondents at no point of time were made known either about the internal circulars or about the letters issued from time to time not only changing the tariff but also the basis thereof.31.	Reasoning
+We will assume that the contention of the learned Additional Solicitor General that the internal circulars are issued for their application by the local officers.	Reasoning
+If they have committed a mistake, the same could be rectified.	Reasoning
+Indisputably, mistakes can be rectified.	None
+Mistake may occur in entering into a contract.	None
+In the latter case, the mistake must be made known.	None
+If by reason of a rectification of mistake, except in some exceptional cases, as for example, where it is apparent on the face of the record, mistake cannot be rectified unilaterally.	None
+The parties who that would suffer civil consequences by reason of such act of rectification of mistake must be given due notice.	None
+Principles of natural justice are required to be complied with.	None
+The fact that there was no mistake apparent on the face of the records is borne out by the fact that even the officers wanted clarification from higher officers.	None
+The mistake, if any, was sought to be rectified after a long period at least after a period of three years.	None
+When a mistake is not rectified for a long period, the same, in law, may not be treated to be one.	None
+Furthermore, what would be the effect of such a mistake must be determined having regard to the provisions of the Contract Act.	None
+It is not a case where the contract is sought to be terminated on the ground of a mistake.	None
+Only a higher rate is sought to be enforced on the basis of internal circulars.	None
+We have noticed hereinbefore the effect of an internal circular.	None
+There is no presumption about their correctness.	None
+Presumption of correctness of documents is provided for in Sections 81 and 84 of the Indian Evidence Act.	None
+Even the contents of a newspaper, as envisaged under Section 81 of the Indian Evidence Act, would not be presumed to be correct.	None
+Why publications are necessary so as to enable the parties to take recourse thereto has been considered by this Court in B.K. Srinivasan v. State of Karnataka (1987) 1 SCC 658 in the following terms There can be no doubt about the proposition that where a law, whether parliamentary or subordinate, demands compliance, those that are governed must be notified directly and reliably of the law and all changes and additions made to it by various processes.	None
+Whether law is viewed from the standpoint of the conscientious good man seeking to abide by the law or from the standpoint of Justice Holmess unconscientious bad man seeking to avoid the law, law must be known, that is to say, it must be so made that it can be known.	None
+We know that delegated or subordinate legislation is allpervasive and that there is hardly any field of activity where governance by delegated or subordinate legislative powers is not as important if not more important, than governance by parliamentary legislation.	None
+But unlike parliamentary legislation which is publicly made, delegated or subordinate legislation is often made unobtrusively in the chambers of a Minister, a Secretary to the Government or other official dignitary.	None
+It is, therefore, necessary that subordinate legislation, in order to take effect, must be published or promulgated in some suitable manner, whether such publication or promulgation is prescribed by the parent statute or not.	None
+It will then take effect from the date of such publication or promulgation.	None
+Where the parent statute prescribes the mode of publication or promulgation that mode must be followed.	None
+Where the parent statute is silent, but the subordinate legislation itself prescribes the manner of publication, such a mode of publication may be sufficient, if reasonable.	None
+If the subordinate legislation does not prescribe the mode of publication or if the subordinate legislation prescribes a plainly unreasonable mode of publication, it will take effect only when it is published through the customarily recognised official channel, namely, the Official Gazette or some other reasonable mode of publication.	None
+There may be subordinate legislation which is concerned with a few individuals or is confined to small local areas.	None
+In such cases publication or promulgation by other means may be sufficient.	None
+In Ravinder Kumar Sharma v. State of Assam (1999) 7 SCC 435, this Court stated Newspaper reports regarding the Central Government decision could not be any basis for the respondents to stop action under the Assam Control Order of 1961.	None
+The paper reports do not specifically refer to the Assam Control Order, 1961.	None
+In fact, the Government of Assam itself was not prepared to act on the newspaper reports, as stated in its wireless message.	None
+Section 81 of the Evidence Act was relied upon for the appellant, in this behalf, to say that the newspaper reports were evidence and conveyed the necessary information to one and all including Respondents 2 and 3.	None
+But the presumption of genuineness attached under Section 81 to newspaper reports cannot be treated as proof of the facts stated therein.	None
+The statements of fact in newspapers are merely hearsay (Laxmi Raj Shetty v. State of T.N.).	None
+See also I.T.C. Bhadrachalam Paperboards v. Mandal Revenue Officer (1996) 6 SCC 634 So far as the minimum guaranteed period is concerned, we have noticed hereinbefore, that the applicability of the Rule is in doubt.	None
+Rule 434 provides for charges private and charges for nonexchange lines.	None
+The Tribunal which is an expert body, opined We find grey areas in the submissions made by both the sides.	None
+Firstly, it is not at all clear whether the lease arrangements entered into by the petitioner with the respondents were covered under Rule 434 Section IX or section X of Indian Telegraph Act.	None
+Rule 434 section IX and Section X deal with charges for Private Wires and NonExchange Lines, respectively.	None
+These two terms, viz.	None
+Private Wires and NonExchange Lines, have been defined under the Indian Telegraph Rules as under Rule 2(II) Private Wires are those which connect two subscribers through a departmental exchange system whether a private relay set is installed at the exchange or not and are not connected to the local telephone system and to the general trunk net workRule 2(33a)	None
+Nonexchange lines are those which connect two subscribers without any departmental exchange intervening.	None
+From the application forms annexed by the petitioner to its petition, it may be seen that what was asked for was Data Circuit.	None
+Such circuits were more in the nature of long distance telephone circuits between two cities as may be evidenced by the following list of leased lines obtained by the petitioner which have been listed in the petition Lease Circuits Obtained in1.	None
+Cochin  Thiruvananthapuram January 19972.	None
+Cochin  Thiruvananthapuram July 19973.	None
+Cochin  Calicut January 19974.	None
+Cochin  Calicut July 19975.	None
+Cochin  Thrissur February 19976.	None
+Cochin  Thrissur August 19977.	None
+Thiruvananthapuram  Kollam November 19978.	None
+Calicum  Kannur November 19979.	None
+Cochin  Kottayam November 199710.	None
+Cochin  Kollam January 199811.Cochin  Kannur February 199812.	None
+Cochin  Thiruvalla May 199813.Cochin  Palakkad May 199814.Thrissur  Kunnamkulam June 199815.	None
+Thrissur  Palakkad June 1998	None
+The leased data circuits taken by the petitioner were between two exchanges of DoT BSNL at two different cities.	None
+Thus, it is difficult to accept the contention that the circuits leased between two exchanges of BSNL located in two different cities were covered within the ambits of Private Wire or Nonexchange Lines as defined under Indian Telegraph Rules.	None
+Consequently the applicability of Rule 434 in the instant is not warranted.12A. We have taken note of the contention of Respondent No.1 that by its order dated 17th June, 1988 the minimum period of hire for 2 Mbps lines was 3 years and the hirer was required to pay for the entire period in case of premature surrender.	None
+The relevant question is whether this was made known to the petitioner or the petitioner was expected to have a knowledge of this.	None
+From the copy of the Order No.431/86R(Pt.)	None
+dated 17th June, 1988 placed on record by Respondent No.1, it is seen that it is a Circular issued by one Shri D.V.B. Rao, Assistant Director General (Costing), Rates Section, Department of Telecommunicatiosn and addressed to All Heads of Telecom Circles All Heads of Metro, Major and Minor Telephone Districts General Manager, MTNL, Bombay New Delhi.	None
+Copies were endorsed to a host of officials, all belonging to the Department of Telecommunications.	None
+It was, therefore, basically an office circular for internal use and not a document released to the general public.	None
+XXX	None
+XXX XXX15.	None
+As a result of all that is stated in the earlier paragraphs we hold that it has not been conclusively established that the contracts for leased data circuits between the petitioner and the respondents were covered under Rule 434 of the Indian Telegraph Rules and that the minimum guarantee period and penalties for premature surrender, as indicated in Rule 434 were applicable to these contracts.	None
+We also hold that the petitioner had no reason whatsoever for the nonobservance of Rule 475A of Indian Telegraph Rules in view of its categorical undertaking to abide by the provisions of these Rules.	None
+Prima facie, the proviso appended to Section 9 and Section 10 providing for a minimum guaranteed period of three years does not appear to have any application.	None
+The authorities of the DOT also did not think so.	None
+They proceeded on the basis of and having regard to the phraseology used in Rules 478 and 496 that minimum period is only three months.	None
+Applicability of minimum guaranteed period of three years was sought to be enforced from a circular letter dated 17.6.1988 only.	None
+The effect of the said circular letter has been discussed hereinbefore.	None
+We have furthermore noticed the vacillating stand taken by the appellants herein in the case of C.G. Faxemail.	None
+They sought to charge the double of the amount as prescribed in the contract on the basis that the service which is being provided by them is close user group service.	None
+TRAI held it not to be so.	None
+TRAI, as noticed hereinbefore, relied upon two circulars only, namely 13.7.1985 and 22.11.1996, the latter one being after the contract was entered into.	None
+TDSAT, apart from holding that the said circular letters are internal documents, did not deal with the internet service providers.	None
+It thereafter relied upon the circular letter dated 15.4.1998 and not on the circular letter dated 3.6.1995, the former having no application to a contract which was entered into prior thereto.	None
+Even the said letter provided for three months minimum guarantee period for long distance lease lines.	None
+Even DOT raised three months demand notice on or about 26.11.1998.	None
+Yet again, the DOT in its letter dated 13/14.1.1999 confirmed that paragraph A of the circular letter dated 26.11.1998 referred to Rule 496.	None
+The parties were not ad idem as to whether these circuits being long distance lease lines would be governed by which circular.	None
+Furthermore, the authorities of the DOT, assuming that they are applicable, despite the circular letters, consciously entered into contract for one years period on which the parties had acted thereupon.	None
+A finding of fact has been arrived at by TDSAT that the said circular letters are not applicable.	Reasoning
+Rule 434 was not applicable.	Reasoning
+Appeal to this Court, in terms of Section 18 of the Act is maintainable only on a substantial question of law.43.	Reasoning
+For the reasons aforementioned, we do not find that these appeals raise any substantial question of law warranting interference.	Decision
+The appeals are dismissed accordingly.	Decision
+However, in the facts and circumstances of the case, there shall be no order as to costs.	Decision

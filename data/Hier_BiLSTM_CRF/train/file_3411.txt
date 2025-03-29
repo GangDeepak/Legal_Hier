@@ -1,0 +1,118 @@
+ K. Das, J. 1.	None
+This is an appeal on a certificate of fitness granted by the High Court of Judicature at Hyderabad under S. 66A (2) of the Indian Incometax Act, 1922.	Issue
+The Commissioner of Incometax, Hyderabad, is the appellant before us.	None
+The respondent is Dewan Bahadur Ramgopal Mills Ltd., a public limited company incorporated in the erstwhile State of Hyderabad.	None
+2.	None
+The respondent company was assessed under the Hyderabad Incometax Act in respect of the assessment years 1357F, 1358F and 1359F. In the assessment for those years depreciation allowance was given to it on the basis of written down value of its assets, such as buildings, machinery, plant, etc., in accordance with the provisions of cl.	Facts
+(c) of S. 12 (5) of the Hyderabad Incometax Act.	Facts
+That clause provided that in the case of assets acquired before the previous year and before the commencement of the Act, the written down value would be the actual cost to the assessee less (i) depreciation at the rates applicable to the assets calculated on the actual cost for the first year since acquisition and for the next year on the actual cost diminished by the depreciation allowance for one year and so on, for each year upto the commencement of the Act, and (ii) depreciation actually allowed to the assessee on such assets for each financial year after the commencement of the Act.	Facts
+The erstwhile State of Hyderabad merged in the Union of India on January 26, 1950 and became a Part B State.	Facts
+The Finance Act, 1950, by S. 13 thereof repealed the taxation laws in force in Part B States except for certain purposes not relevant to this case, and by S. 3 extended the Indian Incometax Act, 1922, to the whole of India except the State of Jammu and Kashmir.	Facts
+In exercise of the powers conferred by S. 12 of the Finance Act, 1950, the Central Government was pleased to make the Taxation Laws (Part B States) (Removal of Difficulties) Order, 1950 (hereinafter referred to as the Removal of Difficulties Order, 1950), by a notification dated December 2, 1950.	Facts
+Paragraph 2 of the said Order, in so far as it is relevant to this case, was in these terms Computation of aggregate depreciation allowance and written down value In making any assessment under the Indian Incometax Act, 1922, all depreciation actually allowed under any laws or rules of a Part B State relating to Incometax and Supertax, or any law relating to tax on profits of business, shall be taken into account in computing the aggregate depreciation allowance referred to in subclause (c) of the proviso to cl.	Facts
+(vi) of subsec.	Facts
+(2) and the written down value under cl (b) of subsec.	Facts
+(5) of S. 10 of the said Act.	Facts
+For the assessment year 195152 which was in respect of the account year ending June 30, 1950, the respondent was assessed for the first time under the Indian Incometax Act, 1922, read with paragraph 5 of the Part B States (Taxation Concessions) Order, 1950.	Facts
+Basing its claim on paragraph 2 of the Removal of Difficulties Order, 1950, the respondent asked for depreciation allowance in respect of its assets such as buildings, machinery, plant, etc., to the tune of Rs.	Facts
+8,12,244.	Facts
+It worked out the value of the assets at their inception and deducted therefrom such depreciation as was allowed for the three assessment years in which the respondent was assessed under the Hyderabad Incometax Act and calculating the written down value in that manner, it claimed depreciation according to the prescribed rates.	Facts
+By his order dated November 30, 1951, the Incometax Officer disallowed this claim.	Facts
+He held that the claim of the respondent was against the principle inherent in granting depreciation allowance which must decrease from year to year, and further held that the word allowed in paragraph 2 of the Removal of Difficulties Order, 1950, should be construed as meaning considered only.	Facts
+Accordingly, he took the figures of the written down value from the incometax proceedings of 1359F and allowed depreciation at the prescribed rate on those figures.	Facts
+Against the order of the Incometax Officer, the respondent went in appeal to the Appellate Assistant Commissioner, Hyderabad Division.	Facts
+That Officer by an order dated May 23, 1952, upheld the view of the Incometax Officer and dismissed the appeal.	Facts
+Then there was an appeal to the Incometax Appellate Tribunal which was heard by the Bombay Bench of the said Tribunal.	Facts
+By its order dated December 12, 1952, the Appellate Tribunal held that in view of the provisions in paragraph 2 of the Removal of Difficulties Order, 1950, the contention of the respondent must prevail, and it pointed out that the words used paragraph 2 were depreciation actually allowed under any laws or rules of a Part B State, and those words did not mean the aggregate allowance for depreciation taken into account in computing the written down value under the Hyderabad Act therefore, the respondent was entitled to the depreciation allowance which it claimed.	Facts
+It directed the Incometax Officer to compute the written down value on the basis of the actual cost to assessee of the assets in question minus the depreciation allowance actually allowed to the assessee under the Hyderabad Incometax Act.	Facts
+The appellant herein then moved the Appellate Tribunal for a reference to the High Court under S. 66 (1) of the India Incometax Act.	Facts
+In the meantime, that is, on March 9, 1953, the Central Government purporting to exercise its powers conferred by S. 60A of the Indian Incometax Act, 1922, added an Explanation to paragraph 2 of the Removal of Difficulties Order, 1950.	Facts
+That Explanation said Explanation  For the purpose of this paragraph the expression all depreciation actually allowed under any laws or rules of a Part B State means and shall be deemed to have always meant the aggregate allowance for depreciation taken into account in computing the written down value under any laws or rules of a Part B State or carried forward under the said laws or rules.	Facts
+The Explanation in terms gave effect to the contention urged on behalf of the Department and said that what has to be allowed is the aggregate allowance for depreciation taken into account in computing the written down value under any law or rules of a Part B State.	Facts
+In support of the application for a reference, the appellant relied on the aforesaid Explanation and contended that in view of the Explanation the respondent could not claim depreciation allowance on the basis of actual cost minus the depreciation allowances actually allowed under the Hyderabad Incometax Act.	Facts
+On this application the Tribunal expressed the view that if the Explanation applied to the case on hand, then the contention of the Department was correct and must be upheld.	Facts
+It said, however, that it had no power to review its own order and, therefore, considered it unnecessary to express any opinion whether the Explanation was valid and affected the case before it.	Facts
+It said finally that the following question of law did arise out of its order and accordingly stated a case thereon	Facts
+Whether in making the assessment for the year 195152 under the Indian Incometax Act is the assessee company entitled to claim depreciation allowance on the basis of the written down value computed at the time of the assessment for the year 1359F, or is to be computed on the basis of the actual cost minus the depreciation allowances granted under the Hyderabad Incometax Act.	Facts
+3.	None
+The reference was then heard by the High Court of Judicature at Hyderabad which by its order dated February 16, 1954, held that the Explanation added to paragraph 2 of the Removal of Difficulties Order, 1950, by the notification dated March 9, 1953, was void on certain grounds one of which was that the Explanation was ultra vires the powers of the Central Government under S. 60A of the Indian Incometax Act.	Facts
+Therefore, it answered the question in favour of the respondent.	Facts
+The appellant then obtained the necessary certificate of fitness and preferred the present appeal.	Facts
+4. In the meantime, there was a further change of law.	None
+On May 8, 1956, the Central Government made a notification (No. S. R. O. 1139) in exercise of the powers conferred on it by S. 12 of the Finance Act, 1950, whereby an Explanation in identical terms as the earlier Explanation made under S. 60A of the Indian Incometax Act, was added to paragraph 2 of the Removal of Difficulties Order, 1950.	Facts
+The arguments before us have proceeded on the basis of the Explanation added by the notification aforesaid	None
+and it is not disputed that if the Explanation is valid and applies to the present case, then the appeal must be allowed and the question of law answered in favour of the appellant.	None
+If, on the contrary, the Explanation is not valid or it does not apply to the present case, then the appeal must be dismissed.	None
+5.	None
+We proceed now to a consideration in detail of the different contentions urged before us on behalf of the appellant and the respondent.	None
+We may first read S. 12 of the Finance Act, 1950, under which notification No. S. R. O. 1139 dated May 8, 1956, was made.	None
+Section 12 reads If any difficulty arises in giving effect to the provisions of any of the Acts, rules or orders extended by S. 3 or S. 11 to any State or merged territory, the Central Government may by order, make such provision or give such direction, as appears to it to be necessary for removing the difficulty.	None
+On behalf of the appellant it has been argued that the notification was validly made in exercise of the powers conferred on the Central Government under S. 12 aforesaid that it does not suffer from any of the defects pointed out by the High Court in regard to the earlier notification of 1953 made under S. 60A of the Incometax Act and that it adds an Explanation which in terms gives effect to the contention of the appellant and this Court must consider the change in law made thereby and give effect to it in answering the question of law arising out of the Tribunals order.	Arguments of Petitioner
+On the other hand, the validity of the notification has been very strenuously contested before us by learned Counsel for the respondent.	Arguments of Respondent
+He has challenged its validity and also its applicability to the present case on the following grounds (1) that it is ultra vires the powers conferred on the Central Government by S. 12 (2) that it can have no retrospective effect and (3) that it contravenes Art.	Arguments of Respondent
+14 of the Constitution.	None
+6.	None
+We shall consider these arguments in the order in which we have stated them.	None
+The first question is whether the notification is validly made under S. 12 or is it ultra vires the powers conferred on the Central Government by that section ?	None
+On behalf of the respondent it is urged that a condition for the exercise of the power under S. 12 is contained in the opening clause, which says If any difficulty arises in giving effect to the provisions of any of the Acts, rules or orders extended by S. 3 or S. 11 to any State etc	None
+The contention is that no difficulty arose in giving effect to the provisions of any of the Acts, rules or orders referred to in the opening clause, to any State etc.	None
+and, therefore, the condition for the exercise of the power is not fulfilled and not on that ground the notification is invalid.	None
+We are unable to accept this argument as correct.	None
+Section 10 of the Incometax Act says, in its first subsection, that the tax shall be payable by an assessee in respect of the profits or gains of any business, profession or vocation carried on by him.	None
+Subsection (2) thereof says that such profits or gains shall be computed after making certain allowances, and one of these allowances is in respect of the depreciation of such buildings, machinery, plant, etc. as are used for the purpose of the business (cl. vi).	None
+The depreciation except in certain cases is calculated on the written down value, which expression is explained in subsec.	None
+(5) of S. 10.	None
+Clause (b) of the subsection states S. 10 (5)  (a) (b)	None
+In the case of assets acquired before the previous year the actual cost to the assessee less all depreciation actually allowed to him under this Act, or any Act repealed thereby or under executive orders issued when the Indian Incometax Act, 1886 (II of 1886), was in force.	None
+It is obvious that in applying cl.	Reasoning
+(b) to an assessee in a Part B State there would be an initial difficulty, inasmuch as prior to 1950 when the Indian Incometax Act came into force in a Part B State no depreciation could have been actually allowed to such an assessee under the Incometax Act or under any Act repealed thereby for example, the Hyderabad Incometax Act was repealed by the Finance Act, 1950 and not by the Incometax Act and would not therefore be covered by cl.	Reasoning
+(b).	Reasoning
+Such and other difficulties led to the Removal of Difficulties Order, 1950, which has not been seriously challenged before us.	Reasoning
+Indeed, the High Court said that it was not open to the respondent to challenge the validity of the Removal of Difficulties Order, 1950, because such a point was not taken before the Tribunal.	None
+Learned Counsel for the respondent has then submitted that whatever initial difficulty there might have been in giving effect to the Indian Incometax Act in a Part B State, that difficulty was solved by paragraph 2 of the Removal of Difficulties Order, 1950, and, in any view, there was no fresh difficulty which could necessitate the addition of an Explanation in 1953 or 1956.	Arguments of Respondent
+Here again we think that the submission is not correct.	None
+The basic and normal scheme of depreciation under the Indian Incometax Act is that it decreases every year, being a percentage of the written down value which in the first year is the actual cost and in succeeding years actual cost less all depreciation actually allowed under the Incometax Act or any Act repealed thereby etc.	None
+The Hyderabad Incometax Act not having been repealed by the Incometax Act but by the Finance Act, 1950, there was a difficulty in allowing depreciation to an assessee in Part B State in the first year of assessment under the Indian Incometax Act.	Reasoning
+This difficulty was sought to be removed by paragraph 2 of the Removal of Difficulties Order, 1950.	Reasoning
+If, however, depreciation actually allowed under the Hyderabad Incometax Act was taken into account in computing the aggregate depreciation allowance and the written down value, an anomalous result would follow as in the present case, namely, depreciation allowance to be allowed to the assessee in the accounting year under the Indian Incometax Act would be more than what was allowed in previous years under the Hyderabad Incometax Act.	Reasoning
+This would create a disparity and be against the scheme of the Incometax Act.	None
+It was therefore necessary to explain paragraph 2 of the Removal of Difficulties Order, 1950, to assimilate or harmonise the position regarding depreciation allowance, and the Explanation added in 1953 or 1956 was obviously intended to remove the difficulty arising out of that disparity or disharmony.	Reasoning
+7.	None
+Furthermore, the true scope and effect of S. 12 seems to be that it is for the Central Government to determine if any difficulty of the nature indicated in the section has arisen and then to make such order, or give such direction, as appears to it to be necessary to remove the difficulty.	None
+Parliament has left the matter to the executive but that does not make the notification of 1956 bad.	None
+In Banarsi Das Bhanot v. State of Madhya Pradesh, 1956 SCR 427 (AIR 1958 SC 909 ) we said at page 435 Now, the authorities are clear that it is not unconstitutional for the Legislature to leave it to the executive to determine details relating to the working of taxation laws, such as the selection of persons on whom the tax is to be laid, the rates at which it is to be charged in respect of different classes of goods and the like.	None
+We are, therefore, of the view that the notification of 1956, was validly made under S. 12 and is not ultra vires the powers conferred on the Central Government by that section.	None
+8.	None
+The second question is  does the notification apply to the assessment in the present case, which is an assessment for the year 195152 ?	None
+The notification was made in 1956 and it added an Explanation to paragraph 2 of the Removal of Difficulties Order, 1950.	None
+It says that a particular expression occurring in that paragraph means and shall be deemed always to have meant that aggregate allowance for depreciation taken into account in computing the written down value etc., under any law of a Part B State.	Reasoning
+The argument on behalf of the respondent is that the law which governs an assessment for the assessment year 195152 is the law in force at the time when the Finance Act, 1951, came into force accordingly, so the argument proceeds, paragraph 2 of the Removal of Difficulties Order, 1950, as it stood on April 28, 1951, when the Finance Act, 1951, came into force, will apply in the present case.	Reasoning
+We consider this argument to be unsound.	Reasoning
+The Explanation, though added in 1956, explains the meaning of paragraph 2 of the Removal of Difficulties Order, 1950 and says in express terms that the paragraph shall be deemed always to have had that meaning.	Reasoning
+Section 12 by the very nature of its intent and purpose confers on the Central Government power to make an order to remove a difficulty which has already arisen, and the power to remove the difficulty must necessarily include the power to remove the difficulty from the time it arose.	Reasoning
+The Central Government has, therefore, the power to make an order or give a direction so as to remove the difficulty from the very beginning, and that is what the notification of 1956 does.	Reasoning
+It applies to the assessment of 195152 indeed it applies to all assessments made under the Indian Incometax Act in which paragraph 2 of the Removal of Difficulties Order, 1950, operates.	Reasoning
+9.	None
+The last challenge to the validity of the notification of 1956 is that it contravenes Art.	None
+14 of the Constitution, because it discriminates between different classes of tax payers.	None
+Learned Counsel for the respondent has asked us to consider the cases of assessees in three different areas which subsequently come in a Part B State in one area there was no law relating to incometax in the second there was a law relating to incometax under which written down value was computed on the basis of depreciation actually allowed year after year, while in the third the written down value was computed in the manner provided under the Hyderabad Incometax Act it is pointed out that on the extension of the Indian Incometax Act (read with paragraph 2 of the Removal of Difficulties Order, 1950 and the Explanation) to those areas, the assessee in the first area will get depreciation allowance on the actual cost in the second area he will get such allowance on the basis of actual cost less depreciation actually allowed and in the third area he will get such allowance on the actual cost less depreciation taken into account.	Reasoning
+It is contended that this resultant discrimination is arbitrary and without any rational justification.	None
+We think that learned Counsel for the respondent has ignored one essential consideration which clearly vitiates his argument.	None
+In the matter of depreciation allowance, the assessees in the three areas in the example given by him do not stand on the same footing they are not situated alike so as to be entitled to be treated alike.	Reasoning
+It is obvious that an assessee from an area where there was no incometax law at all can never say that in the matter of depreciation allowance as respects buildings, machinery, plant etc., he is on a par with a person in an area where there was a law relating to incometax allowing depreciation on such buildings, machinery, plant etc.	Reasoning
+The same would be the position with regard to areas where the previous law as to depreciation was different.	Reasoning
+Indeed, to treat all these persons alike would be tantamount to unequal treatment.	Reasoning
+10.	None
+In our view, the notification of 1956 creates no unequal treatment of persons in a like situation it applies to all who are in a like situation, namely, all those to whom paragraph 2 of the Removal of Difficulties Order, 1950, applies.	None
+We consider that the challenge to the notification based on Art.	None
+14 is wholly unsubstantial.	None
+11.	None
+It has not been disputed before us that a change in law validly made and applicable to a case pending in appeal must be considered and given effect to by the Appellate Court.	Reasoning
+The conclusion we have reached is that the notification of 1956 was validly made and applies to the present case.	Reasoning
+In view of this conclusion we have considered it unnecessary to examine the notification of 1953 or the reasons for which the High Court held that notification to be bad.	Reasoning
+12.	None
+For the reasons given above, we allow this appeal and set aside the judgment and order of the High Court dated February 16, 1954.	Decision
+The question referred to the High Court is answered in favour of the appellant.	Decision
+The appellant has succeeded by reason of the notification of 1956 and taking that circumstance into consideration, we direct that there will no order for costs for the hearing in this Court.	Decision
+13.	None
+Appeal allowed.	None

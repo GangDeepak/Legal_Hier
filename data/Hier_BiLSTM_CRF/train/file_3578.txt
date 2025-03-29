@@ -1,0 +1,100 @@
+ Kapur, J. 1.	None
+In this appeal by special leave against the judgment and order of the High Court of Kerala the appellant is the State of Kerala and the respondent is the assessee.	Facts
+The appeal arises out of proceedings under the Madras General Sales Tax Act, 1939 (Madras Act No. IX of 1939) read with the rules made under S. 19 of that Act.	None
+In this judgment the former will be referred to as the Act and the latter as the rules.	None
+The area of Kozhikode was originally within the State of Madras, but by the States Reorganisation Act was transferred to the State of Kerala.	None
+The Madras General Sales Tax Act, however, continued to apply.	None
+2.	None
+The assessment period for the purposes of the turnover in dispute is 195253.	Facts
+By an order dated March 27, 1954 the Deputy Commercial Tax Officer, Kozhikode, imposed sales tax on the respondent on a net turnover of Rs. 12,56,17814 0	Facts
+and the appeal taken against that order to the Commercial Tax Officer was dismissed.	Facts
+On March 15, 1956 a notice was issued by the Deputy Commissioner of Commercial Taxes against the assessee proposing to determine the escaped turnover for the period of assessment.	Facts
+By an order dated March 31, 1956, the Deputy Commissioner determined the revised turnover.	Facts
+An appeal was taken against that order to the Sales Tax Appellate Tribunal, Trivandrum, but that appeal was dismissed on March 23, 1957.	Facts
+Against that order a revision was taken to the Kerala High Court and by its judgment dated September 25, 1958 the High Court set aside the order of the Deputy Commissioner on the ground that the notice issued by the Deputy Commissioner of Commercial Taxes was without jurisdiction and the order of the appellate tribunal was therefore erroneous.	Facts
+Another question which had been raised before the High Court that the rule under which the Deputy Commissioner purported to act was ultra vires of the Act was not decided because of the decision on the first question i.e. of jurisdiction.	Facts
+Against that judgment and order the State of Kerala has come in appeal by special leave to this court.	Facts
+3.	None
+In appeal, before us, two main contentions have been raised One on behalf of the appellant the State of Kerala  that the notice issued by the Deputy Commissioner was not without jurisdiction and the High Courts opinion on that point is erroneous and the second on behalf of the respondent assessee that if the notice was not without jurisdiction then the rule under which the notice was issued was ultra vires as it was beyond the substantive provisions of the Act.	Arguments of Petitioner
+For this purpose it is necessary to refer to some of the relevant provisions of the Act and the rules.	None
+The procedure to be followed and the Dower of assessment of the Assessing Authority is contained in S. 9 of the Act and we need only quote subss.	None
+(1) and (2) of that section which read as under 9 (1)	None
+Every dealer whose turnover is ten thousand rupees or more in a year shall submit such return or returns relating to his turnover in such manner and within such periods as may be prescribed.	None
+(2)(a) If the assessing authority is satisfied that any return submitted under subsection (1) is correct and complete, he shall assess the dealer on the basis thereof.	None
+(b) If no return is submitted by the dealer under subsection (1) before the date prescribed or specified in that behalf or if the return submitted by him appears to the assessing authority to be incorrect or incomplete, the assessing authority shall assess the dealer to the best of his judgment.	None
+Provided Section 11 deals with appeals and S. 12 with the power of the Sales tax authorities to pass orders in revision.	None
+One of the arguments relating to ultra vires was based on subs.	None
+(2) of S. 12 of the Act.	None
+That subsection is as follows S. 12(1)	None
+The Commercial Tax Officer may  (i) (ii) (2) The Deputy Commissioner may (i) suo motu or (ii) in respect of an order passed or proceeding recorded by the Commercial Tax Officer under subsection (1) or any other provision of this Act and against which no appeal has been preferred to the Appellate Tribunal under S. 12A on application, call for and examine the record of any order passed or proceeding recorded under the provisions of this Act by any officer subordinate to him, for the purpose of satisfying himself as to the legality or propriety of such order, or as to the regularity of such proceeding, and may pass such order with respect thereto as he thinks fit.	None
+Section 12A provides for appeals to the Appellate Tribunal and S. 12B for revision to the High Court.	None
+Section 19 gives power to the Government to make rules and the relevant provisions of that section are 19(1) and 19(2) (f).	None
+They are as under  19(1)	None
+The State Government may make rules to carry out the purposes of this Act.	None
+(2) In particular and without prejudice to the generality of foregoing power such rules may provide for (f) the assessment to tax under this Act of any turnover which has escaped assessment and the period within which such assessment may be made, not exceeding three years Under the rule making power conferred by S. 19 rules have been framed and we are concerned in this appeal with Rr. 17 (1), 17(1A) and 17(3A).	None
+They read as under 17 (1) If for any reason the whole or any part of the turnover of business of a dealer or licensee has escaped assessment to the tax in any year or if the licence fee has escaped levy in any year, the assessing authority or licensing authority, as the case may be, (subject to the provisions in subrule (1A)) may, at any time within three years next succeeding that to which the tax or licence fee relates, determine to the best of his judgment the turnover which has escaped assessment and assess the tax payable in such turnover or levy the licence fee after issuing a notice to the dealer or licencee and after making such enquiry as he considers necessary.	None
+17(1A) Where in respect of the turnover referred to in subrule (1) an order has already been passed under S. 11 or 12 the assessing authority shall make a report to the appropriate appellate or revising authority, as the case may be, which shall thereupon after giving the dealer concerned reasonable opportunity of being heard, pass such orders as it deems fit.	None
+17(3A)	None
+The powers conferred by subrules (1) and (3) on assessing authority or licensing authority may also be exercised by the appellate authority referred to in Section 11 or as the case may be, by the revising authority referred to in Section 12, at any time within a period of three years next succeeding that to which the tax, or as the case may be, the licence fee relates, provided that such authority shall give the dealer concerned a reasonable opportunity of being heard before passing orders under this subrule.	None
+4.	None
+We shall first take up the question of jurisdiction raised by the appellant.	Issue
+The tribunal held that the powers conferred on the Deputy Commissioner of Commercial Taxes under S. 12 (2) and R. 17 (3A) are distinct powers and action taken under R. 17 (3A) was not without jurisdiction.	None
+This finding was reversed by the High Court.	None
+Now S. 12 (2) confers on the Deputy Commissioner the power suo motu or on an application to call for and examine the record of the proceedings of any officer subordinate to the Deputy Commissioner for the purpose of satisfying himself as to the legality or propriety of such order and he can pass such order with respect thereto as he thinks fit.	None
+The respondents argument was, and that argument was accepted by the High Court, that this provision contains the totality of the powers of the Deputy Commissioner and the power to assess escaped turnover is merely incidental to the power of revision and may be exercised only when revisional jurisdiction under S. 12 (2) is invoked under that section and the record is sent for suo motu or on application and the legality or propriety of the order made by the Subordinate Officer is scrutinized.	None
+Therefore the Deputy Commissioner was not in the absence of any substantive proceeding for exercise of revisional powers competent to assess escaped turnover.	None
+But the power to assess escaped turnover does not arise out of the revisional jurisdiction.	None
+In exercising revisional jurisdiction the Deputy Commissioner would be restricted to the examination of the record for determining whether the order of assessment was according to law.	None
+Rule 17 confers power to assess escaped turnover which may normally be exercised on matters de hors the record of assessment proceedings before the Deputy Commercial Tax Officer.	None
+It is true that the substantive provisions of the Act do not expressly deal with the power and procedure for assessment of escaped turnover, the legislature has left it to be dealt with by statutory rules to be framed under S. 19, and R. 17 has been framed thereunder.	Reasoning
+Rule 17 (1) and (3A) ex facie properly fall under S. 19(2) (f).	None
+In any event, as was said by the Privy Council in Emperor v. Sibnath Banerji, 72 Ind App 241 (AIR 1945 PC 156 )	None
+the rule making power is conferred by subs.	None
+(1) of that section and the function of subs.	None
+(2) is merely illustrative and the rules which are referred to in subs.	None
+(2) are authorised by and made under subs.	None
+(1).The provisions of subs.	None
+(2) are not restrictive of subs.	None
+(1) as expressly stated in the words without prejudice to the generality of the foregoing power with which subs.	None
+(2) begins and which words are similar to the words of subs.	None
+(2) of S. 2 of the Defence of India Act which the Privy Council was considering Now subs.	None
+(1) of S. 19 of the Act provides that the State Government may make rules to carry out the purposes of this Act and the long title of the act is an Act to provide for the levy of general tax on the sale of goods in the State of Madras.	None
+Therefore in our opinion R. 17 and the various clause thereof made under S. 19 are not beyond the rule making power of the State Government as contained in S. 19.	None
+5.	None
+The first subrule of R. 17 provides that the assessing authority may subject to subr.	None
+(1A) at any time within three years next succeeding that to which the tax relates determine the turnover which has escaped assessment and assess the tax payable on such turnover.	None
+That is the power of the assessing authority.	None
+6.	None
+Subrule (1A) deals with those cases where an order has already been passed by the appellate authority under S. 11 or by a revising authority under S. 12.	None
+In those cases the assessing authority has to make a report to the appropriate appellate or revising authority and that authority can, after giving the dealer concerned reasonable opportunity of being heard, pass such orders as it thinks fit.	None
+There is then a third case and that is where there has been no appeal or revision under Ss. 11 and 12 of the Act and therefore no order of the appellate authority or on revisional authority as contemplated in Section 12(2) of the Act and in those cases the appellate authority or the revising authority as the case may be has under subr.	None
+(3A), the same power as the assessing authority had under subrr.	None
+(1) and (3) of R. 17.	None
+In the present case after an appeal to the Commercial Tax Officer there was no further proceeding and therefore the Deputy Commissioner who is the revising authority acted under R. 17 (3A) and issued a notice which, according to that subrule he had power to issue and then determined the escaped turnover.	Reasoning
+We have already held that R. 17 is a valid rule under S. 19 of the Act.	Reasoning
+Subrule (3A) of R. 17 on its plain construction confers jurisdiction on the revising authority to issue the notice which it did issue and in our opinion, and we say so with respect, the judgment of the High Court is, to that extent, erroneous and it cannot be said that the notice was without jurisdiction.	Reasoning
+Therefore the impugned order was not incorrect.	None
+7.	None
+The respondent then argued that R. 17 is ultra vires of the provisions of the Act and he put his argument like this that the power to assess is given to the assessing authority under S. 9 (1) and (2) which has been quoted above.	Arguments of Respondent
+The assessing authority is defined in S. 2 (a2) to mean any person authorised by the State to make any assessment under this Act.	None
+Therefore the assessment of escaped turnover can only be done, if at all by an assessing authority and not by a revising authority as he has not been authorised by the State Government.	None
+The answer to this is in S. 2B. That section authorises the State Government to appoint as many Deputy Commissioners of Commercial Taxes as it thinks fit for the purpose of performing the functions conferred on them under the Act and such officers shall perform their functions within such local limit as the State Government in this behalf may assign to them.	None
+Rule 17 confers on the Deputy Commissioners the power to determine and tax escaped turnover in cases where revisions have been taken to them (subr.	None
+(1A))	None
+and also where revisions have not been taken to them (subr.	None
+(3A)).Provisions of S. 9 (1) and (2) therefore are no bar to the exercise of power of assessing escaped turnovers.	None
+Moreover S. 9 does not deal with escaped turnovers but is a provision for the determination of the turnover of a dealer in the first instance nor can it be said that R. 17 is in conflict with Section 12 (2).	None
+That section deals with another state of affairs and another jurisdiction i.e. where the Deputy Commissioner suo motu or on an application made calls for the record and determines the legality or propriety of an order made by one of the subordinate officers.	None
+It cannot be said in view of R. 17 that the power of revision by the Deputy Commissioners is limited to powers under S. 12(2).	None
+Rule 17 deals with a separate and independent jurisdiction in regard to the determining and taxing escaped turnovers.	Reasoning
+The provisions of S. 12 (2) are in no way in conflict with the powers conferred under Rr. 17 (1), 17(1A) and 17(3A).	Reasoning
+8.	None
+The further argument that subr.	Reasoning
+(3A) is confined to cases where the revision filed under S. 12(2) is pending is not supported by the language of that rule.	Reasoning
+Our attention was drawn to the judgment of the Madras High Court in the State of Madras v. Louis Dreyfus and Co. Ltd. (1955) 6 STC 318 at p. 328 ((S) AIR 1956 Mad 659 (FB) at p. 664).	None
+But that case does not deal with R. 3A which came into force later.	None
+9.	None
+In our opinion the order of the Him Court is erroneous and must be set aside.	Decision
+The appeal is allowed with costs.	Decision
+10.	None
+Appeal allowed.	None

@@ -1,0 +1,74 @@
+Ruma Pal, J. The assessment year in question is 197778.	None
+The issue is whether the amounts received by the assesseeappellant in respect of an abortive sale transaction of rubber trees are capital or revenue receipts ?	Issue
+The assessee is a plantation company engaged in the business of growing rubber and tea.	Facts
+In 1975, it entered into three arguments with three purchasers for sale of old rubber trees.	Facts
+Each of the purchasers paid a certain amount by way of earnest money and another amount by way of advance under their respective agreements.	Facts
+The total amount of earnest money received by the assessee under the three agreements was Rs. 75,000 and the total amount by way of advance was Rs. 3,56,300.	None
+All the three purchasers defaulted in payment of the balance amounts.	Facts
+The agreement were accordingly terminated and the amounts of earnest money and advance were forfeited by the assessee.	Facts
+The assessee filed three suits before the Subordinate Judge, Kottayam in this connection.	Facts
+The assessees right to retain the amounts of earnest money and advance was confirmed by the Court.	Facts
+In 1979, the assessee was eventually successful in selling the old rubber trees to a third party but at a loss.3.	Facts
+In the assessees return for the assessment year in question, the assessee claimed that the amounts forfeited were not taxable as revenue receipts.	Facts
+The Assessing Officer upheld the contention of the assessee.	Facts
+However, the Commissioner of Income Tax sought to revise the assessment under Section 263 of the Act and held that the amounts forfeited were revenue income and assessable to income tax.	Facts
+The assessee preferred an appeal before the Income Tax Tribunal.	Facts
+The Tribunal set aside the order of the Commissioner and restored the finding of the Assessing Officer.	Facts
+At the instance of the Revenue, the Income Tax Tribunal referred the following two questions of law for the decision of the High Court under Section 256(1) of the Act.	None
+Whether, on the facts and in the circumstances of the case, the Tribunal was right in law in holding that the sum of Rs. 3,95,229 cannot be considered to be a revenue receipt in the hands of the assessee ?	None
+(2) Whether on the facts and circumstances of the case, the Tribunal was justified in finding that the sum of Rs.	None
+3,95,229 is not the income of the assessee for this assessment year and directing the Income Tax Officer to modify the assessment ?	None
+The High Courts decision (which has been subsequently reported in 1991 Vol. 190 ITR 509 Commissioner of Income Tax v. Travancore Rubber and Tea Co. Ltd. was that the Tribunal should have kept in mind the difference between earnest money and advance while deciding the issues raised.	Facts
+The High Court delineated the difference between the legal character of the two amounts and remanded the matter back to the Income Tax Tribunal to decide the matter afresh.6.	Facts
+On remand, the Tribunal considered various terms of the agreements and came to the conclusion that the receipt by way of forfeiture of advance was not assessable as a revenue receipt but that the earnest money was a assessable as income under other sources.	Facts
+At the instance of both the assessee as well as the Revenue, the following questions were referred by the Tribunal to the High Court of Kerala for its opinion At the instance of the assessee Whether on the facts and in the circumstances of the case the Tribunal was right in law in holding that the earnest money deposit of Rs. 75,000 received by the assessee in respect of the agreements for sale of old and uneconomic rubber trees is revenue income assessable to incometax when forfeited consequent to termination of the said agreements for breach thereof by the purchasers.	None
+At the instance of the Department Whether, on the facts and in the circumstances of the case, the Tribunal is right in law and fact in holding that the receipt by way of forfeiture of advance amount arising to the assessee,  (a) is a benefit arising to the assessee in the course of its plantation business ?	None
+(b) is not or cannot be subject to tax ?	None
+Whether, on the facts and in the circumstances of the case and in view of the fact that the trees were transferred i.e. cut and removed ultimately by agreement dt. 22.7.1979, the tribunal is,  i) factually incorrect in holding that it is an undisputed fact that the trees had not been cut and removed or at least there is no evidence ?	None
+ees case, that the amounts that were with the assessee after forfeiture could not be said to have been retained by the assessee in respect of the transaction and finally, that application of Section 51 is contemplated or can be thought of at a stage prior to the execution of the agreement in question, at a stage of negotiation deal with receipt of advance or other money and retention thereof.	None
+We are, unfortunately, unable to accept the reasoning or the conclusion of the High Court.	Reasoning
+The assessee does not carry on the business of selling trees.	Reasoning
+The question whether the sale proceeds of old and unyielding rubber trees grown and used for obtaining income as latex therefrom are capital receipt and whether the sale proceeds of unyielding trees purchased many years back as yielding trees are capital receipt was answered in the affirmative by the Constitution Bench of this Court in Commissioner of Agricultural Income Tax, Kerala v. Kailas Rubber Co. Ltd., 1966 (Vol. 60) ITR 435.	Reasoning
+See also AKTM Vishnudatta Anantharajanam v. Commissioner of Agricultural Income Tax, Trivandrum, 1970(78) ITR 58.	None
+When the assessee entered into the three agreements for sale of old and unyielding rubber trees what was received by way of advance consideration was, therefore, capital receipt.	None
+Had the sale gone through there would be no question but that the consideration would be subject to capital gains.	None
+The question is does the character of the receipt change because the sale was not subsequently effected ?	None
+11.	None
+Learned counsel for the assessee relied on Morley (Inspector of Taxes) v. Tattersall, 1939(7) ITR 316 (followed in Commissioner of Income Tax v. Motor General Insurance Ltd., 94 ITR 582 (Del)(DB) Commissioner of Income Tax, Tamilnadu I v. AVM Ltd., 146 ITR 355 to contend that the quality and nature of a receipt for income tax purposes were fixed once and for all when the subject of the receipt was received and that no subsequent operation could change the nature of the receipt.	Arguments of Petitioner
+Learned counsel for the respondent countered the argument and cited Commissioner of Income Tax v. Karam Chand Thapar, 1996(10) SCC 577 where this Court noted the decisions in Jays the Jewellers Ltd. v. IRC, 29 Tax Cases 274 1947(2) All ER 762 and Elson (Inspector of Taxes v. Prices Tailors Ltd., 1963(1) aLL er 231 with approval as limiting the principle enunciated in Tattersalls case.	Arguments of Respondent
+It was held by this Court that the proposition enunciated in Tattersalls case was not absolute and that in given cases amounts which were not received initially as trading receipts could eventually be regarded as business income by reason of subsequent events.	Arguments of Respondent
+The subsequent event must be such that a different quality is imprinted event was found in the case of Jays The Jewellers (supra) where It has categorically laid down that the money which belonged to the customers and which arose out of sale of customers property could become a trading receipt when the customers did not or could not make any claim against that money in law and amount was taken by the assessee to its profit and loss account.	Arguments of Respondent
+In fact, it was emphasised that was the correct accounting practice.	Arguments of Respondent
+Atkinson, J. pointed out that a new asset could come into existence automatically by operation of law.	Arguments of Respondent
+When no demand for payment was made common sense requires that such amount should be entered into profit and loss account for the year and be treated as taxable.	Arguments of Respondent
+However, in our view, the cancellation of a sale of capital assets would not be such a subsequent event so as to change the nature of the receipt of the forfeited amounts.	None
+The specific provisions of Section 51 of the Income Tax Act, 1961 which provide for the computation of the cost of acquisition for determining the capital gains arising from the transfer of a particular asset fortify this view.	None
+Section 51 reads Advance money received.  	None
+Where any capital asset was on any previous occasion the subject of negotiations for its transfer, any advance or other money received and retained by the assessee in respect of such negotiations shall be deducted from the cost for which the asset was acquired or the written down value or the fair market value, as the case may be, in computing the cost of acquisition.	None
+(emphasis added)	None
+Thus where there is a of transfer of a capital asset, if there was a previous occasion when there were negotiations for its transfer, and if advance or other money had been received and retained by the assessee in respect of such negotiations, such amounts will in effect be added to the value of the capital asset impacting on the ultimate assessment of capital gains.	None
+For this purpose, no distinction is made between moneys received and retained by way of advance and other money.	None
+The phrase other money would cover, for example, deposits made by the purchaser for guaranteeing due performance of the contracts and not forming part of the consideration.	None
+The monies received on the previous occasions and retained by the vendorassessee cannot therefore, be treated as a revenue receipt.	None
+Section 51 to the extent states thus preserves the rule in Tattersalls case.	None
+In the case before us there were negotiations for transfer of the rubber trees in question, which did not fructify in sale.	Reasoning
+The amounts forfeited referred only to the capital asset of the assessee and were directly related to the sale of such capital asset.	Reasoning
+The Tribunal correctly held that the advance money for sale of the rubber trees formed part of the capital asset of the assessee and that the sale, if materialised, would have resulted in a gain eligible to capital gains tax, provided there is a gain arising out of the same.	Reasoning
+But the Tribunal erred in overlooking the phrase or other money in Section 51 in holding that the earnest money did not come within the purview of Section 51.	Reasoning
+No doubt, as held by the High Court in the decision reported in 1990 Vol. 190 ITR 509 (supra), there is a distinction between earnest money and advance, but that distinction looses its significance in the context of the express language of Section 51 to include other money in addition to advance.	Reasoning
+The matter may be considered from another aspect.	None
+The amount forfeited by the assessee was in terms of clause 16 of the agreement which reads In the event of the Purchaser failing to pay any of the instalments hereby agreed to be paid by him on the date specified or violating any of the terms on its part to be performed, the Vendor shall have the right and liberty to cancel all rights hereby granted to the Purchaser any time after such violation and to realise from the Purchaser forthwith in a lump the entire balance amount then remaining to be paid.	None
+In the event of the balance amount remaining unpaid on demand the purchaser will not have any claim or right over the Rubber Trees standing or cut nor can be claim from the Vendor the earnest money deposit or the instalments paid till date.	None
+(emphasis added)	None
+Such a clause has been construed as providing for compensation for breach of contract under Section 74 of the Indian Contract Act, 1872.	None
+See Maula Bux v. Union of India, AIR 1970 SC 1955 and Shree Hanuman Cotton Mills and another v. Tata Air Craft Ltd., AIR 1970 SC 1986 .	None
+In determining whether compensation received for breach of a contract is a capital or trading receipt, the relevant rule has been formulated by Diplock L., J. in London and Thames Haven Oil Wharves Ltd. v. Attweell (Inspector of Taxes) 1968(70)	Reasoning
+ITR 460 at p. 488 as Where, pursuant to a legal right, a trader receives from another person compensation for the traders failure to receive a sum of money which, if it had been received, would have been credited to the amount of profits (if any) arising in any year from the trade carried on by him at the time when the compensation is so received, the compensation is to be treated for income tax purposes in the same way as that sum of money would have been treated if it had been received, instead of the compensation.20.	Reasoning
+The logic of the principle is that the assessees right to recover the compensation was to place the assessee in the same position as if the breach had not taken place.	Reasoning
+Applying the rule to this case , if the agreed sums of money under the agreements had been received by the assessee, they would have been credited in its account as a capital receipt.	Reasoning
+That being so, the forfeited amounts must also be treated as capital receipt.21.	Reasoning
+Finally, the High Court erred in proceeding on the basis that the agreement in question were agreements for sale but did not effect a sale.	Reasoning
+The terms of the agreements clearly show that they were agreement of sale where both payment of the price and delivery were deferred.	Reasoning
+Had the purchasers paid the purchase price in the agreed instalments their right to take delivery of the trees under the agreement was complete.22.	Reasoning
+For the reasons aforesaid, we allow the appeals and set aside the order of the High Court and answer the question referred to it by the assessee in the negative.	Decision
+There will be no order as to costs.	Decision
