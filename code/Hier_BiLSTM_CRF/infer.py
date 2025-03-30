@@ -9,9 +9,9 @@ import sys
 
 
 # Import the required model and functions
-from code.Hier_BiLSTM_CRF.model.Hier_BiLSTM_CRF import Hier_LSTM_CRF_Classifier
-from code.Hier_BiLSTM_CRF.prepare_data import prepare_data_inference
-from code.Hier_BiLSTM_CRF.train import infer_step
+from Hier_BiLSTM_CRF.model.Hier_BiLSTM_CRF import Hier_LSTM_CRF_Classifier
+from Hier_BiLSTM_CRF.prepare_data import prepare_data_inference
+from Hier_BiLSTM_CRF.train import infer_step
 
 def main():
     parser = argparse.ArgumentParser(description="Infer tags for unannotated files")
