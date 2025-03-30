@@ -43,7 +43,7 @@ def prepare_data(idx_order, args):
     for doc in idx_order:
         doc_x, doc_y = [], []
 
-        doc_path = f"{args.data_path}\\file_{str(doc)}.txt"  # Ensure doc is a string
+        doc_path = f"{args.data_path}file_{str(doc)}.txt"  # Ensure doc is a string
 
         try:
             with open(doc_path, 'r', encoding='utf-8') as fp:
