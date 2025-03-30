@@ -1,4 +1,4 @@
-from code.Hier_BiLSTM_CRF.model.submodels import *
+from Hier_BiLSTM_CRF.model.submodels import *
 
 '''
     Top-level module which uses a Hierarchical-LSTM-CRF to classify.
